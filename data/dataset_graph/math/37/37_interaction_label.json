@@ -1,0 +1,148 @@
+{
+  "video_name": "37_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the definition of correlation between variables and its application in statistics; master the methods for creating and interpreting scatter plots; be able to determine whether two variables exhibit a positive or negative correlation.",
+  "transcript": "[344.82 -> 549.76] 好我们来看看我们来请这位同学分享一下子女的身高Y与父亲的身高X之间是否能由Y值确定X值的唯一呢不能精确地确定那也就是说还有可能受到其他因素的影响那我们刚才探讨了还有可能受到母亲的身高然后遗传因素等等非常好请坐那么我们一般来说有可能会受到父亲身高的影响遗传因素导致的那如果父亲长得高意味着他的孩子也会长得高父亲长得矮孩子也相对会长得矮那么我们就说父亲的身高又不能完全的决定子女的身高那也就是说他们之间有关系但是我们不能精准的刻画那我们接下来看第二个商品销售Y与广告支出X之间有怎样的联系呢来我们请这位同学来分享一下一般来说广告支出S越多商品销售商品收入Y也会也就是说商品销售广告支出越多那它的收入也会越高但是它能精准地刻画吗也不能那它会受到什么样的因素影响呢它会受到其他比如说有没有还有什么其他的可能呢可能说到这商品本身的质量比如说这个东西好那它肯定也卖得好如果它质量差那它肯定也卖得差很好请坐那也就是说广告支出越多商品销售的收入也就越高那么接下来我们看第三个空气污染指数Y与汽车保有量X之间的关系呢我们一起来看汽车的保有量X越高意味着他的污染指数就会越高因为汽车越多它排放的尾气也就会越多那也就会导致我们的污染指数在升高但是它还会受到什么其他因素的影响呢可能根据这个汽车本身比如说我是一个电车那意味着我就不会排放这个污染尾气那现在我们不能够用Y与X唯一的对应关系那我们应该怎样来研究这样的两个样变量之间的相关关系呢我们知道数学是一门严谨的学科我们时常都需要用数据来说话那现在我们不妨就用两个变量之间的数据关系来探讨一下它们之间有怎样的关系我们类比思考一下在必修一当中我们研究单个变量数据的分布特征我们采用的什么方法。\n[551.08 -> 624.44] 来我们请这位同学我们采用那个图表吧图表是用什么样的图表呢有柱状图或者折线图的图柱状图那也就是我们的频率分布直方图很好请坐那接下来我们要研究两个样本数据之间的分布特征我们能用什么样的图形来帮助我们进行解决呢那现在请同学们不妨就用X年龄为Y轴与脂肪含量为X轴来画一下它们的图像思考它们之间有怎样的关系来给大家三分钟的时间进行好我们现在来看一下刚刚小明同学所画出来的图像我们来看一下他所画出来的图是一个点一个点一个点的那根据我们前面研究函数这样的图像叫什么呢三点图对在统计上我们将由点组成的统计图就称为三点图那同学们思考观察这个三点图你们有什么样的发现呢现在请同学们以小组为单位进行合作探究时间为五分钟现在开始。\n[632.98 -> 680.26] 好我们来请这位同学来分享一下通过这幅图你有什么发现呢我发现这些点都集中在一条从左下到右上的直线进行刻画可以由左下到右上的一个直线进行刻画那就意味着意味着它们是正相关正相关那很好这位同学有的预习都知道这是一个正相关的关系那也就是说随着X的增长Y也是增长的那同样如果它是一条右下的直线呢负相关是的在数学上呢我们就讲当一个变量的值增加时另一个变量相应的值也增加的这个趋势是为正相关的非常好请坐同样的当一个变量在增加时另一个变量是随之减小的趋势我们就将这两个变量称为负相关。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the digital screen, directing attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the digital screen displaying a graph titled \"回归结果\" (Regression Results). The graph showed a line chart with data points, labeled \"自变量值\" (Independent Variable Value) and \"因变量值\" (Dependent Variable Value).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher nodded and gestured towards the graph, indicating encouragement. She pointed to specific data points on the graph, guiding the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled the term \"相关关系\" (Correlation Relationship) on the blackboard, visually confirming the student's correct understanding. She also drew a box around the graph on the screen, emphasizing its relevance to the discussion.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes \"3/1 变量的你联关系\" (3/1 Variable Correlation Relationship) on the blackboard.\n  - She points to the digital screen displaying a slide with text about correlation analysis.\n\n- **Middle:**\n  - The teacher gestures towards the class, inviting interaction.\n  - She points to the graph on the screen, highlighting the regression line and data points.\n  - The teacher writes \"相关关系\" (Correlation Relationship) on the blackboard, linking it to the screen content.\n\n- **End:**\n  - The teacher circles \"相关关系\" on the blackboard, confirming the student's input.\n  - She draws a box around the graph on the screen, reinforcing the visual connection to the lesson's focus.\n\nThis structured visual interaction supports the co-construction of knowledge, ensuring students connect theoretical concepts with graphical data.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the title \"3/1 变量的你联关系\" (3/1 Variable Correlation Relationship) and a diagram labeled \"相关关系\" (Correlation Relationship). The teacher began by gesturing towards the digital screen, which displayed a slide about correlation analysis, inviting students to engage with the content.\n\nAs the lesson progressed, the teacher pointed to the graph titled \"回归结果\" (Regression Results) on the screen, highlighting the regression line and data points. She made a sweeping gesture towards the class, signaling the start of an interactive segment. While a student explained their reasoning, the teacher walked over to the board and circled the term \"相关关系,\" reinforcing the connection between the student's input and the lesson's focus.\n\nTo validate the student's understanding, the teacher gave a distinct nod and drew a box around the graph on the screen, emphasizing its relevance. She then connected the student's explanation back to the core lesson content by drawing an arrow from the circled term on the board to the graph on the screen, illustrating the practical application of correlation analysis.\n\nThroughout the interaction, the teacher's gestures and visual cues helped students move from passively receiving knowledge to actively constructing their own understanding, linking theoretical concepts with graphical data.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Correlation Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[344.82 -> 549.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Regression Results",
+        "type": "Visual",
+        "original_text": "Screen showing regression results graph",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Independent Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[344.82 -> 549.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Dependent Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[344.82 -> 549.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Positive Correlation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[632.98 -> 680.26]"
+      },
+      {
+        "id": "c6",
+        "label": "Negative Correlation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[632.98 -> 680.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Variables' Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[344.82 -> 549.76]"
+      },
+      {
+        "id": "c8",
+        "label": "Visual Confirmation",
+        "type": "Visual",
+        "original_text": "Teacher circled 'Correlation Relationship' on board",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Scatter Plot",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[551.08 -> 624.44]"
+      },
+      {
+        "id": "c10",
+        "label": "Students' Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[632.98 -> 680.26]"
+      },
+      {
+        "id": "c11",
+        "label": "Student Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[632.98 -> 680.26]"
+      },
+      {
+        "id": "c12",
+        "label": "Graph Highlighting",
+        "type": "Visual",
+        "original_text": "Teacher pointing at graph during student response",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The regression results graph illustrates the concept of correlation."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Definition of correlation includes understanding of variables."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Positive Correlation is a concept derived from understanding of variables' interaction."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Understanding of correlation builds upon knowledge of how variables affect one another."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "encourages",
+        "intent": "Teacher's visual confirmation encourages student explanation."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Scatter plot prompts students to engage and think critically about statistical relationships."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "explains",
+        "intent": "Student explanation provides understanding of positive correlation."
+      },
+      {
+        "source": "c2",
+        "target": "c12",
+        "relation": "emphasizes",
+        "intent": "Graph on screen emphasized by teacher's gesture during student response."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

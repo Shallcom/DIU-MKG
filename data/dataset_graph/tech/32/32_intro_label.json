@@ -1,0 +1,146 @@
+{
+  "video_name": "32_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand and master the student‑centered educational philosophy; design a layered assignment system to improve teaching effectiveness; implement diversified assessment methods to promote student development.",
+  "transcript": "[0.0 -> 160.68] 关于社会发展的学生而我们通过这种单一的分数评价方式不仅会贬低学生的学习自主性并且在长此以往贴上坏学生的标签之后也有可能导致学生的逆反心理从而为我们后世的教育教学工作打下不好的基础那么我认为可以从以下几个方面来做首先每一位学生都是独特的发展中的人我们应该针对每一位学生的特色进行因材施教比如说鼓励学生发展自己的特色尝膳就诗另一方面我们也可以通过树立榜样的形式来激励班级中的其他同学比如说有同学主动的愿意坐前面来进行听课又或者是课后进来办公室提问那么像这种情况我们就可以在班里面进行极致的表扬形式通过这种方式来加强学生对课堂的进展以及内取力第二方面我认为这也是老师对于我们作业机制的一种顾忌首先作为我们老师我们可以布置有效的分层作业那么在本节课中我布置的作业是让学生完成一份电压表的说明书并且让学生通过自主提出你认为应该从哪些方面来评价同桌的电压表呢通过这样的多元评价主题让学生对自我的认知有了解最后这也是我们对课堂的教学评一体化的方式让学生在动手中找到变压表使用的一些错误方法并且互相的提出问题给出解决方法那么我们我相信当老师拥有了这样以学生为中心的思想并持着育人的本质结合着我们多元分层的作业机制以及我们鼓励动力的学生进入学生的生活中心的思维用手实践贯彻教学评一级化的课堂最终我们就能够培育出适应于社会发展的学生我的即兴讲演到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a digital slide displayed on the screen. It features a large red and yellow arrow graphic on the right side. The text on the slide is in Chinese, with the prominent heading \"神奇的灯泡\" (The Magical Light Bulb).\n\n#### 2. The Title Event\n- **Title**: The title on the screen is \"神奇的灯泡\" (The Magical Light Bulb).\n- **Teacher's Action**: The teacher is standing in front of the screen, holding papers, and appears to be presenting or reading from them. There is no indication of her physically writing or underlining the title.\n\n#### 3. The Objectives\n- **Bullet Points**: The slide includes several bullet points below the title, though they are not fully legible. They appear to outline the lesson's content or objectives, likely related to the \"Magical Light Bulb\" theme.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher is holding papers and occasionally looking at them while addressing the class. There are no specific gestures like pointing or tracing visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Elements**: The teacher stands in front of a green chalkboard and a digital screen. The screen displays a slide with the title \"神奇的灯泡\" and a graphic of a red and yellow arrow.\n- **Teacher Actions**: The teacher holds papers and appears to be reading or presenting from them. No specific gestures are noted.\n\n#### Middle\n- **Visual Elements**: The chalkboard remains unchanged, with some faint chalk marks visible. The digital slide continues to display the same content.\n- **Teacher Actions**: The teacher maintains her position, occasionally glancing at the papers. There are no significant changes in her gestures or the visual content.\n\n#### End\n- **Visual Elements**: The scene remains consistent with the initial setup. The slide and chalkboard content do not change.\n- **Teacher Actions**: The teacher continues to engage with the class, holding the papers and addressing the students without additional gestures.\n\n### Summary\nThe introduction phase of the lesson centers around the digital slide titled \"神奇的灯泡\" (The Magical Light Bulb). The teacher uses this visual as the hook to engage the class, presenting from papers without significant gestures or changes to the board or slide content. The lesson objectives are likely outlined in the bullet points below the title, though they are not fully legible. The teacher's actions are primarily focused on delivering the introduction through the provided materials.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing in front of a green chalkboard and a digital screen, holding papers. The opening visual stimulus is a slide titled \"神奇的灯泡\" (The Magical Light Bulb), featuring a prominent red and yellow arrow graphic. The teacher engages the class by presenting from the papers, maintaining focus on the digital content. The slide remains static, serving as the hook to capture student attention. Throughout the introduction, the teacher's actions are primarily centered around delivering the content from the papers, with no significant gestures or transitions observed. The visual narrative establishes a foundation by linking the intriguing concept of a \"Magical Light Bulb\" to the lesson's objectives, which are outlined in bullet points below the title. This setup likely aims to connect the students' curiosity about the hook to the broader learning goals, setting the stage for a deeper exploration of the topic. The consistent visual elements and the teacher's focused delivery create a structured introduction, preparing students for the forthcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student-centered Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Layered Assignment System",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Diversified Assessment Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Magical Light Bulb",
+        "type": "Visual",
+        "original_text": "Digital slide featuring large arrow graphic and Chinese text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Unique Student Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Intrinsic Motivation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Example-led Encouragement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Peer Review",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Feedback Exchange",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 160.68]"
+      },
+      {
+        "id": "c11",
+        "label": "Cognitive Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 160.68]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Incorporates layered assignments to enhance focus on student development."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Utilizes diversified assessment methods to support varied student learning."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Originates from recognizing unique student characteristics."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Engages students through visually intriguing content."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Develops intrinsic motivation by appreciating individual traits."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Uses motivation to foster a classroom environment driven by example-led encouragement."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "incorporates",
+        "intent": "Integrates peer review into the assignment system for collaborative learning."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Encourages feedback exchange as part of peer review."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Promotes cognitive development through engaged learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

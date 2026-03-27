@@ -1,0 +1,124 @@
+{
+  "video_name": "17_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Identify English vocabulary related to natural disasters; describe the impacts of natural disasters.",
+  "transcript": "[0.0 -> 188.70518325] 并所以接下来我会介绍这两个部分的第一我同意了这个理论语言的中心是根据选择读者的读者的读者语言能力文化和思维能力学习能力这些是英语主题课的能力我们可以帮助我们做设计设计在这些学习的过程中设计了这四个核心课程的活动设计了这四个核心设设计了这四个核心对不起大家早上好今天我们继续学习园四的自然灾害计划前我们想和您一起讨论计划所以您有一分钟可以准备与自然灾害计划的图片名称好的你找到答案了吗如果你不够你可以转到四十八页你就可以找到答案在那里好那么第一个你请说吧蜂蜜好第二个蜂蜜第三个你请说吧蜂蜜是的好第四个摩坦尼克弗拉奇摩弗弗弗拉奇摩我们会谈谈这个词的一分钟你考虑一下这个词有什么答案吗有什么想法吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is an image of a tsunami wave with the text \"Unit 4: Natural Disasters\" and \"TSUNAMI HITS ASIA, OVER 6,500 DEAD\" displayed on the screen.\n\n#### 2. The Title Event\n- **Text on Screen**: \"Unit 4: Natural Disasters\" and \"TSUNAMI HITS ASIA, OVER 6,500 DEAD.\"\n- **Teacher's Action**: The teacher stands in front of the screen, holding papers, and gestures towards the screen while speaking.\n\n#### 3. The Objectives\n- **Not Visible**: No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher uses hand gestures to emphasize points while speaking, occasionally pointing towards the screen displaying the tsunami image.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Screen Content**: The screen displays the image of a tsunami with the text \"Unit 4: Natural Disasters\" and \"TSUNAMI HITS ASIA, OVER 6,500 DEAD.\"\n- **Teacher Action**: The teacher stands in front of the screen, holding papers, and gestures towards the screen, likely introducing the topic of natural disasters.\n\n#### Middle\n- **Screen Content**: The screen transitions to a \"Lead In\" slide with images of various natural disasters and the text \"Brainstorming: some natural disasters of the process.\"\n- **Teacher Action**: The teacher turns to the blackboard and begins writing \"Unit 4\" on it, indicating the start of the lesson's title.\n\n#### End\n- **Screen Content**: The \"Lead In\" slide remains visible with images of natural disasters.\n- **Teacher Action**: The teacher continues writing on the blackboard, completing the title \"Unit 4: Natural Disasters.\"\n\n### Summary\nThe lesson introduction begins with a powerful visual of a tsunami, setting the theme of natural disasters. The teacher uses gestures to engage with the content on the screen, transitioning to a brainstorming slide. The teacher then writes the unit title on the blackboard, linking the visual content to the lesson's focus.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a screen displaying a dramatic image of a tsunami, accompanied by the text \"Unit 4: Natural Disasters\" and \"TSUNAMI HITS ASIA, OVER 6,500 DEAD.\" This visual hook immediately captures attention, setting the stage for the lesson's theme. The teacher gestures towards the screen, emphasizing the impact of the image. As the lesson progresses, the screen transitions to a \"Lead In\" slide featuring various images of natural disasters and the prompt \"Brainstorming: some natural disasters of the process.\" The teacher then turns to the blackboard, writing \"Unit 4\" to formally introduce the topic. This shift from the hook image to the brainstorming slide bridges the initial visual stimulus to the main topic, encouraging students to connect their prior knowledge of natural disasters with the upcoming lesson content. The teacher's actions of pointing to the screen and writing on the board help anchor the transition, linking the visual elements to the structured learning objectives of the unit.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Tsunami",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 188.70518325]"
+      },
+      {
+        "id": "c2",
+        "label": "Natural Disasters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 188.70518325]"
+      },
+      {
+        "id": "c3",
+        "label": "Flood",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 188.70518325]"
+      },
+      {
+        "id": "c4",
+        "label": "Earthquake",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 188.70518325]"
+      },
+      {
+        "id": "c5",
+        "label": "Volcano",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 188.70518325]"
+      },
+      {
+        "id": "c6",
+        "label": "Unit 4 Title",
+        "type": "Visual",
+        "original_text": "Unit 4: Natural Disasters",
+        "ocr_corrected": true,
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "c7",
+        "label": "Tsunami Impact",
+        "type": "Visual",
+        "original_text": "TSUNAMI HITS ASIA, OVER 6,500 DEAD",
+        "ocr_corrected": true,
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "c8",
+        "label": "Brainstorming Slide",
+        "type": "Visual",
+        "original_text": "Brainstorming: some natural disasters of the process",
+        "ocr_corrected": true,
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "c9",
+        "label": "Connecting Prior Knowledge",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[Middle -> End]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Presents the topic of natural disasters to begin the unit."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Highlights the severity of the tsunami impact in Asia."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Guides students to brainstorm examples of natural disasters."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Categorizes flood as a type of natural disaster."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Categorizes earthquake as a type of natural disaster."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Categorizes volcano as a type of natural disaster."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to use their prior knowledge during brainstorming."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

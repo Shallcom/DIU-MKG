@@ -1,0 +1,140 @@
+{
+  "video_name": "41_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Cultivate students’ questioning ability and enhance their capacity to identify problems; improve students’ ability to analyze and solve problems in authentic contexts.",
+  "transcript": "[0.0 -> 89.76] 探究问题的能力那么我认为首先在我们二零二二年科学课标中提出要创设真实情境以素养为导向那么让学生在做中学用中学创中学让我们的教育不是灌注一满水而是点燃一把火点燃学生心目当中的希望之火求知欲好奇心激发他们的主动性那么我认为要做到这些首先第一点要培养学生提问的能力俗话说提出一个问题远比解决一个问题更加的伟大那么因此我们应该在日常的学习当中课堂教学当中我们来提升学生的思辨能力让他们发现生活的当中的问题。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide features a green and white background with Chinese text. The hook object is the title of the presentation, which reads: \"溶洞中的二氧化硫\" (Sulfur Dioxide in Caves).\n\n#### 2. **The Title Event**\n- The title on the screen is prominently displayed in large black text. The teacher does not physically write this title but points towards it, ensuring it is the focal point of the introduction.\n\n#### 3. **The Objectives**\n- The slide includes several bullet points below the title, likely outlining the learning objectives or key points. These are not fully legible, but they appear to be structured as a list, possibly detailing the chemical processes or significance of sulfur dioxide in caves.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as spreading hands apart to indicate the scope or importance of the topic.\n- The teacher occasionally points towards the screen, directing attention to the slide content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing the students.\n- The screen displays the title slide: \"溶洞中的二氧化硫\" (Sulfur Dioxide in Caves).\n- The teacher gestures towards the screen, highlighting the title and possibly the objectives listed below.\n\n**Middle:**\n- The teacher continues to use hand gestures, such as open palms and pointing, to engage the audience and emphasize the significance of the topic.\n- The blackboard remains mostly blank, with some text written on the left side, possibly related to the lesson's context or previous content.\n\n**End:**\n- The teacher maintains focus on the screen, ensuring students are attentive to the introduction.\n- No additional visual content is added to the board or screen during this phase.\n\n### Summary\nThe introduction phase centers around the slide titled \"溶洞中的二氧化硫\" (Sulfur Dioxide in Caves). The teacher uses gestures to engage students, pointing to the screen to emphasize the title and objectives. The blackboard remains minimally used, keeping the focus on the digital presentation.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the front of the classroom, facing the students. The opening visual stimulus is the slide titled \"溶洞中的二氧化硫\" (Sulfur Dioxide in Caves), prominently displayed on the screen. The teacher gestures towards the title, emphasizing its importance. The slide includes bullet points below the title, likely outlining the lesson's objectives, which the teacher points to, guiding students' attention. The blackboard remains minimally used, with some text on the left side, possibly contextualizing the lesson. The teacher uses hand gestures, such as spreading hands apart and pointing, to engage the audience and highlight key aspects of the topic. The visual focus remains on the screen throughout, ensuring students are oriented towards the introduction of sulfur dioxide in caves. This setup links the new topic to students' existing knowledge of chemical processes, preparing them for a deeper exploration of the subject.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sulfur Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemical Processes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Authentic Context",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Questioning Ability",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Problem Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Analytical Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.76]"
+      },
+      {
+        "id": "c8",
+        "label": "Digital Presentation",
+        "type": "Visual",
+        "original_text": "The slide titled 'Sulfur Dioxide in Caves' is displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Bullet Points List",
+        "type": "Visual",
+        "original_text": "List likely detailing chemical processes related to sulfur dioxide in caves.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to indicate scope or importance.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Attentive Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sulfur Dioxide is a key element in chemical processes."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Authentic context encourages development of questioning ability."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Questioning ability assists in identifying problems."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Identifying problems leads to the use of analytical skills."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Analytical skills enhance problem-solving ability."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "The presentation emphasizes key objectives through bullet points."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "Digital presentation keeps students attentive and engaged."
+      },
+      {
+        "source": "c10",
+        "target": "ss1",
+        "relation": "scaffolds",
+        "intent": "Teacher scaffolds understanding by using hand gestures to engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,165 @@
+{
+  "video_name": "35_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand General Secretary Xi Jinping’s requirements for private political education teachers; analyze the core value of the six requirements and their role in education; explore how to embody the six requirements in teaching practice.",
+  "transcript": "[0.0 -> 132.52] 至关重要的作用今天我想通过习近平总书记提出的私政课教师要做到六要来展开我的集体演说首先私人课教师要做到政治要强就是要坚定马克思主义的信仰坚定对中国特色社会主义理论体系的认同坚定对中国共产党领导的信任坚定对中华民族伟大复兴的信心私人课教师只有坚定自己的信仰只有自信才能让学生信仰只有自信才能做到他信第二点我要说情怀要深私人课教师必须要有非常深厚的育人情怀要大力弘扬教育家精神只有自己有着深厚的情怀才能在自己的教学过程中感动学生习近平总书记说自己为什么会对教育路有着深厚的情感就是因为在他初中一年级的时候他的老师向他讲授教育路的时候曾经几度哽咽这就是私人课教师有情怀的表现第三自律教研私人课教师教师想要在教学中发挥至关重要的作用就要做到严格自律严于律己己生不振岂能振人私人课教师只有严于律己才能在私人课教学中发挥至关重要的作用第四我要说的是私人课教师要人格要振私人课教师是担任私人课教学的重要力量如果私人课教师没有完善的人格没有健全的人格那么他在教学过程中就不能培养学生形成一个健全的人格第五我要说的是私人课教师要做到思维要心。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide contains a red rectangular box with Chinese text: \"探索认知的奥秘——认知心理学导论\" (Exploring the Mysteries of Cognition - Introduction to Cognitive Psychology).\n\n#### 2. **The Title Event**\n- The title on the screen is \"探索认知的奥秘——认知心理学导论.\" The teacher does not physically write this; it is part of the digital presentation. The teacher points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their left hand, occasionally pointing towards the screen.\n- The teacher's right hand is used to emphasize points, possibly related to the content on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher walks towards the blackboard, which has some mathematical notations and the number \"35\" written on it.\n- The digital screen displays the title slide with the red box containing the lesson's theme.\n\n**Middle:**\n- The teacher stands in front of the class, holding papers, and begins speaking.\n- The teacher gestures with their left hand, pointing towards the screen to emphasize the title.\n- The teacher uses their right hand to reinforce points, occasionally looking at the students.\n\n**End:**\n- The teacher continues to engage with the class, maintaining focus on the screen content.\n- The blackboard remains unchanged, with the mathematical notations and \"35\" still visible.\n\n### Summary\nThe introduction phase centers around the digital slide titled \"探索认知的奥秘——认知心理学导论.\" The teacher uses hand gestures to direct attention to the screen, linking their verbal introduction to the visual content. The blackboard retains previous mathematical content, suggesting continuity or context for the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing near the blackboard, which displays mathematical notations and the number \"35.\" The hook is a digital slide on the screen, featuring a red box with the text \"探索认知的奥秘——认知心理学导论.\" The teacher holds papers and gestures with their left hand, directing attention to the screen. As the teacher speaks, they point towards the title, emphasizing its significance. The blackboard remains unchanged, suggesting a connection to previous content. The teacher uses hand movements to engage the class, occasionally looking at the students to ensure understanding. This visual setup bridges the hook to the main topic by maintaining focus on the screen's title, linking the introduction to cognitive psychology with the students' existing knowledge framework. The consistent reference to the screen helps establish the lesson's theme, preparing students for the exploration of cognitive concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Political Education Requirements",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Marxism Belief",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Socialism Theory Recognition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Trust in Communist Leadership",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Revitalization Confidence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Emotional Connection to Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Self-Discipline",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Personality Integrity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "c9",
+        "label": "Teachers' Cognitive Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Cognitive Psychology Introduction Slide",
+        "type": "Visual",
+        "original_text": "Exploring the Mysteries of Cognition - Introduction to Cognitive Psychology",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Mathematical Notations",
+        "type": "Visual",
+        "original_text": "Mathematical symbols and number '35' on the blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Political education requires strong belief in Marxism."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Political education includes recognition of socialism theory."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Political education involves trust in communist leadership."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Political education fosters confidence in national revitalization."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Emotional connection to education is vital for political education."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Political education emphasizes self-discipline."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Political education requires personality integrity."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Teachers play a crucial role in cognitive impact through political education."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide introduces the theme of cognitive psychology as part of the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The mathematical notations provide context for the introduction phase."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "engages",
+        "intent": "The cognitive psychology slide captures students' attention."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,205 @@
+{
+  "video_name": "41_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Students will be able to identify and apply the formula for the sum of the first n terms of a geometric sequence; students will be able to understand the derivation of the geometric‑sequence sum formula through deduction; students will be able to use knowledge of geometric sequences to solve real‑world problems.",
+  "transcript": "[240.0 -> 264.12] 下面是我的模拟授课环节上课同学们好同学们在遥远的古印度时期曾有这样一个问题国文为了奖励印度国际象棋的发明者想问他要什么这位发明者提出这样一个问题我们请看在一个棋盘格中第一个格子放一粒麦子第二粒放两粒第三粒格子放二的平方也就是四粒麦子一次累推每个格子放的麦粒数都是前一个格子麦粒数的两倍一直放满棋盘中的六十四个格子那么请大家思考国王需要放多少粒麦子呢请大家在钞票纸上写一写嗯很好好加二的平方大家刚刚我看到同学们呢都写出了这样一个式子一加二的平方加二的三次方一直加加到二的六是三次方其实根据我们上堂课所学过的等比数列的知识啊我们可以得到这个问题呢其实啊就是。\n[269.0 -> 283.26] 这样一个数列那么我们现在要求出这个数列的前恩相合我们要如何进行解决呢。\n[285.3 -> 342.46] 有哪位同学有思路呢没有同学举手那么我们在解决这个问题之前我们先来回顾我们之前所学的短叉数列的前恩相合在前面的几节课中啊我们学习了等差数列的前项和公式我们是如何进行推导的呢首先我们先将等差数列的通向写出然后将通向带入它的前项和公式中表示得到这个式子得到了这个式子之后我们通过观察可以发现什么对第一项加上最后一项其实啊就等于第二项加倒数倒数第二项等于第三项加倒数第三项我们就得到了这样一个等式我们将这个等式进行化解之后可以发现在等差数列中A一加AN等于A二加AN减一如此一直等下去等于AN加A一。\n[343.46 -> 369.08] 有了这个式子之后啊我们得到了一个解决问题的关键步骤根据这个关键步骤我们采用了倒序相加法在根据倒序相加法呀将两个式子颠倒之后进行四则运算然后就可以化解得出的这个公式那么我们能否类比倒序相加法直接求出这里的钱相和呢。\n[370.62 -> 451.48] 大家写一写其实这里不好意思老师这里写错了一加二加四那么我们倒过来四加二加一很明显倒序相加法是不能直接类比的我们不能类比它的形式因此我们在这里优先考虑我们要类比求和的本质那么求和的本质是什么呢我们回过头来看刚刚的这四步第一步实际上是用通向公式表示其前向和公式而第二步是找其数量关系在这里我们找的是在这个式子中式相与相之间的数量关系而找到这个关系之后我们其实就是得到这个红色的关键桥梁也就是我们关键的等式根据这个关键等式启发我们将式与式进行运算最后我们消去了式子中的中间相只保留了A相和AN相通过化解之后就得到了我们的这样一个结论那么我们类比过来看在等比数列中能否也有这样的类比呢。\n[455.8 -> 473.3] 首先我们仍然试将它的公式SN写为A一加A二好一直加加到AN下根据刚刚的第一步我们应该怎么做。\n[474.4 -> 480.32] 很好首先用它的风向将其表示出来。\n[485.92 -> 505.26] 我们既要找相与相之间的关系同时呢也要在事与事之间建立一些联系所以我老是在将这个式字腾超一遍。\n[510.18 -> 517.08] 那么请大家先观察思考在这里相与相之间有怎样的关系。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a chessboard problem.\n- The chalkboard shows the equation $2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5$.\n- The teacher points to the digital screen, which contains a problem statement in Chinese and a chessboard image. The teacher's gestures indicate the chessboard and the text, likely explaining the problem context.\n\n**Middle:**\n- The teacher writes $a_6 = 2^6$ on the chalkboard, extending the sequence.\n- The digital screen updates to show a mathematical derivation involving $S_n$ and $2S_n$, with steps leading to a formula.\n- The teacher points to specific parts of the derivation on the screen, tracing the steps of the proof. She highlights the transformation from $S_n$ to $2S_n$ and the subtraction process.\n\n**End:**\n- The teacher writes $S_n = a_0 + a_1 + a_2 + \\ldots + a_n$ on the chalkboard, followed by $a_0 + a_1r + a_2r^2 + \\ldots + a_nr^n$.\n- She gestures towards the newly written formulas, explaining their significance.\n- The digital screen remains static, displaying the completed derivation and final formula.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying a mathematical derivation related to a geometric series. It includes:\n     - A problem statement with a chessboard image.\n     - A step-by-step derivation involving $S_n$ and $2S_n$.\n     - The final formula for the sum of a geometric series.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:**\n     - The teacher writes $a_6 = 2^6$ on the chalkboard, extending the initial sequence.\n     - She adds the general form of the series $S_n = a_0 + a_1 + a_2 + \\ldots + a_n$ and its transformed version with a common ratio $r$.\n   - **Modifications:**\n     - No erasures are observed; the teacher builds upon existing content.\n   - **Deictic Gestures:**\n     - The teacher points to specific lines in the derivation on the screen, such as the subtraction step $2S_n - S_n$.\n     - She gestures towards the final formula on the screen while explaining its derivation.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses her finger to trace and emphasize key steps in the derivation on the digital screen.\n   - She writes key formulas on the chalkboard in a sequential manner, highlighting the progression from specific to general forms.\n   - The use of the chalkboard alongside the digital screen creates a layered emphasis, reinforcing the transition from problem statement to general solution.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a chessboard problem alongside a mathematical sequence $2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5$, establishing the visual anchor for the lesson. The teacher began by pointing to the chessboard image, tracing its connection to the sequence, and explaining the problem context. She then constructed the next term $a_6 = 2^6$ on the chalkboard, extending the sequence and setting the stage for a deeper exploration.\n\nAs the lecture progressed, the teacher derived a general formula for the sum of a geometric series. She annotated the digital screen, tracing the transformation from $S_n$ to $2S_n$ and highlighting the subtraction step $2S_n - S_n$ to illustrate the derivation process. Her gestures emphasized key transitions, such as pointing to the final formula on the screen, which became the focal point of the explanation.\n\nFinally, she constructed the general form of the series on the chalkboard, writing $S_n = a_0 + a_1 + a_2 + \\ldots + a_n$ and its transformed version with a common ratio $r$. By aligning her verbal explanations with these visual additions, she reinforced the concept of geometric series summation. The teacher circled the final formula on the digital screen, using visual emphasis to underscore its importance and ensure clarity.\n\nThroughout the lesson, the integration of the digital screen and chalkboard reduced cognitive load by providing a layered visual approach. The step-by-step construction on the board complemented the detailed derivation on the screen, allowing students to follow the progression from specific examples to general principles seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geometric Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 264.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Chessboard Problem",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 264.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Sum of Geometric Sequence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[269.0 -> 283.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Formula Derivation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[285.3 -> 342.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Common Ratio",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[285.3 -> 342.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Subtraction Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[343.46 -> 369.08]"
+      },
+      {
+        "id": "c7",
+        "label": "General Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[370.62 -> 451.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Recursive Relationship",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[455.8 -> 473.3]"
+      },
+      {
+        "id": "c9",
+        "label": "Visual Chessboard",
+        "type": "Visual",
+        "original_text": "Chessboard image with problem statement",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Equation on Chalkboard",
+        "type": "Visual",
+        "original_text": "2^0 + 2^1 + 2^2 + 2^3 + 2^4 + 2^5",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Extended Sequence",
+        "type": "Visual",
+        "original_text": "a_6 = 2^6",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Derivation Steps",
+        "type": "Visual",
+        "original_text": "Mathematical derivation involving S_n and 2S_n",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Final Formula",
+        "type": "Visual",
+        "original_text": "S_n = a_0 + a_1r + a_2r^2 + ... + a_nr^n",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Writing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[240.0 -> 264.12]"
+      },
+      {
+        "id": "s2",
+        "label": "Students Observing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[285.3 -> 342.46]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The concept of a geometric sequence is introduced through the chessboard problem."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "The sum of a geometric sequence is derived from the basic concept of a geometric sequence."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The derivation process builds upon the principle of summing a geometric sequence."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The derivation process includes the concept of a common ratio."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The subtraction method is used as part of the derivation process."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The general formula for the sum of a geometric sequence evolves from the specific derivation."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The general formula includes the recursive relationship between terms."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The chessboard image visualizes the problem context."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The equation on the chalkboard visualizes the initial terms of the geometric sequence."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The extended sequence visualizes the next term in the geometric sequence."
+      },
+      {
+        "source": "c12",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The derivation steps on the digital screen visualize the process of deriving the formula."
+      },
+      {
+        "source": "c13",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The final formula on the chalkboard visualizes the general solution."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Students engage with the chessboard problem by writing down their thoughts."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "engages_with",
+        "intent": "Students observe the derivation process on the digital screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,100 @@
+{
+  "video_name": "2_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Students will be able to identify and describe cultural differences between China and the United States; students will be able to carry out basic English‑Chinese translation exercises.",
+  "transcript": "[197.06 -> 425.38] 在这堂课中我将分享一些我们中国文化的情报像是中国语言的名称中国语言所以在前一堂课我们看到了美国和加拿大不同的文化所以在这堂课中我们将探索一下美国的中国语言所以在这堂课中传进去的方令提示去翻译奥特斯特特安德贝尼奥德特斯艾玛克雷尔萨列斯瑞德特斯安德安德翻译奥特斯特斯奥特斯萨斯萨斯�喂汤米桑我什么狗欧斯欧米狗欧斯要说我听得看那是说我们可以学到的这个词是什么呢是这个词的主题是吧你请说吧是的我喜欢你的回答所以这意味着导师在介绍旅游者或甚至外国旅游者的文化好那么最后的问题是如何让写者组织写的词呢。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the text \"Welcome to Chinatown!\".\n- The teacher is wearing a light blue shirt with a green lanyard and a badge.\n- The chalkboard initially has the text \"Welcome to Chinatown\" written in white chalk.\n- To the right, there are colored markers (green, yellow, red) and Chinese characters written vertically.\n\n**Middle:**\n- The teacher turns to the chalkboard and writes \"An Introduction\" below \"Welcome to Chinatown\".\n- The teacher draws a vertical line and a horizontal line, creating a T-shape next to the text.\n- The teacher gestures towards the text and diagram while speaking, occasionally pointing to the digital screen.\n\n**End:**\n- The teacher continues to gesture, emphasizing the diagram on the chalkboard.\n- The digital screen remains unchanged, displaying the same questions about the text content and organization.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the chalkboard with the text \"Welcome to Chinatown\" and the diagram labeled \"An Introduction\".\n- The diagram consists of a T-shape, indicating a structural layout for an introduction.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"An Introduction\" below the main title.\n  - Draws a T-shaped diagram to illustrate the structure of the introduction.\n- **Modifications**: \n  - No erasures or modifications are observed; the teacher only adds to the existing content.\n- **Deictic Gestures**: \n  - The teacher points to \"An Introduction\" and the T-shape while explaining, linking the visual elements to the spoken content.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the T-shape and the text \"An Introduction\".\n- No specific color coding or additional markings are used for emphasis.\n\nThis structured visual evolution shows the teacher's method of introducing and explaining the concept of structuring an introduction, using both written and gestural cues to enhance understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the welcoming phrase \"Welcome to Chinatown\" alongside a digital screen posing questions about text content and organization. The teacher, equipped with a green lanyard and badge, began by constructing a foundational concept on the chalkboard. He wrote \"An Introduction\" beneath the main title, establishing the primary visual anchor for the lesson. \n\nAs the lecture progressed, the teacher derived a structural framework by drawing a T-shaped diagram next to the text, symbolizing the organization of an introduction. He meticulously annotated the diagram, using deliberate gestures to trace the vertical and horizontal lines, illustrating the flow and components of the introduction. \n\nThroughout the explanation, the teacher resolved deixis by pointing to specific parts of the diagram and text, ensuring clarity. For instance, he emphasized \"An Introduction\" and the intersecting lines of the T-shape, linking these visual elements to his verbal instructions. \n\nTo highlight key points, the teacher employed strategic gestures, directing attention to the diagram's structure without additional color coding. This methodical visual construction, combined with the static questions on the digital screen, worked synergistically to reduce cognitive load. The evolving chalkboard content provided a dynamic visual aid, allowing students to follow the conceptual development step-by-step, from initial title to structured introduction framework. Finally, he reinforced the layout by reviewing the diagram, ensuring the visual and verbal elements cohesively delivered the lesson's core message.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultural Differences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[197.06 -> 425.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Basic English-Chinese Translation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[197.06 -> 425.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Introduction Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[197.06 -> 425.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Welcome to Chinatown Text",
+        "type": "Visual",
+        "original_text": "Welcome to Chinatown",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "T-shaped Diagram",
+        "type": "Visual",
+        "original_text": "Diagram indicating introduction structure",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Digital Screen with Questions",
+        "type": "Visual",
+        "original_text": "Digital screen displaying questions about text content and organization",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Exploration of cultural differences includes language translation task."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Cultural theme visually represented by 'Welcome to Chinatown' text."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Introduction structure explained through T-shaped diagram."
+      },
+      {
+        "source": "v3",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Digital screen questions engage students in critical thinking about content."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Structure of an introduction builds upon understanding of cultural content."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Engaged students actively participate in translation exercises."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

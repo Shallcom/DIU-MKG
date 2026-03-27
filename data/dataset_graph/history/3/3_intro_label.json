@@ -1,0 +1,147 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "- Understand the new requirements for history education under the new curriculum reform.  \n- Analyze the relationship between student‑centered education and the traditional “strict teacher produces outstanding students” philosophy.  \n- Master concrete methods for improving teachers’ professional competence and instructional abilities.",
+  "transcript": "[0.0 -> 90.0] 而传统教育强调严师出高徒对此有些老师就产生了疑惑认为生本教育和严师出高徒似乎有点矛盾对此我认为生本教育和严师出高徒并不矛盾要让严师品格为学生发展保驾护航对此我有如下三个方面的思考第一提升教师本领有道是要给学生一杯水自己要有一桶水在当前的信息时代对于简单知识的获取可谓是非常的便捷那么教师如何在学生心中立住自己的威望呢我想就是扎根于专业知识的提高和教师技能的培养第二要转变教学理念以历史学科为例随着新课程改革脚步的推进对于历史知识的考察并不仅仅像过去一样专注于背景过程结果这些单一的知识而是考察学生能否在新情境下合适的合理的迁移知识这就要求教师改变原来满堂贯的教学模式做到用教材教而不是教教材第三注重课堂生成由于学生思维的发散性我们无法在教学设计当中全部不预设学生的课堂回答因此就要求教师能够捕捉到学生在课上的一些灵光乍现之处真正做到以学生为中心最后我想用素质教育实施手册中的一句话来结束我今天的演讲那就是我们的历史教育应该教给学生的是带得走的素养而非背不动的书包我相信要让严实品格做到为学生发展保驾护航就应该做到提升教师本领转变教学理念注重课堂生成这样我们才能更好地服务学生塑造学生成就学生以上就是我极其讲演的全部内容下面开始我的模拟上课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is an image on the screen depicting a historical scene with multiple figures, possibly representing a significant diplomatic event. The image is accompanied by text in both English and Chinese.\n\n#### 2. The Title Event\n- **Title**: \"The new diplomacy\" is written on the screen.\n- **Teacher's Action**: The title is displayed on the screen, and the teacher stands beside it, occasionally gesturing towards it while speaking.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly visible in the frames provided.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher holds a piece of paper and gestures with their free hand, likely emphasizing points related to the image and title on the screen.\n\n### Structured Chronological Log\n\n#### Beginning\n- **Visual Content**: The screen displays an image of a historical scene with the title \"The new diplomacy\" and Chinese text.\n- **Teacher Action**: The teacher stands in front of the screen, holding a piece of paper, and begins speaking. They gesture with their free hand, likely introducing the topic.\n\n#### Middle\n- **Visual Content**: The image and title remain on the screen.\n- **Teacher Action**: The teacher continues to gesture, possibly explaining elements of the historical scene or the concept of \"new diplomacy.\" Their gestures direct attention to the screen content.\n\n#### End\n- **Visual Content**: The screen content remains unchanged.\n- **Teacher Action**: The teacher continues to engage with the audience, using hand gestures to emphasize key points related to the displayed image and title.\n\n### Summary\nThe lesson introduction focuses on the concept of \"new diplomacy,\" visually anchored by a historical image. The teacher uses gestures to link their explanation to the visual content, maintaining engagement with the audience throughout the introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a historical image depicting a significant diplomatic event, accompanied by the title \"The new diplomacy\" and Chinese text. This visual hook immediately captures attention, setting the stage for the lesson. The teacher, holding a piece of paper, gestures with their free hand, likely drawing connections between the image and the broader concept of diplomacy. Throughout the introduction, the teacher's gestures remain focused on the screen content, emphasizing key elements of the historical scene. The visual aid remains consistent, reinforcing the main topic without transitioning to additional slides. By grounding the discussion in this historical context, the teacher likely aims to link the concept of new diplomacy to students' existing understanding of historical events, preparing them to explore its implications in contemporary settings. This approach helps bridge prior knowledge with new insights, facilitating a smoother transition into the core lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student-Centered Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Strict Teacher Philosophy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Improving Teacher Competence",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c4",
+        "label": "New Diplomacy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Professional Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher's Gestures",
+        "type": "Visual",
+        "original_text": "Gestures with a free hand to highlight image details",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Historical Scene",
+        "type": "Visual",
+        "original_text": "Image of a significant diplomatic event with English and Chinese text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Curriculum Reform",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c10",
+        "label": "Knowledge Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c11",
+        "label": "Teaching Philosophy Change",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c12",
+        "label": "Student Cognitive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c13",
+        "label": "History Education Goals",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student-centered education is contrasted with, yet not opposed to, the strict teacher philosophy."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Improving teaching competence requires a foundation of professional knowledge."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The concept of new diplomacy is visually represented by the historical scene image."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The teacher's gestures emphasize elements of the historical scene."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Curriculum reform necessitates changes in teaching philosophy."
+      },
+      {
+        "source": "c1",
+        "target": "c13",
+        "relation": "includes",
+        "intent": "Student-centered learning is part of the broader goals of history education."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Knowledge application in new contexts is furthered by curriculum reform."
+      },
+      {
+        "source": "c3",
+        "target": "c12",
+        "relation": "prompts_thinking",
+        "intent": "Improving teacher competence engages students cognitively."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,165 @@
+{
+  "video_name": "49_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Be able to analyze the characteristics of matter from both qualitative and quantitative perspectives; learn to use proportional and extrapolation methods to solve problems involving minute quantities.",
+  "transcript": "[714.88 -> 813.98] 那么她刚才说她无法衡量这个问题中的一滴水你看她就把问题开始进行了定什么分析呀我们现在定性地知道分子非常大小和分子应该是小且多的这是我们从定性的角度来分析那好作为一个合格的高中生啊我们不仅要能定性地分析一个物质我们还要对它进行定量分析那好他刚才说啊老师这个问题本身就有问题一滴水我怎么知道你这一滴水它的体积是多大是不是啊所以他给老师举了个例子他说呀就像一个盒子里盛满了小沙粒我想知道一滴水它有多少或者说一滴水的体积我就可以啊通过怎么样用一杯水知道一大杯水的体积然后把它怎么样除以它的爱由大化小由一杯水推倒到一滴水也就是以多为少那好接下来老师请同学回答一下问题一点五好我们讲课结束请各位老师批评举证感谢大家的联系了好我用擦肥皂吗不用不用好放心。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a mixture of text and diagrams.\n   - The layout includes a central heading in Chinese, with a diagram illustrating the concept of molecules and water filtration. There are also mathematical expressions and annotations around the diagram.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main heading: \"实验、用油膜法估测油酸分子的大小\" (Experiment, using the oil film method to estimate the size of oil acid molecules).\n   - Diagram: Shows a water molecule and a filtration process.\n   - Mathematical expressions: \n     - $\\frac{V}{S} = \\frac{1 \\text{ mL}}{1000}$\n     - $\\frac{1}{1000}$\n   - Annotations: \"水珠 = 分子\" (Water droplet = molecule), \"水分子\" (Water molecule), \"油酸分子\" (Oil acid molecule), \"由大→小\" (From large to small).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram of the water molecule and the filtration process, emphasizing the relationship between water droplets and molecules.\n   - The teacher gestures towards the mathematical expressions, likely explaining the calculations involved in estimating molecular size.\n   - The teacher circles the phrase \"由大→小\" (From large to small) to highlight the concept of size reduction in the experiment.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen displays a slide with a faucet illustration and text, but no additional instructions for next steps are visible.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the experiment to estimate the size of oil acid molecules. The teacher visually reviews the content by pointing to the diagram of the water molecule and filtration process, emphasizing the relationship between water droplets and molecules. She gestures towards the mathematical expressions, highlighting the calculations involved. Finally, she circles the phrase \"由大→小\" (From large to small), reinforcing the core concept of size reduction in the experiment. There is no visible homework or next-step instruction presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Matter Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Qualitative Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Quantitative Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Molecule Size",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Oil Film Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Proportional Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Extrapolation Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Water Molecule",
+        "type": "Visual",
+        "original_text": "Diagram of water molecule and filtration process",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Mathematical Expression",
+        "type": "Visual",
+        "original_text": "Mathematical expressions related to molecule size estimation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Size Reduction Concept",
+        "type": "Visual",
+        "original_text": "Text 'From large to small' emphasized",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Oil Acid Molecule",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[714.88 -> 813.98]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Matter characteristics include both qualitative and quantitative analyses."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Matter characteristics include both qualitative and quantitative analyses."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Qualitative analysis evolves from understanding molecule size."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The oil film method builds upon the concept of molecule size."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Proportional methods build upon the concept of quantitative analysis."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Extrapolation methods build upon the concept of quantitative analysis."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The diagram visualizes the concept of water and molecule size."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Mathematical expressions visualize calculations related to molecule size."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The text emphasizes the concept of size reduction from large to small."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding of oil acid molecules builds upon the concept of molecule size."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of quantitative analysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,177 @@
+{
+  "video_name": "28_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Be able to identify the term relationships and contributions within plane vectors; understand and master the content and applications of the basic theorem of plane vectors.",
+  "transcript": "[439.82 -> 443.24] 那么同学们我们来观察一下这时候项量OM和项量ON与项量E一项量E二有怎样的关系呢。\n[444.86 -> 532.72] 项量OM与项量E一是贡献的那么根据两项量贡献的充要条件我们可以得到项量OM等于N的项量E一同理可以得到欧恩等于南达向量一二那么为了区别我们要将南达下面加上它们对应的下角标这是两个根据不同的不同贡献情况下所得到的存在唯一的实数对不对那么通过代换我们才能够得到的实数对不对那么通过代换我们可以得到向向量A的式子老师写在这一边向量A这时候等于向量OM表示为南达一向量E一加上南达二向量E二这里其中我们要注意向量E一与向量E二是是无贡献的那么这时候我们就得到了我们今天所要学习的六点三点一节。\n[537.56 -> 559.81] 平面向量的基本定理如果项链E一与项链E二是同一平面内的两不共线的项链那么对于在这一平面内的任意项链项链A由且只有一对时数num打一和num打二使得向量A等于num打E一num打向量E一加上num打二向量E二那其中向量E一和向量E二它们是不共线的我们可以将向量E一向量E二叫做表示这一平面内所有向量的项目是不共线的我们可以将向量E一向量E二叫做表示这一平面内所有向量的项目是不共线的我们可以将向量E一向量E二叫做表示这一平面内所有向量的项目是不共线的我们可以将向量E一向量E二叫做表示这一平面内所有向量的项目是不共线的我们可以将向量E一向量E二叫做表示这一平面内所有向量的项目是不共线的我们可以将向量E一向量E二向量E二向量E二一个基底。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the diagram on the blackboard, which included vectors $\\vec{a}$ and $\\vec{b}$, along with the equation $\\vec{a} = \\lambda \\vec{b}$. The teacher also referred to the text on the digital screen, which posed the question about the necessary and sufficient condition for two vectors to be collinear.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the vectors $\\vec{a}$ and $\\vec{b}$ on the blackboard, emphasizing the relationship between them as described by the equation $\\vec{a} = \\lambda \\vec{b}$. The teacher also gestured towards the digital screen, highlighting the text to reinforce the connection between the visual diagram and the theoretical question.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher wrote additional notes on the blackboard, specifically adding the phrase \"怎么证?\" (How to prove?) next to the diagram. This visual addition served to validate the student's input by acknowledging the need for a proof and guiding the class towards the next step in the discussion. The teacher also nodded and used hand gestures to affirm the student's contribution, creating a positive reinforcement loop.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher starts with a sweeping gesture towards the class, signaling the start of an interactive segment.\n  - The blackboard displays vectors $\\vec{a}$ and $\\vec{b}$ with the equation $\\vec{a} = \\lambda \\vec{b}$, and the digital screen poses the question about collinear vectors.\n\n- **Middle:**\n  - The teacher points to the vectors $\\vec{a}$ and $\\vec{b}$ on the blackboard while a student responds, emphasizing the equation $\\vec{a} = \\lambda \\vec{b}$.\n  - The teacher gestures towards the digital screen, linking the student's response to the text displayed.\n\n- **End:**\n  - The teacher writes \"怎么证?\" (How to prove?) on the blackboard next to the diagram, visually confirming the need for a proof.\n  - The teacher nods and uses hand gestures to affirm the student's input, guiding the class towards further discussion.\n\nThis structured visual interaction effectively co-constructs knowledge by linking gestures, board content, and digital display to facilitate student engagement and understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed vectors $\\vec{a}$ and $\\vec{b}$ with the equation $\\vec{a} = \\lambda \\vec{b}$, alongside a diagram illustrating their relationship. The digital screen posed the question about the necessary and sufficient condition for two vectors to be collinear. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem and share their thoughts.\n\nAs a student began to respond, the teacher moved to the blackboard, pointing to the vectors $\\vec{a}$ and $\\vec{b}$ to emphasize the equation $\\vec{a} = \\lambda \\vec{b}$. While the student explained their reasoning, the teacher walked over to the board and wrote down key terms and steps of the student's explanation, visually reinforcing the discussion. The teacher also gestured towards the digital screen, linking the student's response to the text displayed, ensuring the class followed the connection between the visual diagram and the theoretical question.\n\nTo validate the student's input, the teacher wrote \"怎么证?\" (How to prove?) next to the diagram on the blackboard, signaling the need for a proof and guiding the class towards the next step. The teacher gave a distinct nod and used hand gestures to affirm the student's contribution, creating a positive reinforcement loop.\n\nFinally, the teacher drew an arrow on the blackboard connecting the student's explanation back to the main theorem discussed earlier, linking the interactive discussion to the core lesson content. This visual connection helped students see how their response fit into the broader context of the lesson, moving them from passively receiving knowledge to actively constructing their own understanding through guided interaction and visual reinforcement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Plane Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[439.82 -> 559.81]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector OM",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[439.82 -> 532.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Vector ON",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[439.82 -> 532.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Vector E1",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[439.82 -> 532.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Vector E2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[439.82 -> 532.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Collinear Vectors Condition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[439.82 -> 559.81]"
+      },
+      {
+        "id": "c7",
+        "label": "Equation a = lambda b",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[439.82 -> 559.81]"
+      },
+      {
+        "id": "c8",
+        "label": "Proof Requirement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[444.86 -> 559.81]"
+      },
+      {
+        "id": "c9",
+        "label": "Vectors Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[439.82 -> 559.81]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of vectors a and b, equation a = lambda b.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Text",
+        "type": "Visual",
+        "original_text": "Question about necessary and sufficient collinearity condition.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Class Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes vector OM in terms of vector E1."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Describes vector ON in terms of vector E2."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Explains the need for proving vectors' relationship."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Collinearity condition builds upon the equation a = lambda b."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The equation is depicted on the blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "The digital screen question aids in understanding collinear conditions."
+      },
+      {
+        "source": "s1",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Student's response encourages exploration of vectors relationship."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Vectors relationship extends the concept of plane vectors."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "Blackboard visual summarizes collinearity condition."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Engagement with plane vectors concept."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Use of vector E2 to explain vectors relationship."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Use of vector E1 to explain vectors relationship."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

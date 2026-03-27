@@ -1,0 +1,146 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of pure imaginary numbers and their relationship with real numbers; master the criteria for judging equality of complex numbers.",
+  "transcript": "[635.48 -> 643.7] 实数记作A吧那如果说这个时候A等于零就只剩下虚部BI它是一个虚数对。\n[644.94 -> 652.24] 它叫做纯虚数因为这个时候实数A已经不存在了就叫做纯虚数。\n[655.36 -> 657.4] 接下来我们再来思考一个问题。\n[659.02 -> 663.38] 那当什么时候两个负数是相等的呢。\n[665.06 -> 688.52] 我们说要判断两个数是相等的是不是对于负数来说就要判断它的实部相等虚部也要相等所以如果说一个负数A加BA它是相等的那对于A是A和对于十部的A和C是相等的B和D也是相等的对不对。\n[689.7 -> 701.6] 好这里有个口诀叫做十对十虚对虚好接下来我们再来看一下那十数集和负数集之间有什么样的关系呢。\n[705.6 -> 716.26] 好大家不妨在草稿纸上动手来画一画写一写看看有什么关系或者说有没有什么简洁的图形可以表达出来。\n[718.9 -> 763.12] 如果说实在思考不出来我们可以结合一下教材的右方这个七点一点一这个图看一看自己是否能够理解实数与虚数之间的关系呢好老师这里把这个图画出来了如图所示实数与虚实数实数级比虚数值的关系是这样的那大家对于这个图有什么思考或者想法吗或者你有什么不懂的地方诶他为什么是这样好这位同学你来说一下时间到好我是模拟授课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the digital screen.\n   - The chalkboard displays two main sections:\n     - On the left: Definitions and equations related to complex numbers.\n     - On the right: A quadratic equation and its solution.\n   - The digital screen shows a summary slide with text and a Venn diagram.\n\n2. **Key Knowledge Items (Content View)**:\n   - Chalkboard:\n     - $a + bi \\ (a, b \\in \\mathbb{R})$\n     - $a + bi = c + di \\Rightarrow a = c, b = d$\n     - $bc \\neq 0 \\Rightarrow$ Pure imaginary number\n     - $x^2 + 1 = 0$\n     - $x^2 = -1$\n     - $x = \\pm i$\n   - Digital Screen:\n     - Title: \"复数的概念\" (Concept of Complex Numbers)\n     - Text: \"实数和虚数有什么关系？\" (What is the relationship between real and imaginary numbers?)\n     - Venn diagram illustrating the relationship between real numbers, imaginary numbers, and complex numbers.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the chalkboard, pointing to the equations and definitions written on the left side.\n   - She moves her hand to the right side of the chalkboard, emphasizing the quadratic equation and its solution.\n   - The teacher turns to the digital screen, pointing to the Venn diagram and the text, highlighting the relationship between real and imaginary numbers.\n\n4. **Transition to Next Step**:\n   - The digital screen briefly displays a slide with text that may indicate further instructions or homework, but it is not fully visible in the provided frames.\n   - No explicit homework or assignment details are visible in the frames provided.",
+  "visual_narrative": "The lesson concludes with a summary displayed on both the chalkboard and the digital screen. The chalkboard features key equations and definitions related to complex numbers, including $a + bi \\ (a, b \\in \\mathbb{R})$ and the solution to $x^2 + 1 = 0$. The digital screen presents a Venn diagram illustrating the relationship between real and imaginary numbers. The teacher visually reviews the content by pointing to each equation and definition on the chalkboard, then turns to the screen to highlight the Venn diagram. She emphasizes the connection between real and imaginary numbers, reinforcing the core concept of complex numbers. The visual focus remains on the summary elements, with no explicit homework or next-step instructions visible in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Complex Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.48 -> 643.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Equality of Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[659.02 -> 663.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Pure Imaginary Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.94 -> 652.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Real Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.48 -> 643.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Imaginary Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.48 -> 643.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Quadratic Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[644.94 -> 652.24]"
+      },
+      {
+        "id": "c7",
+        "label": "Solution x=±i",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.94 -> 652.24]"
+      },
+      {
+        "id": "c8",
+        "label": "Venn Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating relationship between real numbers, imaginary numbers, and complex numbers.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Chalkboard Left Side",
+        "type": "Visual",
+        "original_text": "Displays definitions and equations related to complex numbers.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Chalkboard Right Side",
+        "type": "Visual",
+        "original_text": "Displays a quadratic equation and its solution.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Complex numbers include real parts."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Complex numbers include imaginary parts."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Pure imaginary numbers are illustrated with solutions x=±i."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Equality judgement is a subset principle within complex numbers."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Quadratic equation leads to solutions x=±i."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Chalkboard section visualizes complex numbers."
+      },
+      {
+        "source": "c10",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Chalkboard section visualizes the procedure for solving the quadratic equation."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Venn Diagram on digital screen highlights complex number relationships."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "engages",
+        "intent": "Students are engaged with the concept of complex numbers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

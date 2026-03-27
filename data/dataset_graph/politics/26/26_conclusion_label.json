@@ -1,0 +1,153 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand causal relationships and their transformation; Master the meaning and manifestations of reverse thinking; Develop the ability to use reverse thinking for innovation.",
+  "transcript": "[684.38 -> 698.4] 所以说事物都处在因果关系的链条中在一定条件下事物之间的原因和结果也可以转化正因为黄文秀他是一个普通人他才能在平凡中创造伟大。\n[700.0 -> 708.08] 所以最后我们来总结今天所学的知识首先我们学习了逆向数学的含义我们学习了它的表现。\n[713.04 -> 738.44] 齐铭总书记曾这样告诉广大青年内在有激情但更要从容不迫这就告诉我们同学们在日常生活中呢要多运用逆向思维多想一想多让子弹飞一会儿发挥自己的创新精神创新是第一生产力最后希望同学们能够在日常生活中多运用思维的工具好。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard features a tree diagram with branches labeled \"逆向思维\" (Reverse Thinking), \"创新\" (Innovation), and \"表观\" (Appearance).\n   - The digital screen displays a slide with text in Chinese, which appears to be a concluding statement or summary.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - Branches: \"逆向思维\" (Reverse Thinking), \"创新\" (Innovation), \"表观\" (Appearance).\n   - Digital Screen:\n     - Text: \"逆向思维\" (Reverse Thinking), \"创新\" (Innovation), \"表观\" (Appearance), and a concluding statement about the importance of these concepts.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing at each branch of the tree diagram to emphasize the key concepts.\n   - The teacher occasionally looks at the digital screen, likely to reference the concluding text displayed.\n   - The teacher uses hand movements to underline or highlight the importance of the concepts written on the blackboard.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The screen displays a concluding statement, suggesting the end of the lesson without additional assignments visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a concluding statement alongside a blackboard featuring a tree diagram with branches labeled \"逆向思维\" (Reverse Thinking), \"创新\" (Innovation), and \"表观\" (Appearance). The teacher visually reviews the key concepts by pointing to each branch of the tree diagram, emphasizing the interconnectedness of these ideas. Gestures are used to highlight each branch in sequence, reinforcing their significance. The teacher occasionally references the digital screen, aligning the verbal conclusion with the visual summary. No explicit homework or next-step instructions are visible, focusing the conclusion solely on the core concepts presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Causality Chain",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[684.38 -> 698.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Reverse Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[700.0 -> 708.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Transformation of Cause and Effect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[684.38 -> 698.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Ordinary to Greatness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[684.38 -> 698.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Manifestations of Reverse Thinking",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[700.0 -> 708.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Innovation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[713.04 -> 738.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Passion with Composure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[713.04 -> 738.44]"
+      },
+      {
+        "id": "c8",
+        "label": "Thinking as a Tool",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[713.04 -> 738.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Tree Diagram on Blackboard",
+        "type": "Visual",
+        "original_text": "Tree diagram with branches labeled Reverse Thinking, Innovation, Appearance.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Conclusion Slide on Screen",
+        "type": "Visual",
+        "original_text": "Slide with text about Reverse Thinking, Innovation, Appearance importance.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gesture Emphasis",
+        "type": "Visual",
+        "original_text": "Teacher uses gestures to highlight key concepts on the tree diagram.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Explains how causal relationships can transform under certain conditions."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Illustrates that reverse thinking fosters innovation."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Describes specific examples of reverse thinking."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Shows how ordinary individuals can use thinking as a tool for greatness."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Links innovation to using thinking as a productive tool."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to highlight key concepts visually."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Digital screen concludes the lesson with a focus on causality and reverse thinking."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Digital screen emphasizes the importance of reverse thinking."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to use innovation in daily life."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

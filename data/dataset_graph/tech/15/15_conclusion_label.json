@@ -1,0 +1,134 @@
+{
+  "video_name": "15_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "- Be able to describe the phenomena and conditions of plant seed respiration.  \n- Understand the potential impact of microorganisms on experimental results.  \n- Design a simple experimental plan to verify respiration phenomena in different plant organs.",
+  "transcript": "[716.142033 -> 755.18] 在课前老师也为大家提供了此实验装置你们在家中进行实验的时候看到了怎样的实验现象呢几天过后观察的现象是进水消毒的种子它释放出来了二氧化碳从而使石灰水变浑浊而壁中试管石灰水没有变浑浊非常好有此实验现象你能得出怎样的结论呢植物也进行了呼吸作用产生了二氧化碳很好那请同学们思考乙进水和乙煮熟它意味着什么呢你有什么想法吗净水的话是让这个种子变得比较湿润煮熟的话这个种子它已经失去了呼吸作用就会失去温热对它已经没有生命作用了很好请坐那么为什么种子要消毒呢这里老师也要提醒大家可能种子上会富含微生物微生物也会进行呼吸作用刚刚我们探究了植物的种子能够进行呼吸作用现在请同学们植物它的茎叶是否能进行呼吸作用呢我们可以得出结论它的茎叶花果实种子每一个阶段其实都是可以进行呼吸作用的同学们课下可以再进行实验探究了解本节课我们主要强调了呼吸作用动物的呼吸植物的呼吸作用重点知识希望同学们重点掌握。\n[759.08 -> 774.52] 手电报好同学们再见。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the interactive whiteboard screen.\n   - The blackboard contains a chemical equation written in white chalk: $\\text{Ca(OH)}_2 + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 \\downarrow + \\text{H}_2\\text{O}$.\n   - The interactive whiteboard displays a flowchart with text boxes and arrows, summarizing the lesson's key concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Chemical equation: $\\text{Ca(OH)}_2 + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 \\downarrow + \\text{H}_2\\text{O}$\n     - Additional note: \"通过打开门窗呼吸作用\" (Translation: \"By opening windows for respiration\")\n   - Interactive Whiteboard:\n     - Text boxes with key points and a flowchart illustrating the process.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, emphasizing the reactants and products.\n   - The teacher gestures towards the interactive whiteboard, likely highlighting the flowchart's main points.\n   - The teacher writes additional notes on the blackboard, reinforcing the concepts discussed.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the lesson's content through the blackboard and whiteboard visuals.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a chemical equation: $\\text{Ca(OH)}_2 + \\text{CO}_2 \\rightarrow \\text{CaCO}_3 \\downarrow + \\text{H}_2\\text{O}$, alongside a note about respiration. The interactive whiteboard features a flowchart summarizing the lesson's key concepts. The teacher points to the chemical equation, emphasizing the transformation of reactants into products. She then gestures towards the flowchart on the whiteboard, highlighting the sequential steps. To reinforce the core takeaway, she writes additional notes on the blackboard, drawing attention to the practical application of opening windows for respiration. No visual homework or next-step instructions are present, focusing solely on the lesson's visual summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Respiration in Plants",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[716.14 -> 774.52]"
+      },
+      {
+        "id": "c2",
+        "label": "CO₂ Production",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[716.14 -> 755.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Ca(OH)₂ + CO₂ Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[716.14 -> 774.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Plant Organs Respiration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[716.14 -> 774.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Microorganisms Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[716.14 -> 755.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[716.14 -> 774.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Chemical Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "Chemical equation: Ca(OH)₂ + CO₂ → CaCO₃ ↓ + H₂O",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Interactive Whiteboard Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart summarizing lesson's key concepts",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Respiration Note",
+        "type": "Visual",
+        "original_text": "Note about respiration: \"By opening windows for respiration\"",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Considering Microorganism Effects",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[716.14 -> 755.18]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding respiration includes recognizing the production of CO₂."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Respiration is applicable to various plant organs."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Chemical equation is represented visually on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Flowchart acts as a visual summary of an experimental design."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to consider how microorganisms might affect outcomes."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Visual helps emphasize the CO₂ production during respiration."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Written note scaffolds understanding of practical respiration applications."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "evolves_from",
+        "intent": "Visual summary evolves from detailed chemical process to practical note."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

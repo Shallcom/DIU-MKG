@@ -1,0 +1,158 @@
+{
+  "video_name": "1_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand how teachers should respond to students' doubts about idealism in the classroom; master the basic composition and functions of China’s state power organs.",
+  "transcript": "[0.0 -> 123.22] 提问是在上课的时候讲到唯心主义时学生打断说不能完全相信唯心主义我会怎么做其实在教学过程中面对这样的现象是很正常的首先呢我会选择沉着冷静地处理这个问题我不会完全地去否认同学的观点在这个过程中呢我会发挥学生的主体作用去引导最后引导学生去发挥学生的主体作用去引导最后引导学生的主体作用去引导教导学生们去学习唯心主义最后再为他解惑其次呢就是在下课之后我会找到这位同学进行了解这个原因因为他在这个课中说到说他们同体试呢也出现了这样的问题我会找到这位同学来进行了解出现这个情况的原因我也给他分析可能是因为我们身体出现了原因并且呢即使像反映这个问题即使带生病的学生到医院去检查所谓施者传道授业解惑也在教学过程当中学生有怀疑是很正常的事情在这个过程当中作为一名合格的教师我们应该沉着冷静地去解决教学过程中的问题去引导学生解决问题这才是一个教师的目的呃一个职责好我的即兴演讲完毕现在开始我的模拟授课同学们好今天我们要学习的内容是我国的国家权力机关请同学们将目光移至大屏幕喝过以上饮品的同学请举手那同学们知道它是出自哪个公司吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen reads \"我国的国家权力机关\" (The National Power Organs of Our Country). This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"我国的国家权力机关\" (The National Power Organs of Our Country). The teacher does not physically write this; it is displayed on the screen. The teacher gestures towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, occasionally pointing towards the screen.\n- The teacher holds papers and occasionally looks at them, likely referencing notes.\n- The teacher moves slightly to the side, possibly to engage with the audience or emphasize a point.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with papers in hand.\n- The screen displays the title \"我国的国家权力机关\" (The National Power Organs of Our Country).\n- The teacher gestures towards the screen, emphasizing the title.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to reinforce points.\n- The teacher occasionally looks at the papers, possibly referencing notes.\n- The screen remains on the same slide, with no changes in content.\n\n**End:**\n- The teacher moves slightly to the side, possibly to engage with the audience or emphasize a point.\n- The screen still displays the title slide, indicating the introduction phase is ongoing.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, holding papers, and facing the class. The initial visual stimulus is the slide on the screen displaying \"我国的国家权力机关\" (The National Power Organs of Our Country), serving as the hook to capture the students' attention. The teacher gestures towards the screen, emphasizing the title and setting the stage for the lesson. Throughout the introduction, the teacher uses hand gestures to reinforce key points, occasionally looking at the papers for reference. The screen remains on the title slide, maintaining focus on the main topic. The teacher's movements and gestures create a bridge, linking the introduction to the broader context of the lesson. This visual setup helps establish a connection to the students' existing knowledge, preparing them for a deeper exploration of the topic. The consistent emphasis on the title slide ensures that the foundational concept is clearly introduced and understood before transitioning to more detailed content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Idealism",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.22]"
+      },
+      {
+        "id": "c2",
+        "label": "China's National Power Organs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[123.22 -> end]"
+      },
+      {
+        "id": "c3",
+        "label": "Teacher Response",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Calm Problem-Solving",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Student as Active Agent",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Clarification After Class",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Exploration of Health Issues",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.22]"
+      },
+      {
+        "id": "c8",
+        "label": "Teaching Objectives",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[123.22 -> end]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide Title: National Power Organs",
+        "type": "Visual",
+        "original_text": "The National Power Organs of Our Country",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures to Slide",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the screen emphasizing the title.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Prompted by students questioning Idealism."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Teacher applies principle of calm when addressing student uncertainty."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Encourages students to be active participants in learning."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Teacher clarifies doubts post-class."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Explores possible health-related issues affecting student."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Slide displays title as introduction to topic."
+      },
+      {
+        "source": "v2",
+        "target": "s2",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures emphasize slide to engage students."
+      },
+      {
+        "source": "c8",
+        "target": "s2",
+        "relation": "builds_upon",
+        "intent": "Students engage with the teaching objectives through visual slide."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "addresses_misconception",
+        "intent": "Clarifying doubts after class addresses misconceptions."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Guides students to discuss possible health influences on learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

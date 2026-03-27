@@ -1,0 +1,141 @@
+{
+  "video_name": "37_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to apply the basic principles of redox reactions to write the corresponding chemical equations; understand the relationship between a substance’s structure and its properties; be able to identify and analyze examples of displacement reactions in everyday life.",
+  "transcript": "[611.98 -> 620.28] 下面我们来进行一个课堂延伸。\n[641.98 -> 651.2] 同学们应用上面的原理写出该反应的化学方程式有哪个同学想来尝试一下你来尝试一下。\n[671.98 -> 700.64] 同学们看一下它写得对吗是对的我们可以发现物质的结构决定了物质的性质而物质的性质会决定物质的用途同学们刻下查阅相关资料查找秀玉丸取代反应在生活生产中的广泛应用本节课到此结束谢谢大家。\n[701.98 -> 709.62] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of chemical reactions and compounds.\n   - The layout includes three main points:\n     1. $\\text{CH}_3\\text{COOH} + \\text{NaOH} \\rightarrow \\text{CH}_3\\text{COONa} + \\text{H}_2\\text{O}$\n     2. $\\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$\n     3. $\\text{CH}_3\\text{COOCH}_2\\text{CH}_3 + \\text{H}_2\\text{O} \\rightarrow \\text{CH}_3\\text{COOH} + \\text{CH}_3\\text{CH}_2\\text{OH}$\n\n2. **Key Knowledge Items (Content View)**:\n   - Main chemical reactions:\n     - $\\text{CH}_3\\text{COOH} + \\text{NaOH} \\rightarrow \\text{CH}_3\\text{COONa} + \\text{H}_2\\text{O}$\n     - $\\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$\n     - $\\text{CH}_3\\text{COOCH}_2\\text{CH}_3 + \\text{H}_2\\text{O} \\rightarrow \\text{CH}_3\\text{COOH} + \\text{CH}_3\\text{CH}_2\\text{OH}$\n   - Compounds listed:\n     - $\\text{CH}_3\\text{COOCH}_2\\text{CH}_3$\n     - $\\text{NaBr}$\n     - $\\text{AgNO}_3$\n     - $\\text{CH}_3\\text{COOH}$\n     - $\\text{C}_6\\text{H}_5\\text{OH}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each chemical reaction on the blackboard, likely explaining or summarizing each one.\n   - She gestures towards the list of compounds, possibly highlighting their relevance or connections to the reactions.\n   - The teacher moves to the digital screen, pointing at the slide, which remains static with a green and white design, possibly indicating a summary or transition slide.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen displays a slide with text in a foreign language, which might suggest a transition or end of the lesson, but specific instructions are not visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying three key chemical reactions and a list of compounds. The teacher visually wraps up the lesson by pointing to each reaction in sequence, ensuring students focus on the transformation processes. She gestures towards the compounds, emphasizing their roles in the reactions. No strong emphasis actions like underlining or boxing are observed. The digital screen shows a static slide, possibly signaling the end of the lesson, but no explicit homework or next-step instructions are visible. The visual focus remains on the summarized reactions and compounds, reinforcing the core concepts covered.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Redox Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[611.98 -> 620.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Structure Determines Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[671.98 -> 700.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Displacement Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[671.98 -> 700.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Acetic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[641.98 -> 651.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Sodium Hydroxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[641.98 -> 651.2]"
+      },
+      {
+        "id": "c6",
+        "label": "Sodium Ethanoate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[641.98 -> 651.2]"
+      },
+      {
+        "id": "c7",
+        "label": "Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[641.98 -> 651.2]"
+      },
+      {
+        "id": "c8",
+        "label": "Ester Hydrolysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[641.98 -> 651.2]"
+      },
+      {
+        "id": "c9",
+        "label": "Static Slide",
+        "type": "Visual",
+        "original_text": "Slide with green and white design indicating summary or transition.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Chemical Equation Writing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[641.98 -> 651.2]"
+      },
+      {
+        "id": "c11",
+        "label": "Review of Reactions",
+        "type": "Visual",
+        "original_text": "Blackboard displaying key chemical reactions",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Redox reactions include reaction involving acetic acid."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Redox reactions include reaction involving sodium hydroxide."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Acetic acid can be transformed into sodium ethanoate."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "involves",
+        "intent": "Ester hydrolysis involves producing acetic acid."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Slides help visualize the principle of structure determining properties."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Blackboard summarizes key concepts of redox reactions."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "produces",
+        "intent": "Reaction of acetic acid with sodium hydroxide produces water."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "engages",
+        "intent": "Students are engaged in writing chemical equations for ester hydrolysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

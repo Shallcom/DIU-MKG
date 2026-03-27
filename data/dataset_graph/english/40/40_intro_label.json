@@ -1,0 +1,181 @@
+{
+  "video_name": "40_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of thinking abilities in English learning; describe the core components and functions of activity‑based learning methods; apply activity‑based learning methods to design teaching plans that develop students' thinking abilities.",
+  "transcript": "[0.0 -> 12.14] Good morning ladies and gentlemen. Nowadays,\n[12.14 -> 15.14] many schools give priority to scores,\n[15.14 -> 39.9] which means spend time doing plenty of exercises. That actually that greatly deprives students right to cultivate thinking capacity in different ways. So how to cultivate students' thinking capacity based on activity-based approach to learning English approach. Actually,\n[39.9 -> 48.26] thinking capacity refers to one's thinking characteristics and schema which include ability like inferring,\n[48.26 -> 55.7] analyzing, judging, or critical thinking. So in the process of activity-based English learning approach,\n[55.7 -> 60.0] namely learning and understanding and applying and practicing and also transferring and creating,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image displayed on the screen, which appears to be a photograph of a historical or cultural site related to the lesson topic. The image is part of the slide titled \"Unit 5 The Value of Money: Discovering Cultural Functions.\"\n\n#### 2. **The Title Event**\n- **Title**: \"Unit 5 The Value of Money: Discovering Cultural Functions\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher stands in front of the screen, likely emphasizing the title through verbal introduction, though no specific action like underlining is visible.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly visible in the provided frames. The slide primarily shows the title and image.\n\n#### 4. **Key Gestures**\n- **Gestures**: The teacher is holding papers and occasionally gesturing with them, likely to emphasize points or transition between topics. Specific gestures like pointing or tracing are not visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays \"Unit 5 The Value of Money: Discovering Cultural Functions\" with an accompanying image.\n- **Teacher Action**: The teacher stands in front of the screen, holding papers, and appears to be introducing the topic. No specific gestures towards the screen are observed.\n\n#### Middle\n- **Visual Content**: The screen remains unchanged, showing the same title and image.\n- **Teacher Action**: The teacher continues to stand in front of the screen, occasionally looking at the papers and then back at the students, likely elaborating on the introduction.\n\n#### End\n- **Visual Content**: The screen still displays the same title and image.\n- **Teacher Action**: The teacher maintains a similar position, possibly concluding the introduction or preparing to move to the next part of the lesson.\n\n### Summary\nThe introduction phase focuses on the title \"Unit 5 The Value of Money: Discovering Cultural Functions\" displayed on the screen. The teacher uses the image as a hook to engage students, though specific gestures or detailed objectives are not visible in the frames provided. The teacher's actions primarily involve standing and speaking, using papers to aid in the introduction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"Unit 5 The Value of Money: Discovering Cultural Functions\" alongside an image of a cultural or historical site, serving as the hook to engage students. The teacher, holding papers, appears poised to begin the lesson, using the visual content to set the stage. Throughout the introduction, the teacher maintains a position in front of the screen, occasionally glancing at the papers, likely to reference notes or key points. The visual aid remains consistent, with the title and image providing a focal point for the discussion. The teacher's actions suggest a transition from the hook to the main topic, using the displayed content to bridge the students' existing knowledge with the new lesson material. This approach likely aims to connect the cultural significance of money to broader economic concepts, preparing students for deeper exploration of the unit's themes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Thinking Capacity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[39.9 -> 48.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Inferring",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[39.9 -> 55.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Analyzing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[39.9 -> 55.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Judging",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[39.9 -> 55.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[39.9 -> 55.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Activity-based Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[55.7 -> 60.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Understanding",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[55.7 -> 60.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Applying",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[55.7 -> 60.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Practicing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[55.7 -> 60.0]"
+      },
+      {
+        "id": "c10",
+        "label": "Transferring",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[55.7 -> 60.0]"
+      },
+      {
+        "id": "c11",
+        "label": "Creating",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[55.7 -> 60.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Cultural Functions Image",
+        "type": "Visual",
+        "original_text": "Image of a historical or cultural site related to the lesson topic.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide: Unit 5 The Value of Money",
+        "type": "Visual",
+        "original_text": "Screen displays title 'Unit 5 The Value of Money: Discovering Cultural Functions'.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 60.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Activity-based Learning includes Understanding as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Activity-based Learning includes Applying as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Activity-based Learning includes Practicing as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Activity-based Learning includes Transferring as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Activity-based Learning includes Creating as a key component."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Thinking Capacity includes Inferring as a fundamental practice."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Thinking Capacity includes Analyzing as a fundamental practice."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Thinking Capacity includes Judging as a fundamental practice."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Thinking Capacity includes Critical Thinking as a fundamental practice."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Image of cultural site scaffolds understanding of Thinking Capacity by linking to cultural functions."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Title slide includes Cultural Functions Image to visually connect content."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Title slide visualizes the pedagogical theme of Activity-based Learning methods."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

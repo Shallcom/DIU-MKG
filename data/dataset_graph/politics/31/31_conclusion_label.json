@@ -1,0 +1,166 @@
+{
+  "video_name": "31_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Summarize the Communist Party of China’s leadership role in different historical periods and its significance for national development; understand the importance of strengthening theoretical study, enhancing ideological awareness, and personal capability; emphasize the importance of integrating theory with practice, and encourage students to apply what they have learned to real life.",
+  "transcript": "[712.421 -> 774.6] 快点快点快差不多了现在我们请这位同学来说一下你的提纲只需要说出三个方面你将会从哪三个方面说说三句话第一个是加强理论学习第二个的话是加强我的社会实践第三个的话是你说我的思想觉悟记得出来好了同学们以上便是我的模拟授课请评委老师批评指正。\n[798.6 -> 819.18] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram and text written in Chinese.\n   - The diagram is a rectangular box with text inside, accompanied by a star and a flag drawn on the left side.\n   - The text on the blackboard is organized in a list format, with key phrases written vertically on the left side.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main text inside the rectangular box reads: \"都是由三部分组成的\" (All are composed of three parts), \"是气态\" (are gaseous), and \"更难以液化或固化\" (more difficult to liquefy or solidify).\n   - The vertical text on the left side includes phrases like \"组成\" (composition) and \"性质\" (properties).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the rectangular box and traces the text inside, emphasizing the three-part composition.\n   - She gestures towards the star and flag, possibly highlighting key concepts or achievements.\n   - The teacher uses hand movements to underline or emphasize the phrases written vertically on the left side of the board.\n\n4. **Transition to Next Step**:\n   - The screen to the right displays text in Chinese, which may indicate further reading or next lesson content, but specific details are not clearly visible.\n   - No explicit homework or assignment slide is shown, but the screen content suggests continuation of the topic.\n\nThis structured visual summary consolidates the lesson's key points through the blackboard diagram and the teacher's focused gestures.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a rectangular diagram summarizing key concepts. The diagram contains three phrases: \"都是由三部分组成的,\" \"是气态,\" and \"更难以液化或固化.\" The teacher points to each phrase in sequence, emphasizing the three-part composition and properties. She gestures towards the star and flag drawn on the left, highlighting their significance. The vertical text on the left side is briefly underlined, reinforcing the main ideas. The screen to the right shows additional text, suggesting further content or next steps, though specific details are not visible. This visual review effectively consolidates the lesson's core takeaways.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "CPC Leadership",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Historical Periods",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c3",
+        "label": "National Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Theoretical Study",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Ideological Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Personal Capability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Integrate Theory and Practice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "c8",
+        "label": "Apply Learning to Real Life",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[712.421 -> 819.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "The blackboard diagram with three-part summary and star flag illustration.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Rectangular Box Text",
+        "type": "Visual",
+        "original_text": "All are composed of three parts, are gaseous, more difficult to liquefy or solidify.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Star and Flag",
+        "type": "Visual",
+        "original_text": "Star and flag drawn on the left side.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Vertical Text",
+        "type": "Visual",
+        "original_text": "Vertical phrases emphasizing composition and properties.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "CPC's leadership is contextualized within historical periods."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "CPC's leadership has impacted national development."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Theoretical study enhances ideological awareness."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Theoretical study contributes to personal capability."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Integrating theory with practice includes applying learning to real life."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The blackboard diagram summarizes CPC's leadership role."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The text highlights theoretical principles in learning."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "symbolizes",
+        "intent": "The star and flag symbolize the CPC's achievements."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "The text emphasizes ideological awareness."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "applies",
+        "intent": "Students are engaged in applying learning to real life."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,134 @@
+{
+  "video_name": "4_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Be able to describe the behavior of a function near its zero; be able to determine the existence of a zero based on continuity and sign changes.",
+  "transcript": "想一想有哪位同学想来说一说请你来说比如说在这个零点的附近它在大于三的时候这个函数是在上方然后在小于三的时候它在下方也就说明它在这个区边两个端点的函数学是怎么样的一号的符号相反是一号的很好还有没有其他发现呢。请进来说那这个函数图像在X等于三这个零点的时候它的图像是连续不断的你的想法非常好请坐还有没有其他发现呢我们想一想刚才这位男同学说了在X等于三的右侧的时候它的函数值是大于零的左侧的时候函数值是小于零的那在X等于三这一点它穿过了X轴很好那通过这个信息我们提取到了这三个信息首先在零点附近图像是连续不断的并且跟老师一起说穿过X轴函数在端点处的曲直是一一号的谈号那这种关系是否也适用于在区间负二到零的上呢适用于吗那有哪位同学能来完整地说一遍他的关系请你来说。在右边的区域是小于零老师在负一两端就是它们是一号的然后在负一这一点函数值连续不断并且穿过在负二到零区间穿过X一周很好云轩请坐老师要提示的一点是这个同学说在负一的左边是函数值大于零在负一的右边函数值小于零这里有一个小小的失误是我们要说在这个区间内因为我们研究的是这个零点附近在它的这个区间内好吗那我们就可以发现在零点附近函数图像连续不断穿过X轴并且函数在端点处的曲直是一号的那同学们你认为应该如何利用函数F这样的曲直规律来刻画这种关系呢通过这个特殊的函数我们知道了函数零点存在的条件是需要满足这三个条件的那同学们你能根据这三个条件来用规范的数学语言来描述一下函数零点存在的定理吗小组之间合作讨论一下或许你会有新的发现大家讨论一下啊它是一个连续的绘曲线并且是一号的然后在这个区间内至少有一个零点是不是三条条件全都体现了来学习一下用这个规范的数学语言进行描述找到了吗有什么哎好好那位同学想来说一说。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the mathematical content displayed on the screen, specifically the graph and accompanying text. The teacher pointed to the graph and the text, ensuring students' attention was directed to these elements.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded, providing non-verbal encouragement. The teacher occasionally pointed to specific parts of the graph and text on the screen, subtly guiding the student's response by highlighting relevant information.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher used hand gestures to affirm correctness, such as a thumbs-up. The teacher also pointed to the graph again, reinforcing the connection between the student's answer and the visual content. If necessary, the teacher might have drawn additional lines or annotations on the board to clarify or correct any misunderstandings.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Points to the graph and text on the screen, establishing the focus point.\n\n- **Middle:**\n  - While a student responds, the teacher nods and maintains eye contact.\n  - Points to specific parts of the graph and text to guide the student.\n\n- **End:**\n  - Teacher gives a thumbs-up to confirm the student's correct response.\n  - Points to the graph again, reinforcing the connection to the student's answer.\n  - If needed, draws additional annotations on the board for clarification.\n\nThis structured approach ensures that the teacher's visual strategies effectively manage the dialogue and co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the mathematical function $y = f(x)$ and the accompanying text in Chinese, along with a graph illustrating the concept. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem displayed on the screen. This gesture signaled the start of an interactive segment, focusing attention on the graph and text.\n\nAs a student began to respond, the teacher moved closer to the screen, nodding and maintaining eye contact to provide encouragement. While the student explained their reasoning, the teacher pointed to specific parts of the graph and text, subtly guiding the response by highlighting relevant information. The teacher's movements were deliberate, ensuring that the student's explanation was aligned with the visual content.\n\nTo validate the student's answer, the teacher gave a distinct nod and pointed emphatically to the graph, reinforcing the connection between the student's response and the visual data. The teacher then drew an arrow on the board, linking the student's correct answer back to the main theorem discussed earlier, ensuring that the knowledge was integrated into the core lesson content.\n\nThroughout this process, the teacher's gestures transformed the classroom from a passive learning environment to an active construction zone. By visually connecting the student's response to the lesson's key concepts, the teacher facilitated a deeper understanding, encouraging students to actively construct their own knowledge rather than merely receiving it. This dynamic interaction reinforced the application and verification of the mathematical principles being taught.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Function Graph",
+        "type": "Visual",
+        "original_text": "Graph representing function y = f(x) near zero",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Function Text",
+        "type": "Visual",
+        "original_text": "Text describing function behavior near zero and continuity",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Function Continuity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.00 - 120.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Function Zero",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.00 - 60.00]"
+      },
+      {
+        "id": "c3",
+        "label": "Sign Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.00 - 180.00]"
+      },
+      {
+        "id": "c4",
+        "label": "Graph Crossing X-Axis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[60.00 - 180.00]"
+      },
+      {
+        "id": "c5",
+        "label": "Theorem on Zero",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.00 - 240.00]"
+      },
+      {
+        "id": "c6",
+        "label": "Interval Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[180.00 - 240.00]"
+      },
+      {
+        "id": "ss1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[60.00 - 180.00]"
+      },
+      {
+        "id": "ss2",
+        "label": "Discussion Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.00 - 240.00]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Visualizes the concept of continuity on the graph."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Sign change principle used to identify function zero."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The theorem includes crossing the X-axis at zero."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Procedure for interval analysis evolves from function zero theorem."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Graph prompts students to consider zero behavior."
+      },
+      {
+        "source": "v2",
+        "target": "ss2",
+        "relation": "guides_discussion",
+        "intent": "Text assists student engagement in function behavior discussion."
+      },
+      {
+        "source": "c2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Concept of function zero prompts student responses."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Graph scaffolds understanding of crossing the X-axis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

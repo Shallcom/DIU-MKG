@@ -1,0 +1,132 @@
+{
+  "video_name": "5_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of the basic inequality and its application in algebraic operations; master how to derive the basic inequality using the complete‑square formula; be able to identify and solve optimization problems encountered in practical situations.",
+  "transcript": "[166.0 -> 199.18] 下面是我的片段教学上课同学们好请同学们来看看这样一个问题在实际的农业生产中往往需要对农业用地进行违档现在需要用一个地方为一个一百平方米的矩形菜园当这个菜园变长为多少时所用的方法最短最大的长度是多少呢。\n[200.28 -> 206.88] 大家这样的问题开始我们今天的学习基本不认识的。\n[226.0 -> 247.42] 我们知道乘法公式在代数式的运算中有着终终作用那么是否有一些不等式它们在解决不等式问题时与乘法公式同样有着重要的作用呢。\n[248.88 -> 299.52] 下面我们一起来研究什么是基本不等式首先请同学们过一过之前我们所学习过的过程完全全方公式它的形式是什么样子完全全方公式对于这样的一个式我们发现其是平方之后因此这个式子绝对是大于或者等于零的。\n[303.0 -> 307.92] 接下来我们可以将这个式子进行改变。\n[314.0 -> 336.22] 我们可以将这个式子进行改变将二A移到这个式子右边之后我们可以得到。\n[344.0 -> 378.36] A的方方加上B的方方大于或者等于两倍的B那请同学们思考在什么时候这个等泡泡会成立呢在A等于B的时候这个等式就是成立的对吗那现在我用根号A和根号B分别T和B分别一代A之后我们可以变化查成怎样的情况呢。\n[379.8 -> 391.82] 请这位主席来回答用根号将A变成根号AB变成根号B之后。\n[396.14 -> 403.96] A加B大于等于二倍的根号AB非常好非常好请坐。\n[422.28 -> 466.34] 同样的当前阶级A和B相等的时候等候成立这就是我们基本不能试的一般试其中二方值A加B我们称之为正数A的算数平均迅速。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"探究一：什么是基本不等式\" (Investigation 1: What is the Basic Inequality).\n- The slide shows a mathematical problem involving a 100m² rectangular field, asking for the minimum perimeter when the length is twice the width.\n- The teacher gestures towards the slide, emphasizing the problem statement.\n\n**Middle:**\n- The teacher writes \"22 基本个不等式\" (22 Basic Inequalities) on the chalkboard.\n- The teacher writes the formula $(a-b)^2 \\geq 0$ and expands it to $a^2 - 2ab + b^2 \\geq 0$.\n- The teacher then writes $(a+b)^2 \\geq 0$ and expands it to $a^2 + 2ab + b^2 \\geq 0$.\n- The teacher points to these formulas, explaining their significance in the context of inequalities.\n\n**End:**\n- The teacher writes the inequality $\\frac{a+b}{2} \\geq \\sqrt{ab}$ on the board.\n- The teacher explains the derivation of this inequality, linking it to the previous formulas.\n- The teacher uses hand gestures to emphasize the transformation from the squared terms to the final inequality.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the chalkboard with the written formulas:\n  - $(a-b)^2 \\geq 0$\n  - $a^2 - 2ab + b^2 \\geq 0$\n  - $(a+b)^2 \\geq 0$\n  - $a^2 + 2ab + b^2 \\geq 0$\n  - $\\frac{a+b}{2} \\geq \\sqrt{ab}$\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher sequentially writes each formula, expanding the squares and deriving the inequalities.\n- **Modifications**: The teacher erases parts of the board to make space for new formulas, maintaining a clear progression.\n- **Deictic Gestures**: The teacher points to each term as they are written, such as tracing the expansion of $(a-b)^2$ and highlighting the final inequality $\\frac{a+b}{2} \\geq \\sqrt{ab}$.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses underlining and circling to emphasize key parts of the formulas.\n- The final inequality $\\frac{a+b}{2} \\geq \\sqrt{ab}$ is highlighted as the culmination of the derivation process.\n- The teacher uses hand gestures to draw attention to the transformation steps, reinforcing the logical flow from squared terms to the basic inequality.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"探究一：什么是基本不等式\" (Investigation 1: What is the Basic Inequality), featuring a problem about a 100m² rectangular field. The teacher began by writing \"22 基本个不等式\" (22 Basic Inequalities) on the chalkboard, establishing the topic. The teacher then constructed the inequality $(a-b)^2 \\geq 0$, expanding it to $a^2 - 2ab + b^2 \\geq 0$. Following this, the teacher derived $(a+b)^2 \\geq 0$, expanding it to $a^2 + 2ab + b^2 \\geq 0$. Throughout, the teacher annotated each step, tracing the expansion of squared terms to illustrate the inequality principles.\n\nThe teacher resolved deixis by pointing to each component of the formulas, emphasizing the transformation from squared expressions to linear inequalities. For instance, the teacher traced the terms in $(a-b)^2$ to highlight the derivation process. Finally, the teacher constructed the fundamental inequality $\\frac{a+b}{2} \\geq \\sqrt{ab}$, circling it to mark its importance. This visual strategy reduced cognitive load by providing a clear, step-by-step progression from basic algebraic manipulations to the core inequality, ensuring students could follow the logical flow without being overwhelmed by complex concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Basic Inequality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[200.28 -> 206.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Complete Square Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[248.88 -> 299.52]"
+      },
+      {
+        "id": "c3",
+        "label": "$(a-b)^2 \\geq 0$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[303.0 -> 307.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Expansion of $(a-b)^2$",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[303.0 -> 307.92]"
+      },
+      {
+        "id": "c5",
+        "label": "$(a+b)^2 \\geq 0$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[314.0 -> 336.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Expansion of $(a+b)^2$",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[314.0 -> 336.22]"
+      },
+      {
+        "id": "c7",
+        "label": "$\\frac{a+b}{2} \\geq \\sqrt{ab}$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[379.8 -> 391.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard Formulas",
+        "type": "Visual",
+        "original_text": "Chalkboard with formulas: $(a-b)^2 \\geq 0$, $a^2 - 2ab + b^2 \\geq 0$, $(a+b)^2 \\geq 0$, $a^2 + 2ab + b^2 \\geq 0$, $\\frac{a+b}{2} \\geq \\sqrt{ab}$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding the basic inequality from the complete square formula."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Derived from the concept of complete square."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Visualizes the expansion of $(a-b)^2$."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Visualizes the expansion of $(a+b)^2$."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The final form of inequality derived from expanded expressions."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the expansion of $(a-b)^2$ on the board."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the expansion of $(a+b)^2$ on the board."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlights the final important inequality on the board."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider the implications of the derived inequality."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

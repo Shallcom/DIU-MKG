@@ -1,0 +1,185 @@
+{
+  "video_name": "18_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master the definition of a two‑parameter quadratic equation and its associated function; understand the connections among quadratic functions, quadratic equations, and quadratic inequalities; and be able to apply knowledge of quadratic functions to solve real‑world problems.",
+  "transcript": "[120.0 -> 303.5] 好上课同学们好好请坐上课同学们同学们老师想问一下大家什么是二参数那一元二次方程又是什么呢哪个同学说一说这个男同学你可以来说一下吗二参数就是二参数是最高次为二次那它的表达式是什么也就是Y等于AX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加DX的平方加D加C并且A不等于零那你能说说一元二次方程又是什么吗那也就是令把Y变成零也就是它的一元二次方程了而且也要注意注意什么A不等于零A不等于零也就是它的一元二次方程了而且也要注意注意什么A不等于零A不等于零也就是它的一元二次方程了而且也要注意注意什么A不等于零A不等于零看来这个同学对我们之前的知识掌握得也是非常好的那同学们在初中我们是不是已经学习过用一次函数的角度去看一次一元一次方程和一元一次不等式对不对然后发现了它们三者之间的关联那能不能利用这种关系我们去类比地学习诶二次函数与一元二次方程还有一元二次不等式之间的关系呢它们有没有这种关系如果存在这种关系诶又是怎么样的关系同学们思考一下这就是我们本节课要学习的内容以上是本节课的学习目标希望同学们通过本堂课的学习能达到以上目标好今天的学习我们通过一个问题来引入哎现在有一个这样的问题了袁医师打算这个绿地上用这个栅栏围成一个什么矩形的区域种植这些花儿而且我知道了这个栅栏的长度是二十四米哎现在要求围成的矩形区域面积要大于二十平方米那我现在想知道球这个矩形的边长是多少米呢。\n[304.94 -> 313.32] 同学们思考一下我们通过题目进行分析首先要干什么。\n[315.44 -> 325.82] 首先我们不知道这个矩形的边长是多少那我们要干什么是那可以怎么样。\n[327.76 -> 356.7] 是不是可以先设它的边长设一边长为X米那然后呢A另一边就是是多少是二元为什么。\n[357.76 -> 446.16] 为什么是十二减X不是二十四减X呢这个女同学因为它有两条所以要除以二十四要除以二十一条跨过一条长的也就是十二对不对其他同学你们听懂这个同学的分析了吗好掌声送给他那然后呢我们要怎么做我们通过题义我们要求什么是不是围成这个矩形的面积那怎么求呢是不是边长有题义就可以知道它的边长那求它的面积也就是用X乘以十二斜X二而且它要怎么样大于二十那同学们你们能化解一下这个不等式吗动手化解一下好你们化解的结果是多少大声一点X平方减十二X。\n[447.76 -> 463.56] 加二十小于零同学们在我们之前学习的知识当中有学过怎么样去解这个不等式吗有吗没有所以我们就得到了我们今天要学习的第一个知识点如何去解这个不等式那首先这个不等式是什么不等式。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher writes the title on the blackboard: \"2.3 二次函数与一元二次方程、不等式\" (2.3 Quadratic Functions and Quadratic Equations, Inequalities).\n- The screen displays the same title, establishing the lesson's focus.\n- The teacher writes the function $y = ax^2 + bx + c \\, (a \\neq 0)$ and the inequality $ax^2 + bx + c > 0 \\, (a \\neq 0)$ on the blackboard.\n\n**Middle:**\n- The screen transitions to show learning objectives, which the teacher explains while gesturing towards the screen.\n- The teacher introduces a problem: \"已知学校打算在操场上修建一个矩形花坛种植花草，花坛的长比宽长10 m。现要求花坛的面积不小于300 m²，问这个矩形的长至少是多少？\" (The school plans to build a rectangular flower bed on the playground. The length is 10 m longer than the width. The area must be at least 300 m². What is the minimum length of the rectangle?).\n- The teacher writes \"设矩形的长为x m\" (Let the length of the rectangle be x m) on the blackboard and explains the setup.\n\n**End:**\n- The teacher writes the inequality $x(x - 10) \\geq 300$ and solves it step-by-step.\n- The teacher points to the inequality and explains the solution process, emphasizing the final result.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard with the quadratic function and inequality written in white chalk. The screen displays the problem statement and learning objectives.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds the problem setup and inequality $x(x - 10) \\geq 300$ to the blackboard while explaining the scenario.\n- **Modifications**: The teacher writes the expanded form of the inequality and solves it, showing each step clearly.\n- **Deictic Gestures**: The teacher points to specific parts of the inequality and the problem statement on the screen, emphasizing key components like the area requirement and the relationship between length and width.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight the inequality and the final solution.\n- Important steps in the solution process are emphasized through pointing and verbal explanation, ensuring clarity in the transformation from the problem statement to the mathematical solution.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"2.3 二次函数与一元二次方程、不等式\" alongside the function $y = ax^2 + bx + c \\, (a \\neq 0)$ and the inequality $ax^2 + bx + c > 0 \\, (a \\neq 0)$. The screen complemented this by showing learning objectives and a problem statement about constructing a rectangular flower bed. The teacher began by constructing the problem scenario, writing \"设矩形的长为x m\" to set up the variable for the length. \n\nThen, the teacher derived the inequality $x(x - 10) \\geq 300$ from the problem, explaining each component's significance. He annotated the inequality step-by-step, expanding and solving it to find the minimum length. Throughout, he traced the inequality on the board, emphasizing the relationship between the rectangle's dimensions and the area requirement.\n\nFinally, he circled the solution, highlighting the minimum length required. The visual progression from the problem statement to the mathematical solution was synchronized with verbal explanations, reducing cognitive load by linking each step visually and contextually. The teacher's gestures directed attention to critical parts of the equations, ensuring clarity and reinforcing the conceptual flow from setup to resolution.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Quadratic Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 303.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Quadratic Equations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 303.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Quadratic Inequalities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 303.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Two-Parameter Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.0 -> 303.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Function Expression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 303.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Inequality Expression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 303.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Rectangle Area Problem",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[304.94 -> 313.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Let Rectangle Length Be x",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[315.44 -> 356.7]"
+      },
+      {
+        "id": "c9",
+        "label": "Inequality Setup",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[357.76 -> 446.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Title on Blackboard",
+        "type": "Visual",
+        "original_text": "2.3 Quadratic Functions and Quadratic Equations, Inequalities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Function and Inequality on Blackboard",
+        "type": "Visual",
+        "original_text": "Function: y = ax^2 + bx + c (a ≠ 0), Inequality: ax^2 + bx + c > 0 (a ≠ 0)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Problem Statement on Screen",
+        "type": "Visual",
+        "original_text": "School plans to build a rectangular flower bed. Length is 10 m longer than width. Area must be at least 300 m².",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Teacher Gesturing at Screen",
+        "type": "Visual",
+        "original_text": "Teacher explaining learning objectives using gestures towards the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Confusion",
+        "type": "Student_State",
+        "cognitive_state": "Confused"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Defines quadratic functions through their expression."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Quadratic functions form the basis for quadratic equations."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Quadratic functions form the basis for quadratic inequalities."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Sets up the length of the rectangle as part of solving the problem."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Develops inequality based on rectangle length."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Blackboard title establishes focus on quadratic functions."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Displays function and inequality expressions."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Problem statement presented on screen sets the context."
+      },
+      {
+        "source": "v4",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Teacher gestures reinforce inequality explanation."
+      },
+      {
+        "source": "c9",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Setup of the inequality encourages critical thinking in students."
+      },
+      {
+        "source": "ss2",
+        "target": "c3",
+        "relation": "engages_with",
+        "intent": "Students actively engage with quadratic inequalities concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

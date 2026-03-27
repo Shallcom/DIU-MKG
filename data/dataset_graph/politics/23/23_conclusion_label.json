@@ -1,0 +1,171 @@
+{
+  "video_name": "23_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "- Understand the concept and practice of China’s construction of a community of shared future for mankind.  \n- Analyze the connotation and significance of China’s major‑power diplomacy with Chinese characteristics.  \n- Write a research report on China’s contributions to international affairs.",
+  "transcript": "[591.1 -> 667.38] 我们中国始终坚持自己的生动实践将中国智慧落实到了构建人类命运共同体的点点滴滴之中习近平总书记呢说到在新征程上我们要始终坚持独立自主的和平外交政策坚持走和平发展道路推动建设新型国际关系构建人类命运共同体推动一带一路的高质量发展我们要坚持不搞对抗坚持开放不搞封闭坚持互利共赢所以呢从种种的实践中从种种的生动中我们读懂着中国的担当也读懂着中国的精神今天在课堂的尾声呢老师也给大家带来了一小作业请同学们查阅我国在生态治理方面的重大贡献并了解奇味中奇味世界提供了怎样的中国饭本写成研学报告我们在下节课邀请同学们上台分享我的授课到此结束。\n[678.8 -> 679.56] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It contains a block of text summarizing key points.\n   - The blackboard features a mind map with the central theme \"构建人类命运共同体\" (Building a Community with a Shared Future for Mankind) and branches labeled \"价值认同\" (Value Recognition), \"生动行动\" (Dynamic Actions), and \"实践\" (Practice).\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide: Contains a paragraph discussing the significance of the concept of a community with a shared future for mankind, emphasizing its role in addressing global challenges.\n   - Blackboard: \n     - Central theme: \"构建人类命运共同体\"\n     - Branches: \"价值认同\", \"生动行动\", \"实践\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing to the central theme and branches, likely summarizing the connections between value recognition, dynamic actions, and practice.\n   - The teacher uses hand movements to emphasize key points on the slide, possibly highlighting the importance of the text content.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a comprehensive paragraph summarizing the significance of building a community with a shared future for mankind. The blackboard features a mind map centered around \"构建人类命运共同体,\" with branches labeled \"价值认同,\" \"生动行动,\" and \"实践.\" The teacher visually reviews the content by gesturing towards the mind map, pointing to each branch to reinforce the connections between value recognition, dynamic actions, and practice. She emphasizes key points on the slide, using hand movements to highlight the text. The core takeaway is visually marked by the teacher's deliberate gestures towards the central theme on the blackboard. No visual elements indicate homework or next steps in these frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Community Shared Future",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept2",
+        "label": "Global Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept3",
+        "label": "China Major-Power Diplomacy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept4",
+        "label": "Peaceful Foreign Policy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept5",
+        "label": "New International Relations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept6",
+        "label": "Belt and Road Initiative",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept7",
+        "label": "Value Recognition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept8",
+        "label": "Dynamic Actions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "concept9",
+        "label": "Practice",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[591.1 -> 667.38]"
+      },
+      {
+        "id": "visual1",
+        "label": "Mind Map Blackboard",
+        "type": "Visual",
+        "original_text": "Mind map centered on 'Building a Community with a Shared Future for Mankind' with branches labeled 'Value Recognition', 'Dynamic Actions', 'Practice'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual2",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide summarizing the significance of building a community with a shared future for mankind.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_state1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "addresses",
+        "intent": "Describes how building a community with a shared future addresses global challenges."
+      },
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "includes",
+        "intent": "Part of the overall strategy of building a community with a shared future."
+      },
+      {
+        "source": "concept3",
+        "target": "concept4",
+        "relation": "builds_upon",
+        "intent": "China's major-power diplomacy is based on having a peaceful foreign policy."
+      },
+      {
+        "source": "concept4",
+        "target": "concept5",
+        "relation": "evolves_from",
+        "intent": "Peaceful foreign policy helps to create new international relations."
+      },
+      {
+        "source": "concept1",
+        "target": "concept6",
+        "relation": "promotes",
+        "intent": "The Belt and Road Initiative is an element of creating a shared community."
+      },
+      {
+        "source": "visual1",
+        "target": "concept7",
+        "relation": "visualizes",
+        "intent": "Blackboard mind map branch labeled 'Value Recognition'."
+      },
+      {
+        "source": "visual1",
+        "target": "concept8",
+        "relation": "visualizes",
+        "intent": "Blackboard mind map branch labeled 'Dynamic Actions'."
+      },
+      {
+        "source": "visual1",
+        "target": "concept9",
+        "relation": "visualizes",
+        "intent": "Blackboard mind map branch labeled 'Practice'."
+      },
+      {
+        "source": "visual2",
+        "target": "concept1",
+        "relation": "summarizes",
+        "intent": "Slide summarizes the key points of building a community with a shared future."
+      },
+      {
+        "source": "student_state1",
+        "target": "concept1",
+        "relation": "engages_with",
+        "intent": "Students are listening to the teacher summarizing the concept of a shared future."
+      },
+      {
+        "source": "concept7",
+        "target": "concept8",
+        "relation": "supports",
+        "intent": "Value recognition supports undertaking dynamic actions."
+      },
+      {
+        "source": "concept8",
+        "target": "concept9",
+        "relation": "leads_to",
+        "intent": "Dynamic actions ultimately translate into practical practice."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

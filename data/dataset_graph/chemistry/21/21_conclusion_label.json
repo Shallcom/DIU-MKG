@@ -1,0 +1,197 @@
+{
+  "video_name": "21_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Describe the multiple bonding modes of carbon and their impact on the diversity of organic substances; compare how single, double, and triple bonds appear in organic compounds; analyze how variations in carbon skeletal structures lead to the vast number of organic compound types.",
+  "transcript": "[603.0624 -> 610.1] 好老师跟同学们讨论的差不多了我们请这位同学来代表你们小组分享一下我们小组主要是讨论出来两个原因一个是因为碳的话它可以跟其他的碳去形成比如说单键双键或者三键它的成键方式有很多的这位同学归纳的很好碳原子跟碳原子之间呢它的成件方式可能不一样可以单件的形式也可以呢以这样双件的形式还可以三件的形式对不对啊所以呢原因可能是成件方式不一样还有呢我考虑出来另外一个就是碳碳键它是一个比较稳定的键就像如果我们咬咬键那个键就不是很稳定来探探键哇这位同学的学习非常超前他通过碳原子跟碳原子之间形成的一个稳定性来阐述这个问题很好请坐那还有没有其他东西有其他的创法除了呢它碳原子和碳原子之间呈键方式不同之外大家请看它既可以形成链状的也可以形成广状的也就是说这个碳骨架是不是也不一样对吧既有这个直链的当然也可以形成缓冲所以呢汉骨架的连接方式是不是也不一样。\n[631.36 -> 658.6] 所以我们刚刚通过这个食物通过超新黏土这样的一个食物模型我们就认识到了碳原子结成有机物它种类反复的原因有呈现方式的不同还有呢碳与骨架的连接方式不同除此之外还有没有什么其他的原因呢我们接着往下学习我的课程教学到此结束感谢各位评委老师的耐心聆听感谢同学们的积极配合。\n[661.36 -> 663.06] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains handwritten notes and diagrams.\n   - The layout includes chemical formulas and a diagram of molecular structures displayed on the screen to the right.\n\n2. **Key Knowledge Items (Content View)**:\n   - On the blackboard:\n     - The phrase \"认识有机化合物\" (Understanding Organic Compounds).\n     - The chemical formula $\\text{H} - \\text{C} \\equiv \\text{C} - \\text{H}$.\n     - The term \"结构决定性质\" (Structure Determines Properties).\n   - On the screen:\n     - A diagram showing molecular structures with circles representing atoms and lines representing bonds.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical formula $\\text{H} - \\text{C} \\equiv \\text{C} - \\text{H}$ on the blackboard, emphasizing its structure.\n   - The teacher gestures towards the phrase \"结构决定性质\" to highlight the relationship between molecular structure and properties.\n   - The teacher occasionally points to the molecular diagram on the screen, linking it to the concepts discussed on the blackboard.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key concepts and a molecular diagram on the screen. The teacher visually wraps up the lesson by pointing to the chemical formula $\\text{H} - \\text{C} \\equiv \\text{C} - \\text{H}$, emphasizing its structure. He then gestures towards the phrase \"结构决定性质,\" reinforcing the connection between molecular structure and properties. The teacher occasionally directs attention to the molecular diagram on the screen, linking it to the blackboard content. No explicit visual elements indicate homework or next steps, focusing solely on consolidating the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Organic Compounds",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Carbon Bond Modes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Single Bond",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Double Bond",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Triple Bond",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Stable Carbon Bonds",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Carbon Skeleton Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[631.36 -> 658.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Linear Chains",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[631.36 -> 658.6]"
+      },
+      {
+        "id": "c9",
+        "label": "Branched Chains",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[631.36 -> 658.6]"
+      },
+      {
+        "id": "c10",
+        "label": "Structure Determines Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[603.0624 -> 610.1]"
+      },
+      {
+        "id": "v1",
+        "label": "H-C≡C-H Formula",
+        "type": "Visual",
+        "original_text": "Chemical formula H-C≡C-H displayed on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Molecular Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing molecular structures with circles representing atoms and lines representing bonds",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Structure Determines Properties",
+        "type": "Visual",
+        "original_text": "Phrase 'Structure Determines Properties' on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "s2",
+        "label": "Student Presentation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Organic compounds are characterized by various carbon bond modes."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Carbon bond modes include single, double, and triple bonds."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Carbon bond modes include single, double, and triple bonds."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Carbon bond modes include single, double, and triple bonds."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Stable carbon bonds contribute to the diversity of organic compounds."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Variations in carbon skeleton structures lead to numerous organic compound types."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Carbon skeleton structures can be linear or branched."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Carbon skeleton structures can be linear or branched."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Properties of organic compounds are determined by their molecular structure."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Chemical formula and phrase on the blackboard summarize the lesson's concepts."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Molecular diagram on the screen visualizes concepts from the blackboard."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Group discussion encourages exploration of carbon bond modes."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "praises_response",
+        "intent": "Student presentation highlights stable carbon bonds as a key concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

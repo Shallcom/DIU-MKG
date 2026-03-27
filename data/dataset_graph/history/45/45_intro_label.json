@@ -1,0 +1,114 @@
+{
+  "video_name": "45_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Understand the role of the history discipline in shaping students’ values, life outlook, and worldview; recognize the importance of studying history for comprehensive personal development.",
+  "transcript": "[0.0 -> 54.92] 第二微观教学中历史对学生的作用历史学科是人文学科那么对于学生世界观人生观价值观三观的形成有着极为重要的作用能够促进学生全面均衡的发展我们说历史不是黑黑斯多瑞而是海斯多瑞是我们自己的故事我的即兴讲演到此结束下面开始我的模拟授课与历史说你好。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the video. It features the text \"中国古代有哪些盛世?\" (What are the prosperous eras in ancient China?) in Chinese characters, set against a beige background with a red seal-like stamp.\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"中国古代有哪些盛世?\" (What are the prosperous eras in ancient China?). The teacher stands in front of the screen, holding a paper, and gestures towards the title, emphasizing its importance. The title is prominently displayed in the center of the screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title question.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points while speaking. They occasionally point towards the screen, directing attention to the title. The teacher also holds a piece of paper, likely notes or a script, and uses it to reference content during the introduction.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title slide featuring the competition information and the subject \"历史学\" (History) with the number 45.\n- Transition to the classroom setting where the teacher stands in front of a screen displaying the title \"中国古代有哪些盛世?\" (What are the prosperous eras in ancient China?).\n\n**Middle:**\n- The teacher gestures towards the screen, pointing at the title to draw attention.\n- The teacher holds a paper and uses hand movements to emphasize key points, occasionally looking at the audience to engage them.\n\n**End:**\n- The teacher continues to gesture towards the screen, maintaining focus on the title question.\n- The classroom setting remains consistent, with the teacher actively engaging with the audience through gestures and eye contact.\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"中国古代有哪些盛世?\" (What are the prosperous eras in ancient China?), serving as the hook to capture the students' attention. The teacher holds a piece of paper, likely containing notes, and uses deliberate hand gestures to emphasize the title, pointing directly at the screen to highlight its significance. The classroom setting is simple, with a blackboard and speakers visible, creating a focused learning environment. As the teacher engages with the audience, they occasionally glance at their notes, ensuring a structured delivery. The transition from the hook to the main topic is seamless, with the teacher maintaining eye contact and using expressive gestures to connect with the students. This visual approach effectively bridges the students' existing knowledge of Chinese history with the new topic of ancient prosperous eras, setting the stage for an exploration that links past achievements to broader historical understanding. The introduction is designed to spark curiosity and establish a clear focus for the lesson, preparing students for a deeper dive into historical analysis.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "History Discipline",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Values Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Life Outlook",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Worldview",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Comprehensive Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Hook",
+        "type": "Visual",
+        "original_text": "What are the prosperous eras in ancient China?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "t1",
+        "label": "Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher pointing and gesturing towards the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "t2",
+        "label": "Teacher Engages",
+        "type": "Visual",
+        "original_text": "Teacher maintaining eye contact and using expressive gestures.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Curious Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "History discipline impacts values formation."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "History discipline shapes life outlook."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "History discipline contributes to worldview development."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "History supports comprehensive personal development."
+      },
+      {
+        "source": "v1",
+        "target": "t1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the importance of title using gestures."
+      },
+      {
+        "source": "t2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engagement through gestures prompts student curiosity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

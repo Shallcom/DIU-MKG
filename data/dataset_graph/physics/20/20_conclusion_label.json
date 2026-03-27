@@ -1,0 +1,159 @@
+{
+  "video_name": "20_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the key experiments in the history of optics development and their impact on modern science; analyze the significance of Newton’s prism experiment in spectroscopic research.",
+  "transcript": "[369.8294 -> 402.8] 那各个国家的物理学家在研究光学方面的知识做出了很多有用的贡献比如我们熟知的牛顿用棱镜得到的太阳光谱或者我们富朗合肺记录的太阳光谱并且我们饥饿祸福和本生成之初的棱镜光毁遗正所谓我们生活走向物理物理走向社会我们国家在工学方面的研究啊也跻身了各个国家的前列所以我希望同学们能厚积薄发为国铸剑不负时代不负未来努力践行科技强国科技报国科教兴国等相关理念。\n[404.26 -> 429.08] 为实现中华民族伟大复兴而做出有用的贡献以上是我全部的模拟上课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard. It features a list of key terms and a formula written in white chalk. The layout is organized with terms on the left and the formula on the right.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key items:\n     - 一能级 (Energy Level)\n     - 定态 (Steady State)\n     - 基态 (Ground State)\n     - 激发态 (Excited State)\n     - Formula: $hv = E_m - E_n$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher turns to face the blackboard and points to each term sequentially, likely reviewing their definitions or significance.\n   - The teacher gestures towards the formula $hv = E_m - E_n$, possibly emphasizing its importance or summarizing its application.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the blackboard or screen. The focus remains on the summary of the lesson's key points.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on energy levels and states. The teacher visually reviews the content by pointing to each term in sequence, briefly pausing on the final formula $hv = E_m - E_n$. This formula is emphasized as the core takeaway, with the teacher likely highlighting its significance through deliberate gestures. There is no visual indication of homework or next steps, keeping the focus on the summarized key concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Energy Level",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept2",
+        "label": "Steady State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept3",
+        "label": "Ground State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept4",
+        "label": "Excited State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept5",
+        "label": "Photon Energy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept6",
+        "label": "Newton's Prism Experiment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept7",
+        "label": "Spectroscopy Research",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept8",
+        "label": "Solar Spectrum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "concept9",
+        "label": "Scientific Contribution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.8294 -> 429.08]"
+      },
+      {
+        "id": "visual1",
+        "label": "Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "$hv = E_m - E_n$",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual2",
+        "label": "Key Terms on Blackboard",
+        "type": "Visual",
+        "original_text": "Energy Level, Steady State, Ground State, Excited State",
+        "ocr_corrected": false
+      },
+      {
+        "id": "student_state1",
+        "label": "Students Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "visual2",
+        "relation": "visualizes",
+        "intent": "Illustrates the concept of energy levels on the blackboard."
+      },
+      {
+        "source": "concept2",
+        "target": "visual2",
+        "relation": "visualizes",
+        "intent": "Displays the concept of a steady state on the blackboard."
+      },
+      {
+        "source": "concept3",
+        "target": "visual2",
+        "relation": "visualizes",
+        "intent": "Shows the concept of ground state on the blackboard."
+      },
+      {
+        "source": "concept4",
+        "target": "visual2",
+        "relation": "visualizes",
+        "intent": "Defines the concept of excited state on the blackboard."
+      },
+      {
+        "source": "concept5",
+        "target": "visual1",
+        "relation": "emphasizes",
+        "intent": "Highlights photon energy through the formula $hv = E_m - E_n$."
+      },
+      {
+        "source": "concept6",
+        "target": "concept7",
+        "relation": "builds_upon",
+        "intent": "Newton's experiment contributed to advanced spectroscopy procedures."
+      },
+      {
+        "source": "concept8",
+        "target": "concept9",
+        "relation": "evolves_from",
+        "intent": "Understanding the solar spectrum arises from historical scientific contributions."
+      },
+      {
+        "source": "concept9",
+        "target": "concept6",
+        "relation": "includes",
+        "intent": "Scientific contributions include Newton's prism experiment."
+      },
+      {
+        "source": "visual1",
+        "target": "student_state1",
+        "relation": "scaffolds",
+        "intent": "Supports students' engagement by summarizing key formula visually."
+      },
+      {
+        "source": "visual2",
+        "target": "student_state1",
+        "relation": "engages",
+        "intent": "Keeps students focused with key term visualization."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

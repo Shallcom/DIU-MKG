@@ -1,0 +1,152 @@
+{
+  "video_name": "35_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Students will be able to observe and describe the phenomena of falling objects; understand the primary factors that affect the speed of a falling object; develop scientific inquiry skills and the ability to solve real‑world problems.",
+  "transcript": "[0.0 -> 196.86] 的自主学习并且通过多种多样的教学方式并结合当代信心技术培养学生的科学思维并培养他们科学探究以及解决问题的能力第二高中课程注重评价性评价性充分要求评价来促进学生的发展以及学习评价性主要包括诊断性功能和激励性功能在制定评价体系时制定评价体系也要充分地目标明确主体多元方法多样以求达到既重视结果也重视过程的凌驾体系并且要充分考虑学生的特性化以及能力的差别在不断地改进他们的学习方式建立他们的学习信心以此来培养他们的物理核心素养第三要物理物理学科知识在实际生活中的应用因为物理观念的建立是从一个感性思维到理性思维再回到感性思维的过程我们要培养全体学生共同的学习基础并且为他们未来和现在的挑战做好充足的准备最后波斯纳曾经说过经验加反思等于成长我会在以后的不断教学中不断地反思总结形成自己一套醒知有效的教学方式以为祖国培养有理想有担当的社会好青年我的极其联想到此结束接下来进行我的模拟授课上课同学们好老师的粉笔掉落了粉笔的掉落是一种怎样的运动过程呢运动状态呢这位同学你来回答一下粉笔的掉落它是属于什么样的运动呢是不是一个落体运动是不是好请坐不要明点那么在我们实际生活中其实我们能看到大量的落体运动就是根据这一特点敏锐的古人们根据这一运动创建出了许多绘制人口的诗句例如飞流指下三千尺一是一落九天他就描述了瀑布的飞落过程还有在宋葛谦问中江上双峰夜夜红不堪摇落又熄风他就描写了风夜缓缓下落的过程看来不同物体的下落不同重量物体的下落之间它们的速度下落快慢是不同的那么影响物体下落快慢的因素是什么呢同学们你们来想一想。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The hook object is the title slide with the text \"自由落体运动\" (Free Fall Motion) prominently displayed in a blue box.\n\n#### 2. **The Title Event**\n- The title \"自由落体运动\" is shown on the digital screen. The teacher does not physically write it but points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, likely explaining concepts related to the title.\n- She occasionally points towards the screen, directing attention to the title.\n- At one point, she uses a hand gesture to emphasize a point, possibly related to the content of free fall motion.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class with a digital slide titled \"自由落体运动\" displayed on the screen.\n- She holds papers and gestures, likely introducing the topic of free fall motion.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen to emphasize the title.\n- She uses hand movements to explain concepts, possibly outlining the basics of free fall motion.\n\n**End:**\n- The teacher maintains focus on the screen, using gestures to reinforce key points about the topic.\n- The digital slide remains unchanged, keeping the title \"自由落体运动\" as the central visual element.\n\nThis structured approach ensures that the teacher's actions are directly linked to the visual content, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"自由落体运动\" as the opening visual stimulus, setting the stage for the lesson. To bridge to the topic, the teacher gestures towards the screen, emphasizing the title with hand movements and pointing. The visual focus remains on the digital slide, with the teacher using papers and gestures to introduce foundational concepts. This approach connects the new knowledge of free fall motion to the students' existing understanding by visually anchoring the lesson to the title. The consistent emphasis on the screen ensures that the lesson goal is clearly established, preparing students for further exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Free Fall Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 196.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Falling Objects",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[196.86 -> 196.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Speed of Falling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[196.86 -> 196.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Inquiry Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[196.86 -> 196.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Real-World Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[196.86 -> 196.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Free Fall Motion Title Slide",
+        "type": "Visual",
+        "original_text": "The digital slide displaying 'Free Fall Motion'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures with hands towards the slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c6",
+        "label": "Gravity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[196.86 -> 196.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Air Resistance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[196.86 -> 196.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Object Weight",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[196.86 -> 196.86]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The title slide visually anchors the lesson's focus on free fall motion."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Free fall motion is the general concept that can be examined through the phenomena of falling objects."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding falling objects helps explain the principle of the speed of falling."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Gravity influences the speed at which objects fall."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Air resistance affects the speed of a falling object."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Object weight is a factor affecting falling speed."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Teacher's gestures help visualize and explain the concept of free fall."
+      },
+      {
+        "source": "t1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher prompts students to consider the type of motion involved in falling objects."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Teacher gestures support student engagement and response."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Scientific inquiry skills are foundational for solving real-world problems."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

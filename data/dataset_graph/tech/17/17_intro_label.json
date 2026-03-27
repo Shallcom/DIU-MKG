@@ -1,0 +1,152 @@
+{
+  "video_name": "17_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Master the basic steps and methods of model construction; understand the importance of scientific experiment design and validation; develop the ability to formulate hypotheses based on observed phenomena and conduct analysis.",
+  "transcript": "[0.0 -> 154.26] 科学的物理化学生物把各个学科系统更加细分细化那么我认为模型建构能力它在教学环节当中我们通过前期的动机激发让同学们通过日常生活当中的实例或者是日常生活当中我们见到的现象然后提出问题然后我们再根据建立冲突之后我们在动机激发之后我们再建立冲突之后我们进行模型的建构去怎样解决这个生活当中的现象用科学的眼光用物理的眼光或者从更科学的角度去来了解我们这个模型建构的重要性那么我认为模型建构它可以是在一个学习当中或者是教学当中我们可以通过让学生去看然后从而提出假设然后提出假设之后我们再通过实验的设计然后完成实验通过实验现象我们得出结论这我觉得是一个完整的模型建构的一个重要步骤那么在党的二十大当中也提到了强化现代化人才建设支撑然后我们更需要用教育来强国在教育强国的目标下我们更需要系统性地来把学科的教育学知识细分那么我觉得模型建构更模型建构能力的培养是可以让学生们在未来的社会实践当中起到一定重要性作用的它可以通过一些现象尽管是科技还有还是虚拟现实技术它可以通过观察一定的现象来完成来完成我们一些就是实验当中的来完成设计从而更加系统去研究就相当于是它可以把一些现象看懂看明白然后再进行建构然后从而提出假设然后去设计实验来完成一定的设计比如说我们在完成一些起明星项目的时候我们可以通过利用VR技术投身到我们的消防防火训练当中从而来进行设计实验然后把VR技术运用到我们的消防防火高校的消防防火当中这些就是通过观察现象以及利用现在的科学技术来完成的我想这些都是我们在模型建构的基础上去一步一步地实现完成了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide contains text in Chinese, which appears to be a question or statement related to the lesson content. The exact text is not fully legible, but it includes a phrase that seems to be a prompt or topic for discussion.\n\n#### 2. **The Title Event**\n- The title is not explicitly written on the blackboard. The digital slide on the screen contains a heading, but it is not clearly visible. The teacher does not perform any specific action like underlining or circling a title on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the blackboard or the digital slide. The slide primarily contains a question or statement, but no bullet points or objectives are discernible.\n\n#### 4. **Key Gestures**\n- The teacher gestures with their hands while speaking, occasionally pointing towards the digital screen.\n- The teacher holds a red object, possibly a paddle or pointer, which is used to emphasize points during the presentation.\n- The teacher moves their hands expressively, likely to engage the audience and emphasize key points.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium, facing the class. The digital screen displays a slide with text in Chinese.\n- The teacher gestures with their hands, possibly introducing the topic or explaining the content on the slide.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize points. They occasionally point towards the digital screen.\n- A student in the front row raises a red paddle, which the teacher acknowledges, possibly indicating a response or participation.\n\n**End:**\n- The teacher continues to engage with the class, using expressive hand movements and occasionally pointing to the screen.\n- The digital slide remains the same throughout, with no changes or transitions observed.\n\n### Summary\nThe lesson introduction phase primarily involves the teacher using expressive gestures and a digital slide to engage the class. The hook object is the slide with Chinese text, which likely serves as a prompt or topic for discussion. The teacher's gestures, including pointing and holding a red paddle, are used to emphasize key points and encourage class participation. No specific title or learning objectives are visible, and the focus remains on the interaction with the digital content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, facing the class, with a digital slide displayed on the screen as the opening visual stimulus. The slide contains Chinese text, serving as the hook to engage the students. The teacher uses expressive hand gestures, occasionally pointing towards the digital screen to emphasize the content. A student in the front row raises a red paddle, which the teacher acknowledges, indicating active participation. Throughout the introduction, the teacher continues to gesture, holding the red paddle to highlight key points. The digital slide remains consistent, focusing on the initial prompt without transitioning to a new topic. The teacher's gestures and interaction with the digital content create a bridge, linking the hook to the main topic by encouraging student engagement and participation. This approach sets the stage for connecting new knowledge to the students' existing experiences, fostering an interactive learning environment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Hypothesis Formulation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Experiment Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Validation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Slide",
+        "type": "Visual",
+        "original_text": "Slide with Chinese text prompting discussion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "v2",
+        "label": "Red Paddle",
+        "type": "Visual",
+        "original_text": "Red paddle used for emphasis",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "VR Technology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Phenomena Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 154.26]"
+      },
+      {
+        "id": "c8",
+        "label": "Systematic Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 154.26]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Model construction is based on hypothesis formulation."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Hypothesis formulation leads to experiment design."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Experiment design includes observation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Observation is foundational for scientific validation."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide prompts discussion, while the paddle emphasizes key points."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Engaged students transition into responding to prompts."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "VR technology applications evolve from phenomena analysis."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Systematic knowledge enhances understanding of model construction."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Scientific validation includes systematic knowledge principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

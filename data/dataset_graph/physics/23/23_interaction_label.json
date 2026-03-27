@@ -1,0 +1,132 @@
+{
+  "video_name": "23_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Describe the directional characteristics of velocity in curvilinear motion; apply limit reasoning to analyze the process by which average velocity approaches instantaneous velocity.",
+  "transcript": "[522.94 -> 541.64] 那请同学们思考一下假如说这个B点它能够无限地接近于A点呢比如说当B点到了C点再到D点E点F点当B点到了F点此时已经与A点十分接近了这个时候这条割线是不是变成了这个样子是的当B点非常接近A点时这条割线我们就叫做曲线在A点的切线。\n[542.82 -> 569.0] 好那我们来看同样的还是这条曲线我们看当一个物体从B点运动到A点时平均速度的方向是什么方向啊请魏同学回答一下当质点从B点运动到A点时平均速度的方向是什么方向呢。\n[572.82 -> 591.88] 好这位同学请你回答一下沿着A到B直线的方向对是这一条直线的方向对不对是的从B点指向A点这一条直线的方向。\n[593.28 -> 604.26] 那请同学们再接着思考当B点同样的无线接近于A点的时候平均速度的方向又会是什么样呢。\n[607.0 -> 637.78] 是的同样的我们看C点D点E点F点当这个点到了F点的时候已经非常接近于A点了吧那此时平均速度的方向是不是就是这条切线的方向呀是的因此啊我们就可以得出这点在某一点的速度方向也曲线在这一点的切线方向。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She also pointed directly at the diagram on the interactive whiteboard, drawing attention to the curve and points labeled A and B.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the diagram on the interactive whiteboard, specifically the curve labeled with points A and B. The text on the slide discusses the direction of velocity for a point moving along the curve.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While the teacher was speaking, she used hand gestures to emphasize the direction of movement along the curve from point A to point B. She occasionally pointed to the curve and the points to guide the students' understanding.\n- The teacher also used the interactive whiteboard to highlight different parts of the curve and points, reinforcing the discussion about velocity direction.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually validated the discussion by adding text to the slide, such as \"B点从A点运动到B点, 平均速度方向为?\" and \"B点无限趋近于A点时, 平均速度方向为?\" These additions clarified the focus of the question.\n- She also used gestures to indicate the tangent line at point A, explaining its relevance to the instantaneous velocity direction. This visual elaboration helped clarify the concept being discussed.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher points to the curve on the interactive whiteboard, highlighting the path from A to B.\n  - She gestures towards the text on the slide, emphasizing the question about average velocity direction.\n\n- **Middle:**\n  - The teacher adds text to the slide, clarifying the movement from A to B and the concept of approaching A.\n  - She uses hand gestures to trace the curve and indicate the direction of movement, reinforcing the discussion.\n\n- **End:**\n  - The teacher points to the tangent line at point A, explaining its significance in determining instantaneous velocity direction.\n  - She confirms the understanding by summarizing the key points visually on the board, ensuring students grasp the concept.\n\nThis structured visual interaction helps students connect the diagram with the theoretical concepts being discussed, enhancing their understanding of velocity direction in curved motion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the interactive whiteboard displayed a diagram with a curve and points A and B, accompanied by text discussing the direction of velocity for a point moving along the curve. The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly at the curve to focus their attention on the problem.\n\nAs the discussion progressed, the teacher actively facilitated the interaction by moving towards the interactive whiteboard. While explaining the concept of average velocity, she used hand gestures to trace the curve from A to B, emphasizing the direction of movement. She added text to the slide, clarifying the transition from average to instantaneous velocity as point B approached A. These gestures and additions helped students visualize the theoretical concepts being discussed.\n\nTo support the students' understanding, the teacher pointed to the tangent line at point A, explaining its significance in determining instantaneous velocity direction. She used supportive gestures, such as nodding and smiling, to encourage students as they responded, creating an engaging learning environment.\n\nThe climax of the interaction came when the teacher visually confirmed the key concepts. She drew an arrow on the whiteboard, illustrating the tangent line at point A, and highlighted the direction of instantaneous velocity. This visual action validated the students' understanding and connected their responses back to the core lesson content about velocity in curved motion.\n\nThroughout the process, the teacher's gestures and visual aids transformed passive reception of knowledge into active construction. By linking the diagram on the board with real-time explanations and student interactions, she guided students in applying and verifying their understanding of velocity direction in curved motion, fostering a deeper comprehension of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Curvilinear Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[522.94 -> 637.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Average Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[541.64 -> 569.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Instantaneous Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[593.28 -> 637.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Tangent Line",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[607.0 -> 637.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Point A",
+        "type": "Visual",
+        "original_text": "Point A on curve diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Point B",
+        "type": "Visual",
+        "original_text": "Point B approaching Point A",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Interactive Whiteboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing curve with points A and B",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Direction of Movement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[541.64 -> 637.78]"
+      },
+      {
+        "id": "ss1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Explains the concept of average velocity within curvilinear motion."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Describes the transition from average to instantaneous velocity."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Tangent line is used to represent instantaneous velocity direction."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Highlights the movement on the curve from Point B to Point A."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Uses the diagram to trace the direction of motion from A to B."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Connects tangent line direction with velocity direction."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Displays the concept of curvilinear motion through a diagram."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "guides_discussion",
+        "intent": "Facilitate student engagement with directional analysis."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think about curvilinear motion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

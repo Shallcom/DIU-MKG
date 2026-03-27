@@ -1,0 +1,173 @@
+{
+  "video_name": "4_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "Understand the background and causes of the Jin–Qin conflict with Zheng; analyze the article’s deep interpretation of the war’s nature.",
+  "transcript": "[148.0 -> 167.38] 相信同学们都已经看完了第一自然段了接下来谁能回答一下老师文章创作的背景发生了一件什么样的事情呢。\n[168.46 -> 244.02] 你来说说是郑国被入的晋国和被晋军的秦军有过郑国被两个大国同时攻击风雨飘摇了这个时候我们可以看到开战的原因是什么呢看到第一句话中秦侯进伯为政以其无礼于进且二礼于除也他反心二意了违背了他们之间的同盟因此要开战但是实际上真的是这样的吗我们的国家是一个讲理的国家尤其是在春秋这个讲理的时代他们不能随意地对发动攻击那大国要怎么侵犯他们呢摆出一个看似很正经的例子实际上呢是秦晋想要瓜分政府这战役不是一场道义之战而是一场利益之战秦国晋国也并不是牢不可破的联盟而是一场利益联盟接下来继续看看到第二段令人心疼的主之物同学们自询学读之后环绕着的是竹竹的形象具体表现在什么方面呢好好研究一下。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The initial visual anchor is a digital slide on the right side of the classroom, displaying bullet points in Chinese. The blackboard on the left is initially blank.\n- **Teacher's Action**: The teacher writes \"决定式表所\" on the blackboard. This action is synchronized with the slide content, which lists criteria for essay writing.\n- **Visual Necessity**: The blackboard text is written in white chalk, contrasting with the green background. The digital slide uses a white background with black text, maintaining readability.\n\n#### Middle\n- **Derivation Process (Dynamic)**:\n  - **Additions**: The teacher adds more text to the blackboard, aligning with the slide's content. The slide updates to show \"开头叙述的例题\" with additional bullet points.\n  - **Modifications**: The teacher gestures towards the slide, emphasizing the bullet points. No erasure is observed.\n  - **Deictic Gestures**: The teacher points to specific bullet points on the slide while explaining, such as \"开头叙述：1.描写上口二点\" and \"开头叙述：2.描写上口三点\".\n- **Highlighting Strategy (Emphasis)**: The teacher uses hand gestures to underline key points on the slide, drawing attention to the structure of essay writing.\n\n#### End\n- **Core Artifact (Static)**: The final visual anchor remains the digital slide, now displaying \"令人印象的结尾\" with a blank space for further content.\n- **Teacher's Action**: The teacher continues to gesture towards the slide, preparing to discuss the next topic.\n- **Visual Necessity**: The slide maintains a clean layout, with the title in bold, indicating a shift in focus to essay conclusions.\n\n### Knowledge Flow Tracking\n\n1. **The Core Artifact (Static)**:\n   - **Initial State**: The digital slide starts with essay writing criteria, while the blackboard is initially blank.\n   - **Structure**: The slide uses bullet points for clarity, and the blackboard text is written in a straightforward manner.\n\n2. **The Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes key terms on the blackboard that correspond to the slide content, enhancing visual learning.\n   - **Modifications**: No erasures are made; the focus is on adding information.\n   - **Deictic Gestures**: Specific bullet points are highlighted through pointing, ensuring students follow along with the lecture.\n\n3. **The Highlighting Strategy (Emphasis)**:\n   - **Visual Cues**: The teacher uses hand gestures and positioning to emphasize important sections of the slide, aiding in student comprehension.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on both the blackboard and digital slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital slide displayed key criteria for essay writing, serving as the primary visual anchor. The blackboard was blank, awaiting the teacher's input. As the lecture progressed, the teacher constructed the concept of essay structure by writing \"决定式表所\" on the blackboard, aligning it with the slide's bullet points. The teacher derived further insights by adding text to the blackboard, mirroring the slide's updates to \"开头叙述的例题.\" He annotated the slide by pointing to specific bullet points, such as \"开头叙述：1.描写上口二点,\" tracing these elements to emphasize their importance. The teacher resolved deixis by gesturing towards the slide's bullet points, ensuring students understood each criterion. Visual emphasis was achieved by maintaining a clear layout on both the slide and blackboard, with bold titles and contrasting colors. Finally, he transitioned to discussing \"令人印象的结尾,\" preparing students for the next topic. This structured visual approach reduced cognitive load by synchronizing board and slide content, allowing students to follow the lecture seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Jin-Qin Conflict",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Zheng Attack",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Jin State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Qin State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c5",
+        "label": "War Causes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Diplomatic Fails",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Alliance Violation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Interest Conflict",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[168.46 -> 244.02]"
+      },
+      {
+        "id": "c9",
+        "label": "Impressionable Conclusion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[244.02 -> 244.02]"
+      },
+      {
+        "id": "v1",
+        "label": "Essay Writing Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying essay writing criteria",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Writing",
+        "type": "Visual",
+        "original_text": "Text '决定式表所' written on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Opening Example Slide",
+        "type": "Visual",
+        "original_text": "Slide showing '开头叙述的例题'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying '令人印象的结尾'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Reflecting",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes the conflict involving Zheng being attacked by Jin and Qin."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "involves",
+        "intent": "Involvement of Jin state in attacking Zheng."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "involves",
+        "intent": "Involvement of Qin state in attacking Zheng."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "The causes of war evolve from diplomatic failures."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The principle of war causes builds upon alliance violations."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Includes the concept of interests conflict in war causes."
+      },
+      {
+        "source": "c9",
+        "target": "v4",
+        "relation": "summarizes",
+        "intent": "Concludes the lesson with a visual summary on the slide."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Slide content supports the blackboard writing."
+      },
+      {
+        "source": "v3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Opening example slide visualizes essay writing criteria."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Impressionable conclusion prompts student reflection and engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

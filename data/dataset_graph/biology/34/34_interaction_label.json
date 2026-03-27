@@ -1,0 +1,144 @@
+{
+  "video_name": "34_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "- Be able to construct a general model of energy flow based on a specific food chain.  \n- Understand the basic laws and characteristics of energy transfer within a food chain.  \n- Apply the concept of energy flow to analyze problems in real ecosystems.",
+  "transcript": "[546.2255 -> 554.38] 好了大家都换完了吗\n[568.56 -> 587.14] 来这位同学我们画出了这个图之后这是一个一条特定的食物链那你能不能根据这条食物链总结出一个一般的一个模型呢\n[588.56 -> 666.2255] 你上来画一下非常好请回你们是不是这样想的到这里我们就构建出了能量沿食物链流动的过程模型现在大家能回答我们课前那个演绎推理的那个结果吗通过分析分析这个结果是吗这个东西非常好因为这辆有较少的能量散失好这样我们就总结出了能量流动的概念",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She then pointed directly to the diagram on the blackboard, indicating where students should focus their attention.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the energy flow diagram on the blackboard, which included the terms \"生产者\" (producers), \"初级消费者\" (primary consumers), and \"次级消费者\" (secondary consumers).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As a student approached the board, the teacher stepped back slightly, allowing the student to interact with the diagram. She observed attentively, nodding to encourage the student's participation.\n- While the student was writing on the board, the teacher pointed to the screen displaying the slide titled \"生态系统中的能量流动\" (Energy Flow in Ecosystems), reinforcing the connection between the slide content and the blackboard diagram.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student added \"分解者\" (decomposers) to the diagram, the teacher circled the term and drew arrows indicating the flow of energy to and from the decomposers.\n- She then wrote \"$20\\%\" next to the arrows, visually confirming the proportion of energy transfer discussed.\n- The teacher gave a thumbs-up gesture, validating the student's contribution and ensuring the class understood the updated diagram.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher gestures to the class, then points to the blackboard diagram.\n  - Slide on the screen shows \"生态系统中的能量流动\" with a structured flowchart.\n\n- **Middle:**\n  - Student writes \"分解者\" on the blackboard.\n  - Teacher points to the screen, linking slide content to the updated diagram.\n  - Teacher circles \"分解者\" and draws energy flow arrows with \"$20\\%$\" annotations.\n\n- **End:**\n  - Teacher gives a thumbs-up, visually confirming the student's input.\n  - Final diagram on the board includes producers, consumers, decomposers, and energy percentages, aligning with the slide content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed a basic energy flow diagram with \"生产者\" (producers), \"初级消费者\" (primary consumers), and \"次级消费者\" (secondary consumers). The teacher began by making a sweeping gesture towards the class, inviting participation, and then pointed directly to the diagram to focus attention.\n\nAs a student approached the board, the teacher stepped back, allowing the student to add \"分解者\" (decomposers) to the diagram. While the student wrote, the teacher observed attentively, nodding to encourage their efforts. She then pointed to the slide titled \"生态系统中的能量流动\" (Energy Flow in Ecosystems), reinforcing the connection between the slide content and the evolving diagram.\n\nTo facilitate understanding, the teacher walked over to the board and drew arrows indicating energy flow to and from the decomposers, writing \"$20\\%\"$ next to them to illustrate energy transfer proportions. This visual elaboration supported the student's input and clarified the concept.\n\nTo validate the student's contribution, the teacher circled the term \"分解者\" and gave a thumbs-up, confirming the accuracy of the addition. She then drew arrows linking the decomposers back to the producers and consumers, visually tying the new information to the core lesson on energy flow in ecosystems.\n\nThrough these gestures, the teacher transformed the classroom interaction from passive reception to active construction, enabling students to visualize and internalize the complex relationships within an ecosystem's energy dynamics.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Producers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "c2",
+        "label": "Primary Consumers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "c3",
+        "label": "Secondary Consumers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "c4",
+        "label": "Decomposers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "c5",
+        "label": "Energy Flow",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "c6",
+        "label": "Energy Transfer Proportion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "v1",
+        "label": "Energy Flow Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing energy flow with producers, primary and secondary consumers, and decomposers.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Energy Flow in Ecosystems",
+        "type": "Visual",
+        "original_text": "Slide titled 'Energy Flow in Ecosystems' with a structured flowchart.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Class Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Individual Contribution",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Producers are included in the energy flow diagram."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Primary consumers are part of the energy flow diagram."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Secondary consumers are included in the energy flow diagram."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Decomposers added to the energy flow diagram."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Energy flow concept builds upon the understanding of energy transfer proportion."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Energy transfer proportion visualized as $20\"%\" in the diagram."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Slide content emphasizes elements on the blackboard diagram."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Student contributes by adding decomposers to the model."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "engages_with",
+        "intent": "Class engaged with the concept of energy flow through interaction."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Including decomposers evolves the model of energy flow."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

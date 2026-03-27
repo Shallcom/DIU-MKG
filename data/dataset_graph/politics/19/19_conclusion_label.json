@@ -1,0 +1,168 @@
+{
+  "video_name": "19_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the diversity and complexity of the connections among phenomena; recognize the interrelationships among the various factors within an ecosystem.",
+  "transcript": "[596.02 -> 614.58] 长菌苹果它可能就是它出现的条件非常的苛刻但是这个网友家里却出现了然后他们中国医院可能想要研究一下最近是什么条件诱发了这个苹果长菌那它对我们以后发展有可能会存在什么作用呢。\n[616.16 -> 628.98] 这个军座可能是有意的圈套在这个方面说可能会对我们以后的生活可能有所帮助那除了对我们生活有帮助还可能会对其他方面有所帮助吗。\n[631.68 -> 651.2] 就比如我们国家发展什么化学行业的进步是不是都可能以这个小军的发展而研究出来呢是不是皆有可能一切皆有可能很好请坐感谢这个同学的回答。\n[652.38 -> 670.02] 那么我们可以从一个小小的长军苹果我们可以联想到我们的对我们的生活的作用而且还可能会对国家产生作用那这能够说明什么呢说明啊我们事物的联系是多样的。\n[671.08 -> 714.36] 通过一个小小的苹果我们能想到各种各样的事物那就这就说明物与物之间的联系具有多种的作用那么老师又给大家带来了几个古代的词语唇亡齿寒鱼儿离不开水蝈儿离不开秧请同学们说出这些成语之间有什么关系呢很好刚才同学们的回答都非常棒明确地说出了这些事物之间的联系。\n[715.4 -> 744.84] 那么老师又给大家带了一个小背镜头人类是生活在生物圈的一个巨大的生态系统那么通过观察这则材料同学们可以看出人类可以影响和改变环境但是人能够改变事物固有的联系吗很好同学们回答得很棒是不能的。\n[750.0 -> 767.42] 我的展示到此结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen.\n   - The slide layout includes a red header with the title \"【例题2】\" and a red footer with a motivational statement.\n   - The central content area contains a block of text with a problem statement and a solution.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide features a problem statement about a man who is not a teacher, a doctor, or a lawyer, and the task is to determine his profession.\n   - The solution involves identifying the man as a taxi driver based on the given clues.\n   - The footer text reads: \"《中学语文》学习中培养逻辑思维能力，提高语文专项学习能力！\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, emphasizing the problem statement and solution.\n   - She points to the text on the slide, likely highlighting key phrases or the conclusion.\n   - The teacher uses hand movements to underline the importance of the solution process.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on the current problem and its solution, suggesting a review or conclusion of the lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displaying a problem statement and its solution, framed by a red header and footer. The teacher visually reviews the content by pointing to the text, emphasizing key phrases within the problem and its logical conclusion. She gestures towards the solution, highlighting the process of identifying the man's profession as a taxi driver. The footer text reinforces the lesson's focus on developing logical thinking skills in Chinese language studies. No explicit homework or next-step instructions are visible, keeping the focus on the lesson's core takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Fungi on Apples",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[596.02 -> 614.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Research Conditions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[596.02 -> 614.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Impact on Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[596.02 -> 614.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemistry Progress",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[631.68 -> 651.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[630.68 -> 651.2]"
+      },
+      {
+        "id": "c6",
+        "label": "Diverse Connections",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[652.38 -> 670.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Interconnectedness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[671.08 -> 714.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Idioms Relationship",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[671.08 -> 714.36]"
+      },
+      {
+        "id": "c9",
+        "label": "Ecosystem Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.4 -> 744.84]"
+      },
+      {
+        "id": "c10",
+        "label": "Material Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[715.4 -> 744.84]"
+      },
+      {
+        "id": "c11",
+        "label": "No Change to Inherent Links",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.4 -> 744.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "Slide with problem statement and solution about determining man's profession as a taxi driver.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Gestures",
+        "type": "Visual",
+        "original_text": "Teacher points at slide emphasizing problem statement and its solution.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Comprehension",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[750.0 -> 767.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Fungi on apples lead to researching conditions that contribute to its growth."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Research conditions evolve into understanding potential impacts on development."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Impact on development includes progress in chemistry."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Diverse connections build upon the concept of interconnectedness."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Interconnectedness includes relationships expressed through idioms."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Ecosystem influence evolves from analyzing materials."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Understanding ecosystem influence builds upon the principle that inherent connections cannot be changed by humans."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The conclusion slide is visualized through teacher's gestures."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Student response prompts engagement and comprehension."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

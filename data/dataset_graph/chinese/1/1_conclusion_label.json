@@ -1,0 +1,153 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Understand the historical background and significance of Mao Zedong’s opposition to party formalism; analyze how “Opposing Party Formalism” guides Communist Party members’ methods of thinking.",
+  "transcript": "[709.92 -> 740.86] 那么我们看到课后背后的学习提示反对党八股是毛泽东于一九四二年二月八日在延安干部会上的讲话当时抗日战争处于最艰难的相识阶段根据地的生存尚且艰难但是中国共产共产党仍然花费宝贵的时间和精力来讨论文风问题起原因又在什么呢。\n[742.64 -> 747.28] 我们就再讨论一下他写这篇文章的意义到底是什么。\n[750.62 -> 767.98] 他不仅指导的是我们写作的应该注意的问题是什么吧同时也是全党全共产党人民的这种做事的方法我们应该要实事糗事不说空话不做空事很好。\n[769.92 -> 792.64] 时间到我们来先看女人的飞船最多容量两个阵子到台阶玩够了我们的排列还要补最多容量好今天我们通过。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom.\n   - The screen displays a slide with text in Chinese, structured as a list of key points or instructions.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following visible text:\n     - \"课后作业\" (Homework)\n     - \"学习安富奎的《论语》和《论语》解读，注意体会《论语》中‘仁’与‘礼’的辩证关系，4000字左右。\" (Study An Fu Kui's \"Analects\" and its interpretation, pay attention to the dialectical relationship between 'Ren' and 'Li' in the Analects, about 4000 words.)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the screen, likely emphasizing the homework instructions.\n   - The teacher uses hand movements to highlight the importance of the text on the screen, possibly pointing to the key phrases about studying the \"Analects\" and its interpretation.\n\n4. **Transition to Next Step**:\n   - The screen clearly indicates homework, specifying the task to study and write about the \"Analects.\"\n   - The teacher turns to the blackboard and begins to erase it, signaling the end of the lesson and transition to the next activity or class.\n\nThis structured visual summary consolidates the lesson's key points and outlines the next steps for the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide on the digital screen displaying homework instructions, emphasizing the study of An Fu Kui's \"Analects\" and its interpretation, with a focus on the dialectical relationship between 'Ren' and 'Li.' The teacher gestures towards the screen, pointing to the key phrases to highlight the importance of the task. The instructions specify a 4000-word requirement, visually marking the core takeaway for the students. As the lesson concludes, the teacher turns to the blackboard and begins to erase it, signaling the transition to the next activity or class. The homework details remain prominently displayed on the screen, ensuring students are aware of their next steps.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mao Zedong's Speech",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.92 -> 740.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Opposition to Formalism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[709.92 -> 740.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Yan'an Cadre Meeting",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.92 -> 740.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Resistance War Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.92 -> 740.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Importance of Writing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[742.64 -> 747.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Guidance for Party Members",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[750.62 -> 767.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Dialectical Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[740.86 -> 742.64]"
+      },
+      {
+        "id": "c8",
+        "label": "Ren and Li",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[742.64 -> 747.28]"
+      },
+      {
+        "id": "c9",
+        "label": "Analects Study Task",
+        "type": "Visual",
+        "original_text": "Study An Fu Kui's 'Analects' and interpretation; focus on 'Ren' and 'Li', 4000 words",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gestures Screen",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards screen emphasizing homework",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Beginning Blackboard Erasure",
+        "type": "Visual",
+        "original_text": "Teacher begins to erase blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Mao Zedong's speech provides a historical instance of opposing formalism."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The speech was delivered at the Yan'an Cadre Meeting."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The meeting occurred during the difficult phase of the Resistance War."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Opposition to formalism guides Party members' thinking methods."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Guidance also applies to writing and behavior."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The relationship between 'Ren' and 'Li' is dialectical."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Task focused on 'Ren' and 'Li' as discussed."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures highlight the importance of the homework."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "guides_discussion",
+        "intent": "Transition signals the lesson's conclusion, keeping students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

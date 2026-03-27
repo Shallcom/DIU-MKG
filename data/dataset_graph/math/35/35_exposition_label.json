@@ -1,0 +1,127 @@
+{
+  "video_name": "35_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand and master the reduction formulas of trigonometric functions and their applications; be able to derive and apply the sine and cosine formulas for the sum and difference of two angles; learn to use the unit circle to analyze the fundamental properties of trigonometric functions.",
+  "transcript": "[152.4 -> 158.12] 形如考算用二分之π加减α此类的函数该如何进行计算。\n[159.14 -> 162.24] 我们学习了诱导公式它有一句口号是啊。\n[163.64 -> 196.74] 即便偶不变符号看向线那么如果此时老师将这里的二分之ππ或者是二Kπ等数换成任意的角β那么任一角R法与贝特的和或差的三角函数与R法和贝特的三角函数之间又有怎样的联系呢同学们就来带着这个问题让我们一起开启本节课关于两角和与差的正弦与弦和正气公式的第一课时两角差的与弦公式。\n[205.0 -> 272.14] 我们看这样一个探究问题如果已知任意地讲阿尔法贝塔的正弦与弦由此你能够推断出阿尔法加贝塔阿尔法减贝塔的正弦和与弦吗首先我们先来研究阿尔法贝塔与阿尔法减贝塔之间的关系请同学们想想这样一个问题根据我们以往所研究三角函数的经验我们可以利用哪一工具来表示阿尔法与贝特的正弦和余弦呢。\n[273.26 -> 290.9] 请同学们思考两分钟好时间到两位同学来说一下来这位就写得很好请坐我们可以利用单位元来研究三角函数的正弦和余弦。\n[292.74 -> 318.6] 首先我们以圆的圆心为圆点建立平面直角坐标系我们记圆O与X轴正半轴的交界为点A。\n[322.74 -> 327.6] 那么点A的坐标应该是I一零。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide with text in Chinese. The slide reads: \"warm[wa:m] adj. warm, warm-hearted.\"\n- The teacher gestures with her hands, likely explaining the content on the screen.\n- The chalkboard is initially blank except for some text written on the left side.\n\n**Middle:**\n- The teacher turns to the chalkboard and writes the number \"5.5.1\" followed by Chinese text: \"两角和与差的正弦、余弦和正切公式 (一)\".\n- She continues writing, adding \"两角和的余弦公式\" below the initial text.\n- The digital screen changes to display a new slide titled \"5.5.1 两角和与差的正弦、余弦和正切公式 (一)\" with a subheading \"1. 两角和的余弦公式\".\n- The teacher explains the content, gesturing towards the screen and the chalkboard.\n\n**End:**\n- The teacher draws a circle on the chalkboard, then adds a horizontal and vertical line to create a coordinate system.\n- She writes a \"C\" near the origin and labels the axes with \"x\" and \"y\".\n- The digital screen displays a problem involving a circle and angles, with text in Chinese.\n- The teacher points to different parts of the diagram on the chalkboard while explaining.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the coordinate system drawn on the chalkboard, consisting of a circle with labeled axes and a point labeled \"C\" at the origin.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"5.5.1\" and Chinese text explaining the topic.\n  - She draws a circle, then adds the x and y axes, labeling them and marking the origin with \"C\".\n- **Modifications**: \n  - No erasures or modifications are observed; the teacher builds upon the initial diagram.\n- **Deictic Gestures**: \n  - The teacher points to the circle and axes while explaining the concepts related to the cosine formula.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses her finger to trace the circle and axes, emphasizing the structure of the coordinate system.\n- She gestures towards the digital screen to connect the chalkboard diagram with the slide content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the title \"5.5.1 两角和与差的正弦、余弦和正切公式 (一)\" with a subheading \"1. 两角和的余弦公式\". The teacher began by writing \"5.5.1\" and additional Chinese text on the chalkboard, establishing the foundational topic. She then constructed a coordinate system by drawing a circle and labeling the axes with \"x\" and \"y\", marking the origin with \"C\". As she explained, she derived the concept of the cosine formula, using the digital screen to display related problems. The teacher annotated the diagram, tracing the circle and axes to illustrate the geometric relationships. She resolved deixis by pointing to specific parts of the coordinate system, such as the origin and axes, to emphasize key points. To highlight the conclusion, she used gestures to connect the chalkboard diagram with the slide content, ensuring visual alignment. This structured approach reduced cognitive load by synchronizing visual elements with verbal explanations, making the abstract concepts more tangible through step-by-step construction and dynamic emphasis.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Reduction Formulas",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[153.3 -> 163.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Sum of Angles Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[163.3 -> 196.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Difference of Angles Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[196.75 -> 272.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Unit Circle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[292.74 -> 318.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Coordinate System",
+        "type": "Visual",
+        "original_text": "Chalkboard diagram with circle and labeled axes",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Point A Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[322.74 -> 327.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Alpha and Beta Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[205.0 -> 272.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Visual Scaffolding",
+        "type": "Teacher Strategy",
+        "knowledge_type": "Procedure",
+        "timestamp": "[163.3 -> 318.6]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[273.26 -> 290.9]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Sum of angles formula evolves from reduction formulas."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Difference of angles formula evolves from reduction formulas."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Teacher uses visual scaffolding to connect concepts with diagram."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "Unit Circle concept is scaffolded through coordinate system diagram."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding of Alpha and Beta relationship builds upon sum of angles formula."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding of Alpha and Beta relationship builds upon difference of angles formula."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Point A coordinates are included in the coordinate system visual."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Student brainstorming initiates exploration of Alpha and Beta relations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

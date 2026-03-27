@@ -1,0 +1,190 @@
+{
+  "video_name": "27_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Master the application of Ohm’s law to practical problems; be able to correctly write a standardized solution process.",
+  "transcript": "[637.7 -> 749.16] 老师在这里提醒一下同学们我们可以先从电路去进行分析虽然生活中电路是非常复杂的但是我们可以把它换算成简单的电路先看这个电路它是一个串联非常好我的滑动变速器和R一是串联的关系那么此时它们之间的关系电流和电压有怎么样的关系老师这里先带教大家一起来分析一下既然我们要求得的是当滑动变速器偶尔接入电路的阻值是五十欧姆的时候求它的电流那么我们现在分析它此时的电流和电压的情况首先电路中是有两个电阻的两个电阻那么此时它们的电压电流是相等的我们用字母I来表示那它们两个的电压的关系是怎样电压的关系是等于它们之和总电压等于之和呢我们用公式定律的变形式来去解决一下可以表示出来吗它的电压U等于I所以我们可以把它们两个的分别的给算出来好我们的解题思路老师已经给大家提点清楚了现在就需要同学们自己去动手去完成一下我们这一道题应该怎样去进行一个计算记住在解题的过程中我们要写好解字那现在就请同学们开始做答案。\n[756.7 -> 775.56] 老师看大家都解得非常认真了现在有问题的同学啊可以和同桌小声地进行一些交流然后我们看一下我们书本上的解题思路以及内容的具体怎样一个规范的操作稍后老师再为大家进行讲解以上是我模拟上课的全部内容谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard displaying a circuit diagram and a list of key components.\n   - The layout includes a circuit diagram on the left and a list of components on the right, organized in blue boxes.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Circuit Diagram**: Contains labeled components such as AC, a resistor, and a capacitor.\n   - **Component List**: Includes terms like \"电感器\" (inductor), \"电容\" (capacitor), \"电阻\" (resistor), \"电感元件\" (inductive element), \"电容元件\" (capacitive element), and \"电阻元件\" (resistive element).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the circuit diagram, emphasizing the connections between components.\n   - She gestures towards each blue box in the component list, likely reviewing their functions or definitions.\n   - The teacher uses hand movements to indicate relationships between the circuit diagram and the listed components.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The blackboard contains mathematical expressions: \n     - $I_1 = I_2 = I_3$\n     - $U_1 + U_2 = U_3$\n     - $I = I_1 + I_2 + I_3$\n     - $U_C = U_1 = U_2$\n   - These may serve as key takeaways or foundational knowledge for subsequent lessons.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the interactive whiteboard displaying a circuit diagram alongside a list of key components in blue boxes. The teacher visually wraps up the lesson by pointing to the circuit diagram, highlighting the connections between the labeled elements. She then moves her hand to each component in the list, emphasizing their roles and relationships to the diagram. The blackboard in the background features key mathematical expressions, reinforcing the foundational concepts discussed. While no explicit homework instructions are visible, the teacher's gestures suggest a review of these core principles, ensuring students visually consolidate the lesson's main ideas.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Electrical Circuit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Series Circuit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Voltage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Resistance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Inductor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Capacitor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c9",
+        "label": "Resistor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.7 -> 775.56]"
+      },
+      {
+        "id": "c10",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Circuit diagram with components list in blue boxes.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Mathematical Expressions",
+        "type": "Visual",
+        "original_text": "Expressions: I1 = I2 = I3, U1 + U2 = U3, I = I1 + I2 + I3, UC = U1 = U2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Visual",
+        "original_text": "Teacher points to diagram and list, uses gestures to illustrate connections.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Peer Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Ohm's Law is applied in analyzing electrical circuits."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "A series circuit is a type of electrical circuit."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Current is analyzed using Ohm's Law."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Voltage is analyzed using Ohm's Law."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Resistance is analyzed using Ohm's Law."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Inductor is a component shown on the interactive whiteboard."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Capacitor is a component shown on the interactive whiteboard."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Resistor is a component shown on the interactive whiteboard."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "emphasizes",
+        "intent": "Teacher uses the whiteboard to consolidate visual knowledge."
+      },
+      {
+        "source": "s1",
+        "target": "c12",
+        "relation": "engaged_with",
+        "intent": "Students are engaged with the visual knowledge consolidation."
+      },
+      {
+        "source": "s2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Peer discussion encourages students to be engaged."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Mathematical expressions relate to Ohm's Law."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Mathematical expressions used in visual summary."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

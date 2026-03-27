@@ -1,0 +1,127 @@
+{
+  "video_name": "8_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand intermolecular forces and their types; be able to analyze the manifestations of intermolecular forces through experimental phenomena.",
+  "transcript": "[650.34 -> 720.94] 好那分子它都在运动那为什么液体和固体当中它的分子不会飞散开来而总是聚合在一起保持并且保持一定的体积的呢就比如说我们这个固体它是也是有微粒组成的但为什么它的这个分子会扩散开来呢那带着这个问题呢我们再来做一份实验现在呢我们将两个铅柱的这个底面削平削至光滑然后再将这两个铅柱紧紧地压在一起那此时呢两个铅柱就会结合在一起我们再把这个铅柱下面吊一个重物发现它很难被拉开那这其实也就说明了分子之间是存在引力的那同时我们在压压缩气质和液体当中发现液体和固体它是非常不好压缩的那么我们发现分子之间同时也是存在势力的。\n[722.9 -> 726.92] 因此分子之间的作用力不仅存在引力还存在势力。\n[740.34 -> 754.1] 好那么以上就是我的全部模拟授课请各位评委老师的批评执政同时也感谢各位同学的积极配合。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the screen.\n   - The blackboard contains handwritten notes with key points and calculations.\n   - The screen displays a slide with a diagram and text, summarizing the lesson's content.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - Handwritten text: \"如何计算\" (How to calculate)\n     - \"一折板的形成\" (Formation of a single fold)\n     - \"10^7 m\"\n     - \"二折板\" (Double fold)\n     - \"三折板\" (Triple fold)\n   - **Screen**:\n     - Diagram with arrows indicating \"小水滴上升\" (Small water droplet rises) and \"小水滴下降\" (Small water droplet descends).\n     - Text: \"液滴大小\" (Droplet size).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the \"10^7 m\" and the terms \"一折板\" (single fold) and \"二折板\" (double fold).\n   - The teacher gestures towards the screen, emphasizing the diagram and the text \"液滴大小\" (Droplet size).\n   - The teacher writes additional text on the blackboard, adding \"三折板存在计算分析中\" (Triple fold exists in calculation analysis).\n\n4. **Transition to Next Step**:\n   - The screen displays the text \"液滴大小\" (Droplet size), which may indicate a focus for further study or homework.\n   - No explicit homework or assignment slide is visible, but the emphasis on \"液滴大小\" suggests it as a key concept for review.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a diagram illustrating the movement of water droplets, accompanied by the text \"液滴大小\" (Droplet size). The blackboard features handwritten notes summarizing key concepts, including \"一折板\" (single fold), \"二折板\" (double fold), and \"三折板\" (triple fold), along with the calculation \"10^7 m\". The teacher visually reviews these elements by pointing to the \"10^7 m\" and the terms \"一折板\" and \"二折板\" on the blackboard, reinforcing their significance. She then gestures towards the screen, emphasizing the diagram and the text \"液滴大小\". To highlight the core takeaway, she writes \"三折板存在计算分析中\" (Triple fold exists in calculation analysis) on the blackboard, integrating it into the summary. The focus on \"液滴大小\" suggests it as a key concept for further exploration, though no explicit homework instructions are displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Molecular Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[650.34 -> 720.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Liquid Molecular Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[650.34 -> 720.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Solid Molecular Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[650.34 -> 720.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Experiment with Lead Rods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[650.34 -> 720.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Molecular Attraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[650.34 -> 720.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Molecular Repulsion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[650.34 -> 720.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Droplet Size",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[722.9 -> 726.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Key points and calculations including 'How to calculate', 'Formation of a single fold', '10^7 m', 'Double fold', 'Triple fold'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Droplet Diagram Slide",
+        "type": "Visual",
+        "original_text": "Diagram with arrows indicating 'Small water droplet rises' and 'Small water droplet descends'. Text: 'Droplet size'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Class Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains molecular motion relevance to liquid forces."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Defines how molecular motion impacts solid forces."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Demonstrates the presence of molecular attraction via experiment."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Demonstrates the presence of molecular repulsion via experiment."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide outlines the significance of droplet size."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "Blackboard notes summarize the calculation aspects of the experiment."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged with molecular motion concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

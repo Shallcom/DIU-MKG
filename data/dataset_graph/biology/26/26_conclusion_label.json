@@ -1,0 +1,159 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the composition and functions of the internal environment; master the basic characteristics of interstitial fluid, plasma, and lymph.",
+  "transcript": "[522.66 -> 529.56] 请坐那我们知道这些就是细胞的内环境\n[530.68 -> 539.48] 那我们想一下回想一下我们在平时运动的时候是不是队列运动之后会觉得肌肉非常酸胀大家想一下这是为什么\n[541.86 -> 616.12] 我听到了一个同学回答说是乳酸乳酸会存在于哪里想一下会存在这三个中的会堆积在组织液中组织液它是存在于细胞间隙的液体又叫组织间隙液它主要就是由血浆通过毛细血管然后渗透到组织液而对于淋巴细胞淋巴液就是它们的直接生活的环境血浆我们知道就是刚才我们所看到的那些红细胞呀白细胞那些血细胞所直接生活的液体环境那我们想一下为什么一个细胞在我们的身体中是可以很好地生存的但是如果在体外它是不是很容易就被就死亡了对吗\n[620.66 -> 701.82] 那这是为什么呀内环境中是不是内环境中存在着许多的化学成分可以让这些细胞进行很好的生存那我们再来回忆一下就是内环境论诀包括组织业血浆和淋巴液下面我们将请大家讨论一下内环境的理化性质有哪些我的授课到此完毕谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the diagram on the screen, which appears to be a conceptual model with interconnected boxes. The layout includes a central box labeled \"内环境\" (internal environment) connected to other boxes labeled \"细胞内液\" (intracellular fluid) and \"细胞外液\" (extracellular fluid).\n\n2. **Key Knowledge Items (Content View)**:\n   - The diagram on the screen includes:\n     - \"内环境\" (internal environment)\n     - \"细胞内液\" (intracellular fluid)\n     - \"细胞外液\" (extracellular fluid)\n   - The blackboard contains handwritten text and diagrams, including:\n     - \"细胞外液\" (extracellular fluid)\n     - \"组织液\" (interstitial fluid)\n     - \"血浆\" (plasma)\n     - \"淋巴\" (lymph)\n     - A flow diagram connecting these terms.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the screen, specifically highlighting the \"内环境\" (internal environment) box and its connections.\n   - The teacher gestures towards the blackboard, tracing the flow diagram that connects \"细胞外液\" (extracellular fluid) to \"组织液\" (interstitial fluid), \"血浆\" (plasma), and \"淋巴\" (lymph).\n   - The teacher uses hand movements to emphasize the relationships between the different components of the internal environment.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary diagram and blackboard content.",
+  "visual_narrative": "The lesson concludes with a conceptual diagram centered on the internal environment. The teacher visually reviews the content by pointing to the central \"内环境\" (internal environment) box and tracing its connections to \"细胞内液\" (intracellular fluid) and \"细胞外液\" (extracellular fluid). The teacher also gestures towards the blackboard, emphasizing the flow diagram that links \"细胞外液\" (extracellular fluid) to \"组织液\" (interstitial fluid), \"血浆\" (plasma), and \"淋巴\" (lymph). No explicit visual handover to homework or next steps is present, maintaining focus on the summary diagram and blackboard content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internal Environment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[522.66 -> 529.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Intracellular Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[522.66 -> 529.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Extracellular Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[522.66 -> 529.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Interstitial Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[541.86 -> 616.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Plasma",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[541.86 -> 616.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Lymph",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[541.86 -> 616.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Lactic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[530.68 -> 539.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Muscle Soreness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[530.68 -> 539.48]"
+      },
+      {
+        "id": "c9",
+        "label": "Chemical Components",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[620.66 -> 701.82]"
+      },
+      {
+        "id": "c10",
+        "label": "Screen Diagram",
+        "type": "Visual",
+        "original_text": "Conceptual model connecting internal environment, intracellular fluid, and extracellular fluid",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Blackboard Flow Diagram",
+        "type": "Visual",
+        "original_text": "Flow diagram linking extracellular fluid, interstitial fluid, plasma, and lymph",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflecting",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines intracellular fluid as part of the internal environment."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Defines extracellular fluid as part of the internal environment."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains composition of interstitial fluid derived from extracellular fluid."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Explains composition of plasma derived from extracellular fluid."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Explains composition of lymph derived from extracellular fluid."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Associates muscle soreness with the buildup of lactic acid."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Chemical components support cells in the internal environment."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Displays the concept of the internal environment and its components."
+      },
+      {
+        "source": "c11",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Illustrates connections between different components of extracellular fluid."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to question and reflect on the internal environment concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,106 @@
+{
+  "video_name": "26_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Help students understand biological concepts and principles through experimental teaching; cultivate students' scientific inquiry abilities, including posing questions, designing experiments, and analyzing data; enhance students' hands‑on skills in laboratory work and their teamwork abilities.",
+  "transcript": "[0.0 -> 135.56] 各位评委老师亲爱的同学们大家好我是生物组二十六号拳手我抽到的即席演讲的题目是我国伟大的教育家孔子说过讲给我听我会忘记只给我看我会记住让我去做我会理解结合生物学教学说说实验教学的重要性以及如何去上好一堂生物学实验我们都知道生物是一门科学课程然后是需要理论和实践相结合的生物中有非常多的细小的那种概念啊什么的如果只靠死记硬背的话是非常容易忘记的所以我们可以引导学生通过实验然后去推导自主去推导出得到这些概念啊原理理论然后现今中学生物实验室中其实实验室是非常普及的但是对于就是部分高校对部分中学的学校对于实验课的设计就是有点形同虚设就是对于这个的重视程度还不够但是我们知道实验教学是非常重要的如果我要上好一堂生物实验课的话我会首先带领学学生们一起学习本节课需要用到的原理然后展示出展示出一堂生物实验课的话我会首先带领学学学生们一起学习本节课需要用到的原理然后展示出实验所需要的材料让同学们首先提出问题然后做出假设通过小组讨论的方式去设计实验最后他们通过合作去实施实验然后提高他们的动手能力最后就是可以他们自己来得出结论如果结论不对或者稍微有一点错误的话我再做出讲解和解释然后这样一可以提升他们的提出问题分析问题和解决问题的能力让他们自主得出结论真正做到理解生物学的这些概念原理我的集体演讲完毕下面开始授课",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features an image of a cell with a diagram showing its structure. The text on the slide is in Chinese, with the phrase \"细胞生活的环境\" prominently displayed, which translates to \"The Environment of Cell Life.\"\n\n#### 2. **The Title Event**\n- The title \"细胞生活的环境\" is shown on the digital slide. The teacher does not physically write this on the board; it is part of the pre-prepared presentation. The teacher stands next to the screen, ensuring the title is visible to the students.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the title and the initial image.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the content displayed. There are no specific gestures like pointing or underlining observed in this segment.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers.\n- The digital slide with the title \"细胞生活的环境\" and a cell diagram is displayed on the screen.\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to stand in front of the screen, maintaining eye contact with the students.\n- The slide remains unchanged, focusing on the initial hook image and title.\n- The teacher's gestures are minimal, primarily involving slight movements towards the screen to emphasize the content.\n\n**End:**\n- The teacher maintains a position at the front, ensuring the slide is the focal point.\n- No additional content is added to the board or screen during this segment.\n- The teacher's actions remain consistent, focusing on presenting the initial slide content.\n\nThis structured approach ensures the visual elements are clearly linked to the teacher's actions, providing a coherent narrative of the introduction phase.",
+  "visual_narrative": "Initially, the screen presents a detailed diagram of a cell with the title \"细胞生活的环境,\" serving as the hook to capture the students' attention. The teacher stands at the front, holding papers and occasionally gesturing towards the screen, emphasizing the visual content. To bridge to the main topic, the teacher maintains focus on the slide, ensuring the students observe the cell diagram and its labeled components. Finally, the visual focus remains on the title displayed prominently on the screen, establishing the lesson goal of exploring the environment in which cells operate. This introduction connects new knowledge by visually grounding the concept of cellular environments, setting the stage for deeper exploration into cellular functions and their ecological contexts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cellular Environment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 135.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Biological Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 135.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Hands-on Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 135.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Teamwork Abilities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 135.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Cell Structure Slide",
+        "type": "Visual",
+        "original_text": "Diagram showing cell structure with title 'The Environment of Cell Life'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the concept of cellular environments."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Cellular environment is a foundational concept for understanding broader biological principles."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Scientific inquiry involves understanding biological concepts and applying them experimentally."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Scientific inquiry enhances hands-on skills through experimental procedures."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Teamwork abilities develop as students collaborate on scientific inquiries."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Engages students by visually reinforcing the learning topic."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Invites students to connect visual information to biological concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

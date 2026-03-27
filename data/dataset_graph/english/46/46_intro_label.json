@@ -1,0 +1,107 @@
+{
+  "video_name": "46_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Analyze common problems students face in listening comprehension; apply effective strategies to improve students' listening skills; compare the effects of different teaching methods on listening improvement.",
+  "transcript": "[0.0 -> 15.78] Good afternoon dear teachers and judges,\n[15.78 -> 61.02] it's my great honor to present my impromptu speech here whose title is How to Improve Students' Listening Skills. Well when I was doing my internship in the middle school many students would have this kind of problem in listening they just cannot understand the meaning of what the speakers say and they might come across the problems of American accent and British accent well as to solve this problem I have applied many many many strategies and today I'd like to share with you guys and the first is before listening before listening we usually I just find two ways. One is the bottom-to-up ways. What is bottom-to-up?",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen: \"The Virtual Chorus\" with the subtitle \"Sound of Physics.\"\n\n#### 2. **The Title Event**\n- The title \"The Virtual Chorus\" is displayed on the screen. The teacher stands beside the screen, gesturing towards it, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, occasionally pointing towards the screen displaying the title.\n- The teacher holds a marker, possibly indicating readiness to write or highlight content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen introducing the \"10th Teacher Skills Competition.\"\n- Transition to the classroom where the teacher stands in front of a screen displaying \"The Virtual Chorus.\"\n\n**Middle:**\n- The teacher gestures towards the screen, likely introducing the topic of the virtual chorus.\n- The teacher uses hand movements to engage the audience, possibly explaining the concept of sound in physics.\n\n**End:**\n- The teacher continues to gesture, maintaining focus on the screen content.\n- The audience is seated, facing the teacher and the screen, indicating active engagement.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the displayed content.",
+  "visual_narrative": "The introduction phase begins with the teacher standing confidently in front of a screen displaying the hook object: \"The Virtual Chorus\" with the subtitle \"Sound of Physics.\" The teacher gestures towards the screen, drawing attention to the title, which serves as the initial visual stimulus. The classroom setting is organized, with students seated and focused on the presentation. The teacher uses expressive hand movements to engage the audience, occasionally pointing to the screen to emphasize the topic. The transition from the hook to the main topic is seamless, as the teacher maintains eye contact with the students while elaborating on the concept of sound in physics. The visual aid remains consistent, reinforcing the theme of the virtual chorus. Throughout the introduction, the teacher's gestures and positioning create a connection between the new knowledge and the students' existing understanding of sound, setting the stage for a deeper exploration of the physics involved. This structured approach ensures that the introduction not only captures interest but also provides a clear pathway for future learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Listening Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 15.78]"
+      },
+      {
+        "id": "c2",
+        "label": "American Accent",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[15.78 -> 61.02]"
+      },
+      {
+        "id": "c3",
+        "label": "British Accent",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[15.78 -> 61.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Strategies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[15.78 -> 61.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Bottom-to-Up Approach",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[15.78 -> 61.02]"
+      },
+      {
+        "id": "v1",
+        "label": "Virtual Chorus Title",
+        "type": "Visual",
+        "original_text": "The Virtual Chorus",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Sound of Physics",
+        "type": "Visual",
+        "original_text": "Sound of Physics",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Identifies specific accents as part of listening problems."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Identifies specific accents as part of listening problems."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Includes the bottom-to-up approach among various strategies."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "evolves_from",
+        "intent": "Links the learning approach to the concept of sound."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Highlights the title as a focal point of the lesson on physics."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to engage with various listening strategies."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

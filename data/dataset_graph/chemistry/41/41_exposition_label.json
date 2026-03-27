@@ -1,0 +1,146 @@
+{
+  "video_name": "41_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the basic principles of an electrolytic cell; master the concepts of anode and cathode and the types of electrode reactions.",
+  "transcript": "[114.4 -> 128.3] 好上课通过上节课的学习我们学习了电解饱和食盐水的原理那么这一节课我们继续来学习电解池。\n[138.38 -> 145.46] 那首先我们一起先来回顾一下电解原理是什么呢。\n[148.6 -> 187.36] 电源正极的是阳极对电源正极的是阴极不是阳极哦电源负极的才是阳极那么看到同学们对电解的原理非常陌生那首先我们先来对电解原理进行一个回顾只有了解了电解原理我们才能应用电解原理到实际生产当中首先第一个我们先来回顾一下电解的原理。\n[188.6 -> 245.3] 电解原理其实我们可以用几个短语进行理解比如说第一个我们可以探电集刚刚老师问的电源正集是阳集电源负集是阴集要记住汉电极阳极和阴极阳极是阴离子放电对不对如果它是活泼金属的话那就是活泼金属放电如果没有活化金属那就是电解液里面的银离子进行放电。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands at the podium, facing a large screen displaying a slide with Chinese text: \"第四章 化学反应与能量 第二节 电解池 第3课时 简单的电解池实验.\"\n- The blackboard is initially empty except for some colored markers on the side.\n- The teacher turns to the blackboard and writes \"电解池\" (electrolytic cell) in white chalk.\n\n**Middle:**\n- The teacher continues writing on the blackboard, adding \"电解原理\" (electrolysis principle) below the initial text.\n- The screen displays a new slide with a bar graph and the text \"回顾原理，引入课题\" (Review principles, introduce topic) and \"一、回顾电解原理\" (1. Review electrolysis principles).\n- The teacher gestures towards the screen, likely explaining the content of the slide.\n- The teacher writes additional text on the blackboard: \"从化学能转化为电能\" (Converting chemical energy to electrical energy).\n\n**End:**\n- The teacher writes more details on the blackboard, including \"电解池\" (electrolytic cell) and \"电能转化为化学能\" (Converting electrical energy to chemical energy).\n- The teacher uses hand gestures to emphasize points, pointing to different parts of the blackboard text.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard, which evolves from displaying only \"电解池\" to a more detailed explanation of electrolysis principles.\n- The screen consistently shows slides related to the topic, starting with the lesson title and transitioning to a slide about reviewing electrolysis principles.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"电解原理\" and \"从化学能转化为电能\" while explaining the concepts.\n  - Further additions include \"电解池\" and \"电能转化为化学能\" to elaborate on the energy conversion processes.\n- **Modifications**: \n  - No erasures are observed; the teacher builds upon the existing text.\n- **Deictic Gestures**: \n  - The teacher points to specific parts of the blackboard text, such as \"电解原理\" and \"电能转化为化学能,\" while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses white chalk for all writings, maintaining consistency.\n- Emphasis is placed through deliberate pointing and gesturing towards key phrases on the blackboard.\n- The screen's slide with the bar graph visually supports the topic, though no direct interaction with it is noted beyond initial pointing.\n\nThis structured visual evolution illustrates the teacher's method of introducing and elaborating on electrolysis principles, using both the blackboard and slides to convey the lesson's core concepts.",
+  "visual_narrative": "Initially, the blackboard displayed the title \"电解池\" (electrolytic cell), setting the stage for the lesson. The screen presented a slide introducing the topic with the text \"第四章 化学反应与能量 第二节 电解池 第3课时 简单的电解池实验.\" The teacher began by writing \"电解原理\" (electrolysis principle) on the blackboard, establishing the foundational concept. As the lecture progressed, the teacher constructed the idea of energy conversion by adding \"从化学能转化为电能\" (Converting chemical energy to electrical energy), visually linking the processes involved in electrolysis. The screen transitioned to a slide titled \"回顾原理，引入课题\" with a bar graph, prompting a review of key principles. The teacher then derived further understanding by writing \"电能转化为化学能\" (Converting electrical energy to chemical energy), completing the cycle of energy transformation. Throughout, the teacher resolved deixis by pointing to specific phrases like \"电解原理\" and \"电能转化为化学能,\" tracing their connections to emphasize the flow of energy. Visual emphasis was maintained through consistent use of white chalk and deliberate gestures, ensuring clarity. The screen's static content complemented the dynamic blackboard work, reducing cognitive load by reinforcing concepts through dual visual channels. Finally, the teacher circled key terms, highlighting their importance and solidifying the lesson's core message.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electrolytic Cell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[114.4 -> 128.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Electrolysis Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[138.38 -> 145.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Anode",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.6 -> 187.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Cathode",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.6 -> 187.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Energy to Electrical Energy",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[148.6 -> 187.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Electrical Energy to Chemical Energy",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[188.6 -> 245.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Ion Discharge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[188.6 -> 245.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Title Slide",
+        "type": "Visual",
+        "original_text": "Chapter 4 Chemical Reactions and Energy Section 2 Electrolytic Cell Lesson 3 Simple Electrolysis Experiment",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Electrolysis Review Slide",
+        "type": "Visual",
+        "original_text": "Review principles, introduce topic",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bar Graph Slide",
+        "type": "Visual",
+        "original_text": "Review Electrolysis Principles",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Describes the foundational principle behind electrolytic cells."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Defines the component of the electrolytic cell where oxidation occurs."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Defines the component of the electrolytic cell where reduction occurs."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explores energy conversion associated with electrolysis principles."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Completes the cycle of energy transformation in electrolysis."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains the discharge of ions at the anode in electrolysis."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains the discharge of ions at the cathode in electrolysis."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Introduces the lesson topic visually on the screen."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Provides a visual summary of the principles of electrolysis."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "Supports understanding of energy conversion dynamics through graphical representation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "36_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the characteristics and applications of solid materials; analyze the relationship between structure and performance of new materials such as graphene; master the basic approach to solving problems through scientific inquiry methods.",
+  "transcript": "[0.0 -> 124.78] 用到的语课堂它应有大模型跟踪数据能够对学生进行一个多方面的全面的还有多元化的过程性评价再比如说我们所用到虚拟实验室比如说非福斯等等的软件它能够帮我们实现一些因为我们当下条件所限制所不能实现的实验将知识进行可视化那么除此之外呢我还想从核心素养进行谈一谈首先是在科学态度与责任方面因为中国的AI现在其实是在世界发展也是较为前列的地位那么这就促进了学生思考社会环境以及人类社会之间的关系发展学生的创新意识那么在科学探究方面呢还有就是可以创设情境比如说我所想到的当我们在学热液体这时候我就可能会想到因为中国现在发明就是发明了一种液体机器人那么这种液体机器人它为什么能够实现在固体和液体之间的转换呢可能我就会作为表面张力的引入这是科学探究方面那么在科学思维方面呢因为AI具有很强的整合功能它能够进行模型的构建也可以实现我们知识的可视化那么在物理观念方面呢我所想到的就是比如我们能够利用物理学史来帮助我们加深对于物理观念的认识那么因为AI具有很强的整合功能它就可以帮我们搜索整理出比如说像原子核的发现整个物理学史是怎样子的从而帮助学生更加认识到认识到物理观念那么这是我以上的阐述谢谢各位老师。\n[140.18 -> 160.36854175] 各位同学好我们今天继续来对固体几年学习那么在此之前呢是想问同学们一个问题同学们有没有看过牛浪地球二里面曾经出现的太空电梯呢实际上科幻并非不可能中国科学家已经在实验室研制出来了一米长的石墨烯而太空电梯所运用的钢索材料正属于石墨烯那么这就说明石墨烯的强度是非常大的那么请同学们拿起手中的二笔铅笔同学们来捻一捻手中的二笔铅笔芯我们会发现好像二笔铅笔锌很容易就被碾断了这是不是相对矛盾的呢同样是石磨为什么一个强度可比钢铁另一个却非常容易断裂呢接下来我们将深入对固体进行学习同学们就可能对这个问题有答案了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide contains a title in Chinese characters: \"立体\" (Stereometry).\n\n#### 2. **The Title Event**\n- The title \"立体\" is prominently displayed on the screen. The teacher does not write this on the board but points to it on the screen, emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely explaining the concept of stereometry.\n- She occasionally points to the screen, directing attention to the title \"立体.\"\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front, facing the green chalkboard. The screen displays the title slide with \"立体.\"\n- She turns to the board, possibly preparing to write or highlight something, but primarily focuses on the screen content.\n\n**Middle:**\n- The teacher moves closer to the screen, holding papers. She gestures with her hands, emphasizing points related to the title.\n- She points directly at the screen, ensuring students focus on the word \"立体.\"\n\n**End:**\n- The teacher continues to engage with the class, using hand gestures to reinforce the lesson's introduction.\n- The screen transitions to a new slide with the text \"创设情境 引导认知和冲突,\" indicating a shift in the lesson's focus.\n\nThis structured visual analysis captures the teacher's actions and their direct links to the visual content, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"立体,\" setting the stage for the lesson on stereometry. To bridge to the topic, the teacher gestures towards the screen, emphasizing the title while holding papers, likely outlining key concepts. Finally, the visual focus shifts to a new slide with the text \"创设情境 引导认知和冲突,\" establishing the lesson's goal of creating scenarios to guide understanding and address cognitive conflicts. This transition smoothly connects the introduction to the main topic, preparing students to explore spatial concepts through structured scenarios, thereby linking new knowledge to practical applications and potential challenges they may encounter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Stereometry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 160.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Solid Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Graphene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Space Elevator",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Mechanical Strength",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Pencil Lead",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Structure-Performance Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Scenario Creation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[140.0 -> 160.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Stereometry",
+        "type": "Visual",
+        "original_text": "Slide displaying the title 'Stereometry'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Create Scenarios",
+        "type": "Visual",
+        "original_text": "Slide with text 'Create scenarios to guide understanding and address conflicts'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Relates the title slide to the concept of Stereometry."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Solid materials incorporate examples such as graphene."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Graphene's applications include the construction of a space elevator."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Graphene demonstrates significant mechanical strength."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "contrasts_with",
+        "intent": "Contrasts graphene's strength with the fragility of pencil lead."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Analyses how graphene's structure influences its performance."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide illustrates the procedural concept of creating scenarios."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engaged_with",
+        "intent": "Students are engaged with the concept of Stereometry."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Mechanical strength is analyzed in the context of structure-performance relationship."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

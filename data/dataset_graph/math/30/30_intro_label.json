@@ -1,0 +1,114 @@
+{
+  "video_name": "30_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the importance of student agency in mathematics classrooms; master methods for designing differentiated assignments to promote the growth of students at various ability levels.",
+  "transcript": "[0.0 -> 79.02] 教学环节的时候呢教师设置环节能够体现学生的主体性地位比如在这个比如教师循循善诱然后设置学生合作讨论以及提升探以及去提升学生的探究和实践能力那么在布置环节在布置作业的环节也是十分重要教师需要布置不同层次的作业从而使各个层次的学生得到不同层次的发展也就是说教师要及时评价的学生总之我认为一堂好的数学课堂就是让学生能够在作中学学中作以上是我的理解下面开始我的模拟上课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen displaying the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-Trainee College Students). The screen also includes the phrase \"数学与应用数学\" (Mathematics and Applied Mathematics) and the number \"30.\"\n\n#### 2. **The Title Event**\n- The title \"8.2 立体图形的直观图\" (8.2 Intuitive Diagrams of Solid Figures) is displayed on the screen to the right of the teacher. The teacher does not physically write this title but presents it on the digital screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher stands at the podium, holding papers, and occasionally gestures with her hands, likely emphasizing points related to the lesson content. She does not point directly at any specific visual object in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring vibrant colors and text about the teaching skills competition. The screen includes a decorative border with circular patterns and the number \"10th\" prominently displayed.\n\n**Middle:**\n- The scene transitions to a classroom setting. The teacher stands at a podium, dressed in a formal outfit with a lanyard and badge. \n- To her right, a digital screen displays the lesson title \"8.2 立体图形的直观图\" (8.2 Intuitive Diagrams of Solid Figures). The screen shows a webpage layout with various sections, possibly a teaching resource or presentation slide.\n- The blackboard behind the teacher is mostly blank, with some colored chalk pieces attached to the side and faint writing on the left side.\n\n**End:**\n- The teacher continues to stand at the podium, occasionally looking at the papers in her hand. She maintains a formal posture, suggesting she is delivering an introduction or explanation related to the lesson title displayed on the screen.\n- No additional visual content or gestures are noted that link directly to specific elements on the board or screen beyond the initial presentation of the title.\n\nThis structured visual analysis captures the evolution of the classroom setting and the teacher's actions, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the video presents a vibrant yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" and \"数学与应用数学,\" setting the context for the teaching skills competition. Transitioning to the classroom, the teacher stands formally at a podium, holding papers, with a digital screen to her right displaying the lesson title \"8.2 立体图形的直观图.\" The blackboard remains mostly blank, adorned with colored chalk pieces, indicating readiness for the lesson. To bridge to the main topic, the teacher maintains a poised stance, subtly gesturing with her hands to emphasize the introduction. The visual focus remains on the digital screen, which highlights the lesson's objective, establishing the foundation for exploring intuitive diagrams of solid figures. This structured introduction connects the competitive context to the academic content, preparing students for an engaging exploration of geometric visualization.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student Agency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Differentiated Assignments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 79.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Growth at Various Levels",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Intuitive Diagrams",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c5",
+        "label": "Solid Figures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Screen: Teaching Skills Competition",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-Trainee College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen: Lesson Title",
+        "type": "Visual",
+        "original_text": "8.2 Intuitive Diagrams of Solid Figures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures with hands to emphasize points.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student agency principles underscore the need for differentiated learning strategies."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Differentiated assignments aim to foster growth for students at various ability levels."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Intuitive diagrams are used to understand the properties and relations of solid figures."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The title screen summarizes the context of the lesson within the teaching skills competition."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The digital screen visualizes the concept of intuitive diagrams presented in the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The digital screen sets the context for the exploration of solid figures."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the importance of student agency in the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

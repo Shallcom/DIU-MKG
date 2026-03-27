@@ -1,0 +1,127 @@
+{
+  "video_name": "22_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the importance and implementation methods of effective teacher‑student interaction in information technology classes; master how to design targeted questions based on teaching content and student circumstances; enhance teachers' ability to stimulate student interest through experiments and activities in the classroom.",
+  "transcript": "[0.0 -> 117.62] 师生的这个有效互动就十分的重要因此我认为老师要做到以下几点首先我们要背好教材我们要了解好教材的重难点以通过这些重难点去设置问题通过问题去激发学生的学习兴趣然后才能做到互动通过了解这些重难点之后呢我们才能与学生进行有效的互动其次呢我认为要背学生因为我们要了解自己的学生要了解他们的实际情况才能去设置这些问题我们不能设置得太过于难了或者说太过于简单了我们要适当的去了解学生的学习情况根据他们的学习情况去进行问题的设计这样呢更能够针对学生的情况去进行问题的设计了解学生需要什么然后去做一些准备第三点呢我认为在课堂上我们要做到有趣我们要要多做一些实验通过实验呢去激发学生的学习兴趣然后才能在课堂上让他们他们才能更愿意与我们一起互动我认为做到以上三点呢才能够与学生进行有效的互动教师要通过不断的努力学习了解学生的需求去针对性的讲好课才能真正的做到师生的有效互动以上就是我的即兴演讲。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen titled \"第十八章 电功率\" (Chapter 18: Electric Power). This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"第十八章 电功率\" is prominently displayed on the screen. The teacher does not write it on the board but points to it on the screen, ensuring students focus on the chapter title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on introducing the chapter title.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, emphasizing the chapter title.\n- The teacher's movements are primarily centered around the screen, using hand gestures to direct attention to the displayed content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the blackboard, which has some faint chalk marks but no clear content.\n- The screen displays the title \"第十八章 电功率\" in a large font, framed within a yellow and blue border.\n- The teacher points to the screen, highlighting the chapter title.\n\n**Middle:**\n- The teacher moves slightly to the center of the classroom, still holding papers.\n- Gestures are made towards the screen, reinforcing the focus on the chapter introduction.\n- The blackboard remains unchanged, with no new content added.\n\n**End:**\n- The teacher continues to stand in front of the class, maintaining eye contact with the students.\n- The screen remains static, displaying the same title slide.\n- The teacher's gestures remain consistent, emphasizing the importance of the chapter title.\n\n### Summary\nThe introduction phase centers on the screen's visual content, with the teacher using gestures to highlight the chapter title \"第十八章 电功率.\" The blackboard is not utilized for additional content, keeping the focus solely on the screen's display. The teacher's actions are deliberate, ensuring students recognize the start of a new chapter.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing near the blackboard, which is faintly marked but contains no distinct content. The opening visual stimulus is the screen displaying the title \"第十八章 电功率\" within a yellow and blue border, serving as the hook to capture student attention. The teacher holds papers and gestures towards the screen, emphasizing the chapter title. Throughout the introduction, the teacher remains centered in the classroom, using deliberate hand movements to direct focus to the screen. The blackboard stays unchanged, ensuring the visual emphasis remains on the displayed title. The transition from the hook to the main topic is seamless, as the screen consistently highlights the chapter introduction without additional slides or content changes. The teacher's gestures towards the screen create a clear link, preparing students for the new chapter by establishing a visual anchor. This approach helps connect the upcoming content to the students' existing knowledge framework, setting the stage for a structured exploration of electric power concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Effective Interaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Textbook Mastery",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Critical Points",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Question Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Stimulating Interest",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Understanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Experimentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.62]"
+      },
+      {
+        "id": "c8",
+        "label": "Chapter 18: Electric Power",
+        "type": "Visual",
+        "original_text": "Chapter 18: Electric Power",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Introducing Concepts",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 117.62]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Effective teacher-student interaction builds upon the mastery of textbook content."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Understanding critical points evolves from mastering textbook content."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Designing targeted questions builds upon identifying the critical points in the textbook."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Designing targeted questions prompts students to engage in understanding new concepts."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "addresses_misconception",
+        "intent": "Stimulating student interest addresses misconceptions by involving them in understanding."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Stimulating interest includes conducting classroom experiments."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Experimentation prompts student engagement through practical involvement."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Chapter title visualizes the start of a new topic, engaging students in new learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,101 @@
+{
+  "video_name": "36_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Master English expressions related to cultural traditions; understand how to describe the cultural activities of different regions in English.",
+  "transcript": "[0.0 -> 173.36485825] 这边的一边的一边的一边的去反映的表演的这些节目是很重要的一件事的了的了请让我开始课课我现在就开始了所以男孩们女孩们刚才我们谈论了我们在这个组里学到的什么对吧关于文化传统特尔卡斯贝克去可以去看你看的爱听听我爱问给的我门面就是听的是瑞典的听了会会跟他们的名爱的奥比斯瑞兵的听听拉斯克的还没决定呀想我什么样的啊这三点一下到的我好吧那时候那种那种那这些词把他们放在这些盒子里面好三分钟给你们来吧。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The lesson begins with a slide titled \"PEP BOOK 2 UNIT 1\" with the subtitle \"Assessing Your Progress.\" The slide features a green wavy banner with the subtitle text.\n\n#### 2. The Title Event\n- **Title**: \"Assessing Your Progress\"\n- **Teacher's Action**: The teacher stands beside the screen, occasionally gesturing towards the title. No underlining or additional writing is observed.\n\n#### 3. The Objectives\n- **Bullet Points**: No specific learning objectives are visible on the slide or board during this segment.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher uses hand gestures to emphasize points, occasionally pointing towards the screen. She holds a marker or pointer in some frames, directing attention to the slide content.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays \"PEP BOOK 2 UNIT 1\" and \"Assessing Your Progress\" on a green banner.\n- **Teacher Action**: The teacher stands beside the screen, making general gestures towards the slide, likely introducing the topic.\n\n#### Middle\n- **Visual Content**: The slide remains unchanged, maintaining the same title and subtitle.\n- **Teacher Action**: The teacher continues to gesture towards the screen, possibly elaborating on the topic. She occasionally looks at the students, engaging with them verbally.\n\n#### End\n- **Visual Content**: The screen still shows the same slide with no additional content or changes.\n- **Teacher Action**: The teacher points directly at the screen, emphasizing the title \"Assessing Your Progress.\" She uses hand movements to highlight key aspects of the lesson introduction.\n\n### Summary\nThe lesson introduction phase centers around the slide titled \"PEP BOOK 2 UNIT 1\" with the subtitle \"Assessing Your Progress.\" The teacher uses hand gestures and pointing to engage with the content, directing student attention to the title. No additional objectives or changes to the visual content are observed during this segment.",
+  "visual_narrative": "The introduction phase begins with the teacher standing beside a screen displaying the slide titled \"PEP BOOK 2 UNIT 1\" with the subtitle \"Assessing Your Progress\" on a green banner, serving as the initial visual hook. The teacher uses hand gestures to direct attention to the slide, occasionally pointing at the title to emphasize its importance. Throughout the introduction, the visual content remains consistent, with no transitions or additional elements introduced. The teacher's gestures, such as pointing and engaging with the students, create a bridge between the displayed content and the students' focus, ensuring they are oriented towards the lesson's theme. This approach sets the stage for the main topic by clearly presenting the title and using deliberate gestures to link the new content to the students' existing framework, preparing them for the forthcoming discussion on progress assessment. The consistent visual emphasis on the title helps establish a clear focus, grounding the introduction in a structured and visually cohesive manner.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'PEP BOOK 2 UNIT 1' and 'Assessing Your Progress' on a green banner.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher's Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures and points at the slide.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "English Expressions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 173.36485825]"
+      },
+      {
+        "id": "c2",
+        "label": "Cultural Traditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 173.36485825]"
+      },
+      {
+        "id": "c3",
+        "label": "Describe Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0 -> 173.36485825]"
+      },
+      {
+        "id": "c4",
+        "label": "Regional Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 173.36485825]"
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0 -> 173.36485825]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "The slide provides a visual anchor for students to focus on."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures emphasize key points, directing student attention."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding English expressions is fundamental to discussing cultural traditions."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describing cultural activities is part of understanding cultural traditions."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Cultural traditions encompass various regional activities."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide introduces the main topic related to English expressions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

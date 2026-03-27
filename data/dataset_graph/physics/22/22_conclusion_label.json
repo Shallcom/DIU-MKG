@@ -1,0 +1,146 @@
+{
+  "video_name": "22_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "- Understand why a difference between the direction of force and the direction of velocity results in circular motion.  \n- Master the connection between the laws governing celestial motion and those governing circular motion in everyday life.  \n- Be able to analyze and explain circular‑motion phenomena encountered in real‑world situations.",
+  "transcript": "[637.64 -> 660.84] 所以我们之前准备出了规律圆周运动其实是由于力和速度的方向并不在同一时间上所以会导致一个物体上进行圆周运动对吧好圆周运动是由于速度比力并不在同一时间上。\n[667.64 -> 718.66] 好那学习了本章节的生活中的运动运动的时候我们也可以去总结一下前面我们所学的一些天体运动对吧我们之间学天体运动学它们的一个运动的规律学它们的速度与其它们的运动伴奏的规律我们也能够发现它们俩的诠释怎么样相符合对不对我们可以从生活中的原制运动去推到天体上的运动也可以从天体运动用来推到这个我们生活中的运动对吧那这个地方就向请问同学们我们生活中还有哪些关于原制运动的现象呢那么请都用下麦思考一下我们下期的继续交流谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a detailed diagram and several equations related to circular motion. The layout includes a central diagram with arrows and labels, surrounded by equations and annotations.\n\n2. **Key Knowledge Items (Content View)**:\n   - Diagram: A circular motion diagram with arrows indicating forces and directions.\n   - Equations: \n     - $F_{\\text{net}} = m \\frac{v^2}{r}$\n     - $F_{\\text{net}} = G \\frac{m_1 m_2}{r^2}$\n   - Annotations: Labels such as \"向心力\" (centripetal force) and \"运动轨迹\" (motion trajectory).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the central diagram, tracing the circular path and indicating the direction of forces.\n   - The teacher circles the equation $F_{\\text{net}} = m \\frac{v^2}{r}$, emphasizing its importance.\n   - The teacher gestures towards the annotations, highlighting key terms like \"向心力\" and \"运动轨迹.\"\n\n4. **Transition to Next Step**:\n   - The screen displays images of real-world applications of circular motion, suggesting a connection to practical examples or further study.\n   - No explicit homework or assignment slide is visible, but the transition to images implies a shift to application or review for the next lesson.",
+  "visual_narrative": "The lesson concludes with a detailed blackboard diagram centered on circular motion. The teacher visually reviews the content by pointing to the central diagram, tracing the circular path, and emphasizing the direction of forces. He circles the equation $F_{\\text{net}} = m \\frac{v^2}{r}$, highlighting its significance. The visual focus then shifts to the screen, displaying real-world applications of circular motion, suggesting a transition to practical examples or further study.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Centripetal Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[637.64 -> 660.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Velocity Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[637.64 -> 660.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Circular Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[637.64 -> 660.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Celestial Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.64 -> 718.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Equations of Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[637.64 -> 718.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Real-World Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.64 -> 718.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Circular Motion Diagram",
+        "type": "Visual",
+        "original_text": "A diagram showing circular motion arrows indicating forces and directions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Equation F = m v^2 / r",
+        "type": "Visual",
+        "original_text": "$F_{\\text{net}} = m \\frac{v^2}{r}$ on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Equation F = G m1 m2 / r^2",
+        "type": "Visual",
+        "original_text": "$F_{\\text{net}} = G \\frac{m_1 m_2}{r^2}$ on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Real-World Image Display",
+        "type": "Visual",
+        "original_text": "Screen shows images of circular motion in real life.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Centripetal force is a principle that underlies circular motion."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The direction of velocity influences the nature of circular motion."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Circular motion principles are further developed through celestial motion studies."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Circular motion concepts include understanding real-world applications."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The equation for centripetal force is displayed and visualized on the board."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The gravitational force equation is depicted on the board."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Diagram visualizes the concept of circular motion."
+      },
+      {
+        "source": "v4",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "Screen real-world images synthesize practical applications of circular motion."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "engages_with",
+        "intent": "Students show engagement through the exploration of circular motion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

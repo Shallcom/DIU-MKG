@@ -1,0 +1,127 @@
+{
+  "video_name": "43_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the role of the history of science in biology and its contribution to developing core competencies; analyze the relationship between history‑of‑science resources and the construction of biological knowledge; master how to use history‑of‑science teaching to cultivate students’ inquiry and practical attitudes.",
+  "transcript": "[0.0 -> 145.46] 重要的资源那么就包括了科学家们探索科学史知识的运用形成整个过程还包括生物学的概念与逻辑体系的形成过程那么基于以上两个资源学生呢就需要从史料中学习以史明鉴学史明德那么学生可以在学习科学史的过程中呀培养生命观念和探究实践态度责任等多种核心素养那科学史到底有着怎样的功能呢作为生物科学教师在新课标中明确提出生物教师要贯彻以大概念来组织以探究为特点的教学策略孟子曾说过以先知觉后知以先觉觉后觉做到对生物学科的知和觉那么学生就需要学习科学史一方面学生能够主动地对知识进行建构同化和顺应来使得学生以自主的探究获得整个科学史包括生物知识的获取与建构第二方面呢还可以激发学生的内在情感动机向优秀的科学家们看齐尤其是具有爱国主义精神的科学家们能够激发学生维持学习的动力动力激发内驱力持之以恒的学习那么学生就能够做到向中总理看齐为中华之崛起而读书作为新时代的教师我们要有因才施教启智润心的教学智慧做教书艺人的大先生以上是我的集体讲演请允许我稍作课前准备。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features a title in Chinese characters: \"免疫与计划免疫\" (Immunity and Planned Immunization). The background includes a watercolor-style illustration of a landscape.\n\n#### 2. **The Title Event**\n- The title \"免疫与计划免疫\" is prominently displayed on the digital screen. The teacher does not physically write it but presents it as part of the slide. No specific action like underlining is observed.\n\n#### 3. **The Objectives**\n- No specific bullet points or learning goals are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with her hands, possibly emphasizing points related to the content on the screen. No specific pointing or direct interaction with the board is observed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The digital screen displays the title \"免疫与计划免疫\" with a watercolor background.\n- The teacher begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher gestures with her hands, possibly explaining concepts related to the title on the screen.\n- The blackboard remains blank except for some text on the left side, which is not clearly visible.\n\n**End:**\n- The teacher continues to speak, maintaining focus on the content displayed on the screen.\n- No additional visual elements or changes occur on the board or screen during this segment.\n\n### Summary\nThe introduction phase centers around the digital slide titled \"免疫与计划免疫.\" The teacher uses hand gestures to engage with the content, though no direct interaction with the board is noted. The visual focus remains on the slide, setting the stage for the lesson on immunity and planned immunization.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and presenting a digital slide as the opening visual stimulus. The slide features the title \"免疫与计划免疫\" against a watercolor landscape background, serving as the hook to capture the students' attention. The teacher engages with the content by gesturing with her hands, likely emphasizing key points related to the title displayed. Throughout this segment, the blackboard remains mostly blank, with some indistinct text on the left side. The visual focus stays on the slide, transitioning smoothly from the hook to the main topic of immunity and planned immunization. The teacher's gestures and the static presentation of the slide create a bridge, connecting the introduction to the broader lesson context. This setup likely aims to link the students' existing knowledge of basic immunity concepts to the more structured framework of planned immunization, setting a foundation for deeper exploration in subsequent parts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "History of Science",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Biology Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Immunity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Planned Immunization",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Inquiry Attitudes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Practical Attitudes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "v1",
+        "label": "Immunity Slide",
+        "type": "Visual",
+        "original_text": "Slide with title 'Immunity and Planned Immunization'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c7",
+        "label": "Biological Knowledge Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 145.46]"
+      },
+      {
+        "id": "c8",
+        "label": "Motivation from Scientists",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.46]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of Immunity."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of Planned Immunization."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "History of Science reinforces Biology Competencies."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "History of Science resources aid in Biological Knowledge Construction."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to develop inquiry attitudes."
+      },
+      {
+        "source": "c6",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think practically."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Motivation from scientists inspires students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,154 @@
+{
+  "video_name": "10_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Be able to record temperature‑time data during an experiment; be able to distinguish the melting characteristics of crystalline and amorphous substances.",
+  "transcript": "[547.64 -> 667.88] 融化之前温度是升高的升高的那你在它完全融化之后它的温度又怎么样还是升高那对于石蜡呢它是怎么样一直升高很好请做观察得很仔细那其他小组得到的数据和他们的这个一样吗我看到同学们都点头了看来同学们的实验进行得还是很顺利的但是通过这样的一个数据表格记录下来的数据我们很直观的看到它的一个温度变化了吗我们还要对这个数据分析是不是但有没有更加直观的方法让我们看到这个温度随时间的一个变化情况我们可以再进一步怎么样画图很好那这个画图我们的横纵坐标又是什么没错横坐标是时间纵索标是温度那现在请同学们利用你们所收集到的一个数据画出一个温度随时间的一个变化图像诶画得很仔细嘛好老师也截取了其中一个小子的头像展现到了PPT上那这个图像怎么分析呢我们可以看到这个图像被这个小组分成了三段那请这个小组来回答一下你们为什么将这个图像分成三段AB端表示的是什么AB端表示的是这个是海波的一个融化图像那AB端表示的是海波在融化之前的一个状态也就是固态那BC端呢已经在融化时并且我们可以看到它的温度怎么样。\n[669.7 -> 678.98] 那CD端呢完全融化之后的一个状态也就成了液态。\n[680.04 -> 707.66] 那这样一个有固定的融化温度的我们叫做一个融点这样的一个固体物质我们叫做晶体那我们再来看看石蜡的一个融化图像从图像当中可以很清晰地看到我们在石蜡融化时这个温度呢所以时间是怎么样一直在升高的那我们把这种没有永远的固体称为非晶体。\n[729.7 -> 746.22] 那我们生活当中还有哪些是晶体和非晶体呢我们再继续往下学习我的片段教学到此结束恳请评委老师批评指正。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a slide titled \"实验探究: 铝热反应及其应用探究\" (Experimental Investigation: Thermite Reaction and Its Applications).\n   - The slide includes two graphs: one showing a temperature-time curve and another showing a linear relationship between temperature and time.\n   - The blackboard on the left contains handwritten notes, including a diagram with arrows labeled \"固态\" (solid state) and \"液态\" (liquid state).\n\n2. **Key Knowledge Items (Content View)**:\n   - On the digital screen:\n     - Graph 1: Temperature-time curve with labels \"升温速率\" (rate of temperature increase) and \"最高温度\" (maximum temperature).\n     - Graph 2: Linear graph with labels \"温度\" (temperature) and \"时间\" (time).\n     - Text: \"实验探究: 铝热反应及其应用探究\" (Experimental Investigation: Thermite Reaction and Its Applications).\n   - On the blackboard:\n     - Diagram with arrows indicating state changes: \"固态\" (solid state) and \"液态\" (liquid state).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the temperature-time curve on the digital screen, emphasizing the \"升温速率\" (rate of temperature increase) and \"最高温度\" (maximum temperature).\n   - The teacher gestures towards the linear graph, highlighting the relationship between temperature and time.\n   - The teacher turns to the blackboard, pointing to the diagram with arrows, reinforcing the concepts of state changes from solid to liquid.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide on the digital screen displaying two graphs: a temperature-time curve and a linear temperature-time graph, both related to the thermite reaction. The teacher points to the temperature-time curve, emphasizing the \"升温速率\" (rate of temperature increase) and \"最高温度\" (maximum temperature), guiding the students' attention to these key metrics. She then gestures towards the linear graph, highlighting the relationship between temperature and time. Turning to the blackboard, she points to the diagram illustrating state changes from \"固态\" (solid state) to \"液态\" (liquid state), reinforcing the concepts discussed. The teacher's gestures systematically review each visual element, ensuring students grasp the core takeaway of the lesson. No visual homework or next-step instructions are present, focusing solely on consolidating the current knowledge.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Thermite Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[547.64 -> 746.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Temperature-Time Data",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[547.64 -> 667.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Crystalline Substances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.04 -> 707.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Amorphous Substances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.04 -> 707.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Rate of Temperature Increase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[547.64 -> 667.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Maximum Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[547.64 -> 667.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Solid State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.7 -> 678.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Liquid State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.7 -> 678.98]"
+      },
+      {
+        "id": "c9",
+        "label": "Melting Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.7 -> 678.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Screen Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Experimental Investigation: Thermite Reaction and Its Applications' with graphs of temperature-time curve and linear relationship.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with arrows indicating state changes: 'solid state' and 'liquid state'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[547.64 -> 746.22]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The digital screen visualizes the concept of thermite reaction."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The digital screen displays graphs that show temperature-time data."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Temperature-time data includes the rate of temperature increase."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Temperature-time data includes the maximum temperature."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "The concept of crystalline substances builds upon the melting point characteristic."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Amorphous substances are contrasted with crystalline substances based on the melting point."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram visualizes the solid state."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram showcases the transition to the liquid state."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "The thermite reaction concept engages students in the classroom."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

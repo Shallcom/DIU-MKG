@@ -1,0 +1,160 @@
+{
+  "video_name": "20_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the concept of quantized energy and how it manifests in atoms.",
+  "transcript": "[249.82942 -> 250.06] 其中我们可以知道量子化的能量值叫做来大家一起说一下叫什么能级很好我们继续原子中这些具有确定能量的稳定状态叫做定态大家勇敢一些啊好我们继续来看那能量能级最低的状态叫做什么基态好那其他状态我们叫什么呢激发很好。\n[256.74 -> 273.84] 好通常我们用一个或几个量子数来表示各个不同的状态例如我们可以用N等于一来表示一一。\n[275.78 -> 346.86] 对应的基态能量我们可以记为一一二三四等标记氢原子的基巴碳相应的能量计为一二一三一四等好那有同学又要问了老师我们想要月铅的条件也就是说辐射的条件是什么呢接下来我们会引入一个公式先学的公式就是H妙等于来这位同学来读一下H妙等于一N进去一M进去坐下吧好那老师我想知道那粒子的能级跃迁会变成什么样的图像呢我们一起来揭晓一下我们可以看到当电子在不同的轨道上运动时原子处于不同的状态而具有不控制的状态而具那通常情况下我们原子处于基态非常地稳定。\n[350.64 -> 369.8294] 那各个国家的物理学家在研究光学方面的知识做出了很多有用的贡献比如我们熟知的牛顿用棱镜得到的太阳光谱或者我们富朗合肺记录的太阳光谱并且我们饥饿祸福和本生成之初的棱镜光毁遗正所谓我们生活走向物理物理走向社会我们国家在工学方面的研究啊也跻身了各个国家的前列所以我希望同学们能厚积薄发为国铸剑不负时代不负未来努力践行科技强国科技报国科教兴国等相关理念。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher turned towards the class, making a sweeping gesture with her hand, signaling the start of an interactive segment. She also occasionally pointed directly at students to engage them in the discussion.\n\n**2. The Visual Focus Point:**\n- The primary visual focus was the blackboard, where the teacher had written the terms \"一能级\" (energy level), \"定态\" (stationary state), \"基态\" (ground state), \"激发态\" (excited state), and the equation $\\Delta E = E_n - E_m$. Additionally, the digital screen displayed diagrams and text related to energy levels and transitions.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded to encourage participation. She also pointed to the equation $\\Delta E = E_n - E_m$ on the blackboard, reinforcing the connection between the student's verbal response and the visual content.\n- The teacher used hand gestures to emphasize key points, such as tracing the energy level diagram on the digital screen to visually guide the student's understanding.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student's response, the teacher circled the equation $\\Delta E = E_n - E_m$ on the blackboard, visually validating the correct concept discussed.\n- She also drew a vertical line on the blackboard to represent energy levels, further elaborating on the student's explanation and ensuring clarity.\n- The teacher gave a thumbs-up gesture to acknowledge correct answers, providing positive reinforcement.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes \"一能级\" (energy level) on the blackboard.\n  - She adds \"定态\" (stationary state), \"基态\" (ground state), and \"激发态\" (excited state), along with the equation $\\Delta E = E_n - E_m$.\n\n- **Middle:**\n  - The teacher points to the energy level diagram on the digital screen, explaining the transitions.\n  - She uses hand gestures to trace the energy levels, linking them to the equation on the blackboard.\n  - The teacher makes a sweeping gesture to invite student participation.\n\n- **End:**\n  - The teacher circles the equation $\\Delta E = E_n - E_m$ to confirm a student's correct response.\n  - She draws additional lines on the blackboard to illustrate energy transitions, providing visual elaboration.\n  - The teacher gives a thumbs-up to acknowledge correct answers, ensuring students understand the concepts visually and verbally.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed the terms \"一能级\" (energy level), \"定态\" (stationary state), \"基态\" (ground state), \"激发态\" (excited state), and the equation $\\Delta E = E_n - E_m$. The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly at students to engage them in the discussion.\n\nAs the student explained their reasoning, the teacher walked over to the board and pointed to the equation $\\Delta E = E_n - E_m$, reinforcing the connection between the student's verbal response and the visual content. She used hand gestures to trace the energy level diagram on the digital screen, guiding the student's understanding and ensuring clarity.\n\nTo validate the answer, the teacher gave a distinct nod and circled the equation $\\Delta E = E_n - E_m$ on the blackboard. She then drew additional lines to illustrate energy transitions, providing visual elaboration and confirmation of the correct concepts.\n\nThe teacher's gestures linked the student's response back to the core lesson content by drawing an arrow connecting the student's explanation to the energy level diagram on the screen. This visual connection helped students move from passively receiving knowledge to actively constructing their own understanding, ensuring they grasped the relationship between energy levels and transitions.\n\nFinally, she gave a thumbs-up to acknowledge correct answers, reinforcing the interactive learning process and encouraging active participation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Energy Level",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[249.82942 -> 250.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Stationary State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[249.82942 -> 250.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Ground State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[249.82942 -> 250.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Excited State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[249.82942 -> 250.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Energy Transition Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[249.82942 -> 250.06]"
+      },
+      {
+        "id": "c6",
+        "label": "Quantum Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[256.74 -> 273.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Radiation Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[275.78 -> 346.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Energy Level Diagram",
+        "type": "Visual",
+        "original_text": "Diagram depicting various energy levels",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Delta E Equation",
+        "type": "Visual",
+        "original_text": "Equation Delta E = E_n - E_m written on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[250.06 -> 369.8294]"
+      },
+      {
+        "id": "c11",
+        "label": "Scientific Contributions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[350.64 -> 369.8294]"
+      },
+      {
+        "id": "c12",
+        "label": "Optics Research",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[350.64 -> 369.8294]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Energy levels include stationary states."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Energy levels include ground states."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Energy levels include excited states."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Energy transition equation applies to different energy levels."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Quantum numbers define specific energy level states."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Radiation conditions relate to energy transitions."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents energy levels."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Equation visually represents the principle of energy transitions."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement encourages understanding of energy levels."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Scientific contributions enhance optics research."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

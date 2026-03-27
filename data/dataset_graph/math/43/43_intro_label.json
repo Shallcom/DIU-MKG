@@ -1,0 +1,179 @@
+{
+  "video_name": "43_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the construction process of the function concept and its alignment with the new curriculum philosophy; master the methods and reasoning for deriving trigonometric identities; be able to apply knowledge‑construction theory to guide mathematics learning.",
+  "transcript": "[0.0 -> 117.58] 首先我先谈谈我对这句话的理解我认为这句话的意思是知识只有通过主体的主动构造纳入已有的学习过程才能算知识是有效生成的那新课标理念是要突出学生的主体地位把握数学的核心本质启发学生思考那在数学教学中我们如何结合上建构主义的理念和新课标理念落实到数学课堂当中呢我认为数学教学中应该重视学生的主体地位让学生充分地经历知识的生成过程比如我们在教学函数的概念的时候初中已经学习过了函数的概念但是初中学习的函数的概念是变量对应说还有两个变量在每一个X都有唯一确定的Y与之对应但是这样的变量对应说存在一定的局限性没有对于定义域和直域的范围进行谈论那么我们在高中函数的教学时可以引可以引起发学生的这么一个思考认知冲突进而引到高中函数集合对应说的探究当中充分精力寻找知识的共同特征找到两个集合和它们之间的对应关系进而抽象出集合对应说的函数的概念。\n[118.72 -> 132.66] 让学生经历知识的理解过程再比如两脚差的逾限公式的推导要引导学生类比前面诱导公式的研究路径进行探索理解公式而不是死记硬背的应用公式。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features a graph with a coordinate system and a line, indicating a mathematical or physics concept. The slide is titled \"§3.3.1 增函数与减函数\" (Increasing and Decreasing Functions).\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"§3.3.1 增函数与减函数\" (Increasing and Decreasing Functions). The teacher does not physically write this title; it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- The learning objectives are not explicitly listed as bullet points in the visible frames. The slide focuses on the title and a graph.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their hands, likely emphasizing points related to the content on the screen.\n- The teacher occasionally points towards the screen, possibly to highlight the graph or title.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with a digital slide displayed on the screen. The slide shows a graph with a coordinate system and a line, titled \"§3.3.1 增函数与减函数.\"\n- The teacher holds papers and begins speaking, likely introducing the topic of increasing and decreasing functions.\n\n**Middle:**\n- The teacher continues to gesture with their hands, emphasizing key points. They occasionally look at the papers and then back at the class.\n- The teacher points towards the screen, possibly to draw attention to the graph or the title.\n\n**End:**\n- The teacher maintains engagement with the class, using hand gestures to reinforce the introduction of the topic.\n- The digital slide remains unchanged, focusing on the graph and title throughout the introduction phase.\n\nThis structured visual analysis links the teacher's actions to the content displayed, highlighting the introduction of the lesson on increasing and decreasing functions.",
+  "visual_narrative": "Initially, the screen presents a graph with a coordinate system and a line, titled \"§3.3.1 增函数与减函数,\" serving as the hook to engage students with the concept of increasing and decreasing functions. To bridge to the topic, the teacher holds papers and gestures with their hands, occasionally pointing towards the screen to emphasize the graph and title. The visual focus remains on the digital slide throughout the introduction, establishing the lesson goal. The teacher's gestures and references to the graph help connect the new knowledge to students' existing understanding of functions, setting the stage for a deeper exploration of the topic. This structured introduction effectively links the visual elements to the lesson's objectives, preparing students for the forthcoming content on function behavior.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Increasing Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Decreasing Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Function Concept",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Subject Role in Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Knowledge Construction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Curriculum Philosophy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Mathematics Core Essence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c8",
+        "label": "High School Function Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c9",
+        "label": "Domain and Range",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.58]"
+      },
+      {
+        "id": "c10",
+        "label": "Trigonometric Identities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[118.72 -> 132.66]"
+      },
+      {
+        "id": "c11",
+        "label": "Equation Derivation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[118.72 -> 132.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Graph Slide",
+        "type": "Visual",
+        "original_text": "Slide showing graph with coordinate system and line.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Slide titled '§3.3.1 Increasing and Decreasing Functions'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The graph visually depicts increasing functions."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The graph visually depicts decreasing functions."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Function concept includes understanding high school mathematics."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Domain and range knowledge expands on function concept."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Trigonometric identities involve equation derivation."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Title on slide summarizes increasing functions topic."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Title on slide summarizes decreasing functions topic."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engaged_with",
+        "intent": "Students show engagement with topic on increasing functions."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "engaged_with",
+        "intent": "Students show engagement with topic on decreasing functions."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Role of subject in learning integrates knowledge construction philosophy."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Curriculum philosophy deepens understanding of mathematics core essence."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,120 @@
+{
+  "video_name": "38_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Be able to collect data through experiments and construct a function model; master the method of using a scatter plot to represent the relationship between time and temperature.",
+  "transcript": "[390.14 -> 435.6] 那么下面我们就需要收集一些茶水的温度随时间变化的数据再利用这个数据建立适当的函数模型那么下面我们就开始收集数据那么请同学们想一想在收集数据的时候我们主要收集时间和温度的变化规律那么我们应该用到什么样的仪器呢来这位同学你来说一下需要收集时间的话需要用描表然后计是对非常好请坐我们可以用描表温度计温度计等工具收集茶水温度随时间的变化的数据。\n[436.64 -> 453.44] 那么下面这个表格是某研究人员每隔一分钟测量的一次茶水的温度得到这样一个数据那么现在我们来分析这个表格中的数据看看你们发现什么呢。\n[460.4 -> 525.88] 来这位同学你来说看上根据表格你能发现什么茶水的温度随着时间的变化越来越低了啊你能发现什么对随着时间的变化温度在逐渐降低但是我们降到室温是不是就不再改变了也就是降到二十五摄氏度是不是就不再改变了好那么茶水是随着温度的变化而变化对应一个时间都有着一定的温度那么茶水的温度就是时间T的函数那么这时我们就可以根据这组数据来列出一个散叶图那么我们可以用描点法在直角坐标系中演出三解图。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the interactive whiteboard, directing students' attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the \"研究目标\" (Research Objectives) section on the interactive whiteboard, specifically the \"2. 收集数据\" (2. Collect Data) subsection. This included a table with data collection methods and examples.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher wrote \"2. 收集数据\" (2. Collect Data) and \"3. 分析数据\" (3. Analyze Data) on the blackboard, reinforcing the points from the presentation. She used hand gestures to emphasize key points, such as pointing to the table on the whiteboard to highlight data collection methods.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled and underlined key terms on the blackboard, such as \"收集数据\" (Collect Data) and \"分析数据\" (Analyze Data), to visually validate the importance of these steps. She also used a pointer to highlight specific cells in the table on the whiteboard, ensuring students understood the data examples provided.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher gestures towards the class and points to the whiteboard, focusing on the \"研究目标\" section.\n  - Writes \"2. 收集数据\" on the blackboard, mirroring the content on the whiteboard.\n\n- **Middle:**\n  - Points to the table under \"收集数据\" on the whiteboard, explaining data collection methods.\n  - Writes \"3. 分析数据\" on the blackboard, continuing the instructional flow.\n\n- **End:**\n  - Uses hand gestures to emphasize the steps written on the blackboard.\n  - Circles and underlines key terms on the blackboard, providing visual confirmation of important concepts.\n  - Points to specific data examples in the table on the whiteboard, ensuring clarity in understanding.\n\nThis structured approach ensures that visual elements are effectively used to guide and reinforce the learning process.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the \"研究目标\" (Research Objectives) with a focus on \"收集数据\" (Collect Data) and a table illustrating data collection methods. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content displayed on the interactive whiteboard. She pointed directly at the table, emphasizing the importance of understanding data collection techniques.\n\nAs the teacher facilitated the discussion, she moved to the blackboard and wrote \"2. 收集数据\" and \"3. 分析数据,\" mirroring the presentation content. While explaining, she used hand gestures to highlight key points, such as pointing to specific cells in the table on the whiteboard. This visual reinforcement helped students connect the theoretical concepts with practical examples.\n\nDuring the interaction, the teacher actively listened to student responses, nodding and smiling to encourage participation. She walked over to the board and underlined the terms she had written, providing visual cues to reinforce the steps in the data collection and analysis process. This supportive gesture helped students feel more confident in their understanding.\n\nTo validate the students' input, the teacher circled the key terms on the blackboard and drew arrows connecting them back to the table on the whiteboard. This visual feedback confirmed the accuracy of the students' responses and linked their understanding to the core lesson content. By doing so, the teacher effectively guided students from passively receiving information to actively constructing their own understanding of the data collection and analysis process.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Data Collection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[390.14 -> 435.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Time-Temperature Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[390.14 -> 435.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Data Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[390.14 -> 435.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Experimental Instruments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.14 -> 435.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Thermometer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.14 -> 435.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Scatter Plot",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[460.4 -> 525.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Data Table",
+        "type": "Visual",
+        "original_text": "Table showing temperature data collected every minute.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Function Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[460.4 -> 525.88]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The concept of data collection is exemplified by the data table."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The relationship between time and temperature establishes the basis for constructing a function model."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Data analysis is built upon creating a scatter plot to visualize relationships."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Experimental instruments include using a thermometer."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The scatter plot visualizes the data collected in the table."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in the process of data collection."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding the relationship between time and temperature."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

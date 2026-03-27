@@ -1,0 +1,144 @@
+{
+  "video_name": "7_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the importance of radio signal transmission and reception; master the role of antennas and the selection of their construction materials; recognize the application of tilt/steering techniques in signal reception.",
+  "transcript": "[677.4 -> 723.16] 我们无线电发射得出去也要接收得到不然发射就是空谈了对不对我们思考一下在抗日战争时期使用的无线电台上面有一根直立起来的东西叫什么天线非常好天线是什么做成的是木头做成的吗不是它是金属也就是我们倒底制成的而我们接收还有一种情况就是敌军可能也在发射信号我们也在发射信号对不对那么也就是说这个信号是很复杂的那么要如何才能接收啊我准确的需要这就是涉及到我们的接收技术了我们来看一看。\n[724.6 -> 738.82] 我们接收的必要条件必须是要到底也就是我们那个天线就是必要到底而我们的接收技术它称之为调斜也就是使电路产生的电斜的过程我们称之为调斜。\n[748.6 -> 751.16] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the interactive whiteboard screen.\n   - The blackboard contains handwritten text in Chinese, organized into sections with bullet points.\n   - The interactive whiteboard displays a structured slide with headings and bullet points.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - Main heading: 无线电波的传播与接收 (Radio Wave Propagation and Reception)\n     - Subheadings:\n       - 无线电波传播所 (Radio Wave Propagation)\n       - 特点一 (Feature 1)\n       - 特点二 (Feature 2)\n       - 无线电波的接收 (Radio Wave Reception)\n   - **Interactive Whiteboard**:\n     - Headings: 无线电波的传播与接收 (Radio Wave Propagation and Reception)\n     - Bullet points with green highlighted sections and red text boxes.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the headings and bullet points.\n   - The teacher uses a pointer to indicate different sections on the interactive whiteboard, tracing along the green highlighted areas and red text boxes.\n   - The teacher gestures towards the screen, emphasizing the flow of information from one bullet point to another.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The teacher's gestures suggest a review of the content, possibly preparing to conclude the session or transition to a new topic, but no specific next steps are indicated visually.",
+  "visual_narrative": "The lesson concludes with a structured summary on both the blackboard and interactive whiteboard, centered on radio wave propagation and reception. The teacher visually reviews the content by pointing to each bullet point on the blackboard, highlighting key headings such as \"无线电波传播所\" and \"无线电波的接收.\" On the interactive whiteboard, the teacher uses a pointer to trace along the green highlighted sections and red text boxes, emphasizing the flow of information. The teacher's gestures reinforce the connection between different features and reception methods. Although no explicit homework or next-step instructions are visible, the teacher's final emphasis on the core concepts visually marks the conclusion of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Radio Signal Transmission",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[677.4 -> 738.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Radio Signal Reception",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[677.4 -> 738.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Function of Antennas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.4 -> 738.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Metal Antennas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.4 -> 738.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Tilt Techniques",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[724.6 -> 738.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Steering Techniques",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[724.6 -> 738.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Radio Wave Propagation and Reception",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Interactive Whiteboard Summary",
+        "type": "Visual",
+        "original_text": "Structured Slide with Bullet Points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Reception is a component of the overall radio signal function."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Metal antennas are a specific example of material used for antennas."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Reception process involves using tilt techniques."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Reception process involves steering techniques."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Summary on the blackboard includes radio signal reception."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Interactive whiteboard highlights reception techniques."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Summary on the blackboard includes radio signal transmission."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Interactive whiteboard demonstrates signal transmission principles."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Function of antennas is illustrated on the blackboard."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged and reflecting on transmission concepts."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged and reflecting on reception concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

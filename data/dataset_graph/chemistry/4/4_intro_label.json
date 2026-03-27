@@ -1,0 +1,198 @@
+{
+  "video_name": "4_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the core competencies of the high‑school chemistry curriculum standards; master the importance of knowledge introduction in instructional design; analyze the relationship between chemistry and real‑life contexts.",
+  "transcript": "[0.0 -> 119.18] 分别是宏观辨识与微观探析变化观念与平衡思想科学探究与创新精神科学发展与社会价值以及证据推理和模型认知这五个方面我认为在课程标准中我们特别需要重力分析目标内容的有关的陈述结合教师应该结合教材内容的特点以及学生当前的科学素养发展水平来确定教材中的某一方面的基本要点和需要达到的课时目标的领域来确定自己的教学设计以及教案高中的化学分为必修选择性必修以及选修这三个部分组成课程的设置也是由浅入深而进行设置的为了更好地使学生理解知识学习有关的化学知识我认为教师可以在学习过程中从学生的直接经验出发作为重要的课堂资源把学生的个人知识直接经验生活世界作为重要的切入点从我们日常生活中的视力或者日常作为重要的课堂导入让学生感受到化学与我们的生活息息相关这样呢就可以激发学生的学习兴趣启发学生的思维引导学生学习的情境我的评论到此结束谢谢大家暂别开始我的模拟视角。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital presentation slide displayed on the screen. The slide contains text in Chinese, which appears to be the title or introduction to the lesson. The exact text is not fully legible, but it is the primary visual focus at the start.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"课题一: 化学反应与能量变化\" (Topic 1: Chemical Reactions and Energy Changes). The teacher does not physically write this; it is part of the digital presentation. The teacher stands in front of the screen, likely emphasizing the title through verbal introduction.\n\n#### 3. **The Objectives**\n- The slide includes bullet points, likely outlining learning objectives or key topics. These are not fully legible, but they are positioned to the right of the title, suggesting a list format.\n\n#### 4. **Key Gestures**\n- The teacher stands still, facing the class, with no significant gestures observed in the frames provided. There is no pointing or interaction with the board or screen visible.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher walks to the front of the classroom.\n- The digital screen displays the title \"课题一: 化学反应与能量变化\" and some bullet points.\n- The teacher stands in front of the screen, likely introducing the topic verbally.\n\n**Middle:**\n- The teacher remains stationary, maintaining eye contact with the class.\n- The screen content does not change, focusing on the introduction slide.\n- No gestures or interactions with the board are observed.\n\n**End:**\n- The teacher continues to stand in front of the screen, possibly elaborating on the introduction.\n- The visual content remains consistent, with the title and bullet points as the focal points.\n\n### Summary\nThe introduction phase centers on the digital presentation slide, with the title \"课题一: 化学反应与能量变化\" prominently displayed. The teacher's actions are minimal, primarily involving standing and possibly speaking to the class. The visual focus remains on the screen content, with no additional gestures or board interactions noted.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a digital screen displaying the title \"课题一: 化学反应与能量变化\" as the opening visual stimulus. The teacher remains stationary, allowing the slide to serve as the primary focus. The screen also shows bullet points, likely outlining key objectives, though these are not fully legible. The teacher's minimal gestures suggest a verbal introduction, emphasizing the content on the screen. The transition from the hook to the main topic is seamless, as the slide remains consistent, highlighting the lesson's focus on chemical reactions and energy changes. This setup likely connects new knowledge to students' existing understanding of basic chemistry concepts, preparing them for a deeper exploration of energy dynamics in reactions. The introduction effectively sets the stage for the lesson, using the digital presentation to anchor the topic and guide student focus.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "Digital presentation slide introducing the lesson.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Slide showing 'Topic 1: Chemical Reactions and Energy Changes'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Objective Slide",
+        "type": "Visual",
+        "original_text": "Slide outlines learning objectives.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Chemical Reactions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Energy Changes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Curriculum Standards",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Instructional Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Real-life Contexts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Macro Identification",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Micro Analysis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c8",
+        "label": "Equilibrium Thinking",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c9",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "c10",
+        "label": "Social Value",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 119.18]"
+      },
+      {
+        "id": "s1",
+        "label": "Teacher Verbal Introduction",
+        "type": "Teacher_Action",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 119.18]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide serves as an introduction to engage students with the topic."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The slide title highlights the importance of chemical reactions."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The slide title highlights the importance of energy changes."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Introduction slide briefly describes curriculum standards."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Objective slide outlines the curriculum focus areas."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Curriculum standards guide instructional design."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Instructional design integrates real-life contexts."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Chemical reactions can be understood through macro identification."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Chemical reactions can be understood through micro analysis."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Micro analysis complements macro identification."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Equilibrium thinking is central to understanding chemical reactions."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Scientific inquiry aids in exploring chemical reactions."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Social value is a component of curriculum standards."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher introduces and engages students with the topic of chemical reactions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

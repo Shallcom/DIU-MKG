@@ -1,0 +1,140 @@
+{
+  "video_name": "6_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the basic principles of chemical experiment design; master methods for evaluating safety and operability in experimental teaching; develop the ability to observe and analyze experimental phenomena.",
+  "transcript": "[0.0 -> 18.7] 打赏支持明镜与点点栏目。\n[30.0 -> 60.0] 那么在实验演示之前教师需要考虑的问题如以下方面实验与课堂内容的相关性实验的安全性可操作性以及实验的趣味性首先我们选择实验必须是与教学内容相关的相联系的能够引导学生进行思考得出合理的结论并且它是需要非常安静的安全的保证学生的人身安全以及它是需要是可操作性的要保证在课堂中能够比较完整地完成实验并且展示出想要心中符合的实验现象在实验过程中教师需要注意的是实验的规范操作实时提醒学生操作需要规范需要安全需要注意的操作事项之前需要提前提醒学生并进行解释说明提醒学生注意观察实验现象引导学生通过实验现象进行思考最后在实验结束以后要引导学生对实验现象进行归纳总结并且引导学生从物质的宏观现象出发得出相关的微观原理以及相关本质以上是我的讲演内容。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring colorful circular icons and text in Chinese. The screen introduces the \"10th National Contest of Teaching Skills for Teacher College Students\" with a focus on chemistry.\n\n#### 2. The Title Event\n- **Text on Screen**: The title displayed on the screen reads \"第三节 实验活动 化学能转化成电能\" (Third Section: Experimental Activity - Conversion of Chemical Energy to Electrical Energy).\n- **Teacher's Action**: The teacher stands at the podium, presenting the title on the screen without additional physical interaction with the board.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly visible in the provided frames. The screen primarily displays the title without bullet points or objectives.\n\n#### 4. Key Gestures\n- **Teacher's Actions**: The teacher remains stationary at the podium, occasionally looking at the screen and the audience. No specific gestures like pointing or underlining are observed in the frames provided.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Hook Object**: The video starts with a yellow title screen introducing the contest and the chemistry subject.\n- **Teacher's Position**: The teacher is positioned at the podium, facing the audience.\n\n#### Middle\n- **Title Display**: The screen transitions to show the title \"第三节 实验活动 化学能转化成电能\" (Third Section: Experimental Activity - Conversion of Chemical Energy to Electrical Energy).\n- **Teacher's Action**: The teacher stands at the podium, presenting the title. No specific gestures are made towards the screen or board.\n\n#### End\n- **Teacher's Interaction**: The teacher continues to stand at the podium, maintaining a focus on the audience and the screen. No additional visual content changes or gestures are observed.\n\n### Summary\nThe introduction phase of the lesson is characterized by a static presentation of the title on the screen. The teacher's actions are minimal, primarily involving standing at the podium and presenting the title without additional gestures or interactions with the board. The visual focus remains on the screen displaying the lesson's title, setting the stage for the experimental activity on converting chemical energy to electrical energy.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the podium, presenting a vibrant yellow title screen that serves as the hook, introducing the \"10th National Contest of Teaching Skills for Teacher College Students\" with a focus on chemistry. This visual sets the stage for the lesson. The scene transitions smoothly as the screen shifts to display the main topic: \"第三节 实验活动 化学能转化成电能\" (Third Section: Experimental Activity - Conversion of Chemical Energy to Electrical Energy). Throughout this transition, the teacher remains at the podium, maintaining a steady presence without additional gestures or interactions with the board. The static presentation of the title on the screen establishes the lesson's focus, bridging the hook to the main topic. This approach effectively introduces the concept of energy conversion, preparing students for the experimental activity ahead by clearly outlining the subject matter. The visual narrative supports the transition from a general contest introduction to a specific scientific topic, linking the students' existing knowledge of chemical reactions to the upcoming exploration of electrical energy generation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Safety in Experiments",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Experimental Operability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Observing Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemical Energy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 60.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Electrical Energy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 60.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Yellow Title Screen",
+        "type": "Visual",
+        "original_text": "The video begins with a yellow title screen introducing the contest and chemistry focus.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Contest Introduction Screen",
+        "type": "Visual",
+        "original_text": "10th National Contest of Teaching Skills for Teacher College Students in Chemistry.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Title Screen",
+        "type": "Visual",
+        "original_text": "Third Section: Experimental Activity - Conversion of Chemical Energy to Electrical Energy.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Introductory Static Presentation",
+        "type": "Visual",
+        "original_text": "Static presentation of the lesson's title at the podium without gestures.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Teacher at Podium",
+        "type": "Visual",
+        "original_text": "Teacher stands at the podium facing the audience.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Chemical energy conversion builds into understanding electrical energy."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Safety includes operability in experiment design."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encouraging students to think when observing phenomena."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Yellow title screen supports static presentation of the lesson introduction."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Contest introduction frames the visual context of the lesson."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Title screen emphasizes the concept of chemical energy."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "guide_discussion",
+        "intent": "Guides students' attention towards the upcoming concepts without distraction."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Teacher's steady presence at the podium helps students focus on the topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

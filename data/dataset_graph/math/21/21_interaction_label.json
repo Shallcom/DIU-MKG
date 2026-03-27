@@ -1,0 +1,144 @@
+{
+  "video_name": "21_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and characteristics of discrete random variables; master the basic concepts of the normal distribution and its applications.",
+  "transcript": "[208.6 -> 241.22] 很好这位同学回答得非常正确有两种也就是它的结果是有限个的并且我们可以将其一一列举出来那么像这样的随机事件我们就叫做离散型随机事件而进一步一起来考虑如果一个事件我们不能有限地将其表示出来即它在一个充满的区间内甚至在整个时数中都有它的值那么像这样的随机变量我们就称作连续性随机变量。\n[242.22 -> 322.64] 那像连续性随机变量它的概率我们该如何求解呢带着这个问题这节课让我们一起来学习正态分布首先请同学们一起来思考这样的一个问题我们在进行生产食盐的时候食盐的每袋食盐的标准质量为四百克但是因为由于各种因素啊可能它每一袋食盐并不能够完全严格到达四百克这一要求那么此时我们就需要对其进行质检试试看它的误差是否符合要求那么现在我们存在我们老师提供了质检人员在一次产品检验中所得到的实验的误差的数量那同学们来思考对于此时这个实验的误差X我们还能够用我们之前所学习过的离散型随机变量的方法来进行求检吗不能因为它的食盐存在的误差可能是任意的一个食数并不被固定那么此时我们想要求出它的误差同学们该怎么办呢。\n[323.94 -> 341.22] 同学们来思考我们之前学习概率的时候我们知道想要求一个概率我们是可以用它出现的频很正确频率来进行估计的那么此时请同学们来思考我们该如何估计它的频率呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the practice problem displayed on the interactive whiteboard. The problem involved a table of data and questions related to normal distribution, as indicated by the text and numerical data on the screen.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded to encourage the student. She occasionally pointed to specific parts of the table on the screen, highlighting relevant data points and guiding the student's thought process without interrupting.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student provided an answer, the teacher visually validated the response by circling the correct data on the table displayed on the whiteboard. She also used hand gestures to emphasize key points, such as drawing an imaginary line to represent the normal distribution curve, reinforcing the concept visually.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher initiated interaction with a sweeping gesture towards the class.\n  - The interactive whiteboard displayed a table with numerical data and questions related to normal distribution.\n\n- **Middle:**\n  - The teacher pointed to specific data points on the table as a student responded, providing real-time scaffolding.\n  - She used nodding and eye contact to encourage the student, maintaining focus on the visual content.\n\n- **End:**\n  - The teacher circled the correct data on the table to confirm the student's answer.\n  - She elaborated by gesturing a normal distribution curve in the air, linking the student's response to the broader concept visually.\n\nThis structured approach ensured that the teacher's visual strategies effectively managed the dialogue, guiding students through the co-construction of knowledge.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a table of numerical data and questions related to normal distribution, setting the stage for the lesson's focus. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem displayed. This broad gesture signaled the start of an interactive segment, encouraging participation.\n\nAs a student began to respond, the teacher moved closer to the interactive whiteboard, using precise pointing gestures to highlight specific data points on the table. While the student explained their reasoning, the teacher maintained eye contact and nodded in encouragement, occasionally jotting down key terms on the board to visually scaffold the student's thought process. Her movements were deliberate, guiding the student's focus back to relevant sections of the data, ensuring clarity and understanding.\n\nTo validate the student's answer, the teacher gave a distinct nod and circled the correct data on the screen, providing clear visual confirmation. She then drew an imaginary normal distribution curve in the air, linking the student's response back to the core lesson content. This gesture reinforced the connection between the data analysis and the theoretical concept of normal distribution discussed earlier.\n\nThroughout the interaction, the teacher's visual strategies transformed the classroom into a dynamic space for knowledge construction. By actively engaging with the visual content and using supportive gestures, she helped students move from passively receiving information to actively constructing their own understanding. The teacher's orchestration of visual elements ensured that each student could see the connections between their responses and the broader lesson, fostering a deeper comprehension of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Discrete Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[208.6 -> 241.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Continuous Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[208.6 -> 241.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Probability Estimation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[323.94 -> 341.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Normal Distribution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[242.22 -> 322.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Quality Control in Salt Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[242.22 -> 322.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Experimental Error",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[242.22 -> 322.64]"
+      },
+      {
+        "id": "v1",
+        "label": "Data Table",
+        "type": "Visual",
+        "original_text": "Table with data and questions about normal distribution",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Normal Distribution Curve",
+        "type": "Visual",
+        "original_text": "Imaginary line drawn to represent the curve",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how continuous variables provide more comprehensive data representation."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The teacher uses an air-drawn curve to represent abstract concept visually."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Quality control involves assessing experimental errors."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Data table prompts student response."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "engages",
+        "intent": "Visual display engages students with interactive content."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Probability estimation methods are foundational for understanding normal distribution."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Teacher uses data on screen to scaffold concept of normal distribution."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "included_in",
+        "intent": "Understanding errors is crucial for method execution in quality control."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Understanding of normal distribution builds upon discrete variable theory."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Probability estimation refines continuous variable analysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

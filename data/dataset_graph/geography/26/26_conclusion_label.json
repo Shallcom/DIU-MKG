@@ -1,0 +1,127 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Be able to identify the features of natural‑zone naming; be able to summarize and analyze the meaning of natural‑zone names.",
+  "transcript": "[646.48 -> 719.26] 有没有同学想试一试说一下它的名字命名的特点好你来说说看它前面就是有那种气候带前面是个加热带气候带也很重要的特点好你来说看它前面就是有那种气候带前面是个加热带可以说是温度带那么中间呢中间是纸背是纸背它的类型对吧那最后是不是加上了带这个字好请坐所以我们可以看到对于自然带的命名也是有规律的你看到是一个是比如说我们拿热带与零带来举例子热带与零带是不是首先是热带可以说是温度带然后呢雨林是它的植被最后再加上带这个字。\n[721.2 -> 752.52] 好现在我们对于自然带的命名有所基本了解了我们来做一个小结首先我们在地域封印之中学到了在这个地球上不同的地表景观它们之间的差异其原因是由于地球上有不同的纬度时间到了好谢谢各位。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard on the left side of the classroom. It contains a list of key points written in white chalk.\n   - The layout includes a title at the top, followed by a numbered list of points.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard contains the following visible items:\n     - Title: \"10.3 环境、地理环境的差异性\"\n     - Key points:\n       1. 地理环境差异\n       2. 地理环境差异的表现\n       3. 地理环境差异的成因\n       4. 地理环境差异对人类活动的影响\n       5. 地理环境差异与区域可持续发展\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each item on the blackboard list, likely reviewing the key points covered in the lesson.\n   - The teacher gestures towards the large screen, which displays a world map and later a blank slide with the title \"主题：探究地域分异与自然带\" and an arrow labeled \"从赤道到两极\".\n\n4. **Transition to Next Step**:\n   - The screen transitions to a slide with the title \"参考：地域分异与自然带\" and an arrow indicating a directional concept.\n   - No explicit homework or assignment details are visible, but the slide suggests a focus on further exploration of geographic patterns.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a list of key points under the title \"10.3 环境、地理环境的差异性.\" The teacher systematically reviews these points, pointing to each item in sequence to reinforce the lesson's structure. The screen transitions to a slide titled \"参考：地域分异与自然带,\" featuring an arrow indicating a directional concept, suggesting further exploration. The teacher emphasizes the core takeaway by gesturing towards the screen, highlighting the importance of geographic patterns. No explicit homework instructions are visible, but the slide implies a focus on continued study of geographic differentiation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geographic Variation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.48 -> 719.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Causes of Variation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.48 -> 719.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Effects on Human Activities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.48 -> 719.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Sustainable Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.48 -> 719.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Naming Features of Natural Zones",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[721.2 -> 752.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Equatorial to Polar Transition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.48 -> 719.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Key Points",
+        "type": "Visual",
+        "original_text": "Key points written in white chalk: Geographic Variation, Variation Causes, Human Activity Effects, Sustainable Development.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Screen World Map",
+        "type": "Visual",
+        "original_text": "World map displayed on the large screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Slide on Geographic Patterns",
+        "type": "Visual",
+        "original_text": "Slide titled 'Reference: Geographic Variation and Natural Zones' pointing towards further study.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Understanding of Naming",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding causes is essential to explaining geographic variations."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explaining how geographic variation impacts human activities."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Linking geographic variation to regional sustainable development."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think about natural zone naming conventions."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Visual summary of key geographic variation points."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Illustrates the global transition from the equator to poles."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Provides structural support for understanding geographic patterns."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

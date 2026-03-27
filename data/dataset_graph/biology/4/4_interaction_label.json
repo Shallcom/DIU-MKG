@@ -1,0 +1,169 @@
+{
+  "video_name": "4_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Recall and understand the application contexts of isotopic labeling; master the specific steps and principles of isotopic labeling in DNA replication experiments; analyze and summarize how scientists use isotopic labeling to differentiate the source of DNA.",
+  "transcript": "[186.4 -> 190.38] 那大家还记得同位素标记法我们在哪里学过吗\n[191.38 -> 232.34] 在必修一中探究分泌蛋白的合成与运输中我们是不是接触过这个概念好那同样的这个实验中呢科学家们呢就利用了同位素标记法标记了氮十四以及氮十五两种元素那这是同位素标记法的原理是因为其同位素的相对质子质量是不同的对吧那所以说氮十五和氮十四哪一个的相对质量比较大大家觉得是对氮十五那科学家们呢就利用这个方法在这区分在试管中对不同蛋元素的一个DNA\n[233.46 -> 243.0] 好那现在呢请同学们再次阅读同时小组合作讨论一下具体的一个实验过程的步骤大概是怎样的\n[244.82 -> 259.02] 好大家讨论一下可以尝试在纸上构建一个大概的模型\n[285.52 -> 300.0] 好那我们一起来看你们哪位小组想来跟我们分享一下你们了解的科学家们的这个具体的步骤具体的问题吧我们小组讨论的结果是科学家他先培养大肠蛋及用食物蛋然后再用食物蛋转移到普通食肆蛋里面让它去DNA复制然后在不同时刻收集大肠杆菌提取它的DNA离心然后判断它DNA上面是蛋食物的还是食物的很好那刚才这位同学回答的是不是就比较的规范了那它的一个主要的步骤呢",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interaction. She then moved closer to the students, bending slightly to engage directly with them, indicating an invitation for participation.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the content on the blackboard and the presentation slide. The blackboard displays the topic \"DNA的半保留复制\" (DNA semi-conservative replication) with the formula \"$2^n$\" written below. The slide to the right shows diagrams illustrating the DNA replication process.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While interacting with the students, the teacher leaned in and pointed to the diagrams on the slide, guiding their attention to specific parts of the replication process. She also gestured towards the blackboard, emphasizing the formula \"$2^n$\" to connect it with the diagrams.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher nodded and maintained eye contact with the students, providing non-verbal affirmation. She pointed to the diagrams on the slide again, reinforcing the connection between the visual representation and the formula on the board. This visual strategy helped clarify and validate the students' understanding of the DNA replication process.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the topic \"DNA的半保留复制\" (DNA semi-conservative replication) with the formula \"$2^n$\" prominently displayed. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the material. She then moved closer to the students, bending slightly to establish a direct connection, signaling the start of an interactive session.\n\nAs the students responded, the teacher actively facilitated their understanding by walking over to the board and pointing to the formula \"$2^n$\". Simultaneously, she gestured towards the diagrams on the slide, which illustrated the DNA replication process. This dual focus helped students connect the mathematical representation with the biological concept. While the students explained their reasoning, the teacher nodded and maintained eye contact, providing non-verbal encouragement. She occasionally pointed to specific parts of the diagrams, guiding their attention to key stages of replication.\n\nTo validate the students' input, the teacher gave a distinct nod and pointed emphatically to the correct parts of the diagrams on the slide. She then drew an arrow on the board, linking the formula \"$2^n$\" back to the replication diagrams, reinforcing the connection between the mathematical model and the biological process.\n\nFinally, she circled the key elements on the slide, ensuring the students visually connected their responses to the core lesson content. Through these gestures, the teacher transformed passive reception into active construction, helping students integrate their observations with the theoretical framework, thereby deepening their understanding of DNA semi-conservative replication.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Isotopic Labeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[186.4 -> 190.38]"
+      },
+      {
+        "id": "c2",
+        "label": "DNA Semi-conservative Replication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[233.46 -> 243.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Nitrogen-15",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[191.38 -> 232.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Nitrogen-14",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[191.38 -> 232.34]"
+      },
+      {
+        "id": "c5",
+        "label": "Relative Proton Mass",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[191.38 -> 232.34]"
+      },
+      {
+        "id": "c6",
+        "label": "DNA Source Differentiation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[233.46 -> 243.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Experiment Steps",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[244.82 -> 259.02]"
+      },
+      {
+        "id": "c8",
+        "label": "DNA Replication Process",
+        "type": "Visual",
+        "original_text": "DNA replication diagrams on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Formula $2^n$",
+        "type": "Visual",
+        "original_text": "Formula $2^n$ on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c11",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Isotopic labeling involves nitrogen isotopes."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Isotopic labeling involves nitrogen isotopes."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding of nitrogen isotopes is based on their relative proton mass."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding of nitrogen isotopes is based on their relative proton mass."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Differentiation of DNA sources uses the principle of semi-conservative replication."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Experiment steps utilize isotopic labeling principles."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Diagrams on the slide illustrate DNA semi-conservative replication principles."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Formula on blackboard validates understanding of DNA source differentiation."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Student discussions are guided to consider the experiment steps."
+      },
+      {
+        "source": "c11",
+        "target": "c7",
+        "relation": "praises_response",
+        "intent": "Students respond with correct experiment steps articulating the procedure."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Visual representation helps scaffold understanding of replication process principles."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Formula summarizes mathematical representation of biological process."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Differentiation builds upon mass differences in isotopes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

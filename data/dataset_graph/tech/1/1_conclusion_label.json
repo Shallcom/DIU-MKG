@@ -1,0 +1,146 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Identify the impact of abiotic factors on plant distribution; analyze the specific influence of altitude changes on wheat distribution.",
+  "transcript": "[691.86 -> 725.36] 接下来老师想问大家一个问题我们知道小麦的生活它主要是受阳光和水的影响正如刚周伟同学说到它主要分布在南方就是因为气温以及水分的差异那老师有个问题想考考大家我们知道随着海拔的升高气温会越来越低而在高海拔地区呢它的扩野率比较多在低海拔的地区它是增益率比较多那这个它体现了哪个因素对生物的影响呢。\n[726.62 -> 746.28] 我们刚说了海拔越高气温越低温度很好那么同学们已经掌握了相应的概念那下期课我们将会继续学习非生物因素是不是也影响动物的生活和分布呢同学们也可以继续探究好下课。\n[749.06 -> 767.28] 剪刀剪刀。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen, which contains bullet points and a block of text. The slide has a green and white color scheme.\n   - The blackboard displays handwritten notes in Chinese, including a diagram or flowchart with arrows and text.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**:\n     - Title: \"小结\" (Summary)\n     - Bullet points:\n       - \"生物与环境的关系\"\n       - \"生态因素\"\n       - \"非生物因素：光、温度、水\"\n       - \"生物因素：同种生物和不同种生物的关系\"\n     - Block of text explaining the relationships between organisms and their environment.\n   - **Blackboard Content**:\n     - Main heading: \"生物与环境的关系\" (Relationship between organisms and the environment)\n     - Subheadings: \"生态因素\" (Ecological factors), \"非生物因素\" (Abiotic factors), \"生物因素\" (Biotic factors)\n     - Diagram with arrows indicating relationships between factors.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing at the diagram and headings, likely summarizing the relationships between ecological factors.\n   - The teacher uses hand movements to emphasize key points on the slide, such as the bullet points and the explanatory text.\n   - The teacher writes additional notes on the blackboard, reinforcing the concepts discussed.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition slides or board sections indicating next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a summary titled \"小结\" (Summary), featuring bullet points and a block of explanatory text. The teacher visually reviews the key points by pointing to each bullet in sequence, emphasizing the relationships between organisms and their environment. The blackboard complements this with handwritten notes and a diagram illustrating ecological factors, including arrows indicating interactions between biotic and abiotic elements. The teacher gestures towards the diagram, reinforcing the connections depicted. To highlight the core takeaway, the teacher writes additional notes on the blackboard, underlining key concepts. No visual indication of homework or next steps is present, focusing solely on consolidating the lesson's main ideas.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Abiotic Factors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[691.86 -> 725.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Biotic Factors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[691.86 -> 725.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Altitude Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[691.86 -> 725.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Wheat Distribution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[691.86 -> 725.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Temperature Decrease",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.62 -> 746.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Sunlight Influence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[691.86 -> 725.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Water Influence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[691.86 -> 725.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Impact on Organisms",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[691.86 -> 746.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Bullet points on abiotic and biotic factors affecting organisms",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating ecological factors",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Describes how sunlight is an abiotic factor affecting organisms."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Describes how water is an abiotic factor affecting organisms."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Specifies how altitude affects temperature."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Links wheat distribution changes to altitude changes."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Describes how biological relationships impact organisms."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Relates the impact of various factors on wheat distribution."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "Summarizes the relationship between organisms and environmental factors."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Summarizes the role of abiotic factors with a diagram."
+      },
+      {
+        "source": "ss1",
+        "target": "c8",
+        "relation": "guides_discussion",
+        "intent": "Teacher engages students to discuss environmental impacts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

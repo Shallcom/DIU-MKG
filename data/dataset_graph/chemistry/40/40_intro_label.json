@@ -1,0 +1,166 @@
+{
+  "video_name": "40_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the application and advantages of digital experiments in chemistry teaching; evaluate the differences in teaching effectiveness between traditional experiments and digital experiments.",
+  "transcript": "[0.0 -> 145.42] 是否要把所有的化学都改成数字化的实验呢那对此我将以怀多为新意展师者风范为主题展开我的演讲怀创造之匠心展师者创新风范习近平总书记在二零一四年提出四有好教师当中提出扎实学识那么数字化教学对于创新来讲比如高中化学的原电池部分对于水果电池我们可以多次去调节它的深度宽度等等通过数字化的演示得出更多的数据帮助我们绘制图像让学生更好地理解水果电池的电流受到哪些因素的影响此外在乡村教学当中很多这个实验室并不存在着一些化学用品所以应用数字化的教学可以让学生更好地理解和应用我们的实验怀育人之赤心展使者劳动风范对于初中高锰酸钾制氧器等实验需要学生们观察实验现象或者高中钠溶于水这些实验需要学生们观察实验现象对此我们需要更多地去亲自去做实验那么无论是初中还是高中的学生对于化学实验都有着浓厚的学习兴趣那么在课堂当中让学生们想一想做一做试一试可以更好地让学生融入到化学课堂当中走进化学才能更好地融入化学路子上得来钟觉浅觉知此时要弓行我们要大力引入数字化教学实验在化学的课堂当中但是也要切身地结合教学环境来判断是否可以把所有的化学实验都改变改成数字化教学我的研究结束谢谢。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is a slide displayed on the screen. It features a background of hexagonal patterns, possibly representing a molecular structure. The text on the slide is in Chinese, with the prominent phrase \"谁动了我的‘苯甲酸’\" (Who moved my \"benzoic acid\") and \"第一课第二讲\" (First Lesson, Second Part).\n\n#### 2. **The Title Event**\n- **Title on Screen**: The title on the screen is \"谁动了我的‘苯甲酸’\" (Who moved my \"benzoic acid\"). \n- **Teacher's Action**: The teacher does not physically write this title; it is part of the slide presentation. The teacher stands beside the screen, occasionally looking at it while speaking.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or blackboard during this segment.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: \n  - The teacher holds papers and occasionally gestures with them.\n  - The teacher points towards the screen, likely emphasizing the content displayed.\n  - The teacher occasionally looks at the screen and then back at the students, indicating engagement with the material.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays the slide with the hook object, featuring hexagonal patterns and the text \"谁动了我的‘苯甲酸’\" (Who moved my \"benzoic acid\").\n- **Teacher Action**: The teacher stands at the podium, holding papers, and begins speaking. The teacher gestures with the papers and occasionally looks at the screen.\n\n#### Middle\n- **Visual Content**: The slide remains the same, with no changes in the visual elements.\n- **Teacher Action**: The teacher continues to speak, occasionally pointing towards the screen to emphasize the content. The teacher's gestures include pointing and looking at the screen to reference the slide.\n\n#### End\n- **Visual Content**: The slide remains unchanged, maintaining the hook object and title.\n- **Teacher Action**: The teacher continues to engage with the students, using hand gestures to emphasize points and occasionally referencing the screen.\n\n### Summary\nThe introduction phase of the lesson is initiated by a slide featuring hexagonal patterns and the title \"谁动了我的‘苯甲酸’\" (Who moved my \"benzoic acid\"). The teacher uses gestures to engage with the content on the screen, pointing and referencing the slide while speaking. No specific learning objectives are visible, and the teacher's actions are focused on emphasizing the slide content.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing at the podium, holding papers, and facing a classroom. The opening visual stimulus is a slide on the screen featuring hexagonal patterns and the prominent text \"谁动了我的‘苯甲酸’\" (Who moved my \"benzoic acid\"). This hook immediately captures attention with its intriguing question and molecular imagery. The teacher gestures with the papers, occasionally pointing towards the screen to emphasize the content. Throughout the introduction, the teacher maintains engagement by referencing the slide, using hand movements to highlight key elements. The visual aid remains consistent, focusing on the hook without transitioning to a new topic. The teacher's actions, such as pointing and referencing the screen, create a bridge between the hook and the main topic, setting the stage for a discussion likely related to benzoic acid. This approach connects the students' curiosity to the upcoming lesson content, preparing them for a deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Digital Experiments",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Traditional Experiments",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Innovative Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Hexagonal Patterns Slide",
+        "type": "Visual",
+        "original_text": "Slide featuring hexagonal patterns representing molecular structure.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c5",
+        "label": "Benzoic Acid Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Electrochemical Cell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Fruit Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Data Visualization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Chemical Reagents Shortage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c11",
+        "label": "MnO2 Oxygen Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c12",
+        "label": "Reacting Sodium in Water",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 145.42]"
+      },
+      {
+        "id": "c13",
+        "label": "Chemical Experiment Curiosity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 145.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Digital experiments originate from innovative teaching principles."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Traditional experiments originate from established teaching methods."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Hexagonal patterns on the slide emphasize the molecular basis of digital experiments."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Benzoic acid experiment builds upon electrochemical cell principles."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Fruit battery experiment builds upon data visualization techniques to understand current flow."
+      },
+      {
+        "source": "c9",
+        "target": "c12",
+        "relation": "prompts_thinking",
+        "intent": "Engaged cognitive state prompts students to think about reacting sodium in water."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Chemical reagents shortage includes the oxygen production experiment with MnO2."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Digital experiments help address chemical reagent shortages."
+      },
+      {
+        "source": "c13",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Curiosity in chemical experiments encourages students to engage in hands-on activities like reacting sodium in water."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Study of electrochemical cell includes examination of fruit battery experiments."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

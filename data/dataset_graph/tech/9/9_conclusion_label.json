@@ -1,0 +1,164 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic principles of the metal activity series.",
+  "transcript": "[706.66 -> 734.28] 同学们基本上都已经完成了很好来同学们这一次你们有观察到什么现象吗没有是的无明显现象那也就说明了铜它能不能把硫酸铝当中的铝给置换出来呀对不能所以这其实有再一次证明了铝的活动性是大于铜的。\n[736.66 -> 787.22] 好同学们现在我们一起来总结一下刚刚的对决赛通过刚刚的比赛我们发现了铝它的活动性是大于铜大于银的那同学们现在你们再来思考一下这个问题既然波尔多也不能够用铁桶装那它还能够用铝桶来装吗也是不能的因为铝它的活动性是要大于铜的。\n[788.94 -> 796.9] 好那同学们今天这期课好的今天这期课我们就上到这里谢谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a comparison table displayed on the interactive whiteboard.\n   - The table is structured with two columns: \"金属活动性\" (Metal Activity) and \"能否置换\" (Can Displace).\n   - The table lists metals: $\\text{Cu}$, $\\text{Mg}$, $\\text{Ag}$, $\\text{Zn}$, with corresponding activity indicators and displacement results.\n\n2. **Key Knowledge Items (Content View)**:\n   - Metals listed: $\\text{Cu}$, $\\text{Mg}$, $\\text{Ag}$, $\\text{Zn}$.\n   - Metal activity indicators: \"否\" (No) for $\\text{Cu}$ and $\\text{Ag}$, \"是\" (Yes) for $\\text{Mg}$ and $\\text{Zn}$.\n   - Displacement results: \"否\" (No) for $\\text{Cu}$ and $\\text{Ag}$, \"是\" (Yes) for $\\text{Mg}$ and $\\text{Zn}$.\n   - Conclusion statement: \"金属活动性: $\\text{Mg} > \\text{Zn} > \\text{Cu} > \\text{Ag}$\" (Metal Activity: $\\text{Mg} > \\text{Zn} > \\text{Cu} > \\text{Ag}$).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each metal in the table, highlighting their activity and displacement results.\n   - The teacher gestures towards the conclusion statement, emphasizing the order of metal activity.\n   - The teacher uses hand movements to underline the key takeaway: the activity sequence of metals.\n\n4. **Transition to Next Step**:\n   - A slide appears with the heading \"【作业布置】\" (Homework Assignment).\n   - The content includes: \"完成课本P30的拓展活动\" (Complete the extension activity on page 30 of the textbook).\n   - The teacher gestures towards this slide, indicating the homework task for the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a comparison table summarizing metal activity and displacement results. The table lists $\\text{Cu}$, $\\text{Mg}$, $\\text{Ag}$, and $\\text{Zn}$, with corresponding activity indicators and displacement outcomes. The teacher points to each metal in the table, moving systematically through the rows to review the data. She emphasizes the conclusion statement at the bottom, which outlines the activity sequence: $\\text{Mg} > \\text{Zn} > \\text{Cu} > \\text{Ag}$. To highlight this key takeaway, she gestures towards the statement, reinforcing its importance. The lesson transitions to a homework slide, which instructs students to complete an extension activity on page 30 of the textbook. This final instruction is clearly visible, marking the next step for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Metal Activity Series",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Copper (Cu)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Magnesium (Mg)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Silver (Ag)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Zinc (Zn)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Can Displace",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Displacement Results",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[706.66 -> 787.22]"
+      },
+      {
+        "id": "c8",
+        "label": "Metal Comparison Table",
+        "type": "Visual",
+        "original_text": "A table comparing the activity and displacement of metals Cu, Mg, Ag, Zn.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Conclusion Statement",
+        "type": "Visual",
+        "original_text": "Metal Activity: Mg > Zn > Cu > Ag.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Homework Slide",
+        "type": "Visual",
+        "original_text": "Complete the extension activity on page 30 of the textbook.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Metal activity series includes Copper."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Metal activity series includes Magnesium."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Metal activity series includes Silver."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Metal activity series includes Zinc."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Metal displacement results build upon the ability to displace."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "The table visually summarizes the conclusion statement."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Copper is part of the displacement results."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Magnesium is part of the displacement results."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Silver is part of the displacement results."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Zinc is part of the displacement results."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "emphasizes",
+        "intent": "Conclusion statement emphasized by the teacher to engage students."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Homework slide prompts students to continue thinking about the lesson topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

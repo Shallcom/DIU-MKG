@@ -1,0 +1,150 @@
+{
+  "video_name": "5_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the phenomena and underlying nature of the reaction between chlorine gas and colored substances; master the basic concept of bleaching agents and the methods for verifying them.",
+  "transcript": "[711.0703 -> 753.54] 那根据我们刚才的实验就知道了确实存在青栗子那现在再请大家观察一下紫花的颜色又发生了怎样的变化非常好观察得非常仔细它褪色了那为什么紫花会褪色呢接下来在化学上我们将有色物质褪色或者变为白色的这一过程称为漂白那这就说明在这个过程当中有漂白性物质的存在那漂白性物质究竟是什么呢大家想一干燥的氯气具有漂白性呢还是说湿润的氯气才具有漂白性呢而对于这个问题啊我相信大家可以设计实验方案来进行验证那就请那我们刚才就通过了宏观的实验现象知道了溶液当中确实存在氯化氢这是我们从宏观上得到的实验现象。\n[754.74 -> 766.98] 那至于刚才所提出的这个问题大家课后来设计相关的实验进行验证我们今天的课就上了一节课了讲到这里了同学们下课以上就是我的全部内容谢谢各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a diagram of a flower with accompanying text boxes.\n   - The slide is titled in Chinese, with a flower image and three bullet points below it.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard contains a chemical equation: $\\text{Cl}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{HCl} + \\text{HClO}$.\n   - The slide includes three bullet points in Chinese, likely summarizing key concepts related to the flower diagram.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the flower diagram on the slide, likely explaining its relevance to the lesson.\n   - She gestures towards the chemical equation on the blackboard, emphasizing the reaction components.\n   - The teacher moves between the slide and the blackboard, linking the visual elements to reinforce the lesson's key points.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing a flower diagram accompanied by three bullet points, serving as the main summary artifact. The teacher points to the flower diagram, linking it to the lesson's content, and gestures towards the chemical equation on the blackboard, $\\text{Cl}_2 + \\text{H}_2\\text{O} \\rightarrow \\text{HCl} + \\text{HClO}$, to reinforce key concepts. She moves between the slide and the blackboard, ensuring students connect the visual elements. No explicit homework or next-step instructions are visible, focusing solely on consolidating the lesson's core ideas through these visual aids.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chlorine Gas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[711.07 -> 753.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Colored Substances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[711.07 -> 753.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Bleaching Agents",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[711.07 -> 753.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Bleaching Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[711.07 -> 753.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Hydrochloric Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[754.74 -> 766.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Hypochlorous Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[754.74 -> 766.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Chemical Equation",
+        "type": "Visual",
+        "original_text": "Chemical equation of chlorine with water: Cl2 + H2O -> HCl + HClO",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Flower Diagram Slide",
+        "type": "Visual",
+        "original_text": "Slide with flower diagram illustrating bleaching concepts",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Design Experiment",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students observe chlorine gas effects in experiments."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students observe color changes in substances."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students connect observations with the bleaching process."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Hydrochloric acid is a product of chlorine reactions."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Hypochlorous acid is formed in the chlorine reaction."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Bleaching agents are used in the bleaching process."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Students brainstorm experiments to verify bleaching processes."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide illustrates key bleaching concepts."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "The chemical equation summarizes the formation of HCl."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The chemical equation illustrates production of HClO."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the importance of understanding visual concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,152 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the methods for judging the positional relationship between a line and a plane; master the application scenarios of Fact One and Fact Two; cultivate the ability to reason using mathematical thinking.",
+  "transcript": "[715.107667 -> 738.88] 那么直线L是否在平面阿尔法内呢他说不一定不一定想一想一定吗不在那如果直线L与平面二发有两个公共点呢我们来看是不是有两个公共点如果我想它贴合在平面上我们发现怎么样此时能否确定这个直线L在平面二发内呢可以现在我们可以得出我们的基本事实二我们通过现实时得出了事实一。\n[740.16 -> 772.5] 和事实二那有了事实一我们是通有了事实一和事实二我们可以用数学的思维去思考我们可以得出什么样的推论再想有了推论之后我们可以用推论去解决什么样的问题我希望在今后在下节课中和同学们继续来探讨这个问题本节课我们就上到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a diagram with arrows and text. The layout includes:\n     - A central heading: \"8章.4.1平面\"\n     - A diagram with two main elements: \"実例2\" and \"推定\"\n     - An arrow connecting \"実例2\" to \"推定\"\n     - A downward arrow from \"推定\" to \"問題\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and headings visible:\n     - \"8章.4.1平面\"\n     - \"実例2\"\n     - \"推定\"\n     - \"問題\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to \"実例2\" and traces the arrow leading to \"推定,\" emphasizing the connection between the example and estimation.\n   - The teacher then points to the downward arrow and the word \"問題,\" highlighting the transition to the problem section.\n   - The teacher gestures broadly over the entire diagram, summarizing the flow from example to estimation to problem.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in this segment. The focus remains on the summary diagram on the blackboard.",
+  "visual_narrative": "The lesson concludes with a diagram on the blackboard centered on \"8章.4.1平面.\" The teacher visually reviews the content by pointing to \"実例2\" and tracing the arrow leading to \"推定,\" emphasizing the connection between the example and estimation. He then highlights the downward arrow and the word \"問題,\" reinforcing the transition to the problem section. The visual focus remains on the summary diagram, with no explicit homework or next-step instructions visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Line-Plane Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.107667 -> 738.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Fact One",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[740.16 -> 772.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Fact Two",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[740.16 -> 772.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Mathematical Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[740.16 -> 772.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Estimation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[740.16 -> 772.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[740.16 -> 772.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Chapter Diagram",
+        "type": "Visual",
+        "original_text": "Diagram depicting flow from example to estimation to problem",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Example 2",
+        "type": "Visual",
+        "original_text": "実例2 connected to 推定 by arrow",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Estimation Section",
+        "type": "Visual",
+        "original_text": "推定 with downward arrow leading to 問題",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Problem Section",
+        "type": "Visual",
+        "original_text": "問題 depicted in diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Class Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Fact One is derived from understanding the line-plane relationship."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "covers",
+        "intent": "Fact Two extends understanding of the line-plane relationship."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Mathematical reasoning is developed from Fact One."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Mathematical reasoning is furthered by Fact Two."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Mathematical reasoning includes estimation techniques."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Estimation is a precursor to problem solving."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram on the board visualizes Example 2."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Example 2 is directly connected to the estimation section."
+      },
+      {
+        "source": "v3",
+        "target": "v4",
+        "relation": "summarizes",
+        "intent": "The estimation section leads to the problem section."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The teacher uses the diagram to engage the class."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

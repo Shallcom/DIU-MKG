@@ -1,0 +1,120 @@
+{
+  "video_name": "17_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Be able to accurately extract key information to write summaries; be able to apply text‑summarizing skills across different contexts.",
+  "transcript": "[377.4103665 -> 526.28] 好的谢谢你你同意吗是的好的接下来我们进行快速读书的部分你需要快速地读书并尝试分辨它是进去三块子的三篇文章在这堂课题上我们可以看到这篇文章里面有三个字把表格详细点详细点详细点详点详请问请问我听听的安威斯佛阿德康齐斯西亚奎吉尔瑞安哈巴塞肯帕尼斯威�今天要写一个总结。\n[533.92 -> 538.9] 所以什么是总结呢大家呢什么是总结呢。\n[541.0 -> 566.11554975] 你可以找到一篇五十五篇文章的短说明请你站起来读这些提示给我们吧一篇总结是一篇短说明的主题一篇总结描述主要的想法和最重要的信息的长远的途径你的语言很好谢谢所以总结是一个短短的定义主要的点子什么是主要的点子和最重要的信息这意味着我们应该拒绝不重要的东西对吗所以怎么写写总结怎么写是在五十五页底下的五十五页底下好吧第二个他支持细节所以请你拿点点子点子和第三个你不认识的细节对象对象对象不包括不重要的细节。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher makes a sweeping gesture towards the class, signaling the start of an interactive segment. She then points directly to the interactive whiteboard, drawing attention to the \"Match Game\" section.\n\n2. **The Visual Focus Point:**\n   - The focus is on the interactive whiteboard displaying the \"Match Game\" with categories: Energy, Weather, Author, and Date. The article headline \"Tsunami Hits Asia: Over 8,500 Dead\" is visible.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While speaking, the teacher occasionally glances at the whiteboard and gestures towards the categories, subtly guiding students to consider the connections between the article and the game elements.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher nods and smiles, providing non-verbal encouragement. She points to the \"Author\" category on the board, reinforcing the correct match as students respond.\n\n**Middle:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher turns to the chalkboard, tapping on the phrase \"Tsunami Hits Asia: Over 8,500 Dead\" written in chalk, inviting students to discuss the article's content.\n\n2. **The Visual Focus Point:**\n   - The chalkboard now serves as the focal point, with the article headline prominently displayed alongside the lesson's theme: \"Unit 9: Natural Disasters.\"\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - As a student responds, the teacher writes \"Summary\" on the board, creating a space for students to contribute key points from the article. She gestures towards this new section, encouraging participation.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher circles the \"Summary\" section on the board, visually confirming the importance of this task. She uses hand gestures to emphasize key points as students contribute.\n\n**End:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher makes an open-handed gesture towards the class, inviting final thoughts or questions about the lesson content.\n\n2. **The Visual Focus Point:**\n   - Both the interactive whiteboard and the chalkboard are in view, with the \"Match Game\" still displayed and the article headline on the chalkboard.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While students share their summaries, the teacher writes key phrases on the board, visually organizing the information as it is discussed.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher gives a thumbs-up and points to the completed summary on the board, validating the students' contributions. She underlines important points, ensuring clarity and retention of the lesson's objectives.\n\nThis structured visual interaction supports active engagement and reinforces the lesson's focus on natural disasters and reading comprehension strategies.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the \"Match Game\" with categories like Energy, Weather, Author, and Date, alongside the article headline \"Tsunami Hits Asia: Over 8,500 Dead.\" The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly to the interactive whiteboard to highlight the task at hand.\n\nAs students began to respond, the teacher actively facilitated the discussion by moving between the whiteboard and the chalkboard. While a student explained their reasoning for matching the article to the \"Author\" category, the teacher walked over to the board and jotted down key terms, creating a visual record of the discussion. She occasionally pointed to the article headline on the chalkboard, reinforcing the connection between the game and the lesson's theme.\n\nTo validate the students' contributions, the teacher gave a distinct nod and circled the correct matches on the whiteboard. She then drew arrows connecting the student's responses back to the main article, emphasizing the relevance of each category to the disaster narrative.\n\nFinally, the teacher went around the classroom, encouraging students to summarize their understanding on the chalkboard. She underlined important points and provided visual cues, such as thumbs-ups and check marks, to confirm correct insights. This dynamic interaction helped students move from passively receiving knowledge to actively constructing their own understanding by linking the game elements to the core lesson content on natural disasters.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Tsunami",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 40.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Natural Disasters",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[40.0 -> 80.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Summary Writing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[533.92 -> 566.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Main Ideas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[566.12 -> 600.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Key Details",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[566.12 -> 600.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Unimportant Details",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[566.12 -> 600.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Whiteboard showing 'Match Game' and categories: Energy, Weather, Author, Date.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Article Headline",
+        "type": "Visual",
+        "original_text": "'Tsunami Hits Asia: Over 8,500 Dead' on Chalkboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The general concept of natural disasters includes specific events like tsunamis."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Summary writing evolves from identifying main ideas."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Summary writing involves including key details."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "excludes",
+        "intent": "Summary writing excludes unimportant details."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "The interactive whiteboard aids the process of summary writing by organizing information."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The article headline on the chalkboard emphasizes the specific event of the tsunami."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement is necessary for successfully understanding and performing summary writing."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

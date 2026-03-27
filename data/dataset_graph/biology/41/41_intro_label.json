@@ -1,0 +1,146 @@
+{
+  "video_name": "41_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the basic concept and mechanisms of cell differentiation; master the biological significance of cell differentiation and its role in individual development.",
+  "transcript": "[0.0 -> 135.16] 做出假设再根据这个假设与方向标进行设置探究实践因为生物学的知识来基于真实的情境提出这样会和生物相联系第二来源于最新的研究我们要跟学生讲究生物学最新的前沿课程以及最新的研究让因为生物学科是一个不断发展不断进行的学校在这个过程中呢培养学生的创新能力和创造性思维第二第三点帮助学生来源于社会新闻让他们了解最新的动态使他们在这个过程中呢讲究第四点观摩优秀教室的课程在观摩优秀教室的课程当中呢我们会学习到其他老师的优点也能反思到自己的不足与问题而在这个过程中呢我们要创新教学方法教学有法教无定法贵在德法这三句话呢深刻解释了教学方法的本质与精髓在这个过程中呢他灵活地要感受教学方法最终的目的呢要体现本学科的育人价值和学科特点\n[136.52 -> 139.56] 我的讲演完毕谢谢各位评委老师\n[149.0 -> 160.72] 接下来开始我的模拟授课我授课的题目是细胞的分化\n[162.18 -> 170.16] 好请同学们思考一下我们人体的细组成我们人体的细胞有大概有多少种类呀组成我们人体的细胞大概有多少种类啊\n[172.14 -> 183.66] 其实呢有两百多种但是呢我们都是由一个受精卵发育而来的那么一个受精卵怎样地形成两百多种细胞呢",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual object is a slide displayed on the screen with the text \"课题：聚丙烯酰胺的分解\" (Topic: Decomposition of Polyacrylamide).\n\n#### 2. **The Title Event**\n- The title \"课题：聚丙烯酰胺的分解\" is displayed on the screen. The teacher gestures towards the screen, likely emphasizing the topic.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, likely related to the content on the screen.\n- The teacher points towards the screen, directing attention to the topic displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the screen displaying the topic \"课题：聚丙烯酰胺的分解.\"\n- The teacher gestures with hands, possibly explaining the significance of the topic.\n\n**Middle:**\n- The teacher continues to gesture, likely elaborating on the decomposition process of polyacrylamide.\n- The screen remains focused on the topic, with no additional slides or content changes visible.\n\n**End:**\n- The teacher points towards the screen, reinforcing the topic.\n- The screen transitions to a blank slide, indicating a shift or conclusion of the introduction phase.\n\n### Summary\nThe introduction phase centers on the topic of polyacrylamide decomposition. The teacher uses hand gestures to engage with the content displayed on the screen, emphasizing key points without additional visual aids or objectives listed. The transition to a blank slide suggests a natural conclusion to the introductory segment.",
+  "visual_narrative": "Initially, the screen presents the topic \"课题：聚丙烯酰胺的分解\" as the opening visual stimulus. To bridge to the main content, the teacher gestures towards the screen, emphasizing the significance of the topic. The teacher uses hand movements to engage with the content, likely elaborating on the decomposition process without additional slides. Finally, the visual focus shifts to a blank screen, indicating a transition from the introduction to the next phase of the lesson. This structured approach connects the new knowledge of polyacrylamide decomposition to the students' existing understanding of chemical processes, setting the stage for deeper exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cell Differentiation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Biological Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Individual Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 135.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Polyacrylamide Decomposition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 135.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Topic Slide",
+        "type": "Visual",
+        "original_text": "Decomposition of Polyacrylamide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c5",
+        "label": "Fertilized Egg",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[172.14 -> 183.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Cell Variety",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[172.14 -> 183.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Innovation in Biology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Research in Biology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 135.16]"
+      },
+      {
+        "id": "c9",
+        "label": "Creative Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.16]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Cell differentiation process emphasizes its role in biological significance."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Individual development relies on the cell differentiation principle."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the topic of Polyacrylamide decomposition."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Development in understanding Polyacrylamide decomposition is based on biological research."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to think about how a fertilized egg forms cell varieties."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding cell variety originates from the development of fertilized eggs."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Innovation in biology stimulates creative thinking."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Creative thinking is essential in advancing biological research."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Students are guided to discuss innovation within the biology field."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

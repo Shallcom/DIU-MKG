@@ -1,0 +1,160 @@
+{
+  "video_name": "11_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Analyze the reasons why students lack interest in writing; explore strategies and methods for improving students’ writing abilities; design concrete teaching practice plans to elevate students’ writing proficiency.",
+  "transcript": "[0.0 -> 175.86] 各位老师好各位同学们好我演讲的题目是在写作教学中针对学生对写作不感兴趣的这一问题老师能够运用怎样的方法来提高学生的写作水平呢针对这一问题我有以下的阐释首先写作一直是大部分学生老大难的头疼问题存在不想写不敢写不会写的现状那么针对这一问题呢我有以下的阐释有一些看法在教学中老师必须激发学生的兴趣因材施教比如在写作教学中课堂上多给一些写作方面有活路的同学一些机会加以鼓励给他们展现的机会在班级氛围的烘托和鼓励下打破不敢写不想写的怪圈迈出他们愿意写的第一步此外课堂之外设置班级展示角不仅要对写得好的同学进行展示也要对写得原来写得不好现在写得有进步的同学加以表彰和展示鼓励学生们敢于接受不仅要学会接受同学的鼓励还要敢于接受同学们的意见那么在这样一个过程中呢一步步提升学生们的写作能力同时进行家校合作利用家长的力量给家长推荐给家长和学生推荐一些有关写作的电视节目还有一些能够激发学生兴趣的写作书籍在家长的力量下也要多鼓励表扬孩子监督孩子一步步提升他的写作能力这样一个过程下来学生自然就会打破不敢写不想写不会写的写作外圈以上就是我针对这一问题的一些看法谢谢各位老师。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual object is a slide displayed on the screen with the text \"兰亭集序\" and \"王羲之\" beneath it. This sets the context for the lesson.\n\n#### 2. **The Title Event**\n- The title \"兰亭集序\" is prominently displayed on the screen. The teacher stands in front of the screen, holding papers, and appears to be presenting or reading from them. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with one hand, possibly emphasizing points while speaking. There is no direct pointing to the screen or board content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays \"兰亭集序\" and \"王羲之.\"\n- The teacher begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture with one hand while holding papers in the other.\n- The screen remains unchanged, maintaining focus on the title and author.\n\n**End:**\n- The teacher continues to engage with the class, possibly elaborating on the content related to \"兰亭集序.\"\n- No additional visual elements or changes occur on the screen or board.\n\n### Summary\nThe lesson introduction centers on the visual display of \"兰亭集序\" and \"王羲之\" on the screen. The teacher uses hand gestures to engage with the content, maintaining focus on the introduction of the topic without additional visual aids or objectives displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a screen displaying the title \"兰亭集序\" with \"王羲之\" beneath it. This visual hook immediately sets the context for the lesson. The teacher engages with the class, using hand gestures to emphasize points while speaking, though no direct interaction with the screen or board is observed. The static display of the title serves as the main visual focus, establishing the topic without transitioning to additional content. The teacher's presence and gestures create a bridge, connecting the students' attention to the historical and cultural significance of \"兰亭集序.\" This approach likely aims to introduce the literary work by grounding it in its author and historical context, preparing students for a deeper exploration of its content and significance. The introduction effectively links the new material to the students' existing knowledge of classical literature, setting the stage for further analysis and discussion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Lan Ting Xu - Wang Xi Zhi",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "The teacher gestures with hand to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Interest in Writing",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Improving Writing Ability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Teaching Practices",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Student Participation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Class Atmosphere",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Parental Involvement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Writing Exhibitions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Feedback and Encouragement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Writing Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 175.86]"
+      },
+      {
+        "id": "c10",
+        "label": "Media Suggestions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 175.86]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The displayed title serves to introduce the literary context."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Analyzing reasons for students' lack of interest in writing leads to strategies to improve writing abilities."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Improving writing ability evolves from effective teaching practice."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Teaching practices include encouraging more student participation."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Creating a supportive class atmosphere scaffolds student participation."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Student participation builds upon activities such as writing exhibitions."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Parental involvement in writing improvement includes media suggestions."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "guides_discussion",
+        "intent": "Writing exhibitions guide feedback and encouragement for students."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "addresses_misconception",
+        "intent": "Encouraging student participation addresses the misconception that writing is not engaging."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Writing challenges visualized through parental involvement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

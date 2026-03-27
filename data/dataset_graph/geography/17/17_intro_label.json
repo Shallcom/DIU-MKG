@@ -1,0 +1,166 @@
+{
+  "video_name": "17_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Stimulate students' interest in geography; increase students' enthusiasm for learning geography.",
+  "transcript": "[0.0 -> 117.6] 如何利用学习去改变命运的重要手段做学生的思想工作我们都知道学生的学习积极性一直以来对于学生的学习以及身心发展都具有较大的作用我们能够促使学生能够学到愿意学再到学得好是一个关键的任务那么我作为一名教师首先我会在平时的教学环境的环境当中利用直观性教学或者是组织一场研学旅行让学生能够体会到我们学科的魅力所在提高学生的学习积极性那么对于厌学比较严重的学生呢我一定会把他带下来我们单独谈划一下询问原因如果说我只是对这个老师不喜欢那么我可以跟作为中间人加强两边的联系多多去体会一下这位老师的人格魅力那么如果是对学科不喜欢那我就只能够对于这个学科采用一些手段向大家喜欢这门学科愿意学这门学科那么对于情节更严重的呢我一定会联系家长我们实现一个家校共育可以学生的发展其次最后我也会利用一个班会展示一些反应案例用学生意识的学习是改变命运的重要手段我们一定要好好学习好那么我的即兴演演到此结束接下来是我的模拟授课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is a map of the United States displayed on the screen. It is accompanied by a speech bubble containing Chinese text.\n\n#### 2. **The Title Event**\n- **Title**: The title on the screen is \"情境导入\" (Context Introduction).\n- **Teacher's Action**: The teacher stands beside the screen, gesturing towards the map and the speech bubble.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly listed as bullet points, but the speech bubble contains a question related to the map, likely serving as a guiding question for the lesson.\n\n#### 4. **Key Gestures**\n- **Gestures**: The teacher uses hand gestures to emphasize points, pointing towards the map and the speech bubble. She holds papers, possibly notes or a lesson plan, while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of the screen displaying a map of the United States.\n- The title \"情境导入\" is prominently shown.\n- The teacher gestures towards the map, likely introducing the geographical context.\n\n**Middle**\n- The teacher continues to gesture towards the speech bubble, which contains a question in Chinese.\n- She uses hand movements to emphasize the content, possibly explaining the significance of the map in relation to the question.\n\n**End**\n- The teacher maintains focus on the map and speech bubble, ensuring students understand the context being introduced.\n- She occasionally looks at her notes, possibly to reference additional information or guide the discussion.\n\nThis structured visual analysis links the teacher's actions directly to the content displayed, highlighting the map and speech bubble as central visual elements.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing beside a screen displaying a map of the United States, serving as the initial visual stimulus. The map is accompanied by a speech bubble containing a question in Chinese, setting the context for the lesson. The teacher gestures towards the map, using hand movements to highlight specific regions, likely to engage students with the geographical context. As the lesson progresses, the teacher continues to reference the speech bubble, pointing to the question to emphasize its relevance. The visual focus remains on the map and the speech bubble throughout, creating a bridge between the geographical context and the main topic. The teacher's gestures and references to the map help connect the new knowledge to students' existing understanding of geography, preparing them for further exploration of the topic. This structured approach ensures a smooth transition from the hook to the main content, grounding the introduction in a visual and contextual framework.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student Motivation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Changing Fate through Learning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Intuitive Teaching Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Research Study Trips",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Geographical Context Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Improving Learning Enthusiasm",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Teacher-Student Relationship",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Parent-Teacher Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "c9",
+        "label": "Class Meetings",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.6]"
+      },
+      {
+        "id": "v1",
+        "label": "Map of United States",
+        "type": "Visual",
+        "original_text": "The hook object is a map of the United States displayed on the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Speech Bubble with Question",
+        "type": "Visual",
+        "original_text": "Speech bubble contains a question in Chinese.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Context Introduction Title",
+        "type": "Visual",
+        "original_text": "Title on the screen is '情境导入' which means Context Introduction.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student motivation contributes to changing fate through learning."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Student motivation evolves from intuitive teaching methods."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Research study trips are a method to improve student motivation."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Intuitive teaching methods emphasize geographical context awareness."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Improving learning enthusiasm contributes to student motivation."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Effective teacher-student relationships evolve from strong motivation."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Parent-teacher cooperation includes class meetings."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The map of the United States serves to visualize geographical context."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "The question in the speech bubble emphasizes increasing learning enthusiasm."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The title 'Context Introduction' scaffolds the geographical context."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The map and the speech bubble together scaffold lesson objectives."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

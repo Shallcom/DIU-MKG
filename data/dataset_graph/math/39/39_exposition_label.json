@@ -1,0 +1,164 @@
+{
+  "video_name": "39_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the application of trigonometric function models in describing periodic phenomena.",
+  "transcript": "[86.5 -> 119.1] 在课后我也会调整自己的教学状态并努力地向优秀教师去请教他们的教学经验同时不断地去提升自己去锤炼自己的示范技能通过自己能力的培养提升自己在上课在数学等各方面的能力加强个人数学本质的认识加强在上课的过程中能够灵活地去调动好学生的情绪从而更灵活地处理每一堂课的教学以上就是我即兴演讲的全部内容。\n[128.0 -> 149.34] 好上课同学们在现实生活中存在着大量周而复始循环往复的变化现象如果说某些现象的变化存在着周期性那么我们就可以借助我们之前所学的三角函数的内容来进行描述那本节课呢我们将借助两个具体的例子来说明三角函数模型在我们现实生活当中的应用。\n[173.5 -> 208.62] 那请各位用下来看这样的一个问题说某个弹簧正子在完成一次全振动的过程中时间梯与位移之间的对应数据如下表所示让我们通过这些数据确定这个正子的位移关于时间的函数解析式那么光彩这个数据你能够提炼出它对应的是我们学过的哪一个函数吗好像不太可以对吧那我们数学学中讲究竖形结合不妨从图像的角度来研究我们所需要研究的函数。\n[210.8 -> 270.04] 我们可以对上面的这些数据进行标点做出相应的闪点图那么观察这个闪点图你能发现它与我们学过的哪种函数有关联吗请问这位同学他和三角函数有关系是的他与三角函数有关系好的请说那么这个闪点图它与我们三角函数的那三角函数的走势是差不多的那其实也正如这位同学所说的那样正子的振动具有循环往复的特点那么由正子振动的物理知识我们可以知道其位移随时间的变化规律确实可以用三角函数模型来表示那三角函数模型就是Y等于赛尼A倍的赛尼奥米伽X加五就是三角函数的一般形式那我们通过这样一个闪点图。\n[274.3 -> 282.66] 通过这样的闪点图你能求出这样一个三角函数模型中的参数A奥米伽五吗请从这个洞底试一下。\n[290.26 -> 307.46] 首先我们来看A在这个图像中我们发现三角函数模型它的最大的位移是在二十的这个位置所以根据我们三角函数的知识就可以知道A等于二十。\n[308.92 -> 350.9] 那下一步我们要求解Omega如何求解Omega呢我们知道Omega有一个要想求解Omega我们需要知道这个函数的周期因为周期与三角函数的角速度Omega有着这样一个关系七等于二Pi除以Omega那我们来研究一下这个三角函数的周期从三点图我们会发现这个三角函数的周期是在零点六秒。\n[354.26 -> 367.02] 因此我们可以借助这样的公式把这个欧米伽给求出来欧米伽就等于二帕除以T等于三分之十帕。\n[370.26 -> 375.76] 那下一步我们要求解范儿同学们你知道如何求解范儿吗。\n[377.26 -> 399.62] 在这个函数中我们已经把这个函数模型的其中两个参数A以及Omega给求出来了想要求解Five的话我们可以把其中一个点往里带就可以了比如说找一个更特殊的点当X等于零的时候这个函数值等于负二十那我们就可以把Five打X等于零往里带。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The chalkboard has the text \"数学模擬授業選手\" written on it.\n- The digital screen displays a slide titled \"5.7 三角函数的应用\" (Applications of Trigonometric Functions).\n- The teacher holds papers and begins explaining, gesturing towards the screen.\n\n**Middle:**\n- The teacher writes \"5.7 三角函数的应用\" on the chalkboard, mirroring the slide title.\n- The screen shows a problem involving a sine function, with a table of values and a graph.\n- The teacher points to the graph on the screen, highlighting data points and explaining their significance.\n- The teacher writes the general form of the sine function on the chalkboard: $y = A \\sin(wx + \\varphi)$.\n\n**End:**\n- The teacher fills in the values for $A$, $T$, $w$, and $\\varphi$ on the chalkboard:\n  - $A = 20$\n  - $T = 0.6$\n  - $w = \\frac{\\pi}{3}$\n  - $\\varphi = -\\frac{\\pi}{3}$\n- The teacher uses hand gestures to emphasize the relationships between these variables and the graph on the screen.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the sine function graph displayed on the digital screen. It shows plotted data points and a coordinate system with labeled axes.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:**\n     - The teacher writes the general sine function $y = A \\sin(wx + \\varphi)$ on the chalkboard.\n     - Sequentially adds values for $A$, $T$, $w$, and $\\varphi$ while explaining their roles.\n   - **Modifications:**\n     - No erasures are observed; the teacher builds upon the existing content.\n   - **Deictic Gestures:**\n     - Points to specific data points on the graph while discussing their implications.\n     - Indicates the axes and plotted points to explain the function's behavior.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses underlining and spacing on the chalkboard to separate different parts of the equation.\n   - Emphasizes key values by writing them larger or pausing while pointing to them.\n   - Uses the pointer to highlight specific areas on the digital graph during explanations.\n\nThis structured approach ensures a clear visual and cognitive link between the teacher's actions and the evolving content on both the chalkboard and digital screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a graph with plotted data points, serving as the primary visual anchor for the lesson on trigonometric functions. The teacher began by constructing the general form of the sine function, $y = A \\sin(wx + \\varphi)$, on the chalkboard. As the lecture progressed, the teacher derived each component of the equation, starting with $A = 20$, followed by $T = 0.6$, and calculating $w = \\frac{\\pi}{3}$ and $\\varphi = -\\frac{\\pi}{3}$. Throughout the explanation, the teacher annotated the chalkboard, filling in values while simultaneously tracing the rising slope of the curve on the digital graph to illustrate the function's periodic behavior. Deictic gestures were resolved by pointing to specific data points and axes, emphasizing their correlation with the equation's parameters. To highlight key concepts, the teacher used underlining and spacing on the board, aligning these visual cues with the final derived values. This structured approach reduced cognitive load by synchronizing verbal explanations with visual annotations, ensuring a coherent understanding of the trigonometric application. Finally, the teacher circled the completed equation on the board, reinforcing the lesson's conclusion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sine Function General Form",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[128.0 -> 149.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Periodic Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[128.0 -> 149.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Application of Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[128.0 -> 149.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Sine Function Parameters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[210.8 -> 270.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Amplitude A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.26 -> 307.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Period T",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[308.92 -> 350.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Angular Frequency ω",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[354.26 -> 367.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Phase Shift φ",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[370.26 -> 375.76]"
+      },
+      {
+        "id": "v1",
+        "label": "Sine Function Graph",
+        "type": "Visual",
+        "original_text": "Digital screen displays graph with plotted data points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Trigonometric Function Applications",
+        "type": "Visual",
+        "original_text": "Digital screen shows slide titled 'Applications of Trigonometric Functions'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide displays the title relevant to the general form."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Application includes understanding the periodic phenomena."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Building on the general form of the sine function."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Amplitude is a key parameter in sine function."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Period is a key parameter in sine function."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Angular frequency is a key parameter in sine function."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Phase shift is a key parameter in sine function."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Graph represents the sine function with specific parameters."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Graph aids in understanding sine function period."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Graph aids in understanding sine function angular frequency."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Graph aids in understanding sine function phase shift."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "engaged_in",
+        "intent": "Students are engaged in the discussion of trigonometric applications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

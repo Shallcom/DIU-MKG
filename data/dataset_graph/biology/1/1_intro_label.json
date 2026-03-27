@@ -1,0 +1,132 @@
+{
+  "video_name": "1_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the application of intuitive teaching in biology classrooms; master the methods for using model construction, simulated experiments, and multimedia materials; be able to select appropriate intuitive teaching strategies based on the instructional content.",
+  "transcript": "[0.0 -> 195.62] 直观教学是通过比如模型建构模拟实验以及动画演示还有视频图片等素材等方式将抽象的内容进行直观化具体化便于学生的理解这就是直观教学的一个具体概念那么为了达成直观教学那么可以采用这样一些方法比如第一个进行模型的建构模型建构我们可以举的例子就有电源分子模型的建构让学生自己去动手构建DNA双螺旋的分子模型那么可以锻炼学生的动手操作能力也可以将这个比较复杂比较微小的DNA的模型给它放大化便于学生的直观理解同时可以培养学生的科学思维和科学探究能力那么第二个就是可以通过模拟实验的方式将一些具体的复杂过程可以清晰化直观化比如在讲解标记重补法这个概念的时候在课本上是没有具体的过程以及原理可以参考的那么我们可以通过模拟实验的方式将其直观化具体化比如说利用纸雀方向模型用纸雀来代替被标记的个体那么用方向来代表被调查的范围从而使其进行具体化从而探究出标记重补法的具体原理大M比大安等于小安比较小安这个原理那么这样的话就可以让学生从这个探究过程当中得出这个原理的具体概念那么第三种方法就是通过图片以及视频的素材将一些抽象的过程进行直观化和具体化比如说在讲解遗传信息的转录以及翻译的时候我们就可以利用一些比如说视频素材或者图片素材可以清晰地展现这个过程帮助学生去理解那么对于注意事项方面的话我有这样两点的理解第一是不能为了直观而直观怎么讲呢有些可以具有探究性的素材的话我们不能太直观地教给学生我们应当留给学生一定的探究空间一定的动手的空间培养学生动脑思考的一个方式那么第二是直观的内容应当要恰到好处要与教学内容相符合要与具体的场景相符合那么比如说我们在选用一些素材的时候不应该选用一些比如太过模糊啊或者说是好那么以上是我极其讲理的全部内容谢谢大家接下来是我的模拟授课环节",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The hook object is the title of the slide, which reads: \"3.1 重要DNA技術和基因工具\" (Important DNA Techniques and Genetic Tools).\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"3.1 重要DNA技術和基因工具\". The teacher does not physically write this title but points to it on the screen, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The slide includes bullet points below the title, though they are not fully legible. The visible text includes:\n  - \"1. 了解基因剪輯技術的原理和應用\" (Understand the principles and applications of gene editing techniques).\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their free hand, occasionally pointing towards the screen to emphasize the content.\n- The teacher uses hand movements to highlight key points on the slide, such as the title and bullet points.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"3.1 重要DNA技術和基因工具\".\n- The teacher points to the title on the screen, drawing attention to the lesson's focus.\n\n**Middle:**\n- The teacher gestures with their hand, emphasizing the importance of the topic.\n- The teacher occasionally looks at the students, engaging with them while referring to the slide.\n- The teacher points to the bullet points below the title, indicating the learning objectives.\n\n**End:**\n- The teacher continues to gesture towards the screen, reinforcing key concepts.\n- The teacher maintains eye contact with the students, ensuring they are following along.\n\nThis structured approach ensures that the teacher's actions are directly linked to the visual content, providing a clear and coherent narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"3.1 重要DNA技術和基因工具\" as the hook, immediately drawing attention to the lesson's focus on DNA techniques and genetic tools. To bridge to the topic, the teacher points directly at the title on the screen, emphasizing its significance. The teacher then gestures towards the bullet points below, highlighting the learning objectives related to gene editing techniques. Finally, the visual focus remains on the title and objectives, establishing the lesson goal and connecting the new knowledge to the students' existing understanding of genetics, setting the stage for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Intuitive Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Simulated Experiments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Multimedia Materials",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Gene Editing Techniques",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c6",
+        "label": "DNA Techniques",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Genetic Tools",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 195.62]"
+      },
+      {
+        "id": "c8",
+        "label": "3.1 Important DNA Tech",
+        "type": "Visual",
+        "original_text": "Important DNA Techniques and Genetic Tools",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Active Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Intuitive teaching involves using model construction as a method."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Intuitive teaching utilizes simulated experiments for abstraction."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Multimedia materials are part of intuitive teaching strategies."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Gene editing examples can be constructed using models."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Gene editing principles are demonstrated via simulated experiments."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Slide displays important DNA techniques."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The title highlights genetic tools."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "DNA techniques encompass various genetic tools."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged through interactive teaching methods."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,143 @@
+{
+  "video_name": "5_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the morphological characteristics and structural features of water sponge; comprehend the functions of chloroplasts and their role in photosynthesis; compare the pros and cons of traditional vegetable production and plant‑factory production.",
+  "transcript": "[663.589533 -> 687.42] 水棉它的形态是怎样的呀大家看看课本的第一百页螺旋带装的那就意味着什么呢它是螺旋还是沉带状的那我们它的叶片当中都是富含有叶绿体的那我们是不是就能很直观地看到光照对于叶绿体的作用效果呀非常好此外内廊体还是叶氯体机制含有多种进行混合作用的必需酶\n[688.62 -> 722.6] 那结合这两个资料我们知道叶氯体具有怎样的功能啊对吸收功能的作用非常好通过这节课的学习啊我们学习了叶氯体的结构知道了它的功能那同学们与传统的生产方式相比植物工厂生产蔬菜有怎样的优势有哪些困难请同学们课下阅读资料我们下节课再来一起分享我的模拟授课到此结束敬请各位评委老师批评指正",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen, displaying a list of key points.\n   - The screen layout includes a heading \"课堂小结\" (Class Summary) with three bullet points below it.\n   - The blackboard also contains handwritten text, including \"叶绿体的结构和功能\" (Structure and Function of Chloroplasts) and \"一、结构\" (1. Structure), \"二、功能\" (2. Function).\n\n2. **Key Knowledge Items (Content View)**:\n   - On the screen:\n     - \"叶绿体的结构和功能\" (Structure and Function of Chloroplasts)\n     - \"一、叶绿体的结构\" (1. Structure of Chloroplasts)\n     - \"二、叶绿体的功能\" (2. Function of Chloroplasts)\n     - \"三、叶绿体的起源\" (3. Origin of Chloroplasts)\n   - On the blackboard:\n     - \"叶绿体的结构和功能\" (Structure and Function of Chloroplasts)\n     - \"一、结构\" (1. Structure)\n     - \"二、功能\" (2. Function)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the screen in order, emphasizing the structure, function, and origin of chloroplasts.\n   - The teacher writes \"二、功能\" (2. Function) on the blackboard, aligning it with the screen content.\n   - The teacher gestures towards the blackboard, reinforcing the key points written there.\n\n4. **Transition to Next Step**:\n   - The screen displays a question: \"与植物共生的生物，如工厂，工厂里有哪些生物？它们如何与植物进行物质交换？\" (Symbiotic organisms with plants, such as factories, what organisms are in the factory? How do they exchange substances with plants?).\n   - This suggests a prompt for further discussion or homework, though specific assignments are not detailed on the screen or board.",
+  "visual_narrative": "The lesson concludes with a digital slide centered on the core topic of \"叶绿体的结构和功能\" (Structure and Function of Chloroplasts). The teacher visually reviews the content by pointing to each bullet point in sequence, highlighting the structure, function, and origin of chloroplasts. The blackboard complements this with handwritten headings, reinforcing the key sections. The teacher writes \"二、功能\" (2. Function) on the board, aligning it with the slide content. Finally, the visual focus shifts to a question on the screen, suggesting further exploration or homework, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Water Sponge Morphology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[663.589533 -> 687.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Structure of Chloroplasts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.62 -> 722.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Function of Chloroplasts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.62 -> 722.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Origin of Chloroplasts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.62 -> 722.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Photosynthesis Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.589533 -> 687.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Traditional Vegetable Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[688.62 -> 722.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Plant-Factory Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[688.62 -> 722.6]"
+      },
+      {
+        "id": "v1",
+        "label": "Class Summary Slide",
+        "type": "Visual",
+        "original_text": "The main visual carrier of the summary is the digital screen, displaying a list of key points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Chloroplast Structure Slide",
+        "type": "Visual",
+        "original_text": "Display showing structure of chloroplasts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Chloroplast Function Slide",
+        "type": "Visual",
+        "original_text": "Display showing function of chloroplasts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Chloroplast Origin Slide",
+        "type": "Visual",
+        "original_text": "Display showing origin of chloroplasts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v5",
+        "label": "Question Slide",
+        "type": "Visual",
+        "original_text": "The screen displays a question about symbiotic organisms and substance exchange with plants.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[663.589533 -> 722.6]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Connects the concept of the structure of chloroplasts to its visual presentation on screen."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Connects the concept of the function of chloroplasts to its visual presentation on screen."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Connects the concept of the origin of chloroplasts to its visual presentation on screen."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The function of chloroplasts includes their role in photosynthesis."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "compares",
+        "intent": "Compares traditional vegetable production with plant-factory production."
+      },
+      {
+        "source": "v5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students by prompting further exploration on symbiotic organisms and substance exchange with plants."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

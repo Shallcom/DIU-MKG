@@ -1,0 +1,137 @@
+{
+  "video_name": "27_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Master additional vocabulary and sentence structures for expressing opinions; understand the relationship between language and real‑life contexts in English learning.",
+  "transcript": "[0.0 -> 21.44] 并支持明镜与点点栏目。\n[30.0 -> 83.68] Ithinkweshouldfirstlyguidestudentstolearnaboutmoreexpressionsandvocabularysothattheycanbetterexpresstheirideasfreelyduringtheircommunicationsecondlyalsoduringtheprocessthetestbookteachingshouldberelatedtoreallifesituationweallknowthatexamplescomefromreallifesituation所以用这种情况作为例子可以引起学生的兴趣和兴趣所以他们可以在课上更加活跃地思考最后在教育过程中我们也认为我们可以使用干费丁的指示因为在教育过程中我们可以意识地发展学生的思考能力所以这就是我对这个问题的意见。\n[85.0 -> 88.92] 现在我要做我的教育过程了。\n[114.0 -> 119.14] 今天我们的课程开始之前我想给你们展示一个图片。\n[120.48 -> 128.04] 现在我们有二十秒钟可以看看图片和想想会发生什么事情好吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a slide titled \"Unit 3 THE MILLION POUND BANK NOTE Reading for writing.\" It is displayed on a large screen at the front of the classroom.\n\n#### 2. The Title Event\n- **Title**: \"Unit 3 THE MILLION POUND BANK NOTE Reading for writing\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher gestures towards the screen, likely emphasizing the title during the introduction.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly visible in the provided frames. The focus is on the title slide.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher uses hand gestures to engage with the audience, likely emphasizing points related to the title. She occasionally points towards the screen and uses open hand gestures to indicate explanation or discussion.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays the title \"Unit 3 THE MILLION POUND BANK NOTE Reading for writing.\"\n- **Teacher Actions**: The teacher stands in front of the screen, using hand gestures to engage the class. She points towards the screen, likely highlighting the title and setting the context for the lesson.\n\n#### Middle\n- **Visual Content**: The screen transitions to a \"Pre-writing\" slide with an image of several people interacting.\n- **Teacher Actions**: The teacher points at the image on the screen, likely guiding the students to observe and discuss the visual content. She uses hand gestures to direct attention and facilitate discussion.\n\n#### End\n- **Visual Content**: The teacher continues to reference the \"Pre-writing\" slide, maintaining focus on the image and its relevance to the lesson.\n- **Teacher Actions**: She continues to gesture towards the screen, possibly asking questions or prompting further analysis of the image.\n\n### Summary\nThe lesson introduction begins with the title slide, setting the context for \"Unit 3 THE MILLION POUND BANK NOTE.\" The teacher uses hand gestures to engage the class, pointing towards the screen to emphasize the title. The transition to the \"Pre-writing\" slide with an image of people interacting marks the middle of the introduction. The teacher actively guides the students to observe and discuss the image, using gestures to direct attention and facilitate interaction. The visual elements and teacher actions are closely linked, creating a structured and engaging introduction to the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"Unit 3 THE MILLION POUND BANK NOTE Reading for writing.\" The teacher uses hand gestures to engage the class, pointing towards the screen to emphasize the title and set the lesson's context. The scene transitions smoothly as the slide switches to a \"Pre-writing\" section featuring an image of several people interacting. The teacher actively guides the students by pointing at the image, prompting them to observe and discuss its content. Throughout this transition, the teacher's gestures remain focused on the screen, directing attention and facilitating interaction. This visual narrative effectively bridges the hook of the title to the main topic, using the image to connect the students' existing observational skills to the upcoming reading and writing activities. The introduction is structured to build anticipation and provide a visual anchor, linking the new knowledge to familiar social interactions depicted in the image, thereby preparing students for deeper analysis and discussion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Vocabulary Expansion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 83.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Expressing Opinions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 83.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Real-life Language Context",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 83.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Images of Interaction",
+        "type": "Visual",
+        "original_text": "Image of people interacting on pre-writing slide",
+        "ocr_corrected": false,
+        "timestamp": "[120.48 -> 128.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Unit 3 THE MILLION POUND BANK NOTE Reading for writing",
+        "ocr_corrected": false,
+        "timestamp": "[0.0 -> 21.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Pre-writing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[114.0 -> 119.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Mind Activation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[120.48 -> 128.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Observational Skills",
+        "type": "Concept",
+        "knowledge_type": "Skill",
+        "timestamp": "[120.48 -> 128.04]"
+      },
+      {
+        "id": "c9",
+        "label": "Discussion Facilitation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[85.0 -> 88.92]"
+      },
+      {
+        "id": "c10",
+        "label": "Open Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses open hand gestures",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 21.44]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The expansion of vocabulary supports expressing opinions more freely."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Vocabulary expansion contributes to understanding language in real-life contexts."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The title slide sets the premise for vocabulary expansion."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The title slide highlights the importance of expressing opinions in writing."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The image aids in developing observational skills."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Pre-writing steps facilitate discussion."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement activates observational skills."
+      },
+      {
+        "source": "c10",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Hand gestures guide the pre-writing discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

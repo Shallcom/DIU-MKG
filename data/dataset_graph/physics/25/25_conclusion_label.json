@@ -1,0 +1,134 @@
+{
+  "video_name": "25_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Be able to correctly apply the left‑hand rule to determine the force direction on a current‑carrying conductor in a magnetic field; be able to analyze the application of the Ampère force under various magnetic field and current orientations.",
+  "transcript": "[425.08 -> 485.9] 那接下来我们思考一下我们知道通电导线在磁场中所受力的方向与它电流的方向以及磁感应强度的方向是不是都垂直呀所以我们就用这样的一种方法来判断它所受安培力的方向伸开我们的左手好让拇指与四个手指垂直接着让它们在同一个平面上让磁感线哎从掌心垂直进入那让我们的四指指向它的电流方向大拇指方向就是我们所说的安培力方向我们把它称为左手定则来看图示来自己尝试一下哎是不是非常好用那接着我们来自己再试用一下老师举出来另外两种情况我们自己判断一下安培力方向。\n[487.48 -> 515.78] 首先左手好是不是让这个紫杆线穿过自己的掌心然后四指指向电流的方向那大拇指方向就是什么方向啊安培力的方向那接着来第二种情况自己试一试紫杆线穿过手心然后四指指向哪电流的方向是不是大拇指指的就是安培力的方向那好安培力的大小怎么计算呢。\n[517.48 -> 534.72] 在我们之前所学习过安培力等于自然性强度乘上它的电流以及它的长度。\n[536.34 -> 575.36] 同时当磁感线与通电导线平行的时候这时候安培力是爱对为凌那好我就要抛出问题了也是爱对为凭那好我就要抛出问题了当空间导线的电流方向与磁场方向既不垂直也不平行的时候我们怎么计算呢好我们结合图示这里我们应该怎么计算好你来说你有点犹豫分解谁爱对感谢强度嘴和物理学习就是大胆也是我们进步的过程那我们一起看怎么操作的。\n[578.96 -> 594.32] 当磁盖因强度方向朝上的时候有一个通电导线我让它电流朝这个方向好刚刚同学提到了是不是分解壁呀好我们把壁分解为水平和竖直。\n[601.48 -> 609.0] 那在这个过程中B垂直等于什么。\n[611.02 -> 621.18] 对B三随它那B平行呢B乘高三随它。\n[622.38 -> 660.48] 好在我们结合安培利的公式B等于F等于B乘I乘L那此时这个B应该对应是哪个对应是垂直的这个条件下所以F等于B乘I乘L后面再加一个对三NC的所以就是那我们既然学了这个公式那F等于BL这个公式难道这不是错误的吗我们思考一下。\n[662.6 -> 664.86] 不是比如说我们平行的时候。\n[666.38 -> 668.04] 此时的赛达角是多少度啊。\n[669.78 -> 675.42] 对是零度所以F就会一样它是它的眼深。\n[676.42 -> 682.16] 好通过这节课的学习我们掌握了什么呢接下来分小组一起来梳理一下。\n[684.14 -> 716.38] 好你来说我们这节课有方法的学习还有知识的学习那我们的学习要从课内走向课外课下呢同学们完成必做习题选选座习题第四题那同时呢结合我们课后的科学漫步内容还有我们所查阅的资料来了解一下安培在电学中他还有哪些贡献我的试讲到此结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a structured list of key points and diagrams.\n   - The layout includes:\n     - A heading in Chinese characters at the top.\n     - Two main sections labeled \"一\" and \"二\" for different aspects of the lesson.\n     - Diagrams illustrating magnetic fields and forces, with arrows and labels.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings and phrases:\n     - 磁场对通电导线的作用力 (Force on a current-carrying wire in a magnetic field)\n     - 安培力的方向 (Direction of Ampere's force)\n     - $B \\perp I$ (Magnetic field perpendicular to current)\n     - 控制变量法 (Control variable method)\n     - 转换法 (Conversion method)\n     - 安培力的大小 (Magnitude of Ampere's force)\n     - $F = BIL \\sin \\theta$ (Formula for force)\n   - Diagrams:\n     - Arrows indicating direction of magnetic field ($B$) and current ($I$).\n     - Force vectors ($F$) shown in relation to angles.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $F = BIL \\sin \\theta$ on the blackboard, emphasizing its components.\n   - Uses hand gestures to trace the direction of arrows in the diagrams, illustrating the relationship between $B$, $I$, and $F$.\n   - Circles key phrases like $B \\perp I$ to highlight their importance.\n   - Points to each section in order, summarizing the control variable method and conversion method.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with bullet points summarizing key concepts, including:\n     - 安培力的方向 (Direction of Ampere's force)\n     - 安培力的大小 (Magnitude of Ampere's force)\n   - The teacher gestures towards the screen, possibly indicating further reading or review of these points.\n   - No explicit homework or assignment details are visible, but the emphasis on key formulas suggests preparation for application exercises.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the force on a current-carrying wire in a magnetic field. The teacher visually reviews the content by pointing to each section in sequence, emphasizing the direction and magnitude of Ampere's force. He circles key phrases like $B \\perp I$ and traces the arrows in the diagrams, reinforcing the relationship between magnetic field, current, and force. The final emphasis is placed on the formula $F = BIL \\sin \\theta$, highlighted by pointing and gesturing towards it. The screen displays a summary slide with bullet points, suggesting further review, though no explicit homework instructions are visible. This visual recap signals the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Force on Current-Carrying Wire",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[425.08 -> 485.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Ampere's Force Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[425.08 -> 485.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Magnetic Field Perpendicular to Current",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[425.08 -> 485.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Left-Hand Rule",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[425.08 -> 485.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Control Variable Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[425.08 -> 485.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Conversion Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[425.08 -> 485.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Magnitude of Ampere's Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[517.48 -> 534.72]"
+      },
+      {
+        "id": "c8",
+        "label": "Force Formula F = BIL sin θ",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[517.48 -> 534.72]"
+      },
+      {
+        "id": "c9",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Visual",
+        "original_text": "End-of-lesson blackboard summary with key points and diagrams",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams with magnetic field and current arrows",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Illustrates the force on the wire with diagrams on the board."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Ampere's force direction is determined using the left-hand rule."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Shows the perpendicular orientation with diagrams on the board."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Conversion method builds upon control variable method."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Magnitude of force relates directly to the formula components."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Supports students' engaged reflection by summarizing visual elements."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Diagrams are used to emphasize key concepts to focused students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

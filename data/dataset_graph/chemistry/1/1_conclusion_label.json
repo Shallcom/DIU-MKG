@@ -1,0 +1,132 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to correctly draw electron‑configuration diagrams for atoms; understand and master the fundamental rules of electron filling outside the nucleus.",
+  "transcript": "[725.72 -> 739.8] 很好这位同学写得正确吗。\n[741.22 -> 754.64] 我们来先看铝原子K层最多容纳两个电子到排列完过后再排列L层L层最多容纳。\n[755.72 -> 761.04] 好今天我们通过这个方式了解了核外电子排布。\n[763.72 -> 771.76] 下来请同学们继续通过这个规律来试着写出其余的核外电子排布图我的视角片段到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains diagrams and chemical equations. The right side of the blackboard displays a periodic table with annotations.\n   - The digital screen on the right shows a table with chemical elements and their electron configurations, along with some explanatory text in Chinese.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Diagrams showing electron configurations: $\\text{M}$ and $\\text{Cl}$ with electron shells.\n     - Text: \"电子构型\" (electron configuration), \"主族元素\" (main group elements), and \"最外层电子数\" (number of valence electrons).\n   - Digital Screen:\n     - Table with elements and electron configurations.\n     - Text: \"例题: 以下元素中，属于主族元素的是哪些？\" (Example: Which of the following elements are main group elements?).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the electron configuration diagrams on the blackboard, specifically highlighting the electron shells for $\\text{M}$ and $\\text{Cl}$.\n   - The teacher gestures towards the periodic table annotations on the blackboard, emphasizing the main group elements.\n   - The teacher occasionally looks at the digital screen, likely to reference the table and examples displayed.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided. The focus remains on summarizing the lesson content through the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying diagrams of electron configurations for elements $\\text{M}$ and $\\text{Cl}$, alongside annotations about main group elements and valence electrons. The digital screen to the right features a table listing elements with their electron configurations and an example question in Chinese. The teacher visually wraps up the lesson by pointing to the electron shell diagrams on the blackboard, emphasizing the configurations for $\\text{M}$ and $\\text{Cl}$. He gestures towards the periodic table annotations, reinforcing the concept of main group elements. The teacher occasionally references the digital screen, likely to highlight key points from the table. No explicit visual indication of homework or next steps is present, focusing the conclusion on the core concepts displayed on the blackboard and screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electron Configuration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[755.72 -> 761.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Main Group Elements",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[763.72 -> 771.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Valence Electrons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[741.22 -> 754.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Electron Shell",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[741.22 -> 754.64]"
+      },
+      {
+        "id": "c5",
+        "label": "M Element Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of M element's electron configuration",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "Cl Element Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of Cl element's electron configuration",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Periodic Table Annotations",
+        "type": "Visual",
+        "original_text": "Annotations highlighting main group elements",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Digital Screen Elements",
+        "type": "Visual",
+        "original_text": "Table with elements and their electron configurations",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Checking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Students Reflecting",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Electron configuration involves understanding valence electrons."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Understanding electron configuration requires knowledge of electron shells."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Teacher points to the visual representation of M element's electron shell."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Teacher highlights the Cl element's electron shell diagram."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Annotations on the periodic table emphasize main group elements."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Digital screen supports understanding of electron configurations with examples."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "engaged",
+        "intent": "Students engage by checking the accuracy of M element's representation."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "engaged",
+        "intent": "Students reflect on the concept of main group elements."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

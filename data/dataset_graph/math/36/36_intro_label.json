@@ -1,0 +1,113 @@
+{
+  "video_name": "36_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "- Understand the pitfalls of the lecture method and how to apply it effectively  \n- Master the role of situational introductions in mathematics teaching  \n- Analyze exemplary cases of scenario design",
+  "transcript": "[0.0 -> 4.1] 支持明镜与点点栏目。\n[7.62 -> 65.24] 尊敬各位老师亲爱的同学们大家好我是高中数数学组一号我演讲的题目是学生维稳引导探究我是高中数学组三十六号选手我抽到的讲演题目我抽到的讲演课题是有种观点认为讲授法就是满堂冠对此我并不赞同讲授法就是满堂冠接下来我将从几个方面简单谈讨你的看法首先讲授法我们可以以情景为导入数学通常被赋予一个抽象枯燥的学科而富有意思的情境就仿佛一把神秘的钥匙。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen featuring the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-Trainee College Students). The screen includes colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"8.2.1 一元线性回归模型\" (8.2.1 Univariate Linear Regression Model). The teacher stands in front of the screen, which displays this title. There is no indication of the teacher writing it; it is part of the presentation slide.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher stands with hands clasped in front, occasionally shifting position but not making specific gestures towards the content on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen, setting the context for the teaching skills competition.\n- Transition to the classroom where the teacher stands in front of a screen displaying the title \"8.2.1 一元线性回归模型.\"\n\n**Middle:**\n- The teacher remains stationary, occasionally shifting weight but not engaging in specific gestures.\n- The screen content remains static, showing the title and some interface elements of a presentation software.\n\n**End:**\n- The teacher continues to stand in front of the screen, maintaining a composed posture.\n- No additional visual content changes occur on the screen or board.\n\n### Summary\nThe introduction phase focuses on establishing the context of the lesson with a static title slide. The teacher's presence is central, but there are no dynamic gestures or changes in visual content beyond the initial setup. The emphasis is on presenting the topic of univariate linear regression, with the screen content serving as the primary visual anchor.",
+  "visual_narrative": "Initially, the screen presents a vibrant yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛,\" setting the competitive context for the lesson. To bridge to the topic, the scene transitions to the classroom where the teacher stands composed in front of a screen displaying \"8.2.1 一元线性回归模型.\" The teacher maintains a stationary posture, occasionally shifting weight, which directs attention to the static presentation slide. Finally, the visual focus remains on the title displayed prominently on the screen, establishing the lesson goal of exploring univariate linear regression. This introduction links the competitive framework to the academic content, preparing students for a structured exploration of the statistical model, grounding the new knowledge within a clear and focused visual context.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Lecture Method Pitfalls",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.62 -> 65.24]"
+      },
+      {
+        "id": "c2",
+        "label": "Situational Introductions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[7.62 -> 65.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Scenario Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[7.62 -> 65.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Univariate Linear Regression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 4.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Mathematics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[7.62 -> 65.24]"
+      },
+      {
+        "id": "v1",
+        "label": "Competition Title Slide",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-Trainee College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Regression Model Title Slide",
+        "type": "Visual",
+        "original_text": "Univariate Linear Regression Model",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Students Preparing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Connecting the challenges of the lecture method to effective teaching procedures."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Situational introductions as part of scenario design."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Univariate linear regression as a mathematical concept."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Sets the stage for the lesson with a contest title slide leading to the topic title slide."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Introducing pitfalls encourages student engagement."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "The visual slide distills the topic's essence."
+      },
+      {
+        "source": "ss1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Engaged students use cognitive preparation to delve into complex concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

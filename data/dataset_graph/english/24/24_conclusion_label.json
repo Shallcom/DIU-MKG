@@ -1,0 +1,152 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of posture (stance) in communication; analyze how posture facilitates action; apply posture to achieve effective communication.",
+  "transcript": "[599.38 -> 613.66] 那这个呢你可以用例子来显示你的姿态对吗好的那这个呢。\n[618.0 -> 676.82] 你们都没有提到这句话是非常非常重要的为什么如此重要呢是的建议和行动对吧对比起这种姿态它没有任何人的行动它只是用一个问题来结束姿态这也是很棒的但是在这种姿态里面是更具体的我们可以知道我们可以做什么来保护好吗好你们可以学习从这种姿态ClearActionWhenYouEndYourPostureYouCanUseTheClearActionOkayAndTheRightOneWhatAboutThisTheGirlJustMentionRightItProvidesUsYesStatisticsOrTruthOrDetailedInformationWhatIsTheFunctionOfThisSentence。\n[678.0 -> 689.32] 你能和你的伙伴商谈谈吗好的请说吧。\n[691.0 -> 751.16] 很危险对吧好的请坐下吧那么下一个是奇怪的结尾是什么呢我说我说就在一块车来回来塞就是比弗特拉斯就扣分比弗拉斯就可�。",
+  "visual_facts": "### Phase 4: Conclusion - Visual Knowledge Consolidation\n\n#### 1. Summary Artifact (Static View)\n- **Main Visual Carrier**: The summary is presented on a slide titled \"First Reading.\"\n- **Overall Layout**: The slide includes a text excerpt and images of animals (a whale, panda, and elephant) with a prompt for a poster design task.\n\n#### 2. Key Knowledge Items (Content View)\n- **Title**: \"First Reading\"\n- **Text Excerpt**: Information about designing a poster to protect the South China Tiger.\n- **Images**: \n  - Whale\n  - Panda\n  - Elephant\n- **Prompt**: \"Suppose you are a member of the school 'Animal protection' club, please design a poster to call for people's action.\"\n\n#### 3. Review Gestures (Dynamic View)\n- **Pointing to Images**: The teacher points to each animal image (whale, panda, elephant) to emphasize the task of designing a poster for wildlife protection.\n- **Gesturing to Text**: The teacher gestures towards the text excerpt to highlight the importance of the information provided for the poster design.\n\n#### 4. Transition to Next Step\n- **Visual Element**: The slide includes a task prompt, indicating the next step for students to design a poster.\n- **Transcription**: \"Suppose you are a member of the school 'Animal protection' club, please design a poster to call for people's action.\"\n\nThis structured visual summary consolidates the lesson's focus on wildlife protection and transitions students to an active task, reinforcing the lesson's objectives.",
+  "visual_narrative": "The class ends with a slide titled \"First Reading,\" featuring a text excerpt and images of a whale, panda, and elephant, accompanied by a prompt for a poster design task. The teacher visually reviews the content by pointing to each animal image, emphasizing their relevance to the task. She gestures towards the text excerpt, highlighting the information provided for designing a wildlife protection poster. The core takeaway is reinforced through deliberate pointing to the task prompt, which reads, \"Suppose you are a member of the school 'Animal protection' club, please design a poster to call for people's action.\" This visual emphasis transitions students to the next step, where they are expected to apply the lesson's knowledge in creating their posters.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Posture Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[599.38 -> 613.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Communication Stance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[599.38 -> 613.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Action Facilitation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[618.0 -> 676.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Effective Communication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[618.0 -> 676.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Poster Design Task",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.0 -> 689.32]"
+      },
+      {
+        "id": "v1",
+        "label": "First Reading Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'First Reading' with images and text excerpt about poster design.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Whale Image",
+        "type": "Visual",
+        "original_text": "Image of a whale.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Panda Image",
+        "type": "Visual",
+        "original_text": "Image of a panda.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Elephant Image",
+        "type": "Visual",
+        "original_text": "Image of an elephant.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v5",
+        "label": "Text Excerpt",
+        "type": "Visual",
+        "original_text": "Text about designing a poster to protect the South China Tiger.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Poster Design Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding the importance of posture builds upon the stance in communication."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Facilitating action through posture leads to effective communication."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "evolves_from",
+        "intent": "The poster design task evolves from students being engaged in understanding the lesson."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The poster design task is visually represented on the slide."
+      },
+      {
+        "source": "c1",
+        "target": "v5",
+        "relation": "emphasizes",
+        "intent": "Emphasizing importance of posture in text to guide poster creation."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "includes",
+        "intent": "Animals on the slide including whale and panda are related to wildlife protection."
+      },
+      {
+        "source": "v3",
+        "target": "v4",
+        "relation": "includes",
+        "intent": "Animals on the slide including panda and elephant are related to wildlife protection."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Posture importance includes facilitating action."
+      },
+      {
+        "source": "ss1",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Student engagement is scaffolded through the visual aid of the slide."
+      },
+      {
+        "source": "v2",
+        "target": "v5",
+        "relation": "emphasizes",
+        "intent": "The image of the whale emphasizes the text about wildlife protection."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,141 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and basic properties of arithmetic sequences; discover and articulate the equal relationships within arithmetic sequences.",
+  "transcript": "[709.0 -> 726.84] 我们常用字母D来解释。\n[727.84 -> 747.42] 现在请同学们看由三个数组成的A大A和B这样的等差数点等差数列就是一个简单的等差数列那么在这样的等差数列中你们可以发现出怎样的一个等量关系吗。\n[752.36 -> 763.46] 这位女生根据等差数列的定义大A减小A等于小B减大A。\n[765.0 -> 802.56] 大A减小A小A等于小B减大A小B减大A那么我们可以将A都放在等式的左边将其他的字母移到等式的右边中应该如何化解二大A大二大A等于B加A小B加小A也就是A加B非常好请坐其实啊具有这样的特征呢我们就可以发现这个A就有这样特征的式子中我们就将A叫做A与B的等差时间到以上就是我模拟上课的全部内容。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a series of mathematical expressions and definitions related to arithmetic sequences.\n   - The layout includes:\n     - A title: §4.2.1 等差数列的通项公式 (Arithmetic Sequence General Formula).\n     - Examples of arithmetic sequences: $1, 9, 17, 25, \\ldots$, $7.8, 7.9, 8.0, 8.1, \\ldots$.\n     - Mathematical expressions: \n       - $a_2 - a_1 = d$, $a_3 - a_2 = d$, $a_4 - a_3 = d$.\n       - $a_n = a_1 + (n-1)d$.\n     - A derivation process showing the general formula for the arithmetic sequence.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas:\n     - 等差数列 (Arithmetic Sequence)\n     - 通项公式 (General Formula)\n     - $a_n = a_1 + (n-1)d$\n     - $d$ (common difference)\n   - Definitions and properties related to arithmetic sequences.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the general formula $a_n = a_1 + (n-1)d$ and emphasizes its components.\n   - She gestures towards the examples on the board, highlighting the common difference $d$ in each sequence.\n   - The teacher circles or underlines key parts of the formula to draw attention to its structure.\n   - She uses hand movements to trace the derivation process, linking each step to the final formula.\n\n4. **Transition to Next Step**:\n   - A slide on the screen displays additional text, likely summarizing key points or providing further definitions.\n   - The slide includes:\n     - Definitions related to arithmetic sequences.\n     - A note about the general term formula and its application.\n   - There is no explicit visual indication of homework or next lesson content in the frames provided.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the arithmetic sequence general formula. The teacher visually reviews the content by pointing to each example sequence and the general formula $a_n = a_1 + (n-1)d$, emphasizing the common difference $d$. She circles key parts of the formula to highlight its structure. The visual focus remains on the blackboard, reinforcing the core takeaway of the arithmetic sequence formula. The screen displays additional definitions, but no explicit homework or next-step instructions are visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Arithmetic Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.0 -> 802.56]"
+      },
+      {
+        "id": "c2",
+        "label": "General Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[709.0 -> 802.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Common Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.0 -> 802.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Equal Relationships",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[727.84 -> 747.42]"
+      },
+      {
+        "id": "c5",
+        "label": "a_n = a_1 + (n-1)d",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[709.0 -> 802.56]"
+      },
+      {
+        "id": "c6",
+        "label": "a_2 - a_1 = d",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.0 -> 802.56]"
+      },
+      {
+        "id": "c7",
+        "label": "a_4 - a_3 = d",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.0 -> 802.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Mathematical Derivation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[765.0 -> 802.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard with Expressions",
+        "type": "Visual",
+        "original_text": "Blackboard contains series of mathematical expressions related to arithmetic sequences.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide with Definitions",
+        "type": "Visual",
+        "original_text": "Slide displays additional definitions related to arithmetic sequences.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Discovering Relationships",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[727.84 -> 747.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The arithmetic sequence concept includes understanding of its general formula."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The general formula evolves from the fundamental relationships in arithmetic sequences."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Common difference is included in specific representations of arithmetic relationships."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Deriving a_n in the formula builds upon the step-by-step mathematical process."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Emphasizing equal relationships prompts students to think critically about patterns."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The board visualizes the general formula to reinforce understanding."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Definitions on the slide provide scaffolding for the concept of arithmetic sequences."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Equations such as a_4 - a_3 = d include properties applicable to earlier sequence terms."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

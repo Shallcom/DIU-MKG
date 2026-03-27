@@ -1,0 +1,198 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Analyze the problems present in the sales of cultural and creative products and propose improvement suggestions; understand the basic characteristics of forward‑thinking and its application in marketing.",
+  "transcript": "[630.08 -> 661.58] 好的我们接下来继续去探讨我们的文创产品销售老师呢还发现了虽然我们的代工厂众多但是有可能出现的情况是质量参差不齐销售网络发达但是我们的售后服务却难以保障文物博物馆市场竞争强这些情况你认为你们的文创产品应该做出哪些改进呢好有请这个小组。\n[668.96 -> 684.66] 嗯很好请坐那这个体现了我们超前思维的什么特征吗有哪位同学来说一说好有请这位同学。\n[689.04 -> 720.34] 现状态是变化莫测了所以感觉就是要针对未来这种市场变化的趋势啊我们要就是可能会产生很多我们意料之外的那些因素影响很好请坐这体现了超前思维的不确定性请同学们在课本做好相应的笔记好同学们这节课就上到这里我们下节课再见我的变化化教学到此结束感谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It contains two sections with bullet points and text in Chinese.\n   - The blackboard has a diagram with two main points written in Chinese: \"1. 求实性\" and \"2. 顺序性\".\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide:\n     - Title: \"案例分析\"\n     - Left Section: \"大语文活动的开展：意义重大，但实施不易。\"\n     - Right Section: Discusses the significance and challenges of implementing large-scale Chinese language activities.\n   - Blackboard:\n     - \"1. 求实性\" (Practicality)\n     - \"2. 顺序性\" (Sequentiality)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the slide, occasionally gesturing towards the screen, likely emphasizing key points.\n   - The teacher's hands are clasped, suggesting a summarizing or concluding gesture.\n   - The teacher may glance at the blackboard, linking the slide content to the points written there.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided.\n   - The focus remains on the summary content, with no additional slides or board sections visible for next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying two sections of bullet points, summarizing the significance and challenges of large-scale Chinese language activities. The blackboard features a diagram with two main points: \"1. 求实性\" and \"2. 顺序性\". The teacher stands in front of the slide, using hand gestures to emphasize key points, likely moving between the sections to highlight important details. Although no strong emphasis actions like underlining or boxing are visible, the teacher's stance and gestures suggest a review of the core concepts. There are no visual elements indicating homework or next steps, keeping the focus on the summary content displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultural Products Sales",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Forward Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Quality Variation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Sales Network Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Market Competition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Improvement Suggestions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Left Section Slide",
+        "type": "Visual",
+        "original_text": "The significance and challenges of implementing large-scale Chinese language activities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Right Section Slide",
+        "type": "Visual",
+        "original_text": "Discussion of the significance and challenges in implementing large-scale Chinese language activities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Practicality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c10",
+        "label": "Sequentiality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[630.08 -> 661.58]"
+      },
+      {
+        "id": "c11",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram displaying Practicality and Sequentiality.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Student Group Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c13",
+        "label": "Uncertainty",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[689.04 -> 720.34]"
+      },
+      {
+        "id": "c14",
+        "label": "Future Market Trends",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[689.04 -> 720.34]"
+      },
+      {
+        "id": "c15",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards slides for emphasis.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Explores the issues of quality variation in cultural product sales."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Discusses sales network challenges in cultural products sales."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Analyzes market competition in the sales of cultural and creative products."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Explains forward-thinking principles, including Practicality."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Explains forward-thinking principles, including Sequentiality."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Slide section visualizes forward-thinking principles."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Slide section emphasizes improvement suggestions."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram illustrates Practicality concept."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram illustrates Sequentiality concept."
+      },
+      {
+        "source": "c12",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Student response develops upon improvement suggestions."
+      },
+      {
+        "source": "c13",
+        "target": "c14",
+        "relation": "builds_upon",
+        "intent": "Uncertainty concept builds upon understanding future market trends."
+      },
+      {
+        "source": "c15",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize key points on the slide."
+      },
+      {
+        "source": "c15",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize key points for improvement suggestions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "41_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Use real‑life examples to spark students’ interest in physical phenomena and cultivate their problem‑solving abilities.",
+  "transcript": "[0.0 -> 90.96] 各位老师同学好今天我决心讲演的题目是新客导入对于新客的讲授是十分重要的那我将从动量定理为例说明演示实验的导入该如何进行以及有怎样的效果这样的目的首先我会从生活中的现象进行引入我可以讲解两个小车在运动的过程中发生碰撞的事情从生活中的例子入手让学生产生一定的兴趣培养他问题解决的意识和能力那同时我把这个复杂的生活情景转成了较为简单的在一条直线上的运动来简化学生接触动量定理的首次的可能存在的一些问题来帮助进一步的去讲解动量定理的内容那么我认为新课导入之所以重要是因为这可以激发学生一节课的兴趣让他对具体的问题产生一定的想法发展从生活走向物理的意识在思考如何解决解释生活中的具体问题。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher entering the classroom, holding papers. The initial visual focus is on the digital screen displaying the title \"波的干涉\" (Wave Interference).\n\n#### 2. **The Title Event**\n- The title \"波的干涉\" is prominently displayed on the digital screen. The teacher stands in front of the screen, holding papers, and gestures towards the title, indicating its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points while speaking. She occasionally points to the screen displaying the title, reinforcing the lesson's focus on wave interference.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom, holding papers.\n- The digital screen shows the title \"波的干涉\" (Wave Interference).\n- The teacher stands in front of the screen, gesturing towards the title to draw attention.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize key points.\n- She occasionally looks at the students, maintaining engagement.\n- The screen remains static, displaying the title throughout.\n\n**End:**\n- The teacher continues to gesture and speak, reinforcing the lesson's focus on wave interference.\n- The screen still displays the title, serving as a constant visual anchor.\n\nThis structured visual analysis highlights the teacher's actions and their direct connection to the visual content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the teacher enters the classroom holding papers, with the digital screen presenting the title \"波的干涉\" (Wave Interference) as the opening visual stimulus. To bridge to the main topic, the teacher stands in front of the screen, gesturing towards the title to draw attention and emphasize its significance. Throughout the introduction, the teacher uses hand gestures to engage the students, occasionally pointing to the screen to reinforce the focus on wave interference. The visual aid remains consistent, with the title serving as a constant anchor. This approach establishes the lesson goal by visually linking the concept of wave interference to the students' existing knowledge, setting the stage for deeper exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Wave Interference Title",
+        "type": "Visual",
+        "original_text": "Wave Interference",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Momentum Theorem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Real-life Phenomenon",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Colliding Carts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Problem-solving Ability",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c5",
+        "label": "From Life to Physics",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Lesson Introduction Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c7",
+        "label": "Simplified Linear Motion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c8",
+        "label": "Activate Student Interest",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.96]"
+      },
+      {
+        "id": "c9",
+        "label": "Digital Screen",
+        "type": "Visual",
+        "original_text": "Screen with Title 'Wave Interference'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Uses real-life phenomena to introduce momentum theorem."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Real-life phenomenon example of colliding carts."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Develop problem-solving abilities from real-life to physics contexts."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Highlighting the importance of introduction for activating interest."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Simplifying life events into linear motion for momentum theorem."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "The title 'Wave Interference' emphasizes engaging students."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Screen serves as a constant visual anchor with the title."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to relate life phenomena to physics concepts."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Aims to ignite students' interest and engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

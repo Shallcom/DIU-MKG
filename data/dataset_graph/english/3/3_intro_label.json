@@ -1,0 +1,140 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "- Increase students’ interest and participation in English‑grammar classes.  \n- Understand the value of teaching methods that incorporate competitions, songs, and visual tools.  \n- Be able to apply the English language rules learned in authentic, real‑world situations.",
+  "transcript": "[0.0 -> 144.98] IbelievethatweshouldincreasestudentsinterestandparticipationinourgrammarclassIwouldliketosharethreewaysasfollowsFirstweshouldteachEnglishgrammarbycreatingcontestAccordingtoTheNationalCurricularStandardEnglishTeachingShouldBeStudentOrientedForexampleWhenLearningAboutDescribingAbilitiesSuchAsCanYouYesICanWeCanDesignAClubInterview能够与同学们在目标语言中联系并选择他们的喜欢的语音语音座位在这种情况下他们不仅仅能够认识语言的关键点但也能够解决实际的问题第二我们可以教英语文化通过唱英语歌词学生们很喜欢音乐所以他们能够认识语文的规则通过唱歌和听听当我们教练习一般的未来语言语言时我们可以使用Zone试试所有东西在这儿the speedofthevehiclesetceteraIn this waytheycannotonlyincreasetheirparticipationintheclassbutmoreimportantlyincreasetheirinteresttolearnEnglishgrammarThroughabovemeasuresIhopetonotonlyachievethethreedimensionofformateachingbutmoreimportantlystimulatestudentsthirsttolearnEnglishThatisallaboutmyspeechThankyou。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It contains the text \"Reading and writing\" and \"Write a blog post\" within a blue rectangular box.\n\n#### 2. **The Title Event**\n- The title on the screen is \"Reading and writing\" and \"Write a blog post.\" The teacher is standing in front of the screen, which displays this title. There is no indication of the teacher writing or underlining it, as it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and gesturing with her hands, likely emphasizing points related to the content on the screen. She occasionally points towards the screen, directing attention to the title.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the slide with the text \"Reading and writing\" and \"Write a blog post.\"\n- The teacher holds papers and begins speaking, using hand gestures to emphasize the content on the screen.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen to highlight the title.\n- She uses varied hand movements, possibly to engage the audience and emphasize key points about writing a blog post.\n\n**End:**\n- The teacher maintains focus on the screen content, ensuring the students' attention is directed towards the title and the task of writing a blog post.\n- No additional visual elements or changes occur on the screen or board during this segment.\n\nThis structured log captures the visual evolution and links the teacher's actions to the specific content displayed, providing a clear narrative of the introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a digital screen displaying the hook object: a slide with the text \"Reading and writing\" and \"Write a blog post\" within a blue box. The teacher, holding papers, initiates the lesson by gesturing towards the screen, drawing attention to the title. Throughout the introduction, the teacher uses hand movements to emphasize key points, occasionally pointing directly at the text to reinforce the focus on writing a blog post. The visual aid remains consistent, with no transition to additional content, ensuring the students' attention is firmly on the task at hand. This approach serves to bridge the students' existing writing skills with the new objective of crafting a blog post, setting a clear expectation for the lesson's activities and outcomes. The teacher's gestures and focus on the screen effectively link the introduction to the main topic, preparing students for the upcoming learning process.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Interest in Grammar",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Participation in Class",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Grammar Contest",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Club Interview",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Music and Song",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c6",
+        "label": "General Future Language",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Authentic Real-world Situations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Student-oriented Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c9",
+        "label": "Teaching Method Incorporating Competitions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 144.98]"
+      },
+      {
+        "id": "c10",
+        "label": "Write a Blog Post Slide",
+        "type": "Visual",
+        "original_text": "Reading and writing, Write a blog post",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Class Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Attention to Teacher Gestures",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Interest evolves into active participation in grammar class."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Grammar contests include a component of club interviews to engage students."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Using songs to teach general future language concepts in a classroom setting."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Interest in grammar leads to the ability to apply knowledge in real-world contexts."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Student-oriented learning principles guide the use of competitions."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The slide captures student engagement by visually presenting the task."
+      },
+      {
+        "source": "s2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged through the teacher's gestures emphasizing content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

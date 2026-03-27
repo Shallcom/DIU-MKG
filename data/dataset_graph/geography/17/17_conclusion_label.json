@@ -1,0 +1,140 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Analyze the specific impacts of canals and ports on urban development; understand the relationship between natural disasters, resource development, and urban development.",
+  "transcript": "[656.4 -> 720.04] 那同学们你们再想一下这样一道题这是我们书上的活动我们可以看到教材图二点一七我们思考一下运河和港口的修建对于我们休斯顿的发展又有哪些影响呢同学们请看原本在十九世纪后期休斯顿他是一个陆运枢纽但是后来由于飓风和海啸摧毁了他的一个水运枢纽而刚好在一九零一年发现石油这个时候开凿了运河又修建了一系列人工港那你们觉得对休斯顿的发展有哪些影响首先是我们的一个海运交通是吧交通的话会加大我们对外的联系同时也能够把我们的石油给输送出去同学们都很聪明我们可以加深对外港口的联系加强对外贸易促进经济的发展而人工港。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. The slide has a green and white color scheme with a map and text sections.\n   - The layout includes a map on the left side, a large text box on the right, and a smaller text section below the map.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains a map with labeled locations and a cityscape image.\n   - The main text box on the right reads: \"习近平总书记强调，对浦东新区发展寄予厚望\" (President Xi Jinping emphasized the high expectations for the development of Pudong New Area).\n   - Below the map, there is a section with bullet points summarizing key points from the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the map on the left side of the slide, likely highlighting specific locations or areas of interest.\n   - The teacher gestures towards the text box on the right, emphasizing the importance of the quote from President Xi Jinping.\n   - The teacher uses hand movements to indicate the bullet points below the map, reviewing each key point in sequence.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the current slide.\n   - The teacher may be preparing to transition to a new slide or section, but this is not visible in the provided frames.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a map and key text sections, emphasizing the development of Pudong New Area. The teacher points to the map, highlighting specific locations, and gestures towards the text box on the right, underscoring the quote from President Xi Jinping. She moves through the bullet points below the map, reviewing each in sequence. The teacher's gestures focus on the core takeaway, ensuring the key points are visually reinforced. No explicit homework or next-step instructions are visible on the current slide.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Canals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Ports",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Urban Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Natural Disasters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Resource Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Sea Transportation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Trade Relations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.4 -> 720.04]"
+      },
+      {
+        "id": "v1",
+        "label": "Map of Pudong New Area",
+        "type": "Visual",
+        "original_text": "Map with labeled locations; emphasis on Pudong New Area",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Quote Emphasis",
+        "type": "Visual",
+        "original_text": "President Xi Jinping emphasized the high expectations for Pudong New Area development.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Points Review",
+        "type": "Visual",
+        "original_text": "Bullet points summarizing key lesson points below the map.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Connection between canals and urban development discussed."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Connection between ports and urban development highlighted."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The impact of natural disasters on resource development considered."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Role of sea transportation in expanding trade relations explored."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Map visualizes the area of urban development discussion."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Quote emphasizes the significance of urban development."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Bullet points provide condensed summary of urban development concepts."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage actively with urban development discussion in conclusion phase."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

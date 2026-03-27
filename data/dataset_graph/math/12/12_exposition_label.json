@@ -1,0 +1,170 @@
+{
+  "video_name": "12_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concepts of trigonometric functions; master the relationship between trigonometric functions and the unit circle; be able to define the sine and cosine functions through coordinates.",
+  "transcript": "[240.0 -> 253.22] 最初人们是通过球面的三角来进行研究随后呢根据测量和测绘的需要逐渐发展出了平面的三角学那三角学和天文学密不可分今天我们就来学习三角函数的概念请同学们翻开课本大家思考一下我们先前学过的函数有哪些类型。\n[254.4 -> 354.26] 来这位同学你来以前学过指数函数对数函数秘函数啊很好请坐指数函数对数函数还有秘函数还有吗你来试一下说一元二元这种不同的概念很好啊请坐我们先前就已经探究过了相关函数的知识点了那现在我们要学的是三角函数有什么不一样啊哎那我们先我先提问一位同学根据先前学过的函数知识你们能知道函数定义函数是如何定义的吗这位同学你来试一万函数应当是从一个数映射到另外一个数很好请坐这位同学已经讲得很清楚了函数我们将它我们可以将其视为一个对应规则怎么看呢由一个已知的音变量X它有一个唯一与之对应的音变量Y我们要注意这里的Y是唯一确定的好那现在我们已经知道了定义一个函数要知道它的规则字变量以及音变量那现在我们研究三角函数要怎么知道它的字变量和音变量呢。\n[355.96 -> 361.42] 那我们一起来看一下这道题同学们看一下课本啊。\n[362.82 -> 428.78] 在这个单位圆上然后我们有一个角当这个角度阿拉法越来越大的时候OP是不是由非负半轴逆时针旋转啊那我们看这个P点就是这个OP与单位元的交点我们定义它的坐标为X和Y那同学们观察一下此时OP逆时针旋转的过程中我们变的是它的角度那随之而变的是它的哪一个值呢来这位同学你来尝试一下是标点P的横纵坐标很好请坐我们发现随着角度阿拉法的变化这个焦点的横纵坐标也随之变化那么我们是不是可以猜测自变量是阿拉法角度那因变量就是它们的横纵坐标了那这仅仅只是猜测我们能否确定这个函数并且写出它的表达式呢。\n[430.12 -> 432.42] 那同学们做一下这道题。\n[434.0 -> 437.28] 对应的焦点坐标是否是唯一的。\n[441.94 -> 450.98] 我们可以尝试用什么样的知识来解决这个题目啊。\n[452.06 -> 522.6] 勾股定理好老师看大家写得差不多了那我们一起来看一下可以发现当存在一个角度曲直时比如说角度为六分之太时那么它对应的坐标只有一个尤且仅有一个若换一个角度那么对应的坐标也是相应变换的那也就得出了这样一个结论愿意给定一一个叫阿拉法它的中间OP和单位元的坐标无论是横坐标还是纵坐标都是唯一确定的因此呢它的横坐标还是纵坐标都可以作为这个函数回到我们刚才的这个图可以发现随着角度的变化这里的焦点坐标X和Y都是一唯一固定的让我们定义这样一个函数。\n[533.56 -> 539.46] 我们知道它的横纵坐标都是固定的。\n[540.96 -> 544.32] 那我们取它的横坐标。\n[549.12 -> 570.683267] 横坐标即为cos此时这边的Y即为它PX坐标中的X如果同学们也可以这么记此为角度此为横坐标好那这也就是正行之那于贤侄呢我们定义他的这是于贤侄有同学及时发现老师的错误了啊那这是郑贤侄这是于贤侄那郑贤侄呢我们定义其中的其中的V这个函数Y等于三阿拉法好那现在呢还有一个正切这个时候呢我们定义乘重坐标之比为它的正切值那这就是我们这节课要学习的那这就是我们今天要探究的三角函数的概念同学们是否明晰了它们是怎么来的呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The chalkboard displays the title \"三角函数的概念\" (Concept of Trigonometric Functions).\n- The digital screen shows a slide with the question \"量天的学问?\" (The science of measuring the sky?) and a diagram linking \"三角\" (triangle) and \"天文\" (astronomy).\n- The teacher gestures towards the screen, emphasizing the connection between triangles and astronomy.\n\n**Middle:**\n- The teacher writes the function $f(x) \\rightarrow y$ on the chalkboard, indicating a transformation or mapping.\n- The digital screen changes to a slide with a diagram of a circle and angles, labeled \"图1.1\" (Figure 1.1), discussing the relationship between angles and arc lengths.\n- The teacher points to specific parts of the diagram, explaining the concept of angles in radians and their relation to arc length.\n\n**End:**\n- The teacher writes additional content on the chalkboard, including \"二、三角函数\" (2. Trigonometric Functions).\n- The digital screen displays a slide with mathematical expressions, including $\\frac{y}{r}$ and $\\frac{x}{r}$, explaining the definitions of sine and cosine.\n- The teacher circles and highlights key parts of the equations on the screen, reinforcing the definitions.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide with the circle diagram labeled \"图1.1\" (Figure 1.1), illustrating angles and arc lengths. It includes labels for radius $r$, arc length $l$, and angles in degrees and radians.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the function $f(x) \\rightarrow y$ on the chalkboard, then adds \"二、三角函数\" (2. Trigonometric Functions) to introduce the next topic.\n- **Modifications**: The teacher points to different parts of the circle diagram on the screen, explaining the transition from degrees to radians.\n- **Deictic Gestures**: The teacher points to the arc length $l$ and angle $\\theta$ on the diagram, explaining their relationship.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses a pointer to highlight the equations $\\frac{y}{r}$ and $\\frac{x}{r}$ on the digital screen, emphasizing the definitions of sine and cosine.\n- The teacher circles key variables and expressions on the screen to draw attention to important concepts.\n\nThis structured visual evolution demonstrates the teacher's method of linking abstract mathematical concepts to concrete diagrams, using both the chalkboard and digital screen to reinforce understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"三角函数的概念\" (Concept of Trigonometric Functions) alongside a digital screen presenting the question \"量天的学问?\" (The science of measuring the sky?) with a diagram linking \"三角\" (triangle) and \"天文\" (astronomy). The teacher began by gesturing towards this diagram, establishing the foundational connection between trigonometry and astronomy.\n\nThen, the teacher constructed the function $f(x) \\rightarrow y$ on the chalkboard, introducing the concept of transformation. The digital screen evolved to show a circle diagram labeled \"图1.1\" (Figure 1.1), illustrating angles and arc lengths. The teacher derived the relationship between angles in radians and arc lengths, tracing the arc length $l$ and angle $\\theta$ on the diagram to explain their interdependence.\n\nAs the lecture progressed, the teacher annotated the chalkboard with \"二、三角函数\" (2. Trigonometric Functions), transitioning to the definitions of sine and cosine. The digital screen displayed equations like $\\frac{y}{r}$ and $\\frac{x}{r}$, and the teacher highlighted these by circling key variables, emphasizing their significance in defining trigonometric functions.\n\nFinally, the teacher resolved deixis by pointing to specific parts of the equations, tracing the components to illustrate their roles in the functions. The visual emphasis on these elements, combined with the structured progression from diagrams to equations, effectively reduced cognitive load by aligning visual and verbal explanations. The teacher circled the final formulas in red, reinforcing the core concepts of sine and cosine as fundamental to trigonometry.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 253.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Astronomy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 253.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Triangle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 253.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Function f(x) -> y",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[254.4 -> 354.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Radians",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.82 -> 428.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Arc Length",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.82 -> 428.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Sine Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.96 -> 544.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Cosine Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[549.12 -> 570.68]"
+      },
+      {
+        "id": "v1",
+        "label": "Circle Diagram",
+        "type": "Visual",
+        "original_text": "Digital slide displaying diagram with circle, angles, and arc lengths.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Equation Highlight",
+        "type": "Visual",
+        "original_text": "Teacher highlights equations for sine and cosine on digital screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answers Function Types",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement with Question",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Relates trigonometric functions to triangle properties."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links trigonometric functions to astronomy."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Defines radians and their relation to arc length."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Student recalls function behavior to understand new concept."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Function concept evolves into trigonometric function understanding."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Sine is a subset definition within trigonometric functions."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Cosine is a subset definition within trigonometric functions."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Circle diagram illustrates radians."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Circle diagram illustrates arc length."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Highlights importance of sine definition."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Highlights importance of cosine definition."
+      },
+      {
+        "source": "c6",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with arc length concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

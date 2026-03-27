@@ -1,0 +1,162 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Master the strategies and methods for reading *Rural China*; understand the influence of rural culture on literary works; apply the learned methods to complete the diagnostic reading assignment.",
+  "transcript": "[732.26 -> 741.78] 比如说你是哪人的河南人有没有什么一些很重要的一些风俗礼俗。\n[747.2 -> 827.28] 或者我问你一下你知道秦地或者说河南有一个什么样的京剧或者豫剧对豫剧特色也是有相关的体现那不要紧我们这个讨论不出来让我们下节课来查阅资料我们再来讨论一遍然后得出结论那我们最后说经过我们这样的导入学习相信大家对于乡土中国已经早有兴味了那应该怎么读呢我们有以下几点相信大家在课本当中已经注意到了分别是第一把握阅读预期第二逐步推进阅读第三我们一起读专业抓住核心再一次第五反复认读积极思考所以我们这粗细是要进行贯通最终我们才能够把这个读通读懂那下节课给大家布置一个作业啊就是我们要进行诊断的作业准本书阅读并进行思维打图其中还有一个选择作业好这节课就上到这里同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a mind map structure.\n   - The layout includes a central concept labeled \"乡土中国\" (Rural China) with branches extending to \"费孝通\" (Fei Xiaotong) and \"组\" (Group).\n\n2. **Key Knowledge Items (Content View)**:\n   - Central concept: 乡土中国 (Rural China)\n   - Branches: \n     - 费孝通 (Fei Xiaotong)\n     - 组 (Group)\n   - The screen displays a slide with bullet points related to the lesson content, including terms and questions.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the branches on the blackboard, specifically highlighting the connections between \"乡土中国\" and \"组\".\n   - The teacher uses hand gestures to emphasize the structure of the mind map, tracing the lines connecting the concepts.\n   - The teacher holds papers and gestures towards the screen, likely summarizing the key points displayed.\n\n4. **Transition to Next Step**:\n   - The screen displays text that may indicate further reading or next lesson content, though specific details are not fully visible.\n   - No explicit homework or assignment slide is shown, but the teacher's gestures suggest a review of the material covered.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a mind map centered on \"乡土中国\" (Rural China), branching out to \"费孝通\" (Fei Xiaotong) and \"组\" (Group). The teacher visually reviews the content by pointing to each branch, emphasizing the connections between the concepts. She traces the lines of the mind map, reinforcing the structure and relationships. The screen shows a slide with key points, and the teacher gestures towards it, summarizing the material. No explicit homework instructions are visible, but the teacher's focus on the mind map highlights the core concepts as the main takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Rural China",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Fei Xiaotong",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Group",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Reading Expectation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Progressive Reading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Professional Reading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c7",
+        "label": "Core Grasp",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c8",
+        "label": "Repeated Reading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "c9",
+        "label": "Active Thinking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Mind Map on Blackboard",
+        "type": "Visual",
+        "original_text": "Mind map structure with central concept 'Rural China', branching to 'Fei Xiaotong' and 'Group'.",
+        "ocr_corrected": true,
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "v2",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide with bullet points including reading strategies and assignments.",
+        "ocr_corrected": true,
+        "timestamp": "[747.2 -> 827.28]"
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[747.2 -> 827.28]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Fei Xiaotong is an example related to Rural China."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Group dynamics or discussions are part of understanding Rural China."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Progressive Reading evolves from setting the reading expectation."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Professional Reading builds upon Progressive Reading steps."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Core Grasp of concepts follows from Professional Reading."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Repeated Reading aids in grasping the core concepts more deeply."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Active Thinking is encouraged through repeated engagement with the text."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of Rural China is visualized through the mind map."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Professional Reading strategies are summarized on the slide."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "Mind map emphasizes key concepts, keeping students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

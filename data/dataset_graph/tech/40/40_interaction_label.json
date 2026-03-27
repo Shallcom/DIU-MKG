@@ -1,0 +1,191 @@
+{
+  "video_name": "40_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic structure of fruit and its reproductive‑related structures; master the key structural changes during seed development.",
+  "transcript": "[316.58 -> 439.44] 非常好我发现几个同学也都基本完成了来看一下上面这位同学的答案是否正确呀是正确的好那开花之后桃树就会通过授粉结出什么呀结果没错那请同学们先独立思考一分钟然后小组讨论一分钟果实包含哪些基本结构其与生殖的相关的结构又有哪些种子是由什么结构发育而来的其本质是由哪两个结构的结合起来的可以开始思考并讨论。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher stands near the blackboard, facing the students, and gestures with her hand, signaling the start of the interaction. She points to the chalkboard where the title \"植物的生长\" (Plant Growth) is written, inviting students to engage with the topic.\n\n2. **The Visual Focus Point:**\n   - The focus is on the chalkboard where the teacher has written \"植物的生长\" and the digital screen displaying a slide with questions about plant growth and a diagram of a flower.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - As a student writes on the blackboard, the teacher observes and occasionally points to the student's writing, guiding them to add more details. She writes additional terms like \"茎\" (stem) and \"根\" (root) to scaffold the student's input.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher writes \"通气\" (ventilation) on the board, confirming the student's input. She then gestures towards the completed diagram, ensuring clarity and correctness.\n\n**Middle:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher turns to face the class, making a sweeping gesture with her hand, indicating a transition to the next part of the lesson.\n\n2. **The Visual Focus Point:**\n   - The focus shifts to the digital screen displaying a new slide with questions about seed germination and plant growth stages.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While explaining, the teacher gestures towards the screen, emphasizing key points. She writes \"通气促进生长\" (Ventilation promotes growth) on the board, linking it to the slide content.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher circles the terms on the board, visually confirming their importance. She nods and gestures towards the screen, reinforcing the connection between the board notes and the slide.\n\n**End:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher points to the chalkboard, where the completed diagram is visible, inviting students to reflect on the lesson.\n\n2. **The Visual Focus Point:**\n   - The focus remains on the chalkboard and the digital screen, which now displays a summary of the lesson's key points.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - The teacher gestures towards the screen, summarizing the lesson. She writes additional notes on the board, elaborating on the students' contributions.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher gives a thumbs-up gesture, visually confirming the students' understanding. She points to the completed diagram and the slide, ensuring all key concepts are highlighted and understood.\n\n**Chronological Log of Visual Events:**\n\n1. **Start of Interaction:**\n   - Teacher gestures to the board, pointing to \"植物的生长.\"\n   - Student writes on the board; teacher adds \"茎\" and \"根.\"\n\n2. **Transition:**\n   - Teacher sweeps hand towards the class, indicating a new section.\n   - Focus shifts to the digital slide with seed germination questions.\n\n3. **Explanation:**\n   - Teacher writes \"通气促进生长\" on the board.\n   - Gestures to the screen, emphasizing key points.\n\n4. **Summary:**\n   - Teacher circles terms on the board, confirming their importance.\n   - Nods and gestures towards the screen, reinforcing connections.\n\n5. **Conclusion:**\n   - Teacher gives a thumbs-up, confirming understanding.\n   - Points to the completed diagram and slide, highlighting key concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed the title \"植物的生长\" (Plant Growth) and a diagram of a flower, setting the stage for the lesson. The teacher began by gesturing towards the board, inviting students to participate in constructing the diagram. She pointed to the screen displaying questions about plant growth, signaling the start of an interactive session.\n\nAs the student approached the board, the teacher facilitated by writing additional terms like \"茎\" (stem) and \"根\" (root), guiding the student's input. While the student explained their reasoning, the teacher walked over to the board and jotted down their key terms, ensuring clarity and accuracy. She occasionally pointed to the screen, linking the student's contributions to the digital content.\n\nTo validate the student's work, the teacher gave a distinct nod and circled the completed diagram on the board. She then drew arrows connecting the student's additions back to the main concepts discussed earlier, reinforcing the lesson's core ideas.\n\nFinally, the teacher summarized the key points, using gestures to highlight the importance of each term. She connected the student's active participation to the broader lesson, helping them move from passive reception to active construction of their understanding. This visual orchestration ensured that students not only received information but also engaged deeply with the material, fostering a collaborative learning environment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Plant Growth",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Stem",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Root",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Ventilation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Growth Promotion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Seed Germination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Plant Growth Stages",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c8",
+        "label": "Pollination",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c9",
+        "label": "Fruit Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "c10",
+        "label": "Reproductive Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[316.58 -> 439.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Plant Growth Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating plant growth phases",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Seed Germination Questions Slide",
+        "type": "Visual",
+        "original_text": "Slide with questions about seed germination",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Completed Fruit Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of fruit structure",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visual representation of plant growth principles."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displaying part of the plant anatomy."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Showing the foundational structure of plant anatomy."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Ventilation is crucial for growth promotion."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide content focuses on concepts of seed development."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Highlights different stages in plant growth."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Pollination is part of fruit structure development."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Fruit structure encompasses reproductive elements."
+      },
+      {
+        "source": "c10",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Diagram shows reproductive structures of the fruit."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages exploration of seed germination processes."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Initiates discussion about fruit anatomy and function."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Summarizes the role of ventilation visually."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Final visual synthesis of plant growth concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

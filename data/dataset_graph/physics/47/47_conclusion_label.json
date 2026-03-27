@@ -1,0 +1,127 @@
+{
+  "video_name": "47_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Be able to recall and accurately state the basic content of the left‑hand rule; understand the differences in the motion directions of positive charges and electrons in a magnetic field; be able to correctly determine the direction of the Lorentz force in specific problems.",
+  "transcript": "[696.388967 -> 707.92] 我们刚刚说我们洛伦兹利的左手定则四指指向的是什么呀正电荷的移动方向但我们的电子数是什么带负电的那此时它的运动方向是跟我们正电荷的运动方向吗相反的那于是我们在判断它的时候就需要做一个方向的调转我们来看到这样一个例子还是伸出我们的左手看到这个磁场由N级指向S级那也就是从外往里那此时正面后的移动方向还是这个方向吗不是我们需要调转过来向左那此时它的洛伦斯里方向是向下的跟我们刚刚观察到的实验结果是一样的那掌握了如何判断洛伦兹利的方向我们就来尝试一下做两道小小的立体来判断一下洛伦兹利的方向。\n[708.94 -> 747.1] 首先这个叉意味着是由外指向里那我们伸出左手由外指向里四指指向正边壳的移动方向是向右的那他所说到的洛伦兹利的方向就是向上的很好那么以上呢我们就学习了洛伦兹利的定义以及如何用左手定则判断洛伦兹利的方向那根据这个三要素我们还需要知道一个洛伦兹利的矮大小是怎么计算的那这个问题我们就留到下一节课再来探究以上就是我的模拟试讲。\n[753.68 -> 756.36] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram illustrating the effect of a magnetic field on moving charges. The diagram includes a rectangular box with arrows indicating the direction of the magnetic field ($\\vec{B}$) and the force ($\\vec{F}$) acting on charges. The charges are represented by circles with arrows indicating their movement.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard features the following key elements:\n     - Diagram with moving charges and forces.\n     - Labels: $\\vec{B}$ for the magnetic field, $\\vec{F}$ for the force.\n     - Arrows indicating the direction of charge movement and force.\n   - The screen displays a slide titled \"三、洛伦兹力的方向\" (Direction of the Lorentz Force), with diagrams showing charge movement and force direction.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the direction of the magnetic field ($\\vec{B}$) and the force ($\\vec{F}$) on the charges.\n   - The teacher gestures towards the screen, emphasizing the diagrams that illustrate the direction of the Lorentz force.\n   - The teacher circles the area on the blackboard where the force direction is indicated, reinforcing the concept visually.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content through the diagrams and explanations on the blackboard and screen.",
+  "visual_narrative": "The lesson concludes with a diagram on the blackboard centered on the effect of a magnetic field on moving charges. The teacher visually reviews the content by pointing to the direction of the magnetic field ($\\vec{B}$) and the force ($\\vec{F}$) on the charges, tracing the arrows to illustrate their interaction. The screen displays a slide titled \"三、洛伦兹力的方向\" (Direction of the Lorentz Force), with diagrams reinforcing the concepts. The teacher circles the area indicating the force direction, emphasizing this core takeaway. There is no visual indication of homework or next steps in the frames provided, focusing solely on the summary of the current lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Lorentz Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.38 -> 747.10]"
+      },
+      {
+        "id": "c2",
+        "label": "Left-Hand Rule",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[696.38 -> 747.10]"
+      },
+      {
+        "id": "c3",
+        "label": "Magnetic Field Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.38 -> 747.10]"
+      },
+      {
+        "id": "c4",
+        "label": "Positive Charge Movement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.38 -> 747.10]"
+      },
+      {
+        "id": "c5",
+        "label": "Electron Movement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.38 -> 747.10]"
+      },
+      {
+        "id": "c6",
+        "label": "Force Direction Adjustment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[696.38 -> 747.10]"
+      },
+      {
+        "id": "c7",
+        "label": "Lorentz Force Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[747.10 -> 753.68]"
+      },
+      {
+        "id": "v1",
+        "label": "Magnetic Field Effect Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating magnetic field affecting moving charges",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Direction of Lorentz Force Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying the direction of the Lorentz force",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The diagram visually represents the concept of the Lorentz Force."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The procedure of force direction adjustment is demonstrated on the blackboard diagram."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The slide provides scaffolding by outlining steps for calculating Lorentz Force."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Adjusting the force direction evolves from understanding the Left-Hand Rule."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The direction of the magnetic field is emphasized in the diagram."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Electron movement direction builds upon the opposite direction of positive charges."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Calculating Lorentz Force includes understanding its definition and direction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

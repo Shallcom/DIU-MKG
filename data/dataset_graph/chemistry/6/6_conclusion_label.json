@@ -1,0 +1,146 @@
+{
+  "video_name": "6_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the operating principle of a galvanic cell; master the constituent elements of a galvanic cell; be able to apply the learned knowledge to design a simple galvanic cell device.",
+  "transcript": "[578.56 -> 637.16] 再观察一下相关的什么现象首先看第一个实验芯片铜片同时插在硫酸当中电流表会发生偏转吗会那么芯上面发生的反应是什么呢芯芯是不是比较活泼的所以容易失电子生失氧失电子化合价升高发生氧化反应变成了锌离子那么铜片呢铜片铜是比较不活泼的那么它本身是不能够发生反应的只能够通过硫酸中的这个锌附着在上面的这个锌锌离子失去得到电子化合价降低发生还原反应那么同样推理一下第二个反应的实验现象来这位同学对指针会发生偏转那么芯片上发生什么反应呢氧化反应变成对石墨棒上发生什么反应对因为石墨棒是惰性电极也是不反应的对吧很好请坐这位同学已经这一个反应的实验现象以及相关解释那么我们来看第三个实验呢第三个实验是否会发生偏转呢同学你思考一下同学可能也会发生偏转使它们发生偏转的这一个氧化还原反应都是电子体现在什么方面呢。\n[638.78 -> 680.86] 对这里是否会发生氧化还原反应呢没有电子的得失对没有所以指针能发生偏转吗对很好请坐这里因为没有发生氧化还原反应没有电子的转移所以指针不发生偏转好了通过刚才的实验啊我们已经能够做出这个总结出原电池的工作原理以及构成要素那么请同学们一起来紧接归纳一下工作原理需要什么呀。\n[682.0 -> 696.5] 需要有氧化反应以及还原反应它们相结合然后会有阴阳离子的自由移动然后通过导线连接呢。\n[698.14 -> 726.74] 对形成并合回路电子能够定向的移动然后就形成了电流电流表得以偏转原电池得以工作这个就是原电池的工作原理那么我们来看构成要素通过它的工作原理我们来推导它的工作要素氧化还原反应是怎么来的是电极材料与电解质溶液分别发生的反应了。\n[728.14 -> 744.88] 好那么课后作业就是从实验安全和科学实验科学的角度进行思考并完成讨论二今天的课堂到此结束谢谢大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a table with multiple columns and rows, organized to compare different data points or concepts. The layout includes headings at the top of each column and numerical data within the cells.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains several headings in Chinese, with numerical data in red and black. The main keywords and headings visible include:\n     - Column headings: \"名称\" (Name), \"分子式\" (Molecular Formula), \"分子量\" (Molecular Weight), \"密度\" (Density).\n     - Rows with data entries, some highlighted in red, indicating specific values or comparisons.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to different sections of the slide, likely emphasizing key data points or comparisons. Specific gestures include:\n     - Pointing to the column headings to review the categories being compared.\n     - Indicating specific rows or cells with red numbers, possibly highlighting important values or differences.\n     - Gesturing towards the overall table to summarize the main findings or conclusions.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary table, suggesting the conclusion of the lesson without additional assignments visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a comparative table summarizing key data points. The teacher points to each column heading, reviewing the categories such as \"名称\" (Name), \"分子式\" (Molecular Formula), \"分子量\" (Molecular Weight), and \"密度\" (Density). She moves through the rows, emphasizing specific cells with red numbers, likely highlighting critical values or differences. The teacher gestures broadly over the table, reinforcing the overall comparisons and conclusions. No visual homework or next-step instructions are present, focusing solely on the summary table as the core takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Galvanic Cell Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[638.78 -> 737.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Oxidation Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[638.78 -> 737.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Reduction Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[638.78 -> 737.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Flow of Electrons",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.0 -> 696.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Electrode Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.14 -> 726.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Electrolyte Solution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.14 -> 726.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Zinc Ions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[578.56 -> 637.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Copper Inertness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[578.56 -> 637.16]"
+      },
+      {
+        "id": "c9",
+        "label": "Red Numbers on Slide",
+        "type": "Visual",
+        "original_text": "Highlighted important values or differences.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Column Headings on Slide",
+        "type": "Visual",
+        "original_text": "Includes headings: Name, Molecular Formula, Molecular Weight, Density.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The galvanic cell principle involves oxidation reactions."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The galvanic cell principle involves reduction reactions."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Flow of electrons is essential for the working principle of a galvanic cell."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Electrode materials are required components of a galvanic cell."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Electrolyte solutions are necessary for the operation of a galvanic cell."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Zinc ions are part of the electrode materials interaction."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Copper's inertness plays a role in electrode material functionality."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Red numbers on the slide emphasize important data in column headings."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students are prompted to think about the galvanic cell principle."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,171 @@
+{
+  "video_name": "31_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the operating principles of ammeters and voltmeters and their roles in circuits; analyze the characteristics of parallel circuits and their applications in real life; master the basic principles of safe circuit operation.",
+  "transcript": "[125.14 -> 220.16] 下面开始我的模拟授课上课同学们好请坐在正式上课之前同学们请看一个小照片那在我们的日常生活中我们都有发现过都有经历过这种情况就是在我们学习生活的时候突然家里断电了那这个时候有可能是我们的用电器伤了导致我们的这个用电器电路导致我们的家庭电路跳闸了那此时同学们有没有什么解决方法呢那我们是要直接去进行用电路的连接吗这样做是不是有一定的风险性那如果我们家里有电流表或者电压器那可以用这个电流表和电压表先进行测量一下然后保证这个电路是安全的再进行核炸那在初中的时候我们学过电流表和电压表在这个过程中我们只是宏观地了解了一下它的特点并没有从微观进行解释那本节课我们就从微观层面来了解一下电流表及电压表的构造请同学们翻开书第七十页让我们一起走进第十一章第四节并联电路串联电路与并联电路的组织。\n[239.72 -> 242.8] 在前面的学习中我们已经了解过了。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the front of the classroom, with a presentation slide displayed on the screen to the left. The slide reads \"第十一章 第四节 串联电路和并联电路\" (Chapter 11, Section 4: Series and Parallel Circuits).\n- The teacher gestures towards the screen, indicating the start of the lesson on circuit types.\n\n**Middle:**\n- The slide changes to show an image of a computer monitor with the text \"电路瞬间\" (Circuit Instant).\n- The teacher stands in front of the screen, explaining the concept of circuit moments.\n- The teacher uses hand gestures to emphasize points, occasionally pointing to the image on the screen.\n\n**End:**\n- The teacher turns to the blackboard and writes \"5.14\" followed by \"用电器的研\" (Research on Electrical Appliances).\n- The teacher continues writing on the blackboard, adding more text to the initial phrase.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the presentation slide showing the computer monitor image with the text \"电路瞬间\" (Circuit Instant). This slide remains static during the middle phase of the video.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"5.14 用电器的研\" on the blackboard while explaining the topic. This indicates the start of a new section or example related to electrical appliances.\n   - **Modifications**: No erasures or modifications are observed; the teacher only adds content to the blackboard.\n   - **Deictic Gestures**: The teacher points to the image of the computer monitor on the screen while explaining, linking the visual to the lecture content.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses the white chalk to write on the blackboard, creating a clear visual distinction from the green background.\n   - The teacher's gestures towards the screen emphasize the importance of the image and its relation to the lecture topic.\n\n**Chronological Log of Visual Events:**\n\n1. **Initial Slide**: The teacher begins with the slide titled \"第十一章 第四节 串联电路和并联电路\" (Chapter 11, Section 4: Series and Parallel Circuits).\n2. **Image Display**: The slide transitions to show a computer monitor with the text \"电路瞬间\" (Circuit Instant).\n3. **Explanation**: The teacher explains the concept, gesturing towards the monitor image.\n4. **Blackboard Writing**: The teacher writes \"5.14 用电器的研\" on the blackboard, indicating a new section or example.\n5. **Continued Writing**: Additional text is added to the blackboard, expanding on the initial phrase.\n\nThis structured visual evolution links the teacher's actions directly to the content displayed on both the screen and the blackboard, providing a clear narrative of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"第十一章 第四节 串联电路和并联电路\" (Chapter 11, Section 4: Series and Parallel Circuits), establishing the foundational topic for the lesson. The teacher began by gesturing towards this slide, setting the stage for the discussion on circuit types. The scene then transitioned to a new slide featuring an image of a computer monitor with the text \"电路瞬间\" (Circuit Instant), serving as the primary visual anchor for the subsequent explanation.\n\nAs the lecture progressed, the teacher constructed the concept of circuit moments by pointing to the monitor image, tracing its relevance to the lecture topic. The teacher's gestures towards the screen emphasized the importance of understanding instantaneous circuit behavior, linking the visual representation to the theoretical explanation.\n\nFinally, the teacher moved to the blackboard, where they wrote \"5.14 用电器的研\" (Research on Electrical Appliances), constructing a new section or example. The teacher continued to annotate the blackboard, adding details to this initial phrase, thereby deriving a more comprehensive understanding of electrical appliances within the context of circuits. Throughout this process, the teacher's use of white chalk on the green blackboard created a clear visual distinction, aiding in the cognitive processing of the information.\n\nTo resolve deixis, the teacher traced the image of the computer monitor on the screen, illustrating the practical application of circuit theory. The teacher's deliberate gestures towards specific parts of the image helped students visualize the concepts being discussed, reducing cognitive load by aligning visual and verbal information cohesively.\n\nThe teacher's strategic use of visual highlighting, such as writing key phrases on the blackboard and pointing to specific elements on the screen, reinforced the critical aspects of the lesson. This methodical approach ensured that the visual information from both the presentation slides and the blackboard worked synergistically, facilitating a structured and comprehensible delivery of knowledge. The final emphasis on the blackboard annotations circled the core concepts, ensuring students grasped the essential elements of the lecture.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Series Circuits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Parallel Circuits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Ammeters",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Voltmeters",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Circuit Safety",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Circuit Moments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Electrical Appliances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "c8",
+        "label": "Instantaneous Circuit Behavior",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.14 -> 239.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Series and Parallel Circuits",
+        "type": "Visual",
+        "original_text": "Chapter 11, Section 4: Series and Parallel Circuits",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Circuit Instant",
+        "type": "Visual",
+        "original_text": "Circuit Instant",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Writing: 5.14 Research on Electrical Appliances",
+        "type": "Visual",
+        "original_text": "5.14 Research on Electrical Appliances",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Ammeters are essential for understanding circuit safety."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Voltmeters play a role in maintaining circuit safety."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Understanding series circuits aids in comprehending circuit moments."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Parallel circuits are fundamental to grasping circuit moments."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Circuit moments lead to understanding instantaneous circuit behavior."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Research on electrical appliances expands on the concept of circuit moments."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the concept of series circuits."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the concept of parallel circuits."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the importance of circuit moments."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Blackboard writing highlights focus on electrical appliances."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Student engagement centers around series circuits discussion."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "guides_discussion",
+        "intent": "Student engagement centers around parallel circuits discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

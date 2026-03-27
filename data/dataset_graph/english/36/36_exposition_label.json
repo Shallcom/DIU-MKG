@@ -1,0 +1,118 @@
+{
+  "video_name": "36_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of cultural traditions in English learning; be able to express, in English during group discussions, one’s views on protecting national culture; analyze specific measures for preserving traditional culture across different cultural backgrounds.",
+  "transcript": "[173.36485825 -> 274.38] 这边的一边的一边的一边的去反映的表演的这些节目是很重要的一件事的了的了请让我开始课课我现在就开始了所以男孩们女孩们刚才我们谈论了我们在这个组里学到的什么对吧关于文化传统特尔卡斯贝克去可以去看你看的爱听听我爱问给的我门面就是听的是瑞典的听了会会跟他们的名爱的奥比斯瑞兵的听听拉斯克的还没决定呀想我什么样的啊这三点一下到的我好吧那时候那种那种那这些词把他们放在这些盒子里面好三分钟给你们来吧。\n[300.0 -> 346.7297165] be proudtoandkeepthebalancepreventfromdonatesomethingthingtoandleadtotakepartinmakesureandturntogoodandhowaboutthisbookwhocantry是的好的非常好谢谢你你同意吗是的所以现在我有另一个任务给你做第一我希望你能在群体上一起讨论这个问题什么可以教授和学生做来改善年轻人的兴趣在保护国家文化然后想想你的意见如何学习文化你的意见关于你的角色在保护你的文化的角色上的影响吗现在我给您三分钟时间请您开始讨论您的讨论。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"Quick reading\" with the question \"What is the main idea of this reading material?\" The slide contains a block of text.\n- The teacher holds papers and gestures towards the text on the screen, likely emphasizing key points within the passage.\n- Students are seated, facing the screen, with one student turning to interact with another.\n\n**Middle:**\n- The teacher continues to engage with the students, pointing at specific parts of the text on the screen. Her finger traces along the text, indicating areas of focus.\n- A student in a dark sweater approaches the teacher, possibly to ask a question or seek clarification.\n- The teacher's gestures shift to broader movements, possibly summarizing the main idea discussed.\n\n**End:**\n- The screen transitions to a new slide titled \"Blank-filling\" with instructions: \"Complete the phrases in the table and then fill them in blanks.\"\n- The teacher points to the table on the slide, highlighting the structure and guiding students on how to complete the task.\n- She holds a marker and paper, occasionally looking at the students to ensure understanding.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying educational content. Initially, it shows a text passage for quick reading comprehension. Later, it transitions to a table for a blank-filling exercise.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis by pointing to specific sentences and phrases within the text during the quick reading phase. In the blank-filling phase, she highlights the table structure.\n- **Modifications**: The teacher does not erase or modify the content on the screen but uses gestures to guide attention.\n- **Deictic Gestures**: When the teacher says \"this\" or \"here,\" she points directly at the text or table on the screen, ensuring students focus on the relevant sections.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses her finger to trace and circle important parts of the text during the quick reading section.\n- In the blank-filling exercise, she emphasizes the table by pointing to different columns and rows, ensuring students understand the task structure.\n- The teacher's gestures and positioning in front of the screen serve as visual cues to direct student attention.\n\nThis structured approach ensures that visual elements and teacher actions are clearly linked, providing a detailed understanding of the classroom interaction.",
+  "visual_narrative": "Initially, the digital screen displayed a \"Quick reading\" slide with a block of text and the question, \"What is the main idea of this reading material?\" The teacher engaged students by tracing key sentences within the text, emphasizing critical points. As the lecture progressed, she constructed understanding by pointing to specific phrases, guiding students to identify the main idea. A student approached for clarification, and the teacher adjusted her gestures to ensure comprehension. \n\nThen, the screen transitioned to a \"Blank-filling\" exercise, presenting a table with phrases to complete. The teacher derived the task's structure by pointing to different columns and rows, instructing students on how to fill in the blanks. She annotated the process by highlighting the table's layout, ensuring students understood the relationship between phrases and blanks. \n\nFinally, she circulated around the classroom, monitoring student progress and providing individual guidance. Visual emphasis was achieved by circling important sections on the screen and using deliberate gestures to align with verbal instructions, reducing cognitive load by clearly linking spoken content with visual cues. This structured approach facilitated a smooth transition from comprehension to application, ensuring students grasped both the main idea and the task requirements.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultural Traditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.36 -> 274.38]"
+      },
+      {
+        "id": "c2",
+        "label": "English Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.36 -> 274.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Protecting National Culture",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[300.0 -> 346.73]"
+      },
+      {
+        "id": "c4",
+        "label": "Group Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[300.0 -> 346.73]"
+      },
+      {
+        "id": "c5",
+        "label": "Quick Reading Slide",
+        "type": "Visual",
+        "original_text": "Slide with text for reading comprehension",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Blank-Filling Slide",
+        "type": "Visual",
+        "original_text": "Slide with table for filling blanks",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "s3",
+        "label": "Student Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "s4",
+        "label": "Student Collaboration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding cultural traditions supports English learning."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "The process of protecting national culture comes from understanding cultural traditions."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The quick reading slide aids student understanding."
+      },
+      {
+        "source": "c6",
+        "target": "s4",
+        "relation": "visualizes",
+        "intent": "The blank-filling slide supports student collaboration."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Student questioning encourages group discussion."
+      },
+      {
+        "source": "s3",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Brainstorming leads to effective group discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

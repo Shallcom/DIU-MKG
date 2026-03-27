@@ -1,0 +1,157 @@
+{
+  "video_name": "45_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "- Be able to explain why microorganisms are the preferred subjects for genetic engineering research.  \n- Be able to describe specific examples of genetic engineering applications in microorganisms.",
+  "transcript": "[149.0 -> 168.88] 好请坐这位同学他认为是健康安全的但是不能合理地运用生物学知识来解决那么希望学完这节课同学们可以用生物学知识来解决这一问题请同学们阅读本节课的教学目标\n[179.0 -> 219.74] 好那么我们转词音它是应用于生物中我们生物又可以分为微生物动物和植物然而转基因最先却是在微生物中发现的大家想一下这是为什么呢因为它的结构简单\n[238.0 -> 241.42] 那还有呢大家可以从遗传物质的角度想一想\n[245.8 -> 258.98] 来这位同学大声一点嗯非常好请坐那它的繁殖呢一个小小的细胞但它的分裂是非常的快的\n[262.92 -> 269.76] 还有同学要补充吗对对环境因素敏感非常仔细\n[283.16 -> 290.04] 那么既然微生物有这些特点那它在转基因技术上又有怎样的应用呢\n[291.58 -> 296.42] 我们在之前学过了发酵技术在发酵的时候应用到了什么呀\n[298.0 -> 301.42] 同学们仔细阅读一下课本给老师答案\n[311.76 -> 386.02] 我们请这位同学就是撒娇的时候用到的酱母菌酱母菌可以生成什么生辰生辰那个那个究竟应该吧那在中间呢仔细阅读一下课本请坐有同学愿意来帮帮这位同学吗这位同学用基因工程来改造了这个酵母基因使它能够更好的应用于脊梗肠嗯非常好请坐那除了我们在啤酒上的利用还有呢基因工程是不是也可以用于我们的制药那么据数据数据报道截至二零一四年我国的制药产业应用在基因工程上已经超过了二点四亿元而转基因植物的研究更是同样的令人兴奋同学们吃过什么转基转基因植物呢食物也是属于植物的一种",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a blackboard and a digital screen displaying a slide titled \"转基因产品的安全性\" (Safety of Genetically Modified Products).\n- The blackboard initially has the title \"转基因产品的安全性\" written in white chalk.\n- The teacher gestures towards the screen, which shows an image of a plant in a pot with the text \"在几百年后\" (In a few hundred years).\n\n**Middle:**\n- The teacher writes additional content on the blackboard, including \"绵羊、鼠、猴——一般性状\" (Sheep, mice, monkeys - general traits) and \"猪\" (Pig).\n- The digital screen changes to show a flowchart labeled \"转基因结果\" (Genetic Modification Results) with categories: \"动物\" (Animals), \"植物\" (Plants), and \"微生物\" (Microorganisms).\n- The teacher points to different sections of the flowchart while explaining, using hand gestures to emphasize points.\n\n**End:**\n- The teacher adds more text to the blackboard, including \"水牛\" (Water buffalo).\n- The screen displays a question in red text: \"转基因的抗病毒水稻 有怎样的应用呢？\" (What are the applications of genetically modified virus-resistant rice?).\n- The teacher uses a pointer to highlight specific parts of the slide while discussing the applications.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the blackboard with the title \"转基因产品的安全性\" and the list of animals and traits.\n   - The digital screen serves as a secondary anchor, displaying diagrams and questions related to genetic modification.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"绵羊、鼠、猴——一般性状\" and \"猪\" on the blackboard while explaining the traits of genetically modified animals.\n   - **Modifications**: The teacher updates the screen content to show different diagrams and questions, enhancing the discussion.\n   - **Deictic Gestures**: The teacher points to \"动物\" on the flowchart while discussing animal genetic modification and to the question about rice applications.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses red text on the screen to highlight the question about genetically modified rice.\n   - Important terms on the blackboard are written in white chalk, maintaining focus on the main concepts.\n   - The teacher's gestures and pointer movements direct attention to key areas of the diagrams and text.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the board and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"转基因产品的安全性\" alongside a digital screen presenting an image of a plant with the text \"在几百年后.\" The teacher began by constructing a foundational understanding of genetically modified organisms, writing \"绵羊、鼠、猴——一般性状\" and \"猪\" on the blackboard to illustrate examples of modified animals and their traits. \n\nThen, the teacher gave a lecture, transitioning the screen to a flowchart labeled \"转基因结果\" with categories \"动物,\" \"植物,\" and \"微生物.\" The teacher derived insights by pointing to each category, tracing the connections between different organisms and their genetic modifications. Annotating the blackboard with additional terms like \"水牛,\" the teacher expanded the discussion on diverse applications.\n\nFinally, the teacher circled back to the screen, which highlighted a critical question in red: \"转基因的抗病毒水稻 有怎样的应用呢？\" Using a pointer, the teacher emphasized this query, aligning it with the broader implications of genetic modification. The visual strategy of using red text and structured diagrams reduced cognitive load, allowing students to focus on key concepts. The teacher's gestures and annotations effectively linked each visual element to the evolving narrative, ensuring a cohesive understanding of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Microorganism Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.0 -> 219.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Genetic Engineering Applications",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[283.16 -> 290.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Virus-resistant Rice",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[311.76 -> 386.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Rapid Microbial Reproduction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[245.8 -> 258.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Environmental Sensitivity of Microorganisms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[262.92 -> 269.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Yeast Genetic Modification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[311.76 -> 386.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Transgenic Animal Traits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[149.0 -> 168.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Safety of Genetically Modified Products Slide",
+        "type": "Visual",
+        "original_text": "Safety of Genetically Modified Products Slide",
+        "ocr_corrected": true,
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "v2",
+        "label": "Genetic Modification Results Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart with categories Animals, Plants, Microorganisms",
+        "ocr_corrected": true,
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "v3",
+        "label": "Virus-resistant Rice Question Slide",
+        "type": "Visual",
+        "original_text": "What are the applications of genetically modified virus-resistant rice?",
+        "ocr_corrected": true,
+        "timestamp": "[End]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[245.8 -> 258.98]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[311.76 -> 386.02]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains the preferred choice of microorganisms in genetic engineering."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Demonstrates an application of genetic engineering on virus-resistant rice."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Illustrates unique genes that support rapid reproduction in microorganisms."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Addresses yeast genetic modification as an application of genetic engineering principles."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher builds upon safety concerns by introducing genetic modification categories."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "Flowchart highlights transgenic animal traits from the blackboard discussion."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Slide highlights a question on applications of genetically modified rice."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Student answers support understanding of rapid reproduction in microorganisms."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Student engagement allows for discussion of genetic modifications in yeast."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "8_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Be able to analyze the physical significance of diffusion phenomena.",
+  "transcript": "[213.1 -> 237.76] 花香是如何被我们拿到的呢首先这是因为花香它这种分子可以进入到我们人的这个鼻子当中通过闻我们就可以从大脑当中知道它是花那么我们常见的物质呢它是由极其微小的粒子分子和原子构成的那么分子和原子它们究竟有多小呢。\n[239.16 -> 393.44] 就比如说我们同学面前的这杯水这杯水它是由什么构成的呢由水分子水分子构成的那么一滴它这个一杯水呢它是由一滴又一滴的这个小水滴构成的那这个小水滴当中有多少的水分子呢如果让全世界的人夜以继日地去水这个处于去数这个水滴当中的水分子我们需要数将近四千年由此可见它这个分子威力是非常小的通常情况下我们把份子看作是球形那么一般份子的直径只有百亿分之几米也就是十的负十方的那么分子它如此的小我们是通过什么样的方法才能观察到这些微粒的呢很显然我们通过肉眼还有光学显微镜是很难以去观察到它们的但是通过电子显微镜我们就可以观察到如同就是我们通过电子显微镜观察金发现了它的这个金元素那构成物质的分子是静止的它是运动的运动者的就比如说同学面前的这个桌子它是由什么构成的呢它就是由这些微粒构成的那静止的桌子它这个微粒是静止的还是运动者的老师构成这个分子它是运动者还是静止的呢那带着这个问题我们就通过实验来进行探究首先我们通过机器品给机器品装入二氧化碳还有空气中间放入一个玻璃板我们先将这个玻璃板抽开发现二氧化碳会扩散上去那么二氧化碳的密度明明比空气大它为什么能够进入到上面的瓶子里去呢这其实就是因为气体分子在进行扩散作用那我们把不同物质在互相接触时彼此进入对方这个现象就叫做扩散现象了。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The initial slide displays the title \"分子热运动\" (Molecular Thermal Motion) with a blue and white color scheme. The blackboard has handwritten text: \"分子半径, 热运动计\" (Molecular radius, thermal motion calculation).\n- **Teacher's Actions**: The teacher stands beside the screen, gesturing towards the title, indicating the start of the topic.\n\n#### Middle\n- **Slide Transition**: The slide changes to show a diagram with two blue water droplets connected by an arrow, accompanied by text explaining the concept of molecular spacing in liquids.\n- **Teacher's Actions**: The teacher points to the droplets, emphasizing the transition from one state to another. She writes on the blackboard: \"一滴水的构成 $10^{-7} \\text{ m}$\" (Composition of a water drop, $10^{-7} \\text{ m}$).\n- **Visual Necessity**: The teacher uses the droplet diagram to illustrate molecular density, highlighting the size difference with the written measurement.\n\n#### End\n- **Slide Change**: The slide updates to a question: \"如果把水分子看成球形, 水的密度是多少?\" (If water molecules are considered spherical, what is the density of water?). A diagram of a spherical molecule appears.\n- **Teacher's Actions**: The teacher gestures towards the question and the spherical diagram, explaining the calculation process. She writes additional notes on the blackboard, linking the diagram to the density concept.\n- **Highlighting Strategy**: The teacher circles key parts of the diagram and uses hand gestures to emphasize the spherical model's relevance to density calculations.\n\n### Knowledge Flow Tracking\n\n1. **Core Artifact (Static)**: The main visual anchor is the series of diagrams illustrating molecular concepts, starting with water droplets and transitioning to a spherical molecular model.\n2. **Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes the molecular radius and density-related calculations on the blackboard while explaining the diagrams.\n   - **Modifications**: The teacher updates the slide content to include questions and diagrams, aligning with the evolving explanation.\n   - **Deictic Gestures**: The teacher points to specific parts of the diagrams (e.g., the arrow between droplets, the spherical model) while discussing molecular transitions and density.\n3. **Highlighting Strategy**: The teacher uses underlining and circling on the blackboard, along with focused gestures, to emphasize critical parts of the diagrams and calculations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"分子热运动\" (Molecular Thermal Motion) with a clean blue and white slide layout. The blackboard featured handwritten notes on molecular radius and thermal motion calculations. The teacher began by gesturing towards the title, establishing the topic's foundation. \n\nThen, the teacher constructed a visual narrative using a slide with two blue water droplets connected by an arrow, accompanied by explanatory text on molecular spacing. She annotated the blackboard with \"一滴水的构成 $10^{-7} \\text{ m}$\" (Composition of a water drop, $10^{-7} \\text{ m}$), linking the diagram to the concept of molecular density. The teacher traced the arrow between the droplets, illustrating the transition and density differences.\n\nAs the lecture progressed, the slide evolved to present a question about water density if molecules are spherical, alongside a spherical molecular diagram. The teacher derived the density calculation, writing additional notes on the blackboard. She emphasized the spherical model by circling it and gesturing towards the question, guiding students through the problem-solving process.\n\nFinally, the teacher resolved the explanation by highlighting key formulas and diagrams, using underlining and focused gestures to reinforce critical concepts. The visual strategy, combining slides and blackboard annotations, reduced cognitive load by providing clear, step-by-step visual cues, ensuring students followed the molecular concepts seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Molecular Thermal Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[213.1 -> 237.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Molecular Radius",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[213.1 -> 237.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Thermal Motion Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[213.1 -> 237.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Molecular Spacing",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[239.16 -> 393.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Water Molecular Composition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[239.16 -> 393.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Spherical Density Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[393.44 -> End]"
+      },
+      {
+        "id": "c7",
+        "label": "Diffusion Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[213.1 -> End]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Molecular Thermal Motion",
+        "type": "Visual",
+        "original_text": "The slide displays the title 'Molecular Thermal Motion'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram: Water Droplets",
+        "type": "Visual",
+        "original_text": "Diagram of two blue water droplets connected by an arrow.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Diagram: Spherical Molecule",
+        "type": "Visual",
+        "original_text": "Diagram of spherical water molecule.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher uses the slide to introduce Molecular Thermal Motion."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram of water droplets is used to explain molecular spacing."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The spherical molecular diagram is used to illustrate density calculation."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The composition of water molecules is linked to the concept of molecular spacing."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Understanding molecular spacing helps explain diffusion phenomena."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The thermal motion calculation includes the concept of molecular radius."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The spherical density calculation includes understanding of diffusion phenomena."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The introduction of molecular thermal motion engages students to think about diffusion."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The concept of diffusion evolves from understanding molecular thermal motion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

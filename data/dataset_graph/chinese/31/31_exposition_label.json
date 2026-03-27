@@ -1,0 +1,120 @@
+{
+  "video_name": "31_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "Identify and explain common logical fallacies; understand the application of the law of uniformity in logical reasoning; analyze the key steps of logical reasoning through examples.",
+  "transcript": "[149.0 -> 220.16] 同学们好刚才我们已经分析了什么是逻辑同学们也跟老师分析了很多生活中有关于逻辑的故事现在老师也给大家分享一个就说有一个村子假乙两户都是种西瓜的假说乙偷了他家的西瓜这时候村长来评判他想了一个办法他怎么证明到底是谁偷了西瓜呢他就让乙你说如果不是你偷的你就把你自家摘的西瓜分成生的和熟的吧那你就照分了当他分完的时候村长马上就说你就是小偷同学们听懂了吗为什么村长能够那么迅速地判断他就是小偷呢是不是如果是你从你自己家地里摘的西瓜你会把生的和熟的都摘下来吗不会吧我们自己家的西瓜只会摘生的吧那这就是逻辑的运用啊我们能不能从中学到一些逻辑判断逻辑谬误的方法呢今天我们一起通过一些例子来进行探究。\n[224.0 -> 229.12] 首先我们完成任务一分析下面的例子学习常见的一些方法。\n[230.12 -> 237.78] 大家都很熟悉这首歌五环之歌这里的五环跟我们北京马路上的五环是同一个五环吗。\n[239.0 -> 248.2] 很显然不是这里犯了什么样的错误呢它前后两个五环的概念怎么样啊混淆了不一致前后概念不一致我们说它违反了统一律好我们接着看第二个例子。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands at a desk with papers, facing a digital screen displaying a slide titled \"逻辑的力量\" (The Power of Logic).\n- The blackboard is initially blank except for the phrase \"逻辑的力量\" written in white chalk.\n- The teacher gestures towards the screen, indicating the start of the presentation.\n\n**Middle:**\n- The teacher moves to the blackboard, writing \"逻辑的力量\" in white chalk, mirroring the slide content.\n- The teacher points to the screen as the slide changes to a new section titled \"二、发现隐藏的逻辑谬误\" (Two, Discover Hidden Logical Fallacies).\n- The teacher uses hand gestures to emphasize points on the slide, which lists examples of logical fallacies.\n\n**End:**\n- The teacher continues to reference the screen, pointing to specific bullet points on the slide.\n- The teacher's gestures direct attention to the text on the screen, highlighting key phrases.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the presentation slides. The initial slide is titled \"逻辑的力量\" with a subtitle indicating the lecture's focus on logical reasoning.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"逻辑的力量\" on the blackboard, reinforcing the slide content.\n- **Modifications**: No erasures or modifications are observed; the focus remains on the screen content.\n- **Deictic Gestures**: The teacher points to specific bullet points on the slide, such as \"发现隐藏的逻辑谬误\" and examples listed below, ensuring students follow along.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the slide, such as circling or underlining text visually.\n- The consistent use of the phrase \"逻辑的力量\" on both the board and screen creates a visual anchor for the lecture's theme.\n\nThis structured approach ensures a clear visual and cognitive connection between the teacher's actions and the content delivery.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed the title \"逻辑的力量\" (The Power of Logic), establishing the lecture's focus on logical reasoning. The blackboard was initially blank except for the same phrase written in white chalk, creating a visual anchor. The teacher began by reinforcing this theme, gesturing towards the screen to introduce the concept.\n\nAs the lecture progressed, the teacher constructed the framework for understanding logical fallacies by pointing to the slide titled \"二、发现隐藏的逻辑谬误\" (Two, Discover Hidden Logical Fallacies). He annotated the key points on the screen, tracing specific examples of fallacies to illustrate their structure and implications. His gestures directed attention to each bullet point, ensuring students followed the logical progression.\n\nFinally, the teacher circled critical phrases on the slide, such as \"逻辑谬误\" (logical fallacies), using emphasis to highlight their significance. This visual strategy, combined with the consistent theme on both the screen and blackboard, reduced cognitive load by maintaining a clear and focused narrative throughout the lecture. The teacher's deliberate annotations and highlighting aligned with the conclusion, reinforcing the core concepts of identifying and understanding logical fallacies.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Logical Fallacies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[149.0 -> 220.16]"
+      },
+      {
+        "id": "concept2",
+        "label": "Law of Uniformity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[239.0 -> 248.2]"
+      },
+      {
+        "id": "concept3",
+        "label": "Judging Logic",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[149.0 -> 220.16]"
+      },
+      {
+        "id": "concept4",
+        "label": "Example: Village Story",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[149.0 -> 220.16]"
+      },
+      {
+        "id": "concept5",
+        "label": "Five Rings Song",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.12 -> 237.78]"
+      },
+      {
+        "id": "concept6",
+        "label": "Concept Inconsistency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[230.12 -> 239.0]"
+      },
+      {
+        "id": "visual1",
+        "label": "Power of Logic Slide",
+        "type": "Visual",
+        "original_text": "The Power of Logic",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual2",
+        "label": "Hidden Logical Fallacies Slide",
+        "type": "Visual",
+        "original_text": "Discover Hidden Logical Fallacies",
+        "ocr_corrected": false
+      },
+      {
+        "id": "student1",
+        "label": "Listening Intently",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept4",
+        "relation": "includes",
+        "intent": "Explains logical fallacies through a concrete example."
+      },
+      {
+        "source": "concept2",
+        "target": "concept6",
+        "relation": "builds_upon",
+        "intent": "Illustrates the principle with examples of inconsistency."
+      },
+      {
+        "source": "concept5",
+        "target": "concept6",
+        "relation": "evolves_from",
+        "intent": "Demonstrates a practical example of concept inconsistency."
+      },
+      {
+        "source": "visual1",
+        "target": "concept1",
+        "relation": "visualizes",
+        "intent": "Introduces the concept of logical reasoning."
+      },
+      {
+        "source": "visual2",
+        "target": "concept1",
+        "relation": "visualizes",
+        "intent": "Highlights examples of logical fallacies."
+      },
+      {
+        "source": "concept1",
+        "target": "visual2",
+        "relation": "scaffolds",
+        "intent": "Provides a structured view of logical fallacies."
+      },
+      {
+        "source": "student1",
+        "target": "concept1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in understanding logical reasoning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

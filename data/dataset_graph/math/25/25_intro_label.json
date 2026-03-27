@@ -1,0 +1,152 @@
+{
+  "video_name": "25_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Master the basic geometric properties of ellipses and their algebraic analysis methods; understand the value of the number‑shape integration concept in analytic geometry.",
+  "transcript": "[0.0 -> 170.98] 思想方法非常的重要并且在之前我的赛课经历当中我讲了椭圆的简单几何性质这一课题在其中我结合了几何划板在重点讲解离心率这一块正如数学家华罗根所说数缺形时少直观形缺数时难入微充分体现了数形结合的重要数学思想并且这一个课题是学生第一次通过代数方法系统性地来研究几何性质尤其也体现了解析几何的重要数学思想在我实习期间我的指导老师在给学生上课的时候通常也会提炼数学思想方法主要体现在教学的组织过程当中让小组进行合作交流并共同探究师生来进行共同的总结老师让学生在脑海里面形成一个大致的框架对于之后解决相同类似的问题有一个更好的解决办法而我今天的课题直线的方程我主要是通过一个实际的具体情境体现了由特殊到一般的一个数学思想方法以上就是我的即兴演讲内容下边进行我的模拟授课上课同学们好请坐假如我们现在把教室的地面看作一个平面现在以老师所站的位置为原点建立一个平面指导坐标系那请同学们能够快速说出第一排第一列以及第二排第三列同学的位置吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a green chalkboard and a digital screen. The initial visual focus is on the chalkboard where the teacher arranges colored magnets vertically. The digital screen displays a slide with text in Chinese, which appears to be part of the lesson introduction.\n\n#### 2. **The Title Event**\n- The title on the digital screen reads \"直线的点\" (Point on a Line). The teacher does not physically write this title but stands in front of it, holding papers, indicating the start of the lesson.\n\n#### 3. **The Objectives**\n- The digital screen later displays a slide with bullet points in Chinese, likely outlining learning objectives or key concepts. The text includes phrases such as \"直线方程\" (Equation of a Line) and \"点斜式\" (Point-Slope Form).\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the digital screen, likely emphasizing points related to the lesson content. There are no specific gestures towards the chalkboard during this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher arranges colored magnets on the chalkboard, creating a vertical sequence. This action sets up a visual element for the lesson.\n- The digital screen shows a slide with the title \"直线的点\" (Point on a Line).\n\n**Middle:**\n- The teacher stands in front of the chalkboard and screen, holding papers. The screen displays the title slide, and the teacher appears to be explaining the content.\n- The teacher gestures towards the screen, possibly highlighting key points or introducing the lesson objectives.\n\n**End:**\n- The screen transitions to a slide with bullet points in Chinese, including terms like \"直线方程\" (Equation of a Line) and \"点斜式\" (Point-Slope Form).\n- The teacher continues to stand in front of the screen, likely elaborating on these concepts.\n\n### Summary\nThe lesson introduction phase involves the teacher using both the chalkboard and digital screen to engage students. The initial arrangement of magnets on the chalkboard serves as a visual hook, while the digital screen provides structured content. The teacher's gestures and positioning emphasize the lesson's focus on linear equations and their forms, setting the stage for further exploration.",
+  "visual_narrative": "Initially, the teacher stands in front of a green chalkboard, arranging a vertical sequence of colored magnets, creating a visual hook to engage students. The digital screen displays the title \"直线的点\" (Point on a Line), setting the initial focus. To bridge to the main topic, the teacher holds papers and gestures towards the screen, emphasizing the introduction of linear equations. The visual focus then shifts to a slide with bullet points, including terms like \"直线方程\" (Equation of a Line) and \"点斜式\" (Point-Slope Form), establishing the lesson's objectives. This transition connects the visual arrangement of magnets to the structured content on the screen, linking the students' existing understanding of sequences to the new concepts of linear equations, preparing them for further exploration of mathematical relationships.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ellipse Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Algebraic Analysis Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Number-Shape Integration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Linear Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Point-Slope Form",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Point on a Line",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Equation of a Line",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 170.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Colored Magnets",
+        "type": "Visual",
+        "original_text": "Teacher arranges colored magnets vertically on the board",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Point on a Line",
+        "type": "Visual",
+        "original_text": "Title slide 'Point on a Line'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Slide: Linear Equation Objectives",
+        "type": "Visual",
+        "original_text": "Slide with bullet points including 'Equation of a Line' and 'Point-Slope Form'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaging with Magnets",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Engaging with Screen Content",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Builds understanding of ellipse properties through algebraic methods."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Integrates number-shape principle with ellipse properties."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Develops point-slope form knowledge from equation of a line."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Understanding a point on a line leads to point-slope form."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Magnets arrange to capture student engagement and relate to sequences."
+      },
+      {
+        "source": "v2",
+        "target": "s2",
+        "relation": "visualizes",
+        "intent": "Title slide engages students with initial topic: Point on a Line."
+      },
+      {
+        "source": "v3",
+        "target": "s2",
+        "relation": "scaffolds",
+        "intent": "Provides structured objectives to guide student focus on linear equations."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Title summarizes concept of a point on a line."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes the main concept: Equation of a Line."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,115 @@
+{
+  "video_name": "25_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the concept and form of the point‑slope equation; master the derivation process of the point‑slope equation and its application methods.",
+  "transcript": "[669.361967 -> 726.84] 也就是什么方程是Y减去Y零是等于K倍的X减去X零的因此我们将这样的方程叫做直线的点斜式方程那点斜式方程我们又如何来运用呢那下面请同学们观看一下这一道例题那这个例题就留到我们下一环节再来探究那么今天我们学习了什么内容呀我们通过生活的情境有什么有那个定我们给出了一个坐标的定值有什么特殊在这个过程当中我们体会了特殊到一般的重要数学思想好我的授课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key formula for the point-slope form of a line. The layout includes:\n     - The title: \"直线的斜截方程\" (Equation of a Line in Slope-Intercept Form).\n     - The formula: $y - y_1 = k(x - x_1)$.\n     - Points labeled: $B(x_1, y_1)$ and $P(x, y)$.\n     - The slope formula: $k = \\frac{y - y_1}{x - x_1}$.\n     - A note indicating a special case: \"特殊定值\" (Special Constant Value).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main formula: $y - y_1 = k(x - x_1)$.\n   - Slope formula: $k = \\frac{y - y_1}{x - x_1}$.\n   - Points: $B(x_1, y_1)$ and $P(x, y)$.\n   - Special case note: \"特殊定值\".\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $y - y_1 = k(x - x_1)$, emphasizing its structure.\n   - The teacher writes \"特殊定值\" on the blackboard, highlighting the special case.\n   - The teacher gestures towards the slope formula $k = \\frac{y - y_1}{x - x_1}$, reinforcing its importance.\n   - The teacher uses a pointer to indicate the points $B(x_1, y_1)$ and $P(x, y)$, explaining their roles in the equation.\n\n4. **Transition to Next Step**:\n   - The screen to the right displays text in Chinese, likely indicating further instructions or the next topic, but specific details are not visible in the frames provided. No explicit homework or assignment details are shown on the blackboard or screen.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the equation of a line in slope-intercept form. The teacher visually reviews the content by pointing to the main formula $y - y_1 = k(x - x_1)$, emphasizing its structure. She writes \"特殊定值\" to highlight a special case, drawing attention to its significance. The teacher gestures towards the slope formula $k = \\frac{y - y_1}{x - x_1}$, reinforcing its importance, and indicates the points $B(x_1, y_1)$ and $P(x, y)$ to clarify their roles. The visual focus remains on the blackboard, with no explicit homework or next-step instructions visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Point-Slope Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.36 -> 726.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Slope Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.36 -> 726.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Application Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[669.36 -> 726.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Special Constant Value",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.36 -> 726.84]"
+      },
+      {
+        "id": "c5",
+        "label": "General to Specific",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.36 -> 726.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Equation Blackboard",
+        "type": "Visual",
+        "original_text": "The blackboard displaying the point-slope equation with annotated points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Points B and P",
+        "type": "Visual",
+        "original_text": "Points B(x1, y1) and P(x, y) marked on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Slope Diagram",
+        "type": "Visual",
+        "original_text": "Visual representation of the slope formula on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[669.36 -> 726.84]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Illustrates the point-slope equation on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Depicts the slope formula visually on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Shows the special constants derived from the point-slope equation."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Utilizes the general principle leading to specific methods of application."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Highlights the points for student understanding."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Application methods are part of the point-slope equation understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

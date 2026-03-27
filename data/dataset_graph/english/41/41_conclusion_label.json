@@ -1,0 +1,132 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Encourage students to express their viewpoints in English in real‑life contexts; cultivate students' awareness of cross‑cultural communication.",
+  "transcript": "[688.16 -> 691.16] 所以谁可以尝试一下吗。\n[695.64 -> 699.26] 用一些有用的表现来表达它吧。\n[705.76 -> 738.4] 所以我不在乎了我会留下来做你的工作啊你知道吗好现在我们回到反映测试的项目了所以现在你可以回答这些问题吗还有我还有一个问题你是否愿意学习不同的语言在世界上呢是的实际上语言是让我们看到世界感受美丽的感觉和享受不同的文化收看我们的视频我们下期见吧。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"Homework.\"\n   - The slide layout includes two main sections:\n     - \"Compare\": Discuss the advantages and disadvantages of different language learning methods.\n     - \"Optional\": Write a short paragraph about your preferred language learning method.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"Homework,\" \"Compare,\" \"Optional.\"\n   - Instructions under \"Compare\": Discuss the pros and cons of various language learning methods.\n   - Instructions under \"Optional\": Write a paragraph about your preferred method.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Compare\" section, emphasizing the discussion of advantages and disadvantages.\n   - The teacher gestures towards the \"Optional\" section, highlighting the writing task.\n   - The teacher uses hand movements to indicate the completion of the lesson and transition to homework.\n\n4. **Transition to Next Step**:\n   - The slide clearly indicates homework tasks, focusing on discussion and writing activities.\n   - No additional visual elements for further reading or next lesson are shown, but the homework instructions serve as the next step for students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Homework,\" featuring two main sections: \"Compare\" and \"Optional.\" The teacher visually wraps up the lesson by pointing to the \"Compare\" section, emphasizing the task to discuss the advantages and disadvantages of different language learning methods. She then gestures towards the \"Optional\" section, highlighting the writing task about preferred learning methods. The teacher's movements through these sections underscore the key activities for homework. No additional visual elements for further reading or the next lesson are shown, with the focus remaining on the homework instructions displayed prominently on the slide.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Language Learning Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.16 -> 738.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Advantages",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.16 -> 738.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Disadvantages",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.16 -> 738.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Cross-Cultural Communication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.76 -> 738.4]"
+      },
+      {
+        "id": "c5",
+        "label": "World Language Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.76 -> 738.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Homework Slide",
+        "type": "Visual",
+        "original_text": "Homework Slide includes sections 'Compare' and 'Optional'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Compare Section",
+        "type": "Visual",
+        "original_text": "Discuss advantages and disadvantages.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Optional Section",
+        "type": "Visual",
+        "original_text": "Write about preferred learning method.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Homework Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Discuss pros and cons of language learning methods."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Discuss pros and cons of language learning methods."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Cross-cultural awareness is part of language learning."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Homework slide summarizes discussion task."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Homework slide outlines writing task."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Visualizes task to discuss advantages."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Visualizes task to discuss disadvantages."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Emphasizes articulation of preferred method."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Visual cue engages students in task."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

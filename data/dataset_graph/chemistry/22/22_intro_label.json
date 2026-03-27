@@ -1,0 +1,152 @@
+{
+  "video_name": "22_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Develop students’ ability to identify problems, formulate hypotheses, and design experiments; cultivate students’ scientific attitude and sense of social responsibility.",
+  "transcript": "[0.0 -> 50.4] 化学是一门以实验为基础的学科在化学教学中可以培养学生的科学素养在化学课堂中实验占大部分可以通过引导学生发现问题提出猜想设计实验得出结论发展学生的科学探究能力。\n[51.52 -> 102.52] 同时还可以让学生掌握科学探究的一般步骤培养学生的科学态度其次在课堂中化学还可以培养学生的德育在课堂中我们可以引入化学史的知识以及一些科学家的先进事迹让学生了解化学在社会生产以及生活方面的伟大成就发展学生的科学态度与社会责任最后还可以培养学生的逻辑推理能力和小组合作能力老师在课堂中可以利用问题情境的导入方式培养学生发泄问题进而解决问题同时课堂中的实验探究也可以培养学生的小组合作能力。\n[103.52 -> 125.5] 作为新时代的青年教师我会倾尽我的所学教书育人帮助学生筑梦追梦圆梦让一代代年轻人都成为实现我们中华民族伟大复兴的先锋力量我的即席演讲到此结束接下来开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide contains text in Chinese, with the prominent title \"乙醇\" (Ethanol).\n\n#### 2. **The Title Event**\n- The title \"乙醇\" is displayed on the screen. The teacher does not write it on the board but stands in front of the screen, emphasizing the title through her position and gestures.\n\n#### 3. **The Objectives**\n- The slide includes additional text below the title, which appears to outline the lesson's focus: \"高中化学人教版必修二第三章第三节第一课时\" (High School Chemistry, People's Education Edition, Volume 2, Chapter 3, Section 3, First Class Period). Specific learning objectives are not explicitly listed as bullet points.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely to emphasize points related to the content displayed.\n- She stands centrally in front of the screen, maintaining eye contact with the students, which suggests engagement with the material presented.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is initially seen writing or adjusting something on the green chalkboard. The screen displays the title \"乙醇\" and additional lesson context.\n- The teacher moves away from the board and stands in front of the screen, holding papers.\n\n**Middle:**\n- The teacher remains stationary in front of the screen, occasionally glancing at the papers in her hand. She uses subtle gestures to direct attention to the screen content.\n- The screen content remains unchanged, focusing on the title and lesson context.\n\n**End:**\n- The teacher continues to engage with the students, maintaining her position in front of the screen. No additional writing or significant gestures are observed.\n- The visual focus remains on the screen's content, with the teacher acting as a guide to the presented material.\n\n### Summary\nThe introduction phase centers around the slide titled \"乙醇,\" with the teacher using her position and subtle gestures to emphasize the lesson's focus. The screen content provides context for the lesson, and the teacher's actions are primarily aimed at engaging the students with the material displayed.",
+  "visual_narrative": "The introduction phase begins with the teacher positioned in front of a green chalkboard, transitioning to a slide displayed on the screen titled \"乙醇.\" The initial visual stimulus, the slide, sets the stage for the lesson on ethanol. The teacher, holding papers, stands centrally before the screen, using her position to emphasize the lesson's focus. The slide remains static, displaying the title and lesson context, \"高中化学人教版必修二第三章第三节第一课时.\" Throughout the introduction, the teacher engages with the students through subtle gestures and eye contact, directing attention to the screen content without altering it. This visual setup bridges the hook to the main topic by maintaining focus on the ethanol theme, preparing students for a structured exploration of the subject. The introduction effectively links the new topic to the students' existing chemistry knowledge, setting a clear foundation for the forthcoming detailed study of ethanol.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Ethanol Title Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying the title 'Ethanol'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Context Slide",
+        "type": "Visual",
+        "original_text": "Slide with lesson context: 'High School Chemistry, People's Education Edition, Volume 2, Chapter 3, Section 3, First Class Period.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Ethanol",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 50.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Scientific Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[51.52 -> 102.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Social Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[51.52 -> 102.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Problem Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 50.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Hypothesis Formulation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 50.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Experiment Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 50.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[51.52 -> 102.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Chemical Experimentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 50.4]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of ethanol is visually presented on the slide."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Social responsibility is part of developing a scientific attitude."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Formulating hypotheses builds upon identifying problems."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Designing experiments builds from formulating hypotheses."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Scientific attitude includes principles of scientific inquiry."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Chemical experimentation builds upon principles of scientific inquiry."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Lesson context emphasizes procedures like problem identification."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Lesson context emphasizes procedures like hypothesis formulation."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Lesson context emphasizes procedures like experiment design."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "student_cognitive",
+        "intent": "Students are engaged with the ethanol topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

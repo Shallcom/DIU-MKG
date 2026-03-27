@@ -1,0 +1,198 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic propagation characteristics of electromagnetic waves; master the relationship among wavelength, frequency, and speed in electromagnetic waves.",
+  "transcript": "[560.853567 -> 595.04] 那么电磁波在水波中我们将凸起的最高处称为波峰凹下的最低处叫为波谷那么同样在水波中有波速波长与频率之间的关系C等于F那么在电磁波中我们可以类比水波也可以得到其在真空中的速度并且其在真空中的速度等于三乘以十的八次方米每秒那么我们根据公式知道它一定的知道在真空中的波速然后知道一定的就可以求另一个值这是我们在数学这是我们在物理应用中的一些。\n[596.96 -> 616.64] 那么对于电磁波究竟有着怎样的应用它在传输信号时是运用到了电磁波的哪些功能并且它是否具有能量等一系列的问题我们在下节课再进行一起探讨好这节课我们就上到这里好。\n[618.6 -> 620.84] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the left side of the classroom. It displays a slide titled \"学习新知\" (Learning New Knowledge) with a section labeled \"电磁波谱\" (Electromagnetic Spectrum).\n   - The slide includes a diagram of the electromagnetic spectrum with various regions highlighted, such as radio waves, microwaves, infrared, visible light, ultraviolet, X-rays, and gamma rays.\n   - The overall layout is structured with a title at the top, a descriptive paragraph below, and a horizontal spectrum diagram beneath the text.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the heading \"电磁波谱\" (Electromagnetic Spectrum).\n   - A descriptive paragraph explains the electromagnetic spectrum and its components.\n   - The electromagnetic spectrum diagram shows different regions with labels indicating their positions and relative wavelengths.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the electromagnetic spectrum diagram, likely pointing out specific regions such as visible light and radio waves.\n   - The teacher uses hand movements to emphasize the continuity and order of the spectrum, possibly tracing along the diagram to illustrate the transition from one region to another.\n   - The teacher holds papers and occasionally looks at the screen, indicating a review of the key points displayed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or blackboard in the provided frames.\n   - The blackboard on the right remains with the text \"为什么电磁波的发现及应用\" (Why the Discovery and Application of Electromagnetic Waves), suggesting a thematic continuity for the next session or further discussion.\n\nThis structured visual summary consolidates the lesson's focus on the electromagnetic spectrum, with the teacher's gestures reinforcing the key concepts displayed on the screen.",
+  "visual_narrative": "The lesson concludes with a slide centered on the electromagnetic spectrum. The teacher visually reviews the content by pointing to different regions of the spectrum diagram, emphasizing the transitions between various types of waves. The focus remains on the continuity and order of the spectrum, with the teacher gesturing along the diagram to highlight key areas. There is no explicit visual handover to homework or next steps, maintaining the thematic focus on the electromagnetic spectrum as the core takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Spectrum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Radio Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Microwaves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Infrared",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Visible Light",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Ultraviolet",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c7",
+        "label": "X-rays",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Gamma Rays",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c9",
+        "label": "Wavelength",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c10",
+        "label": "Frequency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c11",
+        "label": "Wave Speed",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c12",
+        "label": "Speed Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[560.85 -> 595.04]"
+      },
+      {
+        "id": "c13",
+        "label": "Slide: Learning New Knowledge",
+        "type": "Visual",
+        "original_text": "Slide titled 'Learning New Knowledge' with electromagnetic spectrum diagram.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c14",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher pointing at and tracing electromagnetic spectrum diagram.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes radio waves."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes microwaves."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes infrared."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes visible light."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes ultraviolet."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes X-rays."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The electromagnetic spectrum includes gamma rays."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Wavelength is a key concept in understanding the electromagnetic spectrum."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Frequency is a key concept in understanding the electromagnetic spectrum."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Wave speed is a key concept in understanding the electromagnetic spectrum."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "The speed formula is the principle describing the relationship among speed, frequency, and wavelength."
+      },
+      {
+        "source": "c14",
+        "target": "c13",
+        "relation": "visualizes",
+        "intent": "The teacher uses gestures to emphasize the content of the slide."
+      },
+      {
+        "source": "s1",
+        "target": "c14",
+        "relation": "Teacher-Visual",
+        "intent": "Students are engaged as the teacher uses gestures to clarify concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,155 @@
+{
+  "video_name": "16_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Be able to compare the processes of nuclear fission and nuclear fusion and their energy changes; understand the role of mass defect in both reactions.",
+  "transcript": "[0.0 -> 3.74] 字幕由 Amara.org 社群提供。\n[10.34 -> 37.9] 各位评委老师同学们大家下午好我是科学组的十六号选手下面开始我的即兴演讲今天我抽到即兴演讲的题目是核裂变是由一个重核裂变成两个中等核会放出能量核聚变是由两个亲核聚变成一个中等核也会放出能量那有同学会提出疑问了。\n[39.5 -> 60.0] 核裂变是一个重核变成两个中等核会放出能量那两个亲核变成一个重点核也会放出能量今天我要解答同学的困惑首先我会肯定学生提出问题的行为这是一个积极思考的过程非常值得肯定其次我会让学生回顾能量守恒的观点能量守恒是指能量并不能凭空产生也不能凭空消失总能量是守恒的其次我会对这个现象进行解释一个重核裂变成两个轻中等核会放出能量是因为重核的总能量会大于两个中等核的能量两个轻核聚变成一个中等核以放出能量是因为两个轻核的总能量会小于中等核的总能量这与反应前后的总能量有关最后我会希望同学继续保持积极思考的态度对同学的科学态度进行认可。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher College Students) and \"科学 16\" (Science 16). The screen includes colorful circular icons and a large \"10th\" in red.\n\n#### 2. The Title Event\n- **Title on Screen**: The screen displays a list of topics in Chinese, including:\n  - \"生命系统的结构层次（细胞、组织、器官、系统、个体、种群、群落、生态系统、生物圈）\"\n  - \"生命系统的结构层次\"\n  - \"生命的结构基础\"\n  - \"细胞的结构和功能\"\n- **Teacher's Action**: The teacher stands at the podium, holding papers, and gestures towards the screen, likely introducing the topics.\n\n#### 3. The Objectives\n- **Learning Goals**: The screen lists the following bullet points:\n  - 生命系统的结构层次（细胞、组织、器官、系统、个体、种群、群落、生态系统、生物圈）\n  - 生命系统的结构层次\n  - 生命的结构基础\n  - 细胞的结构和功能\n\n#### 4. Key Gestures\n- **Teacher's Actions**: \n  - The teacher holds papers and gestures with her hands, possibly emphasizing points related to the content on the screen.\n  - She occasionally points towards the screen, likely to highlight specific topics or objectives.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Hook Object**: The video starts with a yellow title screen introducing the 10th National Contest of Teaching Skills for Teacher College Students.\n- **Title Event**: The screen transitions to a list of topics in Chinese, with the teacher standing at the podium, holding papers, and gesturing towards the screen.\n\n#### Middle\n- **Objectives Displayed**: The screen shows the learning objectives, which include various levels of life system structures and cell functions.\n- **Teacher's Gestures**: The teacher uses hand gestures to emphasize the content on the screen, pointing and moving her hands to engage with the material.\n\n#### End\n- **Continued Engagement**: The teacher continues to interact with the students, maintaining focus on the screen content, likely elaborating on the listed topics.\n\n### Summary\nThe introduction phase of the lesson is visually anchored by the yellow title screen and the list of topics displayed on the screen. The teacher uses hand gestures to engage with the content, pointing to and emphasizing the learning objectives related to life system structures and cell functions. The visual elements, including the structured list of topics, provide a clear framework for the lesson's introduction.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, which prominently displays the 10th National Contest of Teaching Skills for Teacher College Students, setting the stage for the lesson. The scene transitions to a classroom where the teacher stands at the podium, holding papers, and gestures towards the screen, which now lists the lesson's objectives. The visual aid shifts from the hook to the main topic, displaying key concepts such as the structural hierarchy of life systems and cellular functions. The teacher actively engages with the content, using hand gestures to emphasize the listed topics, pointing towards the screen to highlight specific learning goals. This visual transition effectively bridges the hook to the main topic, grounding the lesson in structured objectives. The introduction connects new knowledge to students' existing understanding by outlining foundational concepts, preparing them for a deeper exploration of life systems and cellular structures. The teacher's gestures and the clear presentation of objectives create a cohesive link between the introduction and the forthcoming detailed content, facilitating a smooth transition into the lesson's core material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Nuclear Fission",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[10.34 -> 37.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Nuclear Fusion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[10.34 -> 37.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Energy Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Mass Defect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Energy Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Heavy Nucleus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Medium Nuclei",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Light Nuclei",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Positive Reinforcement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[39.5 -> 60.0]"
+      },
+      {
+        "id": "v1",
+        "label": "10th National Contest Title Screen",
+        "type": "Visual",
+        "original_text": "10th National Contest of Teaching Skills for Teacher College Students with colorful icons.",
+        "ocr_corrected": false,
+        "timestamp": "[0.0 -> 3.74]"
+      },
+      {
+        "id": "v2",
+        "label": "Objective Slide: Life System Structures",
+        "type": "Visual",
+        "original_text": "Life system structure levels and cell function objectives listed.",
+        "ocr_corrected": true,
+        "timestamp": "[10.34 -> 37.9]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Connects the process of nuclear fission to the principle of energy conservation."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Connects the process of nuclear fusion to the principle of energy conservation."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Highlights the energy change involved in nuclear fission."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Highlights the energy change involved in nuclear fusion."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Indicates the mass defect's role in energy change during nuclear reactions."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "A heavy nucleus undergoes fission resulting in medium nuclei."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Medium nuclei are a result of fission of a heavy nucleus."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Light nuclei combine in nuclear fusion to form a heavier nucleus."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's reinforcement encourages students to focus on displayed objectives."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The contest title screen transitions into a detailed objective slide for context."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

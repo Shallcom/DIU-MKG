@@ -1,0 +1,184 @@
+{
+  "video_name": "39_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the definition of genes and their relationship with DNA; analyze the characteristics of genetic material in different viruses.",
+  "transcript": "[600.0 -> 612.36] 你会给听一下一个怎样的定义\n[629.0 -> 642.78] 好时间到有没有同学来主动跟我们分享一下\n[644.52 -> 652.98] 金是具有遗传效益的DNA片段请坐\n[655.06 -> 685.94] 那我们再看一下这个补充材料有一些病毒它的遗传物质是二氨比如我们的牛杆病毒还有我们以前非常熟悉的什么病毒你还能指出其他例子吗新冠肺炎病毒还有吗植物病毒烟草花叶病毒这位同学回答得很好那它们的基因我们又应该怎样去定义难道还是具有遗传相应的定义片段吗\n[688.44 -> 728.82] 好来请你说精英是具有遗传相应的片段所以我们只能这样表达精英通常是具有遗传相应的DNA片段通过今天的学习我们知道了精英和DNA之间的关系是怎样的大家一起说好课后请同学们说查阅相关资料看一看还有什么其他例子能够证明基因和定义之间的关系吗好下课我的片段教学到此结束谢谢各位老师同学们",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the slide on the screen, titled \"基因和RNA的关系\" (Relationship between Genes and RNA).\n   - The slide contains a structured layout with headings and bullet points, organized into sections for definitions and explanations.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"基因和RNA的关系\" (Relationship between Genes and RNA).\n   - Key phrases:\n     - \"思考：基因RNA上主要留下一个什么？\"\n     - \"基因通常是具有遗传效应的DNA片段\"\n   - The slide includes highlighted text in green, emphasizing important points about RNA and genetic effects.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the slide, specifically highlighting the text \"基因通常是具有遗传效应的DNA片段\" (Genes are usually DNA segments with genetic effects).\n   - She gestures towards the chalkboard, where \"基因和DNA的关系\" (Relationship between Genes and DNA) and \"mRNA段 进行效应\" (mRNA segment for effect) are written, reinforcing the connection between the board notes and the slide content.\n   - The teacher uses hand movements to emphasize key points on the slide, ensuring students focus on the highlighted sections.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a slide titled \"基因和RNA的关系\" (Relationship between Genes and RNA), serving as the main summary artifact. The teacher visually reviews the content by pointing to key phrases on the slide, particularly emphasizing \"基因通常是具有遗传效应的DNA片段\" (Genes are usually DNA segments with genetic effects). She gestures towards the chalkboard, linking the slide content with the written notes \"基因和DNA的关系\" (Relationship between Genes and DNA) and \"mRNA段 进行效应\" (mRNA segment for effect). The final emphasis is placed on the highlighted text, reinforcing the core concept of genetic effects in DNA segments. There is no visual indication of homework or next steps in the provided frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Genes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c2",
+        "label": "DNA Segments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Genetic Effects",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c4",
+        "label": "RNA",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Virus Genetic Material",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c6",
+        "label": "RNA Viruses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Cowpox Virus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c8",
+        "label": "SARS-CoV-2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c9",
+        "label": "Tobacco Mosaic Virus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.06 -> 685.94]"
+      },
+      {
+        "id": "c10",
+        "label": "Gene Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.44 -> 728.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide on Gene and RNA",
+        "type": "Visual",
+        "original_text": "Slide titled 'Relationship between Genes and RNA' with bullet points and headings.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Notes",
+        "type": "Visual",
+        "original_text": "Chalkboard text 'Relationship between Genes and DNA' and 'mRNA segment effect'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Inquiry",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines genes as DNA segments."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "DNA segments produce genetic effects."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Genes exhibit genetic effects."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "RNA serves as genetic material in some viruses."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "RNA viruses as a subset of virus genetic material."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Cowpox virus as an example of an RNA virus."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "SARS-CoV-2 as an example of an RNA virus."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Tobacco Mosaic Virus as an example."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher connects visual slide to chalkboard notes."
+      },
+      {
+        "source": "c10",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Slide presents gene definition."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher asks students to articulate the gene definition."
+      },
+      {
+        "source": "s2",
+        "target": "c9",
+        "relation": "guides_discussion",
+        "intent": "Discusses Tobacco Mosaic Virus as a query response."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

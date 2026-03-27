@@ -1,0 +1,167 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Master the procedural steps and critical points of the dilution spread plate method; understand the rationale for spreading after cooling and its impact on experimental results; be able to calculate viable cell numbers from colony counts and analyze potential sources of error.",
+  "transcript": "[545.9454 -> 726.98] 对将我们不需要的细菌给对我们将它们这些误差给去除然后进行冷却再徒步又是为什么呢为什么要先冷却再徒步呀对高温可能会杀死一些细菌对不对那么我们这个时候呢充分地冷却之后我们就开始进行徒步将徒步去将菌液均匀地徒步在我们的培养机当中徒步的时候呢我们可以进行转动培养皿使徒步均匀那么我们这一步进行了之后呢我们将平板进行倒置倒置是将我们的水蒸气给去除最后我们将它放入到三十到三十七度的恒温培养箱当中培养一到两天最后我们就得到了这样的图片军用图那么我们现在我们是不是可以解决这个问题我们需要对它进行怎样计数对不对那么微生物的数量测定又是如何的呢同学们看到十八页这里我们将它们分离出来也得到了这样的图片之后我们要对它进行计数那么怎么去进行活菌数目的计算呢我们稀释突破平板法之后我们就可以进行计数那么我们计数同学们看一下我们应该选择菌墨数为多少到多少的平板计数才是比较合理的三二十到三百然后我们还需要注意选取几个平板三个平板我们要进行重复计数这样是防止我们的误差太大对不对最后我们将重复计数的平板我们进行求取平均值那么在这个过程当中同学们还需要注意一个重点我们统计出的聚落数它往往比我们的活菌实际的数目这是为什么呢可能会有细菌它粘在一起了我们将两个和三个它们粘在一起的我们却计数了成了一种对不对一个所以我们的数目可能存在误差那么我们下一节课呢我们就要去实验室当中自己去我们设计一个实验方案去测定这一个土壤当中的微生物量那么下课之后呀就请同学们一起一起去讨论一下我们在实验室当中如何去制作这样的一个培养机去计算那我们就请同学们下课之后小组们一起来讨论一种实验方案我们下课之后来选取一种实验方案我们进行实验那么这一节课就上到这里下课",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with headings and bullet points, likely summarizing key concepts discussed in the lesson.\n   - The slide includes a diagram with labeled parts and a text box with a highlighted statement, indicating a conclusion or key takeaway.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains a heading in red, possibly indicating the main topic or section.\n   - There are bullet points with descriptions, likely summarizing processes or definitions.\n   - A diagram with labeled components is present, possibly illustrating a biological or physical concept.\n   - A highlighted text box with a statement, possibly summarizing the lesson's main point or conclusion.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the slide, likely emphasizing the labeled parts and their significance.\n   - The teacher gestures towards the highlighted text box, drawing attention to the key takeaway or conclusion.\n   - The teacher moves between different sections of the slide, possibly reviewing each bullet point in sequence.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide.\n   - The blackboard contains handwritten notes, but they do not explicitly indicate next steps or assignments.\n\nThis structured visual summary helps consolidate the lesson's key points, with the teacher's gestures reinforcing the important elements on the slide.",
+  "visual_narrative": "The lesson concludes with a slide displaying a structured summary, featuring a diagram and highlighted text. The teacher visually reviews the content by pointing to each section of the diagram, emphasizing the labeled components. She then directs attention to the highlighted text box, reinforcing the key takeaway. The visual focus remains on the slide, with no explicit indication of homework or next steps visible. This structured review effectively consolidates the lesson's main points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Dilution Spread Plate Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Cooling Before Spreading",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Viable Cell Count Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Sources of Error",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Plate Rotation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Condensation Removal",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Optimal Colony Count",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Repetition for Accuracy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c9",
+        "label": "Microorganism Adhesion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "c10",
+        "label": "Experiment Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[545.9454 -> 726.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Structured Summary Slide",
+        "type": "Visual",
+        "original_text": "Digital slide featuring a summary with headings, bullet points, and a diagram",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Diagram with Labeled Parts",
+        "type": "Visual",
+        "original_text": "Annotated diagram illustrating a biological or physical concept",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Highlighted Conclusion Statement",
+        "type": "Visual",
+        "original_text": "Text box highlighting the key takeaway from the lesson",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged with Material",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "The slide summary includes a diagram to consolidate learning."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The procedure relies on pre-cooling principles to enhance accuracy."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Viable cell count calculation is based on the principle of optimal colony counting."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Acknowledging sources of error emphasizes the need for repetition for accuracy."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents elements potentially leading to errors."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Highlighted text stresses the crucial understanding of cell count calculations."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Optimal colony count considerations address microorganism adhesion issues."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Experiment design encourages student engagement and critical thinking."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Plate rotation techniques help in effective condensation removal."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

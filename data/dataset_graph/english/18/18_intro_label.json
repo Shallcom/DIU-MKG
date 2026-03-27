@@ -1,0 +1,146 @@
+{
+  "video_name": "18_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Cultivate students' critical thinking skills; help students develop their thinking abilities through interaction.",
+  "transcript": "[0.0 -> 123.54] 我的题目是如何发展思维能力我认为这是重要的能力因为它要看学生的飞速度好吗但是如何发展它呢我认为最好的方法是让学生发展思维能力是让他们成长在互动中它不代表你必须要和别人斗争你必须要说你的思维和他的思维之间的互补例如在我的课上当我说我会问奥运会是什么我说答案是快快高更强但之后我会再次问奥运会是什么现在学生们会问自己是什么你必须再次问这问题因为奥林匹克的精神变化了在这桩子里从快快高更强到快快高更强一起所以这是变化的事情学生们必须和年轻的思维互动成新的思维这样他们可以成长成了思想能力的发展这意味着是重要思维所以你发现了重要思维你总是问自己为什么为什么我这么做我怎么这么做也许这有另一个办法让你成长成为一个更好的人的重要思维所以我觉得这就是为什么和如何发展思维能力谢谢你现在是我的示范需要吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen: \"Unit 2: Morals and Virtues.\" This initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"Unit 2: Morals and Virtues\" is displayed on the screen. The teacher does not physically write it but points towards it, emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as raising a fist and making open-handed gestures, likely to engage students with the topic.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying \"Unit 2: Morals and Virtues.\"\n- The teacher gestures with open hands, possibly introducing the topic broadly.\n\n**Middle:**\n- The teacher points to the screen, directing attention to the title.\n- The teacher uses a fist gesture, possibly to highlight the significance of the topic.\n\n**End:**\n- The teacher leans towards the desk, possibly to pick up or refer to materials, indicating a transition to the next part of the lesson.\n\n### Summary\nThe introduction phase centers around the title \"Unit 2: Morals and Virtues\" displayed on the screen. The teacher uses various hand gestures to engage students, emphasizing the topic's importance. No specific learning objectives are visible, and the focus remains on initiating the lesson with the displayed title.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"Unit 2: Morals and Virtues,\" serving as the hook to capture student attention. The teacher uses dynamic hand gestures, such as raising a fist and making open-handed motions, to emphasize the significance of the topic. These gestures likely aim to engage students and set the tone for the lesson. The visual focus remains on the title slide throughout, with the teacher occasionally pointing to it, reinforcing its importance. The scene transitions smoothly as the teacher leans towards the desk, suggesting a shift to the next segment of the lesson. This introduction effectively bridges the hook to the main topic by visually anchoring the students' attention on the title, preparing them for a discussion on morals and virtues. The teacher's gestures and focus on the title help connect the new topic to the students' existing understanding, laying the groundwork for deeper exploration.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Thinking Abilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Interaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Olympic Spirit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Faster, Higher, Stronger",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Faster, Higher, Stronger Together",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Importance of Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "c8",
+        "label": "Questioning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Unit 2: Morals and Virtues",
+        "type": "Visual",
+        "original_text": "The slide displayed on the screen reads 'Unit 2: Morals and Virtues'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher's Hand Gestures",
+        "type": "Visual",
+        "original_text": "The teacher uses open-handed gestures and fist gestures to emphasize points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Critical thinking encompasses the development of thinking abilities."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Interaction helps develop critical thinking skills."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The traditional Olympic spirit evolves into a new understanding."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The updated Olympic spirit includes a collaborative element."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The importance of critical thinking involves understanding its role and value."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Questioning is a method to develop critical thinking skills."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The teacher uses gestures to emphasize the visual element on the screen."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The title slide is used to engage students with the topic."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher's gestures prompt students to think critically about the topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

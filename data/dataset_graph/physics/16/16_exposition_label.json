@@ -1,0 +1,121 @@
+{
+  "video_name": "16_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Master the relationship between potential difference and electric field strength in a uniform electric field; understand the relationship between the work done by the electrostatic force and the change in electric potential energy.",
+  "transcript": "[142.36 -> 275.64] 与等视线之间的关系我们来继续看一下那么同学们老师呀以云墙电场为例同学们可以看一下这部图片假设这个带电荷这个Q从A点运送到B点而AB两点之间的距离为小D我们可以看一下静电力做工与AB之间的电差的关系这老师已经把答案给打出来了应该W在前一节课中我们已经学到了W应该等于Q再乘上这个U那同学们思考一下那如果我们从静电力的角度去分析的话Q点所说的静电力与电场之间强度的关系这样一个F是不是应该等于的是Q在乘上电场强度E呀那我们会发现这样一个F它是恒力还是变力如果在云墙电场中这位同学你说一下应该是恒力是不是那么就是因为这样一个电场力是恒力所以我们就可以得到这样一个FW应该等于F乘D应该等于的是Q再乘乘E再乘上这个D所以我们发现在这里W应该等于Q乘U这里W应该等于Q乘E乘D那我们将两势连立就可以得到U应该等于是E在乘上这个D是不是啊那我们就得到了这节课一个重要的关系在云想电场中电视差U应该等于电场强度在乘上这个小D而它所描述的内容就是在云想电场中两点之间的电视差应该等于电场强度与这一点沿着电场方向它之间距离的这么一个乘积那么同学们思考一下如果它是这样的AB两点它不在一条直线上我们还能得出怎样的结论呢同学们你们拿出纸和笔去进行推导一下如果我们AB两点不在一条直线上的话它不应该是怎样的关系。\n[286.96 -> 351.54] 好了来看这版这位同学写的是W推导出来的应该是E再乘上这个L再乘上cos那看来你刚才找得非常好因为我们刚才说了这个内容方面应该是在沿电场方向的距离那如果我们它俩不在一条指线上的话我们应该知道的是那么应该是在把这个力进行一个分解那么这个长度应该是L乘上cos所以W应该等于的是这个那么在云墙电场中我们得到的U应该等于的是什么U不应该等于E在墙上这个D。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the blackboard, writing the title in Chinese characters: \"电场与电势能之间的关系\" (Relationship between electric field and electric potential energy).\n- The interactive whiteboard displays a diagram with a circular field and arrows indicating direction, labeled with Chinese text.\n- The teacher gestures towards the diagram, emphasizing the circular field representation.\n\n**Middle:**\n- The teacher transitions to a new slide showing a mathematical expression: $W = F \\cdot l \\cdot \\cos\\theta$ and $U = Ed$.\n- She points to the equations, explaining the relationship between work, force, distance, and electric potential difference.\n- The teacher uses hand gestures to illustrate the direction of force and displacement, aligning with the $\\cos\\theta$ component.\n- She writes additional notes on the blackboard, including \"电势差\" (electric potential difference) and \"电场强度\" (electric field strength).\n\n**End:**\n- The teacher presents a graph on the whiteboard, depicting a linear relationship with a highlighted text box in Chinese.\n- She writes \"电势差 -> 电场强度\" (electric potential difference -> electric field strength) on the blackboard, linking the concepts.\n- The teacher interacts with a student, handing over a paper, possibly for a demonstration or participation.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the interactive whiteboard displaying diagrams and equations related to electric fields and potential energy.\n   - Initial state includes a circular field diagram with directional arrows and a mathematical slide with equations $W = F \\cdot l \\cdot \\cos\\theta$ and $U = Ed$.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"电势差 -> 电场强度\" on the blackboard, establishing a conceptual link.\n   - **Modifications**: No erasures observed; the teacher builds upon existing content.\n   - **Deictic Gestures**: Points to specific parts of the equations and graph, such as the $\\cos\\theta$ term and the linear graph, while explaining their significance.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses red chalk for key terms and equations, drawing attention to important variables and relationships.\n   - She emphasizes the linear graph by pointing to the highlighted text box, reinforcing the connection between concepts.\n\nThis structured visual evolution illustrates the teacher's method of transforming abstract physics concepts into concrete knowledge through synchronized gestures and board work.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a circular field diagram with directional arrows, illustrating the concept of electric fields. The teacher began by writing the title \"电场与电势能之间的关系\" on the blackboard, establishing the lesson's focus. She then transitioned to a slide showing the equations $W = F \\cdot l \\cdot \\cos\\theta$ and $U = Ed$, using hand gestures to trace the components of the equations, particularly emphasizing the $\\cos\\theta$ term to explain directional work.\n\nAs the lecture progressed, the teacher constructed a conceptual link by writing \"电势差 -> 电场强度\" on the blackboard, deriving the relationship between electric potential difference and electric field strength. She annotated the graph displayed on the whiteboard, pointing to the linear trend to illustrate the proportional relationship, and highlighted the text box to reinforce key points.\n\nFinally, she interacted with students, distributing materials to engage them actively. Throughout, she used red chalk to emphasize critical variables and conclusions, such as the final relationship between potential difference and field strength. This visual strategy, combined with dynamic gestures and clear annotations, reduced cognitive load by providing structured, step-by-step visual cues that aligned with the verbal explanations, facilitating a comprehensive understanding of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Field",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[142.36 -> 275.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Electrostatic Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[142.36 -> 275.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Electric Potential Energy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[142.36 -> 275.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Electric Potential Difference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[142.36 -> 275.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Work Done",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[286.96 -> 351.54]"
+      },
+      {
+        "id": "c6",
+        "label": "$W = F \\cdot l \\cdot \\cos\\theta$",
+        "type": "Visual",
+        "original_text": "Equation for Work",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "$U = Ed$",
+        "type": "Visual",
+        "original_text": "Equation for Electric Potential",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Linear Graph",
+        "type": "Visual",
+        "original_text": "Graph showing linear relationship",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[142.36 -> 275.64]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Connects electric field principles to potential difference."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Describes work done by electrostatic force in terms of force and distance."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Links potential energy to potential difference in a uniform field."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Visual representation of the work equation during explanation."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Equation visualizing electric potential energy concept."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlights the relationship between potential difference and field strength."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in understanding the work concept through participation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,165 @@
+{
+  "video_name": "42_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Describe the process and conclusions of Priestley’s experiment; analyze how the experimental variable influences the results; apply the basic principles of photosynthesis to explain natural phenomena.",
+  "transcript": "[125.0 -> 325.5] 同学们上课在课堂开始之前老师想请同学们看看窗户外面来老师给大家拎开看看有绿色的植物对不对现在请同学们深深呼吸一口气来吸气呼气好很好同学们是不是感觉到大脑清明了一些呢在刚才的呼吸之间其实我们就已经消化二氧化碳呼出氧气了那为什么你们没有感觉到缺氧呢请你来说一说你刚才看到了外面的植物吸收了空气为什么你觉得没有缺氧呢很好植物会释放氧气对不对好请坐植物会释放氧气那么在很久以前我们的英国科学家叫普利斯科利他也做了一个这样的实验在这个实验中他准备了四个密封的罐子然后在罐子中放入了一只点燃的蜡烛和一只活蹦乱跳的小鼠但是不久之后他发现蜡烛熄灭了而小鼠死亡了紧接着他又在这两个罐子中放入了我们的绿色植物那在这个实验过程中我们的变量是什么又能得出什么样的结论呢请同学们小组合作讨论一下来小组合作讨论一下哟你们来说说你认为这个变量是什么样的变量是有没有加植物对不对那这个变量实验又得出了什么样的结论呢结论就是植物会吃到氧气让小鼠活着了把小鼠扶住过来它会更新这个里面的空气所以蜡烛能够燃烧小鼠还活着对不对好请坐非常好有这个实验我们就能得知植物能够更新由于蜡烛燃烧和小鼠呼吸而产生的污浊的空气由此我们可以知道在后来的科学实验证明中也证明了蜡烛燃烧和小鼠呼吸确实会产生污浊的空气也就是二氧化碳而植物的光合作用就恰恰能够利用二氧化碳所以我们能够得出一个结论就是植物的光合作用原料之一是二氧化碳而与此同时我们也知道植物的光合作用是需要水的所以现在我们可以总结一下植物光合作用的原料是二氧化碳和水。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n\n- **Core Artifact**: The initial slide displays the title \"光合作用吸收二氧化碳释放氧气\" (Photosynthesis absorbs carbon dioxide and releases oxygen) with an illustration of a plant in a pot. The blackboard is blank except for some text on the left side.\n- **Teacher Action**: The teacher stands in front of the screen, introducing the topic. She gestures towards the screen, emphasizing the plant illustration.\n\n#### Middle\n\n- **Slide Change**: The screen transitions to a new slide titled \"光合作用吸收二氧化碳释放氧气\" with three bell jars under the sun. Each jar contains different setups: a candle, a plant, and a plant with a candle.\n- **Teacher Action**: The teacher points to each bell jar, explaining the experimental setup. She uses hand gestures to indicate the presence of sunlight and the different conditions in each jar.\n- **Visual Details**: The jars are labeled with descriptions of the conditions and outcomes. The teacher's gestures trace the flow of the experiment, highlighting the candle burning and the plant's role.\n\n- **Further Slide Change**: The screen shows a flowchart with text explaining the dual nature of photosynthesis. The flowchart includes arrows and text blocks.\n- **Teacher Action**: The teacher points to the flowchart, explaining the two stages of photosynthesis. She traces the arrows with her finger, emphasizing the sequence of processes.\n\n#### End\n\n- **Final Slide**: The screen displays a detailed explanation of the light reaction and the Calvin cycle, with text blocks and arrows.\n- **Teacher Action**: The teacher points to specific parts of the flowchart, explaining the conversion of carbon dioxide to organic compounds and the release of oxygen. She uses hand gestures to emphasize key points and connections between processes.\n\n### Knowledge Flow Tracking\n\n1. **Core Artifact**: The main visual anchor is the flowchart explaining photosynthesis, which remains static throughout the latter part of the presentation.\n\n2. **Derivation Process**:\n   - **Additions**: The teacher adds verbal explanations to the static flowchart, detailing each step of the light reaction and the Calvin cycle.\n   - **Modifications**: No erasures or modifications are made to the flowchart; the teacher relies on gestures and verbal cues to highlight changes.\n   - **Deictic Gestures**: The teacher points to specific text blocks and arrows, saying \"this\" or \"here\" to indicate the light-dependent reactions and the carbon fixation process.\n\n3. **Highlighting Strategy**:\n   - The teacher uses hand gestures to emphasize key parts of the flowchart, such as the input of carbon dioxide and the output of oxygen.\n   - She occasionally pauses at critical junctions in the flowchart, using her finger to trace important pathways, ensuring students follow the sequence of reactions.\n\nThis structured visual evolution helps students connect abstract concepts with concrete diagrams, enhancing understanding through synchronized gestures and explanations.",
+  "visual_narrative": "Initially, the bulletin board displayed a title slide introducing the concept of photosynthesis, featuring an illustration of a plant absorbing carbon dioxide and releasing oxygen. The teacher began by gesturing towards the plant image, setting the stage for the topic. Then, the teacher transitioned to a slide with three bell jars under sunlight, each containing different setups: a candle, a plant, and a plant with a candle. She constructed an experimental narrative by pointing to each jar, tracing the candle's flame to illustrate oxygen consumption and highlighting the plant's role in oxygen production. The teacher derived the dual nature of photosynthesis by moving to a flowchart slide, where she annotated the process step-by-step. She traced arrows indicating the light-dependent reactions and the Calvin cycle, emphasizing the conversion of carbon dioxide into organic compounds. Finally, she resolved deixis by pointing to specific text blocks, tracing the flow of energy and matter through the system. To reduce cognitive load, the teacher used clear gestures and paused at critical junctions, circling key outcomes like oxygen release in the flowchart. This visual strategy aligned with verbal explanations, ensuring students could follow the complex biochemical pathways effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Photosynthesis Title Slide",
+        "type": "Visual",
+        "original_text": "Photosynthesis absorbs carbon dioxide and releases oxygen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Plant Illustration",
+        "type": "Visual",
+        "original_text": "Illustration of a plant in a pot",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Photosynthesis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.0 -> 325.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Carbon Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.0 -> 325.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Oxygen Release",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.0 -> 325.5]"
+      },
+      {
+        "id": "v3",
+        "label": "Bell Jar Setup Slide",
+        "type": "Visual",
+        "original_text": "Three bell jars under the sun containing a candle, a plant, and a plant with a candle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Priestley Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[125.0 -> 325.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Variable Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.0 -> 325.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Light-dependent Reactions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[325.5 -> 425.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Calvin Cycle",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[325.5 -> 425.0]"
+      },
+      {
+        "id": "v4",
+        "label": "Flowchart Slide",
+        "type": "Visual",
+        "original_text": "Flowchart explaining photosynthesis stages",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The title slide visually represents the topic of photosynthesis."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The plant illustration emphasizes the absorption of carbon dioxide."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The bell jar setup slide depicts Priestley’s experiment visually."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Understands how the experimental variables influence the results."
+      },
+      {
+        "source": "v4",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The flowchart visually presents the stages of photosynthesis."
+      },
+      {
+        "source": "v4",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The flowchart includes the Calvin cycle as part of the explanation."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Photosynthesis includes the absorption of carbon dioxide."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Photosynthesis results in the release of oxygen."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Light-dependent reactions contribute to oxygen release."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The Calvin cycle utilizes carbon dioxide."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Teacher prompts students to discuss how variables influence results."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

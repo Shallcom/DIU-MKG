@@ -1,0 +1,132 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand the basic concepts of situational implementation in the Chinese language subject; master the main methods and strategies of situational teaching; recognize the importance of contextualized teaching in Chinese language classrooms.",
+  "transcript": "[0.0 -> 166.96] 第三号选手今天我抽到的即席演讲的题目是谈谈对语文学科实施情境性的认识那么首先何为情境呢这一概念是在语文课程标准二零一七年版二零二零修订当中首次提出的一个概念他说语文学习要在真实的语言文字运用的情境当中提升学生运用祖国语言文字的一个能力这就强调了语文教学情境的重要性第二点语文教学其实目前有一句很热门的话叫做无情境不教学那么这一句话或许它不是很准确但是我们也能够从此感受到情境对于教学的一个重要性那么接下来我们应该就思考如何在语文教学当中运用情境呢我觉得有以下几个方法第一个运用图片文字和版书的方式以版书呈现一种思维结构的方式带领学生进入情境那第二个方式是目前我觉得认为是运用的比较广泛的一个方式那就是运用音频视频材料例如说在再别康乔这篇文章当中在课堂的最开始我们就可以为学生播放康和的这样的一个视频材料引导学生去领略康乔的美景更好地进入到这篇文章当中感悟作者诗人他对于康乔的这样一个深深的依恋那还有最后一个去其实教师的语言也是一种情境我们的语音语调语速等等都是情境的一种运用那在教学当中我们可以运用这种有效的资源去达到情境式教学总之语文课程实施情境性是教学方法教学策略的一次新尝试和新突破那作为新教师我们应该在课堂教学当中实施情境化教学为学生搭建学习的桥梁降低他们进入文本的一个难度我想这是每位语文老师都应该主动去做的这样的一个尝试以上就是我集齐演讲的全部内容如有不当之处还望各位评委老师海涵接下来要准备开始我的模拟授课请同学们看到文章的一百一十四页。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed an image of a grassy field with a yellow sticky note. The text on the slide is in Chinese, reading \"窗前旧事\" (Old Stories by the Window).\n\n#### 2. **The Title Event**\n- The title on the screen changes to \"细品语言 感悟深情\" (Savor Language, Feel Deep Affection). The teacher does not physically write this; it appears as part of the presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, possibly emphasizing points related to the content on the screen.\n- She occasionally looks at the screen and then back at the students, indicating engagement with the material.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the initial slide showing \"窗前旧事\" (Old Stories by the Window).\n- The teacher appears to be preparing to speak, holding papers.\n\n**Middle:**\n- The slide transitions to \"细品语言 感悟深情\" (Savor Language, Feel Deep Affection).\n- The teacher gestures with her hands, likely explaining or introducing the topic.\n- She maintains eye contact with the students, reinforcing engagement.\n\n**End:**\n- The teacher continues to gesture, possibly elaborating on the content displayed.\n- The screen remains on the same slide, emphasizing the lesson's focus on language and emotion.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, as the screen displays an image of a grassy field with a yellow sticky note, accompanied by the text \"窗前旧事\" (Old Stories by the Window). This visual serves as the hook, capturing the students' attention with a serene and evocative image. The teacher then transitions smoothly by shifting the slide to reveal the title \"细品语言 感悟深情\" (Savor Language, Feel Deep Affection), marking the shift to the main topic. Throughout this transition, the teacher gestures with her hands, emphasizing key points and maintaining eye contact with the students to ensure engagement. The consistent focus on the screen content helps bridge the initial hook to the core theme of the lesson, which centers on exploring language and emotional depth. This structured introduction effectively links the visual narrative to the students' existing experiences, setting the stage for a deeper exploration of language's emotional impact.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Situational Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Contextual Language Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Language Competency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[10.0 -> 50.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Image Use in Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[50.0 -> 80.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Audio and Video Materials",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[80.0 -> 120.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher's Language as Context",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.0 -> 166.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Old Stories by the Window Slide",
+        "type": "Visual",
+        "original_text": "Slide showing the image of a grassy field with a yellow sticky note and the text 'Old Stories by the Window'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Savor Language Slide",
+        "type": "Visual",
+        "original_text": "Slide with the title 'Savor Language, Feel Deep Affection'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Shows how situational teaching enhances contextual language learning."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Situational teaching aims to improve language competency."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Using images is a method within situational teaching."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Audio and video materials serve as tools in situational teaching."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The teacher's language itself provides context in teaching."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The 'Old Stories by the Window' slide illustrates the use of images in teaching."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The 'Savor Language' slide represents the lesson's thematic focus."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Situational teaching techniques aim to engage students in the lesson."
+      },
+      {
+        "source": "c3",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Discussing language competency engages students' interest."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

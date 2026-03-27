@@ -1,0 +1,145 @@
+{
+  "video_name": "9_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Cultivate text‑based critical thinking skills.",
+  "transcript": "[0.0 -> 16.98] 字幕由 Amara.org 社区提供。\n[30.0 -> 192.35049175] 考取我问的是安德斯英尼科里提啊萨瓦伦�所以我们可以告诉学生学习能力第二个是在读书课上使用丝绸的方式让学生们更容易地写书尤其是学生们没有一个很好的语言能力或者他们发现英语学习有些问题所以如果他们没有一个很好的语言能力苹果斯卡普斯卡普斯卡普in the lessona dayinthecloseifyouarefamiliarwithitIt isareadingandthinkingpassageinbooktwounittwreadingandthinkingSoasteacherswecandewirethepassageintothreepartswhatIseewhatIhearwhatIthinkandthenformanightmaporwecanseethenformascarfold所以学生们能够快速地捕捉到这个建筑物的结构来学习这道道路的主观观点了解了解了解了哈喽大家好欢迎回到我们的英语课堂你们今天怎么样我非常高兴听到您的声音今天我们将进行一堂考试您还记得我们学过什么吗在这个组座这里我们学过什么在这个组座How much do you know about it?",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen: \"Unit 4: Natural Disasters Assessing Your Progress.\" The slide includes images of natural disasters such as a wildfire, a flooded area, and a volcanic eruption.\n\n#### 2. **The Title Event**\n- The title on the screen is \"Unit 4: Natural Disasters Assessing Your Progress.\" The teacher does not write this; it is displayed on the screen. The teacher gestures towards the screen, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, likely emphasizing points related to the content on the screen.\n- She occasionally points towards the screen, directing attention to the images and title.\n- The teacher uses hand movements to engage with the audience, possibly explaining or highlighting aspects of the natural disasters shown.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands at the front, facing the class.\n- The screen displays the title \"Unit 4: Natural Disasters Assessing Your Progress\" with images of natural disasters.\n- The teacher gestures with her hands, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen to emphasize the images and title.\n- She holds papers, possibly notes or a lesson plan, and uses them to reference content while speaking.\n\n**End:**\n- The teacher leans slightly towards the desk, possibly to access materials or emphasize a point.\n- She continues to engage with the class, using hand gestures to maintain focus on the screen content.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front, facing the class, with the screen displaying the hook: \"Unit 4: Natural Disasters Assessing Your Progress,\" accompanied by vivid images of natural disasters such as wildfires, floods, and volcanic eruptions. The teacher holds papers and uses hand gestures to engage the students, likely drawing their attention to the dramatic visuals on the screen. As the lesson progresses, the teacher points towards the images, emphasizing key aspects of the natural disasters depicted. The transition from the hook to the main topic is seamless, as the teacher continues to reference the screen, maintaining focus on the title and images. Throughout the introduction, the teacher's gestures and movements are directed towards the screen, linking the visual content to the lesson's theme. This approach helps connect the students' existing knowledge of natural disasters to the new material, setting the stage for a deeper exploration of the topic. The visual narrative effectively bridges the hook to the main topic, ensuring students are engaged and prepared for the upcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Natural Disasters Slide",
+        "type": "Visual",
+        "original_text": "Unit 4: Natural Disasters Assessing Your Progress",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Wildfire Image",
+        "type": "Visual",
+        "original_text": "Image of wildfire",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Flood Image",
+        "type": "Visual",
+        "original_text": "Image of flooded area",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Volcanic Eruption Image",
+        "type": "Visual",
+        "original_text": "Image of volcanic eruption",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 16.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Natural Disasters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 192.35]"
+      },
+      {
+        "id": "c3",
+        "label": "Wildfire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 192.35]"
+      },
+      {
+        "id": "c4",
+        "label": "Flooding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 192.35]"
+      },
+      {
+        "id": "c5",
+        "label": "Volcanic Eruption",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 192.35]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the concept of natural disasters."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The image of wildfire visualizes the specific concept of wildfires."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The image of a flooded area visualizes the specific concept of flooding."
+      },
+      {
+        "source": "v4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The image of volcanic eruption visualizes the specific concept of volcanic eruptions."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Natural disasters encompass the concept of wildfires."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Natural disasters encompass the concept of flooding."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Natural disasters encompass the concept of volcanic eruptions."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Critical thinking aims to engage students with visual content."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The visual slide prompts students to engage with the concept of natural disasters."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Cultivation of critical thinking skills prompts student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

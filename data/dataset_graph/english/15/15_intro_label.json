@@ -1,0 +1,126 @@
+{
+  "video_name": "15_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Students can express their viewpoints in English and develop plans.; Students understand the importance of a developmental mindset and can apply this concept in their English learning.; Students can handle challenges in English communication, viewing failure as an opportunity for growth.",
+  "transcript": "[0.0 -> 240.0] 并所以我会分析我的想法从不同的角度来看首先我说的就是学生应该有发展观念的角度认识他们的变化和改变的可能性是主要是鼓励学生要坚定地踏出他们的困难和拥抱他们的挑战并且视失败作为他们的成功的踏步石头首先和第二个英语教授我们也希望能够适应这种变化我们应该适应这种变化去创新和鼓励他们去创新我帮助他们从语言到完整的文字来帮助他们一步一步地设定计划来帮助他们表达自己的想法来使用英语这些都是我的分享谢谢您的听众我认识了外国旅游者的禁止城市之类的旅游者吗您想像我一样成为一名旅游者吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen reads: \"Unit 1 Cultural Heritage: From Problems To Solutions.\" This slide serves as the hook object, initiating the lesson.\n\n#### 2. **The Title Event**\n- The title \"Unit 1 Cultural Heritage: From Problems To Solutions\" is prominently displayed on the screen. The teacher stands in front of the screen, ensuring the title is visible to the students. There is no indication of the teacher physically writing or underlining the title, as it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen during the introduction phase. The focus remains on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers in one hand, likely notes or a lesson plan, and gestures with the other hand, possibly emphasizing points related to the title on the screen.\n- The teacher occasionally looks at the students, indicating engagement and ensuring attention is maintained on the introduction.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title slide: \"Unit 1 Cultural Heritage: From Problems To Solutions.\"\n- The teacher holds papers and gestures towards the screen, likely emphasizing the importance of the unit title.\n\n**Middle:**\n- The teacher continues to engage with the students, maintaining eye contact and using hand gestures to reinforce the introduction.\n- The screen remains on the title slide, with no additional content or transitions observed.\n\n**End:**\n- The screen transitions to a new slide with the text: \"Let's find out what about... Play the video and answer the question: 'What are our values?'\"\n- The teacher points to the new slide, indicating the next activity or instruction for the students.\n\n### Summary\nThe introduction phase of the lesson is centered around the title slide, \"Unit 1 Cultural Heritage: From Problems To Solutions.\" The teacher uses gestures and engagement to emphasize the title and transition smoothly to the next slide, which introduces an activity involving a video and a question about values. The visual elements, such as the screen content and teacher gestures, are crucial in guiding the students through the initial phase of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the hook object: \"Unit 1 Cultural Heritage: From Problems To Solutions.\" The teacher holds papers, likely notes, and uses hand gestures to emphasize the significance of the unit title. The initial visual stimulus is the title slide, which sets the stage for the lesson. As the teacher engages with the students, maintaining eye contact and gesturing towards the screen, the focus remains on the title, reinforcing its importance. The transition occurs smoothly as the slide changes to a new instruction: \"Let's find out what about... Play the video and answer the question: 'What are our values?'\" The teacher points to this new slide, indicating the next activity. This visual shift bridges the hook to the main topic, guiding students from understanding the unit's theme to actively participating in an activity that connects cultural heritage to their values. The introduction effectively links the new knowledge to the students' existing experiences by prompting reflection through a video, setting the foundation for future learning on cultural heritage solutions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Developmental Mindset",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Express Viewpoints in English",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Plan Development",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Failure as Growth Opportunity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Challenge Handling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Cultural Heritage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Cultural Heritage",
+        "type": "Visual",
+        "original_text": "Unit 1 Cultural Heritage: From Problems To Solutions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "New Slide: What are our values?",
+        "type": "Visual",
+        "original_text": "Let's find out what about... Play the video and answer the question: 'What are our values?'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "st1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Using a developmental mindset to express viewpoints in English."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Seeing failure as a growth opportunity requires a developmental mindset."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Handling challenges by viewing failure as a stepping stone."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Developing plans helps in expressing viewpoints clearly in English."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The title slide represents the concept of cultural heritage."
+      },
+      {
+        "source": "v1",
+        "target": "st1",
+        "relation": "emphasizes",
+        "intent": "The visual display of the title slide engages students."
+      },
+      {
+        "source": "v2",
+        "target": "st1",
+        "relation": "emphasizes",
+        "intent": "The new slide prompts students to think about their values."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide about values links cultural heritage to student experiences."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,140 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic operating principles of sensors and their applications in everyday life; comprehend how changes in magnetic fields affect circuit states; be able to differentiate common sensor types and describe their fundamental functions.",
+  "transcript": "[0.0 -> 216.84] 这种家庭实验作业的看法我认为这种实验是可行的首先它通过家长的参与起到了督促的作用这样的话也能够让学生更好地完成这个实验然后呢从中获得自己想要的一些知识或者启发其次是这样能够调动学生的积极性因为你作业的形式已经发生改变已经是一些有趣的生活的小实验那这种呢我觉得也是可行的其次从以人为本的学生观看让学生主动地参与实验当中这样能够更好地起到一个启发式的作用让学生从中明白相应的物质的一些作用以及它们的组成这样也能够丰富学生的物质观也能够让学生在体验科学思维的过程中逐步地去通过科学的推理科学的论证进而进行质疑和创新其次科学探究的程度而言你从通过科学的探究能够提高学生探究实验的方法以及它相应的一个过程这样的话是能够提高学生的综合素质的综上所述我觉得这种方法是可行的下面开始我的模拟授课上课同学们好请坐在讲新课之前老师想跟大家一起做一个有趣的小实验我们一起来看PPT上的视频在小盒子A的侧面如果你露出一个小灯泡河外没有开关的话这个时候如果你把瓷集放在上面那它会发生什么样的变化呢这个时候呢你会发现灯泡会发光当你移走的时候那它这个时候灯泡就熄灭这是为什么呢有没有哪位同学愿意说一下好的同学请说你发现什么呢你发现当你靠近开关的时候盒子里面可能会发生某种变化进而导致电路的连通这样的话就会导致灯泡发光那么移走肯定灯泡就不会发光其实它是这样的一个原理它盒子的内部有一个干黄管干黄管中有两片软磁化的黄片这个时候如果你将磁铁靠近它那么它就会发生磁化这个时候电路就连通了这样你就会发现整个电路就处于一个闭合的状态这样灯泡就会发光当你远离它的时候你的灯泡也就熄灭这是因为你的磁化又消去了这样呢电路又断开了所以它是这样的一个原理那么既然灯泡起到开关的作用那它是不是一种能够感知磁场的传感器呢那么磁感传感器又究竟是什么呢让我们一起走进今天的课堂认识传感器。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"5.1 认识传感器\" (Understanding Sensors). The hook object is a diagram of a box with a flag, accompanied by text explaining the concept of sensors.\n\n#### 2. **The Title Event**\n- The title \"5.1 认识传感器\" is displayed on the screen. The teacher stands in front of the screen, gesturing towards the title, likely emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their hands, likely explaining the content on the screen.\n- The teacher points to the diagram on the screen, emphasizing the components of the sensor illustration.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying \"5.1 认识传感器.\"\n- The teacher gestures towards the title, indicating the start of the lesson on sensors.\n\n**Middle:**\n- The screen transitions to a slide with a diagram of a box and a flag, accompanied by explanatory text.\n- The teacher points to the diagram, highlighting key elements of the sensor illustration.\n- The teacher continues to gesture, likely explaining the function and components of the sensor.\n\n**End:**\n- The screen changes to show a diagram of a ship and a truck, with arrows and text explaining the relationship between dry reed switches and magnetic fields.\n- The teacher gestures towards the diagram, emphasizing the connection between the dry reed switch and the magnetic field.\n- The teacher points to specific parts of the diagram, likely explaining the process or interaction depicted.\n\nThis structured visual analysis links the teacher's actions to the evolving content on the screen, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents a diagram of a box with a flag, serving as the hook to introduce the concept of sensors. To bridge to the topic, the teacher gestures towards the diagram, emphasizing its components and function. The slide then transitions to display the title \"5.1 认识传感器,\" establishing the lesson's focus. The teacher continues to engage with the visual content, pointing to the diagram and explaining its relevance. Finally, the visual focus shifts to a new slide showing a ship and a truck, illustrating the interaction between dry reed switches and magnetic fields. The teacher points to specific parts of this diagram, linking the concept of sensors to practical applications, thereby connecting new knowledge to real-world examples and setting the stage for deeper exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sensors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Magnetic Fields",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Circuit States",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Dry Reed Switch",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Magnetization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Closed Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Open Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Magnetic Field Sensor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 216.84]"
+      },
+      {
+        "id": "c9",
+        "label": "Box with Flag Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of a box with a flag explaining sensors.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Ship and Truck Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing ship and truck with dry reed switches and magnetic fields.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The diagram of a box with a flag is used to introduce the concept of sensors."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The concept of magnetic fields is foundational to understanding dry reed switches."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Circuit states include both closed and open circuits."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The ship and truck diagram illustrates the application of dry reed switches."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Magnetization leads to a closed circuit state."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Demagnetization leads to an open circuit state."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Magnetic field sensors are a type of sensor."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "The introduction of sensors engages students in the learning process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

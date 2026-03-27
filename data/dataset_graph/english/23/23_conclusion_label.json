@@ -1,0 +1,146 @@
+{
+  "video_name": "23_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Students will be able to identify and describe the importance of maintaining a positive mindset in English learning; students will understand the role of teamwork in overcoming difficulties.",
+  "transcript": "[677.1364 -> 708.66] 是的你永远不放弃你只要短暂地解决挑战吧非常好谢谢你席亚请问一下当我们遇到一些生活中的困难的时候这不代表我们是失败者吧但那不是说我们只是失败了如果我们不跟别人聊天会不会成功呢我们必须一起合作非常好。\n[714.58 -> 724.46] 郎平是一个永远不放弃的人他会带着他的团队一起合作那是我们能学到的。\n[725.92 -> 733.36] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a mind map titled \"Living Legends.\"\n   - The overall layout includes a central title with branching categories: \"Achievements,\" \"Challenges,\" and \"Solution/Answer.\"\n   - The blackboard also includes the name \"Long Ping\" with associated subcategories.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main Title: \"Living Legends\"\n   - Categories: \n     - Achievements\n     - Challenges\n     - Solution/Answer\n   - Subcategories:\n     - Under \"Challenges\": \"Meningitis,\" \"Volleyball life,\" \"Spirit\"\n   - Name: \"Long Ping\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Living Legends\" title on the blackboard, emphasizing the main topic.\n   - She writes \"Spirit\" under the \"Challenges\" section, linking it to Long Ping's journey.\n   - The teacher gestures towards the \"Solution/Answer\" section, indicating its importance in the lesson.\n   - She uses hand movements to connect the different sections, reinforcing the relationships between achievements, challenges, and solutions.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide titled \"Whole-Reading\" with text excerpts and highlighted phrases such as \"Give up,\" \"No!,\" and \"We are the winner!\"\n   - The slide includes a section about the 2015 World Cup, mentioning \"Best player awarded\" and \"Long Ping's heart problems.\"\n   - No explicit homework or next lesson details are visible, but the slide content suggests a focus on reading comprehension and key phrases for further study.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a mind map titled \"Living Legends,\" structured around the central figure \"Long Ping.\" The map branches into three key categories: \"Achievements,\" \"Challenges,\" and \"Solution/Answer.\" The teacher visually reviews these elements by pointing to the title, emphasizing the overarching theme. She writes \"Spirit\" under \"Challenges,\" linking it to Long Ping's experiences. Moving through the map, she gestures towards each section, reinforcing connections between challenges and solutions. The screen beside the board shows a slide titled \"Whole-Reading,\" highlighting phrases like \"Give up,\" \"No!,\" and \"We are the winner!\" alongside references to the 2015 World Cup. The teacher's gestures focus on these key phrases, underlining their significance. No explicit homework instructions are visible, but the slide content suggests a focus on these highlighted texts for further reflection.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Positive Mindset",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[677.1364 -> 708.66]"
+      },
+      {
+        "id": "c2",
+        "label": "English Learning Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.1364 -> 708.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Role of Teamwork",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[714.58 -> 724.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Long Ping's Journey",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[725.92 -> 733.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Meningitis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.1364 -> 708.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Volleyball Life",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.1364 -> 708.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Spirit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.1364 -> 708.66]"
+      },
+      {
+        "id": "c8",
+        "label": "Solution Approach",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[677.1364 -> 708.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Mind Map - Living Legends",
+        "type": "Visual",
+        "original_text": "A mind map on the blackboard titled 'Living Legends.'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Slide - Whole-Reading",
+        "type": "Visual",
+        "original_text": "Slide showing 'Whole-Reading' with phrases like 'Give up', 'No!', and 'We are the winner!'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Positive mindset includes overcoming challenges in English learning."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Teamwork builds upon Long Ping's journey."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Long Ping's journey includes overcoming Meningitis."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Long Ping's journey includes her Volleyball life."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Long Ping's journey includes retaining spirit."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Solution approach builds upon understanding English learning challenges."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students explore the concept of maintaining a positive mindset."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "The mind map visually scaffolds the key aspects of Long Ping's journey."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "The slide summarizes the importance of teamwork through highlighted phrases."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

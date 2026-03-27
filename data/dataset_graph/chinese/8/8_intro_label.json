@@ -1,0 +1,165 @@
+{
+  "video_name": "8_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "- Clarify the core objectives and philosophy of the senior high school Chinese curriculum.  \n- Understand the relationship between the “standing out as a capable individual” concept and students’ core competencies.  \n- Analyze the role of the Chinese language curriculum in the comprehensive development of moral, intellectual, physical, aesthetic, and labor education.",
+  "transcript": "[0.0 -> 143.2] 高中语文课程我们的语文课程它是一门学习国家通用语言文字的综合性实践性课程因此我们的课程理念应当确定为以下几点第一要利要以利得数人为根本利得数人是我国教育任务的一个根本的方向我们现在的素质教育提倡的是德智体美劳全面发展的社会主义建设者和接班人而我们注意到德是处在第一位的所以说无论是语文课程也好还是其他课程也好我们的课程都应该以立得数人为教育的根本的宗旨所以我认为第一点是立得数人第二现在的语文教育与以往的教育不同它更立足于核心学生核心素养的发展我们传统的应试教育可能会更加让注重学生学习成绩的培养从而通过大量的练习来达到提高成绩这样的目的但是我们学生的语文核心素养却并没有得到提升因此现在的语文课程更加利索核心素养那核心素养是什么呢我认为核心素养就是复杂情境当中的问题解决能力所以具体来说就是指的是让学生在积极的语文实践活动当中积累建构并且在真实的语言应用情境当中表现出来的即语言思维审美文化与一体的一种核心素养我们的语文实践活动包括识字与写字阅读与鉴赏表达与交流等等让学生在课程当中通过这些语文的实践活动来逐步提升自己的核心素养从而达到学会运用国家语言文字能力这样的目标以上就是我的集体讲演的全部内容感谢各位评论老师。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The text on the slide is in Chinese: \"材料基因组学\" (Materials Genomics).\n\n#### 2. **The Title Event**\n- The title on the screen is \"材料基因组学\" (Materials Genomics). The teacher stands in front of the screen, presenting the slide without additional writing on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely emphasizing points related to the title slide. She occasionally looks at the screen and then back at the students.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the title slide \"材料基因组学\" displayed on the screen.\n- The teacher holds papers and gestures with her hands, possibly introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture, occasionally pointing towards the screen, likely to emphasize the title or related content.\n- Students are seated, facing the teacher and the screen, with some taking notes.\n\n**End:**\n- The teacher maintains her position in front of the screen, continuing to speak and gesture, reinforcing the introduction of the topic.\n- The slide remains unchanged, focusing on the title \"材料基因组学.\"\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, presenting the hook object: the title slide \"材料基因组学\" displayed prominently on the screen. The teacher holds papers and uses hand gestures to engage the students, likely emphasizing key aspects of the topic. Throughout the introduction, the teacher occasionally looks at the screen and then back at the students, maintaining a connection between the visual content and the audience. The slide remains static, focusing solely on the title, which serves as the main visual stimulus. The teacher's gestures and positioning in front of the screen help bridge the hook to the main topic, setting the stage for the exploration of materials genomics. This visual setup connects the new knowledge to the students' existing understanding by highlighting the title as a central concept, preparing them for a deeper dive into the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chinese Curriculum Philosophy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Moral Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Intellectual Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Physical Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c6",
+        "label": "Aesthetic Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c7",
+        "label": "Labor Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c8",
+        "label": "Language Skills",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c9",
+        "label": "Problem-Solving",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c10",
+        "label": "Socialist Builders",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 143.2]"
+      },
+      {
+        "id": "c11",
+        "label": "Materials Genomics Slide",
+        "type": "Visual",
+        "original_text": "Materials Genomics title slide displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Core competencies are an integral part of the curriculum philosophy."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Moral development is part of the educational philosophy."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Intellectual development is part of the educational philosophy."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Physical development is part of the educational philosophy."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Aesthetic development is part of the educational philosophy."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Labor education is part of the educational philosophy."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Core competencies include language skills."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Core competencies include problem-solving abilities."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Language skills contribute to developing socialist builders."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the concept being discussed."
+      },
+      {
+        "source": "c11",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The slide captures the students' engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

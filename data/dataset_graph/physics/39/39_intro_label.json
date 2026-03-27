@@ -1,0 +1,138 @@
+{
+  "video_name": "39_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic operating principles and classifications of sensors; master common sensor application examples and be able to analyze their operating contexts.",
+  "transcript": "[0.0 -> 3.78] 字幕由 Amara.org 社区提供。\n[11.0 -> 104.58] 各位老师好各位同学好我抽到的即兴演讲题目是你平时所看的教学书籍有哪些并且你有什么收获人生之路在于学作为教师更需要学习并且我们要树立终身学习的理念同样作为一名教师不仅要看与专业知识相关的书籍比如说一些理论知识提升我们的理论素养还需要看一些与学生发展相关的书籍比如说看一些中小学生他们的教育心理学的书籍从中我们可以了解当代中小学生他们身心发展的变化规律并且从中可以找到符合学生发展的一些教学过程我们制定一些规律符合学生发展的教学过程知道一些新的教学手段学生的发展我们要以学生为中心所以我们还要看与教学相关的书籍比如说教学论等等了解最新的教学方法教学手段习近平总书记说似有好老师要有道德情操有扎实学识有人爱之心还有理论所以我们也要从多方面提升自己的专业知识道德修养同时我们要贯彻四个引路人做学生锤炼品格的引路人做学生学习知识的引路人做学生创新思维的引路人并且还要做学生奉献祖国的引路人以上就是我的即兴演讲。\n[106.02 -> 108.02] 下面开始我的模拟授课环节。\n[113.36 -> 141.46] 同学们好上课上课大家看到这节课我们所要学习的内容大家感觉到陌生吗陌生那之前我们在中学的时候在解在解决电学一类问题的时候是不是已经见过一些传感器了比如说光学的传感器或者是与温度有关的传感器那今天我们就一起来学习生活当中常见的传感器它的基本原理和应用。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide features the title \"常见传感器的工作原理及应用\" (Common Sensors: Working Principles and Applications). The background is light with a red arrow graphic pointing to the right.\n\n#### 2. **The Title Event**\n- The title \"常见传感器的工作原理及应用\" is prominently displayed on the screen. The teacher stands beside the screen, holding papers, and appears to reference the slide as she speaks. There is no indication of her writing or underlining the title on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the content on the slide.\n- She stands near the screen, maintaining eye contact with the students, indicating engagement with the material presented.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the slide \"常见传感器的工作原理及应用\" displayed on the screen.\n- She holds papers, possibly notes or a lesson plan, and begins speaking.\n\n**Middle:**\n- The teacher continues to reference the slide, using hand gestures to emphasize key points.\n- Students are seated, facing the teacher and the screen, indicating active engagement with the lesson introduction.\n\n**End:**\n- The teacher remains near the screen, occasionally looking at the students and the slide, ensuring the introduction is clear.\n- No additional visual content or changes occur on the board or screen during this segment.\n\nThis structured visual analysis captures the teacher's actions and their direct link to the visual content presented, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the screen presents the title \"常见传感器的工作原理及应用\" alongside a red arrow graphic, serving as the hook to capture attention. To bridge to the topic, the teacher stands beside the screen, holding papers and using hand gestures to emphasize key points related to the slide content. The visual focus remains on the title throughout the introduction, establishing the lesson goal. The teacher's engagement with the slide and students helps connect the new knowledge to their existing understanding, setting the stage for exploring sensor principles and applications. This structured approach ensures a clear introduction to the main topic, preparing students for deeper exploration.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sensors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[113.36 -> 141.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Operating Principles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[113.36 -> 141.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Classification of Sensors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[113.36 -> 141.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Sensor Applications",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[113.36 -> 141.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Optical Sensors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[113.36 -> 141.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Temperature Sensors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[113.36 -> 141.46]"
+      },
+      {
+        "id": "c7",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "Common Sensors: Working Principles and Applications",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher holding papers, gesturing",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding sensors involves learning their operating principles."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Sensors are categorized based on types and classifications."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Exploring different applications of sensors in various contexts."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Optical sensors are one classification under sensors."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Temperature sensors are another classification under sensors."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of common sensors."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to emphasize the points on sensors."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures to highlight the operating principles."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Gestures used to discuss sensor applications."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Introduction to sensors engages students cognitively."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

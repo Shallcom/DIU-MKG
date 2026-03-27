@@ -1,0 +1,152 @@
+{
+  "video_name": "40_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Master the basic process of sexual reproduction in angiosperms; identify flower structures and their functions.",
+  "transcript": "[166.58 -> 263.46] 许多植物它既可以进行有性生殖也能进行无性生殖这节课我们首先就以桃树为例学习被子植物的有性生殖请同学们利用生活经验思考一下植物繁殖的第一个步骤应当是什么呀有答案吗可以翻阅书本思考一下来老师请你说今晚是形成了柱子种子之后我们就可以发育成新个体那首先第一个步骤其实应该是什么呢是的开花请坐那现在请同学同学们思考一下花儿结构包含哪些与生殖相关的有哪些结构还记得吗清明这些是它的一些基本结构那与生殖相关的是哪个结构啊瓷锐瓷锐这是和雄用雄运非常好那现在同学们完成书本的七杠一的图片的下面与花结构相关的部分。\n[264.86 -> 267.6] 老师请一位同学上来画一会儿。\n[286.58 -> 296.44] 这里边有个晚上的导演给你们看从下面看的这个简单的方法是吧。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"种子与植物的有性生殖——开花\" (Seeds and Plant Sexual Reproduction - Flowering).\n- The slide contains text: \"种子不可能到完全成熟的阶段，就提前进行有性生殖。\" (Seeds cannot undergo sexual reproduction before reaching full maturity).\n- The teacher gestures towards the slide, emphasizing the text.\n\n**Middle:**\n- The teacher interacts with a student in a light-colored jacket, pointing to the slide which now includes additional text: \"你们还知道哪些植物的有性生殖方式？\" (What other sexual reproduction methods in plants do you know?).\n- The teacher continues to gesture, highlighting the new text on the slide.\n- The slide updates to show a diagram of a flower with labeled parts, including a red-bordered flowchart.\n\n**End:**\n- The teacher moves to the blackboard, accompanied by another individual in a light blue sweater.\n- The teacher draws a simple diagram on the blackboard, using a piece of chalk.\n- The individual in the light blue sweater points to the diagram, indicating specific parts as the teacher explains.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide titled \"种子与植物的有性生殖——开花\" (Seeds and Plant Sexual Reproduction - Flowering).\n- Initial state includes text about seed maturity and a question about other plant reproduction methods.\n- A flower diagram with labeled parts and a red-bordered flowchart is displayed.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher adds a diagram on the blackboard while explaining, using chalk to draw lines and shapes.\n- **Modifications**: \n  - The slide updates to include a flower diagram and flowchart as the lesson progresses.\n- **Deictic Gestures**: \n  - The teacher points to specific parts of the slide text and the flower diagram, emphasizing key concepts.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight text on the slide.\n- The flower diagram on the slide is emphasized with color (red borders) to draw attention to important parts.\n- The teacher and the assisting individual point to specific areas on the blackboard diagram to stress key points.\n\nThis structured visual evolution helps transform abstract concepts into concrete knowledge through synchronized gestures and board content changes.",
+  "visual_narrative": "Initially, the digital screen displayed a slide titled \"种子与植物的有性生殖——开花\" (Seeds and Plant Sexual Reproduction - Flowering), emphasizing that seeds cannot undergo sexual reproduction before reaching full maturity. The teacher began by pointing to the text, highlighting the importance of seed maturity. As the lecture progressed, the slide updated to include a question about other plant reproduction methods, prompting student engagement. The teacher interacted with a student, reinforcing the concepts through discussion.\n\nThen, the teacher constructed a flower diagram on the digital screen, complete with labeled parts and a red-bordered flowchart, visually breaking down the reproductive process. This diagram served as the core visual anchor, guiding the explanation of plant reproduction stages.\n\nFinally, the teacher moved to the blackboard, where a simple diagram was drawn to further illustrate key points. The assisting individual pointed to specific parts of the diagram, tracing lines to emphasize connections between different reproductive stages. The teacher used dynamic gestures to align with the evolving content, ensuring visual cues matched the verbal explanations. The red borders and strategic pointing reduced cognitive load by focusing attention on critical elements, effectively reinforcing the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sexual Reproduction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Seed Maturity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Angiosperms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Flowering",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Plant Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Female Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "c7",
+        "label": "Male Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[166.58 -> 263.46]"
+      },
+      {
+        "id": "v1",
+        "label": "Plant Reproduction Slide",
+        "type": "Visual",
+        "original_text": "Seeds and Plant Sexual Reproduction - Flowering",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Seed Maturity Text",
+        "type": "Visual",
+        "original_text": "Seeds cannot undergo sexual reproduction before reaching full maturity",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Flower Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with labeled flower parts",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Sexual reproduction requires seed maturity."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Sexual reproduction in angiosperms."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Flowering is a stage in angiosperms' reproduction."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Plant structures include female parts."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Plant structures include male parts."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Plant structures are related to reproduction."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Slide highlights seed maturity importance."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Slide summarizes reproductive process with diagram."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Sexual reproduction visualized in slide."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm reproductive processes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

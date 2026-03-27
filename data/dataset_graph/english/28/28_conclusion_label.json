@@ -1,0 +1,180 @@
+{
+  "video_name": "28_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Understand the relationship between cosmic choice and one’s future; analyze cosmic choice as the frontier of humanistic development.",
+  "transcript": "[662.82 -> 684.54] 我认为宇宙的选择是我们人生的第二选择所以我认为这可能是我们的未来的选择吧。\n[686.0 -> 718.92] 我们也可以说它是人文发展的前沿对不对呢请坐下请坐下。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a structured diagram and key points.\n   - The layout includes a central heading \"Space: The Final Frontier\" with two main sections: \"Development\" and \"Importance.\"\n   - Under \"Development,\" there is a box labeled \"The west\" and \"China.\"\n   - The \"Importance\" section lists two points: \"to understand\" and \"to survive.\"\n   - At the bottom, the phrase \"The frontier of development\" is written.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main heading: \"Space: The Final Frontier\"\n   - Development section: \"The west,\" \"China\"\n   - Importance section: \"to understand,\" \"to survive\"\n   - Bottom phrase: \"The frontier of development\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Development\" section, specifically highlighting \"The west\" and \"China.\"\n   - The teacher gestures towards the \"Importance\" section, emphasizing \"to understand\" and \"to survive.\"\n   - The teacher writes \"The frontier of development\" at the bottom and points to it, reinforcing the conclusion.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in this segment. The focus remains on summarizing the lesson content visually presented on the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a structured diagram summarizing key points under the heading \"Space: The Final Frontier.\" The teacher visually reviews the content by pointing to the \"Development\" section, highlighting \"The west\" and \"China.\" Moving to the \"Importance\" section, the teacher emphasizes \"to understand\" and \"to survive.\" The phrase \"The frontier of development\" is written at the bottom, and the teacher points to it, reinforcing it as the core takeaway. No visual elements indicate homework or next steps in this segment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cosmic Choice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[662.82 -> 684.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Humanistic Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[686.0 -> 718.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Space: The Final Frontier",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Importance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c6",
+        "label": "The West",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c7",
+        "label": "China",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c8",
+        "label": "Understand",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c9",
+        "label": "Survive",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "c10",
+        "label": "Frontier of Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[662.82 -> 718.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Structured diagram with key sections: Development and Importance.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Development Section",
+        "type": "Visual",
+        "original_text": "Features concepts: The west and China.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Importance Section",
+        "type": "Visual",
+        "original_text": "Lists concepts: to understand and to survive.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Final Summary Phrase",
+        "type": "Visual",
+        "original_text": "The frontier of development.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Cosmic choice as a driver of humanistic development."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Blackboard diagram outlines the main topic of space."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "Development section includes geopolitical examples."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "includes",
+        "intent": "Importance section defines key reasons for exploration."
+      },
+      {
+        "source": "c10",
+        "target": "v4",
+        "relation": "emphasizes",
+        "intent": "The conclusion highlights development as a key point."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Example from geopolitical influence in development."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Example from geopolitical influence in development."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Importance is defined through understanding cosmic choice."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Importance is defined through survival and sustainability."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students are engaging with the visual summary of the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

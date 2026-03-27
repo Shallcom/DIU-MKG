@@ -1,0 +1,133 @@
+{
+  "video_name": "31_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Develop students' scientific inquiry abilities; promote complementary strengths among students through group cooperation; stimulate students' interest in scientific investigation.",
+  "transcript": "[0.0 -> 49.32] 并培养学生的科学探究能力我想在鉴于学生不同的情况下有的具有积极性有的不具有积极性我们要充分利用小组合作把积极高和积极不高的同学安排在一起让他们运用自己的优势互补然后从而促进科学实验的探究。\n[50.4 -> 60.0] 第二对于无所适从的同学我想的是作为老师我应该是积极地去引导他我觉得兴趣才是一个人最好的老师在这个过程当中我应该是给予一些引导然后让学生亲自动手去参与科学探究从科学探究当中得到科学获得科学探究是有魅力的让魅力来吸引他们从而让他们建立对科学探究的兴趣进而培养科学探究精神第三我要鼓励学生积极参与活动多观察日常生活当中我们的物理源自于生活而要服务于社会像就例如光子之间传播我们可以比如说学生在日常生活当中比如演唱会这些我们都可以看到光打出来实现直线传播的现象那么我们就可以去引导学生那光在液体当中和固体当中又会如何传播呢让他们利用手中的工具比如用激光笔在水中去探索一下光是如何传播的第四我觉得科学探究精神一个是还要利用结合科学的前沿比如我们在在日常生活当中讲物理课的时候要经常去贯穿一些科学的精神从而激发学生的自豪感让学生感受到物理的魅力让物理来源于生活而服务于社会让学生树立科校报国的目标激励学生科学探究好我的集体演讲完毕下面开始我的试讲上课同学们好下面请同学们来看一这个视频在欣赏视频的过程当中边看边思考视频中能够得到什么样的信息。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is an image of a car displayed on the screen, accompanied by the text \"声の利用\" (Utilization of Sound).\n\n#### 2. **The Title Event**\n- The title \"声の利用\" (Utilization of Sound) is displayed on the screen. The teacher stands beside the screen, presenting the content without additional writing or underlining.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the content displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen indicating the 10th National Contest of Teaching Skills for Teacher College Students.\n- Transition to the classroom setting where the teacher stands at the podium.\n\n**Middle:**\n- The teacher presents the slide titled \"声の利用\" (Utilization of Sound) on the screen.\n- The slide includes an image of a car and other objects related to sound applications.\n- The teacher gestures towards the screen, likely explaining the content related to the utilization of sound.\n\n**End:**\n- The teacher continues to engage with the audience, maintaining focus on the content displayed on the screen.\n- No additional visual changes occur on the board or screen during this segment.\n\nThis structured visual analysis captures the evolution of the lesson introduction, focusing on the teacher's actions and the visual content presented.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the podium, presenting a slide that features an image of a car as the initial visual stimulus, labeled \"声の利用\" (Utilization of Sound). This hook object sets the stage for the lesson's focus on sound applications. The teacher holds papers and gestures towards the screen, directing attention to the displayed content. The slide remains consistent, emphasizing the theme without transitioning to additional visuals. The teacher's gestures likely highlight key elements on the screen, such as the car image, to engage students and establish a connection between everyday experiences and the scientific concept of sound utilization. This approach bridges the students' existing knowledge of sound in daily life to the more technical aspects of its applications, preparing them for deeper exploration of the topic. The introduction effectively links familiar contexts with new learning, creating a foundation for understanding the practical uses of sound.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Group Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 49.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Interest in Science",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[50.4 -> 60.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Hook Object Car Image",
+        "type": "Visual",
+        "original_text": "Image of a car with 'Utilization of Sound' text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Utilization of Sound",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the screen to emphasize content about sound",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Sound in Daily Life",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[50.4 -> 60.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Sound Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c10",
+        "label": "Complementary Strengths",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 49.32]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The car image is used as a visual hook to introduce the concept of sound utilization."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures towards the screen to emphasize the concept of sound utilization."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Scientific inquiry is enhanced through group cooperation among students."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Scientific inquiry includes fostering interest in science."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "The visual hook aids in engaging students cognitively."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Utilization of sound includes various applications."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Relates everyday experiences of sound to its scientific applications."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Group cooperation is enhanced by complementary strengths among students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

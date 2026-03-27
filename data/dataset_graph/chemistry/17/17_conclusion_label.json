@@ -1,0 +1,139 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Master the basic principles of addition and condensation polymerizations; compare and analyze the similarities and differences of the two polymerization reactions; apply the acquired knowledge to conduct a preliminary analysis of polymer synthesis.",
+  "transcript": "[591.0 -> 611.3] 下面接成的这一个反复出现的重复单元是它们的链接非常好请走谢谢你那像这样子的单体分子间通过缩合反应生成高分子的反应我们就把它叫做缩合反应。\n[621.0 -> 710.48] 同学们来观察一下这两个概念加剧反应缩合反应觉不觉得它们有一些相似之处呢那它们之间有什么异同呢来我们来看一下观察一下它们有什么不一样这位同学你发现它们有什么不一样就是对于缩合反应的话它两边会有这个强激和轻而对于加剧反应它是它中间都是以什么来连接的单键化学键来连接的非常好请坐那我们发现了那它们有什么相同之处呢我们说过这个是一个什么方法高分子化合物合成的方法那这两个反应都达到了什么目的我们刚刚说的探练增长的目的那所以它们都可以增长探练但是呢它们形成的微观原理是不相同的由于我们的加剧反应刚刚我们说过它是谁的连接化学键之间的断裂和重新生成那缩剧反应呢它并不是通过化学键来连接的而且在这个反应中它有什么的产生有水也就是我们说的副产物的生成那这个过程我们发现它们两个就是从存在这些反应原理上的一统的。\n[729.76 -> 804.1] 那下面就让我们回顾一下我们本节课学习了什么呀为我们认识了合成高分子的两种基本方法而且对于缩聚反应我们是有止化反应进行一个知识迁移来认识它的认识了它们反应原理存在的地头那同学们通过今天的学习除了粤语系还有我们刚刚的聚合反应的这个其实我们还可以根据这个思路来认识其他高分子有机化合物是如何形成的那建立了一个有机化合物化合物合成的一般思路模型好谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen, which lists the types of reactions involving high molecular compounds.\n   - The slide is structured as a bullet list with four main categories.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings on the slide are:\n     - 加聚反应 (Addition Polymerization)\n     - 缩聚反应 (Condensation Polymerization)\n     - 配位反应 (Coordination Reaction)\n   - The blackboard also contains:\n     - 高分子化合物形态 (Structure of High Molecular Compounds)\n     - 加聚反应 (Addition Polymerization)\n     - 缩合反应 (Condensation Reaction)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the slide in order, emphasizing the different types of reactions.\n   - She gestures towards the blackboard, highlighting the written formulas and terms, particularly the distinction between addition and condensation polymerization.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The video ends with a black screen, suggesting the conclusion of the lesson without additional instructions visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing a bullet list summarizing the types of reactions involving high molecular compounds. The teacher points to each bullet point in sequence, emphasizing the distinctions between addition polymerization, condensation polymerization, and coordination reactions. She briefly pauses on the final point, reinforcing the key concepts. The blackboard also displays related formulas and terms, with the teacher gesturing towards these to highlight their importance. No visual homework or next-step instructions are shown, concluding the lesson with a clear focus on the summarized reactions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Addition Polymerization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.0 -> 710.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Condensation Polymerization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.0 -> 710.48]"
+      },
+      {
+        "id": "c3",
+        "label": "Coordination Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[729.76 -> 804.1]"
+      },
+      {
+        "id": "c4",
+        "label": "High Molecular Compounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[729.76 -> 804.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Bonds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[621.0 -> 710.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Byproduct Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[621.0 -> 710.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Understanding Differences",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[621.0 -> 710.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Visual",
+        "original_text": "Slide summarizing reaction types involving high molecular compounds.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Formula Display",
+        "type": "Visual",
+        "original_text": "Formulas and terms on the blackboard.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Addition and condensation polymerizations as types of reactions."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "High molecular compounds are studied through addition polymerization."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "High molecular compounds are analyzed in the context of condensation polymerization."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide visually represents addition polymerization."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Slide visually represents condensation polymerization."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding chemical bonds in polymerizations."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Display of formulas supports understanding of addition polymerization."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Display of formulas supports understanding of condensation polymerization."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Condensation polymerization involves byproduct formation."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Coordination reaction contributes to understanding high molecular compounds."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,158 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the characteristics of organic reactions and the diversity of their products; master the factors that influence the selectivity and atom economy of organic reactions.",
+  "transcript": "[606.74 -> 621.8] 这也就是我们之前在写我们的有机化学反应方程式呢我们用的不是等于号而是箭头也就是说我们有机化学反应呢会产生大量的负产物。\n[635.74 -> 656.44] 所以我们要加强我们的原子利用率还有我们的一些反应的选择性或者说有一些反应通过不同的催化剂它会产生的产物就会有所不同甚至是我们可以改变一些温度浓度等条件。\n[658.64 -> 661.3] 好我的授课到此结束谢谢大家。\n[665.74 -> 665.92] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains a list of key points written in Chinese characters.\n   - The presentation slide displays a blue box with white text summarizing the lesson.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - 氮及其化合物 (Nitrogen and its Compounds)\n     - 一、氮的化合物 (1. Nitrogen Compounds)\n     - 二、氮的固定 (2. Nitrogen Fixation)\n     - 原子经济性反应 (Atom Economy Reaction)\n     - 合成氨反应 (Haber Process)\n   - **Presentation Slide**:\n     - 谢谢大家！请各位评委专家批评指正！ (Thank you everyone! Please critique and correct, judges!)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the list of key points.\n   - The teacher gestures towards the presentation slide, emphasizing the closing statement.\n   - The teacher uses hand movements to indicate the completion of the lesson, likely summarizing the main points visually presented.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The slide concludes with a thank you message, suggesting the end of the lesson without additional assignments visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a blue box containing a closing message, while the blackboard lists key points about nitrogen and its compounds. The teacher points to each item on the blackboard, moving systematically through the list to visually review the main topics covered. She emphasizes the final points by gesturing towards the presentation slide, highlighting the closing statement. The teacher's gestures suggest a thorough recap, ensuring all key concepts are visually reinforced. No additional homework or next-step instructions are visible, indicating the conclusion of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Organic Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[606.74 -> 621.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Atom Economy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.74 -> 656.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Selectivity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.74 -> 656.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Catalysts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.74 -> 656.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Temperature & Concentration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.74 -> 656.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Nitrogen Compounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Phase 4: Conclusion"
+      },
+      {
+        "id": "c7",
+        "label": "Nitrogen Fixation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Phase 4: Conclusion"
+      },
+      {
+        "id": "c8",
+        "label": "Haber Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "Phase 4: Conclusion"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Key Points",
+        "type": "Visual",
+        "original_text": "Key points written on blackboard regarding nitrogen compounds, nitrogen fixation, and Haber process.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Closing Presentation Slide",
+        "type": "Visual",
+        "original_text": "Slide with thanks and invitation for critique from judges.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Organic reactions improve atom economy through selective pathways."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Selectivity is a part of achieving atom economy."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Selectivity evolves from understanding organic reactions."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Selectivity can be influenced by different catalysts."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Temperature and concentration affect selectivity."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Key knowledge about nitrogen compounds is visualized on blackboard."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Information on nitrogen fixation is represented on the blackboard."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The Haber Process is outlined on the blackboard as a key procedure."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The slide summarizes the conclusion of the lesson on organic reactions."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Closing remarks and invitation for critique are emphasized to keep students engaged."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Engagement is facilitated through visual representation of key concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,147 @@
+{
+  "video_name": "27_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the teaching objectives and methods of the high‑school ideological and political course; analyze the impact of the teaching process on students’ political identity and their capacity for social participation.",
+  "transcript": "[0.0 -> 35.16] 都会有自己的一些认识而我也有一些自己的认识。\n[36.24 -> 67.24] 首先高中私政课的教学过程应该是引导启发要激发学生的政治认同道德观念科学精神和公共参与等各方面的意识同时高中私政课的教学过程也是一个点亮学生的过程点亮学生不仅是教会学生知识同时也是教导学生正确认识世界的态度和正确改造世界的方法。\n[69.1 -> 122.4] 我对私政课教学过程的认识还有它也是指引学生走入社会实践的一个重要环节中学生通过学习高中私政课课程可以在社会实践中更好地步入中国式现代化的进程为实现中国梦做出自己的贡献相信大家都听过这样一句话遇见光追逐光成为光散发光我对私政教学过程本质的把握和认识还十分地任重道远而曾经也有过许多优秀的思政科教师在教学过程中通过这些指引过我我也希望能成为这样的光并继续散发光我今天的集赛演讲到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is a digital slide displayed on the screen. It features an image of a traditional Japanese castle with a snowy landscape. The text on the slide is in Japanese, which appears to be the title or introduction to the lesson.\n\n#### 2. **The Title Event**\n- **Title on Screen**: The title on the screen is written in Japanese: \"日野市観光協会公式サイト\" (Hino City Tourism Association Official Site).\n- **Teacher's Action**: The teacher stands beside the screen, likely presenting or discussing the content. There is no visible action of writing or underlining, as the title is part of the digital slide.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or blackboard in this segment.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: The teacher is standing near the blackboard and occasionally glances at the screen. There are no specific gestures like pointing or circling observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands at the front of the classroom, positioned next to the blackboard and the digital screen.\n- The screen displays a slide with an image of a Japanese castle and the title \"日野市観光協会公式サイト.\"\n\n**Middle**\n- The teacher remains stationary, likely explaining or introducing the content on the screen.\n- The blackboard is mostly blank, with no additional writing or diagrams visible.\n\n**End**\n- The teacher continues to stand by the screen, maintaining focus on the displayed content.\n- No changes occur on the blackboard or screen during this segment.\n\n### Summary\nThe introduction phase of the lesson centers around a digital slide featuring a Japanese castle image and the title \"日野市観光協会公式サイト.\" The teacher's actions are minimal, primarily involving standing and possibly discussing the content. No specific learning objectives or additional gestures are observed in this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, positioned beside a blank blackboard and a digital screen displaying a captivating image of a traditional Japanese castle in a snowy landscape. This visual hook, accompanied by the title \"日野市観光協会公式サイト,\" serves as the opening stimulus, drawing the students' attention. The teacher remains stationary, likely providing an overview or context related to the image. There is no transition observed in the visual aids during this segment; the focus remains on the initial slide. The teacher's actions are minimal, primarily involving standing and possibly discussing the content, without specific gestures or interactions with the blackboard. This setup suggests an introduction that connects the visual context of the castle to broader themes, potentially linking cultural or historical knowledge to the lesson's objectives, setting the stage for deeper exploration in subsequent parts of the class.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Political Identity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c2",
+        "label": "Moral Values",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Spirit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Public Participation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Knowledge Transfer",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c6",
+        "label": "Correct Worldview",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c7",
+        "label": "Correct Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.24 -> 67.24]"
+      },
+      {
+        "id": "c8",
+        "label": "Social Practice",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[69.1 -> 122.4]"
+      },
+      {
+        "id": "c9",
+        "label": "Chinese Modernization",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[69.1 -> 122.4]"
+      },
+      {
+        "id": "c10",
+        "label": "Chinese Dream",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[69.1 -> 122.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Japanese Castle Slide",
+        "type": "Visual",
+        "original_text": "Slide of a traditional Japanese castle with title 'Hino City Tourism Association Official Site'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Initial Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Linking political identity to moral values development."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Connecting political identity to a scientific spirit."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Development of moral values to enhance public participation."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Transferring knowledge to understand the correct worldview."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Transferring knowledge to employ correct methods."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Social practice efforts contribute to Chinese modernization."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Chinese modernization is a step towards achieving the Chinese dream."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The slide aims to capture and engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

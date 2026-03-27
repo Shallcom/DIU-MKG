@@ -1,0 +1,159 @@
+{
+  "video_name": "24_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Promote students’ ability to describe specific wildlife‑protection actions in English; encourage students to use simple sentence structures to express their opinions.",
+  "transcript": "[209.66 -> 212.06] 所以说到野生物有没有去旅游过有喜欢动物的有什么动物最喜欢的有蟹蟹或猴子猴子好他们两个都很可爱对不对那么这就是你的情况吧假设你是一名学生的成员吧请你制作一个姿势来对待人们的行动。\n[214.12 -> 224.52] 我会给你三十秒时间和你的伙伴讨论一下你会做什么来制作姿势的行动吧好吗你们可以开始讨论现在的讨论吧。\n[230.0 -> 313.74] 好你告诉我你遇到过什么困难吗你请说说吧你对吧所以你可能会有些设计或内容问题在问题是简单的问题是可以的你请说吧有些动物在危险中而遭到困难可能是人们买了牠们的牙齿吧。\n[315.52 -> 367.3] 好的请坐下吧您提到牠们遭到的困难是牠们的牙齿吧好的那这个名字呢这个名字很奇怪吧作为一个姿态你很少看到这种名字吧所以你可以从这个姿态学到这个名字的结构好吗现在我们刚才提到的姿态可能是关于危险的动物和困难肯定会有些动作给我们做的吧好现在检查图表找出每个图表的总概念吧。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a classroom with a presentation slide titled \"Unit 2 Wildlife Protection.\"\n- The slide shows a task: \"Suppose you are a member of the school's 'Animal Protection Club,' please design a poster to call for people's actions.\"\n- Images of a whale, panda, and elephants are displayed.\n- The teacher gestures towards the slide, emphasizing the task.\n\n**Middle:**\n- The slide changes to a question: \"What difficulties did you encounter?\"\n- Two empty circles labeled \"Structure?\" and \"Content?\" appear.\n- The teacher points to these circles, prompting students to consider challenges in poster design.\n- The teacher uses hand gestures to illustrate the concepts of structure and content.\n\n**End:**\n- The slide transitions to a \"Prediction\" task: \"According to the pictures and title below, what information can you infer?\"\n- Two images are shown: \"Gail Jingly Chance\" and \"The Koala Hospital.\"\n- The teacher points to each image, guiding students to make predictions based on visual cues.\n- The teacher uses hand gestures to emphasize the connection between images and potential information.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the presentation slide with the \"Prediction\" task.\n- Initial state includes two images: one of a bird with the text \"Gail Jingly Chance\" and another of a koala with \"The Koala Hospital.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis by pointing to each image while speaking, guiding students to infer information.\n- **Modifications**: No erasures or modifications occur; the focus remains on the images and task.\n- **Deictic Gestures**: The teacher points to \"Gail Jingly Chance\" and \"The Koala Hospital,\" indicating these as key elements for predictions.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight the images, drawing attention to their relevance.\n- No color changes or additional markings are made on the slide, relying on gestures for emphasis.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "Initially, the bulletin board displayed a task for designing a wildlife protection poster, featuring images of a whale, panda, and elephants. The teacher began by emphasizing the importance of this task, gesturing towards the images to highlight the diversity of wildlife needing protection. Then, the teacher transitioned to a slide questioning the difficulties encountered, presenting empty circles labeled \"Structure?\" and \"Content?\" to prompt critical thinking. The teacher pointed to these circles, encouraging students to reflect on the challenges in organizing and conveying their message effectively. Finally, the teacher shifted focus to a prediction task, displaying images of \"Gail Jingly Chance\" and \"The Koala Hospital.\" The teacher traced the images, guiding students to infer relevant information. By using deliberate gestures and maintaining a clear visual anchor, the teacher reduced cognitive load, allowing students to engage deeply with each concept as it evolved from task initiation to analytical prediction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wildlife Protection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[209.66 -> 212.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Animal Protection Club",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[209.66 -> 212.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Poster Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[209.66 -> 212.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Structure Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.0 -> 313.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Content Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.0 -> 313.74]"
+      },
+      {
+        "id": "s1",
+        "label": "Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[214.12 -> 224.52]"
+      },
+      {
+        "id": "s2",
+        "label": "Responding Difficulty",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[230.0 -> 313.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Design a Poster Task",
+        "type": "Visual",
+        "original_text": "Suppose you are a member of the school's 'Animal Protection Club,' please design a poster to call for people's actions.",
+        "ocr_corrected": true,
+        "timestamp": "[209.66 -> 212.06]"
+      },
+      {
+        "id": "v2",
+        "label": "Structure and Content",
+        "type": "Visual",
+        "original_text": "What difficulties did you encounter? - Structure? - Content?",
+        "ocr_corrected": true,
+        "timestamp": "[230.0 -> 313.74]"
+      },
+      {
+        "id": "v3",
+        "label": "Prediction Task",
+        "type": "Visual",
+        "original_text": "According to the pictures and title below, what information can you infer?",
+        "ocr_corrected": true,
+        "timestamp": "[315.52 -> 367.3]"
+      },
+      {
+        "id": "v4",
+        "label": "Gail Jingly Chance Image",
+        "type": "Visual",
+        "original_text": "Image of a bird with the text 'Gail Jingly Chance'",
+        "ocr_corrected": true,
+        "timestamp": "[315.52 -> 367.3]"
+      },
+      {
+        "id": "v5",
+        "label": "Koala Hospital Image",
+        "type": "Visual",
+        "original_text": "Image of a koala with 'The Koala Hospital'",
+        "ocr_corrected": true,
+        "timestamp": "[315.52 -> 367.3]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Illustrates the task related to the Animal Protection Club."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Represents the structure challenges in poster design."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Represents the content challenges in poster design."
+      },
+      {
+        "source": "v3",
+        "target": "v4",
+        "relation": "includes",
+        "intent": "Connects prediction task to specific image."
+      },
+      {
+        "source": "v3",
+        "target": "v5",
+        "relation": "includes",
+        "intent": "Connects prediction task to specific image."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Development of poster related to wildlife protection."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "guides_discussion",
+        "intent": "Students brainstorm ideas about poster design."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students reflect upon structure challenges in design."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students reflect upon content challenges in design."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,140 @@
+{
+  "video_name": "10_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "- Understand how crystal structure affects material properties and applications.  \n- Master strategies for learning mixed‑crystal concepts through modeling methods.  \n- Develop the ability to predict macroscopic properties from microscopic structures.",
+  "transcript": "[0.0 -> 186.36] 你们好我即兴演讲的题目是化学理论知识的教学策略对于我们化学呀必不可少地会遇到一些晦涩难懂的书本上的这些知识那同学们在面对这些知识的学习呢会难免地产生一种为难的情绪所以说我们需要将这种晦涩的知识转化为一种学生能够接受的知识看得见的最好可以摸得到的教学方法从而加强他们的这种学习兴趣而我想到了目前想到了两个教学策略首先就是情境式学习的教学策略首先情境式的学习可以通过融入问题与探究式的情境启迪学生的思维将抽象的理论融入问题中能够加强同学们理论联系实际的能力从而让同学们在实际中培养这种抽象思维的建立的这个过程第二个就是建立模型模型呢是一种化抽象为具体的非常重要的一种形式它能够将一些抽象的理论知识转化为二维甚至三维的更加直观的形式为同学们进行展现契合我们这种建模的方式也契合了我们证据推理与模型认知之后核心素养就比如我们在晶体结构的学习中经常运用建模的方式好我的即兴演讲到此结束下面开始我的教学我抽到的题目是我的教学内容是混合型晶体好上课同学们老师请我想问一下大家看到石墨这个标题大家觉得熟不熟悉啊很熟悉是吧我们在初中的时候就掌握过石墨还有金刚石等这种物质之间的联系那同学们我们来看项链切割刀具的刀具这个头还有铅笔芯电极棒它们之间看似毫无联系但是结合我们之前学过的知识它们都是由什么元素构成的碳元素非常好它们均有由碳元素构成但是呢金刚石可以作为项链等等那我们的石墨却只能够作为铅笔芯和电气棒这是为什么呢因为它们的结构它们的用途与性质差距极大那我们都说用途取决于性质那么性质取决于什么呢结构非常的好那么我们就带着这种思路来学习今天的这个石墨这种混合性晶体首先我们看到金刚石的结构模型。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The initial slide displayed on the screen reads \"综合分析——何题\" (Comprehensive Analysis - What Question). This slide is the hook object that initiates the lesson.\n\n#### 2. The Title Event\n- **Title**: \"综合分析——何题\" (Comprehensive Analysis - What Question)\n- **Teacher's Action**: The teacher stands in front of the screen, gesturing towards the title, likely emphasizing its importance. The title is displayed prominently on the screen without any underlining or additional markings.\n\n#### 3. The Objectives\n- **Bullet Points**: The slide transitions to show learning goals:\n  - \"结合具体语境，分析人物形象、思想感情、艺术手法\"\n  - \"学会分析，不满足于已知答案，追求更深层次的理解和感悟\"\n- **Visual Detail**: These objectives are presented in bullet points on the screen, with the teacher pointing towards them to highlight key aspects.\n\n#### 4. Key Gestures\n- **Gestures**: \n  - The teacher uses hand gestures to emphasize points, such as holding up fingers to count objectives.\n  - The teacher points to the screen, directing attention to specific text on the slide.\n  - The teacher occasionally looks at the students, engaging them with eye contact while gesturing.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Hook Object**: The screen displays \"综合分析——何题\" (Comprehensive Analysis - What Question).\n- **Teacher Action**: The teacher stands in front of the screen, gesturing towards the title to introduce the lesson.\n\n#### Middle\n- **Title Event**: The title remains on the screen as the teacher explains the lesson's focus.\n- **Objectives Slide**: The slide transitions to show learning objectives.\n  - **Teacher Action**: The teacher points to each bullet point, emphasizing the need to \"combine specific contexts to analyze character images, thoughts, emotions, and artistic techniques\" and to \"learn to analyze, not be satisfied with known answers, and pursue deeper understanding and insight.\"\n\n#### End\n- **Teacher Engagement**: The teacher continues to gesture and engage with the students, reinforcing the objectives displayed on the screen.\n- **Visual Detail**: The teacher's gestures link directly to the text on the screen, ensuring students focus on the key learning goals.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to specific visual content on the screen.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a screen displaying the hook object, \"综合分析——何题\" (Comprehensive Analysis - What Question). The teacher gestures towards this title, setting the stage for the lesson. As the session progresses, the slide transitions to reveal the main topic, focusing on learning objectives. The teacher actively engages with the content, pointing to each bullet point on the screen, which outlines the goals of analyzing character images, thoughts, emotions, and artistic techniques, and encourages deeper understanding beyond surface-level answers. Throughout this transition, the teacher uses hand gestures to emphasize key points, ensuring students' attention is directed to the evolving visual content. This structured approach links the introduction to students' existing analytical skills, preparing them to delve into more complex literary analysis, thus bridging prior knowledge with new learning objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Comprehensive Analysis Slide",
+        "type": "Visual",
+        "original_text": "Comprehensive Analysis - What Question",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Learning Objectives Slide",
+        "type": "Visual",
+        "original_text": "Combine specific contexts to analyze character images, thoughts, emotions, and artistic techniques. Learn to analyze, not be satisfied with known answers, and pursue deeper understanding and insight.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Crystal Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 186.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Material Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 186.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Modeling Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 186.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Macroscopic Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 186.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Microscopic Structures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 186.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Graphite Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[186.36 -> end]"
+      },
+      {
+        "id": "c7",
+        "label": "Diamond Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[186.36 -> end]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> end]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of comprehensive analysis related to crystal structures at the beginning of the lesson."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding crystal structure is foundational to knowing how material properties emerge."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Crystal structures are part of the broader category of microscopic structures."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Modeling methods help describe microscopic structures to predict behaviors."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "develops",
+        "intent": "Macroscopic properties can be predicted based on understanding microscopic structures."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Learning objectives slide scaffolds the procedures for modeling methods."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Graphite and diamond structures are examples of mixed-crystal concepts discussed in class."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged when exploring modeling methods for microscopic structures."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize critical thinking objectives linking visual content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

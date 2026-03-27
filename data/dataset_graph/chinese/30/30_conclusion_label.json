@@ -1,0 +1,151 @@
+{
+  "video_name": "30_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Grasp the process and symbolic meaning of the female protagonist’s emotional transformation; master the application and analysis of the Gu‑Wen technique in poetry.",
+  "transcript": "[634.98 -> 651.62] 齐则有岸习则有畔也就是说齐和习它都有它的岸是用了顾文的手法那么作者女主人公她还想表达怎样的情感呢为什么她要在这里说其则有案反称什么呢男子已经变心了那么其则有案我们这一段婚姻也应该结束了你觉得这个时候的女主人公她还沉浸在那种鬼那种悲痛当中吗。\n[654.12 -> 704.54] 她应该是怎样的她说反事不思亦以焉哉你感受到了什么他为什么要把这句话写出来呢其则有案其则有判亦以焉哉我们能够感受到的是女主人公的那种决绝我一定要结束这一段错误的婚姻对吗所以在这个时候女主人公不再沉浸在悲伤的痛苦当中而是勇于站出来对这段错误的感情说不这个时候他已然清醒他经过深思所以我们概括为思之河。\n[722.92 -> 753.9] 同学们这一节课我们抓住了奇水这个意象探究了女主人公的情感变化那么就请大家运用这样的方式去阅读黎骚结合黎骚的香草美人意象来探究黎骚的思想情感这节课就上到这里下课同学们再见。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains handwritten Chinese text, including phrases like \"热恋\" (passionate love), \"可可的爱\" (Keke's love), and \"悔之可悲\" (regrettable).\n   - The digital screen displays a slide with a green header and several bullet points in Chinese, including a list of key terms and phrases.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - \"热恋\" (passionate love)\n     - \"可可的爱\" (Keke's love)\n     - \"悔之可悲\" (regrettable)\n   - Digital Screen:\n     - Key terms and phrases related to the lesson topic, including \"热恋\" (passionate love), \"可可的爱\" (Keke's love), and \"悔之可悲\" (regrettable).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing at the handwritten phrases to emphasize key points.\n   - The teacher occasionally turns to the digital screen, likely to reference or highlight the content displayed.\n   - The teacher uses hand movements to underline or circle important terms on the blackboard, such as \"热恋\" and \"悔之可悲.\"\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the lesson content through the blackboard and screen, with no additional slides or board sections visible for next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying key terms and phrases, complemented by handwritten notes on the blackboard. The teacher visually wraps up the lesson by pointing to each phrase on the blackboard, such as \"热恋\" and \"悔之可悲,\" emphasizing their significance. She gestures towards the digital screen, likely aligning the content with the board notes. To highlight the core takeaway, she underlines important terms on the blackboard, ensuring they stand out. No visual homework or next-step instructions are present, focusing solely on consolidating the lesson's key points through deliberate gestures and clear visual emphasis.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Passionate Love",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[634.98 -> 651.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Keke's Love",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[634.98 -> 651.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Regrettable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[634.98 -> 651.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Emotional Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[654.12 -> 704.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Gu-Wen Technique",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[634.98 -> 651.62]"
+      },
+      {
+        "id": "c6",
+        "label": "End of Marriage",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[654.12 -> 704.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Decision",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[654.12 -> 704.54]"
+      },
+      {
+        "id": "c8",
+        "label": "Blackboard Text",
+        "type": "Visual",
+        "original_text": "Certain important terms handwritten: Passionate Love, Keke's Love, Regrettable",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Digital Screen",
+        "type": "Visual",
+        "original_text": "Slide showing key terms like Passionate Love, Keke's Love, Regrettable.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Exploration",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Links the emotional concept of Passionate Love to a specific instance, Keke's Love."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "reflects",
+        "intent": "Reflects the transition from Passionate Love to Regrettable love."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Illustrates the protagonist's emotional transformation leading to the end of marriage."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "leads_to",
+        "intent": "Emotional Transformation leads to a firm Decision."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "enables",
+        "intent": "Gu-Wen Technique facilitates the depiction of Emotional Transformation."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The Blackboard Text visualizes concepts outlined on the Digital Screen."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the concept of Passionate Love through handwritten annotation."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "The Digital Screen provides a summary of Emotional Transformation."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "engaged_with",
+        "intent": "Students are engaged in reviewing Emotional Transformation."
+      },
+      {
+        "source": "s2",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to brainstorm about the Decision process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

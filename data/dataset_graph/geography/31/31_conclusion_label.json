@@ -1,0 +1,178 @@
+{
+  "video_name": "31_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Understand the differences between near‑surface and upper‑air atmospheric circulations; analyze the mechanisms by which temperature differences affect wind direction; recognize the multi‑factor influences on atmospheric motion.",
+  "transcript": "[704.697267 -> 749.22] 好来抬头我们还从哪里说刚刚我们怎么分析的比热熔对不对那么我们以近地运用而例海水和陆地谁的比例更大海水所以它在白天的时候升温要慢那相对于陆地来说海水处的温度冷而陆地处的空气热那么在这里就形成了上升的空气而在海水上方的空气的运行形式是下沉在根据密度上的差异所以通勤地在近地表哪里的密度大所以形成了由海流向陆地上的一个空气那么在高空是这样的所以在白天的时候近地表形成的是什么风海风同样我们也可以分析在夜晚的时候由于降温的差异形成的就是陆风但是其实上我们我们现在分析的海部风的模式不一定是成立的我们想有时候我们在海边晚上在海边吹的风向也不一定是从背后陆地吹向海面的对吧所以其实实际的情况要更加复杂这是为什么呢。\n[750.26 -> 760.44] 其实大气的运动受到很多的影响不同尺度的大气运动都会共同作用于这个地方会使得这个地方实际的风向不断的变化。\n[761.46 -> 762.6] 有的时候会让自己。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the slide displayed on the screen. It features diagrams illustrating the sea-land breeze phenomenon, with two 3D models showing land and sea temperature differences.\n   - The slide includes text in Chinese, with headings and bullet points summarizing key concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains diagrams with labels indicating land and sea temperature differences.\n   - Key phrases visible include:\n     - \"任前预习提示三：海陆风现象\"\n     - \"【课上思考】请分析海陆风现象的成因——昼夜温差，实际情形为何与我们想象的有一定偏差？\"\n     - \"大气运动现象复杂，不仅受热力因素影响，还会受到风向、风速等其他因素影响。\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the diagrams, likely explaining the temperature differences between land and sea.\n   - The teacher points to the text on the slide, emphasizing the complexity of atmospheric movements and factors affecting sea-land breezes.\n   - The teacher uses hand movements to highlight the contrast between the two diagrams, possibly illustrating the concept of temperature-driven air movement.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current topic.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying diagrams illustrating the sea-land breeze phenomenon, featuring two 3D models that highlight temperature differences between land and sea. The teacher points to each diagram in sequence, emphasizing the contrast in temperature and air movement. He gestures towards the text on the slide, particularly focusing on the complexity of atmospheric movements and the factors influencing sea-land breezes. The teacher uses hand movements to trace the differences between the diagrams, reinforcing the key concepts visually. No explicit homework or next-step instructions are visible in the frames provided, keeping the focus on the summary of the current topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Air Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.697267 -> 749.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Land Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.697267 -> 749.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Sea Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.697267 -> 749.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Sea-Land Breeze",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[704.697267 -> 749.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Wind Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[750.26 -> 760.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Day Night Temperature Difference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[704.697267 -> 749.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Atmospheric Motion Complexity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[750.26 -> 760.44]"
+      },
+      {
+        "id": "c8",
+        "label": "Wind Speed",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[750.26 -> 760.44]"
+      },
+      {
+        "id": "c9",
+        "label": "Density Differences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[704.697267 -> 749.22]"
+      },
+      {
+        "id": "c10",
+        "label": "Dynamic Movements",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[750.26 -> 760.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Sea-Land Breeze Diagram",
+        "type": "Visual",
+        "original_text": "Illustration of sea-land breeze with 3D models showing temperature differences.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Text on Slide",
+        "type": "Visual",
+        "original_text": "Key concepts of sea-land breeze phenomenon in Chinese.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Air temperature differences influence sea-land breeze formation."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Land temperature differences affect sea-land breeze."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Sea temperature differences are crucial for sea-land breeze."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Wind direction contributes to atmospheric motion complexity."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Density differences help explain sea-land breeze dynamics."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Day and night temperature differences influence sea-land breeze."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Complex interactions lead to dynamic atmospheric movements."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Wind speed is a factor in the complexity of atmospheric motions."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram illustrates the sea-land breeze concept."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Text highlights the complexity of atmospheric movements."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students focus on the diagram for understanding."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Students are engaged with the key concepts displayed."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

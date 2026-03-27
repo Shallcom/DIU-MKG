@@ -1,0 +1,179 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the conversion relationships and conditions among acetaldehyde, ethanol, and acetic acid; master the relationship between the structure and properties of organic compounds; become proficient in writing chemical equations for common organic reactions.",
+  "transcript": "[708.94 -> 745.18] 那刚才我们说的是乙醛能够与银亚溶液还有氧化与新制的嵌化酮悬殊液发生氧化还原反应实际上呢它还能够与氧气发生反应在这里氧气的反应我们可以发现它是在加热的条件下生成了乙酸对不对刚才一开始是不是有一个反应是加氢生成了什么来着乙醇在这里是加氧生成了乙酸那同学们来思考一下抢击全气缩击它们之间的转化是怎样的呢。\n[752.38 -> 772.62] 乙醇与乙醛之间可以发生演化化学反应而乙醛又可以转化为乙酸这是它们之间的转化关系课后呢请同学们可以写出它们之间转化的化学方程式通过刚才的分析我们可以看到性质结构就决定了其性质是吧那它还有哪些其它的性质呢我们稍后再去进行讨论。\n[782.38 -> 787.84] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard screen.\n   - The layout includes a structured slide with headings and bullet points, organized into sections with clear labels.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains a diagram with a chemical structure and annotations.\n   - Key phrases visible include:\n     - \"化学式\" (Chemical formula)\n     - \"分子式\" (Molecular formula)\n     - \"構造式\" (Structural formula)\n   - The slide also features a flowchart or diagram with arrows and labels indicating relationships between different chemical representations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical structure on the screen, emphasizing specific parts of the diagram.\n   - She gestures towards the annotations and labels, likely explaining their significance.\n   - The teacher uses hand movements to trace the flow of the diagram, highlighting connections between different sections.\n\n4. **Transition to Next Step**:\n   - The teacher navigates to a desktop view on the screen, indicating a transition or end of the lesson.\n   - No specific homework or assignment slide is visible, but the desktop view suggests preparation for the next activity or class segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a chemical structure diagram, accompanied by annotations and a flowchart illustrating different chemical representations. The teacher points to each section of the diagram in sequence, emphasizing the connections between the molecular, structural, and chemical formulas. She traces the arrows in the flowchart, highlighting the relationships and transitions between the concepts. To mark the core takeaway, she focuses on the central part of the diagram, ensuring it is visually emphasized. The lesson concludes with the teacher transitioning to a desktop view, indicating the end of the session without specific homework instructions visible on the screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Acetaldehyde",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.94 -> 745.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Ethanol",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[752.38 -> 772.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Acetic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.94 -> 745.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemical Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[752.38 -> 772.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[752.38 -> 772.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Molecular Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[752.38 -> 772.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Structural Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[752.38 -> 772.62]"
+      },
+      {
+        "id": "c8",
+        "label": "Oxidation Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[708.94 -> 745.18]"
+      },
+      {
+        "id": "c9",
+        "label": "Reduction Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[708.94 -> 745.18]"
+      },
+      {
+        "id": "c10",
+        "label": "Heat Reaction Condition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[708.94 -> 745.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "The main visual carrier is the interactive whiteboard with a structured slide containing chemical diagrams and annotations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemical Structure Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of chemical structures with labels for chemical, molecular, and structural formulas.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Flowchart of Conversions",
+        "type": "Visual",
+        "original_text": "Flowchart illustrating conversion relationships between acetaldehyde, ethanol, and acetic acid.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains the conversion of acetaldehyde to ethanol through chemical reaction."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Describes the conversion of ethanol to acetic acid through an oxidation reaction."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Chemical reactions typically involve the manipulation of chemical formulas."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Molecular formula represents the species involved in chemical reactions."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Structural formulas are often involved in specific organic reactions detailing connectivity."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "requires",
+        "intent": "Oxidation reactions for acetaldehyde require specific conditions such as heat."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "requires",
+        "intent": "Reduction reactions necessitate conditions like heat for facilitation."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The interactive whiteboard displays the chemical structure of acetaldehyde."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "The diagram provides a summary of chemical formulas for the discussed reactions."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Highlights the conversion pathway to form acetic acid in the flowchart."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students engage in understanding chemical reactions involving acetaldehyde and ethanol."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

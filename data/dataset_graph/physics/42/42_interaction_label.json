@@ -1,0 +1,166 @@
+{
+  "video_name": "42_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the utilization of nuclear energy and its importance.",
+  "transcript": "[450.76 -> 547.12] 好那同学们想我们想要这个链式反应的发生它是在任何情况下都能够发生吗同学们想一想如果我要让它发生应该具备哪一些条件呢同学们以小组为单位猜想一下思考一下好经过了思考时间相信同学们心里也有了答案了我们可以看到铀啊它是一个原子对不对原子呢中间具有原子核那你的中子在和它发生撞击的过程中那如果你的中子你的铀和你的原子的内部空隙如果过大那我们的中子还能和它的原子核的中心容易发生一个碰撞吗不容易是不是那在什么情况下它才会容易发生一个碰撞呀是不是在我们的原子的空隙没有那么大的时候是不是才能够保证我们的链式反应的发生对不对那我们就把这个链式反应发生的一个最小的它的体积呢称为临界体积相应对应的质量呢我们称为临界质量。\n[569.66 -> 570.76] 好那我们既然能够知道这个变变反应的相应的原理之后呢其实早在很久之前我国的科学家呢也有过相应的研究我们作为一个中国的新生代也应该了解一下我们中国在科技方面的一些研究史我们可以看到钱山强和他的夫人啊也一起研究了相应的这些原子的原子的知识那我们经过研究之后能够知道我们一千克的油啊完全发生裂变之后它就能够相当于两千八百吨的煤完全扬烧时释放的一个化学能那也就是说只要一点点油就可以给我们的生活和生产带来了很多很多的能量那我们在现在关键就要学会如何将这些能量利用到我们生活当中去。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content on the blackboard, specifically the text written in Chinese: \"一、核膜是\" and \"二、核膜表面的核孔复合体\". The teacher also referred to the diagram on the screen, which depicted a biological process involving cell structures.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While engaging with the students, the teacher held papers and occasionally pointed to the blackboard, emphasizing key points. She used hand gestures to highlight the structure of the text, aiding in comprehension.\n- The teacher also turned towards the screen, linking the blackboard content with the diagram displayed, providing a visual connection between the written text and the graphical representation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher wrote additional text on the blackboard, elaborating on the points discussed. This included writing \"核孔复合体\" (nuclear pore complex) to clarify the topic.\n- She used a pointer to trace the text on the blackboard, ensuring students followed along. This visual tracing helped reinforce the structure and flow of the information being discussed.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher starts by writing on the blackboard, outlining the main points: \"一、核膜是\" and \"二、核膜表面的核孔复合体\".\n  - She makes a sweeping gesture to invite class participation.\n\n- **Middle:**\n  - The teacher points to the text on the blackboard, emphasizing \"核膜表面的核孔复合体\".\n  - She refers to the diagram on the screen, using hand gestures to connect the blackboard content with the visual representation.\n\n- **End:**\n  - The teacher writes \"核孔复合体\" on the blackboard, providing a visual confirmation of the topic.\n  - She uses a pointer to trace the text, ensuring clarity and focus for the students.\n\nThis structured approach ensures that the teacher's visual strategies effectively guide the co-construction of knowledge, linking gestures, board content, and screen visuals seamlessly.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed key points: \"一、核膜是\" and \"二、核膜表面的核孔复合体\", setting the stage for the lesson. The teacher began by making a sweeping gesture across the classroom, inviting students to engage actively with the content. This broad gesture signaled the start of an interactive session, encouraging participation.\n\nAs the discussion progressed, the teacher moved to the blackboard, pointing to the text \"核膜表面的核孔复合体\" to emphasize its importance. While a student explained their understanding, the teacher walked over to the board, jotting down key terms and using hand gestures to highlight connections between the text and the diagram on the screen. This real-time scaffolding helped guide the student's explanation, ensuring clarity and focus.\n\nTo validate the student's input, the teacher wrote \"核孔复合体\" on the blackboard, providing a visual confirmation of the topic. She then used a pointer to trace the text, reinforcing the structure and flow of the information. This action served as a visual affirmation of the student's correct understanding.\n\nFinally, the teacher drew an arrow connecting the newly written term back to the main points on the board, linking the student's response to the core lesson content. This visual connection helped students see the relationship between their input and the broader lesson, facilitating a deeper understanding.\n\nThrough these gestures, the teacher transformed passive reception into active construction, enabling students to engage more deeply with the material and build their own understanding of the nuclear pore complex and its role in cell biology.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Nuclear Membrane",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Nuclear Pore Complex",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Chain Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Critical Volume",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Critical Mass",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Uranium Atom",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Atomic Nucleus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Neutron Collision",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[450.76 -> 547.12]"
+      },
+      {
+        "id": "c9",
+        "label": "Chemical Energy Release",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[569.66 -> 570.76]"
+      },
+      {
+        "id": "c10",
+        "label": "Qian Sanqiang's Research",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[569.66 -> 570.76]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Content",
+        "type": "Visual",
+        "original_text": "1. Nuclear membrane is 2. Nuclear membrane surface's nuclear pore complex",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Biological Diagram",
+        "type": "Visual",
+        "original_text": "Diagram depicting cell structures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Group Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Represents the concept of the nuclear membrane on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Highlights the nuclear pore complex as part of the blackboard content."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains the necessity of critical volume for chain reaction occurrence."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Describes critical mass in the context of sustaining chain reactions."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Involves uranium atoms in neutron collision processes."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Atomic nucleus plays a crucial role in neutron collision events."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Illustrates the release of chemical energy as part of the nuclear process discussion."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Qian Sanqiang's research contributes to understanding chemical energy release."
+      },
+      {
+        "source": "ss1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to brainstorm and understand the chain reaction principle."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Connects visual diagram with blackboard writing to support comprehension."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

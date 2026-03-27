@@ -1,0 +1,140 @@
+{
+  "video_name": "3_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the conditions under which gravity does work on an object when carrying a heavy load forward; be able to apply the learned knowledge to judge whether work is done in real‑world situations.",
+  "transcript": "[601.72 -> 626.16] 应该对提着包往前走手在拉力大点声这是第一个情况对第一个情况下其实也是第三个情况对吧当人提着包向前走此时重力的方向与包运动的方向是不是应该是垂直的所以此时这个重力对包不做功来接下来一个例题给大家两分钟的时间做一下来老师找一个同学上台上来来拿出来试一下来你来试一下吧上台上同学们自己拿出面戏本计算一下看看你与他计算的一致不一致。\n[636.5 -> 686.64] 这张画是我画的一张画的一。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a structured list of key points and a diagram.\n   - The layout includes:\n     - A heading: 功と功率 (Work and Power).\n     - A list under 功 (Work):\n       1. 公式: $W = F \\cdot L \\cdot \\cos\\theta$\n       2. 物理意味 (Physical Meaning)\n       3. 単位: ジュール (Unit: Joule)\n     - A section for 不做功 (No Work).\n     - A diagram illustrating the formula $F \\cdot L \\cdot \\cos\\theta$.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas:\n     - $W = F \\cdot L \\cdot \\cos\\theta$\n     - 功 (Work)\n     - 功率 (Power)\n     - ジュール (Joule)\n     - 不做功 (No Work)\n   - Diagram elements:\n     - Force vector $F$\n     - Distance $L$\n     - Angle $\\theta$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $W = F \\cdot L \\cdot \\cos\\theta$ and traces the components of the diagram.\n   - The teacher gestures towards the list items, emphasizing the physical meaning and units.\n   - The teacher circles the diagram to highlight the relationship between force, distance, and angle.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard.\n   - The screen displays a slide with text, but it is not clearly visible for transcription.",
+  "visual_narrative": "The lesson concludes with a structured blackboard summary centered on the core topic of Work and Power. The teacher visually reviews the content by pointing to each list item in sequence, briefly pausing on the formula $W = F \\cdot L \\cdot \\cos\\theta$ and tracing the diagram's components. The teacher emphasizes the relationship between force, distance, and angle by circling the diagram. Finally, the visual focus remains on the key concepts and formulas, reinforcing the lesson's core takeaways without explicit homework instructions visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Work Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Work Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Power Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Joule Unit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c5",
+        "label": "No Work Condition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c6",
+        "label": "Force Vector",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c7",
+        "label": "Distance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Angle Theta",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.72 -> 626.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard displays key points and a structured diagram emphasizing Work and Power.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram of Work Formula",
+        "type": "Visual",
+        "original_text": "Diagram illustrating the relationship among Force, Distance, and Angle in the work formula.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Calculation Task",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the formula through visual representation in the diagram."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Force vector is visually represented in the diagram to explain its role in the work formula."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Distance is visually represented in the diagram for educational clarity."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Angle is visually represented in the diagram to signify its importance in calculating work."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Understanding conditions where work is not done includes grasping the definition of work."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The blackboard summary scaffolds the diagram with key educational concepts."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The formula incorporates the use of Joules as the unit of work."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engaged_in",
+        "intent": "Students are engaged in calculating work based on the provided formula."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

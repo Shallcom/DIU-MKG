@@ -1,0 +1,156 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the migration and discharge order of cations and anions in an electrolytic cell; master the formulation of metal dissolution reactions under acidic conditions; analyze the phenomena of the copper‑plating experiment and the chemical principles underlying them.",
+  "transcript": "[609.16 -> 640.52] 现在这个溶液中有亚铁离子红离子还有没有还有还有硫酸根离子那你们说在阴阳极的放放电顺序又是如何的呢阳离子会移向阴极阴离子会移向阳极那你们觉得阳离子和放电顺序是怎样的呢亚铁离子跟亚铁离子放电还是铜离子放电在阴极的放电顺序要看它的得电子能力所以在阴极是铜离子进行放电那下面我请一位同学补充完整这档电极反应方程式好那个男生非常好在阴极同比可会隔电子生成同单阵所以那么这个实验就实现了镀铜对不对那在阳极又会发生什么反应呢。\n[642.54 -> 643.76] 请在我脸上写一下。\n[651.96 -> 693.58] 阳极是同单质阳极是非常好在阳极是同单质失去电子生成同离子生成的同离子阳离子在一项阴极进行放电生成了同单制那么这个实验它就完成了变度那么接下来请同学们完成问题和讨论一二。\n[695.02 -> 702.68] 以上是我模拟授课的全部内容请各位评论老师批评指正。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen displaying a slide titled \"提出问题，解决问题\" (Pose questions, solve problems).\n   - The slide prominently features the text \"P118问题和讨论\" (Page 118: Questions and Discussion).\n   - The blackboard contains handwritten notes and equations, including chemical formulas and mathematical expressions.\n\n2. **Key Knowledge Items (Content View)**:\n   - On the blackboard:\n     - Chemical formulas: $\\text{NaOH}$, $\\text{H}_2\\text{O}$, $\\text{CO}_2$.\n     - Mathematical expressions: $c_1V_1 = c_2V_2$, $c = \\frac{n}{V}$.\n     - Equations: $c_1V_1 = c_2V_2$, $c = \\frac{n}{V}$, $c = \\frac{m}{M \\cdot V}$.\n   - On the screen:\n     - Text: \"P118问题和讨论\" (Page 118: Questions and Discussion).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the screen, gesturing towards the text \"P118问题和讨论\" to emphasize the importance of the discussion section.\n   - The teacher points to the blackboard, highlighting the chemical formulas and equations, likely summarizing key concepts covered during the lesson.\n\n4. **Transition to Next Step**:\n   - The screen indicates a focus on \"Page 118: Questions and Discussion,\" suggesting that students should refer to this section for further study or homework.\n   - No explicit homework or assignment details are visible, but the reference to page 118 implies further reading or exercises related to the lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displaying \"提出问题，解决问题\" (Pose questions, solve problems) and \"P118问题和讨论\" (Page 118: Questions and Discussion). The teacher stands in front of the screen, directing attention to this text to emphasize the importance of engaging with the discussion section. The blackboard behind features key chemical formulas such as $\\text{NaOH}$, $\\text{H}_2\\text{O}$, and $\\text{CO}_2$, along with mathematical expressions like $c_1V_1 = c_2V_2$ and $c = \\frac{n}{V}$. The teacher gestures towards these equations, likely summarizing the core concepts covered. There is no explicit visual indication of homework, but the reference to page 118 suggests students should explore this section for further study. The teacher's focus on the screen and blackboard visually reinforces the lesson's key takeaways and directs students to the next steps in their learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Iron Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.16 -> 640.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Copper Ion Discharge",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[609.16 -> 640.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Ion Migration Order",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.16 -> 640.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Electrode Reaction Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[609.16 -> 640.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Copper Plating",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.96 -> 693.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Copper Ion Generation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.96 -> 693.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Copper Metal Loss",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.96 -> 693.58]"
+      },
+      {
+        "id": "c8",
+        "label": "NaOH",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[640.52 -> 642.54]"
+      },
+      {
+        "id": "c9",
+        "label": "H2O",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[640.52 -> 642.54]"
+      },
+      {
+        "id": "c10",
+        "label": "CO2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[640.52 -> 642.54]"
+      },
+      {
+        "id": "c11",
+        "label": "Concentration Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[640.52 -> 642.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Problem Solving Slide",
+        "type": "Visual",
+        "original_text": "Pose questions, solve problems; Page 118: Questions and Discussion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemical Formulas Blackboard",
+        "type": "Visual",
+        "original_text": "NaOH, H2O, CO2; Concentration Formulas",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[609.16 -> 702.68]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Includes understanding the order in which ions migrate and discharge."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Builds upon the electrode reaction equations to describe copper plating."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the importance of problem-solving and discussion."
+      },
+      {
+        "source": "c11",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visualizes mathematical concepts through formulas on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Copper ion generation evolves from the loss of electrons from copper metal."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Copper ion discharge builds upon the presence of iron ions."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "NaOH is visualized through its chemical formula on the blackboard."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,151 @@
+{
+  "video_name": "11_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Identify and differentiate the various types of high‑voltage electric shock; analyze the causes of high‑voltage electric shock.",
+  "transcript": "[666.759367 -> 723.06] 好我们刚才分析了低压触电的情况现在我们来看看高压触电的情况主要是我们靠近了那个电压特别大的带电体然后产生的那种触电情况就比如说现在这种这个小黄人他碰到了十分电压十分高的带电体然后发现了一种电弧触电然后还有一种就是当你靠近一个非常高压的带电体的时候那么它在地面上也会有一部分的电压当你一只脚踏进去的时候那你一只脚另一只脚没有踏进去此时两只脚之间也会产生电压差从而造成触电那么这种触电现象我们就叫做。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation screen.\n   - The blackboard contains handwritten notes, including the title \"8月3日 安全周間\" and bullet points such as \"電気危険\" and \"単線.\"\n   - The presentation screen displays a slide titled \"二、電気の危険な事例\" with illustrations of electrical hazards, including a factory and a person near high voltage lines.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Title: \"8月3日 安全周間\"\n     - Bullet points: \"電気危険,\" \"単線\"\n     - Formulas: $100 \\text{ V} \\times 1 \\text{ A} = 100 \\text{ W}$, $1 \\text{ V} \\times 100 \\text{ A} = 100 \\text{ W}$\n   - Presentation Screen:\n     - Title: \"二、電気の危険な事例\"\n     - Subtitle: \"【高圧電線】\"\n     - Illustrations: Factory with high voltage lines, person near high voltage lines.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the bullet points and formulas.\n   - The teacher gestures towards the presentation screen, emphasizing the illustrations of electrical hazards.\n   - The teacher uses hand movements to trace the connections between the blackboard notes and the screen content, reinforcing the key points.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the current lesson content without transitioning to next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard and presentation screen serving as the main summary artifacts. The blackboard prominently displays the title \"8月3日 安全周間\" along with key bullet points such as \"電気危険\" and \"単線,\" accompanied by the formulas $100 \\text{ V} \\times 1 \\text{ A} = 100 \\text{ W}$ and $1 \\text{ V} \\times 100 \\text{ A} = 100 \\text{ W}$. The presentation screen features a slide titled \"二、電気の危険な事例\" with illustrations depicting electrical hazards, including a factory and a person near high voltage lines.\n\nThe teacher visually reviews the knowledge points by pointing to each bullet point on the blackboard, emphasizing the formulas and their implications. Gestures are directed towards the screen, highlighting the illustrations of electrical hazards to reinforce the lesson's focus on safety. The teacher uses hand movements to connect the blackboard notes with the screen content, ensuring a cohesive review.\n\nA strong emphasis is placed on the bullet points and formulas, with the teacher pausing to underscore their significance. The core takeaway is visually marked by the teacher's deliberate gestures towards the key concepts, ensuring they stand out.\n\nNo visual handover to homework or next steps is present in the frames, keeping the focus on the lesson's summary and key safety messages.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "High-Voltage Electric Shock",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Causes of Electric Shock",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Electrical Arcing",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Voltage Differences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Safety Precautions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Title: August 3 Safety Week; Bullet points: Electrical Danger, Single Line; Formulas: 100 V x 1 A = 100 W, 1 V x 100 A = 100 W",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Screen",
+        "type": "Visual",
+        "original_text": "Slide: Electrical Hazard Cases; Subtitle: High Voltage Lines; Illustrations: Factory, person near high voltage lines",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Single Line",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Electrical Danger",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.759367 -> 723.06]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Details the specific causes of electric shock."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Identifies electrical arcing as a cause."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes how voltage differences can cause shock."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Derives safety procedures to prevent electric shock."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Highlights single line in the context of electrical hazards."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Focuses on electrical danger in safety discussions."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Illustrates the concept of high-voltage electric shock."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Provides a cohesive visual summary on both blackboard and screen."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "General category under which specific dangers are classified."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The notes scaffold student understanding of safety procedures."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think about causes of electric shock."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

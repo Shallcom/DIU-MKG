@@ -1,0 +1,132 @@
+{
+  "video_name": "12_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "geography",
+  "teaching_goal": "Understand the causes of the Moon’s day‑night temperature differences; master the mechanisms by which the atmosphere interacts with solar radiation.",
+  "transcript": "[85.26 -> 130.16] 现在开始讲课了上课同学们好大家知道古代嫦娥所居住在月球的宫殿叫做对广寒宫古人认为月球也是十分寒冷的而我们现代的数据也可以支撑这一推测在月球夜间的最低温度可达零下一百八十三摄氏度而在日间湿豆附近最高温度可达零上一百二十七摄氏度大家想为什么月球的昼夜温差如此之大呢带着这个问题我们走进今天的课堂。\n[133.94 -> 157.34] 那我们先来回顾一下上节课所学的知识。\n[159.8 -> 173.94] 这是地面这是大气上节。\n[178.48 -> 205.26] 大家想上节课中我们学过太阳在到达地面之前会穿过一层对厚厚的大气层会产生什么作用啊没错削弱作用分别是吸收是大气中的大气对流层中的二氧化碳和水汽吸收了红外线而对流层中的臭氧吸收了紫外线非常好还有什么作用啊。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact**: The main visual anchor is the large screen displaying a green background with the title \"3.2 大气受热过程\" (3.2 Atmospheric Heating Process). The screen also shows three tabs: \"情境导入\" (Context Introduction), \"重点讲解\" (Key Explanation), and \"巩固练习\" (Consolidation Practice).\n- **Teacher Actions**: The teacher stands in front of the screen, gesturing towards it while speaking. She then turns to the blackboard on the left.\n- **Visual Details**: The blackboard initially has \"大气对\" written on it. The teacher writes \"大气对地面保温作用\" (Atmospheric Insulation Effect on the Ground) and draws a horizontal line representing the ground.\n\n#### Middle\n- **Core Artifact**: The blackboard now displays \"大气对地面保温作用\" with a horizontal line and a wavy line above it, indicating atmospheric layers.\n- **Teacher Actions**: The teacher writes \"地面\" (ground) and \"大气\" (atmosphere) next to the respective lines. She then draws an arrow pointing upwards from the ground line.\n- **Visual Details**: The teacher uses a circular motion to indicate heat movement. She writes \"吸收\" (absorption) next to the arrow.\n\n#### End\n- **Core Artifact**: The screen changes to display a diagram titled \"一、大气对太阳辐射的削弱作用\" (1. Atmospheric Weakening of Solar Radiation). The diagram shows the sun, mountains, and various atmospheric layers with labeled arrows.\n- **Teacher Actions**: The teacher points to the diagram on the screen, explaining the different layers and processes. She uses her finger to trace the path of solar radiation through the atmosphere.\n- **Visual Details**: The diagram includes labels such as \"太阳辐射\" (solar radiation) and \"地面辐射\" (ground radiation), with arrows indicating absorption and reflection.\n\n### Knowledge Flow Tracking\n\n1. **The Core Artifact (Static)**:\n   - Initial State: The screen displays \"3.2 大气受热过程\" with three tabs. The blackboard has \"大气对地面保温作用\" and a simple diagram with ground and atmospheric layers.\n\n2. **The Derivation Process (Dynamic)**:\n   - **Additions**: The teacher adds labels \"地面\" and \"大气\" to the diagram, writes \"吸收\" next to the upward arrow, and draws additional lines to represent heat movement.\n   - **Modifications**: The teacher adjusts the diagram by adding arrows and labels to clarify the process.\n   - **Deictic Gestures**: The teacher points to specific parts of the diagram, such as the ground line and the atmospheric layers, while explaining their roles.\n\n3. **The Highlighting Strategy (Emphasis)**:\n   - The teacher uses different colors of chalk to differentiate between ground and atmospheric elements.\n   - She circles key terms like \"吸收\" to emphasize important concepts.\n   - The screen diagram uses color coding to highlight different atmospheric processes, with arrows and labels clearly marked.\n\nThis structured visual evolution helps students connect abstract concepts with concrete diagrams, enhancing understanding through synchronized visual and verbal explanations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"3.2 大气受热过程\" with three tabs: \"情境导入,\" \"重点讲解,\" and \"巩固练习.\" The teacher began by writing \"大气对地面保温作用\" on the blackboard, constructing a simple diagram with a horizontal line representing the ground and a wavy line above it for the atmosphere. She annotated the diagram by labeling \"地面\" and \"大气,\" and drew an upward arrow to indicate heat movement, writing \"吸收\" next to it.\n\nAs the lecture progressed, the teacher derived additional elements, adding arrows and circular motions to illustrate heat absorption and movement. She traced these elements to emphasize the flow of energy from the ground to the atmosphere, constructing a clear visual representation of the insulation process.\n\nFinally, the screen transitioned to a detailed diagram titled \"一、大气对太阳辐射的削弱作用,\" showing the sun, mountains, and atmospheric layers with labeled arrows. The teacher pointed to specific parts of the diagram, tracing the path of solar radiation through the atmosphere to illustrate absorption and reflection processes. She highlighted key terms and pathways, using color coding to differentiate between various atmospheric interactions.\n\nThroughout the session, visual highlighting and annotations aligned with the teacher's explanations, reducing cognitive load by providing clear, step-by-step visual cues. The combination of board diagrams and screen visuals reinforced the concepts, ensuring students could follow the progression from basic principles to detailed processes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Moon Temperature Differences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[85.26 -> 130.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Atmospheric Heating",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[85.26 -> 130.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Solar Radiation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[178.48 -> 205.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Infrared Absorption",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[178.48 -> 205.26]"
+      },
+      {
+        "id": "c5",
+        "label": "UV Absorption",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[178.48 -> 205.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Atmospheric Heating Process Screen",
+        "type": "Visual",
+        "original_text": "3.2 Atmospheric Heating Process with three tabs: Context Introduction, Key Explanation, Consolidation Practice",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard: Atmospheric Insulation Effect Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with ground and atmospheric layers, labeled 'Ground' and 'Atmosphere', with arrow and 'Absorption'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen: Solar Radiation Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing sun, mountains, and atmospheric layers with labeled arrows for absorption and reflection",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding Moon temperature differences enhances comprehension of atmospheric heating influences."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Infrared absorption by CO2 and water vapor is a component of solar radiation interaction."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "UV absorption by ozone is a component of solar radiation interaction."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The screen visualizes the concept of atmospheric heating process."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram illustrates the concept of atmospheric insulation effect."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The screen diagram visualizes solar radiation."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Infrared absorption concept emphasized through diagram."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "UV absorption concept emphasized through diagram."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Engaged student state promotes learning of atmospheric heating principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

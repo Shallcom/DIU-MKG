@@ -1,0 +1,113 @@
+{
+  "video_name": "15_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the three core characteristics of scientific thinking and how they are expressed in practice; be able to explain the meanings of the objectivity of cognition, the predictability of outcomes, and the testability of results.",
+  "transcript": "[741.76 -> 759.08] 深圳市民他的安全性得到了保障也是我们通过实验去检验的而这就体现出了我们科学思维的三个特征分别是认识的客观性结果的可预见性以及结果的可检验性。\n[771.76 -> 808.74] 好下面我的上课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a structured diagram summarizing the characteristics of creative thinking.\n   - The layout includes a central heading \"创造性思维的特征\" (Characteristics of Creative Thinking) with three main branches:\n     - 从认识发展性 (Development from Cognitive Development)\n     - 独特性 (Uniqueness)\n     - 灵活性 (Flexibility)\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords visible on the blackboard are:\n     - 创造性思维的特征 (Characteristics of Creative Thinking)\n     - 从认识发展性 (Development from Cognitive Development)\n     - 独特性 (Uniqueness)\n     - 灵活性 (Flexibility)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher writes \"从认识发展性\" on the blackboard, indicating the first characteristic.\n   - She then writes \"独特性\" and \"灵活性,\" completing the three main branches of the diagram.\n   - The teacher gestures towards each written term, likely explaining or reviewing each characteristic in sequence.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the blackboard or screen in this segment. The focus remains on summarizing the lesson content visually.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard diagram summarizing the characteristics of creative thinking, prominently featuring three main branches: \"从认识发展性,\" \"独特性,\" and \"灵活性.\" The teacher visually reviews these points by writing each term in sequence, creating a clear and organized structure. She gestures towards each branch, likely emphasizing their significance. The central heading \"创造性思维的特征\" anchors the diagram, providing a cohesive overview of the lesson. No additional visual elements, such as homework instructions, are present, focusing the conclusion solely on reinforcing the key concepts displayed on the blackboard.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Objectivity of Cognition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[741.76 -> 759.08]"
+      },
+      {
+        "id": "concept2",
+        "label": "Predictability of Outcomes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[741.76 -> 759.08]"
+      },
+      {
+        "id": "concept3",
+        "label": "Testability of Results",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[741.76 -> 759.08]"
+      },
+      {
+        "id": "visual1",
+        "label": "Characteristics of Creative Thinking",
+        "type": "Visual",
+        "original_text": "Main heading summarizing characteristics of creative thinking",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual2",
+        "label": "Development from Cognitive Development",
+        "type": "Visual",
+        "original_text": "Branch of diagram related to development from cognition",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual3",
+        "label": "Uniqueness",
+        "type": "Visual",
+        "original_text": "Branch of diagram indicating uniqueness",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual4",
+        "label": "Flexibility",
+        "type": "Visual",
+        "original_text": "Branch of diagram indicating flexibility",
+        "ocr_corrected": false
+      },
+      {
+        "id": "student_state1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "visual1",
+        "relation": "summarizes",
+        "intent": "Summarizes the objective aspect of scientific thinking in the diagram."
+      },
+      {
+        "source": "concept2",
+        "target": "visual1",
+        "relation": "summarizes",
+        "intent": "Summarizes the predictability aspect of scientific thinking in the diagram."
+      },
+      {
+        "source": "concept3",
+        "target": "visual1",
+        "relation": "summarizes",
+        "intent": "Summarizes the testability aspect of scientific thinking in the diagram."
+      },
+      {
+        "source": "visual2",
+        "target": "visual1",
+        "relation": "includes",
+        "intent": "Includes 'Development from Cognitive Development' as a part of creative thinking characteristics."
+      },
+      {
+        "source": "visual3",
+        "target": "visual1",
+        "relation": "includes",
+        "intent": "Includes 'Uniqueness' as a part of creative thinking characteristics."
+      },
+      {
+        "source": "visual4",
+        "target": "visual1",
+        "relation": "includes",
+        "intent": "Includes 'Flexibility' as a part of creative thinking characteristics."
+      },
+      {
+        "source": "visual1",
+        "target": "student_state1",
+        "relation": "emphasizes",
+        "intent": "Visual diagram emphasizes the teacher’s effort to engage students in understanding key concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

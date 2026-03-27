@@ -1,0 +1,159 @@
+{
+  "video_name": "47_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Identify the differences and commonalities in English usage across different countries; compare linguistic expression methods in different cultural contexts; analyze linguistic phenomena in cross‑cultural communication.",
+  "transcript": "[0.0 -> 109.14] 包括英语的核心能力和英语学习的实际化方式和教育和训练的组合化方式而教授应该找出不同国家的例子来展示学生们让他们尝试找出差异和同样的东西来研究为什么能够发生同样的差异并尝试找出什么能够发生的差异并并结合教学的概念关于什么什么为什么和如何所以我们也可以教学生们用网络通过网络能够找出不同的例子你可以和教授商量一下那就是我的表演了谢谢你了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the digital screen displaying the title \"UNIT 3 THE INTERNET\" with the subtitle \"Assessing your progress.\" The screen also features an image of a microwave.\n\n#### 2. **The Title Event**\n- The title \"UNIT 3 THE INTERNET\" is prominently displayed on the digital screen. The teacher does not physically write this title but points towards it, emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their hands, likely emphasizing points related to the lesson content.\n- The teacher occasionally points towards the digital screen, directing attention to the title and the microwave image.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the green chalkboard, holding papers.\n- The digital screen displays \"UNIT 3 THE INTERNET\" and \"Assessing your progress\" with a microwave image.\n- The teacher turns to face the students, holding the papers.\n\n**Middle:**\n- The teacher moves closer to the digital screen, pointing towards the title and microwave image.\n- The teacher gestures with their hands, likely explaining the significance of the lesson topic.\n- The teacher continues to hold the papers, occasionally looking at them and then back at the students.\n\n**End:**\n- The teacher remains standing in front of the digital screen, maintaining focus on the displayed content.\n- The teacher uses hand gestures to emphasize points, occasionally pointing to the screen.\n\n### Summary\nThe lesson introduction phase centers around the digital screen displaying \"UNIT 3 THE INTERNET\" and \"Assessing your progress.\" The teacher uses hand gestures and pointing to engage with the content, emphasizing the lesson's focus. The microwave image on the screen serves as a visual hook, though its specific relevance is not detailed in this segment. The teacher's actions are directed towards maintaining student attention on the lesson's title and objectives.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing near the green chalkboard, holding papers, and facing the digital screen that displays the hook object: \"UNIT 3 THE INTERNET\" alongside an image of a microwave. This visual stimulus immediately captures attention, setting the stage for the lesson. The teacher then moves closer to the screen, pointing directly at the title and the microwave image, emphasizing their significance. Throughout this segment, the teacher uses deliberate hand gestures, occasionally looking at the papers and then back at the students, to maintain engagement. The transition from the hook to the main topic is seamless, as the teacher's gestures and focus on the screen guide the students' attention to the lesson's core theme. By pointing to the title and the microwave, the teacher visually links the lesson's content to familiar objects, potentially bridging new knowledge with everyday experiences. This approach likely aims to make the abstract concept of the internet more relatable, preparing students for a deeper exploration of the topic. The introduction effectively sets the groundwork, connecting the visual elements to the students' existing understanding and hinting at the practical applications of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "English Usage Variations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c2",
+        "label": "English Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Practical English Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Example Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Cross-Cultural Differences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Cross-Cultural Similarities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Educational Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Internet Usage",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 109.14]"
+      },
+      {
+        "id": "c9",
+        "label": "UNIT 3 THE INTERNET",
+        "type": "Visual",
+        "original_text": "UNIT 3 THE INTERNET",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Assessing Progress Subtitle",
+        "type": "Visual",
+        "original_text": "Assessing your progress",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Microwave Image",
+        "type": "Visual",
+        "original_text": "Microwave image on screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Links internet usage to English variations across countries."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Supports understanding of core competencies via technological terms."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Highlights practical aspects in technologically mediated environments."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Develops understanding of intercultural communication using familiar technology imagery."
+      },
+      {
+        "source": "c11",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Encourages recognition of technology as a common understanding point despite cultural differences."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Demonstrates internet as a tool for identifying cross-cultural examples."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Integrates educational methodologies into practical language learning techniques."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Explores linguistic differences as an extension of English usage variations."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Investigates similarities within varied English usage contexts."
+      },
+      {
+        "source": "c12",
+        "target": "c9",
+        "relation": "engaged",
+        "intent": "Students focus on digital screen with 'Unit 3 The Internet'."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

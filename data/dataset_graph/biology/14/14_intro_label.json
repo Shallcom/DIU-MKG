@@ -1,0 +1,108 @@
+{
+  "video_name": "14_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the importance of the cell as the basic unit of life’s activities; master how to analyze and synthesize biological problems through modeling; develop interdisciplinary competence and apply it to biology learning.",
+  "transcript": "[0.0 -> 143.98] 我是今天第十四号选手我抽到的演讲题目是如何我抽到的演讲题目是该如何提高跨生物对于跨学科是对于生物核心素养中的重要部分如何提高化学科的生物核心素养我将从以上三个方面进行解释首先是对于生物科标来说是以学生为主体全面培养学生的知识和兴趣所以如何化学科融合呢首先我将从核心素养的以上四个方面进行首先是生命观念可以通过创设情景用语文的一些诗句和诗词来进行情景创设让学生体会生命之美和刑警之美同时对于科学思维和科学探究让学生通过自主探究实验在自主探究实验时通过各种模型如数学模型物理模型等以上模型学生通过自主探究自主分析实验和模型达到分析达到提高分析问题能力和总结归纳能力最后是生命观念通过各种的现通过各种的生命观念学生能够不断地提高化学和思维融合以上是我的即兴演讲接下来开始我的模拟授课同学们上课请同学们看到你们书上的第一幅图你们能够找到什么样的生物呢大熊猫还有呢竹子请同学们仔细观察它们它们形态是否是一样的呢不一样那它们都有什么样什么构成呢没错就无论是大熊猫还是竹子它们都是由细胞构成所以细胞是我们生命活动的基本单位今天我们共同学习细胞是生命活动的",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The text on the slide is in Chinese: \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities).\n\n#### 2. **The Title Event**\n- The title on the screen is \"细胞是生命活动的基本单位.\" The teacher is standing in front of the screen, holding papers, and appears to be presenting or reading from them. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or blackboard in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and occasionally looking at them, likely reading or referring to notes. There are no specific gestures like pointing or circling observed in this segment.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The digital slide with the title \"细胞是生命活动的基本单位\" is displayed on the screen.\n- The teacher appears to be introducing the topic, likely reading from the papers.\n\n**Middle:**\n- The teacher continues to stand in front of the class, maintaining focus on the papers.\n- The slide remains unchanged, emphasizing the title as the central focus.\n- The teacher's posture and gaze suggest they are elaborating on the introductory statement.\n\n**End:**\n- The teacher maintains their position, still holding the papers.\n- The slide continues to display the same title, reinforcing the lesson's starting point.\n- No additional gestures or changes in visual content are observed.\n\nThis structured log captures the visual elements and teacher actions, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the screen presents the title \"细胞是生命活动的基本单位\" as the opening visual stimulus, setting the stage for the lesson. The teacher stands in front of the class, holding papers, and appears to be reading or referring to them, likely providing an introduction to the topic. To bridge to the main topic, the teacher maintains focus on the papers, suggesting a structured approach to the content. The visual focus remains on the title displayed on the screen, establishing the lesson goal of understanding cells as fundamental units of life. This introduction likely connects to students' existing knowledge by emphasizing the foundational role of cells, preparing them for deeper exploration into biological concepts. The consistent visual emphasis on the title reinforces the importance of this basic principle, setting a clear direction for the upcoming lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 143.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Basic Unit of Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Biology Modeling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 143.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Interdisciplinary Competence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 143.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 143.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Digital Slide Title",
+        "type": "Visual",
+        "original_text": "Cells are the basic units of life activities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Teacher's Paper Notes",
+        "type": "Visual",
+        "original_text": "Teacher refers to notes constantly during introduction.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Student Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[100.0 -> 143.98]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Reinforces cells as a foundational concept in biology."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains how modeling enhances interdisciplinary skills."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Scientific inquiry is part of biological modeling."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Slide title underscores the importance of cells as basic units."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Teacher uses notes to scaffold understanding of cell concepts."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Students observe and engage with the concept of cells visually."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

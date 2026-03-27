@@ -1,0 +1,145 @@
+{
+  "video_name": "39_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the method for determining the AOmegaFive parameter in trigonometric function models; be able to apply trigonometric function expressions to real‑world problems.",
+  "transcript": "[402.26 -> 415.48] 当X等于零时Y等于二十倍的散与贩此时贩等于此时函数值Y等于负二十那我们就可以知道散与贩等于负一。\n[422.1 -> 429.88] 因此可以得到贩等于负的二分之贩。\n[431.26 -> 486.26] 那由此我们就要把这个三角函数模型当中的三个参数AOmegaFive求出来了进而也可以求出这个函数的解析式我们整理一下就是Y等于二十倍的Sin三倍之差十倍XC那同学们注意其实这里我们看一下它的字变量是时间七所以我们还是要把字变量换为时间七并且对于一个函数我们知道它是有定义域的其介于零到正五球所以我们也需要在写函数解析式的时候把定义域给写明白。\n[491.26 -> 522.26] 那由此我们就知道了弹簧正子的运动规律可以用这样一个三角函数的模型来表示其实在我们现实生活中也存在着大量类似于弹簧正子这样的运动比如说钟摆的运动比如说水中浮动水中浮标的上下浮动包括琴弦的震动等等这些都是物体围绕的某一中心位置进行循环往复的这样一个运动那么在物理学中我们就把这样一些物体受到力这样的力是指向平衡位置的力正比于它离开平衡位置的距离称为减斜运动。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interaction. This gesture was broad, encompassing the entire classroom, inviting students to engage.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the equation on the blackboard: $y = 20 \\sin\\left(\\frac{2\\pi}{3}t + \\varphi\\right)$. This equation was central to the discussion, with the teacher pointing directly to it during the interaction.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the equation on the blackboard, specifically highlighting the term $\\varphi$. This action visually guided the student to consider the phase shift in the context of the problem.\n- The teacher also gestured towards the graph displayed on the screen, drawing a connection between the equation and the plotted data points, reinforcing the relationship between the mathematical model and the visual representation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation.\n- The teacher then circled the term $\\varphi$ on the blackboard, visually confirming its importance in the equation.\n- Additionally, the teacher drew a small arrow on the graph on the screen, indicating the direction of the phase shift, thereby elaborating on the student's input and ensuring clarity.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Focus shifts to the equation $y = 20 \\sin\\left(\\frac{2\\pi}{3}t + \\varphi\\right)$ on the blackboard.\n\n- **Middle:**\n  - Teacher points to $\\varphi$ in the equation while the student responds.\n  - Teacher gestures to the graph on the screen, linking the equation to the data points.\n\n- **End:**\n  - Teacher nods and smiles, providing non-verbal affirmation.\n  - Circles $\\varphi$ on the blackboard, confirming its significance.\n  - Draws an arrow on the graph, illustrating the phase shift direction.\n\nThis structured visual interaction ensured that the teacher effectively managed the dialogue, guiding students through the co-construction of knowledge with clear visual cues and confirmations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the equation $y = 20 \\sin\\left(\\frac{2\\pi}{3}t + \\varphi\\right)$, accompanied by a graph on the screen illustrating data points. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. This broad motion signaled the start of an interactive session, focusing attention on the equation and its components.\n\nAs the student began to explain their reasoning, the teacher moved to the blackboard, pointing directly at the term $\\varphi$ in the equation. This gesture visually emphasized the phase shift, guiding the student to articulate its role in the context of the problem. Simultaneously, the teacher gestured towards the graph on the screen, drawing a visual connection between the mathematical model and the plotted data points. This dual focus ensured that the student's explanation was anchored in both the equation and its graphical representation.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the term $\\varphi$ on the blackboard, visually confirming its importance. Additionally, the teacher drew an arrow on the graph, indicating the direction of the phase shift. This action not only affirmed the student's understanding but also clarified the concept for the entire class.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing a line from the circled $\\varphi$ on the blackboard to the graph on the screen. This visual linkage reinforced the relationship between the equation and its graphical interpretation, ensuring that students saw the practical application of the theoretical concept.\n\nThrough these gestures, the teacher facilitated a transition from passive reception to active construction of knowledge. By highlighting key elements, providing real-time visual feedback, and linking concepts across different representations, the teacher enabled students to engage deeply with the material, fostering a dynamic and interactive learning environment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "AOmegaFive Parameter",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[402.26 -> 522.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Trigonometric Function Models",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[402.26 -> 522.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Phase Shift",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[402.26 -> 522.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "$y = 20 \\sin\\left(\\frac{2\\pi}{3}t + \\varphi\\right)$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Graph on Screen",
+        "type": "Visual",
+        "original_text": "Graph illustrating data points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Phase Shift Arrow",
+        "type": "Visual",
+        "original_text": "Arrow indicating phase shift direction",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "$\\varphi$ Term",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[402.26 -> 522.26]"
+      },
+      {
+        "id": "c8",
+        "label": "Real-world Applications of Trigonometry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[491.26 -> 522.26]"
+      },
+      {
+        "id": "c9",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c11",
+        "label": "Teacher's Gesture",
+        "type": "Visual",
+        "original_text": "Sweeping gesture towards class",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The parameter is part of trigonometric function models."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Phase shift is indicated by the $\\varphi$ term."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The equation on the blackboard illustrates the phase shift."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The graph connects the concept of phase shift to real data."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The arrow highlights the direction of phase shift."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The equation represents a trigonometric function model."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Real-world applications use trigonometric function models."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Engagement in the lesson led to students answering questions."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "The teacher's gesture invites student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

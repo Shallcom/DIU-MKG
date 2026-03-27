@@ -1,0 +1,145 @@
+{
+  "video_name": "0_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Identify the definition of an arithmetic sequence and compute its common difference; uncover the pattern of arithmetic sequences by analyzing real‑life situations.",
+  "transcript": "[302.86 -> 325.0] 看同学们都非常疑惑那我们可以借助以往的学习经验在代数的学习中我们常常是通过运算去发现规律的那么就类比这样的模式思路我们能不能够通过运算去发现以上数列的取值规律呢同学们可以自主地思考一下。\n[339.78 -> 344.14] 这位同学我看你思考得非常认真请你来说。\n[345.52 -> 358.96] 我通过将后一个数减去前一个数发现他们这一组数类的每一个差值每一个叉子都是为九那你详细地列出式子来十八减九等于九。\n[363.68 -> 406.66] 二十七减十八也是等于九档还有接下来三十六减二十七也是等于九是的一直到最后一组八十一减七十二也是等于九你发现了这每一位数减去前一个数差都是为九也就是一样的乘数非常好请坐那这样的规律是偶然的吗那么带着这个问题我们再来看下面三个生活情境现在请同学们以小组进行探究这三个情境中是否存在着如情境一中的相同的取值规律呢。\n[412.0 -> 619.9] 我们拼接好的或者说改造的东西我们要是拿一张桌子吧就是给在我们学校的食堂或者说是楼栏上的桌子吧所以地方就是将土木的编织导入我们的传统化的那么再滑一下这样三个路就我们可能就需要这种一些纯纯粒这样的一些我们说是根据就是你看同学们都完成得差不多了请这位女生来说发现从请进二到请进四的问题都是相邻两项的差值是固定的再说请进二对在请进二中我们有四十减三十八等于二对四十减三十八等于二四十二减四十也是等于二的一直到最后的四十八减四十六也是等于二的同样在情境三中这样的规律是怎么体现的好我们说第二个数开始二十四减二十五等于二十三减二十四一直等于到二十一减二十二等于负一它同样的也是一个常数那在前进四中也请你再说一说前进四中A二减B二A二减A二B二减A二减去A二等于A二减二比二再减等于AR减二AR减去AR减AAR减B二也等于AR减三B二一直等于到一二减三B二减AR减二B二B二以及到后面的同样具有这样的规律是吗是的很好回答得非常完整那么在这里呀我们就发现它们都是等于一个定值的现在请同学们总结一下在这四个情景中发现的一个规律是什么呢这位男生请你来说对于这些数列来说它的后一项前一项应该都得一个定哦都得一个定值你发现了一个关键点很好请坐其实啊就是在这样的生活情境中蕴含着我们的等差数列在一个数列中呢从第二项开始每一项与其一项它的差都等于同一个乘数时我们就将这个数列称作为等差本插数列。\n[636.16 -> 640.88] 请同学们将本插数列的定义在书本中画出来。\n[649.0 -> 662.86] 我们知道等差数列它就是一个数列从第二项齐每一项与它的齐一项的差等于同一个常数其实这个常数啊也有一个特殊的名字叫做等差数列的公常。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She then pointed directly to a student, indicating that she was inviting a response or participation.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the arithmetic sequence examples written on the blackboard, specifically the sequences:\n  1. $10, 99, 97, 64, 9, 2017-9$\n  2. $43, 48, 53, 58, 63, 68, 73$\n  3. $26, 15, 3, -7, -17, -27, -37$\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher wrote the student's spoken words on the blackboard, specifically the formula:\n  \\[\n  a_1 = (a_1 + a_2 + a_3 + a_4 + a_5) - (a_2 + a_3 + a_4 + a_5)\n  \\]\n- She then continued to write the simplified form:\n  \\[\n  = a_1\n  \\]\n- The teacher also pointed to the relevant sequences on the board to hint at the answer, guiding the student through the problem-solving process.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's input, the teacher visually validated the response by completing the formula on the board:\n  \\[\n  = a_1 - (a_2 + a_3 + a_4 + a_5)\n  \\]\n- She then circled the final simplified result, emphasizing the correctness of the student's approach.\n- The teacher also gave an emphatic thumbs-up gesture, providing positive reinforcement for the student's contribution.\n\n**Chronological Log of Visual Events:**\n\n1. **Invitation Gesture:**\n   - Teacher sweeps hand across the class, then points to a student.\n\n2. **Focus Point:**\n   - Teacher directs attention to the arithmetic sequences on the blackboard.\n\n3. **Scaffolding:**\n   - Writes the student's formula on the board:\n     \\[\n     a_1 = (a_1 + a_2 + a_3 + a_4 + a_5) - (a_2 + a_3 + a_4 + a_5)\n     \\]\n   - Points to sequences to guide the student.\n\n4. **Confirmation:**\n   - Completes the formula:\n     \\[\n     = a_1 - (a_2 + a_3 + a_4 + a_5)\n     \\]\n   - Circles the final result and gives a thumbs-up.\n\nThis structured interaction visually engaged the student with the content, providing real-time guidance and validation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed three arithmetic sequences: $10, 99, 97, 64, 9, 2017-9$, $43, 48, 53, 58, 63, 68, 73$, and $26, 15, 3, -7, -17, -27, -37$. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. She then pointed directly to a student, signaling the start of an interactive segment.\n\nAs the student began to explain their reasoning, the teacher walked over to the board and started jotting down the student's key terms, writing the formula:\n\\[\na_1 = (a_1 + a_2 + a_3 + a_4 + a_5) - (a_2 + a_3 + a_4 + a_5)\n\\]\nShe pointed to the sequences on the board, guiding the student through the problem-solving process and providing visual cues to support their explanation.\n\nTo validate the student's response, the teacher completed the formula on the board:\n\\[\n= a_1 - (a_2 + a_3 + a_4 + a_5)\n\\]\nShe circled the final simplified result and gave an emphatic thumbs-up, confirming the correctness of the student's approach.\n\nThe teacher then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, reinforcing the core lesson content. This visual linkage helped students see the connection between their response and the overarching concept of arithmetic sequences.\n\nThrough these gestures, the teacher facilitated a transition from passive reception to active construction of knowledge, encouraging students to engage deeply with the material and build their understanding collaboratively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Arithmetic Sequence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[302.86 -> 662.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Common Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[302.86 -> 662.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Sequence Pattern",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[302.86 -> 662.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Real-life Situations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[412.0 -> 619.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Arithmetic Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[339.78 -> 358.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Teacher's Invitation Gesture",
+        "type": "Visual",
+        "original_text": "Teacher sweeps hand, points to a student.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Arithmetic Sequences on Blackboard",
+        "type": "Visual",
+        "original_text": "$10, 99, 97, 64, 9, 2017-9$, $43, 48, 53, 58, 63, 68, 73$, $26, 15, 3, -7, -17, -27, -37$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Student's Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "a_1 = (a_1 + a_2 + a_3 + a_4 + a_5) - (a_2 + a_3 + a_4 + a_5)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Completed Formula with Feedback",
+        "type": "Visual",
+        "original_text": "= a_1 - (a_2 + a_3 + a_4 + a_5)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Group Exploration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher gestures to invite students to engage with the problem."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Arithmetic sequences are written on the board for visual reference."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The student's proposed formula is written on the board."
+      },
+      {
+        "source": "c5",
+        "target": "v4",
+        "relation": "summarizes",
+        "intent": "The teacher completes and confirms the formula on the board."
+      },
+      {
+        "source": "v4",
+        "target": "s1",
+        "relation": "praises_response",
+        "intent": "The teacher gives a thumbs-up to confirm the student's correct answer."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Arithmetic sequences include the concept of a common difference."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The pattern of arithmetic sequences builds upon the definition of arithmetic sequences."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The pattern analysis evolves from real-life situations."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "engages_with",
+        "intent": "Students are engaged in group exploration of real-life situations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

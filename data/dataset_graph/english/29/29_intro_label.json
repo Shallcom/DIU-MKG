@@ -1,0 +1,113 @@
+{
+  "video_name": "29_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Identify and describe language forms; understand language functions and their applications.",
+  "transcript": "[0.0 -> 182.82] 并是比尼姆伊斯奥特金德瑞林克拉斯艾斯恩比尼登姆伊德瑞林克拉斯德维斯康斯贝斯杜德斯科瓦伯尼斯斯鲁迪贝斯嘎珊欧罗普雷斯艾斯艾斯去的信奥特科莱吉艾欧迪赞贝斯贝斯贝斯我们都知道语言应该被学生发掘而不是教学生发掘的所以我会邀请学生联合研究观察找出语言的形式和功能然后我会邀请他们联合使用语言技术在上来的班马计论的应用的应用的应用的应好现在开始我的讲课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"Teenage Life\" with the subtitle \"B1U2: Should Teenagers Be Allowed to Choose Their Own Clothes? The Phone.\"\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"Teenage Life.\" The teacher stands in front of the screen, which displays the title prominently. There is no indication of the teacher writing it, as it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, occasionally clasping hands together or gesturing outward, likely to engage the audience or emphasize the topic.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"Teenage Life.\"\n- The screen shows the subtitle \"B1U2: Should Teenagers Be Allowed to Choose Their Own Clothes? The Phone.\"\n- The teacher uses hand gestures, such as clasping hands, to engage the students.\n\n**Middle:**\n- The teacher continues to gesture, possibly emphasizing the importance of the topic.\n- The screen remains static, showing the same title and subtitle throughout this phase.\n\n**End:**\n- The teacher maintains a focus on the screen content, using hand movements to connect with the audience.\n- No changes occur on the screen or board, keeping the focus on the introduction of the topic.\n\n### Summary\nThe introduction phase centers on the title slide \"Teenage Life\" with a focus on whether teenagers should choose their own clothes and the role of the phone. The teacher uses hand gestures to engage the class, maintaining attention on the displayed content without additional visual changes.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"Teenage Life,\" accompanied by the subtitle \"B1U2: Should Teenagers Be Allowed to Choose Their Own Clothes? The Phone.\" This title serves as the hook, immediately drawing attention to the central theme of the lesson. The teacher uses hand gestures, such as clasping hands and gesturing outward, to engage the students and emphasize the relevance of the topic. Throughout this phase, the screen remains static, maintaining focus on the introduction without transitioning to additional content. The teacher's gestures and positioning in front of the screen create a visual connection to the displayed content, setting the stage for a discussion on teenage autonomy and technology. This approach helps link the topic to students' existing experiences, preparing them to explore the broader implications of personal choice and communication in their lives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Language Forms",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 182.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Language Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 182.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Applications of Language",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 182.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Teenage Autonomy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 182.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Technology Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 182.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Teenage Life Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Teenage Life' with subtitle 'B1U2: Should Teenagers Be Allowed to Choose Their Own Clothes? The Phone.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures like clasping and gesturing outward.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of teenage autonomy."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The slide mentions the role of technology."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding language functions helps apply language effectively."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Identification of language forms precedes understanding their functions."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The teacher uses gestures to maintain student engagement."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures highlight the importance of teenage autonomy."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures underline the role of technology in the discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,139 @@
+{
+  "video_name": "11_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to explain the basic principles of electrolytic cells and their applications; understand the role of chemical methods in environmental protection; master the writing and calculation of electrode reaction equations in electrolytic cells.",
+  "transcript": "[117.34 -> 219.9] 总而言之化学观念是化学核心素养培养的基础在这个过程中化学的教学不仅是为了传授知识更是为了培养拥有核心素养的新型人才我们的教育也是为了为化学的发展提供源源不断的新型人才的动力我的即兴演讲到此结束下面开始我的模拟授课环节同学们好相信同学随着双碳计划的实施与颁布我国将实现在二零三五年实现碳达峰和碳中和有所提升大力推进了新能源汽车的发展那么在我们的生活中最近也经常看到新闻小米苏西风靡了全国新能源电车也为我们的生活提供了便利那么请同学们思考一下在我们的生活中还有哪些降低环境污染的应用呢我们请这位同学我想到之前课本上讲到对煤炭进行脱油剂然后可以降低对黄金的污染对的非常好请坐我们可以利用化学呢采取一些化学的方式来降低对大气中空气的污染那么同样的利用燃料电池也可以对我们的空气中的污染进行一个减少和排放今天就让我们从化学的视角走进电解池。\n[222.02 -> 237.34] 那么通过我们执勤的学习已经学过了电解池的基本原理那么请同学们在草稿纸上尝试画出电解融合氯化钠的相关示意图标出它的阴阳阴阳极以及鼻子移动的方向。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with Chinese text about fuel cells. The slide includes a title and subtitle.\n- The teacher holds a red paddle and gestures while speaking, likely introducing the topic.\n- The blackboard is initially empty except for some faint chalk marks.\n\n**Middle:**\n- The teacher transitions to a new slide with more detailed text, discussing the design of fuel cells and mentioning a 2015 breakthrough.\n- The teacher uses hand gestures to emphasize points, occasionally pointing to the text on the screen.\n- The teacher turns to the blackboard and begins writing, starting with the word \"化学\" (chemistry).\n\n**End:**\n- The teacher continues writing on the blackboard, adding more content related to the topic.\n- The digital screen remains static, displaying the same slide with detailed text about fuel cell design.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide titled \"从化学视角揭密新能源汽车\" with a subtitle about fuel cells.\n   - The slide contains a section labeled \"课题引入\" with text discussing a 2015 breakthrough in fuel cell design.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"化学\" on the blackboard while explaining the chemical aspects of fuel cells.\n   - **Modifications**: No erasures or modifications are observed; the teacher focuses on adding content.\n   - **Deictic Gestures**: The teacher points to the text on the digital screen while discussing specific points, such as the 2015 breakthrough.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key points on the slide.\n   - The initial writing on the blackboard (\"化学\") is done in white chalk, indicating the start of a detailed explanation.\n\nThis structured visual evolution shows the teacher's method of linking digital content with handwritten notes to enhance understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide titled \"从化学视角揭密新能源汽车\" with a subtitle focusing on fuel cells, establishing the primary visual anchor. The teacher began by introducing the topic, using hand gestures to emphasize key points on the slide, which discussed a 2015 breakthrough in fuel cell design. The teacher then turned to the blackboard and constructed the word \"化学\" in white chalk, initiating a detailed explanation of the chemical principles involved. Throughout the lecture, the teacher derived concepts by pointing to specific text on the slide, such as the breakthrough details, and traced the narrative of technological advancements in fuel cells. The teacher's gestures and annotations on the blackboard worked in tandem with the static digital content, reducing cognitive load by visually reinforcing spoken information. Finally, the teacher expanded on the blackboard content, ensuring a cohesive link between the digital presentation and handwritten notes, highlighting critical aspects of fuel cell chemistry to solidify understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electrolytic Cell Principles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[222.02 -> 237.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Fuel Cell Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[117.34 -> 219.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Chemical Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[117.34 -> 219.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Environmental Protection",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[117.34 -> 219.9]"
+      },
+      {
+        "id": "c5",
+        "label": "2015 Breakthrough",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[117.34 -> 219.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Core Chemical Literacies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[117.34 -> 219.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Carbon Neutrality 2035",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[117.34 -> 219.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Slide on Fuel Cells",
+        "type": "Visual",
+        "original_text": "Digital screen displays a slide titled 'From Chemical Perspective: New Energy Vehicles' with details on fuel cells.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Text 'Chemistry'",
+        "type": "Visual",
+        "original_text": "Teacher writes 'Chemistry' on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Thinking on Environmental Applications",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Establishes principles of electrolytic cells as foundational knowledge for fuel cell applications."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Illustrates how fuel cell applications contribute to environmental protection."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Uses chemical methods to fortify environmental protection efforts."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The writing 'Chemistry' on the blackboard relates directly to explaining principles of electrolytic cells."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summaries",
+        "intent": "Summarizes the breakthrough in fuel cell technology as shown on the digital slide."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Links core chemical literacies to achieving carbon neutrality by 2035."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Highlights the target of carbon neutrality as a driving goal behind fuel cell developments."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Digital slide on fuel cells sets context for the more detailed discussion on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider chemical methods in real-world environmental problem-solving."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

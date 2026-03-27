@@ -1,0 +1,198 @@
+{
+  "video_name": "14_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Be able to identify the basic hierarchical levels of a life system; understand the concept of a system within a life system and its components.",
+  "transcript": "[277.78 -> 295.12] 首先是有细胞细胞构成的是组织而组织又构成了器官器官\n[297.0 -> 355.0] 最后器官构成了个体但是对于动物而言也是以上的结构层次吗不是而对于动物而言如熊猫的心肌还是由心肌细胞构成的心肌子质构成了器官器官直接构成了熊猫的个体吗没有还要构成了系统所以系统最后构成了植物的熊猫的特质所以什么是生命系统呢系统就是什么\n[356.0 -> 417.54] 请同学们翻到第五页相关信息请听听们朗读一下系统是指彼此间相互作用相互依赖的组份有规律的结合而形成的整体比如身体中的许多器官在结构上相互联系在功能上相互配合而形成的整体因此可以看作一个系统所以系统是相互联系相互依赖共同构成的一个整体请同学们翻到第第七页我们从细胞的世界看一看生命生命世界是如何的对于植物叶片细胞和心肌细胞各有什么样的功能呢我们看到植物咬皮细植物叶片的咬皮细胞它们的是怎么样组成的呢",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher stands at the front of the classroom, facing the students, and makes a sweeping gesture with her hand, signaling the start of an interactive segment. This gesture is directed towards the entire class, inviting participation.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction is the content on the blackboard, specifically the text written in Chinese characters. The key phrase \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities) is displayed on the screen, complementing the blackboard content.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As the teacher engages with the students, she occasionally points to specific parts of the blackboard text, such as the phrase \"细胞\" (cells), to emphasize key concepts. She also gestures towards the screen, linking the blackboard content with the digital presentation.\n- While a student is responding, the teacher nods and maintains eye contact, providing non-verbal encouragement. She may also write additional notes or underline existing text on the blackboard to highlight important points mentioned by the student.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student provides an answer, the teacher circles or underlines the correct information on the blackboard, such as the term \"细胞\" (cells), to visually validate the student's input.\n- If a student makes an error, the teacher might draw a simple diagram or use arrows to illustrate the correct concept, ensuring clarity. She also uses affirmative gestures like a thumbs-up or a nod to confirm correct responses.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture to invite class participation.\n  - Focuses on the blackboard text, particularly \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities).\n\n- **Middle:**\n  - Points to \"细胞\" (cells) on the blackboard while a student responds.\n  - Writes additional notes or underlines text to emphasize key points.\n  - Nods and maintains eye contact to encourage the student.\n\n- **End:**\n  - Circles or underlines correct information on the blackboard.\n  - Draws diagrams or uses arrows to clarify concepts if errors occur.\n  - Uses affirmative gestures like a thumbs-up to confirm correct answers.\n\nThis structured approach ensures that the teacher's visual strategies effectively manage the dialogue and co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the key phrase \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities), setting the foundation for the lesson. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content. This gesture signaled the start of an interactive segment, focusing attention on the core concept.\n\nAs the teacher facilitated the discussion, she moved to the blackboard, pointing to the term \"细胞\" (cells) while a student responded. Her supportive gestures included nodding and maintaining eye contact, encouraging the student to elaborate. She walked over to the board and underlined the key terms, reinforcing the student's explanation. Simultaneously, she referred to the screen, linking the blackboard content with the digital presentation to provide a comprehensive view.\n\nTo validate the student's input, the teacher circled the correct information on the blackboard and gave a distinct nod. If any errors were made, she drew simple diagrams or used arrows to clarify the concept, ensuring understanding. Her final visual action was to draw a connecting line from the student's correct answer back to the main phrase on the board, reinforcing the lesson's core message.\n\nThroughout the interaction, the teacher's gestures and movements helped students transition from passive reception to active construction of knowledge. By visually linking the student's response to the lesson content, she guided them in synthesizing and internalizing the information, fostering a deeper understanding of the fundamental role of cells in life activities.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[277.78 -> 295.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Tissues",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[277.78 -> 295.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Organs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[277.78 -> 295.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Organism",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[277.78 -> 295.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Biological Hierarchy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[277.78 -> 295.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Life System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[297.0 -> 417.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Interaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[356.0 -> 417.54]"
+      },
+      {
+        "id": "c8",
+        "label": "System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[356.0 -> 417.54]"
+      },
+      {
+        "id": "c9",
+        "label": "Dependence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[356.0 -> 417.54]"
+      },
+      {
+        "id": "c10",
+        "label": "Feedback Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[356.0 -> 417.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Text",
+        "type": "Visual",
+        "original_text": "Cells are the basic units of life activities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Sweeping Gesture",
+        "type": "Visual",
+        "original_text": "Teacher invites participation",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Pointing Gesture",
+        "type": "Visual",
+        "original_text": "Teacher points to 'Cells'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Screen Content",
+        "type": "Visual",
+        "original_text": "Digital presentation links with blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Cells form tissues in biological hierarchy."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Tissues form organs in the hierarchy."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Organs form organisms in biological systems."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Biological hierarchy is part of a life system."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Life system includes systems of interaction."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Systems consist of interacting and dependent components."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Systems often involve feedback mechanisms."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Visual text on blackboard emphasizes concept of cells."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gesture encourages student engagement and participation."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Pointing gesture highlights importance of cells."
+      },
+      {
+        "source": "v4",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Digital slide emphasizes system in life systems concept."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Student response builds on the concept of life systems."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

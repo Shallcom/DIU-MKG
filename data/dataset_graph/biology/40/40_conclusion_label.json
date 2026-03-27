@@ -1,0 +1,172 @@
+{
+  "video_name": "40_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Describe the functions and classifications of immune organs; analyze the roles of major immune organs such as bone marrow and thymus within the immune system.",
+  "transcript": "[624.88 -> 679.56] 那么我们最后看到这幅图的下半部分这是一个人的骨头肠骨在这一块骨头里面我们主要的是骨头中心的结构这是骨髓骨髓它位于骨腔骨髓腔或骨松之内它并不是它这幅图只显示了这个腿部的肠骨但其实人体的肠骨里基本都有这个骨髓它是免疫细胞发生分化发育的场所是人体重要的免疫器官那么我们刚才说了胸腺是T细胞分化发育的场所而其他大部分的免疫细胞都在污水中发育成熟那么如果我们把人我们刚才把人的免疫器官免疫系统比作了一个战场那么我们现在按照免疫器官的功能进行分类它们可以大致分为什么呀老师的这个板书也给大家进行了提示这个颜色比如说我们的胸腺和骨髓都是免疫细胞发生发育成熟分化的场地所以我们可以把胸腺和骨髓比作部队的大本营和训练基地而我们的扁桃体淋巴结皮就相当于我们免疫系统的战场是它们作战的战场这是免疫细胞集中分布的地方那么我们现在可以进行一个课中的详解免疫器官大概分为大概有骨髓胸腺还有皮淋巴结扁桃体那么我们刚才进行了免疫器官的学习有没有哪位同学可以为免疫器官的功能下定义\n[700.18 -> 724.46] 同学们进行了思考我们总结来说免疫器官就是免疫细胞生成成熟或集中分布的场所接接下来我们将对免疫细胞进行更加系统深入的学习我的模拟授课到此结束谢谢\n[730.18 -> 732.46]",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which displays a structured diagram of the immune system components. The diagram is organized into three main categories: 器官 (organs), 细胞 (cells), and 物质 (substances).\n   - The whiteboard screen also shows a diagram with labeled boxes, reinforcing the blackboard content.\n\n2. **Key Knowledge Items (Content View)**:\n   - 器官 (organs)\n   - 细胞 (cells)\n   - 物质 (substances)\n   - 免疫系统 (immune system)\n   - The screen displays additional terms: 免疫器官 (immune organs), 免疫细胞 (immune cells), and 免疫活性物质 (immune active substances).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each category on the blackboard, specifically highlighting 器官, 细胞, and 物质.\n   - She gestures towards the screen, emphasizing the labeled boxes corresponding to 免疫器官, 免疫细胞, and 免疫活性物质.\n   - The teacher uses her finger to trace the connections between the categories on the blackboard, reinforcing the relationships between organs, cells, and substances in the immune system.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the lesson content visually.",
+  "visual_narrative": "The lesson concludes with a structured diagram on the blackboard centered on the immune system. The teacher visually reviews the content by pointing to each category in sequence: organs, cells, and substances. She emphasizes the connections between these components by tracing the relationships on the blackboard. The screen reinforces this with labeled boxes, which she highlights to ensure clarity. There is no visible homework or next-step instruction, focusing solely on consolidating the core concepts of the immune system.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Bone Marrow",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Thymus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Immune Cells",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Immune Organs",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[700.18 -> 724.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Immune System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c6",
+        "label": "T-Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Antibody Production",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Classification of Immune Organs",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[700.18 -> 724.46]"
+      },
+      {
+        "id": "c9",
+        "label": "Lymph Nodes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "c10",
+        "label": "Tonsils",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.88 -> 679.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of immune system: organs, cells, substances",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Screen Labeled Boxes",
+        "type": "Visual",
+        "original_text": "Boxes: immune organs, immune cells, immune active substances",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Bone Marrow as a part of the immune system"
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Thymus as a part of the immune system"
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Immune cells build upon the function of immune organs"
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "T-Cells are a type of immune cell"
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Classification of immune organs builds upon the understanding of immune organs"
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Lymph Nodes are a type of immune organ"
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Tonsils are a type of immune organ"
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram visualizes immune organs"
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Screen labeled boxes summarize immune cells"
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "Screen labeled boxes summarize immune organs"
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the classification of immune organs"
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

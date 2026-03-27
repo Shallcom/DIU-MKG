@@ -1,0 +1,146 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the importance of high‑school ideological and political education and its connection with junior‑high curricula; analyze the role of high‑school ideological and political education in cultivating socialist builders and successors.",
+  "transcript": "[0.0 -> 55.54] 与接班人其次高中思想政治教育学科的综合性科学性的特征下与初中的道德与法治课程相承接与高教训课奠定基础共同培育社会主义建设的接班人最后我们要重视高中思想政治教育学科的建设为社会主义建设者与接班人的任务提供坚实的基础我的回答到此完毕。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen displaying the event name and details. The screen includes colorful circular icons and the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" along with \"National Contest of Teaching Skills for Teacher College Students\" in English. The number \"10th\" is prominently displayed in red.\n\n#### 2. The Title Event\n- **Title on Screen**: \"1.2 细胞的多样性和统一性\" (Cell Diversity and Unity)\n- **Teacher's Action**: The teacher stands in front of the screen, which displays the title. There is no indication of the teacher writing it, as it appears on the digital screen.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly visible in the provided frames. The screen shows the title slide without additional bullet points or objectives.\n\n#### 4. Key Gestures\n- **Teacher's Actions**: \n  - The teacher holds papers and occasionally gestures towards the screen.\n  - No specific gestures like pointing or underlining are visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Element**: Yellow title screen with event details and colorful icons.\n- **Teacher Action**: None, as the teacher is not present in this frame.\n\n#### Middle\n- **Visual Element**: Classroom setting with the title \"1.2 细胞的多样性和统一性\" displayed on the screen.\n- **Teacher Action**: \n  - The teacher stands at the podium, holding papers.\n  - The teacher gestures towards the screen, likely introducing the topic.\n\n#### End\n- **Visual Element**: The screen remains on the title slide, with no changes in content.\n- **Teacher Action**: \n  - The teacher continues to stand at the podium, occasionally looking at the papers and the screen.\n  - No specific gestures towards the blackboard or additional content changes are observed.\n\n### Summary\nThe introduction phase of the lesson begins with a visually engaging title screen that sets the context for the competition. The teacher introduces the topic \"1.2 细胞的多样性和统一性\" using a digital screen, maintaining focus on the title without additional visual objectives or gestures noted in the provided frames. The classroom setting is formal, with the teacher positioned to guide the students through the lesson introduction.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, which prominently displays the event details and colorful circular icons, setting the stage for the competition. Transitioning into the classroom, the teacher stands at the podium, holding papers, and directs attention to the digital screen displaying the title \"1.2 细胞的多样性和统一性.\" The teacher's poised stance and occasional gestures towards the screen establish a clear focus on the topic. The visual aid remains consistent, emphasizing the lesson's main theme without additional slides or objectives visible. This structured approach bridges the hook to the main topic by maintaining a formal and organized presentation, grounding the students' attention on the core concept of cell diversity and unity. The introduction effectively links the new knowledge to the students' existing scientific framework, preparing them for an in-depth exploration of cellular characteristics and their significance in biology.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ideological Education Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 55.54]"
+      },
+      {
+        "id": "c2",
+        "label": "High School Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 55.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Junior-High Curriculum Connection",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 55.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Socialist Builders",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 55.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Cell Diversity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c6",
+        "label": "Cell Unity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c7",
+        "label": "Screen Title: Cell Diversity and Unity",
+        "type": "Visual",
+        "original_text": "The title 'Cell Diversity and Unity' displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher holds papers and gestures towards the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Importance of Political Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 55.54]"
+      },
+      {
+        "id": "c10",
+        "label": "Socialist Successors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 55.54]"
+      },
+      {
+        "id": "c11",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how high school education contributes to ideological foundations."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes connection with junior-high curricula."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "High school education helps in the development of socialist builders."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Establishes understanding of cellular diversity leading to unity."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Screen displays the topic of cell diversity."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Screen displays the topic of cell unity."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures engage students in the topic."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Importance of political education emphasizes ideological goals."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Prepares students to become socialist successors."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

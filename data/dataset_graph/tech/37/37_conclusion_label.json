@@ -1,0 +1,164 @@
+{
+  "video_name": "37_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand how force influences an object's state of motion; master the basic methods of variable control in experimental design; be able to analyze the effects of force through experimental observations.",
+  "transcript": "[556.6 -> 568.36] 那接下来再做第二个实验现在呢我们将小铁球放在滑板的上方再用这个磁铁对准小铁球下落的位置推动小铁球。\n[569.56 -> 572.82] 再进行实验看一看会发生怎样的现象。\n[577.4 -> 582.62] 我们还可以对比一下如果不放磁铁小铁球下落的快门。\n[588.96 -> 684.24] 你们做完了吗好那请你们派一名代表来分享一下你们观察到了什么现象有小子有有磁铁的那一组的更快哦请坐这位同学观察得非常仔细他说有磁铁吸引的那一组实验小铁球下落的明显更快吗那我们对比一下这两组实验无论是从静止到运动还是从慢到快其实换个说法都是说力改变了运动的速度对不对从运动从静止到运动从快从慢到快都是改变了物体的速度那接下来呢再做一个小实验请同学们将刚才的磁铁放在偏离小球下落的轨迹的方向上来观察一下小球下落的轨迹是怎样的好你来回答请坐他说小铁球偏离了原来的位置这说明力还能改变物体运动的方向对无论是力的改变它的方向还是改变它的速度我们都可以说它是改变了物体的对改变了物体的运动状态。\n[690.38 -> 704.26] 那接下来我们再接着学习如何来更好地表达力表示力我今天的试讲到此结束感谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the interactive whiteboard screen.\n   - The blackboard contains handwritten notes in Chinese, structured as a list with bullet points.\n   - The interactive whiteboard displays a slide with diagrams and text in Chinese, focusing on the concept of \"力的作用效果\" (Effect of Force).\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - 形变力 (Deforming Force)\n     - 一、定义 (Definition)\n     - 二、作用效果 (Effects)\n     - ①形状的改变 (Change in Shape)\n   - **Interactive Whiteboard**:\n     - 标题: 力的作用效果 (Effect of Force)\n     - 子标题: 一、形变 (Deformation)\n     - 文本: 实验探究、小实验 (Experimental Investigation, Small Experiment)\n     - 图片: 两个示意图展示力对物体形状的影响\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagrams on the interactive whiteboard, emphasizing the changes in shape due to force.\n   - The teacher gestures towards the blackboard, highlighting the key points written, particularly the definition and effects of deforming force.\n   - The teacher uses hand movements to trace the changes shown in the diagrams, linking them to the text explanations.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition slides or board sections visible for next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide on the interactive whiteboard displaying diagrams and text summarizing the effects of force, alongside handwritten notes on the blackboard. The teacher visually reviews the key points by pointing to the diagrams on the screen, emphasizing the changes in shape due to force. She gestures towards the blackboard, highlighting the bullet points related to the definition and effects of deforming force. The teacher uses hand movements to trace the changes in the diagrams, linking them to the explanations on the board. No specific homework or next-step instructions are visually presented, focusing instead on reinforcing the core concepts of force and deformation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Deforming Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Definition of Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Effects of Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Change in Shape",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Force Alters Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c6",
+        "label": "Force Alters Speed",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Force Alters Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "c8",
+        "label": "Experiment Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[556.6 -> 704.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Diagrams Show Force Effects",
+        "type": "Visual",
+        "original_text": "Two diagrams illustrate how force affects an object's shape.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Key Points",
+        "type": "Visual",
+        "original_text": "Blackboard features points on deforming force definition and effects.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Share Observations",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Students Conduct Experiments",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding force requires knowing its definition."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Definition of force includes studying its effects."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Effects of force include change in shape."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Effects of force include changes in motion."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Force altering motion includes changing speed."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Force altering motion includes changing direction."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagrams visually demonstrate change in shape due to force."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Blackboard highlights the concept of deforming force."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Diagrams illustrate the effects of force on objects."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Students share observations which prompt experimental discussion."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Conducting experiments helps students understand deforming force."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

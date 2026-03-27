@@ -1,0 +1,133 @@
+{
+  "video_name": "22_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Master the definition and calculation method of electric power; understand the conversion relationships among electric power units.",
+  "transcript": "[563.255967 -> 621.54] 那同学们我们来回顾一下我们刚刚学了目前我们知道了什么叫做电功率也就是说电流做工的快慢就是电功率然后它的单位有瓦千瓦还有毫瓦同学们一定要记住它们之间的净余都是湿的三次方然后我们也学习了它的表达式电功率就等于单位时间内电流所做的功然后我们有推导出来了它的另外一个公式是电流乘以电压同学们我们知道电功率就开始我们引入的时候就是用的楼梯那个电流表电能表同学们我们可以在日常生活中多去观察这些生活中的现象用生活中的现象有时候我们解释不了呢我们就可以问一问物理老师所以说我们就其实生活就是来源于生物理就是来源于生活我们学习了知识之后我们又可以将这些知识应用在物理运用在生活当中所以希望同学们接下来好好学习争取将你们的知识用于生活实践当中我的模拟授课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains handwritten notes and formulas.\n   - The layout includes a list of key terms and equations written in Chinese characters and mathematical notation.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key items:\n     - \"电功率\" (Electric Power)\n     - \"小赵用电炉烧水\" (Xiao Zhao uses an electric stove to boil water)\n     - \"快慢\" (Speed)\n     - Formulas: \n       - $W = k \\cdot m \\cdot U$\n       - $P = \\frac{W}{t} = \\frac{U \\cdot I \\cdot t}{t} = U \\cdot I$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, likely emphasizing the formulas and key terms.\n   - The teacher points to the formula $P = U \\cdot I$, highlighting the relationship between power, voltage, and current.\n   - The teacher uses hand movements to indicate the flow of information from the initial formula $W = k \\cdot m \\cdot U$ to the final expression for power.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with the text \"作业打卡活动\" (Homework Check-in Activity), indicating the next step for students.\n   - No specific homework details are visible on the screen, but the slide suggests an activity related to homework completion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key terms and formulas related to electric power. The teacher visually reviews the content by pointing to each element in sequence, starting with \"电功率\" and moving through the practical example \"小赵用电炉烧水.\" The teacher emphasizes the formulas, particularly $P = U \\cdot I$, by gesturing towards them, reinforcing the relationship between power, voltage, and current. A strong emphasis is placed on the final expression for power, with the teacher likely highlighting its significance through deliberate pointing. The screen transitions to a slide titled \"作业打卡活动,\" indicating the next task for students, though specific homework details are not visible. This visual cue suggests a structured follow-up activity to consolidate the lesson's concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Power",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Electric Stove Example",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Speed",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Unit Conversion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "c5",
+        "label": "$W = k \\cdot m \\cdot U$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "c6",
+        "label": "$P = \\frac{W}{t}$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "c7",
+        "label": "$P = U \\cdot I$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[563.26 -> 621.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard with Formulas",
+        "type": "Visual",
+        "original_text": "The blackboard displays key terms and formulas related to electric power.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Homework Check-in Slide",
+        "type": "Visual",
+        "original_text": "Screen shows slide titled 'Homework Check-in Activity'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the concept of electric power using the visual display of formulas on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The example of 'electric stove' helps students understand the practical application of electric power."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Speed is incorporated in the formula explaining work done by electric current."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Converting units involves understanding electric power as the base concept."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "The formula for work leads to an understanding of power through time."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Power evolves from the concept of work over time, simplifying to the product of voltage and current."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Concludes the lesson by transitioning from visual consolidation on the blackboard to homework activity."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students remain engaged during the summary of electric power concepts and formulas."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

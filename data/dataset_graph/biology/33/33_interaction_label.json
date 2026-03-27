@@ -1,0 +1,196 @@
+{
+  "video_name": "33_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Understand the preparatory processes of sperm and oocyte before fertilization; master the concept of sperm capacitation and its role in in‑vitro fertilization; explain the mechanism of oocyte maturation in the fallopian tube.",
+  "transcript": "[467.76 -> 540.94] 这位同学阅读教材非常仔细刚排出的精子也不能立即就和卵细胞结合它也需要进行一个过程叫做体外获能进行精子获能才能够与卵细胞结合那科学家们呢也经过一系列的研究研究清楚了这些机制从而通过一些方法能够让精子在体外进行获能获能再跟卵细胞进行结合那第二个问题就是我们刚刚有提到的已经解决了的排出来的卵细胞不一定都是成熟的它有可能是初级卵母细胞也有可能是四级卵母细胞需要在输卵管中进行一些生理过程才能够跟精子进行受精这也是受精过程中的受精前的准备阶段那已经具备了这些准备之后受精过程又是怎样进行的呢请同学们量量我一个小组阅读教材看看你们能不能找到答案\n[562.58 -> 627.38] 首先他跟她相遇了过后他就进去遇到她外面有种有种是包围着她的作为女人就是告诉她她是女人她是她们带着座椅随后呢进去之后她的尾巴就会脱离了然后脱离了之后她进去形成了一个然后在四边和她们再结合好那学们都讨论得差不多了那我们请这位同学来分析分享一下你们小组的结果\n[628.4 -> 635.52] 首先它不能直接进入这个小细胞它不能直接进入",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She then pointed directly to a student, indicating that she was seeking a response from them.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the practice problem displayed on the screen, specifically the questions about the anatomical diagram of a pig's reproductive system. The visual artifact included the labeled diagram on the blackboard and the questions on the slide.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While the student was responding, the teacher moved to the blackboard and wrote additional notes, such as \"受精\" (fertilization) and \"1.卵子\" (1. egg), to visually guide the student's explanation. She also pointed to the relevant parts of the diagram on the blackboard to hint at the answer.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student responded, the teacher visually validated the input by nodding and smiling. She then elaborated by writing \"2.过程\" (2. process) on the blackboard, indicating the next part of the explanation. She also circled the correct parts of the diagram to confirm the student's understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the blackboard and screen, which display a diagram of a pig's reproductive system and related questions.\n  - She makes a sweeping gesture towards the class and points to a student, inviting a response.\n\n- **Middle:**\n  - The teacher moves to the blackboard and writes \"受精\" (fertilization) and \"1.卵子\" (1. egg) while the student is responding.\n  - She points to the labeled parts of the diagram on the blackboard to guide the student's explanation.\n\n- **End:**\n  - The teacher nods and smiles to validate the student's input.\n  - She writes \"2.过程\" (2. process) on the blackboard and circles the correct parts of the diagram to confirm the student's understanding.\n\nThis structured visual interaction helps co-construct knowledge by linking the teacher's gestures and board content changes to the student's responses.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a detailed diagram of a pig's reproductive system alongside questions about fertilization and the process of embryonic development. The teacher began by standing in front of the blackboard and screen, making a sweeping gesture towards the class to capture their attention. She then pointed directly to a student, inviting them to participate in the discussion.\n\nAs the student began to explain their reasoning, the teacher walked over to the blackboard and started jotting down key terms such as \"受精\" (fertilization) and \"1.卵子\" (1. egg). She pointed to the relevant parts of the diagram, guiding the student's explanation and ensuring that the class followed along. Her movements between the student and the blackboard created a dynamic visual link, reinforcing the connection between the student's response and the lesson content.\n\nTo validate the student's input, the teacher gave a distinct nod and a smile, then proceeded to write \"2.过程\" (2. process) on the blackboard. She circled the correct parts of the diagram, visually confirming the accuracy of the student's explanation. This action not only validated the student's understanding but also provided clear visual feedback to the entire class.\n\nFinally, the teacher drew an arrow connecting the student's correct answer back to the main diagram on the blackboard, linking the new information to the core lesson content. This visual strategy helped students move from passively receiving knowledge to actively constructing their own understanding by seeing how their responses fit into the broader context of the lesson. Through her gestures and board work, the teacher facilitated a collaborative learning environment where students could engage with the material and build their comprehension step by step.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sperm Capacitation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Oocyte Maturation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Fertilization Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c4",
+        "label": "In-vitro Fertilization Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Fallopian Tube Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Primary Oocyte",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Secondary Oocyte",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "c8",
+        "label": "Embryonic Development",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[467.76 -> 540.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Pig Reproductive System Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing pig reproductive system and related questions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Fertilization Term on Blackboard",
+        "type": "Visual",
+        "original_text": "Written term 'Fertilization' on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Egg Term on Blackboard",
+        "type": "Visual",
+        "original_text": "Written term '1. Egg' on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Process Term on Blackboard",
+        "type": "Visual",
+        "original_text": "Written term '2. Process' on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Discussing",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Connects sperm capacitation to understanding in-vitro fertilization."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Links oocyte maturation to preparatory processes for fertilization."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Describes the role of fallopian tubes in oocyte maturation."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Incorporates understanding of primary oocytes in fertilization preparation."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Incorporates understanding of secondary oocytes in fertilization preparation."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Links embryonic development processes to in-vitro fertilization."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Sperm capacitation visualized by term written on blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Fertilization preparation visualized by term written on blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Oocyte maturation visualized by egg term written on blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Fertilization process visualized by process term written on blackboard."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Embryonic development is represented in the pig reproductive system diagram."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student discussing oocyte maturation contributing to conceptual understanding."
+      },
+      {
+        "source": "ss1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Student discussing fallopian tube function contributing to conceptual understanding."
+      },
+      {
+        "source": "ss1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Student discussion aligns with the pig reproductive system diagram."
+      },
+      {
+        "source": "ss1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Student discussing fertilization preparation contributing to conceptual understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

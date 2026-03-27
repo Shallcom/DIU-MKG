@@ -1,0 +1,127 @@
+{
+  "video_name": "22_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the problems teachers may encounter in English teaching; master how to reflect on the correctness of student answers; explore the teacher’s role in the educational process.",
+  "transcript": "[0.0 -> 50.78] 并所以我的问题是教授有什么问题和如何避免这种情况的问题呢我觉得这种情况的原因是学生对教授的反思和他们的答案有没有正确的答案。\n[52.08 -> 128.66] 所以我认为教授们可以避免这种情况的两个原因呢首先是根据新的英语教育规则我们教师们不仅要教学生的知识但是也要教学生的道德教育所以我认为教师们应该在教育过程中传输教育教育教英语欧能够好好学习别人的教育知识才能避免这种情况才能成功成立教育的目标。\n[138.46 -> 145.22] 现在我将开始课程了大家早上好吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual content on the screen is a slide titled \"Unit 1: Traveling Around\" with the subtitle \"Discovering Useful Structures.\" The background of the slide appears to be a wooden texture, possibly indicating a travel or exploration theme.\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"Unit 1: Traveling Around\" with the subtitle \"Discovering Useful Structures.\" The teacher does not physically write this; it is displayed on the screen. The teacher stands in front of the screen, gesturing towards it, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, likely related to the content on the screen. She moves her hands outward, possibly to indicate the scope or breadth of the topic being introduced.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the screen displaying \"Unit 1: Traveling Around\" and \"Discovering Useful Structures.\"\n- The teacher gestures with her hands, moving them outward, possibly to emphasize the introduction of the unit.\n\n**Middle:**\n- The teacher continues to gesture, likely elaborating on the theme of traveling and useful structures.\n- No changes occur on the screen or board during this phase.\n\n**End:**\n- The teacher moves towards the desk, possibly to transition to the next part of the lesson.\n- The screen remains unchanged, still displaying the initial title and subtitle.\n\n### Summary\nThe introduction phase of the lesson begins with the slide titled \"Unit 1: Traveling Around\" and \"Discovering Useful Structures.\" The teacher uses hand gestures to engage with the content, emphasizing the theme without additional visual changes or objectives listed. The focus remains on the initial slide throughout the segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the slide titled \"Unit 1: Traveling Around\" with the subtitle \"Discovering Useful Structures.\" The wooden texture background serves as the initial visual stimulus, setting a thematic tone for exploration. The teacher uses expansive hand gestures, moving her hands outward, likely to emphasize the broad scope of the unit. Throughout this segment, the screen remains static, focusing on the title and subtitle. The teacher's gestures suggest an engagement with the overarching theme, possibly linking the concept of travel to practical language structures. As the introduction progresses, the teacher transitions towards the desk, indicating a shift to the next part of the lesson. This visual setup establishes a foundation for connecting new knowledge to students' existing experiences of travel, preparing them to explore useful language structures in context. The introduction effectively bridges the thematic hook to the main topic, setting the stage for deeper exploration.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "English Teaching Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 50.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Reflection on Answers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 50.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Teacher's Role",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[52.08 -> 128.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Ethical Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[52.08 -> 128.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Teach Morality",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[52.08 -> 128.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Successful Educational Goals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[52.08 -> 128.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Traveling Around Slide",
+        "type": "Visual",
+        "original_text": "Unit 1: Traveling Around - Discovering Useful Structures",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Wooden Texture Background",
+        "type": "Visual",
+        "original_text": "Background indicating travel theme",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Teacher's Hand Gestures",
+        "type": "Visual",
+        "original_text": "Outward hand gestures emphasizing the introduction",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students' Initial Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Establishes the need to reflect on student answers to address teaching problems."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Highlighting the teacher's role includes ethical education."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Teaching morality as an essential part of ethical education."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Successful educational goals require active teacher roles."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The slide's background context emphasizes the travel theme."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures emphasize the focus on the unit title."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Engages students through visual gestures, enhancing their focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,134 @@
+{
+  "video_name": "44_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Identify and describe the basic structure of the article; analyze the functions and purposes of the introduction, body, and conclusion; describe the emotions and experiences embedded in personal narratives.",
+  "transcript": "[238.54 -> 242.84] 我们一起来读这篇书的名字吧。\n[243.88 -> 553.499433] 我的惊人的经历那是一场节日吧你需要二十秒钟找到这篇文章的结构你可以和你的伙伴商谈谈吧找到这篇文章的结构吧现在时间到了你能找到吗这个结构吗非常好谢谢请坐下我们可以看到第一个文章是开门的文章所以我们可以从第一个文章看出在哪个时候和谁可以庆祝的事项所以这就是节日的基本信息对吧所以我们可以说如果你写一篇文章介绍你的节日经历那么第一个文章是介绍细节所以我们应该写下图表身体的图案所以最后的图案是结论结论结论的图案给个简单的结论体验所以我们可以说最后的部分是结论很好请稍后再参加训练训练课中的课程中我听你发音三奥三奥三奥三感觉很好你还有二十秒写下你感觉的一种感觉和一种情感好我们来看一张照片好吗好我们来看一张照片好我们来看一张片哦所以说我说我小子Ifeelveryhappyandsatisfyeshavemealsandhappyandsatisfyesthesearetheactivityandfeelingsyesverygoodthankyou您是什么样的对象吗。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying \"Activity 2: Find the structure\" with a text passage.\n- The blackboard shows \"Unit 1\" written in cursive.\n- The teacher holds papers and gestures towards the screen, indicating the text passage.\n\n**Middle:**\n- The teacher turns to the blackboard and draws a large oval shape, representing a lantern.\n- She writes \"Lantern Festival\" inside the oval.\n- The screen remains on \"Activity 2,\" showing the text passage with highlighted sections.\n\n**End:**\n- The teacher transitions to \"Activity 5: Circle the words\" on the screen.\n- She writes \"Spring Festival\" on the blackboard next to the lantern drawing.\n- The teacher circles words in the text passage on the screen, highlighting \"Activities\" and \"Traditions.\"\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard with a drawing of a lantern labeled \"Lantern Festival\" and \"Spring Festival.\"\n- The digital screen initially displays a text passage for \"Activity 2\" and later transitions to \"Activity 5.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions:**\n  - The teacher draws the lantern shape and writes \"Lantern Festival\" inside it.\n  - She adds \"Spring Festival\" next to the lantern.\n- **Modifications:**\n  - No erasures are observed; the teacher only adds to the existing content.\n- **Deictic Gestures:**\n  - The teacher points to the text passage on the screen while explaining.\n  - She gestures towards the lantern drawing when discussing the festivals.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses the screen to highlight sections of the text passage.\n- She circles words like \"Activities\" and \"Traditions\" on the screen to emphasize key terms.\n- The blackboard content remains static, with clear labels for visual distinction.\n\nThis structured visual evolution helps students connect the text with cultural concepts through both digital and traditional teaching aids.",
+  "visual_narrative": "Initially, the digital screen displayed \"Activity 2: Find the structure\" with a text passage, serving as the primary visual anchor. The teacher began by gesturing towards the text, emphasizing key sections. Then, she turned to the blackboard, constructing a large oval shape to represent a lantern and labeling it \"Lantern Festival.\" This visual connection helped students link the text to cultural concepts. As the lecture progressed, the screen transitioned to \"Activity 5: Circle the words,\" where the teacher annotated the text by circling terms like \"Activities\" and \"Traditions.\" Simultaneously, she added \"Spring Festival\" next to the lantern drawing on the board. Throughout, the teacher resolved deixis by pointing to specific parts of the text and the lantern diagram, ensuring clarity. Finally, she circled important words on the screen, aligning visual emphasis with the lesson's conclusion. This dual strategy of digital and traditional visual aids reduced cognitive load by reinforcing concepts through multiple modalities, making the information more accessible and memorable.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Introduction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[243.88 -> 553.499433]"
+      },
+      {
+        "id": "c2",
+        "label": "Body",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[243.88 -> 553.499433]"
+      },
+      {
+        "id": "c3",
+        "label": "Conclusion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[243.88 -> 553.499433]"
+      },
+      {
+        "id": "c4",
+        "label": "Experiences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[243.88 -> 553.499433]"
+      },
+      {
+        "id": "c5",
+        "label": "Emotions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[243.88 -> 553.499433]"
+      },
+      {
+        "id": "v1",
+        "label": "Activity Structure Screen",
+        "type": "Visual",
+        "original_text": "Digital screen displaying 'Activity 2: Find the structure' with a text passage.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lantern Drawing",
+        "type": "Visual",
+        "original_text": "Blackboard with 'Lantern Festival' inside an oval.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Spring Festival Addition",
+        "type": "Visual",
+        "original_text": "Spring Festival added next to the lantern drawing on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Word Highlighting Screen",
+        "type": "Visual",
+        "original_text": "Screen changing to 'Activity 5: Circle the words' with emphasized words.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Analysis",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[243.88 -> 553.499433]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlights the structure of an article using a digital screen."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Represents the body of the narrative through the lantern drawing."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "includes",
+        "intent": "Associates Spring Festival with the conclusion in teaching."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "emphasizes",
+        "intent": "Highlights the importance of experiences in personal narratives."
+      },
+      {
+        "source": "c5",
+        "target": "v4",
+        "relation": "emphasizes",
+        "intent": "Highlights emotional aspects of personal narratives on the screen."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students engage by analyzing the screen content."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "builds_upon",
+        "intent": "The addition of 'Spring Festival' builds upon existing visual content."
+      },
+      {
+        "source": "v4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Word highlighting prompts students to analyze specific vocabulary."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

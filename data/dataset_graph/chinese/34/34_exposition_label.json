@@ -1,0 +1,133 @@
+{
+  "video_name": "34_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "- Understand the main content and theme of the selected passage.  \n- Analyze Hamlet’s psychological changes and their manifested characteristics.  \n- Explore how the theme of “madness” is expressed and argued within the text.",
+  "transcript": "[208.0 -> 220.54] 请大家看到第一个问题根据视频当中的演绎我们来总结课文节选内容当中的主要内容请大家看视频视频没有我们就看到主要的内容。\n[222.0 -> 236.66] 好时间到老师想问问同学们这个课文他在讲什么呢他是不是在验证在验证他到底是不是疯狂。\n[252.0 -> 309.02] 那他验证到底是疯狂那他们得出的结局是什么呢他得出的证据是什么我们看到书上的第四十一页你看国王是怎么说的恋爱恋爱他说他不像是为了恋爱对吧那么那个波洛涅斯他是怎么说的呢他说他就还是为了恋爱对吧总而言之他们认为是恋爱打乱了他的心绪心绪让他变得矛盾让他变得疯狂是的。\n[312.0 -> 319.58] 那我们看到文中最能体现他疯狂的是哪一个片段呢。\n[320.62 -> 328.0] 他的独白哪一个独白请说出来那么我们一起来读一下去体现他的疯狂好不好。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The initial visual anchor is the digital screen displaying text in Chinese, which remains static throughout the video. The blackboard is initially blank except for some colored markers on the left side.\n- **Teacher's Actions**: The teacher stands in front of the blackboard, holding papers. She begins by writing \"好莱坞\" (Hollywood) on the blackboard using white chalk.\n\n#### Middle\n- **Additions**: \n  - The teacher writes \"历史\" (history) next to \"好莱坞,\" forming \"好莱坞历史\" (History of Hollywood).\n  - She then adds \"并肩\" (shoulder to shoulder) below, completing the phrase \"好莱坞历史并肩.\"\n- **Modifications**: No erasures or modifications are observed; the teacher only adds content.\n- **Deictic Gestures**: The teacher points to the text on the digital screen while speaking, likely referencing the content displayed.\n\n#### End\n- **Highlighting Strategy**: The teacher uses white chalk consistently, with no color differentiation for emphasis. She gestures towards the completed phrase on the blackboard, possibly to highlight the topic of discussion.\n\n### Knowledge Flow Tracking\n\n1. **The Core Artifact (Static)**: The main visual anchor is the digital screen with Chinese text, which remains unchanged. The evolving artifact is the blackboard content.\n   \n2. **The Derivation Process (Dynamic)**:\n   - **Additions**: \n     - The teacher sequentially writes \"好莱坞,\" \"历史,\" and \"并肩\" on the blackboard.\n   - **Modifications**: None observed.\n   - **Deictic Gestures**: The teacher points to the digital screen content while speaking, indicating a connection between the screen text and the blackboard writing.\n\n3. **The Highlighting Strategy (Emphasis)**:\n   - The teacher uses gestures to emphasize the newly written phrases on the blackboard.\n   - No specific color coding or boxing is used for emphasis.\n\n### Chronological Log of Visual Events\n\n1. **Initial State**: \n   - Digital screen displays static Chinese text.\n   - Blackboard is blank except for markers.\n\n2. **First Addition**:\n   - Teacher writes \"好莱坞\" on the blackboard.\n\n3. **Second Addition**:\n   - Teacher writes \"历史\" next to \"好莱坞,\" forming \"好莱坞历史.\"\n\n4. **Third Addition**:\n   - Teacher writes \"并肩\" below, completing \"好莱坞历史并肩.\"\n\n5. **Gestures and Emphasis**:\n   - Teacher points to the digital screen content.\n   - Uses hand gestures to highlight the blackboard text while speaking.\n\nThis structured visual evolution shows the teacher's method of building the topic \"History of Hollywood\" through sequential additions on the blackboard, synchronized with references to the static digital content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed static Chinese text, serving as the primary visual anchor. The blackboard began blank, with only colored markers visible. The teacher initiated the lecture by constructing the phrase \"好莱坞\" (Hollywood) on the blackboard, using white chalk. She then derived the concept further by adding \"历史\" (history), forming \"好莱坞历史\" (History of Hollywood). This step-by-step construction visually built the topic, aligning with the static content on the digital screen. The teacher resolved deixis by pointing to specific sections of the screen text, likely correlating it with the blackboard content. She completed the phrase with \"并肩\" (shoulder to shoulder), emphasizing the collaborative aspect of Hollywood's history. Throughout, she used gestures to trace connections between the evolving blackboard text and the screen content, reducing cognitive load by visually reinforcing key points. Finally, she circled the completed phrase, highlighting the central theme of the lecture. This visual strategy, combined with the static digital content, effectively scaffolded the knowledge delivery, ensuring clarity and focus.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Hamlet's Madness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[222.0 -> 236.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Psychological Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[222.0 -> 236.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Evidence of Madness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.0 -> 309.02]"
+      },
+      {
+        "id": "c4",
+        "label": "King's Opinion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.0 -> 309.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Polonius' Opinion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.0 -> 309.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Love as Cause",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[252.0 -> 309.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Hamlet's Soliloquy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[312.0 -> 319.58]"
+      },
+      {
+        "id": "c8",
+        "label": "Hollywood History",
+        "type": "Visual",
+        "original_text": "History of Hollywood",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Digital Screen Text",
+        "type": "Visual",
+        "original_text": "Static Chinese text on screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explores Hamlet's psychological changes as part of his madness."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Discusses evidence supporting Hamlet's madness."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes the King's opinion as evidence."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Includes Polonius' opinion as evidence."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Suggests love as a cause for Hamlet's madness."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Hamlet's soliloquy as a manifestation of his madness."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The blackboard text aligns with the digital screen content."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Supports student engagement through visual reinforcement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

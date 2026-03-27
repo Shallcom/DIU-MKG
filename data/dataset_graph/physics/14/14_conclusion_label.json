@@ -1,0 +1,166 @@
+{
+  "video_name": "14_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "- Be able to describe the relationship and governing law between refracted rays and reflected rays.  \n- Understand the trends and interrelationship of incident angles and refracted angles.  \n- Be able to record and preliminarily analyze the data of incident and refracted angles in experiments.",
+  "transcript": "[649.9 -> 748.4] 不能了为什么对同一平面我听见有同学说了刚才老师通过转动亮角器的方向已经让亮角器从竖直平面变成了一定倾斜角度的平面这时候我们看古建折射光光线了这说明折射光线与反射与入射光线有着怎样的规律呢对在统一平面这是折射光线与反射光线的第一个规律那我们说了反射中反射角与折射角相等折射中反射角与入射角相等折射中有着怎样的规律呢角度又是怎样的关系呢我们还通过实验来进行探究首先老师的这个晾脚器上面的激光可以转动位置同学们一起看当老师将激光沿着量甲器下方移动的时候发现入射角变怎么样了变大了很好变大了看折射角呢也变大了对吧好接下来老师再大一点入射角变得更大了折射角呢也大了对不对那老师往小方向移入射角变小了折射角也变小非常好刚才同学们已经通过实验定性地探究了入射角与折射角的关系好像折射角在变大入射角也在变大那它们之间到底有怎样的定量关系呢还是借助实验我们继续来探究要探究入射角与折射角的关系首先我们要进行角度的测量这个量角器可以很方便地进行测量好请同学们两人一组我们测量三组数据看看改变不同入射角时我们折射角的数值同时请同学们记录在你们电脑上的excel软件中好开始实验好实验结束了我们请同学已经分享了此时三组同学们记录到入射角theta一和折射角theta二的数值大家能看见它的关系吗。\n[749.42 -> 762.84] 好像没有什么关系杂乱不彰的我们知道当两个数字没有明确的关系时我们能通过一定的数学变化来探究它们的关系那到底是怎样的关系呢。\n[763.96 -> 777.36] 其实之前科学家荷兰数学家斯尼尔菲尔已经通过这样大量的实践数据最终得到了关系我们下一个课再继续学习感谢各位评委老师感谢谢主任。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen displaying a spreadsheet-like table. The layout is organized into rows and columns, with headings and data entries visible. The background is blue, and the text is white, making it clear and easy to read.\n\n2. **Key Knowledge Items (Content View)**:\n   - The screen shows a table with headings and data, likely summarizing key points or experimental results related to light reflection. The blackboard has the heading \"光の反射\" (Reflection of Light) written in white chalk.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the digital screen, likely pointing to different sections of the table to emphasize key data or conclusions. Her hand movements suggest she is summarizing the information displayed, possibly highlighting important rows or columns.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary content displayed on the screen and the blackboard heading.\n\nThis structured visual summary consolidates the lesson's key points, with the teacher's gestures reinforcing the information presented on the screen.",
+  "visual_narrative": "The lesson concludes with a digital table displayed on the screen, summarizing key data related to light reflection. The teacher visually reviews the content by gesturing towards different sections of the table, likely emphasizing important data points. Her movements suggest a focus on reinforcing the summarized information. The blackboard prominently features the heading \"光の反射,\" anchoring the lesson's core topic. There is no visible indication of homework or next steps in the frames provided, keeping the visual focus on the summary content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Incident Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Refracted Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Reflection Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Refraction Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Angle Measurement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Experimental Data",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Laser Position",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c8",
+        "label": "Increasing Angle",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[649.9 -> 748.4]"
+      },
+      {
+        "id": "c9",
+        "label": "Relationship Exploration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[749.42 -> 762.84]"
+      },
+      {
+        "id": "c10",
+        "label": "Snell's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[763.96 -> 777.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Table on Screen",
+        "type": "Visual",
+        "original_text": "The screen shows a table with headings and data related to light reflection.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Reflection of Light Heading",
+        "type": "Visual",
+        "original_text": "The blackboard has the heading 'Reflection of Light' written in English.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Experiment",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Adjusting laser position affects the incident angle."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Increasing incident angle affects the refracted angle."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding reflection helps in understanding refraction."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Angle measurement is part of collecting experimental data."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Exploration leads to deriving Snell's law."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Incident angles are shown in the summary table."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Blackboard heading scaffolds understanding of reflection principles."
+      },
+      {
+        "source": "c10",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Summary table may present mathematical relationships based on Snell's law."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "engaged_in",
+        "intent": "Students are engaged with the experimental data collection."
+      },
+      {
+        "source": "s1",
+        "target": "c9",
+        "relation": "engaged_in",
+        "intent": "Students are engaged in exploring relationships between angles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

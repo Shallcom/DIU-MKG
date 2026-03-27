@@ -1,0 +1,167 @@
+{
+  "video_name": "40_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Improve experimental methods to enhance teaching effectiveness; utilize information technology tools to support experimental teaching; design inquiry‑based learning activities based on a simulation platform.",
+  "transcript": "[0.0 -> 82.84] 各位评委老师大家好我是科学组的四十号选手我抽取到的演讲题目是生物学上常常通过实验来阐明生物学的概念原理和规律但有的实验操作较复杂并有一定难度我们可以用哪些方法来解决这个问题针对以上的题目我有以下几点思考首先实验是作为探究实践的重要组成部分在生物学科的日常教学中应用广泛同时为培养学生核心素养起到重要作用针对实验难我有以下几点方法首先针对现在的科技发展也产生了许多的新型工具能够帮助我们进行教学在原先的实验基础上我们可以进行改进和创新利用新器材和新工具辅助学生完成实验其二是利用实验模拟平台实现线上实验既不丢弃实验又能落实让学生在做中学以上就是我对该题目的一些前线的思考请各位评委老师批评指正。\n[86.46 -> 94.7] 下面开始我的模拟课堂。\n[96.0 -> 126.28] 同学们上课在学习植物种类的时候老师带领同学们一起参观过植物乐园同学们还记得我们曾经参观过哪些植物园植物都有哪些种类呀背子植物骡子植物蕨类苔藓岛类看来你的回答非常完整请坐。\n[127.64 -> 165.04] 说明你对上一部分的学习记忆得非常牢固那么同学们知道植物是怎么进行生殖和发育的吗可能不太了解那这节课我们就首先回到被子植物园看看它们是怎么延续生命的请同学们翻开书本的第二页今天我们学习的是植物的延续生命之法第七单元第一章第一节植物的生殖。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- The lesson begins with a slide titled \"建构乐高积木\" (Constructing LEGO Blocks). The slide features a diagram with interconnected blocks labeled with Chinese text, suggesting a conceptual framework or process.\n\n#### 2. The Title Event\n- The title \"建构乐高积木\" is prominently displayed at the top of the screen. The teacher does not physically write this title but points to it on the screen, emphasizing its importance.\n\n#### 3. The Objectives\n- The slide includes several bullet points:\n  - \"建构\"\n  - \"乐高\"\n  - \"积木\"\n  - \"学习\"\n  - \"探索\"\n  - \"创造\"\n  These are likely learning goals or key concepts related to the lesson.\n\n#### 4. Key Gestures\n- The teacher points to the blue star labeled \"建构 乐高\" on the slide, indicating its significance.\n- She gestures towards the interconnected lines and blocks, explaining their relationships.\n- The teacher moves to the podium, possibly to interact with a device or to emphasize a point.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the slide titled \"建构乐高积木.\"\n- She holds papers and gestures towards the slide, pointing to the blue star labeled \"建构 乐高.\"\n\n**Middle:**\n- The teacher continues to point at the interconnected blocks, explaining their connections.\n- She moves closer to the screen, emphasizing the flow of the diagram.\n- The teacher gestures towards the audience, possibly asking for engagement or feedback.\n\n**End:**\n- The teacher moves to the podium, interacting with a device, possibly to advance the slide or demonstrate something.\n- She points to a specific part of the diagram, highlighting \"建构\" and \"乐高\" as key concepts.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to the visual content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a slide titled \"建构乐高积木,\" featuring a diagram with interconnected blocks. The teacher holds papers and points to the blue star labeled \"建构 乐高,\" drawing attention to the central concept. She gestures towards the interconnected lines and blocks, explaining their relationships and emphasizing the flow of the diagram. The slide transitions to highlight specific elements, with the teacher pointing to the text \"建构\" and \"乐高\" to underscore their importance. Moving to the podium, she interacts with a device, possibly to advance the slide or demonstrate a point, while continuing to gesture towards the diagram. This visual narrative bridges the hook of constructing LEGO blocks to the main topic of exploring and creating through interconnected concepts, linking new knowledge to students' existing experiences with building and problem-solving. The introduction effectively sets the stage for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Experimental Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Information Technology Tools",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Simulation Platforms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Inquiry-Based Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "v1",
+        "label": "LEGO Construct Slide",
+        "type": "Visual",
+        "original_text": "Slide shows LEGO blocks diagram with \"Constructing LEGO\" emphasized.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[127.64 -> 165.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Constructing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c6",
+        "label": "LEGO",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Blocks",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Exploration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "c9",
+        "label": "Creativity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.84]"
+      },
+      {
+        "id": "v2",
+        "label": "Diagram Interconnections",
+        "type": "Visual",
+        "original_text": "Connected lines and blocks on slide explaining relationships.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Pointing",
+        "type": "Visual",
+        "original_text": "Teacher pointing to blue star labeled \"Construct LEGO\" on slide.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Experimental methods are enhanced by using new IT tools."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "IT tools include simulation platforms to aid teaching."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Inquiry-based learning evolves from constructing activities."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide shows the interconnected diagram as visual aid."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes LEGO as a central concept."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Construction involves using LEGO."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "LEGO represented as physical example of blocks."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Inquiry-based learning fosters exploration."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Inquiry-based learning encourages creativity."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in thinking about experimental methods."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

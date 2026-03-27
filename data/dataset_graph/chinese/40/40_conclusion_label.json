@@ -1,0 +1,153 @@
+{
+  "video_name": "40_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Analyze Song Ren’s and Zhong Zi’s different understandings of “medicine” and “greatness”; summarize the fundamental distinction in their modes of thought and its real‑world significance; transfer this way of thinking to the interpretation of other texts.",
+  "transcript": "[589.54 -> 683.88] 在这其中看似无用的药和大户所以在不药的人中有了不一样的意义那么同学们在思考这样一个问题宋人和中子的捉分别三可处中子在第一句决定就说夫子不捉鱼用大饮也就是说贵子捉鱼用大那么宋人呢用一个字来概括就是他捉鱼用他们的方也就是药方那么同学们认为这个药何大他们为何会捉他们是从什么角度去用它的实际用处那么再深层一些它的实际用处是基于他们的什么日常经验也就是他们的在日常中需要的也就是世俗的一些需要那么中子和这个鹤他们又是怎样挖掘出这个有用的呢他们是从什么角度去发现的。\n[685.52 -> 720.78] 对超越了世俗那么中子认识到的是它的坚硬和大这个是物质的什么呢他有没有说一定要把它剖开了呢一定要把它做成瓢没有对不对但是它就是从物的对本性本质属性也就是说中子和贵子它们的区别就在于此好下节课我们将探究有无之间的逍遥之谜我的课上到这里谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains a diagram with a curved line and labeled sections, alongside Chinese text.\n   - The digital screen displays a slide with a question in Chinese and empty boxes for answers.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Title: 《庄子之濠梁》\n     - Diagram with labels: 无话 (no talk), 语 (speech), 一村 (one village), 一河一于江湖 (one river, one lake).\n   - Digital Screen:\n     - Question: 问题四: 宋人和惠子的“扯”分别体现在现在何处？\n     - Boxes labeled: 前 (front), 后 (back), 物的属性 (properties of things).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the curved line and indicating the labeled sections.\n   - The teacher gestures towards the digital screen, emphasizing the question and the empty boxes for answers.\n   - The teacher uses hand movements to connect the content on the blackboard with the question on the screen, reinforcing the relationship between the diagram and the discussion points.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on the current question and the diagram, suggesting a continuation of the discussion or preparation for student responses.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a question in Chinese and empty boxes for answers, alongside a blackboard featuring a diagram with labeled sections. The teacher visually wraps up the lesson by pointing to the diagram on the blackboard, tracing the curved line and highlighting the labels such as \"无话,\" \"语,\" \"一村,\" and \"一河一于江湖.\" She then gestures towards the digital screen, emphasizing the question and the empty boxes labeled \"前,\" \"后,\" and \"物的属性.\" The teacher uses deliberate hand movements to connect the diagram with the question, reinforcing the key discussion points. No explicit homework or next-step instructions are visible, indicating a focus on consolidating the current topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Song Ren's Understanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.54 -> 720.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Zhong Zi's Understanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.54 -> 720.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Medicine vs. Greatness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[589.54 -> 720.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Real-World Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[589.54 -> 720.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Daily Experience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.54 -> 720.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Material Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[685.52 -> 720.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Beyond Mundane",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.52 -> 720.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram on the blackboard with labeled sections, such as 'No Talk', 'Speech', 'One Village', 'One River, One Lake'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Digital Screen Question",
+        "type": "Visual",
+        "original_text": "Screen showing question about Song Ren and Hui Zi's understanding, with empty boxes labeled 'Front', 'Back', 'Properties of Things'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Final Visual Summary",
+        "type": "Visual",
+        "original_text": "Teacher connects diagram and question to reinforce understanding.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Deliberation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[589.54 -> 720.78]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Song Ren's understanding contributes to the conceptualization of 'medicine' and 'greatness'."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Zhong Zi's understanding contributes to the conceptualization of 'medicine' and 'greatness'."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The principle of 'Medicine vs. Greatness' evolves into a discussion of its real-world significance."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The real-world significance is based on daily life experiences."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Material properties are considered to go beyond ordinary understanding."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram is visually connected to consolidate the lesson summary."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The digital screen question is visually referenced to consolidate the lesson summary."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The discussion of 'Medicine vs. Greatness' includes students' analysis of daily experiences."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The conceptual discussion includes the examination of material properties."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The visual reinforcement prompts student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

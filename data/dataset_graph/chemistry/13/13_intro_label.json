@@ -1,0 +1,158 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Outline the historical development of soda‑ash production technologies and their impact on the nation’s industry; understand Mr. Hou Debang’s contributions to soda‑ash production and his spirit of perseverance.",
+  "transcript": "[0.0 -> 125.24] 就以我们的纯碱为例也就是我们的碳酸钠的制备刚开始的时候呢是法国路布兰先是制备出了纯碱之后呢利用我们之后就是索尔维又制备出纯碱但是在索尔维制备出纯碱的七十多年之间民间呢会理由传出这样一句话吃不起馒头用不起玻璃因为它对这项技术呢进行了封锁之后呢我们整个国家的侯德瓦先生呢放弃国外的优厚的待遇回到祖国然后并且他失败了一千多次才制备出我们的成见所以呢我们可以学习到我们先生的迎难而上还有不懈努力的精神然后之后呢在社会中比如说我们的环境污染我们呢可以虽然在社会中可能有些人呢会对我们的化学有所误解但是呢我们化学呢对于我们的环境污染的解决也是非常有用途的比如说它可以通过一些沉淀法可以去除我们的水污染水中的金属离子等这样的话就是方便我们的用水之后呢就是在生活当中呢我们就是可以用到的各种物品比如说我们的眼睛或者说我们所穿的衣服呢都是我们的化学各种各样的材料比如说有锯纸纤维等等。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"环境保护与绿色化学\" (Environmental Protection and Green Chemistry). This initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"环境保护与绿色化学\" is displayed on the screen. The teacher does not write it on the board but stands next to the screen, emphasizing the title with her presence.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, possibly emphasizing points related to the title.\n- She occasionally looks at the screen and then back at the students, indicating engagement with the content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front, facing the blackboard and screen.\n- The screen displays the title \"环境保护与绿色化学.\"\n- The teacher appears to be preparing to start the lesson, holding papers.\n\n**Middle:**\n- The teacher moves slightly, gesturing with her hands while holding the papers.\n- She looks at the screen and then at the students, possibly explaining the significance of the title.\n- The blackboard remains mostly blank, with some writing visible on the left side, though not clearly readable.\n\n**End:**\n- The teacher continues to gesture, maintaining eye contact with the students.\n- The screen remains unchanged, focusing on the title.\n- The teacher's gestures suggest she is introducing the topic, linking the title to the lesson's content.\n\n### Summary\nThe introduction phase centers around the title \"环境保护与绿色化学\" displayed on the screen. The teacher uses hand gestures and engagement with the students to emphasize the topic, though no additional content is added to the board. The visual focus remains on the title, setting the stage for the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, facing a blackboard and a screen displaying the title \"环境保护与绿色化学.\" This title serves as the hook, immediately drawing attention to the lesson's focus. The teacher holds papers and uses hand gestures to engage the students, occasionally looking at the screen and then back at the class. The blackboard remains mostly blank, with some indistinct writing on the left side, keeping the visual emphasis on the screen's title. Throughout the introduction, the teacher's gestures and eye contact suggest an effort to connect the topic to the students' existing knowledge, setting the stage for a discussion on environmental protection and green chemistry. The consistent focus on the title slide helps establish the main topic, preparing students for the forthcoming content. This approach links the introduction to broader concepts, likely aiming to build a foundation for deeper exploration of green chemistry principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Soda-Ash Production",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c2",
+        "label": "LeBlanc Process",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Solvay Process",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Hou Debang",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Perseverance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c6",
+        "label": "Environmental Protection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c7",
+        "label": "Green Chemistry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c8",
+        "label": "Industrial Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "c9",
+        "label": "Precipitation Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 125.24]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Environmental Protection and Green Chemistry",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes one of the historical methods of soda-ash production."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes an alternative method of soda-ash production."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Discusses contributions to the evolution of soda-ash production."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Links the historical figure to the principle of perseverance."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Connects to broader concepts of sustainable practices."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Studying the impact of technological advancements on industry."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Discusses methods relevant to reducing environmental pollutants."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Highlights the main topic of the lesson."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Introduces the key principle connected to the title."
+      },
+      {
+        "source": "ss1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider the importance of environmental protection."
+      },
+      {
+        "source": "ss1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in understanding green chemistry concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

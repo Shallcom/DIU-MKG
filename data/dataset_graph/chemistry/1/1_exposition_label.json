@@ -1,0 +1,195 @@
+{
+  "video_name": "1_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the distribution rules of electrons outside the atomic nucleus; master the concept of electron shells and their capacity rules; be able to explain atomic structure based on electron‑shell distribution.",
+  "transcript": "[209.76 -> 232.0] 在上个片段我们已经知道了原子核外电原子核又由哪两部分组成呢质子和中子我们知道了原子核的组成那核外电子是怎样的呢今天我们来进一步探究原子结构的奥秘。\n[239.76 -> 268.5] 在含有多个原子力电子分别在能量不同的区域运动。\n[269.76 -> 328.9] 而这些我们把不同的区域去简化成连续不同的区畅也称为电子城而分别用一二三四五六七或者KLMNOPQ来进行表示而这样我们把它称之有人把它称之为洋葱的洋葱的称为洋葱式结构再来看在多原子中我们每一个电子层的能量是不同的电子在高近区域内的运动能量是低的。\n[333.74 -> 381.02] 而在离原子核较远的区域能量是高的也就是从低到高的一个过程而原子中的电子又是处于原子的一个引力场中就相当于我们地球上我们所有生物都是在地球的引力场中而它会对核外电子产生引力而我们在排布核外电子时通常是在第一层通常是从能量低的电子层排起排到能量高的。\n[382.14 -> 429.4] 就比如我们的钠原子钠原子的排布示意图它有它核外电子有几个十一个首先排布K层排布K层完了过后再排布L层最后排布M层那为什么K层和L层分别只能排布两个和八个呢每个那后面的每个电子层最多又可以排几个电子呢我们通过这个表格一起来观察一下请同学们来看这个表格一起来观察一下请同学们观察这个表格来看一看你能找到什么规律好请同学们开始。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The chalkboard displays the phrase \"原子の構造\" (Atomic Structure) and \"核外電子\" (Extraneous Electrons).\n- The digital screen shows a slide with Japanese text, likely introducing the topic of atomic structure.\n- The teacher gestures towards the screen, indicating the start of the lecture.\n\n**Middle:**\n- The teacher writes \"一電球\" (One Electron) on the chalkboard, drawing a circle to represent an atom.\n- The teacher adds lines labeled \"K,\" \"L,\" and \"M\" to illustrate electron shells.\n- The digital screen updates to show a diagram of electron shells with concentric circles, reinforcing the chalkboard illustration.\n- The teacher writes \"陽子\" (Proton) and \"陰子\" (Electron) on the board, explaining their roles in atomic structure.\n- The teacher points to the screen, which now displays a table with atomic numbers and electron configurations.\n\n**End:**\n- The teacher continues to explain the periodic table, using the screen to show detailed electron configurations.\n- The chalkboard now includes a more detailed diagram of electron shells and labels for protons and electrons.\n- The teacher uses hand gestures to emphasize key points, such as the arrangement of electrons in shells.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the chalkboard diagram of atomic structure, featuring a circle with labeled electron shells (K, L, M) and annotations for protons and electrons.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds labels and lines to the atomic diagram, writing \"一電球\" and drawing electron shells. The screen updates with corresponding diagrams and tables.\n- **Modifications**: The teacher adjusts the diagram on the board to include more details about electron configurations as the lecture progresses.\n- **Deictic Gestures**: The teacher points to specific parts of the diagram and screen, such as the K, L, and M shells, while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses different colors of chalk to distinguish between protons, electrons, and electron shells.\n- Important concepts, like the arrangement of electrons, are emphasized through repeated gestures and annotations on both the board and screen.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the board and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the foundational concept of \"原子の構造\" (Atomic Structure) and \"核外電子\" (Extraneous Electrons), setting the stage for the lecture. The teacher began by constructing a simple atomic model, drawing a circle to represent the nucleus and labeling it with \"一電球\" (One Electron). He then derived the electron shells by adding lines marked \"K,\" \"L,\" and \"M,\" illustrating the hierarchical arrangement of electrons.\n\nAs the lecture progressed, the teacher annotated the diagram with \"陽子\" (Proton) and \"陰子\" (Electron), explaining their roles within the atomic structure. Simultaneously, the digital screen updated to show corresponding diagrams and tables, reinforcing the visual model on the board. The teacher traced the concentric circles on the screen, emphasizing the increasing energy levels of the electron shells.\n\nTo resolve deixis, the teacher pointed to specific parts of the diagram, such as the K shell, to illustrate foundational electron configurations. He then expanded the discussion by referencing the periodic table displayed on the screen, highlighting electron configurations for various elements. The teacher used different colors of chalk to distinguish between protons, electrons, and shells, creating a clear visual hierarchy.\n\nFinally, he circled key configurations on the board and screen, underscoring their importance. This strategic use of visual aids, combined with dynamic gestures and annotations, reduced cognitive load by providing a structured and reinforced learning pathway. The visual elements worked synergistically to build a comprehensive understanding of atomic structure, ensuring students could follow the evolving concepts with clarity.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Atomic Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[209.76 -> 232.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Extraneous Electrons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[209.76 -> 232.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Protons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[209.76 -> 232.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Neutrons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[209.76 -> 232.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Electron Shells",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[239.76 -> 268.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Energy Levels",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[269.76 -> 328.9]"
+      },
+      {
+        "id": "c7",
+        "label": "K Shell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.76 -> 328.9]"
+      },
+      {
+        "id": "c8",
+        "label": "L Shell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.76 -> 328.9]"
+      },
+      {
+        "id": "c9",
+        "label": "M Shell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.76 -> 328.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Periodic Table",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[333.74 -> 381.02]"
+      },
+      {
+        "id": "c11",
+        "label": "Na Atom",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[382.14 -> 429.4]"
+      },
+      {
+        "id": "c12",
+        "label": "Electron Configuration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[382.14 -> 429.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Atomic Structure Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with labeled K, L, M shells and annotations for protons and electrons.",
+        "ocr_corrected": true,
+        "timestamp": "[209.76 -> 429.4]"
+      },
+      {
+        "id": "v2",
+        "label": "Electron Configuration Table",
+        "type": "Visual",
+        "original_text": "Table showing atomic numbers and electron configurations.",
+        "ocr_corrected": true,
+        "timestamp": "[333.74 -> 429.4]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[209.76 -> 429.4]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Extraneous electrons are part of the atomic structure."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Protons are part of the atomic structure."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Neutrons are part of the atomic structure."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "K shell is the first electron shell."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "L shell follows the K shell."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "M shell follows the L shell."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Electron shells relate to different energy levels."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Periodic table helps in understanding electron configurations."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "evolves_from",
+        "intent": "Na atom's configuration is an example."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Illustrates electron shell concept."
+      },
+      {
+        "source": "v2",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Shows electron configurations."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students become engaged in understanding atomic structure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

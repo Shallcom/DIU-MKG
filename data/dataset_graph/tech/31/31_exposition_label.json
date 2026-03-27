@@ -1,0 +1,134 @@
+{
+  "video_name": "31_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "By guiding students to perform hands‑on experiments, cultivate a spirit of scientific inquiry; help students understand the propagation rules of light in different media.",
+  "transcript": "[60.0 -> 164.2] 第二对于无所适从的同学我想的是作为老师我应该是积极地去引导他我觉得兴趣才是一个人最好的老师在这个过程当中我应该是给予一些引导然后让学生亲自动手去参与科学探究从科学探究当中得到科学获得科学探究是有魅力的让魅力来吸引他们从而让他们建立对科学探究的兴趣进而培养科学探究精神第三我要鼓励学生积极参与活动多观察日常生活当中我们的物理源自于生活而要服务于社会像就例如光子之间传播我们可以比如说学生在日常生活当中比如演唱会这些我们都可以看到光打出来实现直线传播的现象那么我们就可以去引导学生那光在液体当中和固体当中又会如何传播呢让他们利用手中的工具比如用激光笔在水中去探索一下光是如何传播的第四我觉得科学探究精神一个是还要利用结合科学的前沿比如我们在在日常生活当中讲物理课的时候要经常去贯穿一些科学的精神从而激发学生的自豪感让学生感受到物理的魅力让物理来源于生活而服务于社会让学生树立科校报国的目标激励学生科学探究好我的集体演讲完毕下面开始我的试讲上课同学们好下面请同学们来看一这个视频在欣赏视频的过程当中边看边思考视频中能够得到什么样的信息。\n[179.24 -> 180.0] 当我们听到这些当我们听每次听到这种美妙的声音的时候我们可以知道这肯定是在进行某项活动那么接下来就请同学们带着问题视频问个视频那么请同学们来思考视频中运用了声音的视频会下面请同学们带着问题我们来进行本节课的学习声音的运动。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers.\n- The screen displays a slide with the title \"声の利用\" (Utilization of Sound) and images of a car and other objects.\n- The teacher gestures towards the screen, likely introducing the topic of sound applications.\n\n**Middle:**\n- The teacher continues to stand at the podium, occasionally looking at the screen.\n- The screen transitions to a video clip showing a historical scene with a crowd and a person speaking.\n- The teacher points at the screen, possibly explaining the context or significance of the video.\n\n**End:**\n- The video on the screen changes to a scene with a car and people, indicating a shift in the topic or example.\n- The teacher remains engaged with the content, likely providing commentary or analysis.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the screen displaying slides and video content.\n- Initial slide: Title \"声の利用\" with images of a car and other objects, suggesting applications of sound technology.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher introduces video content, transitioning from static images to dynamic scenes.\n- **Modifications**: The screen content changes from slides to video, indicating a shift in the lesson's focus.\n- **Deictic Gestures**: The teacher points at specific parts of the screen, likely highlighting key elements in the video, such as the car or the speaker.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses gestures to emphasize important aspects of the video, such as pointing at the speaker or the car.\n- The transition from slides to video serves as a visual cue to engage students with real-world applications of sound.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing understanding of the lesson's flow and emphasis.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the screen displayed a slide titled \"声の利用\" with images of a car and other objects, establishing the theme of sound applications. The teacher began by introducing the concept, gesturing towards the images to highlight their relevance. Then, the teacher transitioned to a video clip showing a historical scene with a crowd and a speaker, constructing a narrative on the practical uses of sound in communication. The teacher pointed at the speaker in the video, tracing the audiovisual elements to illustrate the significance of sound in public speaking. As the video shifted to a scene with a car and people, the teacher annotated the content, emphasizing the technological aspects of sound in vehicles. Finally, the teacher circled key elements on the screen, such as the car, to reinforce the lesson's conclusion. The use of dynamic video content alongside static slides reduced cognitive load by providing real-world examples, aligning visual and verbal explanations seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sound Utilization",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Propagation of Light",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Light in Different Media",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Car",
+        "type": "Visual",
+        "original_text": "Images of a car, suggesting sound technology applications",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Historical Scene",
+        "type": "Visual",
+        "original_text": "Video clip with a crowd and a speaker explaining sound communication",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Public Speaking",
+        "type": "Concept",
+        "knowledge_type": "Application",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c8",
+        "label": "Technological Aspects of Sound",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c9",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Scientific Tools",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[60.0 -> 164.2]"
+      },
+      {
+        "id": "c11",
+        "label": "Laser Pen Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[60.0 -> 164.2]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Illustrates sound utilization through car image."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Encourages scientific inquiry through student engagement."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Explains how light propagates differently in various media."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Includes technical applications of sound in discussion with specific examples."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "History clip serves as an example of public speaking sound applications."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Leads to laser pen experiments to explore sound use."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "guides_discussion",
+        "intent": "Directs the use of scientific tools in experiments."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

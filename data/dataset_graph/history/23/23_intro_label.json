@@ -1,0 +1,140 @@
+{
+  "video_name": "23_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Understand the important significance of source‑based evidence as a core historical competency; master the basic methods for collecting, analyzing, and using historical sources in the teaching process.",
+  "transcript": "[0.0 -> 85.96] 支持明镜与点点栏目各位评训老师大家好我出道的几系讲演的题目是如何在历史教学过程中落实史料史证的素养对于这个问题我的回答是首先史料史证是历史学科的五大核心素养之一重点呢则在于对史料要进行搜集的过程中要注意趣味存真要注意对史料的辨析其次是我认为在历史教学过程中呢还要在历史教学过程中要对史料进行丰富的贯彻举例来说比如说在清朝潜踪期的鼎盛与危机的这一刻来说那我们就可以运用非常丰富的文化文化文化当时的清朝的地图以及二十四年的中华人民共和国地图来对学生进行这种地图的史料的学习其次也可以运用一些其他的文献的史料最后呢我认为在学校学过程中要始终贯彻对学生时量时政素养的这种意识。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of a ceramic artifact displayed on the screen. It appears to be a historical piece, possibly a vase or urn, with intricate designs.\n\n#### 2. **The Title Event**\n- **Text on Screen**: The title on the screen reads \"近代以来的世界贸易与文化交流的扩大\" (Expansion of World Trade and Cultural Exchange Since Modern Times).\n- **Teacher's Action**: The teacher stands in front of the screen, likely presenting the title. No specific action like underlining is visible.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly visible in the frames provided. The focus is on the title and hook object.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: The teacher is seen holding papers and gesturing with their hands, possibly emphasizing points related to the content on the screen. Specific gestures like pointing or tracing are not clearly visible.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- **Visual Content**: The screen displays the title \"近代以来的世界贸易与文化交流的扩大\" alongside an image of a ceramic artifact.\n- **Teacher Action**: The teacher stands in front of the screen, holding papers, and begins the introduction.\n\n**Middle**\n- **Visual Content**: The title and image remain on the screen. The blackboard behind the screen is mostly blank, with some faint chalk marks.\n- **Teacher Action**: The teacher gestures with their hands, likely explaining the significance of the ceramic artifact in the context of world trade and cultural exchange.\n\n**End**\n- **Visual Content**: The screen continues to display the same title and image. No changes in the visual content are observed.\n- **Teacher Action**: The teacher continues to engage with the audience, possibly elaborating on the historical context of the artifact.\n\n### Summary\nThe introduction phase of the lesson centers around the image of a ceramic artifact, linking it to the theme of expanded world trade and cultural exchange since modern times. The teacher uses hand gestures to emphasize points, though specific gestures are not detailed. The visual focus remains on the screen content throughout the segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying an image of a ceramic artifact, serving as the hook to capture the students' attention. The artifact, with its intricate designs, visually represents the theme of cultural exchange. The teacher holds papers and gestures, likely drawing connections between the artifact and historical trade routes. The screen prominently features the title \"近代以来的世界贸易与文化交流的扩大,\" setting the stage for the lesson's focus. Throughout the introduction, the teacher's gestures emphasize the significance of the artifact, bridging the visual hook to the main topic of expanded world trade and cultural exchange. This visual narrative helps students connect the tangible example of the artifact to broader historical concepts, laying the groundwork for understanding how trade facilitated cultural interactions. The consistent focus on the screen content ensures a clear transition from the hook to the main topic, effectively linking new knowledge to students' existing understanding of historical artifacts and trade.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Source-Based Evidence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept2",
+        "label": "Historical Competency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept3",
+        "label": "Methods for Collecting Sources",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept4",
+        "label": "Analyzing Historical Sources",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept5",
+        "label": "Using Historical Sources",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept6",
+        "label": "Hook Object: Ceramic Artifact",
+        "type": "Visual",
+        "original_text": "Image of a ceramic artifact",
+        "ocr_corrected": true
+      },
+      {
+        "id": "concept7",
+        "label": "Expansion of World Trade",
+        "type": "Visual",
+        "original_text": "Expansion of World Trade and Cultural Exchange Since Modern Times",
+        "ocr_corrected": true
+      },
+      {
+        "id": "concept8",
+        "label": "Cultural Exchange",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept9",
+        "label": "Qing Dynasty Maps",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "concept10",
+        "label": "Document Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 85.96]"
+      },
+      {
+        "id": "student_state1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "includes",
+        "intent": "Emphasizes the importance of source-based evidence in developing historical competency."
+      },
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "builds_upon",
+        "intent": "Details methods for the collection of historical sources."
+      },
+      {
+        "source": "concept1",
+        "target": "concept4",
+        "relation": "builds_upon",
+        "intent": "Addresses methods for analyzing historical sources."
+      },
+      {
+        "source": "concept1",
+        "target": "concept5",
+        "relation": "builds_upon",
+        "intent": "Explains how to use historical sources effectively."
+      },
+      {
+        "source": "concept6",
+        "target": "concept7",
+        "relation": "visualizes",
+        "intent": "Links the ceramic artifact with the theme of world trade and cultural exchange."
+      },
+      {
+        "source": "concept7",
+        "target": "concept8",
+        "relation": "builds_upon",
+        "intent": "Connects the expansion of world trade to cultural exchange."
+      },
+      {
+        "source": "concept9",
+        "target": "concept10",
+        "relation": "evolves_from",
+        "intent": "Using Qing Dynasty maps as a basis for document analysis regarding historical events."
+      },
+      {
+        "source": "student_state1",
+        "target": "concept1",
+        "relation": "emphasizes",
+        "intent": "Engaged students listen and understand the significance of source-based evidence."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

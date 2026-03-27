@@ -1,0 +1,126 @@
+{
+  "video_name": "28_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Review the core characteristics of DNA molecular structure; reinforce the structural features of alternating deoxyribose and phosphate linkages; understand the basic components of the DNA double‑helix structure.",
+  "transcript": "[700.493067 -> 734.16] 好来请这位同学告诉告诉大家你画了一个怎样的排骨方式脱氧核糖和磷酸交替海鲤的外形那是碱基在内还是减肌在内那是这是零三代的很好请坐那有没有同学有不同的看法\n[735.7 -> 760.1] 沃森和克里克也进行了研究他们就尝试找到了这三种排骨方式那到底是哪一种呢这个问题我们在后续的过程中继续进行学习我的授课片段到此结束谢谢各位评委老师和同学嗯",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a diagram with molecular structures and arrows indicating interactions or processes.\n   - The blackboard contains chemical structures and notes written in white chalk, including the term \"DIAMBER SKELETON\" and several molecular diagrams.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide**: \n     - Title: \"结构分析\" (Structural Analysis)\n     - Main content: A diagram with molecular structures connected by arrows, labeled with terms like \"一个\" (one), \"两个\" (two), and \"三个\" (three).\n   - **Blackboard**:\n     - \"DIAMBER SKELETON\"\n     - Several molecular structures with labels such as \"酮基\" (ketone group), \"酮基共轭\" (conjugated ketone group), and \"双烯系统\" (diene system).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely explaining the diagram's components and their relationships.\n   - She points to different parts of the molecular structures on the slide, emphasizing the connections indicated by the arrows.\n   - The teacher occasionally turns to the blackboard, possibly referencing the written notes and diagrams to reinforce the concepts discussed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content through the slide and blackboard notes.",
+  "visual_narrative": "The lesson concludes with a digital slide centered on structural analysis, featuring a diagram with molecular structures connected by arrows. The teacher visually reviews the content by pointing to each molecular component in sequence, emphasizing the interactions indicated by the arrows. She occasionally references the blackboard, which displays key terms and chemical structures, reinforcing the connections between the ketone groups and diene systems. The visual focus remains on the slide's diagram, highlighting the core takeaway of molecular interactions. No explicit homework or next-step instructions are visible, keeping the emphasis on the summarized concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "DNA Molecular Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[700.493067 -> 734.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Deoxyribose",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[700.493067 -> 734.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Phosphate Linkages",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[700.493067 -> 734.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Alternating Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[700.493067 -> 734.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Watson and Crick",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[735.7 -> 760.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Triple Helix Hypotheses",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[735.7 -> 760.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Structural Analysis Slide",
+        "type": "Visual",
+        "original_text": "Title: Structural Analysis; diagram with molecular structures connected by arrows",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Chemical Notes",
+        "type": "Visual",
+        "original_text": "DIAMBER SKELETON and molecular structures such as ketone group, conjugated ketone group, diene system",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "DNA structure includes deoxyribose as a component."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "DNA structure includes phosphate linkages as a component."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The structural feature of DNA includes alternating deoxyribose and phosphate linkages."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The understanding of DNA molecular structure is related to the research by Watson and Crick."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "addresses_misconception",
+        "intent": "Discusses the hypothesis of triple helix, which was part of early DNA research."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Slide content is reinforced with blackboard chemical structures and terms."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher asks student to describe the alternating structure of DNA."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide provides a visual summary of DNA molecular structure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

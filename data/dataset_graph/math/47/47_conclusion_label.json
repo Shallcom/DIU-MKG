@@ -1,0 +1,132 @@
+{
+  "video_name": "47_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the relationship between exponential functions and logarithmic functions; be able to write the corresponding logarithmic form from an exponential expression; apply logarithmic operations to solve real‑world problems.",
+  "transcript": "[730.823367 -> 784.72] 还有的话我们会想这个表可不可以继续往下写如果要你来写的话这个表还可不可以继续往下写可以的对不对对不对我们好像能够取到我们的实数对吧好请坐这位同学提出了他的想法那接下来我们来进一步解释一下我们知道我们的对数其实是由密以及指数来导出的我们刚刚的例子我们同学们发现我发现有同学上来就直接写了个二的X的四方这是我们的什么函数指数函数利用我们的指数去求解我们的对数那你会发现通过这个指数函数我们每取一个X都有一个对应的Y对不对那么反过来利用对数的运算是不是也就意味着每一个每一个N等于每一个A的N次方都能够写出一个求解它的式子也就是我们的对数每一个数都对应着它的这个节奏。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard screen, which displays a graph with the function $2^x$ and the equation $x^2 = m$ written on the green chalkboard.\n   - The layout includes a Cartesian coordinate system with the curve of $2^x$ and a horizontal line representing $x^2 = m$.\n\n2. **Key Knowledge Items (Content View)**:\n   - On the chalkboard: \n     - $N = \\log_m a$\n     - $x^2 = m$\n     - $x = \\pm \\sqrt{m}$\n   - On the whiteboard screen:\n     - Graph of $2^x$\n     - Equation $x^2 = m \\rightarrow x = \\pm \\log_m n$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the graph on the whiteboard, specifically highlighting the intersection points of the curve $2^x$ and the line $x^2 = m$.\n   - The teacher writes the equation $x^2 = m \\rightarrow x = \\pm \\log_m n$ on the whiteboard, linking it to the graph.\n   - The teacher gestures towards the chalkboard, emphasizing the equations $x^2 = m$ and $x = \\pm \\sqrt{m}$.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in this segment. The focus remains on summarizing the current lesson content through the graph and equations.",
+  "visual_narrative": "The lesson concludes with a summary centered on the graph of $2^x$ displayed on the interactive whiteboard and the equations on the chalkboard. The teacher visually reviews the content by pointing to the intersection points on the graph, linking them to the equation $x^2 = m \\rightarrow x = \\pm \\log_m n$ written on the screen. She emphasizes the equations $x^2 = m$ and $x = \\pm \\sqrt{m}$ on the chalkboard, reinforcing their connection to the graph. No visual handover to homework or next steps is present, focusing solely on the core concepts displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Exponential Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Logarithmic Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "c3",
+        "label": "2^x",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "c4",
+        "label": "x^2 = m",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "c5",
+        "label": "x = ±√m",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "c6",
+        "label": "log_m a",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "c7",
+        "label": "x^2 = m → x = ± log_m n",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[730.823367 -> 784.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Graph of 2^x and x^2 = m",
+        "type": "Visual",
+        "original_text": "The interactive whiteboard displays a graph with the curve of 2^x and the horizontal line x^2 = m.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Attention to Intersection Points",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The relationship between exponential and logarithmic functions is explained."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The graph visualizes the function 2^x."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The graph also shows the equation x^2 = m as a line."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The solution x = ±√m derives from the equation x^2 = m."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The logarithmic expression log_m a is part of the procedure involving x^2 = m → x = ± log_m n."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The equation x^2 = m → x = ± log_m n expands on the initial principle of x^2 = m."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the relation to the graph by writing the equation near it."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engaged_with",
+        "intent": "Students focus on the intersection points on the graph."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The expression x = ±√m supports understanding logarithmic relationships like log_m a."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

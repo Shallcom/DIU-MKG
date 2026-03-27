@@ -1,0 +1,132 @@
+{
+  "video_name": "40_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the relationship between citizens' rights and obligations; analyze the individual's role in national security.",
+  "transcript": "[749.28 -> 784.12] 既然刚刚同学们提到了我们在国内也有这种敌对分子的活动不我们是人民当家作主的国家我们都有权利和义务为了减少这样的活动那我能做什么从我们自身从身边最小的事情来说减少这样的我也有民主的权利和义务那我应该怎么样好我的课堂展示到此结束谢谢郭老师。\n[785.76 -> 807.4] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains handwritten notes and diagrams.\n   - The layout includes a central diagram with branches and several key phrases written around it.\n   - The screen to the right displays a slide with two columns of text, likely summarizing key points or providing additional information.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Central diagram with branches labeled: \"在人間\" (in humans), \"在動物\" (in animals), \"疑問\" (question).\n     - Additional phrases: \"強調\" (emphasis), \"煙\" (smoke).\n   - Screen:\n     - Two columns of text, each with a heading and bullet points, though specific content is not fully legible.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically highlighting the branches and key phrases.\n   - The teacher gestures towards the screen, likely indicating the connection between the blackboard content and the slide.\n   - The teacher uses hand movements to emphasize the structure of the diagram, possibly tracing the connections between \"在人間\" and \"在動物.\"\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The teacher's actions suggest a focus on reviewing the current content rather than transitioning to new material.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a central diagram featuring branches labeled \"在人間\" (in humans) and \"在動物\" (in animals), with additional phrases like \"強調\" (emphasis) and \"煙\" (smoke) surrounding it. The teacher visually reviews the content by pointing to each branch of the diagram, emphasizing the connections between the concepts. Gestures are used to highlight the structure, tracing the links between the different sections. The screen to the right shows two columns of text, which the teacher occasionally references, linking the blackboard content to the slide. No explicit homework or next-step instructions are visible, focusing the conclusion on reinforcing the key visual elements presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Citizen Rights",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.28 -> 784.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Citizen Obligations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.28 -> 784.12]"
+      },
+      {
+        "id": "c3",
+        "label": "National Security Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[749.28 -> 784.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Domestic Threats",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.28 -> 784.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Rights and Responsibilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[749.28 -> 784.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Democratic Participation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[749.28 -> 784.12]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with branches labeled 'In Humans' and 'In Animals', phrases 'Emphasis' and 'Smoke'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Text Columns",
+        "type": "Visual",
+        "original_text": "Slide with columns summarizing key points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Citizen rights are linked to their obligations and responsibilities."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Citizen obligations are connected to their rights and responsibilities."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Rights and responsibilities include democratic participation."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Analyzing individual roles in national security develops from understanding rights and responsibilities."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Domestic threats require an understanding of roles in national security."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The diagram visually summarizes democratic participation concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Slide text columns summarize key points about citizen rights."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding rights and responsibilities prompts student engagement."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The diagram on the blackboard emphasizes key concepts for engaged students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,166 @@
+{
+  "video_name": "12_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to identify the characteristics of strong‑acid strong‑base salts and weak‑acid strong‑base salts and the acidity/alkalinity of their solutions; be able to predict the pH changes of solutions of different types of salts and explain the reasons.",
+  "transcript": "[240.0 -> 275.6] 通过刚才的实验结论我们得出来强酸强碱盐的溶液是中性的强酸弱碱盐的溶液呈什么性来你来说因为强酸强酸它酸性肯定要强好请坐来这位同学你来回答一下老师弱酸强碱盐的溶液呈碱性为什么呢因为它是碱性强引用得很得当是不是啊好请坐我们再继续来看岩溶液它是怎样呈现酸碱性的呢。\n[289.92 -> 331.22] 溶液呈现不同酸碱性的原因它的本质在于我们酸和碱酸是酸是什么呀氢离子的浓度减是什么呢取之于它们两个我强我上你强你上好大家通过这个讨论进行一下思考与讨论现在进行讨论来讨论一下黏溶液过程当中它存在的离子有什么以及它氢离子的浓度和氢氧根离子的浓度的比例小现在可以进行讨论了。\n[356.5 -> 368.18] 先看看它是鹿还是它是熟的。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide with the question: \"为什么$\\text{Na}_2\\text{CO}_3$是强碱性？\" (Why is $\\text{Na}_2\\text{CO}_3$ strongly basic?).\n- The teacher gestures towards the screen, emphasizing the text about the basicity of $\\text{Na}_2\\text{CO}_3$ and its hydrolysis reaction.\n- The chalkboard has \"盐类的水解\" (Hydrolysis of Salts) written on it.\n\n**Middle:**\n- The teacher writes \"碱性\" (basicity) on the chalkboard, linking it to the discussion on the screen.\n- The slide changes to discuss the \"需要考虑不同物质的性质\" (Need to consider the properties of different substances), with a table comparing $\\text{Na}_2\\text{CO}_3$ and $\\text{NaHCO}_3$.\n- The teacher points to the table, highlighting the differences in $K_{\\text{h}}$ values and the degree of hydrolysis.\n\n**End:**\n- The teacher moves to a desk, possibly to retrieve materials or demonstrate something related to the lesson.\n- The screen continues to display the comparison table, emphasizing the importance of $K_{\\text{h}}$ in determining basicity.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide comparing $\\text{Na}_2\\text{CO}_3$ and $\\text{NaHCO}_3$, including their $K_{\\text{h}}$ values and hydrolysis degrees.\n   - The slide is structured with a table and explanatory text about basicity and hydrolysis.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"碱性\" on the chalkboard while discussing the slide content.\n   - **Modifications**: No erasures are observed; the focus is on adding information to the board.\n   - **Deictic Gestures**: The teacher points to specific parts of the table on the screen, such as the $K_{\\text{h}}$ values, to explain their significance.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the comparison between $\\text{Na}_2\\text{CO}_3$ and $\\text{NaHCO}_3$.\n   - The slide uses color coding and bold text to highlight key terms like \"碱性\" and the $K_{\\text{h}}$ values.\n\nThis structured visual evolution helps students understand the factors influencing the basicity of salts through clear, synchronized visual and verbal explanations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"盐类的水解\" (Hydrolysis of Salts) alongside a digital slide questioning the strong basicity of $\\text{Na}_2\\text{CO}_3$. The teacher began by pointing to the slide, tracing the text that explained the hydrolysis reaction and its basic nature. The teacher then constructed the concept of basicity by writing \"碱性\" on the chalkboard, directly linking it to the discussion on the screen.\n\nAs the lecture progressed, the slide evolved to present a comparison table between $\\text{Na}_2\\text{CO}_3$ and $\\text{NaHCO}_3$, highlighting their respective $K_{\\text{h}}$ values. The teacher annotated the board by adding notes on basicity, while simultaneously pointing to the table on the screen. They traced the $K_{\\text{h}}$ values, emphasizing the greater basicity of $\\text{Na}_2\\text{CO}_3$ due to its higher hydrolysis constant.\n\nFinally, the teacher moved to the desk, possibly to gather additional materials, while the slide continued to emphasize the comparison. Throughout, the teacher used dynamic gestures to resolve deixis, pointing specifically to the $K_{\\text{h}}$ values and the degree of hydrolysis in the table. The visual emphasis on these key factors, combined with the structured layout of the slide and board, worked synergistically to reduce cognitive load, allowing students to follow the logical progression from concept introduction to detailed comparison and conclusion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Strong Acid Salt",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 275.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Weak Base Salt",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 275.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Solution pH Neutral",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[240.0 -> 275.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Na2CO3 Basicity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[220.0 -> 240.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Salt Hydrolysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[220.0 -> 240.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Kh Value",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[220.0 -> 240.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Ion Concentration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[289.92 -> 331.22]"
+      },
+      {
+        "id": "c8",
+        "label": "Hydrogen Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[289.92 -> 331.22]"
+      },
+      {
+        "id": "c9",
+        "label": "Hydroxide Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[289.92 -> 331.22]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Hydrolysis of Salts",
+        "type": "Visual",
+        "original_text": "The screen displays a slide questioning why Na2CO3 is strongly basic.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Salt Comparison",
+        "type": "Visual",
+        "original_text": "Slide shows a table comparing Na2CO3 and NaHCO3 emphasizing Kh values.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Chalkboard: Salt Hydrolysis",
+        "type": "Visual",
+        "original_text": "\"碱性\" written by the teacher while discussing hydrolysis.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Links strong acid salt to the concept of neutral pH solutions."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Discussion evolves into understanding Na2CO3's basicity."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Procedure of hydrolysis includes understanding strong acid salts."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Kh value of Na2CO3 contributes to explaining its basicity."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Ion concentration concept includes hydrogen ions."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Ion concentration concept includes hydroxide ions."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Slide poses a question regarding Na2CO3's basicity."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Slide comparison highlights different Kh values."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Slide supports exploration of concepts discussed on the board."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "prompts_thinking",
+        "intent": "Student discussion engages with the slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

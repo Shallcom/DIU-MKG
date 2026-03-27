@@ -1,0 +1,140 @@
+{
+  "video_name": "34_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the phenomenon of wave diffraction and the conditions under which it occurs; be able to identify the manifestations of diffraction under different conditions; analyze how the size of an obstacle relative to the wavelength affects the diffraction effect.",
+  "transcript": "[572.1 -> 610.64] 下一个保持水的波长不变改变缝的宽度来观察一下波的变化我们可以发现当波长分别是狭缝宽度的十分之七十分之五十分之三的时候眼射现象逐渐地减弱那因此综合以上的现象我们可以得出只有说也就是说这个缝孔的缝孔跟障碍物的尺寸波长差不多的时候或者比波长更小的时候我们才能观察到明显的演射现象。\n[627.0 -> 631.72] 因此呢它发生的条件。\n[657.0 -> 717.62] 也就是说缝宽跟它的波长相差不大的时候那么此时这个演射现象可以发生得十分明显那我们这一节课我们学到了什么呢我们知道了波的反射波的折射地律我们来掌握这一知识点是通过我们初中所学过的光的反射光的折射并且波能够发生演射现象眼射现象呢是波特有的一个现象一切的波都可以发生眼射那波发生明显眼射的条件只有缝宽孔的宽度或者障碍物的尺寸跟波长差不多或者比波长更小的时候才能观察到明显的眼射现象那么在这堆课结束之前呢我想请再布置一个课后探究请同学们去思考一下波的反射折射和演射对我们的生活能够产生哪些帮助。\n[719.7 -> 722.94] 好的我的教学片段到此结束感谢您听听。\n[739.78 -> 741.82] 我给你处理处理处。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in Chinese.\n   - The layout includes three main headings, each followed by a brief description or condition.\n\n2. **Key Knowledge Items (Content View)**:\n   - The headings on the blackboard are:\n     1. 液体的倾斜\n     2. 液体的折射\n     3. 液体的折射条件\n   - The final point includes the phrase: 用短笔画做倾斜体.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each heading on the blackboard in sequence, likely reviewing the content associated with each point.\n   - The teacher gestures towards the screen, possibly summarizing the key points displayed there.\n\n4. **Transition to Next Step**:\n   - A student in a green jacket approaches the blackboard, indicating a transition to a practical activity or demonstration related to the lesson content.\n   - There is no visible homework or assignment slide, but the interaction suggests hands-on application of the concepts discussed.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the core topic of liquid behavior. The teacher visually reviews the content by pointing to each of the three main headings in sequence: 液体的倾斜, 液体的折射, and 液体的折射条件. He briefly pauses on the final point, emphasizing the practical application with the phrase 用短笔画做倾斜体. The visual focus then shifts as a student approaches the board, indicating a transition to a hands-on activity, signaling the end of the theoretical session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wave Diffraction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.1 -> 717.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Diffraction Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.0 -> 717.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Wave Wavelength",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.1 -> 610.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Obstacle Size",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[657.0 -> 717.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Liquid Inclination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.1 -> 610.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Liquid Refraction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.1 -> 610.64]"
+      },
+      {
+        "id": "c7",
+        "label": "Refraction Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[657.0 -> 717.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Blackboard lists key points in Chinese",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Pointing Gesture",
+        "type": "Visual",
+        "original_text": "Teacher points to headings on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Student Approaches Blackboard",
+        "type": "Visual",
+        "original_text": "Student in green jacket approaches blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Wave diffraction occurs under specific conditions related to wavelength and obstacle size."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Wave diffraction is influenced by the wavelength."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Wave diffraction is influenced by the relative size of obstacles."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Liquid inclination leads to refraction under certain conditions."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Conditions under which liquid refraction occurs."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gesture to emphasize key points summarized on blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Teacher's gesture aids student engagement with content."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student approaching the blackboard indicates a transition to hands-on activity related to diffraction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

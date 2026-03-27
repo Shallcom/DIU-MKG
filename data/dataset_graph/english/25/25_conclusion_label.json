@@ -1,0 +1,190 @@
+{
+  "video_name": "25_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Learn to express in English the reasons for choosing a job and its important contributions to society; understand and be able to discuss how to achieve work‑life balance in career development.",
+  "transcript": "[672.998933 -> 673.58] Please, and what else?\n[674.24 -> 675.38] Who wants to share with us?\n[677.54 -> 678.82] Could you please, yes?\n[678.94 -> 705.44] I will choose to come here for my work because it's meaningful to become an important contribution to society. All right. Thank you. Please. So we can see no matter what you choose if we can balance in our work and life. And all of us can have a bright life.。\n[707.24 -> 722.52] Right? So please don't forget to evaluate your performance today according to this assessment sheet. And I will give you some comments next time. Is that clear?\n[723.08 -> 727.3] OK. That's all about today's class. See you tomorrow! Bye! Bye!",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard features a Venn diagram with two overlapping circles labeled \"Number of personal life\" and \"Ten thousand bahts overwhelming work.\"\n   - The digital screen displays an \"Assessment sheet\" with criteria, forms of assessment, and columns for self and teacher assessment.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - Venn diagram with overlapping circles.\n     - Phrases: \"Number of personal life,\" \"Ten thousand bahts overwhelming work,\" \"high life.\"\n   - **Digital Screen**:\n     - Criteria: \"Content,\" \"Structure,\" \"Language.\"\n     - Forms of Assessment: \"Does it include the criteria?\" \"Is it a complete structure?\" \"Does it use correct grammar, punctuation, spelling?\"\n     - Example: \"Example 1: good! need improvement.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the Venn diagram on the blackboard, specifically highlighting the \"high life\" phrase written in the overlapping section.\n   - The teacher gestures towards the digital screen, indicating the assessment criteria and forms of assessment.\n   - The teacher moves between the blackboard and the screen, linking the content visually to reinforce understanding.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in this segment.\n   - The focus remains on reviewing the assessment criteria and the Venn diagram summary.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a focus on the blackboard and digital screen, both serving as key summary artifacts. The blackboard prominently features a Venn diagram with overlapping circles labeled \"Number of personal life\" and \"Ten thousand bahts overwhelming work,\" with the phrase \"high life\" written in the intersection. The digital screen displays an \"Assessment sheet\" with criteria such as \"Content,\" \"Structure,\" and \"Language,\" alongside forms of assessment and an example note.\n\nThe teacher visually reviews the knowledge points by pointing to the Venn diagram on the blackboard, emphasizing the \"high life\" phrase within the overlap. She then shifts focus to the digital screen, highlighting the assessment criteria and example. Her gestures move fluidly between the blackboard and screen, reinforcing the connections between the concepts.\n\nA strong emphasis is placed on the \"high life\" phrase, which the teacher circles on the blackboard, marking it as a central takeaway. The teacher's deliberate gestures and visual cues ensure that the core concepts are clearly summarized and linked.\n\nNo explicit visual handover to homework or next steps is present in this segment, keeping the focus on the summary of key ideas and assessment criteria.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Job Choice Reasons",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.94 -> 705.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Work-Life Balance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.94 -> 705.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Contribution to Society",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.94 -> 705.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Bright Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.94 -> 705.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Self-Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[707.24 -> 722.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[707.24 -> 722.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Content Criteria",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[707.24 -> 722.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Structure Criteria",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[707.24 -> 722.52]"
+      },
+      {
+        "id": "c9",
+        "label": "Language Criteria",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[707.24 -> 722.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Venn Diagram",
+        "type": "Visual",
+        "original_text": "Venn diagram with 'Number of personal life' and 'Ten thousand bahts overwhelming work'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Assessment Sheet",
+        "type": "Visual",
+        "original_text": "Assessment sheet with criteria: Content, Structure, Language",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "High Life Highlight",
+        "type": "Visual",
+        "original_text": "Phrase 'high life' in Venn diagram intersection",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Job choices contribute meaningfully to society."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Achieving work-life balance leads to a bright life."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Self-assessment requires consideration of content criteria."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Self-assessment requires consideration of structure criteria."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Self-assessment requires consideration of language criteria."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Self-assessment evolves into teacher assessment."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The Venn diagram shows the key takeaway: high life."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Assessment sheet highlights content as crucial criteria."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Assessment sheet highlights structure as crucial criteria."
+      },
+      {
+        "source": "v2",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Assessment sheet highlights language as crucial criteria."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "The highlighted 'high life' scaffolds the concept of a bright life."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Venn diagram visually represents work-life balance."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students are prompted to reflect on their assessments."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Students' engagement guides discussion towards achieving a bright life."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

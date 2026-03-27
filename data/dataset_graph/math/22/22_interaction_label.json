@@ -1,0 +1,160 @@
+{
+  "video_name": "22_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand how to represent directed line segments as vectors; master the properties of special vectors (zero vector and unit vector); learn to determine whether two vectors are opposite vectors.",
+  "transcript": "[506.1 -> 512.98] 如果这是一个点A我们把它看作这里是一个点B。\n[514.04 -> 525.5] 那么有没有同学可以告诉老师有向线段这个点到这个点可以如何表示呢有没有同学有想法。\n[527.6 -> 557.72] 这位同学你来说一下我们可以如何表示这个点到这个点的有向线端可以用向量AB来表示对我们可以用向量AB来表示上面是一个小小的箭头对我们可以用这种方式来进行表示这也就是类比于我们平面向量当中的起始点和末尾点好我们知道了向量的定义以及它的表示方法。\n[569.28 -> 584.0] 那么我们现在知道了表示方法之后我们来看一下在平面向量当中我们学过哪些比较特别的东西呢特殊的量呢。\n[585.52 -> 610.56] 如果我们先从长度来出发好吗我们从长度来出发有没有同学想到一些特殊的量有同学有想法吗好这位同学你来回答一下对凌向量凌向量的特点是它的长度是等于零对它的长度是等于零非常好请坐还有其他同学有想法吗。\n[613.2 -> 616.83] 那么零向量它的长度是零那么还有一种向量它也非常的特殊它的长度是一我们是不是把它称作为单位向量对不对那么这些都是我们平面当中的向量其实在空间当中也是适用的那么我们接下来从长度上面已经定义了那么接下来我们再从方向上开始定义老师画两个向量吧老师大家来看一下它有什么特点这是第一个项链A这是第二个项链B有没有同学发现这个项链和这个项链有没有什么特点呢有没有同学有想法可以告诉老师来这位同学说一下你的想法他们是方向相反应该是大小相等方向相反对不对说得非常好请坐那么我们把这种方向相反但是大小相等的空间向量把它称作为相反向量好接下来我们继续来看老师继续画了一个向量C那么有没有同学可以发现一下象征B和象征C之间的关系呢有没有同学可以告诉老师。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. This gesture was broad, inviting any student to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the diagram of a cube on the blackboard, specifically the labeled point \"A\" and the surrounding text. The teacher also referred to the content on the digital screen, which displayed questions related to the cube's properties.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the cube diagram on the blackboard, emphasizing the point \"A\" and the lines extending from it. This visual cue helped guide the student's explanation.\n- The teacher also gestured towards the digital screen, highlighting the specific question being discussed, providing context for the student's response.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher wrote \"一平面的定义\" (definition of a plane) on the blackboard, linking it to the cube diagram. This provided a visual confirmation of the concept being discussed.\n- The teacher then drew additional lines on the cube diagram, illustrating the concept further and ensuring clarity.\n- The teacher nodded and used hand gestures to affirm the student's correct understanding, reinforcing the explanation visually.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand towards the class, inviting interaction.\n  - Points to the cube diagram, focusing on point \"A.\"\n\n- **Middle:**\n  - Writes \"一平面的定义\" on the blackboard.\n  - Draws additional lines on the cube to illustrate the concept.\n  - Uses hand gestures to affirm the student's explanation.\n\n- **End:**\n  - Nods and gestures to confirm the student's correct understanding.\n  - Ensures the digital screen content aligns with the blackboard explanation, reinforcing the visual connection.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a diagram of a cube with point \"A\" labeled, accompanied by the text \"11.11空间向量及其运算\" (Spatial Vectors and Operations). The teacher began by gesturing broadly towards the class, inviting students to engage with the problem displayed. This sweeping motion signaled the start of an interactive discussion, focusing attention on the cube diagram and the related questions on the digital screen.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, pointing to point \"A\" and the lines extending from it. While the student spoke, the teacher wrote \"一平面的定义\" (definition of a plane) on the board, capturing key terms from the student's explanation. This real-time annotation provided a visual scaffold, linking the student's thoughts directly to the lesson content.\n\nTo validate the student's understanding, the teacher gave a distinct nod and drew additional lines on the cube diagram, illustrating the concept further. This visual confirmation was complemented by a thumbs-up gesture, reinforcing the correctness of the student's response.\n\nFinally, the teacher connected the student's explanation back to the core lesson by drawing an arrow from the newly written definition to the cube diagram. This visual linkage emphasized the relationship between the theoretical concept and its practical application, helping students move from passive reception to active construction of their own understanding. Through these orchestrated gestures and visual cues, the teacher facilitated a dynamic and interactive learning experience, ensuring that knowledge was both applied and verified in real-time.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Point A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[506.1 -> 512.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Point B",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[506.1 -> 512.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Directed Line Segment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[514.04 -> 525.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Vector AB",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[527.6 -> 557.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Arrow Notation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[527.6 -> 557.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Zero Vector",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[585.52 -> 610.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Unit Vector",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[613.2 -> 616.83]"
+      },
+      {
+        "id": "c8",
+        "label": "Opposite Vectors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[613.2 -> 616.83]"
+      },
+      {
+        "id": "v1",
+        "label": "Cube Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of a cube with labeled point A",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Questions",
+        "type": "Visual",
+        "original_text": "Questions related to cube's properties",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[527.6 -> 557.72]"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[585.52 -> 610.56]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Point A serves as the start for the directed line segment."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Point B serves as the end for the directed line segment."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The directed line segment is represented by Vector AB."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Vector AB uses arrow notation for representation."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The cube diagram highlights Point A."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Digital screen questions relate to the directed line segment."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Understanding of Zero Vector aids in understanding Unit Vector."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Concept of opposite vectors is linked to understanding zero vectors."
+      },
+      {
+        "source": "c4",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding Vector AB encourages student response."
+      },
+      {
+        "source": "c7",
+        "target": "ss2",
+        "relation": "engages",
+        "intent": "Concept of Unit Vector engages students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

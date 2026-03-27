@@ -1,0 +1,159 @@
+{
+  "video_name": "40_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the relationship between points symmetric about the X‑axis and their corresponding trigonometric function values; master the application and derivation of the reduction formulas.",
+  "transcript": "[677.503433 -> 682.52] 有哪一位小组愿意来尝试一下好你们小组我们的三音阿尔法扩散阿尔法它这点法还是原来的那我们看一下这里我们说它们关于X轴对称那么X一X三和Y一和Y三之间有什么关系非常好那我们说这里它们所组成的两个角角阿尔法和角伽马之间有什么关系呢阿尔法为负伽马非常好那我们同样依照前面的我们阿尔法和贝塔的一个表现形式我们可以怎么表示出来我们的角伽马等于二K大于减伽马非常好我们的K要属于非常好那我们说通过X种对称我们可以得到这两个那我们在这里我们说还是知道它们的一个三角函数值我们怎么写还是请你来说一下我们的三乙科三乙碳电锭我们知道了那接下来是三乙的伽马三乙的负阿尔法是等于外三那这里的外三我们看一下它是负的外一点也就是等于负的三亚尔法。\n[686.5 -> 699.72] 那接着口三乙负阿尔法等于X三等于口三乙负阿尔法。\n[702.92 -> 735.26] 碳碱铁负阿尔法等于外相比等于负碳铁阿尔法同学们赞同那个看法吗都赞同非常好请坐那由此我们也就得到了诱导公式的第二个公式同学们还是在课本上做好笔记做好规划勾画时间到好莫丹姐市长到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains a list of trigonometric identities:\n     - $\\sin(-\\alpha) = -\\sin\\alpha$\n     - $\\cos(-\\alpha) = \\cos\\alpha$\n     - $\\tan(-\\alpha) = -\\tan\\alpha$\n     - $\\sin(\\pi + \\alpha) = -\\sin\\alpha$\n     - $\\cos(\\pi + \\alpha) = -\\cos\\alpha$\n     - $\\tan(\\pi + \\alpha) = \\tan\\alpha$\n   - The digital screen displays:\n     - A diagram with points $(x, y)$ and $(x', y')$ on a unit circle.\n     - The equation $y = 2x + n$ ($n \\in \\mathbb{Z}$) and the relationship $x' = x$, $y' = -y$.\n     - Additional trigonometric identities:\n       - $\\sin(-\\alpha) = -\\sin\\alpha$\n       - $\\cos(-\\alpha) = \\cos\\alpha$\n       - $\\tan(-\\alpha) = -\\tan\\alpha$\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas:\n     - $\\sin(-\\alpha) = -\\sin\\alpha$\n     - $\\cos(-\\alpha) = \\cos\\alpha$\n     - $\\tan(-\\alpha) = -\\tan\\alpha$\n     - $\\sin(\\pi + \\alpha) = -\\sin\\alpha$\n     - $\\cos(\\pi + \\alpha) = -\\cos\\alpha$\n     - $\\tan(\\pi + \\alpha) = \\tan\\alpha$\n     - $y = 2x + n$ ($n \\in \\mathbb{Z}$)\n     - $x' = x$, $y' = -y$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each trigonometric identity on the blackboard, likely emphasizing the negative and positive relationships.\n   - The teacher gestures towards the digital screen, possibly highlighting the diagram and the equation $y = 2x + n$.\n   - The teacher underlines or circles key parts of the identities on the blackboard to reinforce the concepts.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The screen and blackboard focus on summarizing the current lesson content without transitioning to future tasks.",
+  "visual_narrative": "The lesson concludes with a blackboard and digital screen displaying key trigonometric identities and a unit circle diagram. The teacher visually reviews the content by pointing to each identity on the blackboard, emphasizing the negative and positive relationships in the formulas. The digital screen highlights the diagram and the equation $y = 2x + n$, reinforcing the geometric interpretation. The teacher underlines the core identities, ensuring they stand out as the main takeaways. There is no visual indication of homework or next steps, focusing solely on consolidating the current lesson's concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sin Identity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[677.503433 -> 682.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Cos Identity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[677.503433 -> 682.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Tan Identity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[677.503433 -> 682.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Negative Angle Rule",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[686.5 -> 699.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Symmetry X-axis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.92 -> 735.26]"
+      },
+      {
+        "id": "c6",
+        "label": "Reduction Formulas",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[677.503433 -> 735.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Unit Circle Diagram",
+        "type": "Visual",
+        "original_text": "A diagram with points (x, y) and (x', y') on a unit circle.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Equation Display",
+        "type": "Visual",
+        "original_text": "Equation y = 2x + n, x' = x, y' = -y.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[702.92 -> 735.26]"
+      },
+      {
+        "id": "s2",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[677.503433 -> 735.26]"
+      },
+      {
+        "id": "s3",
+        "label": "Making Notes",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[735.26]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Sin identity includes the principle for negative angles."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Cos identity includes the principle for negative angles."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Tan identity includes the principle for negative angles."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Symmetry about X-axis is visualized through the unit circle diagram."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Reduction formulas evolve from basic trigonometric identities."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Reduction formulas evolve from basic trigonometric identities."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Reduction formulas evolve from basic trigonometric identities."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Symmetry concept emphasizes the equations displayed."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Student answers are prompted to discuss reduction formulas."
+      },
+      {
+        "source": "s2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Engagement visualized through the unit circle diagram."
+      },
+      {
+        "source": "s3",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Students are guided to take notes on reduction formulas."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

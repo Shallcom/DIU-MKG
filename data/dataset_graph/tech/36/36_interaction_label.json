@@ -1,0 +1,154 @@
+{
+  "video_name": "36_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "- Be able to observe and describe the experimental phenomena and color changes of the reaction between sodium hydroxide and an acid.  \n- Be able to infer the post‑reaction acidity or alkalinity of the solution based on the observed phenomena.  \n- Be able to correctly write the chemical reaction equation and analyze the reaction mechanism.",
+  "transcript": "[390.38 -> 490.1] 加入等量的锡盐酸和锡铝酸然后边滴边镇掉直到它的反射退去的对在实验过程中是不是就追寻了等量原则呀那你其他同学有不一样的想法吗看来大家都认同这种实验方的设计从这种实验方案来你能观察到什么现象呢它的颜色有什么变化对是不是从红色变成了无色非常好请坐因为氢氧化钠与分态变红色但是在实验最后它却变成了无色同学们思考一下原来的氢氧化钠显碱性那在反应后是不是就不显碱性那它加入过量的酸我们可以推测出它显酸性吗别着急我们接着来看老师用吸管吸取反应的溶液逼加到一个蒸发皿上然后将蒸发皿烘干同学们看一看这个蒸发皿上有什么现象产生呢有什么好请你来说一下你观察到了什么我观察到它产生白色的固体颗粒非常好请坐那为什么会产生白色的固体也叫做晶体颗粒呢我们可可以利用我们前面所学习的化学方程式来解释这一现象呢。\n[491.84 -> 507.26] 现在请同学们两人为一个小组写出它的化学反应方程式是什么这里我们用到的试剂有锡硫酸锡盐酸还有氰氧化钠那它的化学反应方程式应该是怎样的呢。\n[510.38 -> 523.88] 化学反应光准时亮说是这样子的你看怎么还显呢那是什么。\n[540.38 -> 554.32] 好我看同学们都根据自己的已学知识写下了方程式哪位同学愿意来到黑板上分享一下呢请这位同学过来。\n[570.38 -> 578.65307475] 好感谢这位同学的分享根据这位同学写出的化学方程式我们来对比一下老师是怎样写的呢这两个是一样的吗。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She then pointed directly to a student, inviting them to participate.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the chemical reaction topic displayed on the blackboard and the slide. The blackboard contains the title \"酸和碱之间发生的反应\" (The reaction between acids and bases), and the slide shows a diagram related to the topic.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student responded, the teacher listened attentively and occasionally nodded to encourage the student. She also pointed to the diagram on the slide to hint at the answer, guiding the student's thought process.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by smiling and nodding. She then turned to the blackboard and wrote additional notes, possibly elaborating on the student's answer or correcting any misconceptions.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the blackboard and slide, which display the topic \"酸和碱之间发生的反应\" and a related diagram.\n  - She makes a sweeping gesture towards the class and points to a student, inviting participation.\n\n- **Middle:**\n  - The student responds, and the teacher listens attentively, nodding to encourage the student.\n  - She points to the diagram on the slide, providing visual hints to guide the student's explanation.\n\n- **End:**\n  - The teacher smiles and nods to confirm the student's correct input.\n  - She turns to the blackboard and writes additional notes, possibly elaborating on the student's answer or providing further clarification.\n\nThis structured interaction visually links the teacher's actions to the content on the blackboard and slide, facilitating knowledge co-construction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the title \"酸和碱之间发生的反应\" (The reaction between acids and bases) alongside a diagram on the slide. The teacher began by making a sweeping gesture towards the class, inviting students to participate. She pointed directly to a student, signaling the start of the interaction.\n\nAs the student began to explain their reasoning, the teacher walked over to the board and jotted down key terms from the student's response. She occasionally pointed to the diagram on the slide, providing visual hints to guide the student's explanation. Her supportive gestures, such as nodding and maintaining eye contact, encouraged the student to continue.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the correct elements on the board. She then drew an arrow connecting the student's answer back to the main concepts discussed earlier, reinforcing the core lesson content.\n\nThroughout the interaction, the teacher's gestures linked the student's response to the broader topic, helping students move from passively receiving knowledge to actively constructing their own understanding. This dynamic process facilitated the application and verification of knowledge, ensuring students engaged deeply with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sodium Hydroxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.38 -> 490.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.38 -> 490.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Reaction Color Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.38 -> 490.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Post-reaction Acidity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[390.38 -> 490.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Reaction Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[491.84 -> 507.26]"
+      },
+      {
+        "id": "c6",
+        "label": "Reaction Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[491.84 -> 507.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Red to Colorless",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.38 -> 490.1]"
+      },
+      {
+        "id": "c8",
+        "label": "White Solid Particles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[491.84 -> 507.26]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[390.38 -> 490.1]"
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Nodding",
+        "type": "Visual",
+        "original_text": "Teacher nodding to encourage",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Diagram on Slide",
+        "type": "Visual",
+        "original_text": "Diagram of chemical reactions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "The reaction between acids and bases",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Sodium Hydroxide's effect on reaction color."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Acid's effect on reaction color."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Understanding color change helps infer acidity."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Writing equations to understand reaction mechanisms."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Color change precedes the solid formation."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Student uses slide diagram as a reference."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "guides_discussion",
+        "intent": "Teacher nods to encourage student participation."
+      },
+      {
+        "source": "c11",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Diagram highlights the color change during reactions."
+      },
+      {
+        "source": "c9",
+        "target": "c12",
+        "relation": "summarizes",
+        "intent": "Student responses are linked back to blackboard content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

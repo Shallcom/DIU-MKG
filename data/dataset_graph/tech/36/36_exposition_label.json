@@ -1,0 +1,172 @@
+{
+  "video_name": "36_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Master the basic principles of experimental design.",
+  "transcript": "[192.88435825 -> 227.76] 上课同学们好请坐上节课我们学习了酸和碱的性质那同学们能思考一下生活中有哪些常见的酸和碱呢比如硫酸盐酸还有硝酸那常见的碱有哪些呢氢氧化钠氢氧化钙还有氢氧化钾是不是都是啊那老师今天说的设置了以上几个问题我们在实验中用到的纯碱它是一种碱吗在我们生活里吃到的一些食醋它也是一种酸吗那酸和碱能够发生反应吗请同学们带着这样几个问题进入到今天的新课学习当中。\n[237.5 -> 311.34] 今天老师为大家带来了以上实验材料它们有一些酸一些碱还有分态试剂同学们思考一下我们上节课学习了这些化学试剂比如分态它遇碱变红色但是遇酸变色现在请同学们根据以上实验材料三人为一个小组进行科学实验方案的设计注意老师在这里要要提示一下大家我们在实验设计实验方案的同时要遵循等量原则和单一变量原则现在请同学们两人为一个小组进行实验方案的设计。\n[327.5 -> 364.12] 好像这个皮肤吧好我看同学们都完成了差不多了哪位同学愿意来分享一下你们小组设计的实验方案。\n[365.98 -> 374.28] 请这位同学来分享一下你们小组设计的实验方案在实验方案设计中你是怎样设计实验的呢。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n\n- **Core Artifact (Static)**: The initial visual anchor is a presentation slide titled \"酸和碱之间发生的反应\" (Reaction between acids and bases). The slide contains a thought bubble with a question mark and some text, indicating a concept introduction.\n\n- **Teacher Actions**: The teacher stands in front of the board, holding a marker. She gestures towards the slide, emphasizing the title and the thought bubble.\n\n- **Visual Details**: The blackboard is mostly blank except for some faint chalk marks. The slide uses a simple layout with white background and orange accents.\n\n#### Middle\n\n- **Derivation Process (Dynamic)**:\n  - **Additions**: The teacher writes \"酸和碱之间发生的反应\" on the blackboard, mirroring the slide title. She uses white chalk, ensuring clarity.\n  - **Modifications**: She erases some previous faint marks to create space for new content.\n  - **Deictic Gestures**: While explaining, she points to specific words on the slide, such as \"酸\" (acid) and \"碱\" (base), linking them to the blackboard content.\n\n- **Highlighting Strategy**: The teacher uses hand gestures to emphasize key terms, occasionally underlining them on the board.\n\n- **Visual Details**: The slide updates to show a list of reactions, including \"中和反应\" (neutralization reaction). The teacher points to this term, reinforcing its importance.\n\n#### End\n\n- **Teacher Actions**: The teacher interacts with a student, handing them a piece of paper. She then returns to the board, summarizing the key points.\n\n- **Visual Details**: The final slide lists reactions with examples. The teacher circles \"中和反应\" on the board, drawing a direct connection to the slide content.\n\n- **Highlighting Strategy**: She uses a different color chalk to box the main reaction formula, ensuring it stands out.\n\n### Knowledge Flow Tracking\n\n1. **Core Artifact (Static)**: The main visual anchor is the slide titled \"酸和碱之间发生的反应,\" which remains constant throughout the lesson.\n\n2. **Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes key terms and formulas on the blackboard, such as \"酸和碱之间发生的反应\" and \"中和反应.\"\n   - **Modifications**: Erasing previous marks to focus on new content.\n   - **Deictic Gestures**: Points to specific terms on both the slide and the board, ensuring alignment.\n\n3. **Highlighting Strategy**: Uses color coding and underlining to emphasize important concepts, particularly \"中和反应,\" ensuring students focus on neutralization as a key reaction.\n\nThis structured approach ensures a clear visual and conceptual flow, linking teacher actions directly to the evolving visual content.",
+  "visual_narrative": "Initially, the bulletin board displayed a slide titled \"酸和碱之间发生的反应,\" serving as the primary visual anchor. The teacher began by mirroring this title on the blackboard, establishing a dual focus between the slide and the board. As the lecture progressed, she constructed a foundational understanding by writing key terms such as \"中和反应\" on the board, directly correlating with the slide content. She derived the concept of neutralization by annotating examples and reactions, using gestures to trace specific terms on both the slide and the board. For instance, she pointed to \"酸\" and \"碱\" on the slide while underlining them on the board, ensuring students visually connected the concepts. To resolve deixis, she traced the list of reactions on the slide, emphasizing \"中和反应\" by circling it on the board. Visual highlighting was achieved through color coding and boxing the main reaction formula, reducing cognitive load by aligning board annotations with slide content. Finally, she interacted with students, reinforcing the visual and conceptual links established throughout the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Acids",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Bases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Neutralization Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[237.5 -> 311.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Sodium Hydroxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Calcium Hydroxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Potassium Hydroxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Sulfuric Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c8",
+        "label": "Hydrochloric Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c9",
+        "label": "Nitric Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.88 -> 227.76]"
+      },
+      {
+        "id": "c10",
+        "label": "Scientific Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[237.5 -> 311.34]"
+      },
+      {
+        "id": "v1",
+        "label": "Reaction Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Reaction between acids and bases'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Neutralization Slide",
+        "type": "Visual",
+        "original_text": "Slide showing list of reactions with neutralization highlighted",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Experimental Design",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Presentation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s3",
+        "label": "Peer Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes acids on the slide."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes bases on the slide."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Slide summarizes key reactions, emphasizing neutralization."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "evolves_from",
+        "intent": "Initial slide content evolves to include key reactions."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Teacher guides students in designing experiment procedures."
+      },
+      {
+        "source": "s2",
+        "target": "s3",
+        "relation": "prompts_thinking",
+        "intent": "Students work together to design experiments, prompted by teacher."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Neutralization reaction builds upon understanding of acids."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Neutralization reaction builds upon understanding of bases."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Experiment design includes principles of neutralization."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

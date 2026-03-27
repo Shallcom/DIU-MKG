@@ -1,0 +1,171 @@
+{
+  "video_name": "30_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Master how to guide students in conducting effective discussions in an English classroom; understand different types of vocabulary (such as function words, adjectives, verbs) and their roles in language; apply function words and linguistic devices to express viewpoints and analyze problems.",
+  "transcript": "[0.0 -> 159.58] 主席好晚好主席我的专辑题是我们可以帮助学生进行讨论论课题吗首先从我的看法来说讨论讨论讨论从三个角度来看就是什么为什么怎么做什么意思是教授应该向学生提供不同类型的词语例如论语形表达或语言所以学生可以知道这种词是什么样的词然后找到词的主要概念为什么应该在这段经验中学习的学生应该从这段经验中学习的学习的学习的学�学生们应该学习语言的图像或一些设备在这种课程中学习的课程中像是命令的时间之类的课程之类你依然记得我们以前课堂里所谈论的什么吗你可以仔细地观察这张图片吧。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of a festival scene with colorful decorations and people. It is displayed on the screen at the beginning of the lesson.\n\n#### 2. **The Title Event**\n- **Title on Screen**: \"Unit 1 Festivals and celebrations\"\n- **Teacher's Action**: The teacher points to the title on the screen, emphasizing the unit topic.\n\n#### 3. **The Objectives**\n- **Visible Text**: \"Speaking\" and \"Recalling your progress\" are visible on the screen.\n- **Additional Content**: The slide transitions to \"Step 2: While-speaking\" with the activity titled \"Activity 1: Recall and list.\"\n\n#### 4. **Key Gestures**\n- **Pointing**: The teacher points to the image of festival decorations on the screen.\n- **Hand Movements**: The teacher gestures towards the screen, emphasizing the \"Recall the aspects\" section.\n\n### Structured Chronological Log\n\n#### Beginning\n- **Visual Content**: The screen displays \"Unit 1 Festivals and celebrations\" with an image of a festival scene.\n- **Teacher Action**: The teacher points to the title and image, engaging the class with the topic introduction.\n\n#### Middle\n- **Visual Content**: The screen transitions to \"Step 2: While-speaking\" with \"Activity 1: Recall and list.\"\n- **Teacher Action**: The teacher gestures towards the screen, highlighting the \"Recall the aspects\" section and the image of festival decorations.\n\n#### End\n- **Visual Content**: The teacher continues to reference the screen content, maintaining focus on the activity details.\n- **Teacher Action**: The teacher uses hand gestures to emphasize key points on the screen, ensuring students understand the task.\n\nThis structured log captures the evolution of visual elements and the teacher's actions, linking them to specific content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a vibrant image of a festival scene, setting the initial visual stimulus. The teacher points to the title \"Unit 1 Festivals and celebrations,\" drawing attention to the thematic focus. As the lesson progresses, the slide transitions to \"Step 2: While-speaking,\" with the activity \"Recall and list\" appearing on the screen. The teacher gestures towards the image of festival decorations, emphasizing the task of recalling aspects related to the topic. This visual shift from the hook image to the structured activity on the screen bridges the students' existing experiences with festivals to the new learning objective of speaking and listing details. The teacher's deliberate pointing and hand movements guide the students' focus, ensuring a smooth transition from engagement to active participation in the lesson. This approach effectively links prior knowledge of festivals to the structured activity, fostering a connection between familiar experiences and new language skills.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Festival Scene",
+        "type": "Visual",
+        "original_text": "Image depicting colorful festival decorations and people.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c2",
+        "label": "Unit 1 Festivals",
+        "type": "Visual",
+        "original_text": "Title on screen: 'Unit 1 Festivals and celebrations'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Step 2 While-speaking",
+        "type": "Visual",
+        "original_text": "Visible slide: 'Step 2: While-speaking'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Activity: Recall and List",
+        "type": "Visual",
+        "original_text": "Activity title: 'Activity 1: Recall and list'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Function Words",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 159.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Adjectives",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 159.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Verbs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 159.58]"
+      },
+      {
+        "id": "c8",
+        "label": "Linguistic Devices",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 159.58]"
+      },
+      {
+        "id": "c9",
+        "label": "Express Viewpoints",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 159.58]"
+      },
+      {
+        "id": "c10",
+        "label": "Analyze Problems",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 159.58]"
+      },
+      {
+        "id": "c11",
+        "label": "Recalling Progress",
+        "type": "Visual",
+        "original_text": "Visible text: 'Speaking' and 'Recalling your progress'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Initial Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Activity Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Image of festival helps visualize the unit topic of festivals."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Function words include categories like adjectives and verbs."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Function words include categories like adjectives and verbs."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Function words are examples of linguistic devices."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Expressing viewpoints evolves from the use of linguistic devices."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Analyzing problems evolves from the use of linguistic devices."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the unit topic to engage the students initially."
+      },
+      {
+        "source": "c3",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Step transition to guide students towards participation in 'Activity 1'."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Adjectives help in expressing viewpoints."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Verbs help in analyzing problems."
+      },
+      {
+        "source": "c11",
+        "target": "s2",
+        "relation": "visualizes",
+        "intent": "Slide content helps visualize the recalling progress for students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

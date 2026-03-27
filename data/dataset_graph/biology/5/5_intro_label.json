@@ -1,0 +1,136 @@
+{
+  "video_name": "5_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the importance of questioning in biological research; be able to formulate biology‑related questions based on existing knowledge.",
+  "transcript": "[0.0 -> 63.44] 丢脸羞愧怎么样的那既然是遗传题评奖相信同学们应该已经做过了所以可以直接问同学有没有哪位同学会做呢老师在这里犯蒙了有没有哪位同学可以提醒一下我呢直接让同学来对自己进行一个思维的顺理导那在生物学当中生物是一个自然科学的一门基础学科啊那在生物学当中就是因为要不断地提问才能有更多的结果出现",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen displaying the event name in Chinese: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher College Students). The screen also features a colorful logo and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title on the screen reads \"光合作用与能量转化\" (Photosynthesis and Energy Conversion). The teacher stands in front of a digital screen displaying this title, which is highlighted in a green box. The teacher does not physically write this but presents it as part of the digital content.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the title and the teacher's introduction.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the title displayed on the screen. There are no specific gestures directed at the board or screen content visible in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring event details and the number \"10\" in red.\n- Transition to the classroom setting where the teacher stands in front of a digital screen.\n\n**Middle:**\n- The digital screen displays the title \"光合作用与能量转化\" in a green box.\n- The teacher holds papers and gestures slightly, likely introducing the topic.\n\n**End:**\n- The scene remains focused on the teacher and the digital screen, with no additional visual changes or gestures noted.\n\nThis structured visual analysis captures the introduction phase, linking the teacher's actions to the displayed content.",
+  "visual_narrative": "Initially, the video presents a vibrant yellow title screen featuring the event name and the number \"10,\" setting the stage for the competition. Transitioning to the classroom, the teacher stands before a digital screen displaying the title \"光合作用与能量转化\" in a green box. The teacher holds papers, subtly gesturing to emphasize the introduction. The visual focus remains on the title, establishing the lesson's goal. This setup bridges the competition context to the main topic, grounding the introduction in a clear visual framework that connects the students' existing knowledge of photosynthesis to the broader concept of energy conversion, preparing them for deeper exploration.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Event Introduction Screen",
+        "type": "Visual",
+        "original_text": "Yellow title screen displaying event name and the number '10'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Classroom Digital Screen",
+        "type": "Visual",
+        "original_text": "Digital screen displaying 'Photosynthesis and Energy Conversion' in green.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Photosynthesis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 63.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Energy Conversion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 63.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Biological Questioning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 63.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Natural Science",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 63.44]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Self-Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s3",
+        "label": "Student Confusion",
+        "type": "Student_State",
+        "cognitive_state": "Confused"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Introduces the event and transitions to lesson content."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Highlights concept at the start of the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Shows the goal of understanding energy transformation."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Formulating questions builds on understanding photosynthesis."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Questions enhance comprehension of energy conversion."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Photosynthesis is part of natural science knowledge base."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Energy conversion discussed within natural science."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to question for deeper understanding."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Questioning leads to active student engagement."
+      },
+      {
+        "source": "c3",
+        "target": "s3",
+        "relation": "addresses_misconception",
+        "intent": "Teacher helps resolve student confusion through questioning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

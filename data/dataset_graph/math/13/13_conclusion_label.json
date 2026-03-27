@@ -1,0 +1,179 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of the addition principle of counting and its applications; master the condition that the categories must be mutually exclusive.",
+  "transcript": "[667.74 -> 700.86] 这样我们是不是就给我们的座位给它排好序知道它可以有多少种方法去给它编码对不对好那这个知识呢也就是我们今天所学的学习的内容分类加法技术原理我们说要完成一件事它有两种不同的方案我们刚刚的方案是哪两种呢第一种是对英文字母那第二种是对阿拉伯数字然后在第一内方案中它有M种不同的方法刚刚我们的M就是好第二类方案中它有N种不同的计算方法刚刚我们的N它是好那么完成这件事它总共就有大我们将这个我们将我们的技术员他这个总总的总的分总的方法它叫做大N。\n[718.0 -> 725.0] 我们这里的大N就是总的也就是我们刚刚给这里排序的总的方法。\n[726.04 -> 765.26] 大N它等于第一种方法的个数再加上第二种分类方法的个数那这个大N它也就是我们总的不同的方法两类方案中的方法它要是互不相同的比如说我们有第一类它的分类的话它能与第二类方法相同吗我们第一类它是用什么方法的它是用英文字母来分类然后第二种它是用阿拉伯数字分类那第一种是我们的字母第二种它是阿拉伯数字这两种不同的方法。\n[767.16 -> 771.74] 我去那儿。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key points of the lesson.\n   - The layout includes a title at the top left: \"6.4 分类加法/乘法计数原理\" (Classification Addition/Multiplication Counting Principles).\n   - Below the title, there are three main bullet points:\n     1. 确定分类标准 (Determine classification criteria)\n     2. 计算各类子项个数 (Calculate the number of sub-items in each category)\n     3. 各类子项的个数求和 (Sum the number of sub-items in each category)\n   - Additionally, the formula $N = m + N$ is written on the right side of the blackboard.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: \"6.4 分类加法/乘法计数原理\"\n   - Bullet Points:\n     1. 确定分类标准\n     2. 计算各类子项个数\n     3. 各类子项的个数求和\n   - Formula: $N = m + N$\n   - Slide content: Definitions and explanations related to the counting principles.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title \"6.4 分类加法/乘法计数原理\" to emphasize the topic.\n   - She writes the formula $N = m + N$ on the blackboard, linking it to the content on the slide.\n   - The teacher gestures towards the bullet points, likely summarizing each step in the process.\n   - She uses hand movements to highlight the importance of the formula and its application.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition to next steps visible.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the classification addition/multiplication counting principles. The teacher visually reviews the content by pointing to each bullet point in sequence, briefly pausing on the final formula $N = m + N$. She emphasizes the core takeaway by writing the formula prominently on the board. There is no visible handover to homework or next steps in the frames provided, keeping the focus on the summarized principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Classification Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.74 -> 700.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Addition Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.74 -> 700.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Mutually Exclusive Categories",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.04 -> 765.26]"
+      },
+      {
+        "id": "c4",
+        "label": "English Alphabets",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.74 -> 700.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Arabic Numerals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.74 -> 700.86]"
+      },
+      {
+        "id": "c6",
+        "label": "N Total Methods",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[718.0 -> 725.0]"
+      },
+      {
+        "id": "c7",
+        "label": "M Methods",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.74 -> 700.86]"
+      },
+      {
+        "id": "c8",
+        "label": "N Methods",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.74 -> 700.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Classification Addition/Multiplication Counting Principles Title",
+        "type": "Visual",
+        "original_text": "Title: 6.4 Classification Addition/Multiplication Counting Principles",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Determine Classification Criteria",
+        "type": "Visual",
+        "original_text": "Bullet Point: Determine classification criteria",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Calculate Sub-items",
+        "type": "Visual",
+        "original_text": "Bullet Point: Calculate the number of sub-items in each category",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Sum Sub-items",
+        "type": "Visual",
+        "original_text": "Bullet Point: Sum the number of sub-items in each category",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v5",
+        "label": "Formula N equals M plus N",
+        "type": "Visual",
+        "original_text": "Formula: N = M + N",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The Classification Principle forms the basis for the Addition Principle."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The Addition Principle requires categories to be mutually exclusive."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "English Alphabets are one category contributing to the total number of methods."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Arabic Numerals are another category contributing to the total number of methods."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "M Methods applies to the first category, while N Methods apply to the second."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The total number of methods N is summarized visually under the principle title."
+      },
+      {
+        "source": "c2",
+        "target": "v5",
+        "relation": "emphasizes",
+        "intent": "The Addition Principle is underscored by the formula N = M + N."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "The title includes the first bullet point: determining classification criteria."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "includes",
+        "intent": "Determining criteria is followed by calculating sub-items."
+      },
+      {
+        "source": "v3",
+        "target": "v4",
+        "relation": "includes",
+        "intent": "Calculating sub-items leads to summing them."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged with the principles of classification being taught."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

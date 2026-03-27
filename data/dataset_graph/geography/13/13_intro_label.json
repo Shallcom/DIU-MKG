@@ -1,0 +1,179 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the core problems and methodology of geography; master the analysis of spatial distribution and causal relationships of geographic phenomena.",
+  "transcript": "[0.0 -> 36.46] 地理地理何谓地理这里我想用四个W来说明这个问题。\n[37.58 -> 66.36] wherewhat首先是在哪里发生了什么现象进而呢是why和where为什么会发生这个现象那我们将如何去做呢从前面的WhereWhat也就是大地之描述到后面的Why和Where是地球之道理讲述了我们的地理学科特点。\n[67.68 -> 83.76] 那么如何实现立得数人的根本任务呢诗者所以传道授业解惑也老师在教学过程中不仅要注重对于学生学科价值的培育更要注重学科的育人价值。\n[84.92 -> 90.24] 那么我想从三个方面来进行阐述首先在教学设计过程中呀。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The text on the slide is in Chinese: \"水资源与国家安全\" (Water Resources and National Security).\n\n#### 2. **The Title Event**\n- The exact title written on the screen is \"水资源与国家安全\" (Water Resources and National Security). The teacher stands in front of the screen, presenting the title without additional actions like underlining or circling.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing towards the screen and making hand movements to engage the audience. Specific gestures include:\n  - Pointing to the screen to draw attention to the title.\n  - Using open hand gestures to indicate explanation or elaboration.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays the title \"水资源与国家安全\" (Water Resources and National Security).\n- The teacher enters the frame and stands in front of the screen.\n- The teacher begins speaking, using hand gestures to emphasize the title.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen to highlight the topic.\n- The audience is seated, facing the screen, indicating engagement with the presentation.\n\n**End:**\n- The teacher maintains a position in front of the screen, using hand movements to support verbal explanations.\n- No additional visual content changes occur on the screen or board during this segment.\n\n### Summary\nThe introduction phase focuses on the title \"水资源与国家安全\" (Water Resources and National Security). The teacher uses hand gestures to engage the audience and emphasize the topic, with no additional visual content or learning objectives displayed. The primary visual element is the title slide, which remains constant throughout the segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"水资源与国家安全\" (Water Resources and National Security). This title serves as the hook, immediately focusing the audience's attention on the central theme. The teacher uses hand gestures, such as pointing directly at the screen, to emphasize the importance of the topic. Throughout the segment, the teacher maintains engagement by making open hand movements, suggesting an explanation or elaboration on the title. The visual aid remains consistent, with no transition to additional content, ensuring the audience's focus stays on the introduction of the main topic. The teacher's gestures and positioning in front of the screen create a clear link between the title and the forthcoming discussion, setting the stage for a deeper exploration of water resources and their implications for national security. This approach helps connect the new topic to the students' existing understanding of environmental and geopolitical issues, preparing them for the detailed content to follow.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geographic Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 36.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Core Problems of Geography",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 36.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Methodology of Geography",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 36.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Spatial Distribution Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 36.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Causal Relationships in Geography",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 36.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Four Ws of Geography",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[37.58 -> 66.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Where",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[37.58 -> 66.36]"
+      },
+      {
+        "id": "c8",
+        "label": "What",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[37.58 -> 66.36]"
+      },
+      {
+        "id": "c9",
+        "label": "Why",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[37.58 -> 66.36]"
+      },
+      {
+        "id": "c10",
+        "label": "How",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[37.58 -> 66.36]"
+      },
+      {
+        "id": "c11",
+        "label": "Geography Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[37.58 -> 66.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Water Resources and National Security Slide",
+        "type": "Visual",
+        "original_text": "Title slide showing 'Water Resources and National Security' in Chinese.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to emphasize the title.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Audience",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explaining geographic phenomena addresses core problems of geography."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Methodology of geography involves spatial distribution analysis."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Methodology includes analyzing causal relationships in geography."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Where is part of the Four Ws used to understand geography."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "What represents phenomena identification within the Four Ws."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Why explains reasons for occurrences in the Four Ws framework."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "How encapsulates methodological approaches in the Four Ws."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide visually represents the core geographic theme of national security."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Gestures highlight the importance of the geography core problems."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement is directed towards understanding geographic problems."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement involves analysis of spatial distributions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

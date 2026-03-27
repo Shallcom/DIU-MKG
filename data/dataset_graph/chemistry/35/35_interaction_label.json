@@ -1,0 +1,139 @@
+{
+  "video_name": "35_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "chemistry",
+  "teaching_goal": "Master the influence of the metal activity series on galvanic cells; learn to analyze the relationship between experimental phenomena and conclusions.",
+  "transcript": "[329.86 -> 458.44] 好好老师看同学们设计的已经差不多了我们来看一下我们进行一个实验就是将有芯片的一个硫酸将有芯片的硫酸铜熔液和自有铜片的一个将自有芯片的硫酸锌溶液以及自有铜片的硫酸铜熔液用一个岩桥连接起来然后将芯片和铜片用一个导线连接那么中间我们串流一个电流表观察实验现象观察一下指针有什么变化那我们进行一个实验视频的播放同学们仔细观察好我们视频播放完了我想请一位同学告诉老师你观察到了一个什么现象有同学积极举手吗好我看到这位同学很积极好请你回答一下你观察到了什么现象很好请回答这位同学观察到非常仔细我们会观察到一个指针发生一个偏转但是我们但是如果老师把这个岩桥取出来我们又观察到了一个什么现象电流计突然就不偏转了说明它其中就没有了一个电流的一个产生那么我们说其中的一个岩桥是什么呢它就是一个含有氯化钾溶液的一个球我们把这个岩桥是设为绿化那么它是焦体骨骼进行一个不流出的但是我们离子可以在这个岩桥范围内自由移动。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed to the digital screen, directing attention to the question about experimental phenomena.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the digital slide titled \"原电池的工作原理\" (Principle of Operation of Primary Cells). The slide contained a diagram of a primary cell and a question about experimental phenomena.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While engaging with students, the teacher pointed to specific parts of the diagram on the blackboard, highlighting the flow of electrons and the placement of electrodes. She also gestured towards the digital screen, emphasizing key points in the text.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher wrote additional notes on the blackboard, including the chemical reactions at the electrodes:\n  - Anode: $\\text{Zn} \\rightarrow \\text{Zn}^{2+} + 2\\text{e}^-$\n  - Cathode: $\\text{Cu}^{2+} + 2\\text{e}^- \\rightarrow \\text{Cu}$\n- She circled these reactions to visually confirm their importance and connection to the experimental observations discussed.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes \"原电池\" (Primary Cell) on the blackboard and draws a basic diagram of a cell with labeled electrodes (Zn and Cu).\n  - She points to the diagram, explaining the components and their roles.\n\n- **Middle:**\n  - The teacher transitions to the digital slide, pointing to the question \"实验能观察到什么现象？\" (What phenomena can be observed in the experiment?).\n  - She uses hand gestures to indicate the flow of electrons and the expected observations, such as the formation of bubbles or changes in electrode mass.\n\n- **End:**\n  - The teacher writes the chemical reactions on the blackboard, linking them to the visual elements on the slide.\n  - She confirms student responses by circling key points and providing additional annotations to clarify the electron flow and reactions.\n\nThis structured approach ensures that visual elements on both the blackboard and digital screen are effectively used to co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a diagram of a primary cell with labeled electrodes (Zn and Cu) and the title \"原电池\" (Primary Cell). The teacher began by gesturing towards the digital screen, which posed the question \"实验能观察到什么现象？\" (What phenomena can be observed in the experiment?), inviting students to engage with the content.\n\nAs the teacher prompted the class, she made a sweeping gesture, encouraging participation. While a student explained their reasoning, the teacher walked over to the blackboard and began jotting down key terms related to electron flow and electrode reactions. She pointed to the diagram, emphasizing the movement of electrons from the anode to the cathode, and highlighted the expected observations, such as electrode mass changes.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the chemical reactions she had written on the board: \n- Anode: $\\text{Zn} \\rightarrow \\text{Zn}^{2+} + 2\\text{e}^-$\n- Cathode: $\\text{Cu}^{2+} + 2\\text{e}^- \\rightarrow \\text{Cu}$\n\nShe then drew arrows connecting these reactions back to the primary cell diagram, reinforcing the core lesson on electron transfer and electrode processes. This visual linkage helped students move from passively receiving information to actively constructing their understanding by seeing the practical application of theoretical concepts.\n\nFinally, she summarized the key points, ensuring students connected the experimental observations to the fundamental principles of primary cells, thus solidifying their grasp of the material through interactive visual engagement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Primary Cell",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[329.86 -> 458.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Electrode Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[329.86 -> 458.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Electron Flow",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[329.86 -> 458.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Anode Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[329.86 -> 458.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Cathode Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[329.86 -> 458.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Galvanic Cell",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[329.86 -> 458.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Primary Cell Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with Zn and Cu electrodes demonstrating primary cell operation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Question Slide",
+        "type": "Visual",
+        "original_text": "Digital slide with question: 'What phenomena can be observed in the experiment?'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Chemical Reactions on Board",
+        "type": "Visual",
+        "original_text": "Chemical reactions at electrodes: Zn → Zn2+ + 2e-, Cu2+ + 2e- → Cu.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Observing Experiment",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Illustrates the operational principle of a primary cell in the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider observable phenomena in the experiment."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlights the chemical reaction occurring at the anode as key learning material."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Highlights the chemical reaction occurring at the cathode as key learning material."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The galvanic cell principles include those of primary cell operation."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Specific chemical reactions exemplify the broader concept of electrode reaction."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Specific chemical reactions exemplify the broader concept of electrode reaction."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "guides_discussion",
+        "intent": "When students are engaged, they collectively construct understanding of electron flow in cells."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,119 @@
+{
+  "video_name": "16_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the relationship between electric field lines and equipotential surfaces; master experimental methods for observing electric field distribution; analyze the relationship between electric field strength and potential difference.",
+  "transcript": "[0.0 -> 141.14] 发现问题然后再运用物理知识开拓创新改造世界所以作为一名物理教师我们应该从教学方法上不断地去寻求创新我会采用探究式教学法实验法讲授法来构建一个以教师为主导学生为主体的教学体系从而培养学生的自主学习合作学习与探究学习的能力所以作为一名物理教师我们应该具有终身的学习理念从教学方法教学设计上不断创新来进行学习能力以上就是我的即兴演讲题目上课同学们好这节课呢老师将给同学们讲解的是电视差和电场强度的关系同学们先看老师看一下这幅图片我们可以看到我们将带电体空间分布的电场线和等式面的一个抛面图展示在这里那么这个等式面就被分成了这样我们无数条的等式线我们可以看到每相临两条等式线之间的电视差应该是相等的非常好那那么我们可以看到你们知道电场线呀它应该是描述电场强度的而等式线呢它应该描述的是电视应该是电视是不是所以我们说我们就猜测电场线与等式线之间会不会存在着某种对应的关系啊而我们知道电场线是通过电场强度来描述的而等式线又是用电视来描述的所以我们就猜测电场强度与电视之间也会存在着相应的某种关系那么究竟这存在着什么样的关系呢下面让我们进入这节课的学习我们来学习电场线。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide features a title in Chinese characters, which appears to be the introduction to the lesson. The background is a light beige color with a dark horizontal stripe.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"课堂教学和信息技术的深度融合\" (Deep Integration of Classroom Teaching and Information Technology). The teacher stands in front of the screen, holding papers, and gestures towards the title, indicating its importance.\n\n#### 3. **The Objectives**\n- The slide transitions to a diagram labeled \"课程导入\" (Course Introduction). The diagram includes concentric circles and arrows, with text annotations in Chinese. The objectives are not explicitly listed as bullet points but are visually represented through the diagram.\n\n#### 4. **Key Gestures**\n- The teacher points to different parts of the diagram on the screen, tracing the arrows and highlighting specific areas. She uses hand gestures to emphasize the flow and connections between the elements in the diagram.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the title slide. She holds papers and gestures towards the screen, indicating the start of the lesson.\n- The title \"课堂教学和信息技术的深度融合\" is prominently displayed. The teacher points to the title, emphasizing its significance.\n\n**Middle:**\n- The slide transitions to a diagram labeled \"课程导入.\" The teacher points to the concentric circles and arrows, explaining the flow of information.\n- She uses hand gestures to trace the trajectory of the arrows, highlighting the connections between different components of the diagram.\n\n**End:**\n- The teacher continues to gesture towards the diagram, ensuring students understand the relationships depicted. She emphasizes key areas by pointing and circling them with her hand.\n\n### Summary\nThe lesson introduction phase is visually structured around the integration of classroom teaching and technology. The teacher uses deliberate gestures to link her explanations to the visual content on the screen, ensuring students grasp the foundational concepts presented through the diagram.",
+  "visual_narrative": "Initially, the screen presents the title \"课堂教学和信息技术的深度融合,\" setting the stage for the lesson. To bridge to the topic, the teacher gestures towards the title, emphasizing its importance. The slide then transitions to a diagram labeled \"课程导入,\" featuring concentric circles and directional arrows. The teacher points to various elements of the diagram, tracing the arrows to illustrate the flow of information. This visual shift establishes the lesson goal, linking the integration of technology with classroom teaching. By highlighting specific areas of the diagram, the teacher connects the new concepts to the students' existing understanding, preparing them for deeper exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Field Lines",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 141.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Equipotential Surfaces",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 141.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Electric Field Strength",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 141.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Potential Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 141.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Field Observation Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 141.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Title Slide",
+        "type": "Visual",
+        "original_text": "Deep Integration of Classroom Teaching and Information Technology",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Concept Diagram Slide",
+        "type": "Visual",
+        "original_text": "Course Introduction with concentric circles and arrows",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how electric field lines relate to equipotential surfaces."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Relates electric field strength to potential difference."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Electric field lines are represented visually on the diagram slide."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Equipotential surfaces are depicted in the concept diagram."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Field observation methods are based on understanding electric field lines."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Field observation methods include learning about equipotential surfaces."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Title slide provides a foundational context for understanding the concept diagram."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Diagram slide is used to enhance student engagement and understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

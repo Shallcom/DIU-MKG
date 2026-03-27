@@ -1,0 +1,176 @@
+{
+  "video_name": "31_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the relationships among current, voltage, and resistance in series and parallel circuits; understand the operating principles and construction of ammeters and voltmeters; be able to apply Ohm’s law to analyze simple circuits.",
+  "transcript": "[244.28 -> 258.28] 串联电路以及并联电路中电流电压以及电阻的关系那现在老师要进行提问同学们一起来回答一下。\n[259.32 -> 262.48] 串并联电路中电流有什么规律呢。\n[274.28 -> 306.48] 在串联电路中电流各处相同也就是I一等于I二等于I三在并联电路中干路电流应该等于各支路电流之和那请同学们再思考一下在串并联电路中电流各处相同也就是I一等于I二等于I三在并联电路中电流应该等于各支路电流之和那请同学们再思考一下在串并联电路应该等于各支路电流电路中电压有什么规律呢。\n[308.94 -> 318.82] 同学们一起说老师来继续写在串联电路中总电压应该等于各支路电压之和。\n[321.7 -> 328.36] 那在并联电路中电压应该是处处相等。\n[333.28 -> 373.98] 那你们再来分析一下在串并联电路中电阻有什么规律呢同学们一起说在串联电路中总电阻应该等于各处电阻应该是相到底的在串联电路中总电阻应该等于各用电器电阻之和那在并联电路中总电阻应该等于各用电阻之和那在并联电路中总电阻应该等于电阻有什么规律总电阻它有一个特殊的规律就是等于各支路电阻的倒数。\n[378.6 -> 424.8] 总电阻的倒数等于各支路电阻的倒数之和这是我们串并联电路中电流电压和电阻之间的关系那学了这些知识我们来学习一下电流表和电压表的电路构造那这个是我们在学习电阻规律时所展示的一个图片那我们在学习这个电压表的构造的时候我们在学习这个电压表构造的时候其实就是把其中的一个电阻换成了一个小的电表那这个电表其实就相当于电阻也就是这个电路图那我们把这个电路图放在旁边咱们来分析一下。\n[446.28 -> 511.18] 这里是一个表头然后这里是一个电阻它的阻值为二表头的电阻为二G那此时通过它的电流为IJ那我们来分析一下同学们思考一下此时这个电路符不符合欧姆定律是不是也符合那咱们的欧姆定律的内容是什么电压等于电流和电阻的乘积这位同学回答得非常棒我们把掌声送给他那我们来分析一下这个电路在这个电路中这个电流的它的满片电流我们称之为IG也就是说满片电流是这个电表的数值那它的满片电压我们计成UG。\n[512.48 -> 526.06] 根据我们的闭合电路欧米定律那这个UG应该等于IJ乘以RJIJ乘以RJ那在这个电路中它的电阻是什么关系呢。\n[527.5 -> 599.86] 我们的总电阻应该等于等于RJ加二那此时我们再来看一下这个IJ还等于什么IJ在这个公式中等于UJ比RJ那在这个电路中IJ还能等于什么呢等于我们的总电压除以我们的总电阻是不是等于U除以A总等于U除以RJ加R那我们发现了什么这个IJ它既等于UJ比RJ它又等于U比上RJ加R而我们刚才在分析的时候得出RJ这个电阻这个小电表的指示是表示这个表它指的数值就是我们测量的值但此时IJ等于它所以说我们所测的这个值应该是什么。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was accompanied by pointing to the blackboard, specifically towards the equations and diagrams she had written, inviting students to engage with the content.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the practice problem labeled \"例14\" on the blackboard. The teacher had written several equations and diagrams related to the problem, including:\n  - A set of three equations:\n    \\[\n    \\begin{cases}\n    I_1 = I_2 + I_3 \\\\\n    U_1 = U_2 = U_3 \\\\\n    \\frac{U_1}{R_1} = \\frac{U_2}{R_2} + \\frac{U_3}{R_3}\n    \\end{cases}\n    \\]\n  - A circuit diagram displayed on the screen to the left, illustrating the concept of connecting an ammeter in a circuit.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize key points. She pointed to the equations on the blackboard, particularly the relationship between currents and voltages, to guide the student's explanation.\n- The teacher also referred to the circuit diagram on the screen, using her pointer to highlight specific components, reinforcing the connection between the theoretical equations and the practical circuit setup.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by nodding and smiling, indicating approval.\n- She then proceeded to elaborate on the student's explanation by drawing additional annotations on the blackboard. For instance, she circled the equation \\( U_1 = U_2 = U_3 \\) to emphasize the equality of voltages in the parallel circuit.\n- The teacher also used the pointer to trace the circuit diagram on the screen, visually explaining how the ammeter measures current and reinforcing the student's correct understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand towards the class and points to \"例14\" on the blackboard.\n  - Focus on the set of equations and the circuit diagram on the screen.\n\n- **Middle:**\n  - Student responds; teacher points to \\( I_1 = I_2 + I_3 \\) and the circuit diagram.\n  - Teacher gestures to emphasize the parallel relationship in the circuit.\n\n- **End:**\n  - Teacher nods and smiles, circling \\( U_1 = U_2 = U_3 \\) on the board.\n  - Uses pointer to trace the circuit diagram, providing visual confirmation and elaboration of the student's explanation.\n\nThis structured interaction effectively links the teacher's physical actions to specific visual content, ensuring clear communication and reinforcement of the lesson's key concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the practice problem \"例14,\" featuring a set of equations and a circuit diagram on the screen. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content. She pointed directly to the equations on the blackboard, particularly highlighting the relationships \\( I_1 = I_2 + I_3 \\) and \\( U_1 = U_2 = U_3 \\), setting the stage for the interactive segment.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, using her pointer to trace the circuit diagram displayed on the screen. She emphasized key points by nodding and maintaining eye contact with the student, providing non-verbal encouragement. Simultaneously, she wrote the student's spoken terms next to the relevant equations, bridging the student's explanation with the theoretical content.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the equation \\( U_1 = U_2 = U_3 \\) on the blackboard, reinforcing the correctness of the student's understanding. She then drew arrows connecting this equation back to the circuit diagram on the screen, visually linking the practical application with the core lesson content.\n\nFinally, the teacher summarized the interaction by reviewing the annotations on the board and the screen, ensuring that the student's response was clearly connected to the main concepts of parallel circuits and ammeter usage discussed earlier. This visual orchestration transformed passive reception into active construction, enabling students to see the direct application of theoretical knowledge in solving practical problems. Through these gestures, the teacher facilitated a dynamic environment where students could actively construct and verify their understanding of the lesson's key principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Series Circuit Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[274.28 -> 306.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Parallel Circuit Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[274.28 -> 306.48]"
+      },
+      {
+        "id": "c3",
+        "label": "Series Circuit Voltage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[308.94 -> 318.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Parallel Circuit Voltage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[321.7 -> 328.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Series Circuit Resistance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[333.28 -> 373.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Parallel Circuit Resistance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[333.28 -> 373.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[378.6 -> 511.18]"
+      },
+      {
+        "id": "c8",
+        "label": "Ammeter Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[378.6 -> 511.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Equations on Blackboard",
+        "type": "Visual",
+        "original_text": "Equations representing series and parallel circuits.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Circuit Diagram on Screen",
+        "type": "Visual",
+        "original_text": "Circuit diagram illustrating ammeter placement.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Explaining Ohm's Law",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Students Analyzing Circuits",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Illustrates the relationship between currents in a series circuit."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Illustrates the relationship between currents in a parallel circuit."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Shows voltage distribution in a series circuit."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Shows voltage distribution in a parallel circuit."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Demonstrates resistance in a series circuit."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Demonstrates resistance in a parallel circuit."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Relates Ohm's Law to the equations on the board."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Connects Ohm's Law with practical circuit setups."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Provides a visual guide for ammeter placement in circuits."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Assists the student's explanation of circuit theory."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Student response expands on the application of Ohm's Law."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "scaffolds",
+        "intent": "Facilitates student engagement with theoretical concepts."
+      },
+      {
+        "source": "c8",
+        "target": "s2",
+        "relation": "builds_upon",
+        "intent": "Students apply construction principles to understand circuit meters."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

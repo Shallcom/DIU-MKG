@@ -1,0 +1,134 @@
+{
+  "video_name": "14_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the application of trigonometric function models in describing the motion of a Ferris wheel; analyze the parameters of trigonometric functions in real‑world problems and their significance; master the method of using trigonometric functions to construct mathematical models for solving practical problems.",
+  "transcript": "[102.4 -> 189.78] 最后作为一名数学教师我们应该注重情景设置培养学生用数学的眼光去观察世界用数学的思维去思考世界并且去表达世界的这样一个能力好以上是我的即席讲演感谢各位朋友老师下面开始我的授课上课同学们今天我们来学习一个非常漂亮的函数让它有点复杂首先直线运动我们是如何来刻画它的数学模型呢是不是运用了一次函数那么我们只有落地体运动我们是如何去刻画这样一个数学模型我们是用了二次函数对不对以及还有一个指数爆炸我们是如何刻画的呢对是指数函数那么今天我们来看我们有这样一个南昌之星的摩天运动以及古代水利工具铜车运动那么我们应该如何去刻画这个数学模型呢这就和我们今天所要学习的三角函数模型有关。\n[214.0 -> 275.58] 好这样是我们一个铜车它的运动的一个检图我们将它化解成了这样一个数学模型那么我们如何去知道铜车的这么一个它的那个渗水筒的一个高度呢我们是不是需要一些已知条件当我们要求试点这个渗水筒的高度我们是不是要知道它的初始位置以及还有它的中心到水面的这样一个距离还有铜车它的转动的角速度对吧以及我们还要知道铜车的半径还有很重要的一个就是时间T好那么我们怎么去刻画这样一个数学模型呢我们首先将这个铜车它的中心我们放在一个只叫坐标系中。\n[279.88 -> 286.44] 我们将这个中心点O放在原点。\n[290.14 -> 357.76] 老师将大致画一下这个图形好我们的铜车假设它的一个初始点是P点P零点那么P零点它到OX走的这样一个转过的角度是我们假设为半并且铜车转动的角速度我们假设为欧米伽当它转过了T秒后它到达了这个位置就是P那么请问同学们这个P点它的角度是多少呢这位同学你来回答一很好请坐这位同学回来得非常好那么这样一个角度呢是OmegaT加半。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the title \"5.6 函数 y = Asin(ax + φ)\".\n- The teacher holds papers and gestures towards the screen, which shows a diagram of a wheel with labeled points and angles.\n- The teacher writes \"5.6 函数 y = Asin(ax + φ)\" on the chalkboard, establishing the lesson's focus.\n\n**Middle:**\n- The teacher points to the diagram on the screen, explaining the relationship between the wheel's motion and the sine function.\n- The teacher draws a coordinate system on the chalkboard, labeling the axes as x and y.\n- The teacher sketches a circle on the board, mirroring the wheel diagram on the screen, and labels points corresponding to the wheel's positions.\n\n**End:**\n- The teacher continues to draw on the chalkboard, adding lines and angles to illustrate the sine wave's derivation from the circle.\n- The teacher gestures towards specific parts of the diagram, emphasizing key points in the explanation.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the diagram of a wheel on the digital screen, labeled with points and angles, illustrating periodic motion.\n- The initial state includes a circle with radius R, a point P on the circumference, and angles θ and φ marked.\n\n**The Derivation Process (Dynamic):**\n\n- **Additions:**\n  - The teacher draws a coordinate system on the chalkboard, labeling the x-axis and y-axis.\n  - A circle is drawn on the board, with points labeled to correspond to the wheel's positions (e.g., P, F).\n  - The teacher writes the equation $y = A\\sin(ax + \\phi)$ on the board, linking it to the diagram.\n\n- **Modifications:**\n  - The teacher adds lines and angles to the circle on the board, showing the relationship between the wheel's rotation and the sine function.\n\n- **Deictic Gestures:**\n  - The teacher points to specific angles and points on both the screen diagram and the chalkboard drawing, synchronizing verbal explanations with visual cues.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses the chalk to circle important parts of the diagram, such as the angle θ and the point P.\n- The equation $y = A\\sin(ax + \\phi)$ is prominently displayed on both the screen and the board, emphasizing its significance.\n- The teacher gestures towards the final drawn elements on the board, highlighting the connection between the wheel's motion and the sine wave.",
+  "visual_narrative": "Initially, the digital screen displayed a diagram of a wheel with labeled points and angles, serving as the primary visual model to illustrate periodic motion. The teacher began by writing the equation $y = A\\sin(ax + \\phi)$ on the chalkboard, establishing the mathematical foundation. The teacher then constructed a coordinate system on the board, drawing a circle to mirror the wheel diagram. As the lecture progressed, the teacher derived the relationship between the wheel's rotation and the sine function, annotating angles and points such as θ and P on both the screen and board. The teacher traced the trajectory of point P to demonstrate the sine wave's formation, emphasizing the periodic nature of the motion. Deictic gestures were resolved by pointing to specific angles and trajectories, aligning verbal explanations with visual cues. The teacher highlighted key elements by circling important parts of the diagram and prominently displaying the equation. This visual strategy reduced cognitive load by synchronizing dynamic gestures with static diagrams, reinforcing the connection between physical motion and mathematical representation. Finally, the teacher circled the final equation on the board, solidifying the concept's conclusion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[102.4 -> 189.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Sine Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[102.4 -> 189.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Periodic Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[214.0 -> 275.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[279.88 -> 286.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Wheel Positions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.14 -> 357.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Angle Theta",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.14 -> 357.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Point P",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.14 -> 357.76]"
+      },
+      {
+        "id": "v1",
+        "label": "Wheel Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of wheel with labeled points and angles illustrating periodic motion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Equation",
+        "type": "Visual",
+        "original_text": "$y = A\\sin(ax + \\phi)$ equation displayed prominently on the chalkboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[290.14 -> 357.76]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Trigonometric Function includes the Sine Function as an example."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Periodic Motion concept develops understanding of Trigonometric Function application."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Coordinate System provides basis for determining Wheel Positions."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Angle Theta includes consideration of Point P on the wheel."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Wheel Diagram visualizes the concept of Periodic Motion."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Chalkboard Equation emphasizes importance of Sine Function."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Wheel Diagram and Chalkboard Equation together summarize the lesson's focus."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Student answering engages their understanding of Angle Theta."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

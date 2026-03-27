@@ -1,0 +1,176 @@
+{
+  "video_name": "42_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Be able to describe the main stages of the cell cycle and their temporal distribution; understand the key features and processes of each mitotic stage; be able to explain the mechanism of DNA allocation during mitosis.",
+  "transcript": "[463.7 -> 494.38] 请这位同学回答一下细胞周期的大部分时间都是分裂电池大概占了百分之九十没错很好请坐我们可以知道细胞周期包含分裂间期以及分裂期由其中的数量关系我们可以大概地知道分裂间期它占据了细胞周期的大部分在分裂间期结束之后细胞就进入到了分裂期开始进行细胞分裂尤其是对于真核生物来说有丝分裂是进行细胞分裂的主要方式在分裂之后形成的子细胞又可以进入分裂间期在细胞进入分裂期后在分裂间期制作的在分裂间期复制成的DNA是如何平均地分到两个子细胞中的呢请同学们阅读材料\n[499.64 -> 510.18] 请这位同学对请坐回答得很好\n[511.5 -> 519.38] 它就是通过有丝分裂来完成的那么有丝分裂又包含哪几个阶段呢请这位同学\n[522.26 -> 547.78] 我们可以知道它包含前期中很好请坐前期中期后期末期四个阶段那么这四个阶段其中的物质又是怎样运动的又是怎样进行分裂的呢请同学们观看图片我们可以看到请同学们阅读教材观观察图片\n[552.26 -> 615.42] 我们可以看到前期它是染色致丝它是呈螺旋缠绕的逐渐缩短变粗成为了染色体每条染色体包含了两条并列的姐妹染色单体这个姐妹单体有一个共同的着丝点也就是这儿有一个共同的着丝点连接在这个阶段中何人主动逐渐解体合膜逐渐消失两个细胞中出现了纺垂丝请同学们观看中期的我们可以看到在这个阶段出现了一个染色体丝排列在一个中央的皮肤中间出现了一个染色体丝排列在一个中央的这个平面我们称之为赤道板\n[621.16 -> 643.14] 在这个阶段每条染色体的着丝力两侧都有纺垂线附在上面使纺垂丝牵引着染色体进行运动排列使每条染色体着丝力排列在细胞中央的一个平面上这个平面就是我们所说的视道板\n[651.24 -> 653.2125] 请同学们观察后期的死染色体的数量是怎样变化的呢",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interaction. She also pointed directly to a student, inviting them to participate.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the diagram on the interactive whiteboard, specifically the stages of cell division labeled \"前期\" (prophase), \"中期\" (metaphase), \"后期\" (anaphase), and \"末期\" (telophase).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the relevant stage on the whiteboard, guiding the student's explanation. She also used hand gestures to emphasize key points in the diagram, such as tracing the movement of chromosomes during anaphase.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing visual encouragement. She then pointed to the correct stage on the whiteboard, reinforcing the student's correct answer. Additionally, she drew a small arrow on the diagram to highlight the direction of chromosome movement, visually clarifying the process.\n\n**Narrative Evolution:**\n\n- **Beginning:** The teacher started by pointing to the interactive whiteboard, which displayed a diagram of cell division stages. She used a sweeping gesture to engage the class and pointed to a specific student to initiate interaction.\n  \n- **Middle:** As the student responded, the teacher actively listened and used hand gestures to guide the explanation. She pointed to the \"后期\" (anaphase) stage, emphasizing the movement of chromosomes by tracing the diagram with her finger.\n\n- **End:** The teacher visually confirmed the student's correct understanding by nodding and smiling. She then elaborated by drawing an arrow on the diagram to visually explain the direction of chromosome movement, ensuring clarity.\n\nThis structured visual interaction effectively co-constructed knowledge, linking the teacher's gestures directly to the content on the whiteboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a diagram illustrating the stages of cell division, labeled \"前期\" (prophase), \"中期\" (metaphase), \"后期\" (anaphase), and \"末期\" (telophase). The teacher began by making a sweeping gesture across the class, inviting students to engage with the content. She pointed directly to a student, signaling the start of an interactive discussion.\n\nAs the student began explaining their understanding of the cell division stages, the teacher actively facilitated the discussion. She walked over to the interactive whiteboard and pointed to the \"后期\" (anaphase) stage, using her finger to trace the movement of chromosomes. This gesture visually guided the student's explanation, ensuring clarity and focus on the key elements of the diagram.\n\nTo validate the student's response, the teacher gave a distinct nod and drew a small arrow on the diagram, highlighting the direction of chromosome movement during anaphase. This visual action confirmed the student's correct understanding and provided a clear, visual reinforcement of the concept.\n\nThe teacher's gestures effectively linked the student's response back to the core lesson content, reinforcing the stages of cell division. By actively engaging with the diagram and using supportive gestures, the teacher helped students move from passively receiving knowledge to actively constructing their own understanding. This dynamic interaction encouraged students to connect their explanations directly to the visual content, fostering a deeper comprehension of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cell Cycle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[463.7 -> 510.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Interphase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[463.7 -> 510.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Mitosis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[463.7 -> 510.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Prophase",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[552.26 -> 615.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Metaphase",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[621.16 -> 643.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Anaphase",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[621.16 -> 643.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Telophase",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[552.26 -> 615.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Chromosome Movement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[552.26 -> 615.42]"
+      },
+      {
+        "id": "c9",
+        "label": "DNA Allocation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[463.7 -> 510.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Cell Division Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of cell division stages",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Interphase is a part of the Cell Cycle."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Mitosis is a part of the Cell Cycle."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Prophase is a stage of Mitosis."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Metaphase is a stage of Mitosis."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Anaphase is a stage of Mitosis."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Telophase is a stage of Mitosis."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Chromosome Movement occurs during Prophase."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Chromosome Movement is emphasized during Metaphase."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents Prophase."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents Metaphase."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents Anaphase."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents Telophase."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Diagram shows the mechanism of DNA Allocation during Mitosis."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are actively engaged with the concept of the Cell Cycle."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,139 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "To understand the character portrayals and personality traits in “Zi Lu, Zeng Xi, Ran You, and Gong Xi Hua Attending the Seat”; to analyze the significance behind the characters’ words and actions and to grasp Confucius’s educational philosophy.",
+  "transcript": "[0.0 -> 68.28] 提灯引路预梦成光年轻老师说你们听懂了吗我认为这更多的是停留在知识点的层面而老教师说你们听明白了吗这就不再局限于知识点的层面而是更加扩展到了对学生人生态度的询问比如说我今天要教学的这个子路曾熙然有公西华士作这一章我们就不仅仅的停留在知识点诶这个文学常识你会吗这些这个文言文字词的实意你会吗而是我们深入文本去看一看孔子对他们的态度以及孔子对他们的希望是什么。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring colorful circular icons and text in Chinese. The screen introduces the \"10th 'Tianjia Cup' National Contest of Teaching Skills for Teacher College Students\" with a focus on Chinese Language and Literature.\n\n#### 2. The Title Event\n- **Title on Screen**: The title displayed on the screen is \"子路、曾皙、冉有、公西华侍坐\" (Zilu, Zengxi, Ran You, Gongxi Hua Attending Sitting).\n- **Teacher's Action**: The teacher stands in front of the screen, which displays the title alongside a list of bullet points. She does not physically write or underline the title but gestures towards it.\n\n#### 3. The Objectives\n- **Bullet Points**: The screen shows several bullet points, likely learning objectives or lesson content, but they are not fully legible. The visible structure suggests a list format, possibly including key themes or discussion points related to the title.\n\n#### 4. Key Gestures\n- **Pointing**: The teacher points to the screen, likely emphasizing the title or bullet points.\n- **Hand Movements**: She uses hand gestures to engage with the content, possibly indicating different sections or points on the screen.\n- **Holding Papers**: The teacher holds papers, possibly notes or a lesson plan, while speaking.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Title Screen**: The video opens with a yellow title screen introducing the competition and subject.\n- **Transition to Classroom**: The scene shifts to a classroom where the teacher stands in front of a screen displaying the lesson title.\n\n#### Middle\n- **Teacher Presentation**: The teacher begins speaking, holding papers and gesturing towards the screen.\n- **Pointing to Title**: She points to the title \"子路、曾皙、冉有、公西华侍坐\" on the screen, likely introducing the lesson topic.\n- **Engagement Gestures**: The teacher uses hand gestures to emphasize points, possibly linking to the bullet points on the screen.\n\n#### End\n- **Continued Interaction**: The teacher continues to engage with the students, using gestures to highlight key areas on the screen.\n- **Focus on Content**: The screen remains the focal point, with the teacher directing attention to specific parts of the displayed content.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, which introduces the \"10th 'Tianjia Cup' National Contest of Teaching Skills for Teacher College Students\" with a focus on Chinese Language and Literature. Transitioning to the classroom, the teacher stands poised in front of a screen displaying the lesson title \"子路、曾皙、冉有、公西华侍坐.\" She holds papers, likely notes, and gestures towards the screen, emphasizing the title. The visual aid shifts seamlessly from the competition introduction to the main topic, with the teacher pointing to the title and bullet points on the screen. Her hand movements guide the students' attention, highlighting key areas of the content. This structured approach connects the lesson to the students' existing knowledge by framing the discussion within a recognized literary context, setting the stage for deeper exploration of the text and its themes. The introduction effectively bridges the competition's theme with the lesson's focus, preparing students for an engaging exploration of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Character Portrayals",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Personality Traits",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Confucius's Philosophy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Significance of Words",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Students' Attitudes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Confucius's Hopes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Screen Introduction",
+        "type": "Visual",
+        "original_text": "Yellow title screen introducing 'Tianjia Cup' contest",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title on Screen",
+        "type": "Visual",
+        "original_text": "Zilu, Zengxi, Ran You, Gongxi Hua Attending Sitting",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Points",
+        "type": "Visual",
+        "original_text": "List of learning objectives",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Character portrayals include analysis of personality traits."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Personality traits relate to Confucius's hopes for his students."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Confucius's philosophy includes understanding the significance of words."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The significance of words influences students' attitudes."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Confucius's hopes evolve from his educational philosophy."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Discussion of students' attitudes prompts student engagement."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Initial title screen sets context emphasizing lesson title."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Lesson title leads into bullet points summarizing learning objectives."
+      },
+      {
+        "source": "ss1",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Engaged students scaffold learning through bullet points."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

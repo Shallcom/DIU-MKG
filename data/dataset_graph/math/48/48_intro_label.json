@@ -1,0 +1,159 @@
+{
+  "video_name": "48_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the significance and methods of interdisciplinary learning in mathematics teaching; master how to integrate content from other subjects into mathematics classroom instruction.",
+  "transcript": "[0.0 -> 129.66] 尊敬的伟平老师亲爱的同学们你们好下面开始我的即兴演讲我抽的题目是跨学科学习在实践教学中需要提倡那么作为一名教师你认为跨学科学习应该怎么做呢我觉得呀首先跨学科学习呢是在本堂课中融入其他学科的内容首先你认为要具备呢其他学科的素养比如知识内容以及技能等这样我们所具备的知识内容就有比如语文方面的语文诗词素养物理方面的物理定理或者是物理运用等其次呢要多探求本学科与其他学科之间的联系比如啊数学与语文之间的联系在直线与平面平行的教学中呢我就会融入诗词教学两个黄泥铭碎柳以航白鹿上青天将其与图画进行联系探求点线面之间的关系也就是最后探求到直线与平面平行的教学过程中在比如数学与物理的联系就比如说向量向量我们就会用到物理中的力学力的方向比如小车运动等从物理的运动上引到我们的向量学习中在以上两这两个环节的基础上教师更要磨练扎实基本功我们的数学是数学教师所必须具备的技能只有具有扎实的基本功了才能够与其他学科进行融合不然就会进行了捡了芝麻丢了西瓜这样的操作而从而丧失了我们本学科的教学作为师范生的我们也就是作为未来的教师我们更应该树立终身学习发展的一个思想不断地去学习同时融入其他学科的学习从而就会在我们的未来的教学中成为一名优秀的人民教师我的集评演讲完毕。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a digital screen displaying a slide with multiple text boxes. The exact content of the slide is not fully legible, but it appears to be a structured lesson plan or introduction with bullet points and sections.\n\n#### 2. **The Title Event**\n- The title on the screen is not fully visible, but it appears to be a lesson plan or introduction slide. The teacher does not physically write anything on the board; instead, the title is already displayed on the digital screen.\n\n#### 3. **The Objectives**\n- Specific learning objectives are not clearly visible in the frames provided. The slide contains several sections, likely outlining the lesson structure, but the exact bullet points are not legible.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points or transitioning between sections.\n- The teacher uses hand movements to engage with the audience, such as pointing or holding up the papers to reference content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a lesson introduction slide. The slide contains multiple sections with text, though not fully legible.\n- The teacher holds papers, likely notes or a lesson plan, and gestures with them while speaking.\n\n**Middle:**\n- The teacher continues to reference the digital screen, occasionally pointing or gesturing towards it to emphasize content.\n- The teacher's hand movements suggest engagement with the material, possibly highlighting key points or transitioning between topics.\n\n**End:**\n- The teacher maintains focus on the digital screen, using hand gestures to connect with the content displayed.\n- The lesson introduction phase concludes with the teacher still referencing the screen and papers, ensuring students are oriented with the lesson structure.\n\nThis structured approach ensures the teacher's actions are visually linked to the content displayed, providing a clear introduction to the lesson.",
+  "visual_narrative": "Initially, the teacher stands in front of a digital screen displaying a structured lesson introduction slide, which serves as the hook for the lesson. The slide contains multiple sections with text, setting the stage for the lesson's content. To bridge to the main topic, the teacher holds papers and gestures with them, occasionally pointing towards the screen to emphasize key points. The visual focus remains on the introduction slide, which outlines the lesson structure, though specific objectives are not fully legible. The teacher's gestures and references to the screen help establish the lesson's goals, linking the introduction to the students' existing knowledge and preparing them for the upcoming content. This visual approach ensures a smooth transition from the hook to the main topic, grounding the introduction in a clear and structured format.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Interdisciplinary Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Mathematics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Content Integration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Chinese Literature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Physical Laws",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Straight Lines and Planes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c8",
+        "label": "Literary Quotations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c9",
+        "label": "Conceptual Connections",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "c10",
+        "label": "Lifelong Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Introduction Slide",
+        "type": "Visual",
+        "original_text": "A slide with lesson introductory text and sections.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Interdisciplinary learning includes integrating mathematics."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Content integration builds upon the idea of interdisciplinary learning."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Using Chinese literature evolves from integrating different subject contents in a mathematics lesson."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Learning vectors evolves from understanding physical laws."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Discussion of straight lines and planes includes literary quotations."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Conceptual connections build upon the procedure of content integration."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "enhances",
+        "intent": "Lifelong learning enhances the understanding and application of interdisciplinary learning."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the concept of interdisciplinary learning introduction."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The visual slide emphasizes engagement with the lesson content."
+      },
+      {
+        "source": "s1",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts thinking about conceptual connections."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,145 @@
+{
+  "video_name": "24_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the conditions that give rise to electromagnetic induction; master the relationship between magnetic flux change and induced current.",
+  "transcript": "[497.96 -> 601.6] 好刚刚有一位同学给老师上传了他的一份数据那么我们来看一下同学们你们的实验数据跟他一样吗一样的对吧那同学们有没有想过这是为什么呀我们看到在我们的实验装置里面我们的开关电源跟我们的线圈A相连的是不是那我们的电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的是不是那我们的开关电源跟我们的线圈A相连的那么线圈B相邻的呢是我们的电流表那我们在开关和变阻器闭合开关闭合的时候我们会发现开关闭合我们A电流A线圈电流是不是会随着变大或变小那同样的它产生的磁场呢对了那线圈B里面的磁场也会大小变化那这个时候呀通过线圈B磁场里面的磁透量也会对了进入磁通量改变了那么这个时候就会发现有感应电流对吧对了线圈B这里呀这里面就是我们感应电流好那么我们现在总结一下当我们穿过了闭合导体回路的磁动量你看老师这里是不是一个闭合的回路穿过导体的闭合如果闭合电路导体的自动量发生了变化那么这个时候就有我们的感应电流产生。\n[608.32 -> 625.88] 好那这以上就是我们的探究实验环节那同学们再来看一下当我们学习了电磁感应现象那电磁感应现象在我们的日常生活中有什么样的运动呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the table on the digital screen, which listed various phenomena and their corresponding explanations. The teacher pointed to specific rows within this table, highlighting the content for discussion.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded, providing non-verbal encouragement. She occasionally pointed to the relevant row on the table, reinforcing the connection between the student's response and the visual content.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student's response, the teacher circled key points on the digital screen, visually validating correct answers. For any misconceptions, she drew arrows and annotations on the screen, linking the student's input to the correct information in the table.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher began by pointing to the title on the digital screen, \"探究电磁感应现象及其应用,\" setting the context for the lesson.\n  - She then made a sweeping gesture, inviting the class to engage with the content.\n\n- **Middle:**\n  - The teacher pointed to the first row of the table, asking students to explain the phenomenon. As a student responded, she nodded and pointed to the corresponding explanation, guiding the discussion.\n  - She circled the correct explanation on the screen, providing visual confirmation.\n\n- **End:**\n  - The teacher transitioned to a new slide showing images of electromagnetic applications. She pointed to the images, asking students to relate them to the concepts discussed.\n  - She drew arrows connecting the images to the previous table, reinforcing the application of electromagnetic induction.\n\nThroughout the interaction, the teacher used gestures and annotations to scaffold understanding, ensuring students visually connected their responses to the lesson content.",
+  "visual_narrative": "Initially, the digital screen displayed a table titled \"探究电磁感应现象及其应用,\" outlining various electromagnetic phenomena and their explanations. The teacher began by pointing to the table, inviting students to engage with the content through a sweeping gesture that encompassed the entire classroom.\n\nAs the discussion progressed, the teacher actively facilitated the interaction by moving towards the digital screen. While a student explained their reasoning, she maintained eye contact and nodded in encouragement. She pointed to specific rows in the table, guiding the student to connect their response with the visual content. The teacher's supportive gestures included circling key terms on the screen and drawing arrows to highlight important connections.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the correct explanation on the screen. For any misconceptions, she drew annotations, linking the student's response to the correct information in the table. This visual feedback ensured that students could see the alignment between their understanding and the lesson content.\n\nFinally, the teacher transitioned to a new slide showing images of electromagnetic applications. She pointed to these images, asking students to relate them to the concepts discussed. By drawing arrows connecting the images to the previous table, she reinforced the practical applications of electromagnetic induction.\n\nThroughout the interaction, the teacher's gestures and visual strategies helped students move from passively receiving knowledge to actively constructing their own understanding. The dynamic use of the digital screen and blackboard facilitated a collaborative learning environment, where students could visually connect their ideas to the core lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[497.96 -> 625.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Magnetic Flux Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[497.96 -> 601.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Induced Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[497.96 -> 601.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Closed Conductor Loop",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[497.96 -> 601.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Experiment Data",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[497.96 -> 601.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Magnetic Field Variation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[497.96 -> 601.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Investigation of Electromagnetic Phenomena",
+        "type": "Visual",
+        "original_text": "Inquiry into Electromagnetic Induction Phenomena and Applications",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Applications of Electromagnetic Induction",
+        "type": "Visual",
+        "original_text": "Slide showing electromagnetic applications",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Student Response Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c11",
+        "label": "Visual Feedback",
+        "type": "Visual",
+        "original_text": "Circling key points and annotations",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding electromagnetic induction relies on changes in magnetic flux."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Electromagnetic induction leads to the creation of an induced current."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "A closed conductor loop is necessary for the magnetic flux change to be relevant."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Teacher uses experiment data to engage students and prompt their thinking."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The variation in the magnetic field leads to an induced current."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually presents the concept of electromagnetic induction."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "The applications of electromagnetic induction are derived from the underlying principles."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "addresses_misconception",
+        "intent": "The teacher uses visual feedback to address and correct student misconceptions."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "guides_discussion",
+        "intent": "Student engagement transitions to responding and explaining during the interaction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,173 @@
+{
+  "video_name": "34_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the importance of the information technology laboratory in learning; master the basic operation methods of laboratory equipment; cultivate an innovative spirit and explore its applications in information technology.",
+  "transcript": "[0.0 -> 113.32] 首先好的物理实验室可以增强学生的实验体验感在物理实验室中若学生无法观察到实验现象或者说出现实验仪器的短缺会导致学生在做实验时兴趣有所下降并且会导致有些同学直接丧失对这个实验的兴趣其次丰富多样的实验仪器可以增强学生的动手操作能力在处于初中阶段的学习物理的学生对于科学各种物理实验仪器都有着极强并且极其丰厚极其浓厚的兴趣当走进物理实验室中发现实验室中有许多的实验仪器时会对这些实验仪器产生非常高的兴趣会思考这些实验仪器它的作用是什么会思考这些实验仪器会用于哪些知识的学习那么最后先进的实验仪器还可以培养学生的创新精神学学生在拿到这个实验仪器时对对照说明书完成这一部分实验学习并且他还可以想着用这些实验仪器能不能完成其他实验的学习我的今天讲到这里就结束了好同学们好上课非常高兴能与大家一同学习物理知识那么通过上一节课的学习我们知道。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital presentation on a large screen. The initial slide displays the text \"欧姆定律\" (Ohm's Law) prominently in a blue box. This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"欧姆定律\" (Ohm's Law) is displayed on the screen. The teacher does not physically write this on the board but points towards the screen, ensuring students focus on the title. The text is underlined by the blue box, emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on introducing the title.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely explaining the significance of Ohm's Law.\n- The teacher occasionally looks at the students, engaging them with eye contact while referring to the screen content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a digital screen displaying \"欧姆定律\" (Ohm's Law).\n- The teacher gestures towards the screen, emphasizing the title.\n\n**Middle:**\n- The teacher continues to refer to the screen, occasionally looking at the students to maintain engagement.\n- The teacher's hand movements suggest explaining the concept, pointing to the screen content.\n\n**End:**\n- The teacher maintains focus on the screen, ensuring students are attentive to the introduction of Ohm's Law.\n- No additional visual content changes are observed; the primary focus remains on the title displayed.\n\nThis structured visual analysis captures the teacher's actions and their linkage to the visual content, providing a clear narrative of the introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, facing a digital screen that prominently displays the title \"欧姆定律\" (Ohm's Law) within a blue box, serving as the hook to capture student attention. The teacher holds papers and gestures towards the screen, emphasizing the title without additional visual aids on the blackboard. As the lesson progresses, the teacher maintains focus on the screen, using hand movements to guide students' attention to the displayed content. The visual narrative remains centered on the introduction of Ohm's Law, with the teacher occasionally engaging students through eye contact and gestures. This approach bridges the hook to the main topic by consistently highlighting the title, preparing students for a deeper exploration of the concept. The introduction effectively links the new knowledge to foundational principles, setting the stage for understanding electrical relationships, which will be expanded upon in subsequent lessons.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Physics Laboratory",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Experiment Experience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c4",
+        "label": "Equipment Deficiency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Interest Decline",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c6",
+        "label": "Diverse Equipment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c7",
+        "label": "Hands-on Ability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Scientific Interest",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c9",
+        "label": "Innovative Spirit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c10",
+        "label": "Instruction Manual",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "c11",
+        "label": "Advanced Equipment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.32]"
+      },
+      {
+        "id": "v1",
+        "label": "Ohm's Law Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying Ohm's Law in a blue box",
+        "ocr_corrected": true
+      },
+      {
+        "id": "vs1",
+        "label": "Teacher gestures screen",
+        "type": "Visual",
+        "original_text": "The teacher gestures towards the screen emphasizing Ohm's Law",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The title 'Ohm's Law' serves as a visual reference for students."
+      },
+      {
+        "source": "c1",
+        "target": "vs1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the importance of Ohm's Law by pointing to the screen."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Physics Laboratory provides the space for hands-on experiment experiences."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Equipment deficiency leads to a decline in student interest."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Diverse equipment fosters hands-on ability."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Advanced equipment cultivates innovative spirit."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Following instruction manuals builds innovative spirit as students explore new uses."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The physics laboratory includes diverse equipment."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Hands-on ability enhances student engagement."
+      },
+      {
+        "source": "vs1",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "The teacher's gestures towards the screen engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

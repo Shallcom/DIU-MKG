@@ -1,0 +1,119 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the basic mechanism of active transport; identify the characteristics of active transport and its relationship with carrier proteins; compare active transport with other modes of substance transport.",
+  "transcript": "[683.96 -> 776.62] 好那位黑衣服的同学是不是还没回答过问题你来试一试这个问题蛋白质发生了形变哦是一种形态上的改变对不对那具体来说是这则材料中有哪个词啊形变你说这个形变具体是这个形代表什么意思呢在体蛋白的空间结构哦要注意叫做空间结构这点大家要注意好了这种主动运输的另外一个特点呢就是这种载体蛋白在能量推动下呢会发生它的空间结构的改变因此它才能够使这个物质从膜外运输到膜内来那现在呢我们就发现了主动运输的一些具体特点它首先是通过逆浓度提度第二个它是需要蛋白质的并且呢这种蛋白质是能够能够改变空间结构进行的第三点是它需要消耗能量那了解完了主动运输那老师有第二个问题除了主动运输之外大家想一想我们细胞当中还存在着其他的运输方式吗那这个问题就留给大家课后讨论给大家一个小提示可以思考一下我们的细胞膜它有怎样的结构特点联想一下会不会发现一些新的方式呢好那我这堂课呢就上到这里结束了谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen.\n   - The slide has a simple layout with a heading and a list of key points.\n\n2. **Key Knowledge Items (Content View)**:\n   - The heading on the slide reads \"1. 小結\" (Summary).\n   - The key points listed are:\n     - LEARN\n     - REVIEW\n     - EXAMINE\n     - REACH\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely emphasizing each point as they are discussed.\n   - The teacher uses hand movements to highlight the list, possibly pointing or gesturing to each item in sequence.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the slide or board.\n   - The blackboard remains unchanged, with some text written in Chinese, but no specific instructions for next steps are visible.\n\nThis structured visual summary focuses on reinforcing the key points through the slide, with the teacher's gestures aiding in emphasizing each item.",
+  "visual_narrative": "The lesson concludes with a slide displaying a list of key points under the heading \"1. 小結.\" The teacher visually reviews the content by pointing to each item in sequence, emphasizing the structured approach to learning and review. The final emphasis is placed on the list itself, with the teacher likely pausing briefly on each point to reinforce their importance. There is no visible homework or next-step instruction presented, marking the end of the session with a clear focus on the summarized concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Active Transport",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.96 -> 776.62]"
+      },
+      {
+        "id": "concept2",
+        "label": "Carrier Proteins",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[683.96 -> 776.62]"
+      },
+      {
+        "id": "concept3",
+        "label": "Energy Consumption",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.96 -> 776.62]"
+      },
+      {
+        "id": "concept4",
+        "label": "Concentration Gradient",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.96 -> 776.62]"
+      },
+      {
+        "id": "concept5",
+        "label": "Space Structure Changes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[683.96 -> 776.62]"
+      },
+      {
+        "id": "concept6",
+        "label": "Other Transport Modes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.96 -> 776.62]"
+      },
+      {
+        "id": "visual1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide with heading 'Summary' and key points 'LEARN, REVIEW, EXAMINE, REACH'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_state1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "includes",
+        "intent": "Active transport involves carrier proteins."
+      },
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "includes",
+        "intent": "Active transport requires energy consumption."
+      },
+      {
+        "source": "concept1",
+        "target": "concept4",
+        "relation": "evolves_from",
+        "intent": "Active transport moves against concentration gradient."
+      },
+      {
+        "source": "concept2",
+        "target": "concept5",
+        "relation": "evolves_from",
+        "intent": "Carrier proteins undergo space structure changes."
+      },
+      {
+        "source": "concept1",
+        "target": "concept6",
+        "relation": "prompts_thinking",
+        "intent": "Encourage students to compare other transport modes."
+      },
+      {
+        "source": "visual1",
+        "target": "concept1",
+        "relation": "summarizes",
+        "intent": "Slide reinforces concept of active transport."
+      },
+      {
+        "source": "visual1",
+        "target": "student_state1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses slide to highlight key points during student response."
+      },
+      {
+        "source": "student_state1",
+        "target": "concept5",
+        "relation": "builds_upon",
+        "intent": "Student response enhances understanding of space structure changes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

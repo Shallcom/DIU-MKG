@@ -1,0 +1,197 @@
+{
+  "video_name": "35_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the importance of situational introductions in mathematics teaching; analyze the problems that may arise from overusing situational introductions; master methods for reasonably designing introductory segments in mathematics lessons.",
+  "transcript": "[0.0 -> 148.42] 并情境导入是可取的但是情境导入的内容要根据讲课的内容而确定不可以滥用情境我将从以下三个方面开始我的论述首先是情境导入的好处情境导入可以使学生身临其境地体会生活当中的数学培养学生会用数学的眼光观察现实世界会用数学的思维思考现实世界会用数学的语言表达现实世界使学生深入其境地感受情境当中的内容从而使后续的内容与之衔接但是如果其次如果要是滥用情境为了导为了情境而采取导入而为了情境而采取情境那么就会使学生造成思路混乱使得情境的内容与讲解的内容相最后教师该如何在课堂导入环节当中合理地利用情境导入呢我认为教师应该在教学当中逐步地分析教材内容以及对学生的学情进入更加深入的了解使学生的学习内容与自己设计的导入内容相适应这样才能够使得情境导入的内容与自己所讲述的内容相对应相对应然后整个课堂的有序性才能呃整个课堂的内容才能保持其完整下面开始我的说课环节上课同学们好请坐在上一节课当中啊我们已经学习过了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen to the right of the teacher. The slide contains text in a foreign language, likely Chinese, with a structured layout including a title and several bullet points. The exact content of the text is not fully legible, but it appears to be an introductory slide.\n\n#### 2. **The Title Event**\n- The teacher does not write a title on the blackboard. Instead, the title is displayed on the digital screen. The title is written in a larger font at the top of the slide, but the exact wording is not clearly visible. The teacher gestures towards the screen, possibly emphasizing the title.\n\n#### 3. **The Objectives**\n- The slide contains several bullet points, likely outlining the learning objectives or key points of the lesson. These are not fully legible, but they are structured in a list format, indicating different topics or goals.\n\n#### 4. **Key Gestures**\n- The teacher frequently gestures with her hands while speaking, emphasizing points. She holds papers in one hand and uses the other hand to gesture towards the audience and occasionally towards the screen.\n- The teacher occasionally points to the digital screen, likely to highlight specific points or objectives listed on the slide.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of a blackboard and a digital screen displaying an introductory slide.\n- The slide contains a title and bullet points, though the exact text is not fully legible.\n- The teacher gestures towards the screen, possibly emphasizing the title and objectives.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize points.\n- She holds papers and occasionally looks at them, likely referring to notes.\n- The teacher points to the screen, directing attention to specific areas of the slide.\n\n**End:**\n- The teacher maintains focus on the audience, using hand gestures to reinforce her speech.\n- The digital screen remains visible, displaying the same introductory content throughout the segment.\n- The teacher’s gestures include open hand movements and pointing, linking her speech to the visual content on the screen.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual elements present.",
+  "visual_narrative": "Initially, the screen presents an introductory slide with text in a foreign language, likely Chinese, setting the stage for the lesson. To bridge to the topic, the teacher gestures towards the screen, emphasizing the title and bullet points, which are structured to outline the lesson's objectives. Throughout the introduction, the teacher uses hand gestures to engage the audience, occasionally pointing to the screen to highlight key areas. The visual focus remains on the introductory content, establishing the lesson's goals and providing a structured overview. This approach connects the new knowledge to the students' existing experience by outlining clear objectives, preparing them for the forthcoming content and ensuring a smooth transition into the main topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Situational Introduction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Mathematics in Daily Life",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Observe Reality",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Think Mathematically",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Express Mathematical Language",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Chaos from Overuse",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Link Content",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Analysis of Students' Needs",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c9",
+        "label": "Tailored Introduction Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "c10",
+        "label": "Orderly Classroom",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 148.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Intro Slide on Screen",
+        "type": "Visual",
+        "original_text": "Slide showing lesson objectives in foreign language",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Title",
+        "type": "Visual",
+        "original_text": "Title on digital screen without blackboard use",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Points on Screen",
+        "type": "Visual",
+        "original_text": "Structured bullet points likely outlining lesson goals",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement through Gestures",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Situational introductions emphasize real-life mathematics applications."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Overuse of situational introductions may lead to chaos."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Situational introductions must effectively link lesson content."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Observing reality supports understanding mathematics in daily life."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Mathematical thinking is necessary to relate to daily activities."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Expressing observations in mathematical language connects to real life."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Tailored introductions are designed based on student needs analysis."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Effective introductions must align with lesson content."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "An orderly classroom is achieved through appropriate introductions."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Introductory slide outlines objectives through bullet points."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Visual slide presents the concept of situational introductions."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the linkage of content through the visual title."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Structured bullet points summarize the objectives of situational introductions."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Gestures engage students in thinking about situational introductions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

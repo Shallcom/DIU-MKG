@@ -1,0 +1,146 @@
+{
+  "video_name": "44_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the principle of equality between spouses in family relationships; develop critical thinking to analyze the impact of traditional gender roles; master the ability to apply theoretical knowledge to practical problems.",
+  "transcript": "[417.7773 -> 474.64] 夫妻双方他无需去受传统的男主外女主内中国的传统文化是非常男人的地位是非常高的女子是处于从属地位那么这样的传统概念我们是需要抛弃的不能够受制于传统的男主外女主内每一个人都是独立的个体不应该受这样的思想束缚均有参加生产参加工作参加学习和参加社会活动的自由这也是我们家庭地位平等的重要标志请各位同学记好那么在本节课结束之后呢老师为大家留了一份实践的提升作业希望大家可以以小组为单位进入社区扮演夫妻调解员学习完本节课的知识我们已经了解到了夫妻双方在人生关系上是平等的存在的所以说我们要进行实践去调解一下在你们社区中所存在的夫妻矛盾结束后请各位以小组为单位制作一份PPT来进行展示自己的心得体会那么老师最后希望大家在学习完知识不仅要把知识停留在书面层次更需要将知识应用在实践层次不负你们的韶华让青春为中国式法治现代化挺应当当那么本节课我们就上到这里同学们下课谢谢徐师傅。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with a header and a central text box containing key points.\n   - The slide has a clean design with an orange and white color scheme, and the text is organized in a paragraph format.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains Japanese text, which appears to summarize the lesson's main points. The header reads \"生産・仕事・実習\" (Production, Work, Internship).\n   - The central text box includes phrases such as \"生産の現場で\" (At the production site) and \"課題を解決する\" (Solve problems), indicating key concepts discussed.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher moves to the blackboard and erases the previously drawn triangle, indicating the conclusion of that specific topic.\n   - The teacher gestures towards the digital slide, likely summarizing the key points displayed. This involves pointing or directing attention to the text on the screen.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary slide, suggesting the end of the lesson without additional assignments displayed.\n\nThis structured visual summary consolidates the lesson's key concepts, with the teacher's actions emphasizing the transition from detailed discussion to final review.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displayed on the screen, featuring a header \"生産・仕事・実習\" and a central text box summarizing key concepts. The teacher approaches the blackboard and erases the previously drawn triangle, signaling the conclusion of that topic. He then directs attention to the slide, likely using gestures to emphasize the main points within the text box. Although no explicit homework or next-step instructions are visible, the teacher's focus on the slide suggests a final review of the lesson's core ideas, visually wrapping up the session with a structured summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Equality Between Spouses",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Traditional Gender Roles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Individual Freedom",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Social Activities Participation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Community Role Playing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Spousal Conflict Resolution",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c7",
+        "label": "Knowledge Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "c8",
+        "label": "Chinese Cultural Tradition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[417.7773 -> 474.64]"
+      },
+      {
+        "id": "v1",
+        "label": "Equality Summary Slide",
+        "type": "Visual",
+        "original_text": "Production, Work, Internship discussing equality between spouses and traditional gender roles.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Erases Triangle",
+        "type": "Visual",
+        "original_text": "Teacher erases previously drawn triangle, signaling end of the topic.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The slide reinforces the concept of equality between spouses."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Traditional roles are contrasted with the principle of equality."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Freedom is part of achieving equality."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Participating in social activities demonstrates individual freedom."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Role playing aids in resolving conflicts."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Applying knowledge in practice involves resolving conflicts."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "Erasing the triangle concludes the discussion on cultural traditions."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The slide visually supports the application of knowledge."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Discussions prompt students to consider the impact of culture on roles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,139 @@
+{
+  "video_name": "14_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Be able to infer the relevant laws of Earth’s rotation from geographical phenomena.",
+  "transcript": "[593.78 -> 700.62] 现在是吃了吃了好时间到我们请这位同学来跟我们分享一下你得出的结论在不同的纬度的话它们的角速度应该是相同的但是线速的话应该是要取决于它们相对于地心的那个直径长度角速度是相同的你从哪里得出来这个结论因为它们是在同一个面上其实在地球的线速度和角速度的示意图上我们也能够看到每一个纬线线圈当中它都有十五度每时的脚速度那线速度呢是怎么得出的好它是通过路程去处以处以时间去得到的速度如果大家没有头绪我们可以根据单位进行相应的计算好这里呢我们就不给接下来的这些详细的数据由此我们可以得出以上以下三点结论第一点是地球自转的角速度约为十五度每时第二是地球除了表面南北脊梁脊点外任何地点的自转角速度都相同好我们再来看线速度刚刚我们只是明确了如何计算那它在地球表面南北方向的分异规律是什么呢这位同学好非常棒这就是地球地球自转的线速度由赤道向两极递进刚刚老师不是给大家讲来到这里的时候失眠吗这位同学也说了有就业变化的相应的规律这其实是地球自转的地理意义如果我们想知道地球自转地理意义背后的相应的逻辑机制我们就放到下这一课来学习今天我们就通过地理现象去推导了地理规律地理实践力当中非常重要的表现也可以通过这一模式进行地球公转及其相关地理意义的学习我的授课到此结束同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen, featuring two images: a photograph of Earth and a diagram of Earth's rotation.\n   - The slide is titled \"【探究问题】地球自转的地理意义\" (Investigation Question: The Geographical Significance of Earth's Rotation).\n   - The layout includes a large image of Earth on the left and a diagram with grid lines and arrows on the right, indicating Earth's rotation and its effects.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes the title \"【探究问题】地球自转的地理意义\" (Investigation Question: The Geographical Significance of Earth's Rotation).\n   - The diagram on the right shows Earth's rotation with grid lines and arrows, illustrating the concept of rotation and its geographical implications.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the right, likely explaining the significance of Earth's rotation as depicted by the arrows and grid lines.\n   - The teacher gestures towards the image of Earth, possibly emphasizing the visual representation of the planet in relation to the diagram.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on the summary slide, suggesting a conclusion to the lesson without immediate transition to next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"【探究问题】地球自转的地理意义\" (Investigation Question: The Geographical Significance of Earth's Rotation), featuring a photograph of Earth and a diagram illustrating Earth's rotation. The teacher points to the diagram on the right, emphasizing the arrows and grid lines that depict the rotation's effects. He gestures towards the image of Earth, reinforcing the visual connection between the planet and the rotational concept. The teacher's movements focus on key elements of the diagram, ensuring students visually grasp the core takeaway of Earth's rotation significance. No homework or next-step instructions are visible, indicating a clear conclusion to the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Earth Rotation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Angle Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Linear Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Geographical Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "c5",
+        "label": "15 Degrees per Hour",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Variation in Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Equator to Poles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[593.78 -> 700.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Earth Photograph",
+        "type": "Visual",
+        "original_text": "Photograph of Earth",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Earth's Rotation Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of Earth's rotation with grid lines and arrows",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Sharing Conclusion",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram visually represents the rotation of the Earth."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Angle velocity is a key aspect of the concept of Earth's rotation."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Linear velocity is another aspect illustrating the effects of Earth's rotation."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Understanding Earth's rotation is fundamental to grasping its geographical significance."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The specific angle velocity mentioned is 15 degrees per hour."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Variations in linear velocity are explained by the concept of linear velocity."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Velocity variation from equator to poles explains linear velocity differences."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The photograph of Earth is complemented by the rotation diagram, enhancing understanding."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Student shares personal conclusion related to the geographical significance."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

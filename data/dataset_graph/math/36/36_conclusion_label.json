@@ -1,0 +1,183 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the correlation between variables and how to model it; master the basic form and applications of the simple linear regression model.",
+  "transcript": "[550.62 -> 609.98] 还有在儿子的身高相同的时候父亲的身高也不同对在儿子的身高相同的时候老师刚开始就看反了所以先看到了儿子身高相同都是一米七的时候父亲的身高是不同的所以他们是不能够用函数模型来看的来刻画回答得准确请坐那下面请同学们思考我们可以用哪个函数来刻画吗根据我们在上课时提问的它的分布大概呈现怎样的情况好我们请这位同学来分享一下你的结果我们可以用一次函数可以简单谈谈你的思路吗它大致是呈现性关系的但是又不是严格的正相关所以我们也可以添加其他的误差项这是我的想法这位同学还要给我们拓展一些知识请坐。\n[612.3 -> 708.98] 思考我们在现实生活中对于儿子身高的影响因素父亲高儿子一定高吗对的是不一定那么对于身高还有哪些影响因素呢结合你的生活实力好我们请这位男生我觉得还有母亲的身高对母亲的身高还有一些生活因素还有吗还有饮食习惯对还有你的饮食习惯早睡早起等等请坐那至此我们也可以用这个函数来刻画这种关系我们也就得到了一元线性回归模型如图所示在这个函数中我们用我们用X来表示父亲的身高第二个呢我们用其中的外来表示儿子的身份其中的E呢就是它的随机误差就是我们刚才提到的其他五官的影响因素。\n[722.12 -> 753.1] 在这个式子里我们假定它的随机误差异的均值为零它的方差为与父亲身高无关的定值S方那这样的式子我们就把它称为Y关于X的一元线性回归模型下面请同学们观察这个回归模型体现感受它们每个量好开始时间到。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key points written in white chalk.\n   - The layout includes a list of bullet points on the left side of the blackboard, next to the title \"一元线性回归模型\" (Simple Linear Regression Model).\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings visible on the blackboard are:\n     - 公式推导 (Formula Derivation)\n     - Y 的平方差 (Square Difference of Y)\n     - Y 的随机误差 (Random Error of Y)\n   - The screen displays the formula:\n     \\[\n     Y = \\beta_0 + \\beta_1 X + \\epsilon\n     \\]\n     with the conditions:\n     \\[\n     E(\\epsilon) = 0, \\quad D(\\epsilon) = \\sigma^2 \\neq 0\n     \\]\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the blackboard in order, emphasizing the key components of the lesson.\n   - The teacher gestures towards the formula on the screen, highlighting the structure of the linear regression model and the conditions for the error term.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in this segment. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the Simple Linear Regression Model. The teacher visually reviews the content by pointing to each bullet point in sequence, briefly pausing on the final formula displayed on the screen. The core takeaway is emphasized through gestures directed at the regression equation and its conditions. There is no visual handover to homework or next steps in this segment, maintaining focus on the summarized key points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Linear Regression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[550.62 -> 753.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Formula Derivation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[550.62 -> 753.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Random Error Y",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[550.62 -> 753.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Square Difference Y",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[550.62 -> 753.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Regression Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[722.12 -> 753.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Expected Error Zero",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[722.12 -> 753.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Variance Not Zero",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[722.12 -> 753.1]"
+      },
+      {
+        "id": "c8",
+        "label": "Father's Height",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[612.3 -> 753.1]"
+      },
+      {
+        "id": "c9",
+        "label": "Son's Height",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[612.3 -> 753.1]"
+      },
+      {
+        "id": "c10",
+        "label": "Mother's Height",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[612.3 -> 753.1]"
+      },
+      {
+        "id": "c11",
+        "label": "Lifestyle Factors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[612.3 -> 753.1]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[612.3 -> 708.98]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Reflecting",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[722.12 -> 753.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Summary of Simple Linear Regression Model with bullet points and formulas",
+        "ocr_corrected": true,
+        "timestamp": "[550.62 -> 753.1]"
+      },
+      {
+        "id": "v2",
+        "label": "Regression Formula on Screen",
+        "type": "Visual",
+        "original_text": "Y = β0 + β1X + ε with conditions E(ε) = 0, D(ε) = σ²",
+        "ocr_corrected": true,
+        "timestamp": "[722.12 -> 753.1]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The concept of Simple Linear Regression is built upon the procedure of deriving the formula."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The blackboard summary visually represents the procedure of formula derivation."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The regression formula is visually emphasized on the screen."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The concept of Random Error Y includes the principle that expected error is zero."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The principle that variance is not zero is part of the concept of Random Error Y."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Son’s height may be influenced by father’s height as part of a linear model."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Son’s height is also influenced by mother’s height."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Son’s height is influenced by lifestyle factors."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher prompts students to think about the simple linear regression model."
+      },
+      {
+        "source": "c5",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "The presentation of the regression equation encourages student reflection."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

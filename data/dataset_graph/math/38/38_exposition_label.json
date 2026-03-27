@@ -1,0 +1,145 @@
+{
+  "video_name": "38_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Be able to identify the variables and constants in a real problem and choose an appropriate function type to construct a model.; Understand how to solve real‑world problems through a mathematical model and verify the reasonableness of the results.",
+  "transcript": "[143.4 -> 162.22] 下面是我的授课环节。\n[173.4 -> 201.52] 下面我们开始上课同学们在前面我们已经学习了密函数指数函数和对数函数这些函数的模型问题那么我们是从实际问题中抽象出这些函数模型我们又将这些函数模型又应用到这个实际问题中那么这节课我们就统一地来学习建立模型建立函数模型解决实际问题。\n[203.4 -> 272.02] 那么我们知道在学习函数的时候用函数构建数学模型解决实际问题的时候我们首先是要对实际问题中的变化过程进行分析对不对然后根据分析我们得出变量常量以及其中的相互关系对吧那么我们根据分析的过程我们又根据分析的结果来选择合适的函数类型那么根据这个函数类型我们就可以构建一个数学模型。\n[273.04 -> 308.94] 那么对于这个数学模型来说我们将实际问题转化为了我们所学的数学问题再通过运算推理求解得出函数的模型那么最后利用函数模型的解来说明实际问题的变化规律从而达到解决问题的目的那么下面我们就先来看一个实际情境来通过这样的步骤来解决一个实际问题首先我们来观察实际情境发现和提出问题。\n[314.4 -> 388.94] 那么我们我们来看中国茶文化博大精深茶水的口感与茶叶的类型和水的温度有关经调查表明某种绿茶用八十五摄氏度的水泡制再等到茶水降温至六十摄氏度饮用可以产生最佳口感那么在二十摄氏度的室温下刚好泡好的茶水大约需要放置多长时间才能达到这个那我们观察这个实际问题我们发现不能很容易地解决那么如果我们构造一个函数模型是不是就可以解决这个实际问题。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"情境情境\" (Context Situation).\n- The slide contains text about establishing a mathematical model to solve practical problems.\n- The teacher gestures towards the screen, emphasizing the importance of the slide content.\n\n**Middle:**\n- The teacher writes \"建立数学模型解决实际问题\" (Establish a mathematical model to solve practical problems) on the chalkboard.\n- She then points to the screen, which now displays a flowchart with steps for establishing a mathematical model.\n- The teacher uses hand gestures to highlight the flowchart's steps, indicating the process from problem identification to model establishment.\n\n**End:**\n- The teacher writes \"1. 观察情景 提出数学问题\" (1. Observe the situation, propose a mathematical problem) on the chalkboard.\n- She continues to reference the screen, which now shows detailed research objectives related to the mathematical modeling process.\n- The teacher uses her finger to trace specific parts of the text on the screen, ensuring students follow along.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the flowchart and research objectives related to mathematical modeling.\n- The initial state of the screen includes a red and white color scheme with structured text and diagrams.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes key phrases on the chalkboard, such as \"建立数学模型解决实际问题\" and \"观察情景 提出数学问题,\" while explaining the concepts.\n- **Modifications**: The teacher does not erase any content but adds to the existing text on the board.\n- **Deictic Gestures**: When explaining the flowchart, the teacher points to specific steps, such as the transition from problem identification to model establishment.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses red chalk to write on the board, creating visual emphasis on key phrases.\n- She gestures towards the screen, using her hand to underline or circle important points on the digital content.\n- The flowchart on the screen uses arrows and boxes to visually guide the process, which the teacher references throughout her explanation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a structured flowchart titled \"情境情境\" (Context Situation), outlining the process of establishing a mathematical model to solve practical problems. The teacher began by writing \"建立数学模型解决实际问题\" (Establish a mathematical model to solve practical problems) on the chalkboard, constructing a foundational concept for the lesson. She then derived the steps from the flowchart, pointing to each segment to illustrate the transition from problem identification to model establishment. The teacher annotated the board with \"1. 观察情景 提出数学问题\" (1. Observe the situation, propose a mathematical problem), aligning her verbal explanations with visual cues. Throughout, she resolved deixis by tracing specific steps on the flowchart, such as highlighting the problem identification phase to emphasize its importance. To capture emphasis, she used red chalk to circle key phrases on the board and gestured towards the screen, underlining critical objectives. This visual strategy reduced cognitive load by synchronizing board annotations with digital content, guiding students through the modeling process seamlessly. Finally, she reinforced the concepts by circling the final objectives on the screen, ensuring students grasped the comprehensive approach to mathematical modeling.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Variables Identification",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[203.4 -> 272.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Constants in Problems",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[203.4 -> 272.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Function Type Selection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[203.4 -> 272.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Mathematical Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[203.4 -> 272.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Model Verification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[203.4 -> 272.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Practical Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[203.4 -> 272.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Context Situation",
+        "type": "Visual",
+        "original_text": "Slide shows process of establishing mathematical model",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Flowchart Steps",
+        "type": "Visual",
+        "original_text": "Flowchart with steps from problem identification to model establishment",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Tea Temperature Problem",
+        "type": "Visual",
+        "original_text": "Screen displays tea temperature problem statement",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Function type selection builds upon the identification of variables."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Function type selection builds upon the identification of constants."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Building a mathematical model evolves from choosing the appropriate function type."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Verification of the model evolves from its construction."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Solving practical problems evolves from verifying the model."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "The context situation visual scaffolds understanding of the flowchart steps."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Flowchart visually emphasizes the process of function type selection."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Tea temperature problem visualizes a practical application of model construction."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students' thinking about identifying variables."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Guides discussion on solving practical problems using models."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

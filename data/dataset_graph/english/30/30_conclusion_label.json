@@ -1,0 +1,177 @@
+{
+  "video_name": "30_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to introduce various festivals and their cultural backgrounds; be able to accurately describe festival foods and recipes in English.",
+  "transcript": "[602.04 -> 628.78] 我对这个演讲非常感兴趣因为我从来没有了解这个节目的理解我没有发现任何的语言错误所以你认为她的表演非常好看吧你也很感激她的表演吧好的谢谢你的提示谢谢你。\n[630.38 -> 641.4] 那么让我们来做个总结整个课程吧首先我们可以介绍我们以前学过的节日吧。\n[642.72 -> 645.74] 以及我们想介绍的节日的各方面吧。\n[649.6 -> 699.74] 去控制你的语言点和选择的你应该在六个组合里面做一个图片关于某种节日饮食的食谱你现在清楚了吗好的今天课完结束了这就是我今天的课程谢谢您的。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"Step 5: Summary.\"\n   - The slide layout includes two sections:\n     - \"Festivals we learned before\"\n     - \"What should we cover when we introduce a festival\"\n\n2. **Key Knowledge Items (Content View)**:\n   - On the slide:\n     - \"Festivals we learned before\"\n     - \"What should we cover when we introduce a festival\"\n   - On the blackboard:\n     - \"Unit 1 Festivals and celebrations\"\n     - \"Date\"\n     - \"Aspects\"\n     - \"Activities\"\n     - \"Customs\"\n     - \"Special food/phone\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting \"Date,\" \"Aspects,\" \"Activities,\" \"Customs,\" and \"Special food/phone.\"\n   - The teacher gestures towards the slide, emphasizing the sections \"Festivals we learned before\" and \"What should we cover when we introduce a festival.\"\n\n4. **Transition to Next Step**:\n   - A slide titled \"Step 6: Homework\" appears, indicating the next steps:\n     - \"Homework: Complete the survey after class to consolidate the language points, and correct main information about a certain festival.\"\n     - \"Optional: You can work as a group to make a poster about a certain festival food/ridge.\"\n   - The final slide displays \"Unit 1 Festivals and celebrations\" with \"Reviewing your progress\" and \"Thanks for your attention,\" signaling the end of the lesson.",
+  "visual_narrative": "The class ends with a slide titled \"Step 5: Summary,\" featuring two sections: \"Festivals we learned before\" and \"What should we cover when we introduce a festival.\" The teacher visually reviews these points by pointing to the blackboard, highlighting key terms such as \"Date,\" \"Aspects,\" \"Activities,\" \"Customs,\" and \"Special food/phone.\" She emphasizes these elements with deliberate gestures, ensuring each aspect is clearly noted. The final emphasis is placed on the comprehensive list of festival components, reinforcing the core takeaway. Transitioning to the next task, the last slide titled \"Step 6: Homework\" appears, detailing the assignment to complete a survey and an optional group poster project. The lesson concludes with a slide thanking the class for their attention, visually marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Festivals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.38 -> 641.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Cultural Backgrounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.38 -> 641.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Food Descriptions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[630.38 -> 641.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Festivals Learned",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[642.72 -> 645.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Festival Aspects",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[642.72 -> 645.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Date",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[642.72 -> 645.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[642.72 -> 645.74]"
+      },
+      {
+        "id": "c8",
+        "label": "Customs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[642.72 -> 645.74]"
+      },
+      {
+        "id": "c9",
+        "label": "Special Food",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[642.72 -> 645.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Step 5: Summary'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Highlights",
+        "type": "Visual",
+        "original_text": "Contents: Date, Aspects, Activities, Customs, Special Food/Phone",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Festivals include information about cultural backgrounds."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Festivals can include descriptions of foods and their recipes."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide summarizes festivals learned before."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Festival aspects include the date of the festival."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Festival aspects include activities associated with it."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Festival aspects include customs practiced during the festival."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Festival aspects include special food prepared for the festival."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The summary slide emphasizes key aspects shown on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard visually represents the concept of the festival date."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes the activities related to the festival."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes festival customs."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes special food related to the festival."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "The summary slide engages students by reviewing the lesson's content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,173 @@
+{
+  "video_name": "7_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic principles of radio wave transmission and reception; master the critical role of frequency in information transfer; comprehend the differences between amplitude modulation and frequency modulation and their applications.",
+  "transcript": "[150.0 -> 226.48] 在我国有一段看了一段文章的文章里面有一个文章是什么呢是什么那是抗日战争的历史相信同学们都看过许多关于抗战题材的影视剧那么在抗战题材的影视剧中我们每每都对日寇对在中华大地制造的恶行感到深恶痛绝但是同学们有没有观察发现在抗日战争中有一个非常重要的工具就是无线电台它对于我们的战士传递信息起着非常关键的作用那么无线电台它是如何传递信息其中就要提到里面的LC震荡带电路中的电容器那么这么一个小小的电容器它要怎么样才能有效地发射我们的无线电波呢好我们就带着这个问题走进我们本节课的学习。\n[228.04 -> 278.28] 那么我们就要从无线电波的发射和接收两个方面进行去看首先我们来看无线电波的发射同学们想一下你在睡觉的时候在你睡觉的时候你耳边有一只蝴蝶在你耳边飞来飞去你想想你能睡着吗应该是可以的吧但如果有一只蚊子在你耳边飞来飞去你肯定会特别特别的烦躁这是怎么办打死它对不对但是为什么蝴蝶在你旁边飞你睡得着而蚊子在你旁边飞你却睡不着呢思考一下这个问题对是因为它们振动的频率不同蝴蝶翅膀振动的频率较低只有五赫兹而蚊子翅膀振动的频率却是比较高的有五百赫兹。\n[281.8 -> 445.36] 那么振动频率我们在初中就学习过声音可以传递信息对不对那么这个振动频率是不是不同频率的不同的振动频率就给我们传递了不同的信息或者说让我们接收到了不同的信息对同学们可以思考讨论一下结合教材我们想一下我们小小的无线电是怎么在这里把信息传递到千里之外的战友身上的呢阅读教材分组讨论一下这里就要提好同学们相信你们都有一定的自己的讨论结果了同学们有没有哪位同学可以回答一下无线电它要发射需要有什么样的特点好这位同学你来说说电磁波的频率要和正当电路中的频率相同非常好请坐电磁波的频率要与正当电路中的电磁正当频率相同这是一个观点但是不是它的所需要的特点呢同学们回思考一下刚刚我们在蚊子和蝴蝶的问题中我们可以看到较低的震荡频率我们并不能接收到它的信息对不对但是较高的蚊子伤中较高频率的蚊子它伤动翅膀我们却能接收到信息那么我们传递信息是不是会有一些特点需要什么足够高的震荡频率非常好这就是我们无线电波发射的第一个特点那么是只有频率足够高我们就能接收到信号了吗想一下可能也不能还是刚刚蚊子和蝴蝶的例子如果一个蚊子你在房间里睡觉蚊子在客厅里上是吧它会影响你睡眠吗不会影响你睡眠对不对好我们看到其实我们以前学习过无线电波也就是电磁波它的传递需要一个介质什么介质或者说需要一个场的东西需要什么场看下书或者自己思考一下回忆一下以前的内容。\n[446.6 -> 482.9] 对需要电厂和磁场那么假设我在传播过程中我的电厂只有那么小小一块我的磁场只有那么小小一块我在广州我需要把我的信息传递到浙江但是我的电厂和磁场只有那么小一块能传递过来吗不能对吧就需要我们足够大的分散到尽可能大的空间这就是我们无线电波的发射的特点之二正大电路的电厂和磁场必须分三章尽可能大的空间才能完成我们对信息的传递。\n[493.1 -> 503.5] 那么这就是要提到的问题了我们在开头的时候提到无线电只是里面一个小小的电容器。\n[504.6 -> 508.036] 要怎么样去改造这个电容器才能达到需要的目的呢就是完成这个特点我们思考一下我们在必修三中学习的知识电容器它怎么样才能扩大它的变差或者扩大它的一些相应的需要的特点呢我们思考一下发现只要将电容器增大电容器的基板也就是将两个基板拉开减小基板的正对面积我们就可以做到以上这个特点了好我们把教材翻过来我们看到在电容系的外部我们了解一下一直听老师说正当电路到底是什么呢我们来看一下教材说使电场和磁场扩展到电容的外部这样的正当电路叫做开放电路甚至可以隐化为一条导线这样就可以有效地将电子波发射出去了这样是不是就达到了我们的第二个特点将正当电路电场必须分散到尽量大的空间才能做到像老师刚刚说的将我要的信息从广州传递到京华这个地方非常好并且呢我们还为这种还为了完成我们的电磁波的发射我们除了知道它的特点还需要一定的技术对吧那么需要什么技术呢来我们来看一看发射技术首先有第一点技术叫做调制技术目的是为了使高为了利用电磁波传递的信号如声音传递电像传递就是让高频的电磁波随着被传递的信号的改变而在而用来携带信号的高频电磁波叫做载波在电磁波发射技术是载波注意是载波随各种信号而改变的技术叫做调制你们可以看到教程上有画起来并速化笔记下面还有另外一种技术叫做调幅注意两者的区别是电磁波是高频电磁波的振幅随信号的强弱而变的技术叫做调幅而上面这种是载波随各种信号而变的技术叫做调制是主力两者的区别以及它们凭证上的区别那么除了这种技术还有第三种技术它称之为一个调频而调频这种技术呢它是使高频电磁波的频率随信号的强弱而变的改变上面调幅指的是证是使证幅而调频呢是使频率像刚刚也听到同学有同学已经学会抢答了非常好啊好我们再来看下一个内容无线电的接收。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The screen displays the title \"无线电波的发射和接收\" (Transmission and Reception of Radio Waves).\n- The teacher writes on the chalkboard, starting with the title \"无线电波的发射和接收\" and then adds \"特点\" (Characteristics).\n- The teacher gestures towards the screen, which shows a diagram of a radio wave transmitter and receiver.\n\n**Middle:**\n- The teacher points to the screen, which now displays a question about the characteristics of radio waves. The screen shows a diagram with a transmitter and receiver, and text in Chinese.\n- The teacher writes \"特点一\" (Characteristic One) on the chalkboard.\n- The teacher continues to explain, using hand gestures to emphasize points, while the screen shows a blank slide with the title \"无线电波的发射和接收\".\n\n**End:**\n- The teacher writes \"特点一\" on the chalkboard and turns to the screen, which now displays a diagram with two concentric circles labeled \"电场\" (Electric Field) and \"磁场\" (Magnetic Field).\n- The teacher points to the diagram on the screen, explaining the relationship between the electric and magnetic fields in radio waves.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying diagrams related to radio wave transmission and reception. Initially, it shows a simple diagram of a transmitter and receiver, then transitions to a question slide, and finally to a diagram illustrating electric and magnetic fields.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"特点一\" on the chalkboard while explaining the first characteristic of radio waves.\n- **Modifications**: The screen transitions from a question slide to a diagram of electric and magnetic fields, indicating a shift in the topic being discussed.\n- **Deictic Gestures**: The teacher points to the diagram on the screen, specifically highlighting the electric and magnetic field components.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses the chalkboard to list characteristics, starting with \"特点一\" to organize the information.\n- The screen's diagrams are used to visually emphasize the concepts being discussed, with the final diagram clearly labeling the electric and magnetic fields to illustrate their roles in radio wave propagation.",
+  "visual_narrative": "Initially, the digital screen displayed the title \"无线电波的发射和接收\" (Transmission and Reception of Radio Waves), establishing the foundational topic. The teacher began by writing the title on the chalkboard, aligning the physical and digital visual anchors. As the lecture progressed, the screen transitioned to a diagram illustrating a basic radio wave setup, with the teacher pointing to specific components to explain their functions. The teacher then constructed the concept of radio wave characteristics by writing \"特点一\" (Characteristic One) on the board, signaling the start of a structured breakdown. The screen evolved to show a question slide, prompting critical thinking about radio wave properties. Finally, the teacher annotated the screen's diagram of electric and magnetic fields, tracing the concentric circles to highlight their interaction. This visual emphasis on the fields' roles in wave propagation reduced cognitive load by providing clear, step-by-step visual cues, ensuring students could follow the progression from basic concepts to detailed characteristics.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Radio Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[150.0 -> 226.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Amplitude Modulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[504.6 -> 508.036]"
+      },
+      {
+        "id": "c3",
+        "label": "Frequency Modulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[504.6 -> 508.036]"
+      },
+      {
+        "id": "c4",
+        "label": "Electromagnetic Fields",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[446.6 -> 482.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Oscillation Frequency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[281.8 -> 445.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Transmission",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[228.04 -> 278.28]"
+      },
+      {
+        "id": "c7",
+        "label": "Reception",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[228.04 -> 278.28]"
+      },
+      {
+        "id": "c8",
+        "label": "Resonant Circuit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[281.8 -> 445.36]"
+      },
+      {
+        "id": "c9",
+        "label": "Carrier Wave",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[504.6 -> 508.036]"
+      },
+      {
+        "id": "c10",
+        "label": "Cognitive Load",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[281.8 -> 445.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Transmission Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of radio wave transmitter and receiver.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Characteristics Board",
+        "type": "Visual",
+        "original_text": "Chalkboard listing 'Characteristic One'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Fields Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with electric and magnetic fields labeled.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Emphasizes understanding of basic radio wave setup."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Includes frequency importance within resonant circuits."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Visualizes interaction between electric and magnetic fields."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Describes procedures essential for effective transmission and reception."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Compares modulation methods."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Describes that modulation evolves from carrier wave principles."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "Summarizes characteristics of radio waves on chalkboard."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Scaffolds understanding of fields' roles in propagation."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Prompts critical thinking regarding frequency roles."
+      },
+      {
+        "source": "c10",
+        "target": "v3",
+        "relation": "addresses_misconception",
+        "intent": "Addresses cognitive load by providing clear diagrams of complex concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

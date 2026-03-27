@@ -1,0 +1,146 @@
+{
+  "video_name": "19_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the relationship between the sequencing of teaching materials and students' cognitive patterns; master methods for supplementing textbook content to refine conceptual extensions; learn to design practical activities using teaching material resources.",
+  "transcript": "[0.0 -> 120.66] 一个教材中它的顺序教材的顺序安排是根据学生的认知规律进行设计的而教教师在教学当中应该根据教材中的顺序进行课程的教学并且合理利用教材中的素材支撑比如说图片文字利用思考讨论中的问题组织学生引导培养学生的和生命观念科学思维等核心素养而教教师在使用教材时也需要在教材的基础上进行创新比如说在知识深度方面教材中有的时候仅仅只列举了一个具体的概念但有的时候为了让学生对概念有完整的认知教师需要补充概念的外延比如说细胞分化教材中只仅仅体现了一个生物在产生的后代在形态结构和生理功能上发生稳定性差异的过程但是学生要正确认知细胞分化还需要补充细胞分化的特点并且教师还可以合理利用教材中的素材进行实践活动比如说在碳比较固氧化氢在不同条件下的分解速率时教师可以组织学生讨论进行实验优化氧气产生的现象不够明显教师可以组织学生让学生对实验现象做出更明显的实验设计最后教师可以合理利用教材组织实践活动",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is a digital image of a plant displayed on the screen. The image is part of a webpage or document shown on the interactive whiteboard.\n\n#### 2. **The Title Event**\n- **Title on the Board**: The title written on the green chalkboard is in Chinese characters: \"生物化学与分子生物学\" (Biochemistry and Molecular Biology).\n- **Teacher's Action**: The title is written in green chalk on the left side of the board. There is no indication of underlining or additional emphasis in the frames provided.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the board or screen in the provided frames.\n\n#### 4. **Key Gestures**\n- **Gestures**: The teacher is holding papers and occasionally gesturing with her hands. Specific gestures include:\n  - Holding papers while speaking.\n  - Using hand movements to emphasize points, though no direct pointing at the board or screen is visible in the frames.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Teacher's Position**: The teacher stands in front of the green chalkboard and interactive whiteboard.\n- **Board Content**: The title \"生物化学与分子生物学\" is written on the left side of the chalkboard.\n- **Screen Content**: The screen displays a webpage or document with text and an image of a plant.\n\n#### Middle\n- **Teacher's Actions**: The teacher continues to speak, holding papers and using hand gestures to emphasize points.\n- **Board Content**: No changes to the board content are observed.\n- **Screen Content**: The screen remains static, displaying the same webpage or document with the plant image.\n\n#### End\n- **Teacher's Actions**: The teacher maintains her position, continuing to speak and gesture with the papers.\n- **Board Content**: The title remains unchanged on the board.\n- **Screen Content**: The screen continues to display the same content without any visible changes.\n\n### Summary\nThe introduction phase of the lesson begins with the teacher presenting in front of a chalkboard and interactive whiteboard. The hook object is a digital image of a plant on the screen. The title \"生物化学与分子生物学\" is written on the board. Throughout the introduction, the teacher uses hand gestures while holding papers, but no specific pointing or emphasis on the board or screen is observed. The visual content remains static, focusing on the introduction of the topic.",
+  "visual_narrative": "Initially, the screen presents a digital image of a plant, serving as the hook to engage the students. To bridge to the topic, the teacher stands in front of the green chalkboard, holding papers and using hand gestures to emphasize points. The visual focus then shifts to the title \"生物化学与分子生物学\" written on the board, establishing the lesson goal. Throughout the introduction, the teacher maintains a connection to the visual aids by occasionally gesturing towards the screen and board, ensuring the students' attention is directed towards the foundational concepts of biochemistry and molecular biology. This structured approach helps link the visual stimuli to the students' existing knowledge, setting the stage for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Teaching Material Sequencing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Students' Cognitive Patterns",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Plant Image on Screen",
+        "type": "Visual",
+        "original_text": "A digital plant image displayed on the interactive whiteboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title on Board",
+        "type": "Visual",
+        "original_text": "Biochemistry and Molecular Biology written in green chalk",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students' Initial Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c3",
+        "label": "Conceptual Extensions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Supplement Textbook Content",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Design Practical Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Core Literacy Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Cell Differentiation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.66]"
+      },
+      {
+        "id": "c8",
+        "label": "Biology Textbook",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.66]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The digital plant image catches students' interest, engaging them at the beginning of the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The board title provides a visual anchor for the lesson's subject, biochemistry and molecular biology."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The sequencing of teaching material builds upon students' cognitive patterns for effective learning."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Supplementing textbook content evolves from the need for effective teaching material sequencing."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Conceptual extensions include the supplementation of textbook content for deeper understanding."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Designing practical activities includes supplementing textbook content to connect theory with practice."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Core literacy development builds upon conceptual extensions to enhance student learning capabilities."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Understanding cell differentiation is built upon the biology textbook's content."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Supplementing textbook content with cell differentiation concepts evolves from the textbook's limitations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

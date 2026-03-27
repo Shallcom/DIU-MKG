@@ -1,0 +1,138 @@
+{
+  "video_name": "23_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the relationship between probability and frequency; verify the randomness and tendency of frequency through experimentation; master the basic concepts and applications of the law of large numbers.",
+  "transcript": "[304.78 -> 312.32] 好请这位同学你来回答一下概率的频率的大小是否决定了概率的大小呢。\n[313.64 -> 353.62] 我觉得频率的大小影响了概率的大小嘛影响了概率的大小很好你请坐那请这位同学你来回答一下你是什么样的观点呢你觉得频率它能够一定程度上反映概率就是反映概率它可能存在着一定的波动然后就会影响概率的一个变化情况很好来再请这位同学你也来回答一下我认为频率是随机的但是概率是确定的频率是随机的概率是确定的很好请坐。\n[355.72 -> 377.34] 这样看来同学们对于这个问题都保持着不同的看法那么也就是说频率与概率它们之间的具体关系到底是怎么样的呢是频率决定了概率还是概率决定了频率还是它们之间有什么相互联系我们今天就不妨用一些实验来进行研究一下。\n[378.84 -> 409.32] 我们重复地去同时投掷两枚相同的硬币我们可以选取这个他们假设是两枚相同的一并我们把事件A设为是一个正面朝上和一个反面朝上统计这个事件A出现的频率情况并与其的概率进行比较你能发现什么样的规律来下面就请同学们动手用手中的教学工具来进行做一做。\n[415.72 -> 433.78] 通过分析我们知道这个系列的概率很显然它是二分之一。\n[435.32 -> 486.26] 那么它的频率呢通过不同的实验不同的探究频率似乎是不一样的这样的我们来看这样一个步骤通过这样的步骤把相应的结果填写在这个表格中同学们可以利用手中的工具来进行然后老师用计算机模拟了一下我们可以得到这样如图所示的结果我们发现我们观察这个得到的结果从纵列观察我们可以发现什么这是对于发生的实验的次数是一样的我们观察频数是不一样的跟刚刚有同学说的是不是有些吻合。\n[487.92 -> 510.12] 再观察这一个发现频率也是不一样的那么我们能不能从这个表格中抽象得出一条简单的结论也就是说试验次数虽然相同但是我们这项试验发生的频率是不一定相同的。\n[511.3 -> 535.66] 这说明了什么说明了我们的频率具有随机性也就是说我任意地去投这个它得到的结果是不确定的好我们来介绍频率随机性。\n[539.32 -> 555.62] 那么在这个随机性的过程中有没有确定的东西呢我们再来观察观察我们不妨把这个图表转化成另一种形式我们来画出画出这样的波动图。\n[556.74 -> 559.48] 大家再来观察一下这三个图片。\n[560.8 -> 562.26] 你能发现什么规律呢。\n[564.04 -> 621.38] 好请这位同学来回答一下观察这幅图片我发现随着N的增大它的波动幅度在变小随着N的增大波动幅度在变小可以再描述一下它的波动幅度就是它趋近于什么地方吗趋近于零五很好那零五是我们这个事件发生的概率很好请坐那通过这位同学的观察呀很仔细啊我们发现它的频率随着时间次数的增多它的波动程度是越来越小的并且也是趋近于我们的概率那么可以得出相应的结论那么对通过刚刚的实验探究分析我们在不确定中找到了一种确定性的是什么呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the probability formula displayed on the blackboard: $P(A) = \\frac{1}{6}$. This formula was written in white chalk, clearly visible against the green background.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the formula $P(A) = \\frac{1}{6}$ on the blackboard, reinforcing the key concept being discussed. The teacher also gestured towards the data table on the screen, highlighting specific entries to guide the student's understanding.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation. The teacher then drew a small checkmark next to the formula $P(A) = \\frac{1}{6}$ on the blackboard, visually confirming the correctness of the student's input. Additionally, the teacher pointed to the graph on the screen, emphasizing the trend line to illustrate the concept of frequency stability.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Focus shifts to the formula $P(A) = \\frac{1}{6}$ on the blackboard.\n\n- **Middle:**\n  - Teacher points to $P(A) = \\frac{1}{6}$ while a student speaks.\n  - Teacher gestures to the data table on the screen, highlighting specific entries.\n\n- **End:**\n  - Teacher nods and smiles, providing non-verbal feedback.\n  - Teacher draws a checkmark next to $P(A) = \\frac{1}{6}$.\n  - Teacher points to the graph, emphasizing the trend line.\n\nThis structured visual interaction effectively co-constructs knowledge, linking gestures and board content to guide student understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the probability formula $P(A) = \\frac{1}{6}$, a key concept for the lesson. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. This broad motion signaled the start of an interactive segment, focusing attention on the formula and the data table displayed on the screen.\n\nAs a student began to explain their reasoning, the teacher walked over to the board and pointed directly to $P(A) = \\frac{1}{6}$, reinforcing the central concept. The teacher then gestured towards the data table on the screen, highlighting specific entries to guide the student's explanation. This movement helped bridge the student's thoughts with the visual data, providing real-time scaffolding.\n\nTo validate the student's input, the teacher gave a distinct nod and drew a checkmark next to the formula $P(A) = \\frac{1}{6}$ on the blackboard. This visual confirmation was followed by pointing to the graph on the screen, emphasizing the trend line to illustrate frequency stability. The teacher then drew an arrow connecting the student's correct answer back to the main theorem, linking their response to the core lesson content.\n\nThroughout this process, the teacher's gestures transformed passive reception into active construction. By visually connecting the student's explanation to the formula and data, the teacher facilitated a deeper understanding, encouraging students to actively engage with and construct their own knowledge.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Probability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[304.78 -> 312.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Frequency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[313.64 -> 353.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Law of Large Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[355.72 -> 377.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Randomness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[511.3 -> 535.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Stability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[564.04 -> 621.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Probability Formula",
+        "type": "Visual",
+        "original_text": "P(A) = 1/6",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Data Table",
+        "type": "Visual",
+        "original_text": "Table showing frequency data",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Trend Line Graph",
+        "type": "Visual",
+        "original_text": "Graph illustrating frequency stability",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The probability formula is displayed on the board to illustrate the concept."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The data table is used to show frequency data."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The law of large numbers builds upon the concept of probability."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Randomness is a factor in frequency data."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The trend line graph illustrates the concept of stability."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student answers prompt thinking about the relationship between frequency and probability."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of stability as illustrated by the graph."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The probability formula scaffolds understanding of the data table."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "The graph emphasizes the concept of frequency stability."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

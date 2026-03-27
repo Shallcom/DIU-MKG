@@ -1,0 +1,157 @@
+{
+  "video_name": "38_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the application of exponential functions in describing temperature changes; master the basic steps of constructing a mathematical model.",
+  "transcript": "[529.76 -> 560.9] 那么我们来看我们设茶水的温度从八十五摄氏度开始经过X后温度为万摄氏度那么我们可以演出这样一个三解图是不是可以很容易地画出好那么通过这个三解图请同学们来观察它随着时间的变化水温在逐渐降低这和我们之前学习的指数函数是不是有类似的变化。\n[561.9 -> 607.24] 那么这样我们能不能构建一个函数模型呢来这位同学来你说一说你是怎么样构建的呢我觉得Y应该等于K倍的AX加上二十五摄氏度对二十五摄氏度是它的室温温度正常好那么请坐那么我们看根据散铁图构建出来了这个函数模型那么这个K是属于对属于R的对不对那么这个A呢A有没有变化范围。\n[608.9 -> 703.34] 对是零到一那么其次X呢对我听到那个同学说了是大于等于零的好那么现在我们构造出了这样一个函数模型来近似的刻画水温温度随时间的变化而变化那么请同学们想一想根据实际情况如果当X等于零等于零的时候Y就等于八十五那么这时能不能计算出这个常数的值呢来请同学们动手计算一下来你来回答你计算的KK是六十非常好K等于当X等于零时Y等于八十五此时K就等于对K就等于六十那么我们要求出我们看到它是逐渐下降的那么我们要求出这个衰竭比例A那么我们是不是就要计算出后一分与前一分就是这个每每一吨与前一分崴减二十五的比值对不对。\n[704.34 -> 742.26] 那么我们是不是要从第二第二分钟开始计算好请坐好那么这个表格是老师已经通过信息计数计算出来了那么后一秒与前一秒的比值我们也都能够计算出来那么同学们来看通过这个表格来看这个比值的平均数能不能算出来算出它的平均数我们是不是就得出了这个A的值那么下面请同学们下课后继续进行计算这就是我们建立函数模型的过程。\n[748.96 -> 755.98] 那么通过建立模型我们再次好这课就到这里。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains a list of key points written in white chalk:\n     - \"1. 观察情景 找出已知和问题\"\n     - \"2. 建立模型\"\n     - \"3. 分析并检验\"\n   - The digital screen displays a summary slide with a graph and mathematical expressions.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - \"建立数学模型解决实际问题\"\n     - Mathematical formula: $y = 0.25x$ (for $0 \\leq x \\leq 100$)\n     - Additional formula: $y = 10 + 0.2x$ (for $x > 100$)\n   - Digital Screen:\n     - Graph showing a decreasing trend.\n     - Mathematical expression: $y = 10 + 0.2x$ (for $x > 100$)\n     - Table with values for $x$ and corresponding $y$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the formulas written in white chalk.\n   - She gestures towards the digital screen, emphasizing the graph and the mathematical expression displayed.\n   - The teacher uses hand movements to trace the graph on the screen, indicating the trend and key points.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content through the blackboard and screen.",
+  "visual_narrative": "The lesson concludes with a summary displayed on both the blackboard and the digital screen. The blackboard features key points written in white chalk, including the main formulas $y = 0.25x$ and $y = 10 + 0.2x$. The digital screen shows a graph and a table with corresponding values. The teacher visually reviews the content by pointing to each formula on the blackboard and gesturing towards the graph on the screen, emphasizing the decreasing trend. She traces the graph to highlight the relationship between $x$ and $y$. The visual focus remains on summarizing the lesson, with no explicit homework or next-step instructions visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Temperature Decrease",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[529.76 -> 560.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Exponential Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[529.76 -> 560.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Function Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[561.9 -> 607.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Variable Range",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.9 -> 607.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Constant Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[608.9 -> 703.34]"
+      },
+      {
+        "id": "c6",
+        "label": "Decreasing Trend",
+        "type": "Visual",
+        "original_text": "Graph showing a decreasing trend.",
+        "ocr_corrected": false,
+        "timestamp": "[529.76 -> 560.9]"
+      },
+      {
+        "id": "c7",
+        "label": "$y = 10 + 0.2x$",
+        "type": "Visual",
+        "original_text": "Mathematical expression $y = 10 + 0.2x$.",
+        "ocr_corrected": true,
+        "timestamp": "[561.9 -> 607.24]"
+      },
+      {
+        "id": "c8",
+        "label": "$y = 0.25x$",
+        "type": "Visual",
+        "original_text": "Mathematical formula $y = 0.25x$.",
+        "ocr_corrected": false,
+        "timestamp": "[561.9 -> 607.24]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Answers",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[561.9 -> 607.24]"
+      },
+      {
+        "id": "c10",
+        "label": "Table Values",
+        "type": "Visual",
+        "original_text": "Table with values for $x$ and corresponding $y$.",
+        "ocr_corrected": false,
+        "timestamp": "[608.9 -> 703.34]"
+      },
+      {
+        "id": "c11",
+        "label": "Graph Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[529.76 -> 560.9]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Temperature decrease illustrates principles of exponential functions."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Function model construction involves calculating constants."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Graph shows the trend analyzed in the lesson."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Variable range affects constant calculation."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes understanding through student responses."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "Formula on the board summarizes the graph's trend."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Table supports function model construction by providing data."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Temperature decrease analyzed through graph and model construction."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Exponential function principles applied in model construction."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to think about variable ranges."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

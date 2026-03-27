@@ -1,0 +1,166 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand how teaching methods influence student achievement; analyze the impact of individual student differences on instructional effectiveness.",
+  "transcript": "[0.0 -> 118.08] 那么对于同一个问题而不同的个体我将采取不同的方法对于成绩差的学生我会首先进行积极的鼓励让他不会存在任何自卑的情况然后同时来询问他遇到了怎样的问题而为什么优秀的学生不愿意告诉他呢最后对他的问题进行解答那面对优秀的学生我首先会询问他为什么不愿意向差的学生去讲解这条题目是什么样的原因让他做出这样的行为同时不会对他做出任何偏激的态度并且来让他具有积极团结的团队意识在接下来如果差学生再次问他问题的话让他具有一个愿意去回答的态度那么同时根据这一个事件我将对整个班级进行一个合理的班会的指导让全部学生都意识到我们是整个团体要互相帮助进行指导同时啊如果遇到大家都不会的问题也可以向老师来进行请教老师非常愿意并且非常的鼓舞大家来向老师提问那么我的即兴严谨到此结束接下来进行我的模拟课堂。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The text on the slide is in Chinese, reading \"变速直线运动的速度与时间的关系\" (The relationship between velocity and time in uniformly accelerated linear motion).\n\n#### 2. **The Title Event**\n- The title on the screen is \"变速直线运动的速度与时间的关系.\" The teacher does not physically write this; it is displayed on the screen. The teacher stands in front of the screen, ensuring the title is visible to the students.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with their hands, possibly emphasizing points related to the title on the screen.\n- The teacher uses hand movements to engage with the audience, such as pointing or making explanatory gestures, though specific content links are not detailed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"变速直线运动的速度与时间的关系.\"\n- The teacher holds papers and begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher gestures with their hands, possibly explaining the significance of the title.\n- The teacher occasionally looks at the screen and then back at the students, ensuring engagement.\n\n**End:**\n- The teacher continues to gesture, maintaining focus on the content displayed on the screen.\n- The blackboard remains blank, with no additional content written during this segment.\n\nThis structured visual analysis captures the teacher's actions and their relation to the displayed content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the screen presents the title \"变速直线运动的速度与时间的关系,\" serving as the hook to capture the students' attention. The teacher stands in front of the screen, holding papers, and begins the introduction. To bridge to the main topic, the teacher uses hand gestures, occasionally pointing towards the screen to emphasize the title. The visual focus remains on the screen throughout, as the blackboard stays blank, ensuring the students' attention is directed towards the displayed content. This setup establishes the lesson goal, linking the concept of velocity and time in uniformly accelerated motion to the students' existing understanding of motion principles, setting the stage for deeper exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Velocity-Time Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Uniformly Accelerated Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Individual Differences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Teaching Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c5",
+        "label": "Student Achievement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Encouragement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Active Collaboration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Team Awareness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c9",
+        "label": "Teacher Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c10",
+        "label": "Peer Questioning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "c11",
+        "label": "In-class Guidance",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.08]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Relationship between velocity and time in uniformly accelerated linear motion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Focus",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide displays the main concept of the lesson on velocity-time relationship."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explains the principle of velocity-time relationship using uniformly accelerated motion."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "influences",
+        "intent": "Examines how teaching methods impact student achievement."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "influences",
+        "intent": "Analyzes how individual differences among students affect their achievement."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "guides",
+        "intent": "Procedure of encouraging struggling students to improve their performance."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "promotes",
+        "intent": "Fosters awareness of teamwork through active collaboration among students."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "elicits",
+        "intent": "The teacher employs inquiry to address individual differences in class."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "facilitates",
+        "intent": "Encourages peer questioning to cultivate active collaboration."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "reinforces",
+        "intent": "In-class guidance emphasizes team awareness among students."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "The concept of velocity-time relationship keeps students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,114 @@
+{
+  "video_name": "17_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand and master the simple geometric properties of ellipses; be able to apply the relevant knowledge to solve practical problems; cultivate mathematical thinking and analytical abilities.",
+  "transcript": "[0.0 -> 123.52] 亲爱的同学们大家好我是高中数学组第十七号选手现在是我对谈谈教师为主导学生为主体这句话认识的回答以及讨论那首先作为一名师范生我将始终秉持着知识传承和学生成长的敬畏之心教育是点亮心灵的灯塔那数学教育是思维塑造的关键那在面对教育问题上需要我们不断地深入探究和全面考量那在面对此问题上我将分以下几个方面进行分析那首先做教师为主导意味着教师应该有专业的教学能力能够通过不同的方式如版书多媒体几何划板等教学用具引导学生通过不同的角度来进行学习以及分析并在此过程中拓宽学生的视野加强学生对于学习的兴趣那其次学生为主体意味着学生在课后应该及时进行复习和反思将所学的内容转换为自己的知识能够用自己的话将知识表述出来那最后两者之间的关系应该是相辅相成的只有老师与学生配合好那才能达到更好的教学效果能得到更好的教学效率那让学生爱上数学喜欢动脑敢于面对新问题以及新挑战那在最后我想说教育之路漫漫那虽然面临着诸多的挑战但只要我们努力成为有理想有道德有学识有人爱之心的好老师为学生开辟求实创新之路定了为深深学此成写一片蓝天铸就教育到辉煌未来那好我的即兴演讲到此结束。\n[125.24 -> 142.167025] 好下面进行我的模拟授课环节那好现在我们来开始上课那在开始本节课的学习之前请同学们来听这样一句话伟大的数学家加德纳曾经说过这样一句话数学的真谛在于不断寻求用越来越简单的方法来证明定理和解决数学问题那希望同学们带着对这一句话开启我们本节课的数学学习那今天我们要学习的内容为椭圆的简单几何性质。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen titled \"3.1.2 椭圆的简单几何性质\" (Simple Geometric Properties of Ellipses). This slide is the initial visual focus, setting the topic for the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"3.1.2 椭圆的简单几何性质\" (Simple Geometric Properties of Ellipses). The teacher does not physically write this title but presents it on the screen. The text is clear and prominently displayed.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on introducing the topic.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, likely emphasizing points related to the topic. She occasionally looks at the papers and then back at the class, indicating engagement with the material.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers. The screen displays the title \"3.1.2 椭圆的简单几何性质\" (Simple Geometric Properties of Ellipses).\n- The blackboard has some text written on the left side, including \"数学组17号选手\" (Math Group No. 17 Contestant) and colored magnets.\n\n**Middle:**\n- The teacher continues to gesture with her hands while holding the papers, possibly explaining or introducing the topic.\n- She occasionally looks at the papers, suggesting she is reading or referring to notes.\n\n**End:**\n- The teacher maintains her position in front of the class, with the screen still displaying the title.\n- No additional content is added to the blackboard during this segment.\n\nThis structured visual analysis captures the evolution of the lesson introduction, focusing on the teacher's actions and the visual content presented.",
+  "visual_narrative": "Initially, the screen presents the title \"3.1.2 椭圆的简单几何性质\" (Simple Geometric Properties of Ellipses), setting the initial visual focus for the lesson. The teacher stands in front of the class, holding papers, and gestures with her hands, likely emphasizing key points related to the topic. To bridge to the main content, the teacher occasionally looks at her notes, suggesting she is preparing to delve deeper into the subject. The visual focus remains on the title displayed on the screen, establishing the lesson goal. The blackboard, with the text \"数学组17号选手\" (Math Group No. 17 Contestant) and colored magnets, provides context for the lesson setting. This introduction connects the new knowledge of ellipse properties to the students' existing understanding of geometry, preparing them for a detailed exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geometry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.24 -> 142.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Geometric Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.24 -> 142.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Mathematical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Analytical Abilities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Simple Geometric Properties of Ellipses",
+        "type": "Visual",
+        "original_text": "Initial slide titled 'Simple Geometric Properties of Ellipses'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures while holding papers, emphasizing points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Annotated Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard text: 'Math Group No. 17 Contestant'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links general geometry knowledge to the specific topic of ellipses."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Covers specific properties related to ellipses."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Mathematical thinking develops into analytical abilities."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The slide introduces and visually represents the topic of ellipses."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures encourage student engagement and thinking."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The annotated blackboard provides context and supports the geometry lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

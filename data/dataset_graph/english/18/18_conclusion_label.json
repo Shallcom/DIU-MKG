@@ -1,0 +1,197 @@
+{
+  "video_name": "18_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Master the methods for applying stress techniques in digital language; be able to identify and analyze phonetic and intonation variations in English expression.",
+  "transcript": "[580.9403 -> 640.94] 英语里我们通常把压力放在数字语言上而不是用功能语言吧现在我相信你们已经学会了压力的技巧了请回到文章里这次我再次读文章请每次你试试用语句握着手好吗好吗所以当你告诉一个故事你可以开始说出故事的意思给听众一个背景包括当和在哪里播放哇你们做得很好请过来现在我们面临着另一个重要的英语技术所以。",
+  "visual_facts": "### Phase 4: Conclusion - Visual Knowledge Consolidation\n\n#### 1. Summary Artifact (Static View)\n- **Main Visual Carrier**: The summary is presented on a slide displayed on a large screen to the left of the teacher. The slide is titled \"summary\" and contains a bullet point.\n- **Overall Layout**: The slide has a simple layout with a single bullet point emphasizing the main concept.\n\n#### 2. Key Knowledge Items (Content View)\n- **Main Keywords/Phrases on Slide**:\n  - \"Normally, we usually put stress on **Content words**, instead of **Function words**.\"\n- **Blackboard Content**:\n  - \"Stress\"\n  - \"Content words\" and \"Function words\" with examples:\n    - Faster → Slower\n    - Higher → Lower\n    - Stronger → Weaker\n\n#### 3. Review Gestures (Dynamic View)\n- **Teacher's Actions**:\n  - **Pointing to the Slide**: The teacher points to the bullet point on the slide, emphasizing the distinction between content words and function words.\n  - **Gesturing Towards the Blackboard**: The teacher gestures towards the blackboard, specifically pointing to the pairs of words (e.g., \"Faster → Slower\") to highlight the contrast.\n  - **Clapping Hands**: The teacher uses hand clapping to illustrate the concept of stress on content words, likely simulating the rhythm of speech.\n  - **Pointing to Specific Words**: The teacher points to \"Content words\" and \"Function words\" on the slide to reinforce the key takeaway.\n\n#### 4. Transition to Next Step\n- **Visual Indicators for Next Steps**: No explicit visual elements indicating homework, further reading, or the next lesson are visible in the frames provided. The focus remains on the summary content.\n\n### Structured List of Visual Facts\n\n- **Slide Content**:\n  - Title: \"summary\"\n  - Bullet Point: \"Normally, we usually put stress on **Content words**, instead of **Function words**.\"\n\n- **Blackboard Content**:\n  - Main Topic: \"Stress\"\n  - Categories:\n    - Content words\n    - Function words\n  - Examples:\n    - Faster → Slower\n    - Higher → Lower\n    - Stronger → Weaker\n\n- **Teacher's Gestures**:\n  - Points to the bullet point on the slide.\n  - Points to the pairs of words on the blackboard.\n  - Uses hand clapping to demonstrate stress patterns.\n  - Highlights \"Content words\" and \"Function words\" on the slide.\n\n- **Transition Indicators**: None visible in the provided frames.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe class ends with a slide titled \"summary\" prominently displayed on the screen, featuring a single bullet point that distinguishes between stressing \"Content words\" and \"Function words.\" The teacher visually wraps up the lesson by pointing to this key statement, reinforcing the main takeaway. He then gestures towards the blackboard, where the concept of stress is further illustrated with contrasting pairs: \"Faster → Slower,\" \"Higher → Lower,\" and \"Stronger → Weaker.\" Throughout the review, the teacher uses hand clapping to simulate stress patterns, emphasizing the rhythm associated with content words. He points to each pair on the blackboard, ensuring the visual contrast is clear. The teacher's gestures methodically move from the slide to the blackboard, creating a cohesive visual narrative that underscores the lesson's core concept. No visual elements indicating homework or next steps are present, keeping the focus solely on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Stress",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Content Words",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Function Words",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Phonetic Variations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Intonation Variations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Faster Slower",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Higher Lower",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "c8",
+        "label": "Stronger Weaker",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[580.94 -> 640.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide Content",
+        "type": "Visual",
+        "original_text": "Normally, we usually put stress on Content words, instead of Function words.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Content Stress",
+        "type": "Visual",
+        "original_text": "Stress: Content words and Function words with examples: Faster → Slower, Higher → Lower, Stronger → Weaker",
+        "ocr_corrected": true
+      },
+      {
+        "id": "vs1",
+        "label": "Teacher Points To Slide",
+        "type": "Visual",
+        "original_text": "The teacher points to the bullet point on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "vs2",
+        "label": "Teacher Gestures Blackboard",
+        "type": "Visual",
+        "original_text": "The teacher gestures towards the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "vs3",
+        "label": "Teacher Claps Hands",
+        "type": "Visual",
+        "original_text": "The teacher uses hand clapping to illustrate stress.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Discusses how stress is primarily applied to content words."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Distinguishes that function words usually do not carry stress."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The summary slide visually encapsulates the primary concept of stress."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Phonetic variations are part of understanding stress."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Intonation variations are part of understanding stress."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard illustrates the contrast using 'Faster Slower'."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard illustrates the contrast using 'Higher Lower'."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard illustrates the contrast using 'Stronger Weaker'."
+      },
+      {
+        "source": "c2",
+        "target": "vs1",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights the importance of content words."
+      },
+      {
+        "source": "c1",
+        "target": "vs3",
+        "relation": "visualizes",
+        "intent": "Hand clapping demonstrates the concept of stress in a dynamic way."
+      },
+      {
+        "source": "vs2",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "Teacher highlights examples on blackboard."
+      },
+      {
+        "source": "vs2",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "Teacher highlights examples on blackboard."
+      },
+      {
+        "source": "vs2",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "Teacher highlights examples on blackboard."
+      },
+      {
+        "source": "ss1",
+        "target": "vs2",
+        "relation": "engages",
+        "intent": "The students' cognitive state of engagement is tied to the teacher’s visual gestures."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

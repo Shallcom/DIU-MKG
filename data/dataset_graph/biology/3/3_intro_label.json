@@ -1,0 +1,144 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the value of student questioning in classroom interaction; master instructional strategies for handling unexpected issues; reflect on the importance of teachers' professional development.",
+  "transcript": "[0.0 -> 96.28] 自己也没有学习过这个是什么结构而且这一个问题呢引来了其他同学的我应该如何处理呢首先我将会表扬这位同学他善于发现的能力以及善于提问的勇气其次我会诚实地告诉同学们自己对这个内容并不熟悉并不清晰接着呢我会告诉同学们发现这样的一个问题并不影响本节课的学习尽可能地维持本堂课的秩序将本堂课进行下去在本堂课结束之后我将会查找这个相关内容进行学习并且从中去找到适合该学呃适合该学生年龄段他们的认知发展水平当中可以理解的部分然后将它整合成一堂课的内容或者一个小节的内容对同学们进行讲解最后呢我在呃以后的学习当中会加强自身的学习博学广识生物学的内容避免这样的事情再次发生啊我会在以后的学习当中会加强自身的学习博学广识生物学的内容避免这样的事情再次发生啊我的即兴演讲部分到此结束谢谢接下来欢迎进入我的模拟课堂",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide contains a list of topics in Chinese, with the main title being \"基因突变和基因重组\" (Gene Mutation and Genetic Recombination).\n\n#### 2. **The Title Event**\n- The title \"基因突变和基因重组\" is prominently displayed on the screen. The teacher does not physically write this title but points towards it, ensuring it is the focal point of the introduction.\n\n#### 3. **The Objectives**\n- The slide lists several bullet points, likely representing the learning objectives or topics to be covered:\n  - 基因突变 (Gene Mutation)\n  - 基因重组 (Genetic Recombination)\n  - Additional subtopics are listed but not fully visible.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points:\n  - She points to the title on the screen, drawing attention to \"基因突变和基因重组.\"\n  - She holds papers, possibly notes or a lesson plan, and gestures with them to emphasize key points.\n  - She occasionally touches her chest, possibly to indicate personal engagement or to emphasize a point.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher walks to the front of the classroom.\n- The screen displays the title \"基因突变和基因重组\" with a list of topics.\n- The teacher points to the title, ensuring students focus on it.\n\n**Middle:**\n- The teacher stands in front of the screen, holding papers.\n- She gestures with her hands, emphasizing the importance of the topics listed.\n- She occasionally looks at the students, maintaining engagement.\n\n**End:**\n- The teacher continues to gesture, reinforcing key points from the slide.\n- She uses her hands to indicate different sections of the slide, linking her verbal explanations to the visual content.\n\nThis structured approach ensures that the visual elements and teacher actions are clearly linked, providing a detailed understanding of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents a slide titled \"基因突变和基因重组,\" serving as the hook to capture the students' attention. To bridge to the topic, the teacher points directly at the title, ensuring it is the focal point. She holds papers and gestures towards the listed subtopics, emphasizing their relevance. The visual focus remains on the slide, with the teacher occasionally touching her chest to indicate personal engagement. This approach establishes the lesson goal by linking the introduction to the main topics of gene mutation and genetic recombination, setting the stage for deeper exploration. The structured visual narrative connects the new concepts to the students' existing knowledge framework, preparing them for the detailed content to follow.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gene Mutation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 96.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Genetic Recombination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 96.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Student Questioning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 96.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Instructional Strategies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 96.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Professional Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 96.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Error Management",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 96.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Slide",
+        "type": "Visual",
+        "original_text": "Slide with 'Gene Mutation and Genetic Recombination'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher pointing and gesturing at the slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visually presents the concept of gene mutation."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visually presents the concept of genetic recombination."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Student questioning can help explore and understand gene mutation."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Student questioning can help explore and understand genetic recombination."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Instructional strategies enhance teacher professional development."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Instructional strategies include methods for managing unexpected issues."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize points to maintain student engagement."
+      },
+      {
+        "source": "v2",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gestures and visual prompts encourage student questioning."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Engaged students are more likely to participate in questioning."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Slide content helps scaffold teacher strategies for managing errors."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

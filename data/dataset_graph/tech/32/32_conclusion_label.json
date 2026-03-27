@@ -1,0 +1,158 @@
+{
+  "video_name": "32_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic principles of safe electricity use.",
+  "transcript": "[546.0 -> 595.84] 我们知道在我们的物理量中我们通常有一个简称有一个全称还有一个符号那么我们就用符来简称它的单位用利来表示符克那么接下来请同学们阅读书籍阅读书本上的内容说一说电压还有哪些单位它们之间又是怎么换算的这里我可以提示一下我们可以结合之前微安毫安与安之间的换算讲一讲它们之间应该是怎样的关系。\n[601.28 -> 667.44] 嗯它和我们电流的那些单位之间的进度是呃几乎一样很好那么我们可以通过电流与电压之间的这些相似来统一定义它们之间的性质在之前的学习中我们知道用电需要保持一个安全谨慎的态度在生活中我们似乎常常随意的就触摸着干电池的两极这种触摸这个过程中是一个完整的闭合电路吗它又形成了我们怎样特殊的电路呢来我们请这个男生说一说。\n[669.28 -> 724.28] 会形成这个电路但是因为这个人手电阻比较大所以电流比较小这个问题危害也不大哦你也没说出了原因那么我想问的是诶这是一个怎样的特殊电路吗呃没有开关然后就是电池和导线对电池和导线所以它是怎样的特殊电路啊同桌有想法吗帮一帮他没有用电器的话是呃短路对没错啊没错诶发生了短路却没有出现触电现象但是如果我们用手去触摸家庭电路中导线的金属部分却会发生触电现在啦请同学们阅读这个笔盒说一说为什么呢拿着拿着说吧。\n[725.28 -> 777.22] 嗯因为钢电池它的电压不大嗯而我们的安全电压是很大的唉所以并没有同样的这个表格还透露了很多的信息比如说我们的心脏原来也有电压它在其中也承担着动力的作用又包括我们的三峡发动机非常之大可见我国的科技已经诶足以让我们骄傲那么接下来老师让我们请同学们来对比电压表与电流表之间的不同来猜一猜我们电压表的符号应该是怎样表示的呢来我们请你上来画一画电压表的符号是吧是吧是吧。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a comparison table displayed on the screen. It is structured with columns and rows, listing different types of batteries and their respective characteristics such as voltage, capacity, and energy density.\n\n2. **Key Knowledge Items (Content View)**:\n   - The table includes headings like \"电池类型\" (Battery Type), \"电压/V\" (Voltage/V), \"容量/mAh\" (Capacity/mAh), and \"能量密度/(Wh/kg)\" (Energy Density/(Wh/kg)).\n   - Specific battery types listed include \"铅酸蓄电池\" (Lead-Acid Battery) and \"锂离子电池\" (Lithium-Ion Battery).\n   - The blackboard contains the formula for electric charge: $Q = I \\times t$ and the unit conversion: $1 \\text{ C} = 1 \\text{ A} \\times 1 \\text{ s}$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the comparison table on the screen, likely emphasizing the differences in battery characteristics.\n   - The teacher points to the blackboard, specifically highlighting the formula and unit conversion written there.\n   - The teacher uses hand movements to underline or emphasize key points in the table, such as the energy density column.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the lesson content through the table and blackboard notes.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a comparison table summarizing different battery types and their characteristics, including voltage, capacity, and energy density. The teacher points to each column in the table, emphasizing the differences between lead-acid and lithium-ion batteries. She gestures towards the blackboard, highlighting the formula for electric charge, $Q = I \\times t$, and the unit conversion, $1 \\text{ C} = 1 \\text{ A} \\times 1 \\text{ s}$. The teacher uses hand movements to underline the energy density column in the table, marking it as a key takeaway. No visual homework or next-step instructions are present in the frames provided, focusing solely on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Charge Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.28 -> 667.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Unit Conversion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[601.28 -> 667.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Battery Type",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.0 -> 595.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Voltage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.0 -> 595.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Capacity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.0 -> 595.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Energy Density",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.0 -> 595.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Lead-Acid Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.0 -> 595.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Lithium-Ion Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.0 -> 595.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Comparison Table Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying battery types with characteristics like voltage, capacity, energy density.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Formulas",
+        "type": "Visual",
+        "original_text": "Blackboard displaying $Q = I \\times t$ and $1 \\text{ C} = 1 \\text{ A} \\times 1 \\text{ s}$.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Answering About Circuits",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The formula for electric charge is explicitly stated on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Unit conversion from Coulombs to Amperes per second is detailed on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Battery types are listed and compared on the slide."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Lead-acid battery is one of the types listed in the battery comparison."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Lithium-ion battery is one of the types listed in the battery comparison."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Lead-acid battery characteristics are displayed on the slide."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Lithium-ion battery characteristics are displayed on the slide."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Voltage values are compared in the slide."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Battery capacity values are listed in the slide."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Energy density is highlighted as a key takeaway in the slide."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students apply knowledge of circuits through electric charge formula."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

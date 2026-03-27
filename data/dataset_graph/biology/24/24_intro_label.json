@@ -1,0 +1,146 @@
+{
+  "video_name": "24_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the concept and function of the target gene in genetic engineering; master the main steps of cultivating transgenic insect‑resistant cotton; be able to analyze the importance of learning‑condition analysis in instructional design.",
+  "transcript": "[0.0 -> 109.66] 比较难理解刘老师的问题出在哪里我认为刘老师他没有做好学型分析没有了解学生的认知规律我认为刘老师在备课时应充分了解班级学生的学习水平和认知特点在进行教学设计时要根据学生认知规律进行设计不能将复杂的概念进行堆叠而要去帮助学生进行理解不能一股脑地全部将知识传授给学生在教学过程中要充分了解学生的认知特点与兴趣是十分必要的光合作用这节课内容本来就比较抽象刘老师在上课前应充分了解学生的兴趣可以通过实验探究视频图画等相结合的方式激发学生的学习兴趣帮助学生理解有关光合作用的概念我认为在作为一名教师不能只是一味地进行教学应该在上课前充分地做好学情分析了解学生的认知特点与认知规律从而更好地备课将课本中的内容进行完美的设计以学生能够理解的方式传授给学生好这就是我的集习讲演下面开始我的授课环节\n[116.12 -> 167.32549175] 上课同学们好今天我们来学习基因工程的基本操作程序我国是棉花的消费和种植大国但是棉花呢极易受到害虫的侵袭同学们有没有什么好的办法能够帮助棉花更好地生长呢你有想法吗它可以转变它的基因好非常好请坐因为在传统的打农药啊这种方法呢会污染环境我国科学家就发现了一种抗虫基因将这种抗虫基因呢转到棉花的体细胞中使棉花可以表达出一种抗虫蛋白从而更好地保护自己那么这种抗虫蛋白是如何导入到棉花体内的呢下面就让我们学习本节课的内容在进行转基因之前我们要想我们得获取到一种目的基因在基因工程的设计和操作中用于改变受体细胞性状或者获得预期表达产物的基因呢就是目的基因在刚刚我们所讲述的例子中就是将苏云基因感经中的杀虫基因导入到棉花的体细胞内从而使棉花能够表达出抗虫蛋白下面同学们自主阅读课本找一下培育转基因抗重棉的主要的四个步骤分别是什么等会儿老师让同学起来回答",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The initial slide displayed on the screen features a title in Chinese. The exact text is \"基础工程的塔基本操作程序\" (Basic Operations of Foundation Engineering Towers).\n\n#### 2. The Title Event\n- **Title**: \"基础工程的塔基本操作程序\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher stands in front of the screen, likely introducing the topic verbally.\n\n#### 3. The Objectives\n- **Bullet Points**: Not explicitly visible in the provided frames. The slide primarily shows the title without additional bullet points.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the title or introducing the topic. No specific pointing or underlining actions are visible.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"基础工程的塔基本操作程序.\"\n- The teacher gestures towards the screen, indicating the start of the lesson.\n\n**Middle**\n- The teacher continues to stand in front of the screen, maintaining eye contact with the students.\n- No significant changes in the slide content are observed.\n- The teacher's gestures remain general, likely explaining the introduction to the topic.\n\n**End**\n- The screen transitions to a new slide showing an image of a plant or structure, possibly related to the lesson content.\n- The teacher continues to gesture towards the screen, linking the visual content to the lesson introduction.\n\n### Summary\nThe lesson introduction begins with the title \"基础工程的塔基本操作程序\" displayed on the screen. The teacher uses general gestures to engage with the content, transitioning to an image that likely relates to the topic. No specific learning objectives or detailed gestures are visible in the provided frames.",
+  "visual_narrative": "Initially, the screen presents the title \"基础工程的塔基本操作程序,\" serving as the hook to capture the students' attention. To bridge to the topic, the teacher stands in front of the screen, holding papers and gesturing towards the title, likely emphasizing its importance. The visual focus remains on the title for a while, establishing the lesson's foundational goal. As the introduction progresses, the slide transitions to an image of a plant or structure, visually linking the theoretical concept to a practical example. This shift helps connect the new knowledge to potential real-world applications, grounding the students' understanding and preparing them for deeper exploration of the topic. The teacher's gestures towards the screen facilitate this connection, ensuring the introduction smoothly leads into the main content of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Basic Operations Slide",
+        "type": "Visual",
+        "original_text": "Basic Operations of Foundation Engineering Towers",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Transgenic Cotton Image",
+        "type": "Visual",
+        "original_text": "Image of plant or structure related to genetic engineering",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Genetic Engineering",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[116.12 -> 167.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Target Gene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[116.12 -> 167.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Transgenic Cotton",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[116.12 -> 167.32]"
+      },
+      {
+        "id": "c4",
+        "label": "Insect-Resistance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[116.12 -> 167.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Learning-Condition Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 109.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Instructional Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 109.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Obtaining Target Gene",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[116.12 -> 167.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Gene Expression",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[116.12 -> 167.32]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Genetic engineering involves the manipulation of target genes."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Genetic engineering builds upon concepts of transgenic cotton development."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Transgenic cotton includes insect-resistance properties."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Instructional design evolves from learning-condition analysis."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Obtaining the target gene is a procedure involved in genetic engineering."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Gene expression builds upon the concept of insect-resistance."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide transition visualizes genetic engineering application in crops."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The image visualizes transgenic cotton related to genetic engineering."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Instructional design serves to engage students actively in the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

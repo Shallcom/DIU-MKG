@@ -1,0 +1,144 @@
+{
+  "video_name": "16_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Master the basic content and applications of Gibbs' law; be able to calculate the thermal effect of chemical reactions using Gibbs' law; understand the relationship between energy changes in chemical reactions and chemical equations.",
+  "transcript": "[225.12 -> 229.0] 带着这个问题我们一起来看今天的盖斯定律。\n[249.28 -> 282.36] 在前面我们已经学习了热和化学方程式是以物质作为基础以能量变化作为它的一个主要区别于化学方程式的一个构成要件那我们来看看教请同学们看看教材上的图一档七思考一下能人在爬上山的过程和这个能势能的变化有什么关系请大家展开讨论并且阅读教材。\n[297.88 -> 302.02] 怎么样大家有什么想法吗。\n[303.92 -> 326.72] 没有关系同学们可以仔细看看在这个过程当中由A点到B点发生了怎么样的变化再结合同学们物理上已经学过的势能就等重力势能等于MGH那通过这样的一个势能的变化同学们想一想A点到B点究竟发生了怎么的变化呢。\n[327.78 -> 446.78] 同学们可以展开讨论一下非常狠那同学们有什么想法吗这个同学我考试的时候发现他从A点到B点其实让他的不论如何爬上去还是坐缆车上去它不同的方法上去但是高度变化比较好非常好对所以它是能够反应的对太好了同学们正是从A点到B点它不管是从坐缆车还是我们爬山上去它发生的变化都是一样的而选择何种方式从A点到B点这在化学过程中叫化学反应的历程也就是说我们类比在我们类比化学反应的过程中盖茨定律就是表征了这样的一个定义也就是说在一定条件下化学反应的历程或者说化学反应的反应者只与这个反应的时态和中态相关和它的反应历程无关那同学们我们就带着这样的定义来进行应用我们今天我们刚刚已经知道碳和氧气反应有可能生成一氧化碳有可能生成二氧化碳那以碳和氧气生成一氧化碳的反应热就是相对难以计算的那我们根据盖茨定律要如何进行计算呢请同学们展开讨论并看看教材上是怎么解决的。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes \"五期定律\" (Five-phase law) on the blackboard.\n- The screen displays a chemical equation: $\\text{CO}_2(g) + \\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{CO}_3(aq)$ with $\\Delta H = -88.3 \\text{ kJ/mol}$.\n- The teacher gestures towards the equation, emphasizing the equilibrium and enthalpy change.\n\n**Middle:**\n- The teacher adds \"基本概念\" (Basic Concepts) to the blackboard.\n- The screen transitions to a graph showing reaction progress over time.\n- The teacher points to the graph, highlighting the equilibrium point and reaction trajectory.\n\n**End:**\n- The teacher writes \"五期定律 基本概念\" (Five-phase law Basic Concepts) on the board.\n- The screen displays definitions and applications of the law, including equilibrium expressions:\n  - $K_c = \\frac{[\\text{H}_2\\text{CO}_3]}{[\\text{CO}_2][\\text{H}_2\\text{O}]}$\n  - Modifications for different conditions are shown.\n- The teacher emphasizes key points by pointing to specific parts of the text and equations.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the chemical equilibrium diagram and associated equations displayed on the screen. The initial state includes:\n  - A chemical equation with equilibrium arrow and enthalpy change.\n  - A graph illustrating reaction progress over time with labeled axes and curves.\n\n**The Derivation Process (Dynamic):**\n- **Additions:**\n  - The teacher writes \"五期定律 基本概念\" on the blackboard while explaining the fundamental aspects of the law.\n  - Additional text appears on the screen, including definitions and equilibrium expressions.\n- **Modifications:**\n  - The teacher points to different parts of the graph and equations, indicating changes in reaction conditions and equilibrium states.\n- **Deictic Gestures:**\n  - The teacher points to the equilibrium constant expression, emphasizing the ratio of products to reactants.\n  - Specific parts of the graph are highlighted to illustrate reaction dynamics.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to underline key concepts on the screen.\n- Important formulas and definitions are displayed prominently on the screen, with the teacher pointing directly to them.\n- The use of color on the screen (e.g., blue boxes) helps distinguish different sections of the content.\n\nThis structured visual evolution captures the teacher's method of transforming abstract chemical concepts into concrete knowledge through synchronized gestures and board/screen content.",
+  "visual_narrative": "Initially, the bulletin board displayed the chemical equilibrium equation $\\text{CO}_2(g) + \\text{H}_2\\text{O}(l) \\rightleftharpoons \\text{H}_2\\text{CO}_3(aq)$ with $\\Delta H = -88.3 \\text{ kJ/mol}$, establishing the foundational concept of the five-phase law. The teacher began by writing \"五期定律\" (Five-phase law) on the blackboard, setting the stage for the lecture. As the presentation evolved, the teacher constructed a graph illustrating reaction progress over time, tracing the rising slope of the curve to highlight the approach to equilibrium. He annotated the blackboard with \"基本概念\" (Basic Concepts), aligning verbal explanations with visual cues. The screen dynamically updated to show equilibrium expressions, such as $K_c = \\frac{[\\text{H}_2\\text{CO}_3]}{[\\text{CO}_2][\\text{H}_2\\text{O}]}$, which the teacher emphasized by pointing to specific variables. He circled key formulas in blue on the screen, reducing cognitive load by visually isolating critical information. Finally, he walked around the classroom, ensuring students followed along, and reinforced the concepts by repeatedly pointing to the equilibrium constant and reaction graph, ensuring a cohesive understanding of the five-phase law's application and significance.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gibbs Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[225.12 -> 229.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemical Equation",
+        "type": "Visual",
+        "original_text": "CO2(g) + H2O(l) equilibrium with H2CO3(aq), Delta H = -88.3 kJ/mol",
+        "ocr_corrected": true,
+        "timestamp": "[225.12 -> 229.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Five-phase Law",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[225.12 -> 229.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Equilibrium",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[225.12 -> 229.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Enthalpy Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[225.12 -> 229.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Reaction Progress Graph",
+        "type": "Visual",
+        "original_text": "Graph showing reaction progress over time with equilibrium point",
+        "ocr_corrected": true,
+        "timestamp": "[249.28 -> 282.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Equilibrium Constant",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[249.28 -> 282.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Basic Concepts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[249.28 -> 282.36]"
+      },
+      {
+        "id": "c9",
+        "label": "Energy Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[249.28 -> 282.36]"
+      },
+      {
+        "id": "c10",
+        "label": "Equilibrium Expressions",
+        "type": "Visual",
+        "original_text": "K_c = [H2CO3]/[CO2][H2O] with modifications",
+        "ocr_corrected": true,
+        "timestamp": "[327.78 -> 446.78]"
+      },
+      {
+        "id": "c11",
+        "label": "Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[303.92 -> 326.72]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Illustrates Gibbs law using chemical equation with enthalpy change."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes the concept of equilibrium within Five-phase law."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Describes equilibrium in terms of enthalpy change."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Shows equilibrium constant and reaction dynamics on graph."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Basic concepts expand on the Five-phase law."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Energy change linked to equilibrium expression modifications."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Equilibrium expressions are derived from the principle of equilibrium."
+      },
+      {
+        "source": "c7",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Prompts brainstorming about equilibrium constant implications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,120 @@
+{
+  "video_name": "12_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the basic concepts and related content of the Sound Museum; learn how to describe the visiting experience through language.",
+  "transcript": "[0.0 -> 162.82] 去看的比特米尼尔维斯特皮克西斯诺提斯安德的奥瑟斯的评论第三个是传输和创造学生应该学习传输学到实际上的东西他们应该知道用什么来解决问题例如社会问题和世界观的问题比如在二零零八年北京奥运会中学生应该知道他们在学习中国文学系统时应该知道可以用中国文化的发展和解决问题的方法来解决问题的问题的今天我们要学习发展史语和传统的学习第一步是如何成为这部分的工程指导我将描写一些东西在黑板上让我们猜猜我们要怎么介绍好吗好请问你们知道什么是声音博物馆吗。\n[164.96 -> 173.06] 是的这是个庭堂所以我们要去参观庭堂博物馆这就是这个名字我们已经知道了。\n[176.0 -> 180.98] 而作为旅行指导者你能介绍什么其他东西呢。\n[182.06 -> 186.64] 谁想试试看呢你请说吧。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen is titled \"B2 U4 History and Traditions\" with a subheading \"Discovering the Structure.\" This slide serves as the hook object, initiating the lesson.\n\n#### 2. **The Title Event**\n- The title \"B2 U4 History and Traditions\" is prominently displayed on the screen. The teacher does not physically write this title but points to it on the screen, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The slide includes a section titled \"Discovering the Structure,\" which likely outlines the learning goals, though specific bullet points are not visible in the provided frames.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, likely explaining the content on the slide.\n- She points to the screen, directing attention to the title and subheading.\n- Later, she draws a structure on the green chalkboard, indicating a transition to a new activity titled \"Tour Guide!\" displayed on the screen.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the class with a slide titled \"B2 U4 History and Traditions\" and \"Discovering the Structure\" displayed on the screen.\n- She gestures with her hands, possibly explaining the lesson's focus, while holding papers.\n- The teacher points to the screen, emphasizing the lesson's title and structure.\n\n**Middle:**\n- The teacher continues to gesture, likely elaborating on the content related to \"History and Traditions.\"\n- She transitions to a new slide titled \"Tour Guide!\" with a section labeled \"Activity 1\" and an image of a teacup.\n- The teacher turns to the green chalkboard and begins drawing a structure, possibly related to the Palace Museum, as indicated by the slide.\n\n**End:**\n- The teacher completes the drawing on the chalkboard, which appears to be a roof structure.\n- She stands next to the board, likely explaining the drawing in relation to the \"Tour Guide!\" activity.\n- The screen displays \"The Palace Museum\" under the \"Tour Guide!\" title, linking the visual content to the lesson's theme.\n\nThis structured narrative captures the evolution of visual elements and the teacher's actions, linking them explicitly to the content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a screen displaying the hook object: a slide titled \"B2 U4 History and Traditions\" with the subheading \"Discovering the Structure.\" The teacher gestures towards the screen, emphasizing the lesson's title and structure, setting the stage for the topic. As the lesson progresses, the teacher transitions to a new slide titled \"Tour Guide!\" featuring an image of a teacup and the section \"Activity 1.\" This shift signals a move from the general theme to a specific activity. The teacher then turns to the green chalkboard and begins drawing a roof structure, likely representing the Palace Museum, as indicated by the updated slide. Throughout this transition, the teacher's gestures and drawings on the board visually connect the lesson's theme to the practical activity, grounding the new knowledge in a tangible example. This approach helps bridge the students' existing understanding of history and traditions with the upcoming interactive task, facilitating a smooth introduction to the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sound Museum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 162.82]"
+      },
+      {
+        "id": "c2",
+        "label": "History and Traditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 162.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Transmission of Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 162.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Palace Museum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[164.96 -> 173.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Observing Structures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 162.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Activity 1: Tour Guide",
+        "type": "Visual",
+        "original_text": "Slide showing 'Tour Guide!' with a teacup image",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Drawing on Chalkboard",
+        "type": "Visual",
+        "original_text": "Teacher draws a roof structure on the chalkboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "The Palace Museum on Screen",
+        "type": "Visual",
+        "original_text": "Screen displays 'The Palace Museum' under 'Tour Guide!'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged with Tour Guide Activity",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The Sound Museum concept includes a visit to the Palace Museum as an activity."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Historical knowledge evolves and is transmitted over time."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding history and traditions builds upon observing structures."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "The slide prompts the transition to practical application via drawing."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the specific location related to the lesson's theme."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Drawing visualizes the process of observing museum structures."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "engaged_with",
+        "intent": "Students show engagement with the visualized 'Tour Guide' activity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

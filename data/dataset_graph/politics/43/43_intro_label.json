@@ -1,0 +1,133 @@
+{
+  "video_name": "43_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the importance and implementation methods of integrated construction of ideological and political courses; master strategies for cultivating core disciplinary competencies within I&P classes; analyze the application of module integration in the context of the new college entrance examination.",
+  "transcript": "[0.0 -> 133.8] 那么我认为大中小资政课程一体化建设从小学就开始抓起是非常重要的所以这就要求资政课教师在进行资政课教学的过程当中一定要帮助学生构建宏观的知识框架让他们理解并构建自己的一个思维的思维上的一个建设其次我认为要注重模块融合面对现在的新高考背景下其实各科之间的知识建设指点之间的一个复杂程度综合程度都是有所提高的所以这就要求我们在思政课在讲思政课的时候比如我们在讲经济或者是在讲政治的时候我们要融入一些相关的社会的现象以及其他学科的例如我们在讲实践的时候我们可以引入一些科学的知识来达到模块融合更综合更全面的来培养人才最后我认为最重要的是理论要与实践相结合一定要构建活动型课堂让学生在课感觉到生动活泼有趣同时光讲理论它是不够的还要让学生亲身地去感受我们生动活泼的中国感受我们现在中国的发展盛况让他们自觉地将理论与实际相结合更好地落实公共参与政治认同法治意识科学精神这四个学科核心素养最后我认为私政课在整个育人体系过程中是非常重要的所以作为私政课教师在教育在课堂讲授的过程当中一定要帮助学生培养他们的科学的思维传递好中国的声音讲好中国故事我的即兴讲演到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a presentation slide displayed on the screen. The slide contains Chinese text: \"让评语绽放生花\" (Let the comments bloom like flowers).\n\n#### 2. **The Title Event**\n- The title on the screen is \"让评语绽放生花\" (Let the comments bloom like flowers). The teacher does not physically write this title; it is displayed on the screen. The teacher points towards the screen when addressing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, occasionally pointing towards the screen.\n- She uses hand movements to emphasize points, likely related to the content on the slide.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing the students.\n- The screen displays the title slide: \"让评语绽放生花\" (Let the comments bloom like flowers).\n- The teacher holds papers and begins speaking, occasionally looking at the screen.\n\n**Middle:**\n- The teacher gestures with her hands, emphasizing points as she speaks.\n- She points towards the screen, directing students' attention to the title.\n- The blackboard remains mostly blank, with some colored chalk marks on the left side.\n\n**End:**\n- The teacher continues to engage with the students, using hand gestures to reinforce her verbal communication.\n- The screen remains on the same title slide throughout the segment.\n\n### Summary\nThe introduction phase of the lesson is initiated by a slide titled \"让评语绽放生花\" (Let the comments bloom like flowers). The teacher uses hand gestures and points to the screen to engage students, though no additional content or objectives are visible on the board or screen during this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, holding papers and facing the students. The initial visual stimulus is a slide on the screen displaying the title \"让评语绽放生花\" (Let the comments bloom like flowers), serving as the hook to capture the students' attention. The teacher gestures with her hands while speaking, occasionally pointing to the title on the screen to emphasize its importance. The blackboard remains mostly blank, with some colored chalk marks visible on the left side, indicating potential areas for future content. Throughout the introduction, the teacher uses hand movements to engage the students, directing their focus to the screen. The slide remains static, maintaining the title as the central visual element. This approach sets the stage for the lesson, linking the concept of enhancing comments to the students' existing experiences with feedback and preparing them for deeper exploration of the topic. The teacher's gestures and emphasis on the title create a bridge, smoothly transitioning from the hook to the main topic, ensuring students are primed for the upcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Integrated Courses",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Ideological Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Core Disciplinary Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Module Integration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c5",
+        "label": "New College Entrance Examination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Comments Blooming like Flowers",
+        "type": "Visual",
+        "original_text": "Let the comments bloom like flowers",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Theory and Practice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Blank Blackboard",
+        "type": "Visual",
+        "original_text": "Mostly blank blackboard with colored chalk marks",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher using hand gestures and pointing at slide",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Integrated courses include ideologies as key elements."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Core competencies are developed through module integration."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Module integration evolves from the demands of the new examination system."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher uses the slide to emphasize key lesson themes."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Integrates theory with practice to enhance course efficiency."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Teacher gestures to visualize key points and engage students."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts deeper thinking about ideological themes."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Simple visual setup with blank blackboard scaffolds student focus on slide message."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,127 @@
+{
+  "video_name": "47_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Understand the impact of the Internet on daily life.",
+  "transcript": "[120.22 -> 348.9] 好各位男生们女士们准备好了吗是的好的我觉得你们很累了但我们应该继续吧第一个我们可以看到的让我们猜猜知道吗知道吗这是什么吗是电脑对吧你真聪明第二个是什么这是NP三对吧是NP三是电脑和NP三所以这两张图片能够反映什么呢电脑好好是关于互联网对不对我们可以说是互联网的生产所以我们可以看到互联网有很大的力量可以改变我们的生活对不对所以如果你没有互联网你没有电脑或MT三或手机所以你在你日常生活中或者在你时间中做什么可以请问为啥应该来说我说我说我说非常非常好所以我们可以看到这里有一个非常明显的词句说明了这个词句主要是谈论如何在网上保持安全和试图解决网上的试验所以这里是这个词句的主要概念因为在我们的日常生活中词句在我们的书中在第一个文章中经常告诉我们等你爱的这些小一丢瑞的牛派写起来的你给我个桑的花斯特瓦带我给宋来说那我什么的瑞佛的这些派西去是不拉买宋丢皮斯宋浩德尔凡的买的莱克斯莱克莱克莱所以它说的是什么呢它是座椅是坐下吧非常好好的所以这是座椅对吗对。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying \"UNIT 3 THE INTERNET\" with the subheading \"Assessing our progress.\"\n- The screen shows an image of a microwave and a mobile phone.\n- The teacher gestures towards the screen, likely introducing the topic of the internet and its impact on devices.\n\n**Middle:**\n- The screen transitions to a slide titled \"What can be reflected?\" with images of a microwave and a mobile phone.\n- The teacher points to the mobile phone image, emphasizing its relevance to the discussion.\n- A red starburst graphic appears with the text \"Power of the Internet,\" highlighting the internet's influence.\n- The teacher continues to gesture towards the screen, reinforcing key points about internet capabilities.\n\n**End:**\n- The screen changes to a \"Prediction\" slide with a text excerpt about the internet's impact on daily life.\n- The teacher writes \"Unit 3: The Internet\" on the blackboard and draws a simple leaf-like diagram.\n- A student stands and interacts with the teacher, possibly asking a question or making a comment.\n- The teacher points to the text on the screen while explaining, maintaining focus on the excerpt.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the \"Prediction\" slide with a text excerpt about the internet's impact on daily life. The slide includes a header with tabs labeled \"Prediction,\" \"Vocabulary,\" \"Reading,\" and \"Listening.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions:**\n  - The teacher writes \"Unit 3: The Internet\" on the blackboard.\n  - A simple leaf-like diagram is drawn on the blackboard.\n- **Modifications:**\n  - The teacher points to different parts of the text excerpt on the screen while speaking, likely emphasizing specific sentences or phrases.\n- **Deictic Gestures:**\n  - The teacher points to the text excerpt on the screen, specifically highlighting the sentence \"I know the Internet really helps the medical field and our daily life.\"\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize points on the screen, such as pointing directly at the text excerpt.\n- The red starburst graphic on the slide visually emphasizes the \"Power of the Internet.\"\n- The teacher's focus on the text excerpt suggests its importance in the lesson's context.\n\nThis structured visual evolution captures the teacher's method of linking physical actions to specific content, ensuring clarity and engagement in the classroom.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed \"UNIT 3 THE INTERNET\" with images of a microwave and a mobile phone, setting the stage for the lesson. The teacher began by gesturing towards these images, introducing the topic of the internet's influence on everyday devices. The screen then transitioned to a slide titled \"What can be reflected?\" featuring the same images. The teacher pointed to the mobile phone, emphasizing its significance, and a red starburst graphic appeared with the text \"Power of the Internet,\" visually underscoring the internet's impact.\n\nAs the lesson progressed, the screen shifted to a \"Prediction\" slide with a text excerpt discussing the internet's role in daily life. The teacher constructed a simple leaf-like diagram on the blackboard, labeled \"Unit 3: The Internet,\" while explaining the content. He annotated the text excerpt by pointing to specific sentences, particularly highlighting, \"I know the Internet really helps the medical field and our daily life,\" to illustrate key points.\n\nThroughout the lecture, the teacher used dynamic gestures, tracing the text on the screen to guide students through the reading. He interacted with a student, who stood and engaged with the material, reinforcing the collaborative learning environment. The teacher's emphasis on the text excerpt and the blackboard diagram worked synergistically to reduce cognitive load, providing both visual and verbal cues for better comprehension. The red starburst graphic and focused pointing gestures served as visual anchors, ensuring students grasped the central theme of the internet's pervasive influence.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internet",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.22 -> 348.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Daily Life Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.22 -> 348.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Medical Field",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.22 -> 348.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Microwave",
+        "type": "Visual",
+        "original_text": "Image of a microwave",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Mobile Phone",
+        "type": "Visual",
+        "original_text": "Image of a mobile phone",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Power of the Internet",
+        "type": "Visual",
+        "original_text": "Red starburst graphic with 'Power of the Internet'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Prediction Slide",
+        "type": "Visual",
+        "original_text": "Slide discussing internet's role in daily life",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Leaf Diagram",
+        "type": "Visual",
+        "original_text": "Diagram labeled 'Unit 3: The Internet'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[348.9]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Linking the concept of the Internet to its impact on daily life."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describing the Internet's role in enhancing the medical field."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Teacher uses microwave image to illustrate Internet's impact."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Teacher uses mobile phone image to discuss Internet's relevance."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Highlighting the Power of the Internet through graphic."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Demonstrating daily life's integration with the Internet."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Providing structural support through diagrammatic representation."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to consider daily life impacts, engaging actively."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

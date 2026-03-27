@@ -1,0 +1,158 @@
+{
+  "video_name": "19_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Understand the quantitative relationship between predators and their prey; construct simple food chains and analyze species impacts; identify the reciprocal interactions between organisms and the environment.",
+  "transcript": "[480.65999999999997 -> 555.9] 好请这位同学请回来同桌你认为他画得正确吗正确非常同意很好那同学们再思考一下当这个地区群当中羚羊的捕食者全部消失以后羚羊的数量又会如何变化呢暴增能不能请你把羚羊的数量变化补充在黑板上用虚线表示重新画一条青灰同学们看一下这位同学画的曲线非常正确但它还少了一个什么内容啊你看老师这里标了什么是不是要标明它到底是何物种包括刚刚的同学也是一样的好如果说这个猎豹消失羚羊的数量会显著增加而在这幅图片中一个草原上它不仅仅只有羚羊和猎豹啊它还有斑马那你能不能根据这个草原中的动物绘制出一条食物链呢\n[558.64 -> 642.88] 好这位同学我看到你已经画好了那如果说这个羚羊的数量那豹子你觉得会对斑马有什么样的影响会使得斑马的数量显著下降在我们生物在生物进化当中为什么羚羊的数量不会消失呢是因为它在进化当中产生了一个什么样的特征它是如何避免豹子的捕食的跑得很快而如果说豹子消失羚羊的数量增加会使得斑马的数量减少也就是当豹子消失的时候会导致另一种物种的数量减少甚至灭绝所以我们说捕食者在生物圈当中具有重要作用而这也体现了不同物种的影响在进化中的体现\n[648.48 -> 705.798367] 除此之外生物它总是生活在环境当中的呀在原始的大气中没有氧气最早的生物都是咽氧的这体现了生物与环境的什么特点什么关系相互适应是谁适应谁生物适应环境而光合生物的出现使得大气中有了氧气起向生物与环境的什么关系生物影响环境那你还能不能举出生物我们生活当中生物与环境关系的案例呢比如说沙漠中的骆驼",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the screen, directing attention to the content displayed.\n\n2. **The Visual Focus Point:**\n   - The focus was on the slide displayed on the screen, which contained text in Chinese. The teacher also referred to the blackboard, where the term \"协同进化\" (coevolution) was written.\n\n**Middle:**\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While engaging with students, the teacher used hand gestures to emphasize key points on the slide. She occasionally pointed to specific lines of text on the screen, guiding students to focus on particular information.\n   - The teacher also moved closer to the blackboard, gesturing towards the term \"协同进化\" to reinforce the concept being discussed.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher nodded and used affirmative gestures to validate student responses. She also wrote additional notes on the blackboard, such as \"物种A\" and \"物种B,\" to illustrate examples of coevolution.\n   - She circled important points on the slide with a pointer, visually highlighting key concepts as students responded.\n\n**End:**\n\n- The teacher summarized the discussion by pointing to the diagram on the blackboard, linking it back to the text on the slide. She used a final sweeping gesture to encompass both the blackboard and the screen, integrating the visual elements to reinforce the lesson's conclusion.\n\nThis structured interaction ensured that visual cues were consistently tied to both the blackboard content and the digital presentation, facilitating a cohesive learning experience.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the term \"协同进化\" alongside a diagram illustrating species interactions. The teacher began by making a sweeping gesture across the class, inviting students to engage with the concept displayed. She pointed directly to the screen, highlighting the text and signaling the start of an interactive discussion.\n\nAs students responded, the teacher moved fluidly between the blackboard and the screen. While a student explained their reasoning, she walked over to the board and jotted down key terms like \"物种A\" and \"物种B,\" visually mapping out the coevolutionary relationship. Her gestures directed attention to both the written notes and the digital content, ensuring students connected the examples to the broader concept.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the relevant points on the slide with a pointer. This visual confirmation was followed by her drawing arrows on the blackboard, linking the student's examples back to the main diagram of coevolution. This action reinforced the integration of new insights with the core lesson content.\n\nThroughout the interaction, the teacher's gestures and visual cues transformed passive reception into active construction. By physically connecting the student's responses to the lesson's framework, she guided students in synthesizing their understanding, moving from mere observation to meaningful engagement with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Predators",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[480.66 -> 555.90]"
+      },
+      {
+        "id": "c2",
+        "label": "Prey",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[480.66 -> 555.90]"
+      },
+      {
+        "id": "c3",
+        "label": "Species Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[558.64 -> 642.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Food Chains",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[558.64 -> 642.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Coevolution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[480.66 -> 555.90]"
+      },
+      {
+        "id": "c6",
+        "label": "Reciprocal Interaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[648.48 -> 705.80]"
+      },
+      {
+        "id": "c7",
+        "label": "Species A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[480.66 -> 555.90]"
+      },
+      {
+        "id": "c8",
+        "label": "Species B",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[480.66 -> 555.90]"
+      },
+      {
+        "id": "c9",
+        "label": "Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating species interactions",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Notes including terms 'Species A' and 'Species B'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Students Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c12",
+        "label": "Students Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Establishes the relationship between predators and prey."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Demonstrates coevolution's impact on species."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Food chains evolve from species interactions."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Reciprocal interactions evolve from coevolutionary principles."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Species A interaction builds upon reciprocal relationships."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Blackboard demonstrates Species A example."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Blackboard demonstrates Species B example."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram visualizes food chain concepts."
+      },
+      {
+        "source": "c11",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student responses prompt thinking on species impact."
+      },
+      {
+        "source": "c12",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Students questioning guides discussion on food chains."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

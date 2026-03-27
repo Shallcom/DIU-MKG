@@ -1,0 +1,218 @@
+{
+  "video_name": "10_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "geography",
+  "teaching_goal": "Understand the basic types and characteristics of China’s cultivated‑land resources; analyze the features and causes of cultivated‑land quality; develop the ability to conduct geographic data analysis using chart data.",
+  "transcript": "[234.56 -> 308.48] 那么首先呢我们上节课已经学习到了我国的耕地滋润盖矿是什么样的首先我们知道耕地它通常分为水田和旱地两种类型探地呢又分为水礁地和浮水礁地那么耕地资源的第一个特点是我国耕地资源绝对量大却人均不足我们可以看左边的这幅图会发现二零一至二零一五年我国耕地总面积的变化是怎么样的整体呈现减少趋势这也就预示着我们的耕地安全面临着一些问题那么接下来我们将继续合作探究一下耕地它现在的一些特点首先是它就依我国耕地资源的质量特点请同学们根据这个三十页的这幅图还有二十九页去归纳一下我国耕地资源的质量特点给同学们一分钟的思考时间。\n[321.58 -> 365.62] 好我们看大家都应该已经想到结果了你看这幅图它会它们是它把这幅图把耕地分为了几种等级那么我们可以看到我国耕地资源的主要质量特点是什么呢整体上是我看中等地低等地是不是占大部分呀也就说总体上它的质量是偏低的对那就是第一个特点那第二个我们要分析影响耕地质量的主要原因那大家结合一下课本思考一下。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes \"21亿亩\" on the blackboard, indicating a focus on land area.\n- The screen displays a title slide: \"耕地资源与国家粮食安全\" (Cultivated Land Resources and National Food Security).\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher points to a slide with a graph showing changes in cultivated land area from 1996 to 2010.\n- The graph is color-coded, with a declining trend line, emphasizing land reduction.\n- The teacher writes \"耕地\" (cultivated land) on the blackboard, reinforcing the topic.\n\n**End:**\n- The teacher presents a pie chart titled \"我国耕地资源质量分布 (2014)\" (Distribution of China's Cultivated Land Quality, 2014).\n- The chart shows different quality grades: 优等 (excellent), 良等 (good), 中等 (medium), 差等 (poor).\n- The teacher highlights specific sections of the pie chart, likely discussing quality distribution.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the pie chart showing the distribution of cultivated land quality in China (2014).\n- The chart is color-coded: green for 优等 (excellent), light green for 良等 (good), yellow for 中等 (medium), and pink for 差等 (poor).\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"耕地\" on the blackboard while discussing the pie chart.\n- **Modifications**: The teacher points to different sections of the pie chart, likely explaining the significance of each quality grade.\n- **Deictic Gestures**: The teacher points to specific segments of the pie chart, such as the \"优等\" (excellent) and \"差等\" (poor) sections, while explaining their implications.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the declining trend in the graph and the distribution in the pie chart.\n- Specific sections of the pie chart are highlighted through pointing, drawing attention to the quality distribution.\n\nThis structured visual evolution helps students understand the relationship between cultivated land resources and food security, using both quantitative data and visual aids.",
+  "visual_narrative": "Initially, the bulletin board displayed a title slide introducing \"耕地资源与国家粮食安全\" (Cultivated Land Resources and National Food Security), setting the stage for the lecture. The teacher then constructed a graph illustrating the decline in cultivated land area from 1996 to 2010, using color-coded lines to emphasize the trend. As the lecture progressed, the teacher annotated the blackboard with \"21亿亩\" and \"耕地,\" reinforcing key numerical and conceptual points. The teacher traced the declining slope of the graph to highlight the reduction in land availability. Transitioning to a pie chart titled \"我国耕地资源质量分布 (2014),\" the teacher derived insights into land quality distribution, pointing to segments representing \"优等\" (excellent), \"良等\" (good), \"中等\" (medium), and \"差等\" (poor) grades. By tracing the \"差等\" section, the teacher illustrated the challenges posed by lower-quality land. Finally, the teacher circled critical data points on the pie chart, aligning visual emphasis with the conclusion about food security implications. This structured visual approach, combining graphs and charts with targeted annotations, reduced cognitive load by providing clear, step-by-step visual cues that complemented the verbal explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultivated Land",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Geographic Data Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c3",
+        "label": "Land Area",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c4",
+        "label": "China's Food Security",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c5",
+        "label": "Cultivated Land Types",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Watered Farmland",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Non-Watered Farmland",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.56 -> 308.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Land Quality Distribution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[321.58 -> 365.62]"
+      },
+      {
+        "id": "c9",
+        "label": "Excellent Quality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[321.58 -> 365.62]"
+      },
+      {
+        "id": "c10",
+        "label": "Good Quality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[321.58 -> 365.62]"
+      },
+      {
+        "id": "c11",
+        "label": "Medium Quality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[321.58 -> 365.62]"
+      },
+      {
+        "id": "c12",
+        "label": "Poor Quality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[321.58 -> 365.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Land Area on Blackboard",
+        "type": "Visual",
+        "original_text": "21 百万亩 written to indicate land area",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide on Screen",
+        "type": "Visual",
+        "original_text": "Cultivated Land Resources and National Food Security",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Declining Land Area Graph",
+        "type": "Visual",
+        "original_text": "Graph showing declining trend from 1996 to 2010",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Cultivated Land Quality Pie Chart",
+        "type": "Visual",
+        "original_text": "Pie chart showing land quality distribution in 2014",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Data Analysis",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher writes the land area on the blackboard to visualize the concept of cultivated land area."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The teacher uses the title slide to emphasize the connection between cultivated land and national food security."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The graph visualizes the declining trend in cultivated land area from 1996 to 2010."
+      },
+      {
+        "source": "c8",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "The pie chart visualizes the distribution of cultivated land quality in 2014."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The understanding of land area is fundamental to discussing its impact on food security."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Cultivated land types include both watered and non-watered farmland."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Watered farmland is a type of cultivated land."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Non-watered farmland is a type of cultivated land."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Land quality distribution includes excellent quality."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Land quality distribution includes good quality."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Land quality distribution includes medium quality."
+      },
+      {
+        "source": "c8",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Land quality distribution includes poor quality."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "The engaged state of students prompts them to think critically about geographic data analysis."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding land quality distribution prompts students to consider its implications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

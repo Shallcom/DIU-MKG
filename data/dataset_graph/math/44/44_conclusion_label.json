@@ -1,0 +1,153 @@
+{
+  "video_name": "44_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the distinction between a vector’s magnitude and the vector itself; master the geometric representation of vectors and its applications; be able to differentiate between lowercase letter notation and vector symbols.",
+  "transcript": "[701.427333 -> 737.44] 那这个时候老师要问一个问题刚才我们讲到了向量的模这是一个新的东西新的知识点我们知道向量的模它是向量的大小那向量的模有方向吗没有它只是一个单纯的数对不对那因此呢它是一个数量作为一个数量就可以进行大小的比较那么对应的老师再问向量它可以进行大小比较吗大家想一想对比向量的模向量和向量的模区别在什么是不是在于向量是只有大小向量是既有大小又有方向的它是一个物理中可以称为是一个矢量那如果我们去比较它的大小的话就是一个没有意义的事情所以说我们称向量是不可以比较大小的这个地方大家一定要注意好那到这里呢我们就已经学习了向量以及向量的几何表示当然除了向量用有象限段AB这种表示的方法外呢我们也可以用一些小写字母ABC等来进行表示。\n[739.24 -> 759.0] 这里一定要注意我们在写法上小写的字母ABC上面是有一个箭头的这也就体现了字母A与这个象量A它们之间的区别那对于我们刚才强调的象量它有两点大小和方向剪刀大小是要说吗是要说剪刀。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key points and formulas from the lesson.\n   - The blackboard is divided into sections with bullet points and mathematical expressions.\n   - The right side of the blackboard has a formula: $\\frac{\\vec{A} \\cdot \\vec{B}}{|\\vec{B}|}$, indicating a vector projection concept.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard includes:\n     - \"6.1 平面向量的基本概念\" (Basic Concepts of Plane Vectors)\n     - \"一、向量：既有大小，又有方向的量\" (Vectors: Quantities with both magnitude and direction)\n     - \"二、向量的记法表示\" (Notation of Vectors)\n     - \"向量的模的记法表示：记作 $|\\vec{A}|$\" (Notation of Vector Magnitude: Denoted as $|\\vec{A}|$)\n     - \"向量的大小叫做向量的模(长度)\" (The size of a vector is called its magnitude (length))\n     - \"记作 $|\\vec{A}|$\" (Denoted as $|\\vec{A}|$)\n   - The screen displays a title: \"二、投影研究，向量概念\" (Projection Study, Vector Concept).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the section labeled \"一、向量：既有大小，又有方向的量\" (Vectors: Quantities with both magnitude and direction) to emphasize the definition of vectors.\n   - The teacher gestures towards the formula $\\frac{\\vec{A} \\cdot \\vec{B}}{|\\vec{B}|}$, likely explaining its significance in vector projection.\n   - The teacher uses hand movements to highlight different parts of the blackboard, ensuring students focus on key concepts.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The screen remains blank, suggesting the conclusion of the lesson or preparation for the next topic.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the basic concepts of plane vectors. The teacher visually reviews the content by pointing to each section in sequence, starting with the definition of vectors as quantities with both magnitude and direction. She emphasizes the notation of vector magnitude, denoted as $|\\vec{A}|$, and gestures towards the vector projection formula $\\frac{\\vec{A} \\cdot \\vec{B}}{|\\vec{B}|}$, highlighting its importance. The visual focus remains on the blackboard, with no explicit homework or next-step instructions visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Plane Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[701.43 -> 759.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Magnitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[701.43 -> 737.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Vector Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[701.43 -> 737.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Projection Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[739.24 -> 759.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Vector Notation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[701.43 -> 759.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Magnitude Notation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[739.24 -> 759.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Scalar Quantity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[701.43 -> 737.44]"
+      },
+      {
+        "id": "c8",
+        "label": "Vector Comparison",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[701.43 -> 737.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Key points and formulas from the lesson on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Vectors with Magnitude and Direction",
+        "type": "Visual",
+        "original_text": "Section on vectors having both magnitude and direction.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Formula for Projection",
+        "type": "Visual",
+        "original_text": "Projection formula displayed on the board.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Plane vectors include the concept of magnitude."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Plane vectors include the concept of direction."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The projection formula is visualized using the board."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The notation of vectors is illustrated through a section of the board."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Vector magnitude as a scalar quantity builds upon basic mathematical concepts."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Principle of vector comparison builds upon understanding of vectors in a plane."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Summary on the board helps students remain engaged."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Magnitude notation is visualized to emphasize its representation."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Vector magnitude is summarized on the blackboard."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,138 @@
+{
+  "video_name": "20_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "- Understand the reasons and analytical methods for students not submitting assignments.  \n- Master how to conduct learning‑situation analysis in educational management.  \n- Foster teachers' sense of responsibility toward students' learning conditions.",
+  "transcript": "[0.0 -> 166.82] 是一个怎么说呢它是一个突发情况但是它不完全是学生的责任有时候这其中老师也有一定的责任那我将从两个方面对这个问题进行剖析首先从探印方面与学生接触最多的就是班上的班委首先这个时候我就会把班上的负责这一科的班委的同学叫过来询问他到底班上的同学是怎样的一种情况他们作业没有提交那这个时候肯定会有两种情况第一种就是确实是出于一些班委政策实施的力度没有到位然后班上的同学没有及时地教导另外一种就是学生对于这个科目他的作业的难度以及量方面产生了一些排斥的情绪那这个时候就要及时地反思了反思谁呢反思的就是教师如果是我那一科的学生我就会反思自己在教学过程当中我的作业的布置量就是还有布置的难度以及我给他们写作业的时间再一次是要召开一个班级的就是召开一个我和班主任与教师之间的会议询问这个科任老师他们对于学生的这种作业是如何布置的作业的要求是怎么样首先这是一个看阴第二个话第二方面呢我从试测两个这个方面来讲首先是作业量上要要求老师的布置作业的量要一定的减少因为学生不仅仅只是学习其实更多的还要给他们一些放松的时间第二个是从作业的度这个度是它的难度有时候要根据学生我的教学要根据我教学的这个难度来对学生的作业布置就是可以就是拿难度稍微大一点但是不能够超过他们的能力第三个是作业的时长安排我作业的时长安排应该尽量做到科学合理以上是我的即兴演讲下面是我的教学片段展示。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual content on the screen is a slide with the text \"教学片段展示\" (Teaching Segment Demonstration). The background appears to be a blurred image, possibly of water or a natural scene.\n\n#### 2. **The Title Event**\n- The title \"教学片段展示\" is displayed on the screen. The teacher does not write this on the board but points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the board or screen during this segment.\n\n#### 4. **Key Gestures**\n- The teacher stands in front of the board and screen, using hand gestures to emphasize points. She occasionally points towards the screen, likely to draw attention to the title or content displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is initially seen writing on the green chalkboard. The board has some colorful magnets and writing on the left side, though the exact content is not fully visible.\n- The screen displays the slide with \"教学片段展示\" and a blurred background image.\n\n**Middle:**\n- The teacher moves away from the board and stands in front of the screen, gesturing with her hands. She points towards the screen, directing the students' attention to the title.\n- Students are seated, facing the teacher and the screen, appearing attentive.\n\n**End:**\n- The teacher continues to gesture, possibly explaining or introducing the topic related to the slide. She maintains eye contact with the students, ensuring engagement.\n- The screen remains unchanged, still displaying the initial slide with \"教学片段展示.\"\n\n### Summary\nThe introduction phase of the lesson begins with the teacher using a slide titled \"教学片段展示\" as the hook object. The teacher's gestures, such as pointing to the screen, emphasize the title and engage the students. The visual focus remains on the slide, with no additional objectives or content introduced on the board during this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the green chalkboard, which is adorned with colorful magnets and some writing. The initial visual stimulus is a slide on the screen displaying \"教学片段展示\" over a blurred background, possibly of water, serving as the hook to capture the students' attention. The teacher transitions from writing on the board to standing in front of the screen, using hand gestures to emphasize the title. She points directly at the screen, ensuring the students focus on the displayed content. Throughout this phase, the teacher maintains engagement by gesturing and maintaining eye contact, creating a bridge from the hook to the main topic. The consistent visual emphasis on the slide's title helps establish the lesson's focus, linking the introduction to the students' existing experiences by highlighting the demonstration aspect, setting the stage for the forthcoming content. This approach primes the students for active participation and connects the new knowledge to their learning journey.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Teacher Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Assignment Submission Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Peer Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Workload Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Workload",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c7",
+        "label": "Assignment Difficulty",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 166.82]"
+      },
+      {
+        "id": "c8",
+        "label": "Teaching Segment Slide",
+        "type": "Visual",
+        "original_text": "Slide with 'Teaching Segment Demonstration' over blurred background",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Analyzing students' role in assignment submission."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Examining teachers' influence on assignment submission."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Peer inquiry informs assignment submission analysis."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Reflecting on workload as part of teacher responsibility."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Considering student workload in teacher reflection."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Evaluating assignment difficulty in workload reflection."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher uses slide to engage students."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Assignment analysis linked to visual slide content."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students consider their responsibility in learning."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students reflect on teacher's role in learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

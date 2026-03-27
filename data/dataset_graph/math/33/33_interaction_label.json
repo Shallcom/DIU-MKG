@@ -1,0 +1,191 @@
+{
+  "video_name": "33_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concept of event independence; master the fundamental methods for calculating probabilities of independent events.",
+  "transcript": "[180.0 -> 188.04] 下面开始我的模拟上课了。\n[189.16 -> 246.2] 同学们好同学们在之前我们学习了数的相关知识并且从数的分类数的性质以及数的运算等角度去研究那么在本章我们学习了概率的相关知识并且呢我们可以类比数的学习从事件的分类事件的概率性质以及和事件的概率计算这是我们上一节课所学习的知识那么在数的运算中除了加法还有哪些呢加减乘除也就是乘法对不对那么类似的加法既然有核事件那既然也就有机事件那么机事件的概率计算又该如何进行呢但是这样的问题我们今天就一起来学习事件的相对独立性。\n[261.62 -> 300.0] 首先呢我们来看这样的问题有一枚有两枚质地均匀的硬币同时抛置我们记事件A为第一枚硬币正面朝上而事件B记为第二枚硬币反面朝下同学们事件A发生的概率是否会与事件B产生影响你在摇头我觉得不会产生影响为什么因为两个字事件是独立的你又怎样发现为什么是独立的因为它是第一次它是两枚置地均匀的所以是不影响的也就是第一次硬币抛弃的时候跟第二枚硬币是没有关系的对不对也就不会产生影响好请坐那么我们又该如何计算事件PA事件PB以及事件PAB的值呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the digital slide titled \"10.2 事件的相互独立性\" (Independence of Events). The slide displayed a definition and a problem statement, which served as the central artifact for discussion.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded, providing non-verbal encouragement. The teacher also pointed to specific parts of the slide, such as the definition box, to guide the student's response and ensure alignment with the lesson content.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher used the marker to underline key terms on the slide, visually reinforcing correct points. The teacher also drew a small diagram on the blackboard to illustrate the concept of independent events, providing a visual aid to clarify any misunderstandings.\n\n**Chronological Log of Visual Events:**\n\n- **Initial Gesture:** The teacher made a sweeping gesture across the classroom, signaling the start of an interactive session.\n- **Focus on Slide:** The teacher directed attention to the slide titled \"10.2 事件的相互独立性,\" highlighting the definition and problem statement.\n- **Student Response:** While listening, the teacher nodded and pointed to the definition box on the slide, guiding the student's explanation.\n- **Feedback and Elaboration:** The teacher underlined key terms on the slide and drew a diagram on the blackboard to visually confirm and elaborate on the student's input, ensuring clarity and understanding.\n\nThis structured approach ensured that visual elements were effectively used to co-construct knowledge, maintaining focus and engagement throughout the interaction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the slide titled \"10.2 事件的相互独立性,\" featuring a definition and a problem statement. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content. This broad gesture signaled the start of an interactive session, focusing attention on the problem at hand.\n\nAs the teacher facilitated the discussion, they moved towards the board, pointing to the definition box to guide the student's response. While the student explained their reasoning, the teacher walked over to the board and jotted down key terms from the student's explanation, reinforcing the connection to the lesson content. The teacher's supportive gestures, such as nodding and maintaining eye contact, encouraged the student to elaborate on their understanding.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the final number on the screen, visually confirming the correctness of the response. This action served as a clear affirmation of the student's understanding.\n\nFinally, the teacher drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, linking the new knowledge to the core lesson content. This visual connection helped students see the relevance of their response within the broader context of the lesson.\n\nThrough these gestures, the teacher transformed the classroom into an active learning environment, where students moved from passively receiving knowledge to actively constructing their own understanding. The visual orchestration ensured that each step of the interaction reinforced the lesson's objectives, fostering deeper comprehension and engagement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Event Independence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[189.16 -> 246.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Probability Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[189.16 -> 246.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Addition Operation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[189.16 -> 246.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Multiplication Operation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[189.16 -> 246.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Event A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[261.62 -> 300.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Event B",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[261.62 -> 300.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Coin Flip",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[261.62 -> 300.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Probability of Event A",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[261.62 -> 300.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Probability of Event B",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[261.62 -> 300.0]"
+      },
+      {
+        "id": "c10",
+        "label": "Probability of Events A and B",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[261.62 -> 300.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Independence of Events Slide",
+        "type": "Visual",
+        "original_text": "Slide featuring definition and problem statement on event independence.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Definition Box",
+        "type": "Visual",
+        "original_text": "Box on slide showing the definition of event independence.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Diagram of Independent Events",
+        "type": "Visual",
+        "original_text": "Teacher draws illustrating diagram on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Explaining",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide presents the principle of event independence."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Definition box highlights the principle of event independence."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Diagram clarifies the concept of independent events."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Probability calculation involves calculating the probability of Event A."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Probability calculation involves calculating the probability of Event B."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Probability calculation involves calculating the probability of Events A and B."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Probability calculation using addition is an evolution from simple addition operation."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Probability calculation using multiplication is an evolution from simple multiplication operation."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Event A is identified from a coin flip."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Event B is identified from a coin flip."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student explanation is prompted by understanding event independence."
+      },
+      {
+        "source": "s2",
+        "target": "c10",
+        "relation": "praises_response",
+        "intent": "Teacher praises student's correct probability calculation of Events A and B."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

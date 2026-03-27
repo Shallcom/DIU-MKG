@@ -1,0 +1,165 @@
+{
+  "video_name": "7_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Be able to summarize the basic fermentation process; be able to identify and apply existing biotechnologies in the fermentation process.",
+  "transcript": "[385.08 -> 418.72] 随着人类对环境发酵的认识维生物成培养的技术的建立以及历史发酵官的设计成功在联合控制的环境条件下发挥过生产发酵产品看来同学们的总结归纳能力都非常的好那么我们接下来来阅读一下书本第二十二页到二十三页的图一杠九来思考一下这两个问题\n[435.0 -> 458.24] 同学们能不能初步地把我们的基本流程写一写呢仔细观察在这些材料中有哪些是我们之前已经学习过的一些生物技术呀\n[465.0 -> 544.52] 老师看同学们好像都写得差不多了那我想请一位同学来黑板上写一写你总结出来的流程我们请这位同学来写一下好吗下面的同学思考第二个问题的同时也来看一下我们第一位同学写的正不正确有没有需要修改的地方\n[555.0 -> 560.0] 还没有动起笔的同学也抓紧时间把你们的笔动起来在纸上写一写",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interaction. She then pointed directly to a student, indicating that she was inviting a response or participation from that student.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the content displayed on the interactive whiteboard. The slide presented a diagram and text related to a specific topic, likely involving a process or system, as indicated by the structured layout and annotations.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While the student approached the board, the teacher stood nearby, observing and ready to assist. She maintained eye contact with the student, providing non-verbal encouragement. As the student began to interact with the board, the teacher pointed to specific parts of the diagram on the slide, guiding the student’s attention to relevant areas.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- Once the student completed their interaction, the teacher reviewed the changes made on the board. She nodded and smiled, providing visual affirmation of the student's efforts. If necessary, she would have drawn additional annotations or highlighted key points on the diagram to clarify or correct the student's input, ensuring understanding was reinforced visually.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the interactive whiteboard, which displays a slide with a diagram and text. She gestures broadly towards the class, signaling the start of an interaction.\n  - She points directly at a student, inviting them to participate.\n\n- **Middle:**\n  - The student approaches the board. The teacher observes, maintaining eye contact and providing non-verbal encouragement.\n  - The teacher points to specific sections of the diagram on the slide, guiding the student’s focus.\n\n- **End:**\n  - The student interacts with the board, possibly writing or pointing at elements of the diagram.\n  - The teacher nods and smiles, offering visual confirmation of the student's input.\n  - If needed, the teacher adds annotations or highlights on the diagram to clarify or correct, ensuring the student's understanding is visually reinforced.\n\nThis structured interaction ensures that the teacher’s visual strategies effectively manage the dialogue, support student participation, and validate learning outcomes.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a detailed diagram and text related to a specific process, serving as the focal point for the lesson. The teacher began by standing in front of the interactive whiteboard, making a sweeping gesture towards the class to capture their attention. She then pointed directly at a student, inviting them to participate actively in the discussion.\n\nAs the student approached the board, the teacher moved closer, maintaining eye contact and providing non-verbal encouragement through nods and smiles. While the student interacted with the content, the teacher walked over to the board and pointed to specific sections of the diagram, guiding the student’s focus and ensuring they addressed key elements of the topic. Her supportive gestures and attentive posture created an environment conducive to active learning.\n\nTo validate the student's input, the teacher gave a distinct nod and possibly circled or highlighted critical parts of the diagram that the student had addressed. This visual confirmation reinforced the student's correct understanding and encouraged further engagement.\n\nFinally, the teacher drew connections between the student's response and the core lesson content by pointing back to the main concepts displayed on the board. She may have drawn arrows or lines linking the student's contributions to the primary diagram, illustrating how their input fit into the broader framework of the lesson. This visual linkage helped students see the relevance of their participation and solidified their understanding of the material.\n\nThrough these orchestrated visual strategies, the teacher facilitated a dynamic interaction where students moved from passively receiving knowledge to actively constructing their own understanding, fostering a deeper and more meaningful learning experience.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Fermentation Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[385.08 -> 418.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Environmental Control",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[385.08 -> 418.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Microbial Cultivation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[385.08 -> 418.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Fermenters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[385.08 -> 418.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Biotechnology Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[435.0 -> 458.24]"
+      },
+      {
+        "id": "c6",
+        "label": "Basic Fermentation Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing basic fermentation process",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gesture",
+        "type": "Visual",
+        "original_text": "Teacher gesture inviting student participation",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Eye Contact",
+        "type": "Visual",
+        "original_text": "Teacher maintaining eye contact for encouragement",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Visual Confirmation",
+        "type": "Visual",
+        "original_text": "Teacher nodding and smiling as feedback",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Blackboard Revision",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[465.0 -> 544.52]"
+      },
+      {
+        "id": "c12",
+        "label": "Student Summarization",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c13",
+        "label": "Materials Observation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[435.0 -> 458.24]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Teacher uses diagram to explain fermentation process."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Environmental control is essential for fermentation process."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Microbial cultivation is part of biotechnological applications."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Modern fermenters evolve from historical designs."
+      },
+      {
+        "source": "c7",
+        "target": "c12",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement leads to active summarization."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Teacher gesture encourages student engagement."
+      },
+      {
+        "source": "c9",
+        "target": "c12",
+        "relation": "scaffolds",
+        "intent": "Eye contact supports student answering and confidence."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "praises_response",
+        "intent": "Nods and smiles affirm student's summarization efforts."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Blackboard revision highlights biotechnology applications."
+      },
+      {
+        "source": "c13",
+        "target": "c12",
+        "relation": "guides_discussion",
+        "intent": "Observation of materials guides student in summarizing process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

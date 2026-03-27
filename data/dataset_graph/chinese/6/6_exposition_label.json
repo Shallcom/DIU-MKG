@@ -1,0 +1,159 @@
+{
+  "video_name": "6_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "Analyze the contradictions in literary works and their symbolic meanings; understand the development of contradictions from confusion to resolution.",
+  "transcript": "[144.0 -> 208.06] 上课同学们好好师好通过前面啊我们队这对矛盾点的学习我们了解到了文章中作者发现了从为何要烧腊成灰就是压断看到了吗原来是要烧出你的光来实际上这样的一个矛盾是要顺应规律的除了这一矛盾之外作者还有怎样的矛盾呢它是怎样从开始的问题到后面的答案太近了谢谢您好。\n[234.0 -> 264.0] 谁有想法了是怎样由开始的困惑不解到内心的不断叩问在与红竹的润滑中找到自己的答案的你有想法来听听是在一个地图里放十二朵红竹将人奏耳里面是会烧的既烧之又何苦伤心流泪我知道是残风来倾你的光芒你烧得不稳时才着急的那个人说了他内心怎意已过就是对不伤心的原谅和忍受的矛盾是啊而这种矛盾从开始的何苦伤心流泪知道是残风来倾你的光芒你伤得不稳时才急着流泪实际上他的这种流泪并不是对自身行为的不满而是由于残风这种外力的侵袭此时这种矛盾你觉得还象征着哪些生活中的境遇或者是哪些情况呢啊谁有自己的思考好说出你的想法来谈风来亲爱的光芒在我们的生活中或许也会有这种这么纯粹的自然情况然而它还可能象征着我们生活中所遇到的种种挫折在这种矛盾中啊我们都就看到这些信息。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The main visual anchor is the digital screen displaying a slide titled \"红烛\" (Red Candle) by 郁达夫 (Yu Dafu). The blackboard has the word \"红烛\" written in white chalk.\n- **Teacher's Actions**: The teacher stands near the blackboard, holding papers. She gestures towards the screen, likely introducing the topic.\n- **Visual Details**: The screen shows three lines of text, which appear to be quotes or excerpts related to the lesson.\n\n#### Middle\n- **Teacher's Actions**: The teacher moves closer to the screen, pointing at the text. She emphasizes specific phrases, possibly explaining their significance.\n- **Visual Details**: The screen content remains static, displaying the same text. The teacher's gestures direct attention to different parts of the text.\n- **Highlighting Strategy**: The teacher uses hand movements to underline or circle parts of the text on the screen, though no digital annotations are visible.\n\n#### End\n- **Teacher's Actions**: The teacher continues to reference the screen, occasionally looking at the students to check understanding. She holds the papers, possibly preparing to read or discuss further content.\n- **Visual Details**: The blackboard remains unchanged, with \"红烛\" still visible. The screen continues to display the same text, maintaining focus on the lesson's core content.\n\n### Exposition - Knowledge Flow Tracking\n\n1. **The Core Artifact (Static)**:\n   - **Initial State**: The digital screen displays the title \"红烛\" and three lines of text. The blackboard has \"红烛\" written in white chalk.\n\n2. **The Derivation Process (Dynamic)**:\n   - **Additions**: The teacher does not add new content to the board or screen during this segment.\n   - **Modifications**: No erasures or changes are made to the existing content.\n   - **Deictic Gestures**: The teacher points to specific lines of text on the screen, likely explaining their relevance to the lesson.\n\n3. **The Highlighting Strategy (Emphasis)**:\n   - **Visual Cues**: The teacher uses hand gestures to emphasize parts of the text on the screen. No additional visual markers like color changes or underlining are observed.\n\n### Chronological Log of Visual Events\n\n1. **Introduction**:\n   - Teacher gestures towards the screen displaying \"红烛.\"\n   - Blackboard shows \"红烛\" written in white chalk.\n\n2. **Explanation**:\n   - Teacher points at specific lines of text on the screen.\n   - Uses hand movements to highlight key phrases without digital annotation.\n\n3. **Engagement**:\n   - Teacher looks at students, possibly asking questions or seeking feedback.\n   - Maintains focus on the screen content, reinforcing the lesson's main points.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, providing a detailed understanding of the classroom dynamics.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"红烛\" by 郁达夫, serving as the primary visual anchor. The blackboard prominently featured the word \"红烛\" in white chalk, setting the thematic focus. The teacher began by gesturing towards the screen, introducing the three lines of text that appeared to be key excerpts from the lesson. As the lecture progressed, the teacher constructed a narrative by pointing to specific phrases on the screen, tracing the significance of each line to illustrate the literary themes. She used deliberate hand movements to emphasize particular words, aligning her verbal explanations with these visual cues. Throughout the session, the teacher maintained focus on the screen content, occasionally looking at the students to ensure comprehension. The consistent visual emphasis on the screen's text, combined with the static blackboard title, helped reduce cognitive load by keeping the core concepts centralized. Finally, the teacher reinforced the lesson by summarizing the key points, ensuring that the visual and verbal elements cohesively delivered the educational content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Red Candle Slide",
+        "type": "Visual",
+        "original_text": "The slide displays 'Red Candle' by Yu Dafu and three lines of related text.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Red Candle Blackboard",
+        "type": "Visual",
+        "original_text": "'Red Candle' written on the blackboard in white chalk.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[144.0 -> 264.0]"
+      },
+      {
+        "id": "c1",
+        "label": "Contradictions in Literature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[144.0 -> 208.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Symbolic Meanings",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[234.0 -> 264.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Development of Contradictions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[144.0 -> 208.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Resolution of Confusion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[234.0 -> 264.0]"
+      },
+      {
+        "id": "c5",
+        "label": "External Influences",
+        "type": "Concept",
+        "knowledge_type": "Factor",
+        "timestamp": "[234.0 -> 264.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Literary Themes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[144.0 -> 208.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Emotional Response",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[144.0 -> 208.06]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Insights",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[234.0 -> 264.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide serves as a visual anchor for discussing literary contradictions."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "The slide highlights the primary themes to be discussed."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard reinforces the lecture's main theme."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Understanding contradictions includes exploring their development."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Contradictions evolve from confusion to resolution."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Development involves understanding external influences."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Literary themes include analyzing symbolic meanings."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Students think about their emotional responses to key literary themes."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "guides_discussion",
+        "intent": "Student engagement guides the discussion on their insights."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Symbolic meanings are influenced by external factors."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Literary contradictions influence emotional responses."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,171 @@
+{
+  "video_name": "17_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the standard equation of an ellipse; master the basic geometric properties of ellipses and the methods for deriving them.",
+  "transcript": "[142.167025 -> 163.42] 好下面进行我的模拟授课环节那好现在我们来开始上课那在开始本节课的学习之前请同学们来听这样一句话伟大的数学家加德纳曾经说过这样一句话数学的真谛在于不断寻求用越来越简单的方法来证明定理和解决数学问题那希望同学们带着对这一句话开启我们本节课的数学学习那今天我们要学习的内容为椭圆的简单几何性质。\n[166.48 -> 189.38] 那在开始本节课的知识之前请同学们来看现在这是一个湖面上面呢为我国的国家大剧院的主体现在请同学们想一想国家大剧院的主体以及湖面中的倒影它会形成一个什么图形呢那现在给同学们一些时间来进行思考。\n[207.24 -> 274.8] 好时间到我们来请这位同学来说一下你觉得它会是一个什么图形呢它会是一个椭圆非常好请坐那我们知道水面它是具有反射的那它就会形成这样一个图形此时它就形成了一个椭圆形现在我们将它不妨将这一生活情况转化为数学问题并建立直角坐标系那现在请同学们想一想我们知道椭圆的标准方程为X平方比A的平方加上Y的平方比B的平方等于一写A大于B大于零A那现在请同学们想一想它会具有哪些几何性质呢那现在我们不妨从定义的角度来进行分析那首先这是一个数学模型那现在想一想它会有什么矩直范围呢。\n[276.46 -> 284.33405] 根据我们现在不妨将这个椭圆用一个矩形给它框起来我们知道它的标准方程这样表示那如何得到X和Y的矩直范围呢我们可以将它进行转化的对不对我们这样我们就可以得到X大于等于负A小于等于A那Y呢应该是得到这边写错了应该是Y大于等于负B小于等于B那由此我们可以得到它的取值范围。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying the title \"3.1.2 椭圆的简单几何性质\" (Simple Geometric Properties of Ellipses).\n- She gestures towards the screen, indicating the start of the lesson.\n- The blackboard is initially empty except for some small text on the left side.\n\n**Middle:**\n- The teacher writes \"3.1.2 椭圆的简单几何性质\" on the blackboard, mirroring the screen content.\n- She points to a diagram on the screen showing an ellipse with axes labeled and a focus point.\n- The teacher uses hand gestures to emphasize the properties of the ellipse, tracing the shape and pointing to specific parts like the major and minor axes.\n\n**End:**\n- The teacher writes an equation on the blackboard, likely related to the ellipse's properties.\n- She continues to gesture towards the screen, which now displays a more detailed diagram with labeled axes and a mathematical expression.\n- The teacher circles key elements on the screen, such as the foci and axes, to highlight their importance.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying an ellipse diagram with labeled axes and foci.\n- The initial state includes a basic ellipse with a horizontal major axis, a vertical minor axis, and two foci.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the lesson title on the blackboard and adds an equation related to the ellipse's properties.\n- **Modifications**: She points to and circles specific parts of the ellipse diagram on the screen, such as the foci and axes, to explain their roles.\n- **Deictic Gestures**: When explaining, the teacher points to the foci and axes on the screen, saying \"this\" to indicate specific elements of the ellipse.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to trace the ellipse and point to key features.\n- She circles important parts of the diagram on the screen, such as the foci, to draw attention.\n- The use of the blackboard to write the lesson title and equations serves as a visual reinforcement of the key concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed the title \"3.1.2 椭圆的简单几何性质\" alongside a basic diagram of an ellipse with labeled axes and foci. The teacher began by writing the same title on the blackboard, establishing a visual anchor for the lesson. She then constructed the concept of an ellipse by pointing to the major and minor axes on the screen, tracing their lengths to illustrate their significance. As she spoke, she derived the properties of the ellipse, using hand gestures to trace the curve and highlight the positions of the foci. \n\nThe teacher annotated the diagram by circling the foci and axes, emphasizing their roles in defining the ellipse's shape. She resolved deixis by specifically pointing to these elements, saying \"this\" while tracing the major axis to show its impact on the ellipse's elongation. \n\nTo reduce cognitive load, the teacher alternated between the digital screen and the blackboard, reinforcing key points with written equations. She circled the final formula related to the ellipse's properties in red on the blackboard, aligning visual emphasis with the lesson's conclusion. This dual approach of dynamic gestures and static annotations ensured that students could follow the evolving concept with clarity.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Ellipse Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of an ellipse with labeled axes and foci on digital screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Ellipse",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[142.167025 -> 163.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Standard Equation of an Ellipse",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[276.46 -> 284.33405]"
+      },
+      {
+        "id": "c3",
+        "label": "Major Axis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[142.167025 -> 163.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Minor Axis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[142.167025 -> 163.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Foci",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.24 -> 274.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Reflective Property",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[207.24 -> 274.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Visual Anchor",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[142.167025 -> 163.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Mathematical Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[207.24 -> 274.8]"
+      },
+      {
+        "id": "c9",
+        "label": "Range of X and Y",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[276.46 -> 284.33405]"
+      },
+      {
+        "id": "c10",
+        "label": "Equation Derivation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[276.46 -> 284.33405]"
+      },
+      {
+        "id": "s1",
+        "label": "Reflective Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The concept of an ellipse includes its standard equation."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "An ellipse has a major axis as a key part."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "An ellipse has a minor axis as a critical element."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "An ellipse's geometric properties include its foci."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The reflective property of an ellipse is based on its foci."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The visual diagram represents the concept of an ellipse."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Range derivation emerges from the mathematical model."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Ellipse is conceptualized through a mathematical model."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "The derivation process leads to understanding the standard equation."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Introduction of ellipse prompts reflective thinking in students."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Diagram emphasizes the importance of the foci."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Visual anchor on screen supports the lesson structure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

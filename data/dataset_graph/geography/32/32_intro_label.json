@@ -1,0 +1,146 @@
+{
+  "video_name": "32_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the role of instructional design in high school geography teaching; master the connection between curriculum standards and textbook analysis; achieve the cultivation of core competencies through case analysis.",
+  "transcript": "[0.0 -> 117.84] 支持明镜与点点栏目各位评委老师各位同学大家好我是地理学科第三十二位成首然后我本次抽到的几季演讲的题目是是何为教学设计高中地理学科的教学中如何通过教学设计来实现育人价值首先呢我认为教学设计呢它就是教师进行上课的一个依据其中呢教学设计包含设计意图课程标准教材分析教学设计意图课程标准教材分析学习分析教学目标教学重点以及教学的教学策略还有教学方法那么在这个过程当中呢我们教师呢需要围绕课程标准来制定合适的教学策略以及教学的内容那课程标准呢就是依据地理的核心素养来从地理教学的方面来落实立得数人的根本任务在这个过程当中呢教师可以通过在设计教学过程当中呢融入施政元素比如说在本节课结束后学生可以培养他的人力协调官然后落实他的核心素养的培养。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The text on the slide reads: \"资源枯竭型城市的可持续发展——以淄川区鲁山区域为例.\"\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"资源枯竭型城市的可持续发展——以淄川区鲁山区域为例.\"\n- The teacher stands in front of the screen, gesturing towards the title, likely emphasizing its importance. There is no indication of underlining or additional writing on the screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen during this segment.\n\n#### 4. **Key Gestures**\n- The teacher moves towards the screen, possibly to emphasize the title.\n- The teacher holds papers and gestures with them, likely to engage with the audience or refer to notes.\n- The teacher points towards the screen, directing attention to the title.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher walks towards the screen where the title slide is displayed.\n- The slide reads: \"资源枯竭型城市的可持续发展——以淄川区鲁山区域为例.\"\n- The teacher stands in front of the screen, facing the audience.\n\n**Middle:**\n- The teacher gestures towards the screen, likely emphasizing the title.\n- The teacher holds papers and occasionally looks at them, possibly referring to notes or a script.\n\n**End:**\n- The teacher continues to gesture towards the screen, maintaining focus on the title.\n- The audience is seated, facing the teacher and the screen, indicating engagement with the presentation.\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title slide, which reads \"资源枯竭型城市的可持续发展——以淄川区鲁山区域为例.\" This serves as the hook, immediately drawing attention to the topic of sustainable development in resource-depleted cities. The teacher moves towards the screen, gesturing towards the title to emphasize its significance. Holding papers, the teacher occasionally refers to notes, suggesting a structured approach to the presentation. The visual focus remains on the title throughout, with the teacher pointing towards it to reinforce the main topic. This transition from the hook to the main topic is seamless, as the title slide remains the central visual aid. The teacher's gestures and positioning in front of the screen create a clear link between the introduction and the forthcoming content, setting the stage for an exploration of sustainable development strategies. This approach helps connect the new knowledge to the students' existing understanding of urban and environmental issues, preparing them for a detailed analysis of the case study.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Instructional Design Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c2",
+        "label": "High School Geography",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Curriculum Standards",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Textbook Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Case Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Resource-Depleted Cities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Sustainable Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "c9",
+        "label": "Zichuan District Example",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 117.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "\"Sustainable Development of Resource Depleted Cities — A Case Study of Zichuan District, Lushan Region\"",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Audience Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Instructional design role applied in high school geography teaching."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Textbook analysis involves applying curriculum standards."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Case analysis is used to cultivate core competencies."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Sustainable development strategies are needed for resource-depleted cities."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Zichuan District serves as a case study for resource-depleted cities."
+      },
+      {
+        "source": "c9",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Title slide displays the main case study example."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students engage with the information presented on the title slide."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Core competencies are developed through adherence to curriculum standards."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Main topic summarized by Zichuan District's example in sustainable development."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

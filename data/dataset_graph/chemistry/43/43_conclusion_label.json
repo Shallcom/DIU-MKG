@@ -1,0 +1,147 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Students will be able to explain how the structures of copper ions and ammonia influence complex formation; students will be able to analyze the mechanism by which ammonia, as a ligand, functions in drug delivery.",
+  "transcript": "[609.52 -> 646.64] 三D几来着对三D十CS一对三D十CS一那变成铜离子呢轨道就变成了对很好三D九那这样铜离子是不是就有空轨道了那接下来大家再画一下氨气它的电子式还想着电子式怎么画吗由它的元素符号然后加上最外层的电子对吧大家试着画一下。\n[659.02 -> 693.9] 好大家来看推板对于氨气你发现它有什么特点啊有一对啊孤对电子那刚刚我们说铜离子有控轨道而氨气的氮原子上有一对啊孤对电子那这样二者是不是就非常容易结合啊这就是我们从结构角度来分析配合物是如何形成的大家来看这是它的微观施育过程这是它的性质。\n[695.52 -> 714.02] 那我们知道配合物对我们人体也有非常重要的作用尤其是一些药物我们可以通过配离子这种独特的结构分析它的性质。\n[716.24 -> 746.3] 在药物运输尤其是靶向药物运输方面有比较重要的作用对人类起到非常重要的意义那我们这节课呢学习了氨气以及铜离子的结构并且分析了它们配合物形成的过程那同学们课后想一下配合物与简单离子又有什么不同呢稍后我们继续再探讨好同学们下课各位评委老师我的模拟授课结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a flowchart with two main circles connected by an arrow, labeled in Chinese characters. The screen also shows a molecular structure diagram and a text box with additional information.\n   - The blackboard on the left contains the chemical equation: \n     \\[\n     \\text{Ca(OH)}_2 + \\text{Na}_2\\text{CO}_3 \\rightarrow \\text{CaCO}_3\\downarrow + 2\\text{NaOH}\n     \\]\n   - Additional notes and annotations are present on the blackboard, including the phrase \"沉淀\" (precipitate) and \"反应\" (reaction).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main chemical equation: \n     \\[\n     \\text{Ca(OH)}_2 + \\text{Na}_2\\text{CO}_3 \\rightarrow \\text{CaCO}_3\\downarrow + 2\\text{NaOH}\n     \\]\n   - Key terms: \"沉淀\" (precipitate), \"反应\" (reaction).\n   - Digital screen content: Flowchart with two circles and an arrow, molecular structure diagram, and a text box with additional notes.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, emphasizing the reactants and products.\n   - She gestures towards the digital screen, highlighting the flowchart and molecular structure.\n   - The teacher circles the term \"沉淀\" (precipitate) on the blackboard to draw attention to the concept of precipitation in the reaction.\n   - She traces the arrow in the flowchart on the screen, explaining the process from one concept to another.\n\n4. **Transition to Next Step**:\n   - The digital screen displays a text box with additional information, possibly indicating further reading or next steps, but specific details are not clearly visible.\n   - No explicit homework or assignment slide is shown, but the teacher's gestures suggest a review of key concepts for the next lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a digital screen displaying a flowchart and molecular structure diagram, alongside the blackboard featuring the chemical equation:\n\\[\n\\text{Ca(OH)}_2 + \\text{Na}_2\\text{CO}_3 \\rightarrow \\text{CaCO}_3\\downarrow + 2\\text{NaOH}\n\\]\nThe teacher points to the chemical equation on the blackboard, emphasizing the reactants and products, while gesturing towards the flowchart on the screen to illustrate the reaction process. She circles the term \"沉淀\" (precipitate) on the blackboard, highlighting its significance in the reaction. The teacher traces the arrow in the flowchart, reinforcing the sequence of concepts. Although no explicit homework slide is shown, the screen includes a text box with additional notes, suggesting further review or next steps. The visual emphasis on key terms and diagrams consolidates the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Copper Ions Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.52 -> 614.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Ammonia Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[614.00 -> 620.00]"
+      },
+      {
+        "id": "c3",
+        "label": "Complex Formation Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[659.02 -> 669.00]"
+      },
+      {
+        "id": "c4",
+        "label": "Precipitate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.00 -> 694.00]"
+      },
+      {
+        "id": "c5",
+        "label": "Role in Drug Delivery",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.52 -> 714.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Ca(OH)2 + Na2CO3 Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[693.90 -> 696.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Formation of CaCO3",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[693.90 -> 696.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Flowchart on Screen",
+        "type": "Visual",
+        "original_text": "Flowchart with two circles connected by an arrow, molecular structure diagram.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Chemical Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "Ca(OH)2 + Na2CO3 -> CaCO3↓ + 2NaOH",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gesture to Blackboard",
+        "type": "Visual",
+        "original_text": "Teacher points to chemical equation.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Teacher Gesture to Screen",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards flowchart and molecular structure.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains how the structure of copper ions influences the formation of complexes."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains how the structure of ammonia allows it to participate in complex formation."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Highlights the role of precipitate in the chemical equation."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Discusses the mechanism by which complexes are crucial in drug delivery."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Describes the procedure resulting in the formation of calcium carbonate."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights important concepts using gestures towards the flowchart."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights the chemical equation on the blackboard."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "The teacher's gestures assist in keeping students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,159 @@
+{
+  "video_name": "34_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the phenomena of wave reflection, refraction, and diffraction; master the factors and conditions that influence wave diffraction; analyze the laws governing wave diffraction through experimental observations.",
+  "transcript": "[447.0 -> 475.04] 同学们可以看到这幅图当入射波通过不同的介质的交界面的时候在进入另一种介质它的光线它的光路并没有沿着线传播而是发生了曲折那因此我们可以说明这个波在传播的在波也可以发生折射的现象好那么接下来呢我们接下来呢请同学们看到教材的。\n[477.0 -> 570.9] 请同学们看到教材的第六十七页图那除了对于波来说它除了可以跟光一样发生反射可以发生折射那它其实还有一个现象这个现象同学们要注意了在这里我可以提前告诉大家是波所特有的一个现象叫眼射因此呢我们可以看到当在水槽里放上航板在中间留一个狭缝观察水通过霞凤后的传播情况我们可以发现当岩直线传播的波经过这个霞凤以后它们发生了冶射的现象那接下来呢我们来探究一下到底在什么情况下可以发生冶射那因此呢我在这里设计了两个实验探究第一个保持水的波长不变改变霞凤的宽度我们来观察波的变化下一个实验呢就是保持霞凤的宽度不变改变水的波长来观察波的变化那因此首先呢我们来看一下实验探究一保持峡缝的宽度不变改变水的波长我们来观察一下波的情况我们可以看到图甲跟图乙当宽当峡缝的宽度不变的时候水的波长变化因此呢我们可以通过这个现象和通过这个现象我们可以看到在峡缝宽度与波长差不多或者更小的情况下呢发生明显的眼射现象。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content displayed on the interactive whiteboard, specifically the diagrams illustrating wave diffraction and interference patterns. The teacher pointed to these diagrams, emphasizing the visual elements related to the lesson topic.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and occasionally pointed to specific parts of the diagrams on the whiteboard. This action visually guided the student's explanation, hinting at key concepts such as the wavefronts and their interaction.\n- The teacher also used hand gestures to mimic the wave patterns, reinforcing the student's verbal explanation with visual cues.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation. \n- The teacher then drew additional lines on the whiteboard to highlight the correct wave interference pattern, visually validating the student's input.\n- An emphatic thumbs-up gesture was used to confirm the student's understanding, reinforcing the correct concepts visually.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Points to diagrams on the whiteboard, focusing on wave patterns.\n\n- **Middle:**\n  - While listening, teacher points to specific wavefronts on the diagram.\n  - Uses hand gestures to illustrate wave behavior, aiding the student's explanation.\n\n- **End:**\n  - Nods and smiles to affirm the student's response.\n  - Draws additional lines on the whiteboard to clarify the correct interference pattern.\n  - Gives a thumbs-up to visually confirm the student's understanding.\n\nThis structured approach ensures that the teacher's visual strategies effectively support the co-construction of knowledge, linking gestures and board content seamlessly.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed diagrams illustrating wave diffraction and interference patterns, setting the stage for the lesson on wave behavior. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content. This broad motion signaled the start of an interactive segment, focusing attention on the visual elements of the lesson.\n\nAs a student began to explain their understanding, the teacher moved to the interactive whiteboard, pointing to specific wavefronts and using hand gestures to mimic the wave patterns. These movements visually supported the student's verbal explanation, guiding them to articulate key concepts such as wave interaction and interference. The teacher's gestures not only reinforced the student's words but also highlighted critical aspects of the diagrams, ensuring clarity in the explanation.\n\nTo validate the student's response, the teacher gave a distinct nod and drew additional lines on the whiteboard, emphasizing the correct interference pattern. This visual action confirmed the accuracy of the student's understanding, providing clear feedback. The teacher then circled the correct elements on the diagram, linking them back to the core lesson content on wave behavior.\n\nFinally, the teacher walked around the classroom, using hand gestures to connect the student's response to the overarching principles discussed earlier. By drawing arrows on the board that linked the student's explanation to the main concepts, the teacher facilitated a deeper understanding, encouraging students to actively construct their own knowledge rather than passively receiving it. This dynamic interaction reinforced the lesson's key points, ensuring that students could apply and verify their understanding through visual and verbal engagement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wave Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[447.0 -> 475.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Wave Refraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[447.0 -> 475.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Wave Diffraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[477.0 -> 570.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Interface Medium",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[447.0 -> 475.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Wavefronts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[447.0 -> 475.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Diffraction Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[477.0 -> 570.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Interference Patterns",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.0 -> 570.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Wave Pool Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[477.0 -> 570.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Narrow Gap",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.0 -> 570.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Wave Pattern Diagram",
+        "type": "Visual",
+        "original_text": "Diagrams of wave diffraction and interference",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Display of wave interference patterns",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Student Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c13",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Wave diffraction develops from understanding wave reflection principles."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Wave refraction builds upon knowledge of different medium interfaces."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Interference patterns analyzed through experimental procedure."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Diffraction conditions are part of the overall concept of wave diffraction."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes wavefronts by pointing to diagrams on board."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Whiteboard visualizes complex wave patterns for student understanding."
+      },
+      {
+        "source": "c12",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Teacher guides student discussion on wavefronts."
+      },
+      {
+        "source": "c13",
+        "target": "c12",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts detailed explanation of wave phenomena."
+      },
+      {
+        "source": "c13",
+        "target": "c2",
+        "relation": "praises_response",
+        "intent": "Teacher praises student's response to encourage understanding wave refraction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

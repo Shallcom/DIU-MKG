@@ -1,0 +1,152 @@
+{
+  "video_name": "41_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the shift in the teacher’s role from a simple lecturer to a facilitator and its importance; master the concrete application of issue‑based teaching methods in the classroom; analyze the impact of a student‑centered teaching philosophy on student development.",
+  "transcript": "[5.0 -> 120.88] 各位同学老师好我所抽取到的讲义题目为老师不光是讲课者还应该是引导者你怎么来看待这个问题首先我认为应该先理解老师不光是讲课者俗话说教师乃传道授业解惑也教师在课堂上首先应该完成的是一定的教学练武将知识点清晰透彻的讲解给学生帮助学生理顺思路掌握课本上所提示的基础知识但是我们也说到教师不仅仅应该是讲课者还应该是引导者我们现在说不仅仅要坚持教师的主导地位同时更应该突出学生的主体地位要坚持以学生为中心的要坚持突出以学生为中心的课堂积极地去调动学生在课堂上的主动性和积极性因此我认为在正式的教课当中如何贯彻不仅是教不仅是讲课者还应该是引导者呢应该教师不应该仅仅是让学生被动地去接受知识或者说是仅仅运用传统的我们说灌输式教学这种方式来进行教育和引导而是应该教师积极地去学习一些新的教学理念教学模式和教学活动例如我们现在所倡导的议题式教学可以通过设置具体的情境具体的活动然后进而向学生抛出问题而抛出的这个问题可以做出适当的议学提示引导学生围绕着课本所要传授的知识点或者说我们想要落实的核心素养的方向来进一步进行引导和培育进而让学生通过自主探究或者是小组合作学习等方式来完成我们所期待完成的教学目标以及相关的教学活动既要落实教师不仅仅是讲课者还应该是引导者这一个问题以上是我的回答谢谢各位老师。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide contains text in Chinese, which appears to be an introduction or overview of the lesson content. The exact text is not fully legible, but it includes a highlighted section in yellow.\n\n#### 2. **The Title Event**\n- The teacher writes on the blackboard, but the exact title is not fully visible. The teacher uses chalk to write, and there are some colored chalk marks (red and yellow) on the board, possibly indicating key points or headings.\n\n#### 3. **The Objectives**\n- The slide on the screen includes several bullet points, likely outlining the learning objectives or key topics. The text is in Chinese, and while not fully legible, it appears to be structured in a list format.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as holding papers and pointing towards the screen or board. The teacher occasionally looks at the students, indicating engagement.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the blackboard, which has some initial chalk marks. The screen displays a slide with Chinese text and a highlighted section.\n- The teacher writes on the blackboard, using chalk to create headings or key points. Colored chalk (red and yellow) is used for emphasis.\n\n**Middle:**\n- The teacher moves to the front, holding papers, and begins to speak, likely referencing the content on the screen.\n- The teacher gestures towards the screen, pointing at the highlighted text to draw attention to specific points.\n- The teacher occasionally looks at the students, maintaining eye contact to engage the class.\n\n**End:**\n- The teacher continues to reference the papers, possibly reading or summarizing key points.\n- The teacher uses hand movements to emphasize the content on the screen, ensuring students focus on the highlighted sections.\n\n### Summary\nThe lesson introduction phase involves a combination of written content on the blackboard and a digital slide presentation. The teacher actively engages with both the board and the screen, using gestures and eye contact to guide student attention. The visual elements, including colored chalk and highlighted text, serve to emphasize key learning objectives and maintain focus.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the blackboard, which features initial chalk marks and colored highlights. The screen displays a slide with Chinese text, including a prominent yellow-highlighted section, serving as the hook to capture student attention. The teacher actively engages by writing on the board, using red and yellow chalk to emphasize key points, creating a visual anchor for the lesson. Transitioning smoothly, the teacher holds papers and gestures towards the screen, pointing at the highlighted text to bridge the hook to the main topic. This visual shift from the board to the screen helps connect the introduction to the core content. Throughout, the teacher uses deliberate hand movements and eye contact to guide focus, ensuring students link the new material to their existing knowledge. The structured use of visual aids and gestures facilitates a clear introduction, setting the stage for deeper exploration of the lesson's objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Teacher Role Shift",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 120.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Facilitator Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 120.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Lecturer Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 120.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Issue-based Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[5.0 -> 120.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Student-Centered Philosophy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 120.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Engagement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[5.0 -> 120.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Teaching Slide Introduction",
+        "type": "Visual",
+        "original_text": "Slide with highlighted section to capture attention",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Blackboard Writing",
+        "type": "Visual",
+        "original_text": "Writing on blackboard with red and yellow highlights",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Eye Contact",
+        "type": "Visual",
+        "original_text": "Teacher maintains engagement with students",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Students' Cognitive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Shows the transition of the teacher's role from lecturer to facilitator."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Facilitator role enhances student engagement."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Student-centered philosophy incorporates student engagement."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Issue-based teaching fosters a student-centered philosophy."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Initial role as Lecturer evolves towards a more supportive role."
+      },
+      {
+        "source": "c4",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to engage actively with problem-solving."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Slide used by teacher to visually highlight key concepts."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights key points via chalk on blackboard."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "guides_discussion",
+        "intent": "Gestural emphasis helps direct student focus and interaction."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Eye contact used to maintain student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

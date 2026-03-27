@@ -1,0 +1,168 @@
+{
+  "video_name": "44_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the difference between vectors and scalars; master the geometric representation of vectors; be able to use directed line segments to describe vectors.",
+  "transcript": "[237.06 -> 289.18] 在刚才这个概念的生成过程中我们可以注意到向量和数量的区别在于什么是不是在于它们是否有方向向量呢它有两点我们需要注意首先它有大小其次它有角它有方向它不再是我们平常所遇到的像一个树那样一个普通的量因此呢我们就要着重来记忆像量它是既有大象又有方向的一种量。\n[297.06 -> 342.24] 好那在学习了这样一个概念后我们通常会给它一种表示方法来便于后续的研究那对于向量和数量来说我们应该如何去表示呢首先来说说数量吧这个大家可能更清楚数量它是只有大小的那我们是不是只可以用一个数来进行表示那数和什么是一一对应的呢在书中我们学习数轴的时候就有我们已经知道了数轴上的点和我们的数之间能够做到一一对应因此我们可以用数轴上的点来表示数量那么类似的你能够找到一个新的方法来表示向量呢。\n[343.58 -> 352.56] 大家想一想如果没有思路的话我们不妨还回到刚才我们所比较熟悉的矢量位移上。\n[354.06 -> 419.94] 曾经学习过位移的表示方法那么位移可以怎么表示呢比如说有AD和BD我想要表示从AD到BD这样的位移我应该如何表示呢弟兄同学A表示成从AB上加一个箭头AB上加一个箭头那这个箭头应该怎么往哪个方向写呢由A指向B由A指向B非常好因为我们想我们想要表示的是从AD也就是A为起点指向BD终点这样一个位移我们可以以AD为起点以BD为终点做出一个带有箭头的线段那么这样这个带有箭头带有方向的线段就可以表示位移那我们来看这样一个带有箭头的线段它能够体现我们所谓的矢量或者是我们向量中的两个特质吗。\n[421.26 -> 452.96] 这个线段带箭头的线段它能表示大小能表示方向吗可以这个箭头是不是就体现了位移的方向也就是我们这个方向问题而这个线段的长度是不是就表示了这个项量的大小那么这么说我们这个带有方向的箭头就既可以表示一个量的大小问题也可以表示它的方向问题我们把这种带有方向的箭头呢带有方向的线段称为有效线段。\n[460.7 -> 534.8] 那我如何去表示这个有象线段AB呢我们给它一个计法以A为起点以B为终点那我们就可以把它写作AB在上面写一个横着的箭头箭头指向终点那么对应的从这个斜法上我们就可以看出这个量它的方向那它的大小该如何表示呢刚刚我们说这个有像线段的大小是由什么来确定的线段的长度对不对那这个线段的长度我们就能把它就可以表示有象线段的大小我们就可以把它记作AB上面写上两条竖线那么这样我们就得到了有象线段AB它的表示方它的方向以及它的线段以及它的大小我们也都可以进行表示那有象线段它既能表示大小又能表示方向而我们的向量呢它也有大小也有方向那我们是不是可以尝试我们是用这个既有大小又有方向的有象限段来表示我们的项链呀对这样我们就找到了描述项链的它的几何表示。\n[542.82 -> 551.2] 我们可以把项链用有象限段AB来进行表示。\n[553.62 -> 575.58] 那这样用有效线段AB表示的限量呢我们也给它一个计法就可以计作AB。\n[578.7 -> 581.427333] 它的计法呢和我们有效线段的计法是完全一致的那有向线段有大小有方向那我们也就可以表示这个有大小有方向的向量它的方向是不是就是有向线段它的方向而它的大小呢就是有向线段AB的大小那我们可以把它的大小记为。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a blackboard and a digital screen displaying a slide titled \"6.1 平面向量的概念\" (Concept of Plane Vectors).\n- The slide shows a diagram with categories of physical quantities: scalar (质量, 长度, 面积) and vector (力, 速度, 位移), highlighting their properties (大小, 方向).\n- The teacher gestures towards the slide, emphasizing the distinction between scalar and vector quantities.\n\n**Middle:**\n- The teacher writes on the blackboard: \"一向量，既有大小又有方向的量\" (A vector is a quantity with both magnitude and direction).\n- The slide transitions to a new section discussing vector representation, with a diagram showing a vector labeled \"向量\" (vector) and a point labeled \"起点\" (initial point).\n- The teacher points to the vector diagram on the screen, explaining its components.\n- The teacher writes \"向量\" (vector) and \"有向线段\" (directed line segment) on the blackboard, drawing a line segment labeled \"A\" and \"B\" to represent a vector.\n\n**End:**\n- The teacher writes the notation for a vector: \"$\\overrightarrow{AB}$\" and its magnitude: \"$|\\overrightarrow{AB}|$\".\n- The teacher explains the notation, gesturing towards the blackboard and the slide, which now includes text about vector representation and direction.\n- The teacher adds \"二向量的字母表示\" (Letter representation of vectors) to the blackboard, linking it to the visual content on the screen.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide and the blackboard. The slide initially displays a diagram categorizing physical quantities into scalars and vectors, with their properties.\n- The blackboard starts with the title \"6.1 平面向量的概念\" and evolves to include definitions and notations for vectors.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes the definition of a vector on the blackboard.\n  - Adds vector notation and magnitude notation.\n  - Writes \"二向量的字母表示\" to introduce letter representation.\n- **Modifications**: \n  - The teacher updates the slide content to focus on vector representation and notation.\n- **Deictic Gestures**: \n  - Points to the vector diagram on the slide while explaining its components.\n  - Indicates specific parts of the blackboard content, such as the vector notation and its magnitude.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses underlining and arrows on the blackboard to emphasize key points.\n- The slide uses bold text and diagrams to highlight the distinction between scalars and vectors.\n- The teacher's gestures and pointing reinforce important concepts, such as the notation for vectors and their properties.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"6.1 平面向量的概念,\" featuring a diagram that categorized physical quantities into scalars (质量, 长度, 面积) and vectors (力, 速度, 位移), highlighting their properties such as magnitude and direction. The teacher began by gesturing towards this diagram, emphasizing the fundamental distinction between scalar and vector quantities. \n\nThen, the teacher constructed a foundational definition on the blackboard, writing \"一向量，既有大小又有方向的量\" to establish the concept of vectors. The slide transitioned to illustrate vector representation with a directed line segment labeled \"向量\" and an initial point \"起点.\" The teacher annotated the blackboard by drawing a line segment labeled \"A\" and \"B,\" representing a vector, and introduced the notation \"$\\overrightarrow{AB}$\" alongside its magnitude \"$|\\overrightarrow{AB}|$.\" \n\nAs the lecture progressed, the teacher derived the letter representation of vectors, adding \"二向量的字母表示\" to the blackboard. The teacher's gestures actively traced the vector diagram on the slide, linking it to the notations on the board. Specific pointing gestures highlighted the vector's direction and magnitude, reinforcing the visual connection between the slide content and the blackboard annotations.\n\nFinally, the teacher circled key notations and used underlining to emphasize the importance of vector representation. The visual strategy of combining slide diagrams with blackboard notations effectively reduced cognitive load by providing a dual representation of concepts. The teacher's dynamic gestures and clear visual cues ensured that students could follow the evolution of vector concepts seamlessly, from definitions to notations, enhancing comprehension and retention.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Scalar Quantity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[237.06 -> 289.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Quantity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[237.06 -> 289.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Magnitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[237.06 -> 289.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[237.06 -> 289.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Vector Definition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[289.18 -> 342.24]"
+      },
+      {
+        "id": "c6",
+        "label": "Scalar Representation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[297.06 -> 342.24]"
+      },
+      {
+        "id": "c7",
+        "label": "Vector Representation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[354.06 -> 419.94]"
+      },
+      {
+        "id": "c8",
+        "label": "Directed Line Segment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[421.26 -> 452.96]"
+      },
+      {
+        "id": "c9",
+        "label": "Vector Notation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[460.7 -> 534.8]"
+      },
+      {
+        "id": "c10",
+        "label": "Magnitude Notation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[460.7 -> 534.8]"
+      },
+      {
+        "id": "c11",
+        "label": "Letter Representation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[553.62 -> 575.58]"
+      },
+      {
+        "id": "v1",
+        "label": "Vector Diagram",
+        "type": "Visual",
+        "original_text": "A diagram on the slide showing a vector and its initial point.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Vector Definition",
+        "type": "Visual",
+        "original_text": "The teacher writes 'A vector is a quantity with both magnitude and direction' on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Directed Line",
+        "type": "Visual",
+        "original_text": "The teacher draws a directed line segment labeled A and B.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Contrast between scalar and vector quantities."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Vector definition involves magnitude."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Vector definition involves direction."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visual representation of vector using diagrams."
+      },
+      {
+        "source": "c8",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Visual representation of directed line using board drawing."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Explains vector notation and its elements."
+      },
+      {
+        "source": "c10",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Explains magnitude notation of a vector."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Letter representation builds upon vector notation."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide content reinforces board content with diagrams."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

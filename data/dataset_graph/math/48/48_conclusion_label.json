@@ -1,0 +1,139 @@
+{
+  "video_name": "48_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the trigonometric representation of complex numbers and the concept of their arguments; master the conversion relationship between the algebraic and trigonometric forms of complex numbers; be able to identify and analyze the various representations of a complex number’s argument.",
+  "transcript": "[609.66 -> 666.64] 它可以表示什么样的形式呢R乘于同学们可以一起说出来Rcosθ加上Isinθ同学们要在课堂上要更积极一点那么其中R就是负数Z的我而θ是负半轴的始变向向OZ所在的射线是为中边的角那么它叫做负数的辐角什么叫负数的辐角呢这位同学重复一下就是以X的非负半周为十边向向OZ的所在射线为中间所形成的角非常好这位同学的学习非常的认真那么负数的辐角它叫做负数Z等于二A加BI的三角表示式简称三角形式为了与三角形式区分开来我们的A加BI叫做负数的代数表示形式简称为代数形式那同学们是不是所有的都与我们的C它是有关的呀那么下面我们来看看C它到底是什么呢负为零的负数的辐角它有多少个值呢每个值之间相差多少呢同学们可以小组讨论思考一下。\n[668.34 -> 743.68] 好看到同学们已经讨论完了好这位同学你回答一下这两个问题有无穷多个值每个值之间相差二点二拍非常好它有无穷多个值并且每个值之间相差二拍的整数倍这个要强调一下相差二拍的整数倍那么负数I的辅角呢就是二分之派加二K派那么它的K就是可以取任何值并且呢负数I等于零它的辅角是任意的由此呢我们就得到了在Z它大于等于零小于等于二派的范围内辅角Z它的值呢是辅角的主值通常呢记为ARJZ并且它是大于零小于等于二派的那同学们本节课呢我们学习了复数它的三角表示式以及复数的辐角是什么请同学们在课后完成老师布置的分层作业那且请同学们在今后的学习中要多用数学的眼光数学的思维去观察和思考表达世界那本堂课到这里就结束了同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a slide with a structured layout, including headings and bullet points.\n   - The slide is divided into sections with clear headings and subheadings, providing a hierarchical organization of the content.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following main headings and subheadings:\n     - **【例題】**: Example problem\n     - **複素数平面**: Complex plane\n     - **極形式**: Polar form\n     - **複素数の極形式**: Polar form of complex numbers\n     - **例題の解答**: Solution to the example\n   - The slide includes bullet points under each section, detailing steps and explanations related to the polar form of complex numbers.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the headings on the slide, specifically highlighting the sections related to the complex plane and polar form.\n   - The teacher gestures towards the bullet points under each heading, indicating the key steps and explanations provided in the example solution.\n   - The teacher uses hand movements to emphasize the transition between different sections, ensuring students follow the logical flow of the summary.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the current slide.\n   - However, the teacher's gestures suggest a conclusion to the lesson, possibly preparing to move to a new topic or assignment in the next session.",
+  "visual_narrative": "The lesson concludes with a slide centered on the polar form of complex numbers. The teacher visually reviews the content by pointing to each heading and bullet point in sequence, ensuring students follow the logical flow of the summary. The teacher emphasizes key sections by pausing briefly on important formulas and explanations. Although no explicit homework or next-step instruction is visible on the slide, the teacher's gestures suggest a transition to the next topic or assignment, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Polar Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.66 -> 666.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Complex Plane",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.66 -> 666.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.66 -> 666.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Argument of Complex Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.66 -> 666.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Main Value of Argument",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[668.34 -> 743.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Discussion on Argument Value",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "c7",
+        "label": "Infinite Argument Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[668.34 -> 743.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Solution to Example",
+        "type": "Visual",
+        "original_text": "Solution to example problem in polar form",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Rcosθ + Isinθ",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[609.66 -> 666.64]"
+      },
+      {
+        "id": "c10",
+        "label": "Lesson Conclusion",
+        "type": "Visual",
+        "original_text": "Teacher concludes lesson, preparing transition",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Explains polar form representation with Rcosθ + Isinθ"
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Polar form as a representation of complex numbers"
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Main value of argument is within the principal range"
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Students discuss the infinite nature of argument values"
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Solution presented highlights the procedural aspect"
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Complex numbers visualized on complex plane"
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "Teacher uses the solution to wrap up the lesson"
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Conversion relationship between algebraic and trigonometric forms"
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes completion of the lesson with the solution"
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

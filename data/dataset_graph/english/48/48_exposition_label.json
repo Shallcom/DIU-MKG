@@ -1,0 +1,184 @@
+{
+  "video_name": "48_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Understand how to learn about a country through multiple dimensions; analyze the advantages of researching a nation's history and culture; foster a positive attitude toward cross‑cultural communication and understanding.",
+  "transcript": "[154.16 -> 164.0] So good afternoon class. Welcome back to another English class. Are you ready for it?\n[164.28 -> 186.4] Yes. OK, give me a cheerful yes again. Yes. Good. So last class we have finished the study of the text. So now I have some questions to review the text. So question number one. How can we learn about a country?\n[186.58 -> 198.04] Pay attention to the third to the page 14. And question how can we learn about country. Think about it. From which dimensions?\n[207.38 -> 216.8] Any idea? Location. Location. Yeah,\n[216.8 -> 221.6] good. Location. And?\n[221.8 -> 224.02] History. History. Good point!\n[224.02 -> 228.2] How about culture, right?\n[228.2 -> 235.6] History and culture. How about food?\n[235.6 -> 240.48] Good, food! Anything else?\n[240.48 -> 273.98] TV show, film, right. So from this aspect we can know a country and we may find there are differences between different culture and different nations right so is in spite of these differences what attitude should we take what attitude should we take so we should respect and And understand,\n[273.98 -> 286.9] understand and respect. So questions. Let's review the text.。\n[288.28 -> 295.26] So according to the first paragraph we can know the four countries of the United Kingdom. What are they?\n[296.76 -> 299.32] Yes, United Kingdom, Great Britain,\n[299.32 -> 303.14] England. That's correct. And second question,\n[303.14 -> 309.12] what are two chief advantages of studying the history of a country?\n[310.08 -> 314.02] Two advantages. From paragraph four,\n[314.02 -> 324.34] from paragraph four, we could know,\n[324.34 -> 364.84] anyone find that? which can help understand much more about the country and its traditions and the second advantages in the last paragraph anyone even remember yes may our visit much more enjoyable that's it so now let's let's continue to our today's lesson so we finish the review part let's have a discussion about two questions。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a large screen displaying a slide titled \"What's in a home?\" with text content. The slide includes questions about the concept of home and its significance.\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n- The blackboard is initially blank except for some text on the right side.\n\n**Middle:**\n- The teacher writes \"WHAT'S IN A HOME\" on the blackboard, establishing the lesson's focus.\n- She then writes \"Location,\" \"History,\" \"Culture,\" and \"Tools\" on the board, indicating key components of a home.\n- The teacher draws an arrow from these components to \"Tushar,\" suggesting a connection to a specific example or case study.\n- She adds \"unbroken sequence\" next to the arrow, emphasizing continuity or tradition.\n\n**End:**\n- The teacher continues to reference the screen, which now highlights a specific section of text, possibly for detailed discussion.\n- She uses hand gestures to emphasize points, occasionally pointing to the blackboard content.\n- The teacher claps, possibly to signal the end of a segment or to engage the class.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard, which evolves to include the title \"WHAT'S IN A HOME\" and the components \"Location,\" \"History,\" \"Culture,\" \"Tools,\" connected to \"Tushar\" with an arrow and the phrase \"unbroken sequence.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the title and components on the blackboard while explaining their relevance to the concept of home.\n- **Modifications**: No erasures are observed; the teacher builds upon the initial content.\n- **Deictic Gestures**: The teacher points to each component on the board as she discusses them, linking them to the slide content.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses the arrow and the phrase \"unbroken sequence\" to highlight the connection between the components and the example \"Tushar.\"\n- Gestures and pointing are used to draw attention to specific parts of the blackboard and screen content.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions to the evolving visual elements in the classroom.",
+  "visual_narrative": "Initially, the bulletin board displayed a slide titled \"What's in a home?\" with text discussing the concept of home and its significance. The teacher began by constructing the lesson's framework on the blackboard, writing \"WHAT'S IN A HOME\" prominently. She then derived key components, listing \"Location,\" \"History,\" \"Culture,\" and \"Tools,\" and connected these to \"Tushar\" with an arrow, indicating a case study. Annotating further, she added \"unbroken sequence\" to emphasize continuity. Throughout, she referenced the slide, tracing specific text sections to illustrate points. Her gestures linked each blackboard element to the screen content, reducing cognitive load by visually reinforcing spoken concepts. Finally, she clapped to signal the segment's end, ensuring the visual and verbal elements cohesively delivered the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Home",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[154.16 -> 240.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Location",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.38 -> 216.8]"
+      },
+      {
+        "id": "c3",
+        "label": "History",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[221.8 -> 224.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Culture",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[224.02 -> 228.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Tools",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[235.6 -> 240.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Learning about a Country",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[186.58 -> 198.04]"
+      },
+      {
+        "id": "v1",
+        "label": "What's in a Home Slide",
+        "type": "Visual",
+        "original_text": "Slide with questions about the concept of home.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Home Components",
+        "type": "Visual",
+        "original_text": "Blackboard with 'WHAT'S IN A HOME', 'Location', 'History', 'Culture', 'Tools'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Arrow to Tushar",
+        "type": "Visual",
+        "original_text": "Arrow connecting components to 'Tushar', emphasizing continuity.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Highlighted Text on Slide",
+        "type": "Visual",
+        "original_text": "Highlighted section of text for detailed discussion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c7",
+        "label": "Cross-Cultural Understanding",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[240.48 -> 273.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Advantages of History Study",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[303.14 -> 324.34]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visualizes the concept of home using the slide."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Scaffolds understanding by listing components on blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Location is one dimension to learn about a country."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "History is one dimension to learn about a country."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Culture is one dimension to learn about a country."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Tools is considered within the concept of home."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Scaffold through connection with continuity and tradition."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Cross-Cultural Understanding includes knowledge of culture."
+      },
+      {
+        "source": "c8",
+        "target": "v4",
+        "relation": "emphasizes",
+        "intent": "Emphasis through highlighted text for studying advantages."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Culture builds upon location and history in understanding."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "engages_with",
+        "intent": "Students engaged with concepts to review learning."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Understanding history advantage builds upon concept learning."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Emphasizes connection between home components and continuity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

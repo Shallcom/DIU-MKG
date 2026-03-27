@@ -1,0 +1,223 @@
+{
+  "video_name": "10_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "Master the correct use of experimental equipment; understand how uniform heating influences experimental results; be able to analyze the temperature‑change patterns of different substances during the melting process.",
+  "transcript": "[415.02 -> 432.04] 那接下来我们是不是要将它这两个物质加热才能看得到这个温度的一个变化呀是不是直接加热呢直接加热有什么坏处吗这位同学预习得很好啊他说受热不均。\n[433.12 -> 435.22] 我们接下来咱们采用什么样的方法呢。\n[438.34 -> 460.08] 水鱼语法看来同学们都有在认真预习嘛那今天老师就给同学们准备了这样一套实验仪器它有酒精灯以及温度计和铁架台以及烧杯等物质构成细心的同学可能还发现在这个烧杯的下面还垫了一块失眠网它的作用是什么啊。\n[461.64 -> 491.58] 收热均匀那接下来请同学们点燃酒精灯使这个物体使这个石蜡或海波得到加热并且在温度升高至四十摄氏度时每隔一分钟记录一次温度在海波和石蜡完全融化后又记录四到五次这个温度现在请同学们小组合作记录这个时数的一个变化。\n[494.5 -> 497.42] 在讲英国语当中我们还需要注意些什么呢。\n[499.58 -> 546.54] 我们要注意九九的那个燃烧路虎安全并且要这个温度计不能碰到卑鄙是不是好老师看到各小组已经完成了那哪个小组来分享一下你们看到的一个现象你们得到的什么样的结果这位同学好请你来回答一下你们小组在这个过程当中发现融化时这个温度变化有什么样的规律海波的温度基本不变那石蜡呢石蜡的温度它一直升高升高那在这个海波有融化之前它的温度是怎么样的。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation)**:\n   - The teacher makes a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture is broad, encompassing the entire classroom, inviting all students to participate.\n\n2. **The Visual Focus Point**:\n   - The focus is on the digital screen displaying the experimental setup diagram and the blackboard with the chemical equation $\\text{CO}_2$ (固态) $\\leftrightarrow$ $\\text{CO}_2$ (液态). The teacher points to the diagram on the screen, highlighting the experimental apparatus.\n\n**Middle:**\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening)**:\n   - As a student responds, the teacher points to specific parts of the experimental setup diagram on the screen, such as the flask and the heating apparatus, to guide the student's explanation. The teacher also gestures towards the blackboard, emphasizing the phase change equation.\n\n4. **Visual Confirmation & Elaboration (Feedback)**:\n   - The teacher nods and smiles, providing non-verbal affirmation. She then points to the phase change equation on the blackboard, reinforcing the connection between the student's response and the visual content.\n\n**End:**\n\n5. **The Invitation Gesture (Elicitation)**:\n   - The teacher points directly to a student, indicating that they should provide further input or clarify a point.\n\n6. **The Visual Focus Point**:\n   - The focus shifts to a table on the screen, which lists experimental conditions and observations. The teacher gestures towards this table, prompting students to discuss the data.\n\n7. **Real-time Scaffolding (Teacher's Action-While-Listening)**:\n   - While the student elaborates, the teacher writes key points from the student's explanation on the blackboard, linking them to the existing content. She also points to the table on the screen, highlighting specific entries that support the student's points.\n\n8. **Visual Confirmation & Elaboration (Feedback)**:\n   - The teacher circles a correct observation on the table with a marker, visually validating the student's input. She then draws a small diagram on the blackboard to illustrate a concept the student mentioned, providing visual clarification.\n\n**Summary of Visual Evolution:**\n\n- The teacher's gestures and pointing actions are consistently linked to the experimental setup diagram and the phase change equation, ensuring students connect theoretical concepts with practical applications.\n- The blackboard and digital screen serve as dynamic visual tools, with the teacher adding annotations and emphasizing key areas to scaffold student understanding.\n- Visual feedback mechanisms, such as circling correct answers and drawing explanatory diagrams, are used to confirm and elaborate on student contributions, fostering an interactive learning environment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the phase change equation $\\text{CO}_2$ (固态) $\\leftrightarrow$ $\\text{CO}_2$ (液态) alongside a diagram of the experimental setup. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content. She pointed to the experimental diagram on the screen, emphasizing the apparatus and its components.\n\nAs a student began to explain their reasoning, the teacher walked over to the board and jotted down key terms from the student's response, linking them to the existing equation. She gestured towards the diagram, highlighting specific parts like the flask and heating apparatus to guide the student's explanation. Her movements between the board and the screen ensured that students connected their verbal contributions to the visual content.\n\nTo validate the student's input, the teacher gave a distinct nod and circled a correct observation on the table displayed on the screen. She then drew a small diagram on the blackboard, illustrating a concept the student mentioned, providing visual clarification. This action reinforced the student's understanding and connected it back to the core lesson content.\n\nFinally, the teacher drew an arrow on the board, linking the student's correct answer to the main phase change equation. This visual connection helped students see the relationship between their observations and the theoretical framework. By actively engaging with the visual elements and providing real-time feedback, the teacher facilitated a dynamic interaction where students moved from passively receiving knowledge to actively constructing their own understanding through guided exploration and confirmation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Experimental Equipment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[415.02 -> 432.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Uniform Heating",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[415.02 -> 432.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Temperature Change Patterns",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[415.02 -> 432.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Phase Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[415.02 -> 432.04]"
+      },
+      {
+        "id": "c5",
+        "label": "$CO_2$ Solid to Liquid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[415.02 -> 432.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Flask",
+        "type": "Visual",
+        "original_text": "Diagram of a flask used in the experimental setup",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Heating Apparatus",
+        "type": "Visual",
+        "original_text": "Diagram of the heating apparatus used in the experiment",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Phase Change Equation",
+        "type": "Visual",
+        "original_text": "$CO_2$ (solid) ↔ $CO_2$ (liquid)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c10",
+        "label": "Data Table",
+        "type": "Visual",
+        "original_text": "Table showing experimental conditions and observations",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Melting Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[461.64 -> 491.58]"
+      },
+      {
+        "id": "c12",
+        "label": "Temperature Measurement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[461.64 -> 491.58]"
+      },
+      {
+        "id": "c13",
+        "label": "Alcohol Lamp",
+        "type": "Visual",
+        "original_text": "Alcohol lamp used in the experiment",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c14",
+        "label": "Thermometer",
+        "type": "Visual",
+        "original_text": "Thermometer for measuring temperature changes",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c15",
+        "label": "Group Collaboration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c16",
+        "label": "Temperature Stability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[499.58 -> 546.54]"
+      },
+      {
+        "id": "c17",
+        "label": "Paraffin Wax Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[499.58 -> 546.54]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Connects experimental equipment to the checklist before starting the experiment."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The heating apparatus is a critical part of the experimental setup."
+      },
+      {
+        "source": "c1",
+        "target": "c13",
+        "relation": "includes",
+        "intent": "References the alcohol lamp as part of the equipment."
+      },
+      {
+        "source": "c1",
+        "target": "c14",
+        "relation": "includes",
+        "intent": "The thermometer is used to measure temperature changes in the process."
+      },
+      {
+        "source": "c2",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Understanding uniform heating is critical for the melting process."
+      },
+      {
+        "source": "c2",
+        "target": "c13",
+        "relation": "visualizes",
+        "intent": "The alcohol lamp serves as a visual representation for uniform heating."
+      },
+      {
+        "source": "c3",
+        "target": "c17",
+        "relation": "builds_upon",
+        "intent": "Specific patterns observed during paraffin wax melting are related to general temperature change principles."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The equation shows the phase change of carbon dioxide."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The phase change equation on the board is a visual reference for the teacher's explanation."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Student responses contribute to understanding temperature change patterns."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The data table aids student responses by providing empirical evidence."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "The melting process includes measuring temperature changes at set intervals."
+      },
+      {
+        "source": "c12",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The data table represents the recorded temperature changes in the experiment."
+      },
+      {
+        "source": "c15",
+        "target": "c11",
+        "relation": "engages_in",
+        "intent": "Students work together to perform the melting process experiment."
+      },
+      {
+        "source": "c16",
+        "target": "c17",
+        "relation": "builds_upon",
+        "intent": "The observed temperature stability aids in analyzing the paraffin wax temperature change."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

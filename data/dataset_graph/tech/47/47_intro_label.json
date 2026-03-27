@@ -1,0 +1,147 @@
+{
+  "video_name": "47_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the differences between digital and analog signals; master basic programming logic and algorithm design.",
+  "transcript": "[0.0 -> 152.42] 所要培养的学生化学核心素养主要是指学生在学习化学的过程中逐步形成的适应个人终身发展以及社会发展所需要的必备品格关键能力和正确价值观那么包括四个方面化学观念化学思维化学探究与实践科学态度与责任那么首先第一个化学观念我会从科学的角度呢让学生认识电解质的定义那么比如说通过观看实验的视频以及教师进行演示实验让学生从电离的角度认识电解质那么第二个是我们的科学思维我会通过学生的已有知识让学生分析比如为什么男人物不能电离为什么酸碱盐是强电解质来发展学生的证据推理能力那么第三个就是我们的科学探究与实践我会向学生让学生自行提出猜想以假设在这个过程中自行设计实验自己动手操作实验最后来验证自己的猜想和判断第四个就是科学态度与责任我会向学生介绍生活中常见的电解质让学生认识到化学就在我们的身边让学生形成化学与生活密不可分的联系最后我自己会在课后采用师生评价生生评价的方式来用五点量表分析我的课堂的教学情况以此呢来改进我的教学过程那么最后我想用我很喜欢的一名人民教育家余怡怡老师说的一句话来结尾一辈子做教师一辈子学做教师那么我会不断地完善我的教学过程促进教学相长让学生提高他们的核心素养发展他们的知识能力那么以上就是我的即兴讲演内容感感谢各位评委老师下面开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide contains a blue box with the text \"元素\" (Elements) and additional text below it in Japanese: \"（元素記号の読み方と意味）\" (Reading and meaning of element symbols).\n\n#### 2. **The Title Event**\n- The title \"元素\" (Elements) is prominently displayed in a blue box on the digital slide. The teacher does not physically write this on the board but points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on introducing the topic of elements.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her left hand, likely emphasizing points related to the content on the screen.\n- She occasionally points towards the screen, directing attention to the title and text displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The digital screen displays the title \"元素\" (Elements) with additional text about element symbols.\n- The teacher gestures with her left hand, possibly introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen to emphasize the title and content.\n- She maintains eye contact with the students, ensuring engagement with the introduction.\n\n**End:**\n- The teacher continues to use hand gestures to reinforce the introduction of the topic.\n- The screen remains static, displaying the same introductory slide throughout the segment.\n\nThis structured visual analysis captures the teacher's actions and their direct links to the visual content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a digital screen displaying the hook object: a slide with the title \"元素\" (Elements) and additional text about element symbols. The teacher gestures with her left hand, directing attention to the screen, which serves as the initial visual stimulus. Throughout the introduction, the teacher maintains engagement by pointing towards the title on the screen, emphasizing its importance. The visual aid remains consistent, focusing on the topic introduction without transitioning to other content. The teacher's gestures and eye contact with the students help bridge the hook to the main topic, grounding the introduction in the context of element symbols. This approach likely connects new knowledge to students' existing understanding of basic chemistry concepts, setting the stage for a deeper exploration of elements and their symbols in subsequent lessons.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electrolytes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Ionization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Science Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Electrolyte Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Experimental Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Acids Basics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Salts Basics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Strong Electrolytes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c9",
+        "label": "Elements",
+        "type": "Visual",
+        "original_text": "Elements and their Symbols",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c11",
+        "label": "Design Experiments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 152.42]"
+      },
+      {
+        "id": "c12",
+        "label": "Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the slide to maintain student engagement."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Understanding of electrolytes evolves from their definition."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Electrolyte definition builds upon experimental observation."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Acids are included as examples of strong electrolytes."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Salts are included as examples of strong electrolytes."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding electrolytes builds upon the principle of ionization."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Designing experiments prompts thinking related to experimental observation."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "guides_discussion",
+        "intent": "Designing experiments guides discussion towards scientific responsibility."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

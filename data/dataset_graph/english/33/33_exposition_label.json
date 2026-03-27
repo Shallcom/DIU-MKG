@@ -1,0 +1,163 @@
+{
+  "video_name": "33_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Understand the definitions and structures of noun phrases, adjective phrases, and adverb phrases; be able to identify and distinguish the functions of different types of phrases in sentences.",
+  "transcript": "[169.26 -> 476.86] 好的大家刚才我们讨论了第一个练习吧You have done a great job in your first exerciseNow let's move to the second exerciseAnd before we start itLet's review what are noun phrasesadjective phrasesand adverb phrasesThe first one noun phrasesis the phrases with a head of noun比如说吃苹果对吗所以苹果是词词的头页对吗andtheadjectivephrasesisthephraseswithaheadofadjectiverightandtheadverbphrasesisthephraseswithaheadofadverbright好的你明白吗好的现在请你先找到词句的词句在文章中找到它好吗然后跟你的伙伴商谈好吗我明白吗好的我们来好的对不起打扰了回来吧好我想让您帮助亮灯在电视上好请你可以继续继�好的我抱歉你请写在黄色的图片上好谢谢你你能够刚才弄完这张图片暖语词好吗。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"Analyzing.\" The slide contains a passage and instructions to find noun phrases, adjective phrases, and adverb phrases.\n- The teacher gestures towards the screen, pointing at the passage and highlighting the task. Her finger traces the text, emphasizing the areas where noun phrases are located.\n\n**Middle:**\n- The teacher moves to the green chalkboard and writes \"Noun phrases,\" \"Adjective phrases,\" and \"Adverb phrases\" in separate columns.\n- She returns to the screen, pointing at specific phrases in the passage. Her hand movements align with the text, indicating where each type of phrase occurs.\n- The teacher interacts with students, handing out materials and guiding them to identify phrases in the passage.\n\n**End:**\n- Students come to the front and interact with the digital screen. They highlight sections of the passage, categorizing them under the respective phrases.\n- The teacher supervises, ensuring students correctly identify and categorize the phrases.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the passage and task instructions. The initial state includes the passage text and highlighted sections for noun phrases.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the phrase categories on the chalkboard while explaining. Students later add highlighted sections on the screen.\n- **Modifications**: The teacher adjusts the highlighted areas on the screen as students identify phrases, ensuring accuracy.\n- **Deictic Gestures**: The teacher points to specific phrases in the passage, saying \"here\" or \"this,\" directing attention to exact text locations.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to underline or circle phrases on the screen.\n- Different colors on the screen may be used to distinguish between phrase types, though not explicitly shown in the description.\n- The chalkboard columns visually separate the phrase types, aiding in organization and clarity.",
+  "visual_narrative": "Initially, the digital screen displayed a passage with the task to identify noun phrases, adjective phrases, and adverb phrases. The teacher began by pointing to specific sections of the text, tracing the trajectory of noun phrases within the passage. She then moved to the chalkboard, constructing three columns labeled \"Noun phrases,\" \"Adjective phrases,\" and \"Adverb phrases.\" Returning to the screen, she derived examples from the passage, annotating them as students followed along. The teacher's gestures directed attention to precise text locations, tracing the rising complexity of phrase identification. As students engaged, they annotated the screen, categorizing phrases under the respective columns. Finally, she supervised the students, ensuring accurate categorization and reinforcing understanding. The visual separation on the chalkboard and highlighted sections on the screen reduced cognitive load, allowing students to focus on phrase identification without information overload. The teacher emphasized key phrases by circling them, aligning visual cues with the lesson's conclusion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Noun Phrases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Adjective Phrases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Adverb Phrases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Phrase Head",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Noun Phrase Heads",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Adjective Phrase Heads",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Adverb Phrase Heads",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.26 -> 476.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Passage on Screen",
+        "type": "Visual",
+        "original_text": "A passage displayed on the digital screen with instructions to identify phrases.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Columns",
+        "type": "Visual",
+        "original_text": "Chalkboard with columns titled 'Noun Phrases', 'Adjective Phrases', 'Adverb Phrases'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student-Teacher Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The passage on the screen visualizes examples of noun phrases."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The passage on the screen visualizes examples of adjective phrases."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The passage on the screen visualizes examples of adverb phrases."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Noun phrase heads are specific applications of the principle of phrase heads."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Adjective phrase heads are specific applications of the principle of phrase heads."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Adverb phrase heads are specific applications of the principle of phrase heads."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The screen passage prompts students to think about and identify phrase types."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Students identify noun phrases as part of their engagement in the exercise."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Students identify adjective phrases as part of their engagement in the exercise."
+      },
+      {
+        "source": "s2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Students identify adverb phrases as part of their engagement in the exercise."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Chalkboard columns help organize information and scaffold student understanding."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The chalkboard emphasizes the distinction between different types of phrases."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

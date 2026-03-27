@@ -1,0 +1,146 @@
+{
+  "video_name": "44_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of vectors and their geometric representation; master the definition and application of vector magnitude; be able to distinguish the relationship between a vector and its magnitude.",
+  "transcript": "[581.427333 -> 599.02] 它的计法呢和我们有效线段的计法是完全一致的那有向线段有大小有方向那我们也就可以表示这个有大小有方向的向量它的方向是不是就是有向线段它的方向而它的大小呢就是有向线段AB的大小那我们可以把它的大小记为。\n[608.62 -> 613.48] 给它一个新的名字叫做向量AB的长度。\n[624.44 -> 630.06] 当然我们也可以称它为模这是一个新的名字。\n[632.08 -> 652.18] 那它的计法呢和我们有象线段大小的计法是相同的可以记作这样的话我们就可以用有象限段AB来表示我们的向量不仅可以表示它的大小也可以表示它的方向。\n[654.96 -> 701.427333] 那这个时候老师要问一个问题刚才我们讲到了向量的模这是一个新的东西新的知识点我们知道向量的模它是向量的大小那向量的模有方向吗没有它只是一个单纯的数对不对那因此呢它是一个数量作为一个数量就可以进行大小的比较那么对应的老师再问向量它可以进行大小比较吗大家想一想对比向量的模向量和向量的模区别在什么是不是在于向量是只有大小向量是既有大小又有方向的它是一个物理中可以称为是一个矢量那如果我们去比较它的大小的话就是一个没有意义的事情所以说我们称向量是不可以比较大小的这个地方大家一定要注意好那到这里呢我们就已经学习了向量以及向量的几何表示当然除了向量用有象限段AB这种表示的方法外呢我们也可以用一些小写字母ABC等来进行表示。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the mathematical notation on the blackboard, particularly the expression $\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}$, which was highlighted as a key concept in the lesson.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize the components of the formula. She pointed directly to the numerator $A \\cdot \\vec{B}$ and then to the denominator $|\\vec{B}|$, guiding the student's explanation by visually breaking down the formula into its parts.\n- The teacher also nodded and maintained eye contact with the student, providing non-verbal encouragement and ensuring the student felt supported in their explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the expression $\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}$ on the blackboard, visually confirming the correctness of the student's input.\n- She then drew a small diagram next to the formula, illustrating the vector relationship described in the expression, to further clarify and reinforce the concept visually.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Focus shifts to the blackboard, specifically the formula $\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}$.\n\n- **Middle:**\n  - Teacher points to $A \\cdot \\vec{B}$ and $|\\vec{B}|$ separately while the student explains.\n  - Nods and maintains eye contact, providing non-verbal cues of encouragement.\n\n- **End:**\n  - Teacher circles the formula $\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}$ to confirm understanding.\n  - Draws a diagram illustrating the vector relationship, elaborating on the student's explanation.\n\nThis structured visual interaction ensured that the teacher effectively managed the dialogue, using the blackboard as a dynamic tool to co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the mathematical expression $\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}$, a key concept in the lesson. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. This broad motion signaled the start of an interactive segment, focusing attention on the formula.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, using precise gestures to highlight the components of the formula. She pointed to $A \\cdot \\vec{B}$ and then to $|\\vec{B}|$, breaking down the expression into understandable parts. While the student spoke, the teacher nodded and maintained eye contact, providing non-verbal encouragement and support. She also jotted down key terms from the student's explanation next to the formula, visually reinforcing the discussion.\n\nTo validate the student's input, the teacher circled the expression $\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}$ on the blackboard, confirming its correctness. She then drew a small diagram illustrating the vector relationship described in the formula, further clarifying the concept. This visual elaboration connected the student's response back to the core lesson content, reinforcing the understanding of vector projections.\n\nFinally, the teacher walked around the classroom, engaging with other students and encouraging them to discuss the concept among themselves. By linking the student's explanation to the main theorem and using visual aids, the teacher facilitated an environment where students moved from passively receiving knowledge to actively constructing their own understanding. This dynamic interaction ensured that the lesson's key concepts were deeply internalized through visual and collaborative learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Vector",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.427333 -> 701.427333]"
+      },
+      {
+        "id": "c2",
+        "label": "Magnitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.427333 -> 701.427333]"
+      },
+      {
+        "id": "c3",
+        "label": "Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.427333 -> 701.427333]"
+      },
+      {
+        "id": "c4",
+        "label": "Vector Notation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[581.427333 -> 701.427333]"
+      },
+      {
+        "id": "c5",
+        "label": "Vector Projection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[654.96 -> 701.427333]"
+      },
+      {
+        "id": "c6",
+        "label": "Vector Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[654.96 -> 701.427333]"
+      },
+      {
+        "id": "c7",
+        "label": "Vector Comparison",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.96 -> 701.427333]"
+      },
+      {
+        "id": "c8",
+        "label": "Formula Breakdown",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[608.62 -> 613.48]"
+      },
+      {
+        "id": "v1",
+        "label": "Mathematical Notation",
+        "type": "Visual",
+        "original_text": "Expression \\(\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}\\) on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating vector relationship.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "A vector includes both magnitude and direction."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "A vector includes both magnitude and direction."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The formula \\(\\frac{A \\cdot \\vec{B}}{|\\vec{B}|}\\) is used to understand vector notation."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram visually elaborates the vector projection concept."
+      },
+      {
+        "source": "ss1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Student explanation prompts the breakdown of the formula."
+      },
+      {
+        "source": "ss2",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Student engagement leads to discussion on vector comparison."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding vector relationship aids in learning vector projection."
+      },
+      {
+        "source": "ss1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Student explanation is emphasized using the mathematical notation on the board."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

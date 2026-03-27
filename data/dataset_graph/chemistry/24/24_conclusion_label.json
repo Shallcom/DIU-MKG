@@ -1,0 +1,158 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the concept of degenerate orbitals and their role in electron configuration; master the application of the Pauli exclusion principle and Hund's rule.",
+  "transcript": "[589.46 -> 629.8] 你猜想一下对它其实并不适用于电子填入能及不层不同的轨道所以说简并轨道是它最重要的条件之一那下面同学们看到第二个地方分别独占且自选平行我们一起来看一下老师在这里画出两个小泡泡那同学们先看分别独占是什么意思独占就代表是不是想要独占一个位置那假设有一个垫子的时候它就是这样那有两个的时候它应该要填在哪儿呢同学们思考一下还有一个垫子它该放在哪儿呢这位同学你上去试一下吧。\n[638.5 -> 708.44] 这位同学填写得很正确像这样的就叫做分别独占那你们也看到了它是不是处于一个自旋平行的状态呀因为我们的平行线就是一样的那下面请同学们尝试一下不考虑红色规则的情况画出氧的基态原子的最外层轨道表示是同学们动手试一下吧老师看同学们没有思路那老师在这里给同学们一个提示同学们看一下不考虑鸿特规则那就是不考虑这两点只有以下三点这么多的排布式那如果我们考虑红色规则的话它又该怎么样排布呢一起来看一下它是不是就呈现有规律的排布了。\n[710.16 -> 718.1] 看一下同学们它的最开始的单色填入就是这样最后再来完成它的填写谢谢各位读友老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen.\n   - The slide layout includes a header with the lesson title and a section with a summary statement and key points.\n   - The slide features a rectangular orange box containing a summary statement and bullet points below it.\n\n2. **Key Knowledge Items (Content View)**:\n   - Header: \"授業の目標\" (Lesson Goals), \"授業の内容\" (Lesson Content), \"授業のまとめ\" (Lesson Summary).\n   - Main statement: \"基本粒子の中で電荷が0である粒子を電中性粒子といい、電中性粒子の性質を研究する分野を電中性粒子物理学といいます。\" (Among elementary particles, particles with zero charge are called neutral particles, and the field that studies the properties of neutral particles is called neutral particle physics.)\n   - Bullet points: \n     - \"中性子、ニュートリノ、光子\" (Neutron, neutrino, photon)\n     - \"電中性粒子の性質を研究する分野\" (Field studying the properties of neutral particles)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the header and main statement on the slide, emphasizing the definition of neutral particles and the field of study.\n   - The teacher gestures towards the bullet points, highlighting the examples of neutral particles (neutron, neutrino, photon) and the research focus.\n   - The teacher uses hand movements to underline the importance of the summary statement within the orange box.\n\n4. **Transition to Next Step**:\n   - A student raises a yellow paddle, possibly indicating a question or participation.\n   - No explicit visual element indicates homework or next lesson content in the frames provided.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying key points summarizing the lesson on neutral particles. The teacher begins by pointing to the header, emphasizing the lesson goals and content. She then moves to the main statement within the orange box, highlighting the definition of neutral particles and the field of neutral particle physics. The teacher gestures towards the bullet points, drawing attention to the examples of neutral particles—neutron, neutrino, and photon—and the research focus. She pauses briefly on each point, reinforcing the concepts visually. A student raises a yellow paddle, indicating participation, but no explicit homework or next-step instructions are visible on the slide. The teacher's gestures and emphasis on the summary statement visually mark the core takeaway of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Degenerate Orbitals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Pauli Exclusion Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Hund's Rule",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Neutral Particles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Neutral Particle Physics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Neutron",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Neutrino",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Photon",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[589.46 -> 629.8]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Summary Slide",
+        "type": "Visual",
+        "original_text": "Digital slide with summary of neutral particles and their study",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Orange Box Summary",
+        "type": "Visual",
+        "original_text": "Contains the summary statement and examples",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Links the concept of degenerate orbitals with neutral particles as part of advanced atomic theory."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Neutral particles are central to the field of neutral particle physics."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Neutron is an example of a neutral particle."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Neutrino is an example of a neutral particle."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Photon is an example of a neutral particle."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "The lesson summary slide contains the orange box summary."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The orange box on the slide summarizes the concept of neutral particles."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Neutron is highlighted as an example within the slide's summary."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Neutrino is highlighted as an example within the slide's summary."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Photon is highlighted as an example within the slide's summary."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "engages_with",
+        "intent": "A student's participation indicates engagement with concepts such as neutral particles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

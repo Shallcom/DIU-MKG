@@ -1,0 +1,166 @@
+{
+  "video_name": "45_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the patterns of voltage and current changes during capacitor charging; analyze the mechanism of charge accumulation on the plates.",
+  "transcript": "[702.08 -> 711.2] 好我们现在请一位同学来讲一讲你看到什么现象它的电压表的岁数的增大然后电流表也有次数我猜想它可能是电荷汇聚到了电容板的量之四两个极板上很好请坐他看到了电压表也就是极板两端它的电视差是不断地增大的电流表的次数也是增大的那么电流其实就是电电项移动那么电荷它是如何运动的呢这位同学他猜一下电荷它由电源的正极出发比如说正电荷流经电路到了电极此时在这个地方会汇集同样的负电荷也会从此此时就形成了一个稳定的电容是吧。\n[712.98 -> 791.26] 它的电流是越来越小也是这个冲击非常指出我的问题那同样的在充电的过程当中它是得到这样的现象那在放电的过程当中它的现象又是如何的呢我们同样这三个量电视插电流以及电好我们现在请另外一个同学来看看她是大了大了好接着我们有评论老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard screen. It displays a diagram with a dashed box containing a question mark and a capacitor symbol ($\\frac{1}{C}$). \n   - The layout includes a flowchart on the left side with text boxes connected by arrows, indicating a process or sequence.\n\n2. **Key Knowledge Items (Content View)**:\n   - The whiteboard contains a circuit diagram with components labeled in Chinese, including terms like \"水流\" (water flow) and \"電流\" (electric current).\n   - The interactive screen shows a flowchart with labels such as \"設計問題\" (design problem) and \"傳導現象\" (conduction phenomenon).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher moves towards the interactive whiteboard, pointing at the flowchart to emphasize the sequence of steps or concepts.\n   - The teacher gestures towards the dashed box with the question mark and capacitor symbol, likely highlighting the main inquiry or focus of the lesson.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary content displayed on the screen and board.",
+  "visual_narrative": "The lesson concludes with an interactive whiteboard slide centered on the core topic of electrical circuits and conduction phenomena. The teacher visually reviews the content by pointing at the flowchart on the left, emphasizing the sequence of steps from \"design problem\" to \"conduction phenomenon.\" The focus then shifts to the dashed box with the question mark and capacitor symbol, highlighting the main inquiry. The teacher's gestures reinforce the connection between the flowchart and the central diagram. There is no visible homework or next-step instruction presented in the frames, marking the end of the session with a focus on the key concepts displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Voltage Increase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Current Increase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Charge Accumulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Capacitor Plates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Positive Charge Movement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c6",
+        "label": "Negative Charge Movement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c7",
+        "label": "Stable Capacitance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.08 -> 711.2]"
+      },
+      {
+        "id": "c8",
+        "label": "Current Decrease",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[712.98 -> 791.26]"
+      },
+      {
+        "id": "c9",
+        "label": "Charging Process Phenomenon",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[712.98 -> 791.26]"
+      },
+      {
+        "id": "c10",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Interactive whiteboard with flowchart and capacitor diagram.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Flowchart with Arrows",
+        "type": "Visual",
+        "original_text": "Flowchart indicating process sequence.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Dashed Box Inquiry",
+        "type": "Visual",
+        "original_text": "Dashed box with question mark and capacitor symbol.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Student Hypothesis",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Voltage increase contributes to charge accumulation on the plates."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Current increase contributes to charge accumulation."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Charge accumulation occurs on capacitor plates."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Positive charge movement is analogous to negative charge movement."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Stable capacitance achieved through charge accumulation."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Decrease in current is part of the charging process phenomenon."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "summarizes",
+        "intent": "Interactive whiteboard showing flowchart summarizes process sequence."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "emphasizes",
+        "intent": "Dashed box inquiry emphasizes the critical concept within the flowchart."
+      },
+      {
+        "source": "c11",
+        "target": "c13",
+        "relation": "visualizes",
+        "intent": "Flowchart visualizes sequence for student hypothesis."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Dashed box with question mark visually highlights main inquiry."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

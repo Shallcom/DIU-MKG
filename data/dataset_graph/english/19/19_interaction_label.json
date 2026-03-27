@@ -1,0 +1,145 @@
+{
+  "video_name": "19_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Be able to analyze and explain the reasons for offering advice; understand the overall structure of the article and the method of describing body parts.",
+  "transcript": "[557.670267 -> 570.8] 好的那其实在这个课程里这个结构不完整因为当我们给了一些建议的时候我们也应该告诉他理由对吗让他更加追随所以接下来我们应该谈谈为什么你给了这个建议。\n[576.0 -> 668.88] 好的这是身体部位的整体结构你明白吗好的现在我们就来说说你的背景吧首先我们刚才谈论了整体结构和身体部位的这篇文章对吗还有一些有用的语言你可以用来写字给他挨个你可以直接回到刚才所说的这些建议上的问题上来吧。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact under discussion was the \"Useful language\" section on the interactive whiteboard. This section included phrases like \"I hope this helps you\" and \"Let me know if you need more help.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and occasionally pointed to the \"Useful language\" section on the whiteboard. This action visually reinforced the relevance of the phrases listed, guiding the student to incorporate them into their response.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded affirmatively and pointed to the \"Useful language\" section again, emphasizing the correct usage of the phrases. The teacher also made a checkmark gesture with their hand, visually confirming the student's correct application of the language.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the interactive whiteboard and blackboard, which display the lesson content on writing a letter of advice. The blackboard outlines the structure with sections labeled \"Advice,\" \"Body,\" and \"Useful phrases.\"\n  - The teacher makes a sweeping gesture towards the class, signaling the start of an interactive segment.\n\n- **Middle:**\n  - The teacher points to the \"Useful language\" section on the interactive whiteboard, highlighting phrases like \"I hope this helps you\" and \"Let me know if you need more help.\"\n  - While a student responds, the teacher maintains eye contact and occasionally points to the \"Useful language\" section, guiding the student to use the listed phrases.\n\n- **End:**\n  - The teacher nods affirmatively and points to the \"Useful language\" section again, emphasizing the correct usage of the phrases.\n  - The teacher makes a checkmark gesture with their hand, visually confirming the student's correct application of the language.\n\nThis structured visual interaction effectively co-constructs knowledge by linking the teacher's gestures to specific content on the boards, ensuring students focus on and correctly apply the lesson material.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the structure for writing a letter of advice, with sections labeled \"Advice,\" \"Body,\" and \"Useful phrases.\" The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content on the board. This gesture signaled the start of an interactive segment, focusing on the application of the \"Useful language\" phrases listed on the interactive whiteboard.\n\nAs the student began to respond, the teacher moved closer to the board, pointing to the \"Useful language\" section. This action visually reinforced the importance of incorporating phrases like \"I hope this helps you\" and \"Let me know if you need more help\" into their response. The teacher maintained eye contact and occasionally nodded, providing non-verbal encouragement while the student spoke.\n\nTo facilitate deeper understanding, the teacher walked over to the board and highlighted specific phrases, drawing connections between the student's response and the lesson content. This movement helped guide the student in structuring their thoughts and applying the language effectively.\n\nFinally, to validate the student's response, the teacher gave a distinct nod and made a checkmark gesture with their hand. This visual confirmation assured the student of their correct application of the language. The teacher then drew an arrow on the board, connecting the student's response back to the \"Useful language\" section, reinforcing the link between their answer and the core lesson content.\n\nThrough these gestures, the teacher transformed the classroom interaction from passive reception to active construction of knowledge. By visually linking the student's response to the lesson content and providing real-time feedback, the teacher encouraged students to engage more deeply with the material, fostering an environment where they could actively construct their own understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Advice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[557.67 -> 570.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Reasons for Advice",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[557.67 -> 570.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Overall Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[576.0 -> 668.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Body Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[576.0 -> 668.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Useful Phrases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[576.0 -> 668.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Interactive Segment Start",
+        "type": "Visual",
+        "original_text": "Teacher invites class to participate via sweeping gesture.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Displays 'Useful language' section including phrases like 'I hope this helps you'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Real-time Scaffolding",
+        "type": "Visual",
+        "original_text": "Teacher points to 'Useful language' section while students respond.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Visual Feedback",
+        "type": "Visual",
+        "original_text": "Teacher nods and makes checkmark gesture to confirm student's response.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "st1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "st2",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Advice is based on reasons."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Body structure is part of the overall structure."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Teacher's gesture sets the stage for using useful phrases."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Useful phrases are visualized on the interactive whiteboard."
+      },
+      {
+        "source": "c8",
+        "target": "st2",
+        "relation": "guides_discussion",
+        "intent": "Teacher guides student's response using the board."
+      },
+      {
+        "source": "c9",
+        "target": "st2",
+        "relation": "praises_response",
+        "intent": "Feedback confirms student's correct use of language."
+      },
+      {
+        "source": "st1",
+        "target": "st2",
+        "relation": "prompts_thinking",
+        "intent": "Engagement facilitates thoughtful responses."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Visuals emphasize scaffolding during student responses."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Correct application of phrases emphasized through feedback."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

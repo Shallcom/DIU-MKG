@@ -1,0 +1,173 @@
+{
+  "video_name": "11_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "- Be able to analyze the relationship between displacement and velocity in projectile motion.  \n- Master the calculation methods for angular relationships in projectile motion.  \n- Be able to apply projectile‑motion principles in real‑world situations.",
+  "transcript": "[461.9079326 -> 473.38] 在竖直方向是做了自落的运动那竖直方向的位移是多少呢Y等于二分之一进敌方因此我们可以根据水平方向的飞运动和竖直方向的飞运动再次得到核运动我们将上两个式子的敛力消却时间梯就得出了平抛运动的轨迹是多少呀Y等于记忆底上二倍的威廉方乘以排斥方那由于重力加速度G和威廉都是一个常数因此可以得到平庖云轨迹也是一条毫无限行台没错。\n[494.74 -> 526.22] 根据我们刚刚理论分析得出的水平位移和数值位移的速度以及位移关系那我们再来思考如果此时平方运动它的位移平整角我们设成阿尔法它的速度平整角我们设为磁特角那我们来观察一下它的位移平衡角和速度平衡角之间会产生怎样的关系呢。\n[531.32 -> 542.06] 此时弹性的阿尔法应该等于应该是GT顶上二位的位移对吧。\n[543.6 -> 545.64] 那速度平衡角是怎样的关系呢。\n[549.74 -> 578.34] 弹尖的自己应该等于踢踢比上威廉那我们可以发现它的位移平整角正切值是水平平整角正切值的一半二分之一因此我们可以得出这个推论也就是平胞运动它的位移平整角的正切值是速度平整角正切值的一半。\n[579.34 -> 581.907933] 我们在应用时也要千万注意应该是偏转角的正切值不能是偏转角这一半那通过刚刚的分析呀我们得出了平抛利用的速度位移以及它们之间的角度关系这就是平抛利用的一些规律那同学们在生活中呢我们可可我们发现过其他的一些抛体运动呢这位同学我刚说了丢一根粉笔没错像丢一根粉笔也是一个跑体运动像生活中也有很多常见的斜跑运动例如像谷中斜向上喷出的水和净迹也可以看成一条斜跑运动好本节课就到这里下课。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact under discussion was the set of equations and diagrams on the blackboard, particularly the section labeled \"38.4 抛体运动的规律\" (Projectile Motion Rules). The focus included the equations for horizontal and vertical motion, as well as the derived formula for projectile velocity.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the equation $v = \\sqrt{v_x^2 + v_y^2}$ on the blackboard, highlighting the components of the velocity vector. This action visually reinforced the connection between the student's verbal explanation and the mathematical representation.\n- The teacher also wrote additional trigonometric relationships on the board, specifically $\\tan \\theta = \\frac{v_y}{v_x}$ and $\\cos \\theta = \\frac{v_x}{v}$, providing real-time scaffolding to guide the student's understanding.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the newly written trigonometric equations on the blackboard, visually confirming their correctness and relevance to the topic.\n- The teacher then drew a small diagram illustrating the angle $\\theta$ in relation to the velocity components, further elaborating on the student's explanation and ensuring clarity.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher gestures broadly towards the class, signaling the start of an interactive discussion.\n  - The blackboard displays the equations for horizontal ($v_x = v_0$) and vertical motion ($v_y = gt$), along with the combined velocity formula $v = \\sqrt{v_x^2 + v_y^2}$.\n\n- **Middle:**\n  - The teacher points to the velocity formula $v = \\sqrt{v_x^2 + v_y^2}$ while a student responds, linking the verbal explanation to the visual content.\n  - The teacher writes $\\tan \\theta = \\frac{v_y}{v_x}$ and $\\cos \\theta = \\frac{v_x}{v}$ on the board, providing visual scaffolding.\n\n- **End:**\n  - The teacher circles the newly written trigonometric equations, visually confirming their correctness.\n  - A small diagram illustrating the angle $\\theta$ is drawn, elaborating on the student's explanation and ensuring understanding.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students connect verbal explanations with mathematical and diagrammatic representations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the fundamental equations of projectile motion, including horizontal velocity $v_x = v_0$ and vertical velocity $v_y = gt$, alongside the combined velocity formula $v = \\sqrt{v_x^2 + v_y^2}$. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem of deriving the angle of projection using trigonometric relationships.\n\nAs a student began to explain their reasoning, the teacher walked over to the board and pointed to the velocity components, emphasizing the connection between the student's verbal explanation and the visual equations. The teacher then wrote $\\tan \\theta = \\frac{v_y}{v_x}$ and $\\cos \\theta = \\frac{v_x}{v}$, capturing the student's key insights in real-time. This action visually scaffolded the student's thought process, linking their words to mathematical expressions.\n\nTo validate the student's explanation, the teacher circled the newly written trigonometric equations, providing clear visual confirmation of their correctness. He then drew a small diagram illustrating the angle $\\theta$ in relation to the velocity components, further solidifying the concept.\n\nFinally, the teacher drew arrows connecting the student's derived equations back to the main projectile motion formulas on the board, reinforcing the integration of new insights with core lesson content. This visual orchestration helped students move from passively receiving information to actively constructing their understanding, ensuring they could apply and verify knowledge through guided interaction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Horizontal Velocity v_x",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[461.9079326 -> 473.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Vertical Velocity v_y",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[461.9079326 -> 473.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Combined Velocity Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[461.9079326 -> 473.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Displacement Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[494.74 -> 526.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Projection Angle Alpha",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[494.74 -> 526.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Speed Angle Theta",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[549.74 -> 578.34]"
+      },
+      {
+        "id": "c7",
+        "label": "Tangent Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[549.74 -> 578.34]"
+      },
+      {
+        "id": "c8",
+        "label": "Trigonometric Relationship",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[549.74 -> 578.34]"
+      },
+      {
+        "id": "v1",
+        "label": "Invitation Gesture",
+        "type": "Visual",
+        "original_text": "Teacher's sweeping gesture towards the class.",
+        "ocr_corrected": true,
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "v2",
+        "label": "Projectile Motion Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard with projectile motion equations and diagrams.",
+        "ocr_corrected": true,
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Scaffold",
+        "type": "Visual",
+        "original_text": "Teacher highlights and writes equations during discussion.",
+        "ocr_corrected": true,
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "v4",
+        "label": "Feedback Circle",
+        "type": "Visual",
+        "original_text": "Teacher circles trigonometric equations on the board.",
+        "ocr_corrected": true,
+        "timestamp": "[End]"
+      },
+      {
+        "id": "v5",
+        "label": "Angle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating angle theta and velocity components.",
+        "ocr_corrected": true,
+        "timestamp": "[End]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[531.32 -> 542.06]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The horizontal velocity is part of the combined velocity formula."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The vertical velocity contributes to the combined velocity formula."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Teacher's gesture invites student participation."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Projectile motion equations are shown on the blackboard."
+      },
+      {
+        "source": "v3",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Teacher writes trigonometric equations to scaffold student explanation."
+      },
+      {
+        "source": "v4",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The teacher confirms the correctness of the trigonometric equations."
+      },
+      {
+        "source": "v5",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Diagram illustrates the relationship between angle theta and velocity."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Projection angle alpha is linked with the tangent relationship."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Displacement relationship encompasses the concept of projection angle."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

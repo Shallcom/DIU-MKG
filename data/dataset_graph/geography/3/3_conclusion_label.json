@@ -1,0 +1,185 @@
+{
+  "video_name": "3_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Be able to identify the primary pathways of pollutant transfer under economic globalization; learn to analyze pollutant‑transfer phenomena in specific case studies.",
+  "transcript": "[646.472433 -> 705.78] 好我们可以看在经济全球化的背景下污染物主要从发达的工业股国家或地区向外发展中国家或地区转移这包括了污染物的直接输出以及伴随国际产业转移而发生的污染物间接输出那么同学们是否可以想到一个我们生活中的例子就是可能是离我们非常近的今年发生的一件事情日本的我提示一下对日本的核我们可以发现日本它排放核污水它不仅仅是对自己的沿海周边发生了产生的影响那么在洋流等一些自然泥土的作用下它会产生一些不可控的。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"污染物的传输与扩散—第一组\" (Pollutant Transport and Dispersion—Group 1).\n   - The slide contains a block of text with highlighted sections, likely summarizing key points or findings.\n   - The layout includes a header with the title and a body of text with certain phrases underlined or highlighted.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes phrases such as \"污染物的传输与扩散\" (Pollutant Transport and Dispersion).\n   - Key terms and phrases are underlined or highlighted, indicating emphasis on specific concepts or findings.\n   - The text discusses various aspects of pollutant behavior, likely including transport mechanisms and dispersion patterns.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely pointing to or emphasizing the highlighted sections.\n   - The teacher's movements suggest a review of the key points, possibly tracing along the underlined text to draw attention to important information.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the slide.\n   - The blackboard to the left contains some text and diagrams, but they are not the focus of the summary slide.\n\nThis structured visual summary helps consolidate the lesson's key points, with the teacher's gestures reinforcing the highlighted content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"污染物的传输与扩散—第一组\" prominently displayed, summarizing key concepts. The teacher gestures towards the slide, pointing to the underlined and highlighted sections to emphasize important points. As the review progresses, the teacher moves systematically through the text, likely pausing briefly on each highlighted phrase to reinforce understanding. The core takeaway is visually marked by the teacher's deliberate focus on the emphasized content, ensuring students grasp the essential ideas. No homework or next-step instructions are visible on the slide, keeping the conclusion focused on the summarized material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Pollutant Transport",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c2",
+        "label": "Pollutant Dispersion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c3",
+        "label": "Economic Globalization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c4",
+        "label": "Developed Countries",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c5",
+        "label": "Developing Countries",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c6",
+        "label": "Direct Pollutant Output",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c7",
+        "label": "Indirect Pollutant Output",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c8",
+        "label": "International Industrial Transfer",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c9",
+        "label": "Japan's Nuclear Wastewater",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "c10",
+        "label": "Ocean Currents",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.472 -> 705.780]"
+      },
+      {
+        "id": "v1",
+        "label": "Pollutant Transport Slide",
+        "type": "Visual",
+        "original_text": "Pollutant Transport and Dispersion—Group 1",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Highlighted Text",
+        "type": "Visual",
+        "original_text": "Highlighted sections on slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Gesturing towards highlighted text",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Discusses principles of pollutant behavior."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Links economic globalization to pollutant transport."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Direct pollutant output origin from developed areas."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Indirect pollutant output affection on developing areas."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Industrial transfer contributes to indirect pollutant output."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Example of pollutant dispersion related to nuclear waste."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Ocean currents impact on nuclear waste dispersion."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Slide visually consolidates pollutant transport concepts."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Slide visually consolidates pollutant dispersion concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Highlights sections on globalization's impact."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights indirect pollutant output."
+      },
+      {
+        "source": "v3",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "Teacher's gestures engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

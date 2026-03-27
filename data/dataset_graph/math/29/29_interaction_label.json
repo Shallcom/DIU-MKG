@@ -1,0 +1,166 @@
+{
+  "video_name": "29_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the introduction and definition of negative numbers; master the general form and composition of complex numbers; be able to correctly classify different types of complex numbers.",
+  "transcript": "[275.48 -> 627.92] 好同学们要探究负数的概念我们先从一种特殊的情况来直观感受一下请大家思考一下这个问题我们如何求解X平方加一这个方程呢好请这位同学给大家回答一下我是把一移到右边去就是X方等于负一所以解出来X平方等于把X等于正负根号分那知识很好请坐那我们再来想一下X平方减二这个方程我们是如何求解的呢好这位同学你来说一下也是把二移过去就是X的平方等于二然后我们解出来X的正负根号二很好请坐那其实这种X等于正负根号二是一个对那在学习无理数之前我们学习了有理数那对有理数进行扩充我们就得到了这个方程的习那刚才这位同学说X等于正负根号负一X等于正负根号负一有负一有正负根号负一那X但是X是一个什么数呢你们说X平方加一移过去X平方等于负一这个时候X平方是大于零的我们能对它进行开根号吗对那所以你刚才的回答是但是这位同学勇于回答起来勇于起来回答所以大家掌声送给他好那我们能否通过类比这个问题来得到X平方加一这个方程的求解呢同学们大家猜一猜是否是可以的呢对很好可以由此我们就可以通过这种方法来类比到引入新的对史数集进行扩充来引入新的办法来求解这个方程好接下来我们再来看一下那按照这种思想呢我们我国伟大的欧拉就引入了一个新的数字叫做I使得X平方X等于I是方程X平方加一等于零的解那这个时候使得I平方等于负一那所以刚才X平方加一等于零然后我们可以怎么做一项对不对好X平方就等于负一那这个时候我们说不能对X进行开根号但是这个我们就这里我们引入了有新的符号叫做II平方等于负一所以这个时候X平方X就可以等于对很好那这个问题我们就得到解决接下来你再来看一下那数I和实数计之间仍然能像实数计那样进行加法乘法运算吗那它对应的交换率分配率和结合率是否是成立的呢大家一起猜想一下是否是成立的那我们怎样对它进行验证呢接下来我们来看一下大家一起看到教材的第六十九页依照上述设想把实数A和实数B与I相乘记作BBI结果把实数A与B相加结果记作A加B那注意所有实数I都可以写成多少BA加BI的形式对不对那这个时候我们就可以把负数定义为A加上BI这个时候要注意A和B是属于多少实数的符号那由此我们就把形如A加BI这种数就叫做负数那其中I是什么虚数单位BA是虚数I叫做虚数单位其中呢A加BI中的A是实步B是虚步对了看来大家都跟随老师老师的思路来解决了这个问题那接下来我们再来思考一下当A等于零B等于零A不等于零B不等于零的时候这些情况我们又把它定义为什么呢好我们一起再看一下教材一起来看一下教材的六十九页接着在实数中在对于负数A加BI当A加BA等于零等于B时它是什么数A加BI是什么数十数对不对它是零它是十数零那当B等于零的时候它是它是一个什么数当B等于零也就是说这个时候虚不为零只是一就剩下实数A了对不对所以这个时候是实数。\n[632.52 -> 635.48] 实数记作A吧那如果说这个时候A等于零就只剩下虚部BI它是一个虚数对。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the interactive whiteboard, directing attention to the displayed questions.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the practice problem displayed on the interactive whiteboard, specifically the equation $x^2 + 1 = 0$ and its solution $x = \\pm i$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher wrote the complex number form $a + bi$ on the blackboard, breaking it down into real and imaginary parts. She used her finger to trace the equation, emphasizing the structure of complex numbers.\n- She also wrote the equation $x^2 + 1 = 0$ on the blackboard, reinforcing the connection between the problem on the screen and the board.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled the equation $x^2 + 1 = 0$ on the blackboard, visually confirming its importance.\n- She wrote the solution $x = \\pm i$ next to the equation, providing a visual confirmation of the correct answer.\n- The teacher used hand gestures to emphasize key points, such as pointing to the real and imaginary parts of the complex number, ensuring students understood the distinction.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher gestures towards the class and points at the interactive whiteboard, highlighting the equation $x^2 + 1 = 0$.\n  - Writes $a + bi$ on the blackboard, breaking it into real and imaginary parts.\n\n- **Middle:**\n  - Writes $x^2 + 1 = 0$ on the blackboard, mirroring the content on the screen.\n  - Uses finger to trace the equation, emphasizing its components.\n\n- **End:**\n  - Circles the equation $x^2 + 1 = 0$ on the blackboard.\n  - Writes the solution $x = \\pm i$ next to it, visually confirming the correct answer.\n  - Uses hand gestures to reinforce the structure of complex numbers, pointing to the real and imaginary parts.\n\nThis structured approach ensures that visual elements are effectively used to guide and confirm student understanding throughout the interaction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the equation $x^2 + 1 = 0$ and its solution $x = \\pm i$, setting the stage for the lesson. The teacher began by gesturing towards the class, making a sweeping motion to invite participation, and pointing directly at the interactive whiteboard to focus attention on the problem.\n\nAs the lesson progressed, the teacher actively facilitated the discussion by moving to the blackboard. While explaining, she wrote the complex number form $a + bi$, breaking it into real and imaginary parts. She used her finger to trace the equation, emphasizing its components and reinforcing the structure of complex numbers. The teacher's movements between the board and the screen ensured that students visually connected the concepts.\n\nDuring the interaction, the teacher wrote $x^2 + 1 = 0$ on the blackboard, mirroring the content on the screen. She circled the equation, highlighting its importance, and wrote the solution $x = \\pm i$ next to it. These actions visually confirmed the correct answer and reinforced the lesson's core content.\n\nTo validate the student's understanding, the teacher gave a distinct nod and used hand gestures to emphasize key points, such as pointing to the real and imaginary parts. She drew an arrow connecting the solution back to the original equation, linking the student's response to the main theorem discussed earlier.\n\nThroughout the interaction, the teacher's gestures and visual aids helped students move from passively receiving knowledge to actively constructing their own understanding. By linking new concepts to previously discussed material and providing clear visual feedback, the teacher effectively guided students in applying and verifying their knowledge.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Negative Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Equation x^2 + 1 = 0",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Solution x = ±i",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Real and Imaginary Parts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "c6",
+        "label": "Euler's Introduction of i",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.92 -> 635.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Properties of Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.92 -> 635.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Form a + bi",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "c9",
+        "label": "Imaginary Unit i",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[275.48 -> 627.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard with Equation",
+        "type": "Visual",
+        "original_text": "Whiteboard displaying x^2 + 1 = 0",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard with a + bi",
+        "type": "Visual",
+        "original_text": "Blackboard displaying form a + bi",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard with Solution x = ±i",
+        "type": "Visual",
+        "original_text": "Blackboard displaying solution x = ±i",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Solution x = ±i evolves from equation x^2 + 1 = 0."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Form a + bi includes imaginary unit i."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Complex numbers include solution x = ±i."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Properties of complex numbers include form a + bi."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Interactive whiteboard visualizes equation connection to form a + bi."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Blackboard with solution emphasizes correct solution x = ±i."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Negative numbers build upon equation x^2 + 1 = 0."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Euler's introduction of i builds upon imaginary numbers."
+      },
+      {
+        "source": "ss1",
+        "target": "c5",
+        "relation": "engages_with",
+        "intent": "Students engaged with understanding real and imaginary parts."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Imaginary unit i is included in complex numbers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,212 @@
+{
+  "video_name": "37_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the fundamental content of Newton’s second law and its scientific reasoning methods; master the quantitative relationship among an object’s acceleration, the applied force, and its mass.",
+  "transcript": "[450.0 -> 601.18] 课后请同学们继续跟进上节课的实验去分析一下出现这种偏差的原因到底是什么科学研究人员在做实验时都要对偏差做出定量的分析以确定这些偏差与实量规律的关系所以下课之后大家要做这样一个事情那到此为止呢我们的结论是不是完全正确的有没有带有一定的猜想呀是的我们的结论仍然带有猜想和推断的性质只有根据这些推导得出很多新的结果与事实一致的时候这样的结论才能称为是定律非常好经过大量的实验观察和试试都可以得出与上节课我们实验当中得到的一样的结论由此可以总结出一般的规律物体的加速度的大小跟它受到的作用力成正比跟它的质量成加速度的方向跟作用力的方向是相同的这就是我们牛顿第二定律的基本内容根据科学研究的基本方法我们从定性体验了一下物体的加速度与质量和力的关系我们接下来是不是要从定量的层次去看一看它们之间具体有怎样的关系啊同时我们一定要注意我们科学研究的基本方法哦定性和定量相结合好我们继续来看通过刚才的表述尤顿第二定律就可以表示为A正比于F比上M写成等式可以表示为也可以写成等式F等于K倍的MA其中K是比例系数那这个K到底是多少呢这是我们进一步的探究那接下来我们再来看这个力到底是指的什么力同学们请看在这样的情形当中一个物体在粗糙的地面上受到一个水平向右的恒力F其质量为M。\n[602.24 -> 606.26] 这是有摩擦的粗糙的地面它的粗糙的地面。\n[607.26 -> 613.84] 那我们应该如何去表示牛顿第二定律呢去说明这个物体的力和加速度质量之间的关系。\n[615.36 -> 661.86] 首先得对这个物体进行很好要受力分析它不仅会受到拉力还有呢来我们请这位同学来分析一下摩擦力方向呢水平向索的摩擦力F还有吗重力方向竖直向下支持力方向竖直向上那如何表示扭动第二定律怎么样应该是大F减小F怎么样等于。\n[664.46 -> 674.0333] MA所以在这里的F实际上应该是物体所受的合力非常好好那下来之后请同学们继续讨论力的单位就是我们刚才提到的如何去确定这个比例系数K然后在小组之间互相交流回到我们刚才的问题怎么样去提到歼二零的加速性能并将其做成课程报告交到上面来好这节课就上到这里我们来回顾一下这节课我们通过律性和力量相结合得出了什么扭断第二定律的基本内容。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the blackboard, specifically to the area where she had written the binomial distribution formula and the probability mass function $P = C_n^k p^k (1-p)^{n-k}$.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the binomial distribution formula and its components displayed on the blackboard. The teacher also referred to the digital slide showing the probability mass function $P = C_n^k p^k (1-p)^{n-k}$ and the cumulative distribution function $F(x)$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the binomial coefficient $C_n^k$ on the blackboard, highlighting its significance. She also gestured towards the probability terms $p^k$ and $(1-p)^{n-k}$, emphasizing their roles in the formula.\n- The teacher wrote a small diagram on the blackboard, illustrating a probability distribution scenario, to visually support the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the correctly identified components of the formula on the blackboard. She also drew a small check mark next to the probability mass function on the slide, visually confirming the correctness.\n- To elaborate, the teacher drew a simple bar graph on the blackboard, representing the binomial distribution, and labeled the axes to clarify the concept further.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the class, then points to the binomial distribution formula on the blackboard.\n  - Digital slide displays the probability mass function $P = C_n^k p^k (1-p)^{n-k}$.\n\n- **Middle:**\n  - Teacher points to $C_n^k$, $p^k$, and $(1-p)^{n-k}$ on the blackboard while the student speaks.\n  - Writes a small probability distribution diagram on the board.\n\n- **End:**\n  - Circles correct components of the formula on the blackboard.\n  - Draws a bar graph representing the binomial distribution, labeling axes for clarity.\n  - Adds a check mark next to the formula on the digital slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the binomial distribution formula $P = C_n^k p^k (1-p)^{n-k}$ and the cumulative distribution function $F(x)$. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. She pointed directly to the formula, emphasizing its components as the focus of the discussion.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, pointing to the binomial coefficient $C_n^k$ and the probability terms $p^k$ and $(1-p)^{n-k}$. She jotted down key terms from the student's explanation, creating a small diagram to illustrate the probability distribution scenario. This visual aid supported the student's verbal response, making the abstract concepts more tangible.\n\nTo validate the student's input, the teacher circled the correctly identified parts of the formula on the blackboard and drew a check mark next to the probability mass function on the digital slide. She then drew a bar graph representing the binomial distribution, labeling the axes to clarify the concept further. This visual confirmation not only validated the student's understanding but also reinforced the lesson's core content.\n\nFinally, the teacher connected the student's response back to the main theorem by drawing arrows from the newly illustrated bar graph to the original formula on the board. This gesture highlighted the relationship between the student's explanation and the fundamental principles of the binomial distribution, helping students move from passive reception to active construction of their own understanding. Through these orchestrated visual strategies, the teacher facilitated a dynamic and interactive learning environment, ensuring that students could apply and verify their knowledge effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Newton's Second Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.0 -> 674.0333]"
+      },
+      {
+        "id": "c2",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 674.0333]"
+      },
+      {
+        "id": "c3",
+        "label": "Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 674.0333]"
+      },
+      {
+        "id": "c4",
+        "label": "Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 674.0333]"
+      },
+      {
+        "id": "c5",
+        "label": "Quantitative Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.0 -> 674.0333]"
+      },
+      {
+        "id": "c6",
+        "label": "Binomial Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Probability Mass Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Binomial Coefficient",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Probability Term p^k",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c10",
+        "label": "Probability Term (1-p)^(n-k)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c11",
+        "label": "Cumulative Distribution Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c12",
+        "label": "Friction Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[615.36 -> 661.86]"
+      },
+      {
+        "id": "c13",
+        "label": "Gravitational Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.0 -> 661.86]"
+      },
+      {
+        "id": "c14",
+        "label": "Net Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[664.46 -> 674.0333]"
+      },
+      {
+        "id": "c15",
+        "label": "Binomial Distribution Formula Board",
+        "type": "Visual",
+        "original_text": "Teacher points to formula P = C_n^k p^k (1-p)^{n-k} on the board.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c16",
+        "label": "Digital Slide",
+        "type": "Visual",
+        "original_text": "Slide showing probability mass function and cumulative distribution function.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c17",
+        "label": "Student Response Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The principle involves the concept of acceleration."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The principle involves the concept of force."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The principle involves the concept of mass."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Newton's second law explains the quantitative relationship between forces, mass, and acceleration."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The concept involves the probability mass function."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The concept involves binomial coefficient."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "The concept involves the probability term p^k."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "The concept involves the probability term (1-p)^(n-k)."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "The concept involves the cumulative distribution function."
+      },
+      {
+        "source": "c3",
+        "target": "c14",
+        "relation": "builds_upon",
+        "intent": "Net force concept builds upon the understanding of individual forces including friction and gravitational forces."
+      },
+      {
+        "source": "c15",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The board visualizes the binomial distribution formula to aid comprehension."
+      },
+      {
+        "source": "c16",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The digital slide visualizes the probability mass function for reference."
+      },
+      {
+        "source": "c17",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to consider the role of mass in the second law of motion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

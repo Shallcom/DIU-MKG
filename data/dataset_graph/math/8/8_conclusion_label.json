@@ -1,0 +1,185 @@
+{
+  "video_name": "8_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the types and characteristics of simple random sampling; master the suitable contexts for simple random sampling with replacement and without replacement; learn the concept of a census and its application scenarios.",
+  "transcript": "[609.001667 -> 633.8] 简单随机抽样包含了放回简单随机抽样和不放回简单随机抽样那么简单随机抽样的优点有哪些呢它就是简单易行适用于总体数量不多的情况那么不放回简单随机抽样有哪些特点呢方便便捷适用于总体数量较多的情况。\n[634.94 -> 645.28] 还有我们今天还学习了另外一种全面调查就是在简单随时生效的调查中样本量和总体一样多时。\n[648.5 -> 654.06] 下面请同学们观察这四个例题自己动手做一做。\n[658.22 -> 668.98] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard. It features a list with two main points written in white chalk:\n     - 1. 知識回 (Knowledge Review)\n     - 2. 実践回 (Practice Session)\n   - The board also includes colorful circular markers on the left side, possibly indicating different sections or topics.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main headings on the board are:\n     - 知識回 (Knowledge Review)\n     - 実践回 (Practice Session)\n   - There is a title at the top of the board: 簡単な連携操作 (Simple Coordination Operations).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the headings on the board, likely summarizing the key points covered in the lesson.\n   - The teacher gestures towards the interactive whiteboard, which displays a list or table, possibly reviewing the content shown earlier.\n   - The teacher uses hand movements to emphasize the transition between the two main points on the board.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the board or screen in the provided frames.\n   - The teacher's gestures suggest a conclusion, but no specific next steps are visually indicated in the frames shown.",
+  "visual_narrative": "The lesson concludes with a chalkboard summary centered on \"Simple Coordination Operations.\" The teacher visually reviews the content by pointing to the two main headings: \"Knowledge Review\" and \"Practice Session.\" He gestures towards the interactive whiteboard, which displays a list, reinforcing the key points discussed. The teacher emphasizes the core takeaway by pausing on each heading, ensuring clarity. There is no visible homework or next-step instruction presented in the frames, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Random Sampling",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c2",
+        "label": "With Replacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Without Replacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Advantages of Simple Random Sampling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Easy to Implement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Small Population Fit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Characteristics of Non-Replacement Sampling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Convenience",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c9",
+        "label": "Large Population Fit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[609.001667 -> 633.8]"
+      },
+      {
+        "id": "c10",
+        "label": "Census",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[634.94 -> 645.28]"
+      },
+      {
+        "id": "c11",
+        "label": "Sample Size Equals Population",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[634.94 -> 645.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Chalkboard",
+        "type": "Visual",
+        "original_text": "The green chalkboard with main points labeled 'Knowledge Review' and 'Practice Session'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Displays a list or table reviewing content.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Self-Practice",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Simple random sampling includes with and without replacement."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Simple random sampling includes with and without replacement."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains advantages of simple random sampling."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Easy to implement is an advantage of simple random sampling."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Fit for small populations is an advantage of simple random sampling."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Characteristics of non-replacement sampling."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Convenience is a characteristic of non-replacement sampling."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Fit for large populations is a characteristic of non-replacement sampling."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "A census involves a sample size equal to population."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The chalkboard visualizes simple random sampling."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "The interactive whiteboard summarizes advantages of simple random sampling."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engaged_with",
+        "intent": "Students practice using the chalkboard content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

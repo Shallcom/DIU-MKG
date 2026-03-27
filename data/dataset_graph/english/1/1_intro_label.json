@@ -1,0 +1,139 @@
+{
+  "video_name": "1_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Help students identify common problems in English learning; guide students to analyze the causes of these problems and propose solutions; cultivate a proactive and positive attitude toward English learning.",
+  "transcript": "[0.0 -> 17.68] 并支持明镜与点点栏目。\n[30.0 -> 240.0] 第一个问题是学生对生活的意义有什么意义呢首先我觉得在课堂上教授应该给予他们一些鼓励的方式吧比如说他们要求学生问一些问题给予他们一些鼓励的方式吧你的口吻是完美的这样的东西可以鼓励他们的吧第二个问题就是我觉得他们只是世界上的NPC吧但是不是的吧你必须要找出你的生活的意义因为你的性格是有限的这不代表你不是一个好人教授需要帮助学生找出你的目的和意义学生认为我只是一个人我只能有一个正常的学校因为我的意义因为我的生活的意义只是为了生活正常的好生活我认为这是好事够了的所以我认为教授应该帮助学生进入正常的学校第一是给他们鼓励第二是让他们知道生命的意义是什么那这就是我的题目现在课程开始了好我的学生们早上好早上是的好想象一下这是你的电脑好吗我首先想跟你说你好你好我的学生你们可以说你好教授好吗我想问问你从哪开始学英语你能给我回答吗我从中学开始学英语谢谢你你学得这么早对吗什么问题你认识在学英语中什么问题你认识有什么问题在学英语中有什么问题有所以谁可以试试看吗可以吗他们在谈论他们最大的问题和学英语的问题吧还有什么呢还有他们对于其他人的建议吧好的好的谢谢你们请说吧所以你可以看到这里这三个部分我们可以知道这三个部分主要是谈论英语学的问题和建议吧。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"Unit 5 Language Around The World\" and \"Period 5 Reading for Writing.\" This slide serves as the hook object, initiating the lesson.\n\n#### 2. **The Title Event**\n- The title \"Unit 5 Language Around The World\" is displayed on the screen. The teacher stands in front of the screen, presenting the title without additional underlining or emphasis on the board.\n\n#### 3. **The Objectives**\n- The objectives are not explicitly listed as bullet points in the visible slides. However, the lesson structure suggests a focus on reading and writing activities related to language.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely emphasizing points related to the lesson content.\n- She points to the screen during the \"Look-in\" section, highlighting the \"Free Talk\" prompts: \"Hello, I'm a student,\" \"Where are you from?\" and \"What problems do you have in speaking English?\"\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying \"Unit 5 Language Around The World\" and \"Period 5 Reading for Writing.\"\n- She gestures with her hands, likely introducing the topic and engaging the class.\n\n**Middle:**\n- The screen transitions to a \"Look-in\" slide with \"Free Talk\" prompts.\n- The teacher points to the prompts on the screen, guiding students through the free talk activity.\n\n**End:**\n- The screen changes to a \"Pre-writing\" slide with a prediction task.\n- The teacher gestures towards the slide, which asks students to identify the type of text from options: \"A. Biography,\" \"B. E,\" and \"C. Blog.\"\n- She likely discusses the content and structure of the text shown in the slide.\n\n### Summary\nThe lesson introduction phase involves the teacher presenting slides that transition from the unit title to interactive activities. The teacher uses hand gestures and pointing to engage with the content on the screen, guiding students through free talk and prediction tasks. The visual elements, such as the prompts and text types, are crucial in directing the lesson flow.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a screen displaying the hook slide titled \"Unit 5 Language Around The World\" and \"Period 5 Reading for Writing.\" She holds papers and gestures to engage the class, setting the stage for the lesson. The scene transitions smoothly as the slide switches to a \"Look-in\" section featuring \"Free Talk\" prompts, including \"Hello, I'm a student,\" \"Where are you from?\" and \"What problems do you have in speaking English?\" The teacher points to these prompts, guiding students through an interactive warm-up activity. The visual aid then shifts to a \"Pre-writing\" slide with a prediction task, presenting options for text types: \"A. Biography,\" \"B. E,\" and \"C. Blog.\" Throughout, the teacher uses hand gestures to emphasize key points, linking the activities to the overarching theme of language and communication. This structured introduction connects new knowledge to students' existing experiences by encouraging verbal interaction and critical thinking about text types, laying a foundation for deeper exploration in subsequent lessons.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Unit Title",
+        "type": "Visual",
+        "original_text": "Unit 5 Language Around The World",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c2",
+        "label": "Learning Objectives",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Reading for Writing",
+        "type": "Visual",
+        "original_text": "Period 5 Reading for Writing",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c4",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to emphasize lesson points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Free Talk Prompts",
+        "type": "Visual",
+        "original_text": "Prompts: 'Hello, I'm a student', 'Where are you from?', 'What problems do you have in speaking English?'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Language Learning Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[30.0 -> 240.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Propose Solutions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[30.0 -> 240.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Positive Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 240.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Pre-writing Prediction",
+        "type": "Visual",
+        "original_text": "Slide with prediction task: 'A. Biography', 'B. E', 'C. Blog'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Displays the unit and period title to set the context for the lesson."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures to highlight importance of identifying language learning problems."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "engages",
+        "intent": "Prompts students to discuss their experiences, enhancing cognitive engagement."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Identifying problems leads to proposing solutions in language learning."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "promotes",
+        "intent": "Proposing solutions cultivates a positive attitude toward English learning."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Displays options for students to predict text types and understand task structure."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Objectives include identifying language learning problems."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Objectives include guiding students to propose solutions."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Objectives include fostering a positive attitude towards learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

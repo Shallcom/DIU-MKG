@@ -1,0 +1,146 @@
+{
+  "video_name": "23_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the role and responsibilities of educators in teaching; analyze the impact of exemplary teachers on student learning.",
+  "transcript": "[0.0 -> 4.08] 点支持明镜与点点栏目。\n[8.78 -> 162.94] 尊敬的评委老师各位同学们大家好我是高中物理组二十三号选手我抽到的即席讲演题目是陶行之先生曾说当老师就得一颗心捧着一颗心衔着一根草你怎样理解这句话冰心曾说教育是一场心与心的碰撞我认为教育者就应该以自己的真心来换取学生的真心陶行之先生四颗糖的故事想必大家都听说过陶行之先生用四颗糖让犯错的学生不仅感到愧疚并且感动至流泪这样的行为让学生唤醒了学生的意识并让他得到了真心在我实习的阶段遇到了这样一位老师我们学校总把最差的班级让这位老师带但是不出一年的时间这个班上的成绩就会到达年级的一二名学校的老师都称这位老师为学校的消防员哪里有火就往哪里救对于这位老师我认为可以归纳有以下几点首先第一点也是最重要的一点这位老师对学生是带着真心的他永远都在陪伴着学生陪伴学生的时间是最长的从早自习到晚一直都能看见他的身影其次要制定合理的班规最差的学生可能不遵守规矩于是他制定了一系列严格的班规并要求学生必须按班规执行以这样的方式这位老师将班将年级最差的班带到了年级的一二名教育是一场美好的旅途在这张旅途中我们且行且思且感且悟作为一名准教师我也希望有朝一日能够像这位老师以及陶行之先生一样以心换心立得庶人我的即兴演讲到此结束接下来开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide contains a diagram with text boxes and an orange thought bubble. The text in the thought bubble reads \"如何利用AI进行学习\" (How to use AI for learning).\n\n#### 2. **The Title Event**\n- The title on the screen is \"如何利用AI进行学习\" (How to use AI for learning). The teacher does not physically write this title; it is part of the digital slide presentation.\n\n#### 3. **The Objectives**\n- The slide includes several text boxes with learning content:\n  - \"登录账号\" (Log in)\n  - \"输入问题\" (Enter question)\n  - \"获取答案\" (Get answer)\n  - \"学习新知识\" (Learn new knowledge)\n\n#### 4. **Key Gestures**\n- The teacher stands in front of the screen, holding papers, and gestures towards the slide content, likely emphasizing the flow of the process depicted in the diagram.\n- The teacher occasionally looks at the students, engaging with them while explaining the content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is seen at the blackboard, writing or pointing at content. The digital slide is already displayed, showing the title and diagram.\n- The teacher moves away from the blackboard and stands in front of the screen, holding papers.\n\n**Middle:**\n- The teacher gestures towards the slide, pointing at different sections of the diagram. This includes the text boxes and the thought bubble, indicating the process of using AI for learning.\n- The teacher maintains eye contact with the students, ensuring engagement while explaining the content.\n\n**End:**\n- The teacher continues to stand in front of the screen, occasionally looking at the students and the slide, reinforcing the key points of the lesson.\n- A student in the foreground raises a red paddle, possibly indicating a question or participation.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to specific visual elements on the screen and in the classroom.",
+  "visual_narrative": "Initially, the screen presents a digital slide featuring a diagram with text boxes and an orange thought bubble labeled \"如何利用AI进行学习\" (How to use AI for learning), serving as the hook to capture attention. To bridge to the topic, the teacher stands in front of the screen, holding papers and gesturing towards the diagram, emphasizing the flow of the process depicted. The visual focus remains on the slide, which includes key steps such as \"登录账号\" (Log in), \"输入问题\" (Enter question), \"获取答案\" (Get answer), and \"学习新知识\" (Learn new knowledge). The teacher's gestures towards these elements help connect the new knowledge to the students' existing understanding of learning processes, while the consistent reference to the slide establishes the lesson goal of exploring AI's role in education. This structured introduction effectively links the visual content to the students' prior experiences, setting the stage for deeper exploration of AI applications in learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "t1",
+        "label": "Use AI for Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 4.08]"
+      },
+      {
+        "id": "t2",
+        "label": "Log In",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[8.78 -> 162.94]"
+      },
+      {
+        "id": "t3",
+        "label": "Enter Question",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[8.78 -> 162.94]"
+      },
+      {
+        "id": "t4",
+        "label": "Get Answer",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[8.78 -> 162.94]"
+      },
+      {
+        "id": "t5",
+        "label": "Learn New Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[8.78 -> 162.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Slide Diagram",
+        "type": "Visual",
+        "original_text": "A slide with a diagram containing text boxes and an orange thought bubble 'How to use AI for learning'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "c1",
+        "label": "Role of Educators",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[8.78 -> 162.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Impact of Exemplary Teachers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[8.78 -> 162.94]"
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher gesturing towards slide content.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Red Paddle Raised",
+        "type": "Visual",
+        "original_text": "A student raises a red paddle.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "t1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The digital slide visually represents the concept of using AI for learning."
+      },
+      {
+        "source": "t2",
+        "target": "t3",
+        "relation": "evolves_from",
+        "intent": "The process of entering a question builds upon the initial step of logging in."
+      },
+      {
+        "source": "t3",
+        "target": "t4",
+        "relation": "evolves_from",
+        "intent": "Getting an answer is the result of entering a question."
+      },
+      {
+        "source": "t4",
+        "target": "t5",
+        "relation": "evolves_from",
+        "intent": "Learning new knowledge follows from receiving an answer."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures towards the slide to emphasize the learning process depicted."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students questioning prompts deeper thinking about the role of educators."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts discussion on the impact of exemplary teachers."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding the role of educators builds upon the impact of exemplary teaching."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "indicates",
+        "intent": "The raised red paddle indicates a student's questioning state."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

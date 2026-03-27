@@ -1,0 +1,256 @@
+{
+  "video_name": "42_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concept of random variables; be able to define and identify the application of random variables in probability problems.",
+  "transcript": "[648.8 -> 663.94] 是那样的我们有一个是有X轮的只可以我们称X为随机变量好老师吧。\n[678.8 -> 733.56] 时间到好谢谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of probabilities and a random variable table.\n   - The blackboard displays the heading: \"72 离散型随机变量及其分布列\" (Discrete Random Variables and Their Distribution).\n   - A table is written with probabilities $a_2, a_3, a_4, a_5, a_6$ aligned with corresponding values of $X$.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard includes the following key elements:\n     - Heading: \"72 离散型随机变量及其分布列\"\n     - Probability values: $a_2, a_3, a_4, a_5, a_6$\n     - Random variable $X$ with values: 0, 1, 2, 3, 4, 5\n   - The screen displays a slide with text in Chinese, including:\n     - \"在三个各装有10个球的盒子中，每个盒子装有...\"\n     - \"随机变量 (random variable)\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher writes additional text on the blackboard, extending the probability list with \"a_2 到 a_6 的和等于1\" (The sum of $a_2$ to $a_6$ equals 1).\n   - The teacher points to the list of probabilities and the random variable table, emphasizing the relationship between the probabilities and the values of $X$.\n   - The teacher gestures towards the screen, likely connecting the blackboard content with the slide's explanation of random variables.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in this segment. The focus remains on summarizing the current lesson content on the blackboard and screen.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on discrete random variables and their distributions. The teacher visually reviews the content by writing the condition \"a_2 到 a_6 的和等于1\" next to the probability list, emphasizing the sum of probabilities. She points to each probability value and the corresponding random variable $X$, reinforcing their relationship. The screen displays key concepts about random variables, which the teacher gestures towards, linking the blackboard content with the slide. The visual focus remains on the core takeaway of probability distribution, with no explicit homework or next-step instructions visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Discrete Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Probability Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Sum of Probabilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Probability a2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Probability a3",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Probability a4",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c8",
+        "label": "Probability a5",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c9",
+        "label": "Probability a6",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c10",
+        "label": "Value X=0",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c11",
+        "label": "Value X=1",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c12",
+        "label": "Value X=2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c13",
+        "label": "Value X=3",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c14",
+        "label": "Value X=4",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "c15",
+        "label": "Value X=5",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[648.8 -> 663.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Discrete Random Variables and Their Distribution",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Probability Table",
+        "type": "Visual",
+        "original_text": "Table with probabilities a2, a3, a4, a5, a6 aligned with values of X",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Slide on Random Variables",
+        "type": "Visual",
+        "original_text": "Slide explaining random variables",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Defines a specific type of random variable."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains the distribution of discrete random variables."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Probability distribution includes the principle of sum of probabilities."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Sum of probabilities includes probability a2."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Sum of probabilities includes probability a3."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Sum of probabilities includes probability a4."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Sum of probabilities includes probability a5."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Sum of probabilities includes probability a6."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Probability a2 corresponds to value X=0."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Probability a3 corresponds to value X=1."
+      },
+      {
+        "source": "c7",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Probability a4 corresponds to value X=2."
+      },
+      {
+        "source": "c8",
+        "target": "c13",
+        "relation": "builds_upon",
+        "intent": "Probability a5 corresponds to value X=3."
+      },
+      {
+        "source": "c9",
+        "target": "c14",
+        "relation": "builds_upon",
+        "intent": "Probability a6 corresponds to value X=4."
+      },
+      {
+        "source": "c9",
+        "target": "c15",
+        "relation": "builds_upon",
+        "intent": "Probability a6 corresponds to value X=5."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The blackboard summarizes discrete random variables."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The table visualizes the probability distribution."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide explains the concept of random variables."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of random variables."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

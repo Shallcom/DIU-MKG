@@ -1,0 +1,135 @@
+{
+  "video_name": "28_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to describe the characteristics of green chemistry and its applications in daily life; be able to analyze the issue of atomic utilization efficiency in the wastewater treatment process; be able to propose specific measures for environmental pollution control.",
+  "transcript": "[514.5890752500001 -> 647.84] 这是绿色化学在生活中的应用其实通过以上两例同学们不难发现化学就在我们的生活当中它不仅存在于生活而且服务于生活那么通过刚刚一个小问题的探究和同学们对课本的阅读和思考我们主要学习了哪些内容呢污水的处理液绿色化学还有原子利用率百分百对数字比较敏感那么正如同学们所说我们学习了部分污染的一个防治以及治疗原则还有绿色化学其中着重探讨了污水的处理液那么课后同学们能否进行一个小探究呢通过课后查阅资料利用今天我们所学习到的化学观念完成海水视潮这一课题的仿制报告接下来同学们可以打开课本到一百二十一面完成课后练习与应用一和好看大家大概写完了第一个问题下列做法值得提倡的是有哪位同学愿意分享一下自己的答案好这位大生你来说一下成做公共交通工具出行是值得提倡的好很好那么请同学们再次思考一下除此之外难道A和B不可以吗比如说选用这种回收废纸制作的纸箱有利于资源的循环使用如果我们将生活垃圾进行分类呢也可以避免一些有害的物质比如说电池对环境的污染。\n[648.88 -> 680.96] 好第二题我国酸雨的主要成因这个问题比较简单有没有同学好大家一起告诉老师这个大家应该选择第二项大量燃料含硫化石的燃料因为我们知道酸雨主要就是由于什么的污染二氧化硫与空气中的水结合生成对对环境所造成的污染好那么本节课我们学习了主要学习了两部分这节课的课程就到此谢谢大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the presentation slide displayed on the screen. It features a structured layout with a title, text content, and an image.\n   - The slide includes a title at the top, a paragraph of text, and an image depicting a geographical feature.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains Chinese text, likely summarizing key points related to environmental protection and green chemistry.\n   - The image on the slide shows a geographical area, possibly illustrating a concept discussed in the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands near the blackboard and occasionally glances at the presentation slide, indicating a review of the content.\n   - The teacher uses hand gestures to emphasize points, likely referring to the text and image on the slide.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the slide or blackboard in the provided frames.\n   - The blackboard contains Chinese text, which may relate to the lesson topic but does not explicitly indicate next steps or assignments.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a structured summary, featuring a title, explanatory text, and an illustrative image of a geographical feature. The teacher stands near the blackboard, occasionally glancing at the slide to guide the review. Using hand gestures, the teacher emphasizes key points, likely aligning with the text and image on the slide. The visual focus remains on the slide content, reinforcing the lesson's core concepts. No explicit homework or next-step instructions are visible, keeping the conclusion centered on the presented summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Green Chemistry Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Applications in Daily Life",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Atomic Utilization Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Wastewater Treatment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Environmental Pollution Control",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Pollution Prevention",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Pollution Treatment Principles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Visual Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide with title, text content, and image of geographical feature",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Structured Summary",
+        "type": "Visual",
+        "original_text": "Structured summary with explanatory text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[514.59 -> 647.84]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answer Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[514.59 -> 647.84]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explains how green chemistry benefits daily life."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Efficiency principle applied to wastewater treatment."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Leads from atomic efficiency to pollution control."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Discusses principles for preventing and treating pollution."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Slide visualizes summary of lesson's key points."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Summary reinforces student engagement in lesson."
+      },
+      {
+        "source": "c4",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to share answers on pollution control."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

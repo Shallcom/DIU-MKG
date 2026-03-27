@@ -1,0 +1,183 @@
+{
+  "video_name": "37_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Be able to identify a positive or negative relationship between two variables; be able to describe the correlation characteristics between variables using a scatter plot; understand and explain the mathematical definitions of positive and negative correlation.",
+  "transcript": "[680.26 -> 692.46] 好我们来请这位同学来分享一下通过这幅图你有什么发现呢我发现这些点都集中在一条从左下到右上的直线进行刻画可以由左下到右上的一个直线进行刻画那就意味着意味着它们是正相关正相关那很好这位同学有的预习都知道这是一个正相关的关系那也就是说随着X的增长Y也是增长的那同样如果它是一条右下的直线呢负相关是的在数学上呢我们就讲当一个变量的值增加时另一个变量相应的值也增加的这个趋势是为正相关的非常好请坐同样的当一个变量在增加时另一个变量是随之减小的趋势我们就将这两个变量称为负相关。\n[703.78 -> 746.44] 那请同学们思考我们应该如何去刻画这个直线的位置呢也就是要找到它的参数那这个就留在我们下次进行探讨我们对本节课进行一个小结我们从生活实际问题出发抽象出了两个变量之间相关关系的概念进而通过散点图进行数据分析类比得到了我们散点图来观察两个变量之间的相关关系那么在这个过程当中我们也要回到我们的生活实际问题那也就体现了数学建模的核心素养表现那么也发展了学生们的三会思想同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a flowchart displayed on the digital screen. It is structured with boxes and arrows, showing relationships between different concepts.\n   - The blackboard contains a diagram with the heading \"3/1 变量的关联性\" and branches into \"正相关\" and \"负相关.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - On the screen: \n     - \"实现操作关系\" (Implementing operational relationships)\n     - \"生活实例\" (Life examples)\n     - \"相关关系\" (Correlation relationship)\n     - \"数字分析\" (Digital analysis)\n     - \"数据可视化\" (Data visualization)\n   - On the blackboard:\n     - \"3/1 变量的关联性\" (3/1 Variable Correlation)\n     - \"正相关\" (Positive Correlation)\n     - \"负相关\" (Negative Correlation)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the flowchart on the screen, emphasizing the \"实现操作关系\" box.\n   - She gestures towards the \"生活实例\" and \"相关关系\" sections, explaining their connections.\n   - The teacher uses hand movements to trace the arrows in the flowchart, highlighting the process from \"生活实例\" to \"数字分析\" and \"数据可视化.\"\n   - She points to the blackboard, reviewing the \"正相关\" and \"负相关\" branches.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a flowchart displayed on the screen, centered on the core topic of operational relationships. The teacher visually reviews the content by pointing to each section in sequence, starting with \"实现操作关系\" and moving through \"生活实例\" and \"相关关系.\" She traces the arrows connecting these elements, emphasizing the flow from life examples to digital analysis and data visualization. The blackboard highlights the concepts of positive and negative correlation. The visual focus remains on summarizing the lesson, with no explicit indication of homework or next steps visible in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Positive Correlation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[680.26 -> 692.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Negative Correlation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[680.26 -> 692.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Correlation Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[680.26 -> 692.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Scatter Plot Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[703.78 -> 746.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Digital Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[703.78 -> 746.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Data Visualization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[703.78 -> 746.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Mathematical Definitions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.26 -> 692.46]"
+      },
+      {
+        "id": "v1",
+        "label": "Flowchart on Screen",
+        "type": "Visual",
+        "original_text": "Flowchart with boxes and arrows showing relationships between different concepts.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Board Diagram",
+        "type": "Visual",
+        "original_text": "'3/1 Variable Correlation' branching into 'Positive Correlation' and 'Negative Correlation'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Operational Relationships",
+        "type": "Visual",
+        "original_text": "Implementing operational relationships.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Life Examples",
+        "type": "Visual",
+        "original_text": "Life examples.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Identifies Positive Correlation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Class Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding positive correlation as part of correlation characteristics."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding negative correlation as part of correlation characteristics."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Using scatter plot analysis as a method of digital analysis."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Digital analysis evolves into data visualization."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Mathematical definitions aid in understanding positive correlation."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Mathematical definitions aid in understanding negative correlation."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Flowchart emphasizes correlation characteristics."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Board diagram displays positive correlation."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Board diagram displays negative correlation."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Emphasizes operational relationships contributing to correlation characteristics."
+      },
+      {
+        "source": "v4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Life examples are included in correlation characteristics understanding."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "guides_discussion",
+        "intent": "Student identifies the concept of positive correlation."
+      },
+      {
+        "source": "c2",
+        "target": "ss2",
+        "relation": "prompts_thinking",
+        "intent": "Class reflects on negative correlation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,153 @@
+{
+  "video_name": "5_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the method of recording time intervals and displacement using a stroboscope; understand the basic characteristics of simple harmonic motion.",
+  "transcript": "[550.54 -> 551.24] 来请这位同学来回答。\n[552.52 -> 562.96] 我们的目击产业上应该记录的是时间还有物理量是吧我们记录的他说我们记录的是时间和位移两个物理量。\n[564.16 -> 579.42] 其实对很好这个其实时间的话我们是怎么来记录的是因为我们用的照相仪是每隔相同时间照一次相所以间接反映出了它的时间。\n[582.88 -> 625.86] 那么这个屏闪仪就记录了它的位移接着为了方便计算我们可以记录相同时间间隔内的位移接下来我们的步骤就是首先建立坐标系第二使用屏闪仪来记录相等时间间隔内的位移为了方便我们的课堂我在这个老师在课前就拍摄这么一组屏闪仪照相的画面那么同学们在课后也可以尝试用自己的手机连拍功能拍摄一下弹簧阵子的位移时间模型。\n[628.18 -> 643.08] 好下面我们再来仔细观察一下弹簧阵子的震动是一条非常有规律的线路那么请同学们思考一下。\n[644.36 -> 651.76] 这条线和我们之前所学过的函数图像有没有像类似的呢。\n[654.28 -> 689.56] 我看到很多同学点头了来我请一位同学来说你来说像那个正弦与弦函数很好请坐他回答得非常详细像正弦与弦函数没错那么现在这是我们的推理环节我们猜测它是振显与显函数那么我们应当怎样确定振动图像就是振显或者与显函数呢请同学们小组讨论一分钟时间两人一组小组讨论一下。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the sine wave diagram displayed on the screen. The teacher referred to this visual artifact throughout the discussion, ensuring students' attention was directed towards it.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded, providing non-verbal encouragement. The teacher occasionally pointed to specific parts of the sine wave diagram, highlighting key features such as the amplitude and wavelength, to guide the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the sine wave diagram on the screen, emphasizing its relevance. The teacher then drew a small arrow on the blackboard to visually explain a concept related to the student's answer, reinforcing the correct understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher initiated interaction with a sweeping gesture towards the class.\n  - The sine wave diagram on the screen became the focal point.\n\n- **Middle:**\n  - The teacher listened attentively, nodding and maintaining eye contact.\n  - Pointed to specific parts of the sine wave, such as peaks and troughs, to guide the student's explanation.\n\n- **End:**\n  - The teacher circled the sine wave diagram on the screen.\n  - Drew an arrow on the blackboard to visually clarify the student's response, providing feedback and confirmation.\n\nThis structured approach ensured that visual elements were effectively used to co-construct knowledge, linking gestures and board content seamlessly.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a sine wave diagram, serving as the central visual artifact for the lesson. The teacher began by making a sweeping gesture across the classroom, inviting all students to engage with the problem at hand. This gesture signaled the start of an interactive segment, focusing attention on the sine wave.\n\nAs the student began to explain their reasoning, the teacher moved closer to the screen, nodding and maintaining eye contact to encourage participation. The teacher pointed to specific features of the sine wave, such as the peaks and troughs, guiding the student's explanation and ensuring clarity. These supportive gestures helped the student articulate their understanding more effectively.\n\nTo validate the student's response, the teacher circled the sine wave diagram on the screen, emphasizing its importance. The teacher then drew an arrow on the blackboard, connecting the student's explanation back to the core lesson content, reinforcing the relationship between the sine wave and the concepts previously discussed.\n\nThroughout this process, the teacher's gestures transformed passive reception into active construction. By linking the student's response to the lesson's main ideas, the teacher facilitated a deeper understanding, encouraging students to connect new knowledge with existing concepts. This dynamic interaction not only verified the student's comprehension but also promoted active engagement and critical thinking.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Time Intervals",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[552.52 -> 562.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[552.52 -> 562.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Stroboscope",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[564.16 -> 579.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Amplitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.88 -> 625.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Wavelength",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.88 -> 625.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Simple Harmonic Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.88 -> 625.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[582.88 -> 625.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Sine Wave Diagram",
+        "type": "Visual",
+        "original_text": "Sine diagram on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Arrow Illustration",
+        "type": "Visual",
+        "original_text": "Arrow on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[644.36 -> 651.76]"
+      },
+      {
+        "id": "s2",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[654.28 -> 689.56]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Time intervals are recorded using a stroboscope."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Displacement is part of the data recorded with a stroboscope."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Stroboscope provides data crucial to understanding simple harmonic motion."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Sine wave diagram illustrates the concept of amplitude."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Sine wave diagram illustrates the concept of wavelength."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Simple harmonic motion is emphasized through the sine wave diagram."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Using a coordinate system is a procedural step in analyzing simple harmonic motion."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "Arrow drawn on blackboard supports understanding of wavelength."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Students are engaged with the sine wave diagram."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Group discussion helps students explore concepts of simple harmonic motion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

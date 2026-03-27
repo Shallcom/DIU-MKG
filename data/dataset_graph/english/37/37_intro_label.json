@@ -1,0 +1,119 @@
+{
+  "video_name": "37_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the reasons behind students' classroom behavior; analyze how to effectively manage classroom discipline issues.",
+  "transcript": "[0.0 -> 35.54] Good morning Distinguished Judges. It's my great honor to be here to give my impromptu speech. I believe many teachers they are facing this kind of problem in their teaching. That is some students they are really naughty and laughing in this class. class and always interrupt what you are teaching. And after you give them a lot of warnings,\n[35.78 -> 43.06] it is not effective. They are still laughing and being naughty. So how can we solve these problems?\n[43.16 -> 68.4] I will analyze my answers to this question from the two following aspects. The first is why are the students being naughty and laughing in this class. I believe there are mainly three reasons. The first is that they are not feeling involved in these classes. That means they are not interested in our classes. And second is that what we are teaching,\n[68.72 -> 95.02] the knowledge they can't understand. So they are doing some other things and laughing in this class. And third is that they feel ignored in these classes. Maybe the teachers doesn't ask this student to answer his or her questions so that the student he or she feel ignored in these classes and not involved in this class. So secondly,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is an image displayed on the screen at the beginning of the lesson. It shows a traditional setting, possibly a room with traditional decor, which is part of the slide titled \"Case 1: Historical traditions.\"\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"Case 1: Historical traditions Reading Learning.\" The teacher does not physically write this title; it is part of the slide presentation. The teacher stands in front of the screen, ensuring the title is visible to the students.\n\n#### 3. **The Objectives**\n- The learning objectives are not explicitly listed as bullet points in the visible frames. The focus is on the title slide, which sets the context for the lesson.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her free hand, likely emphasizing points related to the content on the screen. She occasionally points towards the screen, directing students' attention to the title and image.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher walks to the front of the classroom.\n- The screen displays the title \"Case 1: Historical traditions Reading Learning\" alongside an image of a traditional setting.\n- The teacher stands in front of the screen, holding papers.\n\n**Middle:**\n- The teacher gestures with her hand, likely explaining the significance of the image and title.\n- She points towards the screen, ensuring students focus on the visual content.\n- The teacher continues to speak, using hand movements to emphasize key points related to historical traditions.\n\n**End:**\n- The teacher maintains her position in front of the screen, reinforcing the lesson's introduction.\n- She uses hand gestures to engage students, possibly summarizing the introduction or transitioning to the next part of the lesson.\n\nThis structured log captures the visual evolution and links the teacher's actions to the content displayed, providing a clear narrative of the introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying an image of a traditional setting, serving as the hook to capture students' attention. This visual stimulus is part of the slide titled \"Case 1: Historical traditions Reading Learning.\" The teacher, holding papers, gestures towards the screen, emphasizing the cultural context depicted in the image. As she speaks, her hand movements guide students' focus to the title and the accompanying visual, bridging the hook to the main topic. The slide remains static, allowing the teacher to elaborate on the significance of historical traditions. Throughout this phase, the teacher's gestures and positioning in front of the screen create a visual connection between the image and the lesson's objectives, setting the stage for deeper exploration of the topic. This approach links the visual content to students' existing cultural knowledge, preparing them for a more detailed examination of historical traditions in the subsequent parts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Historical Traditions Slide",
+        "type": "Visual",
+        "original_text": "Case 1: Historical traditions Reading Learning",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Traditional Setting Image",
+        "type": "Visual",
+        "original_text": "Image of traditional room decor",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Classroom Behavior Reasons",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[43.16 -> 68.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Student Non-Involvement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[43.16 -> 68.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Content Difficulty",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[68.72 -> 95.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Feeling Ignored",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[68.72 -> 95.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Effective Discipline Management",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 35.54]"
+      },
+      {
+        "id": "s1",
+        "label": "Naughty Behavior",
+        "type": "Student_State",
+        "cognitive_state": "Confused"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "The slide includes an image that represents the concept visually."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Non-involvement is a reason for classroom behavior issues."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Difficulty in understanding content leads to behavior issues."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Feeling ignored results in disruptive behavior."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Strategies for managing discipline are based on understanding behavior reasons."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "Visual content supports the introduction of discipline management strategies."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Naughty behavior prompts analysis of underlying causes."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The image emphasizes the cultural context of the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

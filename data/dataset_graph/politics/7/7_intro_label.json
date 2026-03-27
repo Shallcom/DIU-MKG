@@ -1,0 +1,114 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the value of the inquiry‑and‑sharing model in ideological and political classes; master teaching methods that combine theory with practice; develop the ability to use everyday materials to analyze ideological and political issues.",
+  "transcript": "[0.0 -> 88.64] 支持明镜与点点栏目尊敬的各位评委亲爱的同学们大家早上好今天我抽到的即兴讲演的题目是高中思想政治课中蕴含着很多探究与分享的面容它比较典型但是它不能做到实时更新那作为思政科老师是采用典型的案例呢还是将它结合到我们实际生活中自己去挖掘一些私人素材接下来我将谈谈自己的理解齐金平总书记在思想政治理论课高中座谈会中曾指出思想政治理论课要坚持八个统一其中讲到了理论性与时间性相统一万书性与启发性相统一统一性和多人性相统一我想我们思想政治课也从这三个统一入手了首先呢探究与分享它是较为典型的案例是由专家组来编写的它肯定对于我们学生的学习有一定的帮助并且呢学生在上课之前呢便可以通过这些探究与分享提前做好预习来对我们的课本知识有一定的了解但是这些例子呢它不能做到实时更新那我们四洋真正理论课教师就要坚持住理论与实践性挖掘我们现实生活中的思政科素材帮助学生更好地理解教学知识。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The text on the slide is in Chinese, and it appears to be a question or prompt to engage the students. The exact text is:\n  ```\n  为什么说，地球是太阳系的特殊行星？\n  从哪些方面可以说明地球是太阳系的特殊行星？\n  ```\n  This translates to: \"Why is Earth considered a special planet in the solar system? From which aspects can we demonstrate that Earth is a special planet in the solar system?\"\n\n#### 2. **The Title Event**\n- The title on the blackboard is written in Chinese characters. The teacher does not appear to write or underline it during the video. The title is likely related to the content of the slide, focusing on Earth's uniqueness in the solar system.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or blackboard in this segment. The focus is on the introductory question.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely emphasizing points related to the slide content.\n- She occasionally looks at the students, possibly to gauge their understanding or engagement.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers.\n- The slide on the screen displays the introductory question about Earth's uniqueness in the solar system.\n- The blackboard shows some Chinese text, likely the lesson title or related content.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize her points.\n- She occasionally looks at the students, maintaining eye contact to engage them.\n- The slide remains unchanged, focusing on the initial question.\n\n**End:**\n- The teacher continues her presentation, still referencing the slide content.\n- No additional visual elements are introduced on the blackboard or screen during this segment.\n\n### Summary\nThe introduction phase centers on engaging students with a thought-provoking question about Earth's uniqueness. The teacher uses hand gestures and maintains eye contact to connect with the students, though no new visual content is added to the board or screen. The focus remains on the initial slide, prompting students to consider the aspects that make Earth special in the solar system.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, holding papers and facing a slide that poses a thought-provoking question about Earth's uniqueness in the solar system. The hook object is the slide displaying the text: \"Why is Earth considered a special planet in the solar system? From which aspects can we demonstrate that Earth is a special planet in the solar system?\" This question serves as the initial stimulus to engage the students' curiosity. The teacher uses hand gestures to emphasize key points, occasionally looking at the students to maintain their attention. The blackboard in the background features some Chinese text, likely related to the lesson's title or theme, but remains static throughout the segment. The visual narrative transitions smoothly from the hook to the main topic without additional slides or board changes, focusing on the introductory question to set the stage for the lesson. The teacher's gestures and eye contact help bridge the students' existing knowledge about Earth and the solar system to the new concepts that will be explored, creating a foundation for deeper understanding as the lesson progresses.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Earth's Uniqueness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Inquiry-and-Sharing Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 88.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Theory and Practice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 88.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Everyday Materials Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 88.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Thought-provoking Question",
+        "type": "Visual",
+        "original_text": "Why is Earth considered a special planet in the solar system? From which aspects can we demonstrate that Earth is a special planet in the solar system?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Lesson Title",
+        "type": "Visual",
+        "original_text": "Special Planet Earth Theme",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gesticulates to emphasize",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Eye Contact",
+        "type": "Visual",
+        "original_text": "Teacher maintains eye contact",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The introductory slide prompts inquiry into Earth's uniqueness."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The inquiry-and-sharing model is supported by the integration of theory with practice."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The principle of combining theory with practice involves analyzing everyday materials."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "The slide content encourages student engagement through inquiry."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher uses hand gestures to emphasize slide content."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Eye contact helps maintain student engagement and guide discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

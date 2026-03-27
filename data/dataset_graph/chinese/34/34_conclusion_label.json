@@ -1,0 +1,154 @@
+{
+  "video_name": "34_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Help students analyze Hamlet’s inner conflicts and their social context; guide students to understand the dramatic representation of the clash between ideals and reality; cultivate students’ ability to discern and choose values.",
+  "transcript": "[665.6 -> 701.86] 那么在这种恶劣的情况下老师想问问大家在哈姆莱特他内心是复杂的他内心是矛盾的那么面对这种情况他最终结局是什么哈姆莱特的结局是什么死的死伤的伤亡的亡是吧连哈姆莱特自己的结局也是不好的那面对社会的黑暗我们有理想我们对理想有一个追求而且我们有伟大的复兴梦那你们觉得我们应该怎么做难道像他那样吗。\n[703.54 -> 707.92] 像他那样去拼命地去杀死人吗。\n[709.7 -> 773.56] 我们百年前社会动荡不安民生凋敝但是百年后我们看到外面国泰民安啊这是我们希望的愿景所以从这里面折射出来的是我们在面对自己理想与黑暗的社会冲突的时候我们应该不忘初心始终向善向好的发展那老师想问醋汁的文章里面醋汁它的里面结局是好的还是坏的好的那窦娥冤呢虽是坏的但是最后她的父亲沉冤昭雪了对吧结局是好的那请大家最后完成必做作业选作作业结合你们自己的具体实际情况去做好吗好希望大家心有花木向阳而升实现自己的理想想自己所想做自己所做成为自己想成为的人好活出你们自己生活的喜剧同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation screen.\n   - The blackboard contains handwritten notes with key terms and concepts.\n   - The presentation screen displays a slide with text content, likely summarizing the lesson.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - \"哈姆莱特\" (Hamlet)\n     - \"莎士比亚\" (Shakespeare)\n     - \"矛盾冲突\" (Conflict)\n     - \"内因\" (Internal cause)\n     - \"外因\" (External cause)\n     - \"生存、毁灭\" (To be or not to be)\n   - Presentation Screen:\n     - The slide contains a block of text, likely summarizing key points or providing additional context related to the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, likely emphasizing the terms \"矛盾冲突\" (Conflict) and the dichotomy of \"内因\" (Internal cause) and \"外因\" (External cause).\n   - The teacher points to the presentation screen, possibly highlighting key phrases or sentences in the text displayed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the lesson content through the blackboard and screen.\n\nThis structured visual summary consolidates the lesson's key themes and concepts, with the teacher's gestures reinforcing the main points on both the blackboard and presentation screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a block of text summarizing key points, complemented by handwritten notes on the blackboard. The teacher visually reviews the content by pointing to the terms \"矛盾冲突\" (Conflict) and the contrasting concepts of \"内因\" (Internal cause) and \"外因\" (External cause) on the blackboard. She gestures towards the presentation screen, emphasizing important phrases within the text. The core takeaway is visually marked by the structured layout of the blackboard notes, which highlight the central themes of \"生存、毁灭\" (To be or not to be). No explicit homework or next-step instructions are visible, focusing the conclusion solely on reinforcing the lesson's main ideas through the combined use of the board and screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Hamlet's Inner Conflict",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.6 -> 701.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Social Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Ideals vs Reality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Value Discernment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Shakespeare",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Conflict",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Internal Cause",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "c8",
+        "label": "External Cause",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.6 -> 773.56]"
+      },
+      {
+        "id": "v1",
+        "label": "To Be or Not to Be",
+        "type": "Visual",
+        "original_text": "The phrase 'To be or not to be' written on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Slide Summary",
+        "type": "Visual",
+        "original_text": "Slide displaying a block of text summarizing key points of the lesson.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "t1",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the blackboard emphasizing 'Conflict', 'Internal cause', and 'External cause'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "t2",
+        "label": "Final Summary Gesture",
+        "type": "Visual",
+        "original_text": "Teacher points to the presentation screen highlighting key phrases.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Collaborative Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Connects Hamlet's personal struggles with the broader theme of ideals clashing with reality."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Establishes social context as a foundation for understanding the clash between ideals and reality."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The principle of ideals vs reality encompasses the procedure of value discernment."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The phrase 'To be or not to be' visually represents the concept of conflict."
+      },
+      {
+        "source": "t1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures highlight the importance of the conflict in Hamlet's narrative."
+      },
+      {
+        "source": "t2",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The presentation screen slide is used by the teacher to summarize and reinforce the lesson."
+      },
+      {
+        "source": "t1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher's gesture towards key concepts prompts students to reflect and engage in the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "The text block on the slide scaffolds students' understanding during the conclusion of the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

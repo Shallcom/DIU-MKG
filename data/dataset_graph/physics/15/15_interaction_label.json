@@ -1,0 +1,202 @@
+{
+  "video_name": "15_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Measure the vibration period of a small sphere experimentally and analyze the results; understand and apply the property in simple harmonic motion that the period does not depend on amplitude.",
+  "transcript": "[524.470433 -> 627.64] 通过推导我们发现欧米伽是等于二π除以T的我们还知道T是等于F分之一那么T就等于F分之一把它代入关系式我们就可以得出来欧米伽与频率的关系欧米伽就等于二πF接下来啊让我们进行一个小实验测量小球震动的周期下面我请一位同学和我一起来完成这个实验周同学你来首先这是你看这是一个弹簧你上端拿住它然后自然悬挂的小球在这里你把它下挖一个一段距离松手然后自然悬挖的小球在这里你把它下挖一个一段距离松手它是不是小球就会在这两个中间进行振动非常棒请回那我想请问同学们在振动假如这个小球振动发生了全振动的次数是四次我们用秒表来记录整个实验的过程那整个实验过程的时间除以全振动运动的周期次数我们就可以得到一一次拳震动所用的时间我们就可以测出小球震动的周期通过实验我们可以发现弹簧震子的震动周期是与振幅没有关系的不只是在这个运动过程中很多运动过程中它的周期都是与振幅没有关系的。\n[629.24 -> 633.24] 让我们再来看描述的第三种力量叫做向位。\n[635.74 -> 644.470433] 在数学中我们知道这个是一个整形函数的表达式。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interaction. She then pointed directly to a student, inviting them to participate.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the content on the blackboard, specifically the list of formulas and concepts written in Chinese:\n  1. $x = A \\sin(\\omega t + \\varphi)$\n  2. 振幅 (Amplitude) $A$\n  3. 周期 (Period) $T$\n  4. 频率 (Frequency) $\\frac{1}{T}$\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While the student was responding, the teacher nodded and smiled to encourage them. She also gestured towards the blackboard, pointing to the relevant formula $x = A \\sin(\\omega t + \\varphi)$ to hint at the answer.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student responded, the teacher gave an emphatic thumbs-up to validate their input. She then proceeded to write additional notes on the blackboard, elaborating on the student's response by connecting it to the previously discussed concepts.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands next to the blackboard, which displays the formulas and concepts.\n  - She gestures towards the class, making a sweeping motion to signal interaction.\n\n- **Middle:**\n  - The teacher points directly at a student, inviting them to answer.\n  - The student stands up, and the teacher listens attentively, nodding and smiling.\n  - She points to the formula $x = A \\sin(\\omega t + \\varphi)$ on the blackboard to provide a hint.\n\n- **End:**\n  - The teacher gives a thumbs-up to confirm the student's correct response.\n  - She writes additional notes on the blackboard, linking the student's answer to the concepts of amplitude, period, and frequency.\n\nThis structured interaction visually connects the teacher's gestures and board content, facilitating a dynamic co-construction of knowledge.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed key formulas and concepts related to simple harmonic motion, including $x = A \\sin(\\omega t + \\varphi)$, amplitude $A$, period $T$, and frequency $\\frac{1}{T}$. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the material. She then pointed directly at a student, signaling them to share their thoughts.\n\nAs the student responded, the teacher moved to the blackboard, nodding and smiling to encourage their explanation. She pointed to the formula $x = A \\sin(\\omega t + \\varphi)$, providing a visual hint to guide the student's reasoning. Her supportive gestures and attentive posture created an environment conducive to active participation.\n\nTo validate the student's answer, the teacher gave a distinct thumbs-up and proceeded to write additional notes on the blackboard. She drew arrows connecting the student's response to the core concepts of amplitude, period, and frequency, reinforcing the lesson's main ideas.\n\nThrough these gestures, the teacher facilitated a transition from passive reception to active construction of knowledge. By linking the student's input back to the lesson content, she encouraged deeper understanding and critical thinking, empowering students to engage more actively with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Harmonic Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c2",
+        "label": "Displacement Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c3",
+        "label": "x = A sin(ωt + φ)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c4",
+        "label": "Amplitude A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c5",
+        "label": "Period T",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c6",
+        "label": "Frequency 1/T",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c7",
+        "label": "Angular Frequency ω",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c8",
+        "label": "ω = 2πT",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c9",
+        "label": "Experimental Procedure",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c10",
+        "label": "Period Measurement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "c11",
+        "label": "No Dependence on Amplitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[524.47 -> 644.47]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Formulas",
+        "type": "Visual",
+        "original_text": "Formulas displaying x = A sin(ωt + φ), Amplitude A, Period T, and Frequency 1/T.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The displacement in simple harmonic motion."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Mathematical representation of displacement."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Amplitude is a component of the displacement formula."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Period is a component of the displacement formula."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Frequency is derived from the period."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Angular frequency calculations involving period."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Procedure for measuring the period."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "The period does not depend on amplitude."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The blackboard displays the displacement formula."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The blackboard displays the amplitude."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The blackboard displays the period."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The blackboard displays the frequency."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The displacement formula prompts student engagement."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Engaged students move to answering questions."
+      },
+      {
+        "source": "s2",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Students answering leads to period measurement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

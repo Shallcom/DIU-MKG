@@ -1,0 +1,160 @@
+{
+  "video_name": "42_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "- Be able to describe the conditions, products, and fundamental changes involved in metal corrosion.  \n- Be able to identify common rust phenomena and propose anti‑rust recommendations.",
+  "transcript": "[696.188767 -> 702.02] 老师给大家看一组图片这是拆开蒸汽眼罩的包装之后呀里面产生了红褐色的物质可是我们刚刚说是产生了新氧化亚铁呀为什么会有红褐色物质呢被氧化了那生成了什么呀新氧化铁那同学们说对了一半其实呀在产生了新氧化铁之后新氧化铁又失去了部分的水产生了带结晶水的氧化铁也就是我们说的铁锈。\n[704.18 -> 747.96] 它就是那带结晶层的铁锈就是氧化就是铁锈的主要成分好现在我们知道了蒸汽眼罩它其实是发生了一个金属的腐蚀我们刚我们的厂我们的反应物铁在经过一系列的反应之后变成了铁离子它的价才发生了一个变化这就是金属腐蚀的本质那至于但是呢我们又我们通过正极反应分析出来它是和氧气发生了反应吧那这一过程我们叫它做夕阳辅食好我的模拟授课到此结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard displays the chemical equations for the oxidation and reduction reactions involved in oxygen corrosion:\n     - Anode: $\\text{Fe} \\rightarrow \\text{Fe}^{2+} + 2\\text{e}^-$\n     - Cathode: $\\text{O}_2 + 2\\text{H}_2\\text{O} + 4\\text{e}^- \\rightarrow 4\\text{OH}^-$\n   - The presentation slide contains text in Chinese, with a diagram and key points about the experiment.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Anode reaction: $\\text{Fe} \\rightarrow \\text{Fe}^{2+} + 2\\text{e}^-$\n     - Cathode reaction: $\\text{O}_2 + 2\\text{H}_2\\text{O} + 4\\text{e}^- \\rightarrow 4\\text{OH}^-$\n   - Slide:\n     - Title: 分析实验 (Analysis Experiment)\n     - Diagram with labels: 高浓度硫酸铜溶液 (High concentration copper sulfate solution), 铁钉 (Iron nail), 保护物 (Protective substance)\n     - Text: 产生锈蚀的条件 (Conditions for rust formation), 全部腐蚀电极反应式 (Overall corrosion electrode reaction), $\\text{Mn} \\rightarrow \\text{Mn}^{2+} + 2\\text{e}^-$\n     - Additional text: 高二化学课学生做了实验报告 (Senior high school chemistry students did experiment reports)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equations on the blackboard, likely reviewing the anode and cathode reactions.\n   - The teacher gestures towards the slide, emphasizing the diagram and key points about the experiment conditions and reactions.\n   - The teacher uses hand movements to highlight the protective substance in the diagram and the overall corrosion reaction.\n\n4. **Transition to Next Step**:\n   - The slide mentions that senior high school chemistry students completed experiment reports, suggesting a follow-up activity or homework related to documenting the experiment.\n   - No explicit visual element indicates further reading or the next lesson, but the reference to student reports implies a continuation in report writing or discussion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying key points about the analysis experiment, alongside the blackboard showing the chemical equations for oxygen corrosion. The teacher visually reviews the content by pointing to the anode and cathode reactions on the blackboard, emphasizing the electron transfer processes. She then gestures towards the slide, highlighting the diagram of the experiment setup and the conditions for rust formation. The teacher draws attention to the overall corrosion reaction, ensuring students focus on the complete electrode reaction. The slide also notes that students completed experiment reports, indicating a follow-up task. No explicit homework instructions are visible, but the reference to student reports suggests a continuation in documenting or discussing the experiment findings.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Metal Corrosion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.188767 -> 747.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Conditions for Corrosion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[696.188767 -> 747.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Anode Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[696.188767 -> 747.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Cathode Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[696.188767 -> 747.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Rust Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.18 -> 747.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Electrode Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[704.18 -> 747.96]"
+      },
+      {
+        "id": "c7",
+        "label": "High Concentration Copper Sulfate Solution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.18 -> 747.96]"
+      },
+      {
+        "id": "c8",
+        "label": "Iron Nail",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.18 -> 747.96]"
+      },
+      {
+        "id": "c9",
+        "label": "Protective Substance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[704.18 -> 747.96]"
+      },
+      {
+        "id": "c10",
+        "label": "Experiment Reports",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[704.18 -> 747.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Chemical Equations",
+        "type": "Visual",
+        "original_text": "Displays chemical equations for oxidation and reduction reactions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Slide Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing setup and conditions for rust formation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding metal corrosion involves knowing its conditions."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Conditions lead to rust formation."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Corrosion involves electrode reactions."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Blackboard depicts anode reaction Fe to Fe2+."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Blackboard represents cathode reaction involving O2 and H2O."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Copper sulfate solution shown in slide diagram."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Iron nail depicted in slide diagram."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Protective substance highlighted in diagram."
+      },
+      {
+        "source": "c10",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Experiment reports engage students in documenting corrosion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

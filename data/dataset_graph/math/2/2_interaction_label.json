@@ -1,0 +1,120 @@
+{
+  "video_name": "2_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Draw power‑function graphs and identify their key features; analyze the commonalities and properties of different power‑function graphs; classify power functions using their monotonicity and parity.",
+  "transcript": "[489.22 -> 492.8] 那我们请一位同学来在黑板上也稍微画一下。\n[496.68 -> 505.5] 是的同学请你来说的话就是UI等于XUI等于二分之一这两个是画在同一个图上吗。\n[526.68 -> 544.3] 我看下面同学画得都非常准确对我们以往学习过的这几个函数的性子以及图像都了解得掌握得比较准确。\n[556.68 -> 588.46] 好我看同学们画得差不多了大家对照一下自己的和这个标准的图像看看是不是一样的好那我们来观察一下这个图像那么这个图像它们有什么样的共同特征呢我们先来完成一下这个表格根据我们刚刚所画的图像完成如下表格这个表格在我们的课本九十页也有并且思考一下这些函数图像有公众点吗。\n[616.68 -> 682.875467] 好我看同学们都完成了差不多了好我们先来解决第一个问题这些函数图像有公共点吗那我们看我们看到这个图很明显我们发现这些图像都会经过哪个点一逗号一这个点对不对嗯非常好好那么这个第一个问题我们就解决了它们都会经过一这个点好那我们再根据我们刚刚填的表格的内容你能发现什么样的共同特征呢看到九十页好我们请这位同学来回答一下通过我们的函数图像以及你刚刚完成的表格你能得到什么样的性质呢或者什么样的特征呢特征特点呢比如说第一条就是这些函数都经过点一一然后呢积函数和偶函数有什么样的特征积有性有什么样的特征哪些函数是积函数哪些是偶函数当阿法等于一三负一的时候是积函数当阿法等于二的时候是偶函数也就是说当这个幂是一三和负一的时候是基函数当这个幂是二的时候是偶函数非常好请坐好那你还能得出什么样的结论呢从我之前学过的单调性上来看的话我发现首先Y等于XY等于X三次方还在负重到正重上应该是单调递增的然后Y等于X的二分之一次的话它在它的定义上零到正度程度上也是带着递增的而Y等于X的平方的话它是在复充到零上时间到。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. This gesture was broad, encompassing the entire classroom, inviting any student to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the list of functions written on the blackboard: \n  1. $p = w$\n  2. $s = a^t$\n  3. $v = b^t$\n  4. $c = 5^t - 5$\n  5. $v = t + 1$\n- Additionally, the teacher referred to the graph of $y = x^2$ drawn on the blackboard.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the graph of $y = x^2$ on the blackboard, highlighting the curve to visually guide the student's explanation.\n- The teacher also gestured towards the list of functions, specifically pointing to $s = a^t$ and $v = b^t$, to hint at the relevance of these functions to the discussion.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the function $s = a^t$ on the blackboard, visually confirming its importance in the context of the lesson.\n- The teacher then drew a small arrow next to the graph of $y = x^2$, indicating a direction or transformation related to the student's input.\n- An emphatic nod and a smile were used to validate the student's correct understanding, accompanied by a thumbs-up gesture.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Focus shifts to the list of functions on the blackboard.\n\n- **Middle:**\n  - Teacher points to the graph of $y = x^2$, guiding the student's explanation.\n  - Gestures towards $s = a^t$ and $v = b^t$ to provide hints.\n\n- **End:**\n  - Teacher circles $s = a^t$ on the blackboard, confirming its relevance.\n  - Draws an arrow next to the $y = x^2$ graph, illustrating a concept.\n  - Uses a thumbs-up and nod to validate the student's input.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students are actively engaged and guided through visual cues and board annotations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a list of functions: \n1. $p = w$\n2. $s = a^t$\n3. $v = b^t$\n4. $c = 5^t - 5$\n5. $v = t + 1$\n\nAlongside these, a graph of $y = x^2$ was prominently displayed. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content on the board. This broad gesture signaled the start of an interactive session, focusing attention on the functions and the graph.\n\nAs a student began to explain their reasoning, the teacher walked over to the blackboard, pointing to the graph of $y = x^2$ to visually anchor the discussion. While the student elaborated, the teacher moved their hand to highlight the functions $s = a^t$ and $v = b^t$, drawing subtle connections between these exponential forms and the quadratic graph. This movement helped guide the student's explanation, ensuring relevance to the lesson's core concepts.\n\nTo validate the student's input, the teacher circled the function $s = a^t$ on the blackboard, emphasizing its significance. They then drew a small arrow next to the $y = x^2$ graph, illustrating a transformation or direction related to the student's explanation. A distinct nod and a thumbs-up gesture followed, confirming the correctness of the student's understanding.\n\nFinally, the teacher drew an arrow connecting the circled function $s = a^t$ back to the graph of $y = x^2$, visually linking the student's response to the broader lesson on function transformations. This gesture reinforced the connection between different function types, helping students move from passive reception to active construction of their understanding. Through these visual strategies, the teacher facilitated a dynamic interaction, ensuring students actively engaged with and applied the knowledge presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Power Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[496.68 -> 682.875467]"
+      },
+      {
+        "id": "concept2",
+        "label": "Monotonicity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[616.68 -> 682.875467]"
+      },
+      {
+        "id": "concept3",
+        "label": "Parity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[616.68 -> 682.875467]"
+      },
+      {
+        "id": "concept4",
+        "label": "Common Graph Features",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[616.68 -> 682.875467]"
+      },
+      {
+        "id": "visual1",
+        "label": "Graph y = x^2",
+        "type": "Visual",
+        "original_text": "Graph y = x^2 on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual2",
+        "label": "Function List",
+        "type": "Visual",
+        "original_text": "Function list on the blackboard: p = w, s = a^t, v = b^t, c = 5^t - 5, v = t + 1",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_state1",
+        "label": "Analyzing Functions",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[526.68 -> 588.46]"
+      },
+      {
+        "id": "concept5",
+        "label": "Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[556.68 -> 588.46]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "visual1",
+        "target": "concept1",
+        "relation": "visualizes",
+        "intent": "Provides a visual representation of quadratic functions."
+      },
+      {
+        "source": "visual2",
+        "target": "concept1",
+        "relation": "visualizes",
+        "intent": "Provides multiple examples of power functions."
+      },
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "includes",
+        "intent": "Monotonicity is a property analyzed in power functions."
+      },
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "includes",
+        "intent": "Parity is another property used to classify power functions."
+      },
+      {
+        "source": "visual2",
+        "target": "concept4",
+        "relation": "visualizes",
+        "intent": "Displays functions to identify common features."
+      },
+      {
+        "source": "concept4",
+        "target": "student_state1",
+        "relation": "builds_upon",
+        "intent": "Engagement revolved around identifying shared features."
+      },
+      {
+        "source": "concept5",
+        "target": "visual1",
+        "relation": "visualizes",
+        "intent": "Use a graph arrow to illustrate transformation."
+      },
+      {
+        "source": "student_state1",
+        "target": "concept3",
+        "relation": "builds_upon",
+        "intent": "Students analyze functions for parity characteristics."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

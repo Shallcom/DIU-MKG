@@ -1,0 +1,150 @@
+{
+  "video_name": "23_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand and master the application of constructivist learning theory in biology classrooms; be able to use key concepts to construct students' knowledge frameworks; design personalized teaching plans based on student characteristics.",
+  "transcript": "[0.0 -> 90.0] 构化系统化以此来加深在学习以及授课过程中学生对其的理解和掌握在生物学科的教学当中由于生物学科的知识它较为零碎而且前后的联系是较为紧密的所以我们在教学当中需要透彻建构主义理论的知识点将瞻前顾后将前后的知识理论联系起来由此来构建生物学科的思维的手脚架为在生物课堂等落实建构主义学习理论优化课堂我认为需要注意以下几点首先是注意生物学科当中重要概念的理解与掌握生物学科的重要概念就相当于是一栋房子的地基如果地基都打不好学生自然就没有办法进入接下来的学习了所以在授课过程中啊我们要将重要概念的理解与掌握传递给学生让学生真正的学懂能应用到实际当中第二点是要通过练习以及一些特殊的方法来进行巩固例如在我本堂课当中所讲的是植物生长调节剂的应用我们需要通过一些练习例如概念的判断还有实际练习来巩固这样的话我们就可以更加深入地了解此外学生不同的学生有不同的身心发展所以我们也要根据学生的个人特点去制定如何进行框架式的教学习总书记曾说百年之计教育为本教育大计教师为本作为一名即将踏入教师行业的师范生啊我将透彻以下的以上的文章来介绍给您的观点谢谢你学习理论并应用到我的实际课堂当中不断提高自我素质让我的课堂更加出彩谢谢我的讲演到此结束",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of a plant displayed on the screen. The plant has red leaves and is accompanied by text in Chinese. The image is part of a webpage or presentation slide.\n\n#### 2. **The Title Event**\n- **Title on Screen**: The title on the screen is written in Chinese characters. The teacher does not physically write it but presents it on the screen.\n- **Teacher's Action**: The teacher stands in front of the screen, likely discussing the content related to the title.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly visible in the frames provided. The screen shows a webpage or presentation slide with text and an image, but specific bullet points for objectives are not discernible.\n\n#### 4. **Key Gestures**\n- **Hand Movements**: The teacher holds papers and occasionally gestures with their hands, possibly emphasizing points related to the content on the screen. Specific gestures like pointing or underlining are not clearly visible.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of the class, holding papers.\n- The screen displays an image of a plant with red leaves and accompanying text in Chinese.\n- The teacher begins speaking, likely introducing the topic related to the image.\n\n**Middle**\n- The teacher continues to gesture with their hands while holding papers, possibly explaining details about the plant or related content.\n- The screen remains static, showing the same image and text throughout this phase.\n\n**End**\n- The teacher maintains their position in front of the screen, continuing to engage with the class.\n- No significant changes occur on the screen or blackboard during this phase.\n\n### Summary\nThe lesson introduction phase centers around a visual hook of a plant image displayed on the screen. The teacher uses this image to engage the class, likely discussing related content. While specific learning objectives and detailed gestures are not clearly visible, the teacher's presence and interaction with the screen content suggest an active introduction to the topic.",
+  "visual_narrative": "Initially, the screen presents an image of a plant with red leaves, serving as the visual hook to capture the students' attention. The teacher stands in front of the class, holding papers, and begins to engage with the content displayed. To bridge to the topic, the teacher gestures with their hands, likely emphasizing key points related to the plant image. The visual focus remains on the screen throughout the introduction, with no transition to a new slide or title. This setup establishes a connection to the lesson's subject matter, potentially linking the plant image to broader biological or environmental concepts. The teacher's interaction with the visual aid helps introduce the topic, setting the stage for further exploration and linking new knowledge to the students' existing understanding of plant biology or related subjects.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Constructivist Learning Theory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Knowledge Frameworks",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Student Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Biology Concepts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Plant Growth Regulators",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Concept Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Importance of Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Plant Image Slide",
+        "type": "Visual",
+        "original_text": "An image of a plant with red leaves and Chinese text.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "v2",
+        "label": "Chinese Title Slide",
+        "type": "Visual",
+        "original_text": "Chinese title presented on the screen.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "v3",
+        "label": "Plant Growth Regulators Slide",
+        "type": "Visual",
+        "original_text": "Slide discussing the use of plant growth regulators.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 90.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Constructivist learning theory is applied to develop knowledge frameworks."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Knowledge frameworks include essential biology concepts."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Student characteristics inform personalized concept application."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Biology concepts evolve to include plant growth regulators."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Importance of concepts emphasizes foundational knowledge in biology."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts thinking for concept application."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The plant image slide visualizes plant growth regulators."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Chinese title slide emphasizes constructivist learning theory."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "The slide summarizes plant growth regulators' application."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

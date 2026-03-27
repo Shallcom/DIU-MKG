@@ -1,0 +1,156 @@
+{
+  "video_name": "10_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the definition of high‑school functions and how they differ from middle‑school functions; master the methods for calculating the surface area and volume of simple solid figures.",
+  "transcript": "[0.0 -> 47.38] 曾静的各位老师同学们我抽到的题目是高中函数的定义是什么你能说说看高中函数与初中函数有什么一同点我认为高中函数是指对于自变量X在定义域内那么我们要强调这个定义域是一个非空数集对于任意的X经过某个对应法律的定义F有唯一确定的Y与之对应那么我认为这与初中函数有以下的共同点他们都强调了Y与X是一个一一对应的关系而且我们也强调了X是自变量Y是应变量。\n[48.46 -> 93.28] 那么这与高中高中函数与初中函数的不同点在于以下两点首先第一点高中函数定义它更加的严谨更加的严格具有一定的逻辑性那么第二点高中的函数定义它规定了具体的对应法则爱护那么在初中我们学习的一次函数二次函数这些都是简单的函数那么在高中我们会进一步学习密函数指数函数从而进一步学习函数当中的导数这对于数学学习有一定的阻净作用以上是我的回答谢谢各位评委老师和学生。\n[116.48 -> 145.36] 上课同学们好请坐中国的建筑各种各样响于世界那么同学们请看这位建筑工人他想要粉刷这样一个建筑物请问他要粉刷这个建筑物他要用到多少油漆呢我们要解决这个问题我们就要知道关于这个建筑物的哪一个特征呢。\n[146.48 -> 170.5704] 请你很好请坐他说为了粉刷这个建筑物我们就要知道这个建筑物的表面积那么老师把这个建筑物抽象了出来抽象成这样一个几何体那么我们需要多少油漆就是要计算这个简单的几何体当中的表面积那么本节课我们就来学习简单几何体的表面积和体积那么我们想要计算简单几何体当中的表面级和体级我们就先要明确我们的研究对象首先简单几何体我们学过哪些几何体呢我们来看一看刚才这个图形它是什么几何体啊请你它是一个轮胎哦轮胎很好请坐那么除了轮胎它还有没有什么多面体呢请你很好请坐他说到了棱柱除了棱柱和棱台还有没有什么多面体啊请你还有棱椎很好请坐棱椎那么除了这些有棱有角的几何体还有没有什么几何体啊我们有棱椎就有请你圆椎请坐有棱椎有冷柱就有圆柱有冷台就有圆台那么除了这些几何体还有一个特殊的几何体是什么呀球非常好那么第二个注意点我们就要明确表面积和体积它指的是什么表面积表面积表面的面积所以表面积就指的是几何体表面的面积所以表面积那你能不能说说看体积它指的是什么呢听听就是这个简单几何体在空间中所占的一个大小很好请坐所以体积就是指几何体所占空间的大小那么我们明确了这些研究对象我们来进一步看一看我们先来看一看棱柱棱椎棱和体积怎么样。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a geometric shape, specifically a triangular pyramid (tetrahedron), displayed on the screen. It is accompanied by an illustration of a person with a thought bubble containing Chinese text.\n\n#### 2. **The Title Event**\n- The title on the screen reads \"简单几何体的表面积与体积\" (Surface Area and Volume of Simple Geometric Solids). The teacher does not physically write this; it is displayed on the screen.\n\n#### 3. **The Objectives**\n- The learning objectives are not explicitly listed as bullet points but are implied through the content on the screen, focusing on understanding surface area and volume.\n\n#### 4. **Key Gestures**\n- The teacher points to the geometric shape on the screen, emphasizing its features.\n- The teacher gestures towards the thought bubble, indicating a question or concept related to the geometric shape.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"简单几何体的表面积与体积.\"\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The screen transitions to show a triangular pyramid and a cartoon figure with a thought bubble containing Chinese text.\n- The teacher points to the pyramid, highlighting its structure.\n- The teacher gestures towards the thought bubble, possibly explaining the question or concept it represents.\n\n**End:**\n- The teacher continues to engage with the content, pointing to the pyramid and the figure, reinforcing the lesson's focus on geometric properties.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, emphasizing the geometric shapes and concepts being discussed.",
+  "visual_narrative": "Initially, the screen presents a triangular pyramid alongside a cartoon figure with a thought bubble, serving as the hook to engage students. To bridge to the topic, the teacher points to the pyramid, emphasizing its geometric features, and gestures towards the thought bubble, indicating a conceptual question. Finally, the visual focus shifts to the title \"简单几何体的表面积与体积\" displayed prominently on the screen, establishing the lesson goal. This introduction connects the visual stimulus of the pyramid to the students' existing understanding of geometry, setting the stage for exploring surface area and volume calculations. The teacher's gestures and the transition from the hook to the title effectively link the new knowledge to the students' prior experiences, preparing them for the upcoming exploration of geometric properties.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "High-School Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 47.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Middle-School Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 47.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Non-Empty Domain",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 47.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Unique Correspondence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 47.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Logical Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[48.46 -> 93.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Geometric Solids",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[116.48 -> 145.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Surface Area",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[146.48 -> 170.5704]"
+      },
+      {
+        "id": "c8",
+        "label": "Volume",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[146.48 -> 170.5704]"
+      },
+      {
+        "id": "c9",
+        "label": "Triangular Pyramid",
+        "type": "Visual",
+        "knowledge_type": "Fact",
+        "timestamp": "[116.48 -> 145.36]",
+        "original_text": "Triangular pyramid on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Thought Bubble",
+        "type": "Visual",
+        "knowledge_type": "Fact",
+        "timestamp": "[116.48 -> 145.36]",
+        "original_text": "Cartoon figure with thought bubble",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "High-school functions emphasize a non-empty domain."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "High-school functions include the principle of unique correspondence."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Middle-school functions also emphasize a non-empty domain."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Middle-school functions include unique correspondence."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The logical definition strengthens the concept of high-school functions."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Understanding geometric solids aids in calculating surface area."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Understanding geometric solids aids in calculating volume."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The triangular pyramid serves as a visual representation of geometric solids."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "The thought bubble emphasizes conceptual questions related to the pyramid."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Complex discussion prompts students to engage with high-school function concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

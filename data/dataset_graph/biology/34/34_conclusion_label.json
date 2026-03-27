@@ -1,0 +1,132 @@
+{
+  "video_name": "34_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "- Be able to identify the direction and characteristics of energy flow within an ecosystem.  \n- Learn to analyze the basic principles governing energy‑transfer efficiency in food chains.  \n- Be capable of summarizing the features and models of energy flow along food chains.",
+  "transcript": "[666.2255 -> 706.5] 你上来画一下非常好请回你们是不是这样想的到这里我们就构建出了能量沿食物链流动的过程模型现在大家能回答我们课前那个演绎推理的那个结果吗通过分析分析这个结果是吗这个东西非常好因为这辆有较少的能量散失好这样我们就总结出了能量流动的概念\n[708.56 -> 722.8] 最后课后请同学们调查大家家附近当地农田生态系统中的能量流动情况并形成报告下一节课我们进行分享好我们问一声授课的结束谢谢",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital slide displayed on the screen.\n   - The blackboard features a diagram with labeled boxes and arrows, illustrating the flow of energy in an ecosystem. The layout includes:\n     - A box labeled \"生产者\" (Producers) with an arrow pointing to \"初级消费者\" (Primary Consumers).\n     - Another arrow from \"初级消费者\" to \"次级消费者\" (Secondary Consumers).\n     - An arrow from \"次级消费者\" to \"分解者\" (Decomposers), with a note indicating \"→净化作用\" (→Purification Effect).\n   - The digital slide on the screen shows a flowchart with text boxes and arrows, detailing the energy flow process.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - 生态系统的能量流动 (Energy Flow in Ecosystems)\n     - 生产者 (Producers)\n     - 初级消费者 (Primary Consumers)\n     - 次级消费者 (Secondary Consumers)\n     - 分解者 (Decomposers)\n     - →净化作用 (→Purification Effect)\n   - Digital Slide:\n     - Contains a flowchart with steps and descriptions of energy flow in an ecosystem.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the arrows from \"生产者\" to \"初级消费者,\" then to \"次级消费者,\" and finally to \"分解者.\"\n   - She gestures towards the digital slide, emphasizing the flowchart content.\n   - The teacher uses hand movements to highlight the connections between different components of the ecosystem, reinforcing the energy flow concept.\n\n4. **Transition to Next Step**:\n   - The digital slide transitions to an image of ducks in a grassy area, possibly indicating a real-world example or application of the lesson.\n   - No explicit visual element indicates homework or further reading, but the image may serve as a segue to practical examples or the next lesson's content.",
+  "visual_narrative": "The lesson concludes with a diagram on the blackboard and a flowchart on the digital slide, both centered on the energy flow in ecosystems. The teacher visually reviews the content by tracing the arrows from \"生产者\" to \"初级消费者,\" then to \"次级消费者,\" and finally to \"分解者,\" emphasizing the purification role of decomposers. She points to the digital slide's flowchart, reinforcing the connections between each component. The visual focus shifts to an image of ducks, possibly indicating a real-world application or segue to the next lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Energy Flow in Ecosystems",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.2255 -> 706.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Producers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.2255 -> 706.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Primary Consumers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.2255 -> 706.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Secondary Consumers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.2255 -> 706.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Decomposers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.2255 -> 706.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Purification Effect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.2255 -> 706.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with labeled boxes and arrows illustrating energy flow in an ecosystem",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Slide Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart detailing energy flow process in an ecosystem",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Diagram Tracing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Energy flow process begins with producers."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Primary consumers feed on producers."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Secondary consumers feed on primary consumers."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Decomposers process organic material from secondary consumers."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Decomposers contribute to ecosystem purification."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Diagram on the blackboard visualizes energy flow in ecosystems."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Flowchart slide visualizes the detailed energy flow process."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher traces arrows on the blackboard, engaging students in understanding."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher gesturing toward slide to highlight key connections and engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

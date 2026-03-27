@@ -1,0 +1,146 @@
+{
+  "video_name": "30_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Master the methods of applying physical models in teaching; cultivate scientific thinking and innovative awareness; improve classroom participation and learning efficiency.",
+  "transcript": "[0.0 -> 123.14] 同时我们运用直观的物理模型展示可以使学生们形成科学思维的习惯并且进行积极的科学态度可以提高他们的创新思维能力那当教师在课堂上运用物理模型时可以将抽象的知识变形象变具体帮助学生克服对微观认识的一个恐惧比如在讲主动运输这一节课时其概念就比较抽象学生是难以在头脑中构建主动运输的概念我们就需要教师进行动手操作来将主动阅书的过程呈现出来并且我们要结合教材或者是信息化技术比如说图片视频现场模拟等方式来引导学生进一步去总结主动阅书的概念和特点运用物理模型可以很大程度上去提高课堂的活跃性学生的参与度同时学生能够提高学生的学习兴趣和积极性能够有效地提高课堂的时效性同时我认为在准备模型时我们要符合实施依据从教学目标的重要概念中去精选出恰当的内容和环节来制作模型总之我认为一切的教学手段都要以促进学生的学习效率为宗旨促进学生具有必备的品格关键的能力和正确的价值观我们教师也要着手于学生的终身发展和个人发展不仅要停留在学生的学习成绩方面更要去综合考虑它们的综合发展我的即席演讲到此结束了",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a presentation slide displayed on the screen. The slide features a web interface with a prominent blue box containing Chinese text: \"免费学的网站\" (Free Learning Website).\n\n#### 2. **The Title Event**\n- The title on the screen is \"免费学的网站\" (Free Learning Website). The teacher stands beside the screen, holding papers, and appears to be presenting or explaining the content. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and occasionally glancing at them while speaking. There are no specific gestures like pointing or circling observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers.\n- The screen displays a slide with a web interface and the title \"免费学的网站\" (Free Learning Website).\n- The teacher appears to be introducing the topic, likely referring to the content on the screen.\n\n**Middle:**\n- The teacher continues to speak, occasionally looking at the papers in hand.\n- The screen remains unchanged, showing the same slide with the web interface and title.\n- The teacher's gestures are minimal, primarily involving holding and referencing the papers.\n\n**End:**\n- The teacher maintains a similar position, continuing to speak and reference the papers.\n- The screen still displays the same content, with no changes or additional visual elements introduced.\n\n### Summary\nThe introduction phase of the lesson centers around the slide titled \"免费学的网站\" (Free Learning Website). The teacher uses papers to guide their presentation, with minimal gestures observed. The focus remains on the content displayed on the screen, setting the stage for the lesson's topic.",
+  "visual_narrative": "Initially, the screen presents a web interface with the title \"免费学的网站\" (Free Learning Website), serving as the hook to capture the students' attention. The teacher stands at the front, holding papers, and appears to be referencing them while speaking. To bridge to the main topic, the teacher maintains focus on the slide, using the papers to guide their introduction without significant gestures. The visual focus remains on the slide, which consistently displays the web interface and title, establishing the lesson goal. This setup connects the introduction to the students' potential interest in accessible learning resources, setting the stage for further exploration of the topic. The consistent visual emphasis on the screen content helps link the new knowledge to practical applications, preparing students for deeper engagement with the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Physical Model",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Scientific Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Innovative Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Active Transport",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Abstract Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Visual Aids",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Learning Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Engagement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.14]"
+      },
+      {
+        "id": "c9",
+        "label": "Free Learning Website Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Free Learning Website'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Holding Papers",
+        "type": "Visual",
+        "original_text": "Teacher holding papers referring to slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Listening to Introduction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Using physical models to encourage scientific thinking."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Physical models help visualize the concept of active transport."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Scientific thinking contributes to developing innovative awareness."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Abstract knowledge includes complex concepts like active transport."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Use of visual aids to scaffold understanding of complex concepts."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Improving learning efficiency enhances student engagement."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher uses the slide to emphasize the topic introduction."
+      },
+      {
+        "source": "s1",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Students' engagement is prompted by teacher's introduction using papers."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Teacher explains physical models using papers to guide introduction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

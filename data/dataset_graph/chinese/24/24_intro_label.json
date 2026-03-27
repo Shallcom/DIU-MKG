@@ -1,0 +1,139 @@
+{
+  "video_name": "24_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Cultivate students’ multi‑angle analytical skills and teach them to understand character portrayals from various viewpoints; enhance students’ capacity for critical, reflective reading of texts and elevate their level of rational thinking.",
+  "transcript": "[0.0 -> 113.4] 教师我会跟学生灌输一个概念有些问题本身就没有对错之分换角度思考站在对方的角度思考问题也许会有不一样的体会争取让两位同学达成共识或者有着更高一层的思想境界举一个例子来说在雷雨中对于周浦源的形象我提出了一个问题你觉得他到底算是一个好人还是坏人呢有的同学马上说他就是一个坏人一个丑恶的资本家还有的学生会说他是一个好人他对视频有着怀念与温情那对于这种争执不下的情况我会告诉学生我们无法单独的去说一个人到底是好是坏因为人性是复杂的他即便是一个坏人也许也会有温情所以我会引导学生共同探讨让课堂上的同学都参与进来进行开放性的社会而不是将矛盾仅仅对于两位同学的对错之分上争取帮助同学们进行进行思辨性的思考有着更深一层次的理解在教学过程中我会贯彻统编版高中语文教材以及语文课标所规定的思辨性阅读的思考引导学生多角度的分析问题思考问题进行理性思维水平的判断与分析以上就是我对于整个问题的集体演讲感谢老师们的聆听。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide on the screen titled \"复活\" (Revival). The text below reads \"——品上人物形象，探究深层意义\" (Analyze character images, explore deeper meanings).\n\n#### 2. **The Title Event**\n- The title \"复活\" is displayed on the screen. The teacher does not physically write it but stands in front of the screen, emphasizing the title through her position and gestures.\n\n#### 3. **The Objectives**\n- The slide lists objectives on the left side, though they are not fully legible. The visible structure suggests bullet points, likely outlining the lesson's goals.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely to emphasize points related to the title and objectives.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the blackboard, which is mostly blank except for some colored markers on the side.\n- The screen displays the title \"复活\" with the subtitle \"——品上人物形象，探究深层意义.\"\n- The teacher moves to the center, holding papers, indicating the start of the lesson.\n\n**Middle:**\n- The teacher remains in front of the screen, occasionally looking at the papers and then back at the students.\n- She gestures subtly towards the screen, linking her verbal explanations to the visual content displayed.\n\n**End:**\n- The teacher continues to stand in front of the screen, maintaining focus on the title and objectives.\n- Her gestures remain consistent, emphasizing the importance of analyzing character images and exploring deeper meanings as outlined on the slide.\n\nThis structured approach ensures that the visual elements and teacher actions are clearly linked, providing a coherent narrative of the lesson's introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing near a blank blackboard, with the initial visual stimulus being the slide titled \"复活\" (Revival) displayed prominently on the screen. The subtitle, \"——品上人物形象，探究深层意义\" (Analyze character images, explore deeper meanings), sets the thematic focus. The teacher, holding papers, transitions smoothly into the lesson by positioning herself centrally in front of the screen, subtly directing attention to the title. Her gestures, though minimal, emphasize the objectives listed on the left side of the slide, which are structured as bullet points. The visual aid remains consistent throughout, reinforcing the lesson's focus on character analysis and deeper exploration. This setup bridges the students' existing knowledge of character study with the upcoming in-depth analysis, preparing them to connect narrative elements with thematic significance. The introduction effectively grounds the lesson, linking visual and verbal cues to establish a clear learning pathway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Multi-Angle Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Character Portrayal",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Critical Reading",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Reflective Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Rational Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Complexity of Human Nature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Good vs Bad Judgment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Revival Slide",
+        "type": "Visual",
+        "original_text": "Revival - Analyze character images, explore deeper meanings",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Objectives Bullet Points",
+        "type": "Visual",
+        "original_text": "Objectives listed as bullet points on the slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Changing Perspectives",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Multi-Angle Analysis involves examining character portrayals."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Critical reading is enhanced by reflective thinking."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Reflective thinking evolves into rational thinking."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Complexity of human nature involves judgment of good vs bad."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide visually represents character portrayal concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Objectives bullet points summarize the concept of multi-angle analysis."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to engage in group discussion through multi-angle analysis."
+      },
+      {
+        "source": "c7",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to brainstorm by considering good vs bad judgments."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,125 @@
+{
+  "video_name": "47_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the importance of classroom discussion in physics teaching and how to design it; master the force that magnetic fields exert on moving charges and related concepts; analyze the relationship between the Ampère force and the Lorentz force.",
+  "transcript": "[0.0 -> 194.7] 分配不均等问题你应该怎么注意首先我来谈谈我对待小组讨论这个环节的看法课堂讨论是我们课程设计中一个非常有效的手段我们都知道学生是独立的个体学生与学生之间是具有差异性的也许有的是有的学生他比较安静有的学生他比较活泼那么运用到课堂讨论我们就能够让较多的学生有效地参与我们的课堂环节提高学生的一个参与程度那么第二呢课堂讨论环节能够有效地提升学生的自主学习能力课堂环节主要是以学生为主导体现了我们教育以学生为本以学生为中心的这个主旨第三课堂讨论能够很好的活跃课堂的氛围能够营造一个良好的学习的氛围从而提高我们的物理学习效率而在课堂讨论环节教师应该注意什么样的问题呢首先第一个我们应该强调一下纪律的问题课堂讨论的目的是为了通过讨论学生自己总结得出来结论而不是同学们之间谈小话的一个环节那么第二在课堂讨论环节进行之前教师应该向学生明确我们课堂讨论的任务是什么课堂讨论的时间是多少分钟我们应该在这个环节讨论一些什么问题从而最后才让学生总结讨论的结论那么最后呢老师应该合理地总结我们各个组讨论的结果提高每位学生的参与性比如在磁场对与运动电荷的作用力这一堂课程中在探究安培力以及洛伦兹力之间存在着什么关系这一个环节我们就可以设置一个合理的课堂讨论让学生自行去总结洛伦兹力与安培力之间的关系以上是我即席演讲的内容下面开始我的模拟授课同学们下午好在学习本节课中我们已经知道了通电导线在磁场中会受到力的作用而通过上一节课整节课的学习呢我们知道这个力叫做什么力啊哎没错叫做安培力那学习了安培力之后啊我们就会想要去探究这个东西它的本质是什么也就是安培力为什么会产生呢带着这一个问题我们共同来进行今天的学习。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen features a title in Chinese: \"磁场对运动电荷的作用力\" (Magnetic Field's Effect on Moving Charges). This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"磁场对运动电荷的作用力\" is prominently displayed on the screen. The teacher stands beside the screen, holding papers, and gestures towards the title, indicating its importance.\n\n#### 3. **The Objectives**\n- The slide transitions to show learning objectives:\n  - \"洛伦兹力\" (Lorentz Force)\n  - \"带电粒子在磁场中的运动\" (Motion of Charged Particles in a Magnetic Field)\n  - \"带电粒子在复合场中的运动\" (Motion of Charged Particles in Composite Fields)\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing to the title on the screen.\n- She holds papers and occasionally gestures towards the screen, likely to highlight key concepts or transitions between slides.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the initial slide titled \"磁场对运动电荷的作用力\" displayed.\n- She gestures towards the title, emphasizing its significance.\n\n**Middle:**\n- The slide transitions to show learning objectives:\n  - \"洛伦兹力\"\n  - \"带电粒子在磁场中的运动\"\n  - \"带电粒子在复合场中的运动\"\n- The teacher points to these objectives, likely explaining each one in detail.\n\n**End:**\n- The teacher continues to gesture towards the screen, possibly summarizing the objectives or transitioning to the next part of the lesson.\n\nThis structured approach ensures that each teacher action is explicitly linked to specific visual content, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"磁场对运动电荷的作用力,\" serving as the hook to capture the students' attention. To bridge to the topic, the teacher gestures towards the title, emphasizing its importance. The slide then transitions to display learning objectives, including \"洛伦兹力,\" \"带电粒子在磁场中的运动,\" and \"带电粒子在复合场中的运动.\" The teacher points to these objectives, highlighting each one to establish the lesson's goals. This visual progression connects the overarching theme to specific learning outcomes, grounding the introduction in both the current lesson and future explorations of charged particle dynamics in various fields.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Magnetic Field",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 194.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Lorentz Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 194.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Charged Particle Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 194.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Composite Field Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 194.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Ampère Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 194.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Magnetic Field's Effect on Moving Charges",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Objectives Slide",
+        "type": "Visual",
+        "original_text": "Lorentz Force, Motion of Charged Particles in a Magnetic Field, Motion of Charged Particles in Composite Fields",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Classroom Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of magnetic field is introduced through the title slide."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The Lorentz Force is explained in detail as one of the learning objectives."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Motion of charged particles in a magnetic field is a key objective shown on the slide."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Motion of charged particles in composite fields is depicted as a part of the learning objectives."
+      },
+      {
+        "source": "c5",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to think about the relationship between Ampère Force and other forces."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding Lorentz Force helps in analyzing the relationship with Ampère Force."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The title slide emphasizes the significance of the magnetic field."
+      },
+      {
+        "source": "ss2",
+        "target": "ss1",
+        "relation": "guides_discussion",
+        "intent": "Student participation through brainstorming supports the engagement in class discussions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

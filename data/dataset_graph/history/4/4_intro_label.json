@@ -1,0 +1,114 @@
+{
+  "video_name": "4_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Cultivate students' interest in history and core competencies in the history discipline; understand the implementation methods and steps of situational teaching in history instruction.",
+  "transcript": "[0.0 -> 158.02] 培养学生的历史兴趣以及培养起历史学科核心素养那么我们如何去实施我们的情景教学呢第一我们要知道我们的课程标准以及要在学科核心导向的素养下来进行我们的这个创设情景那么第二我们要根据我们的学习内容来进行创设情景不能离了内容来进行情景创设不能单纯的为了创设情景而创设情景那么第三我们要慎用虚拟人物我们最好采用改编真实的历史故事来创造历史情景教学采用这种方式来使学生进行情景教学的方式那么我如何在五四运动的这个子幕下来创设情景教学采用这种方式呢那么第一我会采用播放我国的这个在当时外交上面的这种困境现状的这种视频比如说当时的这个国他在巴黎和会上面的这种发言使学生置身于当时的这种社会背景下来创设情景使学生思考到当时我国的这个历史背景的现状那么第二个我会组织学生进行群体剧本演绎使学生设身处地地体会到当时的这种历史人物的这种想法并且我会组织学生采用的一个演绎子幕就是学生在大街上游行发挥自己的这种声音使学生感受到当时的这种情景那么第三个就是采访当时同学们台下的这种感受感悟使学生感受到这种心情以及他们对这个运动的这种了解最后进行教师总结使学生认识到五四运动的是我中华民族决心并且从此就激发就是自此来激发学生的这种爱国意识培养学生的这种爱国情怀以达到我们历史学科核心素养立得数人的根本目标那么以上就是我的集习演讲的全部内容那么接下来就是我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an aerial image of a cityscape, likely representing a historical or significant location relevant to the lesson topic.\n- **Text on Screen**: \n  - \"第12课\" (Lesson 12)\n  - \"近代西方民族国家与国际法的发展\" (Development of Modern Western Nation-States and International Law)\n\n#### 2. **The Title Event**\n- **Title on Screen**: \n  - \"第12课\" (Lesson 12)\n  - \"近代西方民族国家与国际法的发展\" (Development of Modern Western Nation-States and International Law)\n- **Teacher's Action**: The title is displayed on the screen, and the teacher stands beside it, likely emphasizing the topic through verbal introduction.\n\n#### 3. **The Objectives**\n- **Not Visible**: No specific learning objectives are listed on the screen in the provided frames.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: \n  - The teacher holds papers, possibly notes or a script, and gestures towards the screen.\n  - No specific gestures like pointing or underlining are visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: \n  - The screen displays an aerial image of a cityscape with the title \"第12课 近代西方民族国家与国际法的发展.\"\n- **Teacher's Actions**: \n  - The teacher stands beside the screen, holding papers, likely introducing the lesson topic.\n\n#### Middle\n- **Visual Content**: \n  - The screen transitions to a slide with text, asking a question about the significance of a person in the image.\n  - Text includes a date \"1648\" and mentions the Peace of Westphalia.\n- **Teacher's Actions**: \n  - The teacher continues to stand beside the screen, possibly elaborating on the historical context related to the text.\n\n#### End\n- **Visual Content**: \n  - The screen remains focused on the text slide, emphasizing the historical significance of the Peace of Westphalia.\n- **Teacher's Actions**: \n  - The teacher likely engages with the audience, possibly prompting discussion or further explanation.\n\n### Summary\nThe lesson introduction phase uses a historical cityscape image as a hook, with the title \"第12课 近代西方民族国家与国际法的发展\" prominently displayed. The teacher's actions are primarily verbal and gestural, focusing on introducing the topic and transitioning to a slide that discusses the Peace of Westphalia. No specific learning objectives are visible, and gestures are minimal, primarily involving holding notes and standing beside the screen.",
+  "visual_narrative": "The introduction phase begins with the teacher standing beside a large screen displaying an aerial image of a cityscape, serving as the hook to engage students. This visual sets the historical context for the lesson. The teacher, holding papers, likely introduces the topic while the screen prominently features the title \"第12课 近代西方民族国家与国际法的发展.\" The scene transitions smoothly as the slide shifts to a text-based slide, focusing on the significance of a historical figure and the Peace of Westphalia, dated 1648. This transition bridges the hook to the main topic, emphasizing the development of modern Western nation-states and international law. Throughout, the teacher remains positioned to guide the students' focus, using the visual aids to connect historical imagery with textual information, thereby linking new knowledge to broader historical understanding and setting the stage for deeper exploration of the subject.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Historical Interest",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 158.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 158.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Situational Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 158.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Course Standards",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 158.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Westphalia Treaty 1648",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c6",
+        "label": "Modern Nation-States",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "End"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Lesson 12",
+        "type": "Visual",
+        "original_text": "Lesson 12: Development of Modern Western Nation-States and International Law",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Cityscape Image",
+        "type": "Visual",
+        "original_text": "Aerial image of a historical cityscape used as a hook.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Building student interest is part of developing core competencies."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Situational teaching requires alignment with course standards."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The Treaty of Westphalia was foundational in the development of modern nation-states."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The title slide visualizes the focus on nation-states."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The cityscape image serves as a visual hook to capture student interest."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Student engagement leads to effective situational teaching."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

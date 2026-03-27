@@ -1,0 +1,126 @@
+{
+  "video_name": "31_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Be able to use vector methods to prove that the medians of a triangle are concurrent; understand the definitions and significance of the centroid in both geometry and physics.",
+  "transcript": "[191.916725 -> 298.78] 上课同学们好那刚刚呢我们已经经历了两个探究活动啊探究一是诶我们让同学们去整理然后我们初中所学习过的一些三角形的相关性质相关结论啊探究二是诶我们让同学们去通过我们以前用几何的办法证明过的一些结论然后让同学们让用向量的方法在对这些结论进行决定啊那么同学们思考一下我们该如何用项链的办法去证明以前未证明得到的结论呢或者用项链去发现一些新的结论呢带着这样的问题我们继续今天的探究用项链法研究三角形的项链好从特殊到一般关于三角形的性质老师想到了一个我们初中学习过的三角形的三条中线相交于一点那这个焦点叫做三角形的重心那在物理中我们对重心又是这样描述的重心是物体各部分所受重力的合力的作用点形状规则且密度均匀的物体的重心重心就是它的几何中心那说明我们的重心它在几何学上在物理学上都有着重要的作用但我们对它的了解好像并不深刻那今天我们就来探究一下这个重心到底有怎样神秘的性质呢。\n[302.44 -> 339.68] 首先我们可以直观地看到两个中线的可能会相交于一点O这个不需要过多地去解释那第三条中线是否也会过这个O点呢这个好像就需要我们去证明一下那下面我们就跟着老师一起来用向量法去证明一下第三条中线是否过这个交点O呢首先我们做一个三角形ABC。\n[354.44 -> 374.34] 那EF分别为ECCA以及AB的终点现在我们连接EF以及我们连接CF以及BE。\n[377.02 -> 383.83345] 它一定会有产生一个焦点O那现在我们要证的是A大过这个焦点O现在我们就要连接AO以及O大好准备开启我们的证明同学们既然是用向量法进行证明我们之前说过了向量具有它可以用基底它可以帮助我们去更好地进行运算那现在我们要证明我们要用向量法进行证明我们之前说过了向量具有它可以用基底它可以帮助我们去更好地进行运算那现在我们要证明我们现在是用向量法进行证明我们之前说过了向量具有它可以用基底它可以帮助我们去更好地进行运算那现在我们是用向量法进行证明我们之前说过了向量具哦它可以用基底它可以帮助我们去更好地进行运算那现在我们设OBOC为基底并设EO等于T一倍的OBFO等于T二倍的OC这个好理解吧因为它们两个是贡献的对好那现在同学们可以尝试着用EO和FO来表示我们的BF以及EC像样吗同学们动起手来试着坐一坐好时间差不多了这位同学你说一下EC项目如何表示。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The screen displays a question in Chinese about triangle centers.\n- The teacher writes on the chalkboard: \"用向量法研究三角形的外心\" (Using vector methods to study the circumcenter of a triangle).\n- The teacher gestures towards the screen, pointing at the question about the circumcenter.\n\n**Middle:**\n- The teacher continues to write on the chalkboard, adding \"重心\" (centroid).\n- The screen shows a triangle labeled with points A, B, C, and D, with lines drawn from each vertex to the opposite side.\n- The teacher uses a yellow triangle tool to draw a diagram on the chalkboard, labeling points A, B, and E.\n\n**End:**\n- The teacher completes the diagram on the chalkboard, drawing lines and labeling points to illustrate the concept of the centroid.\n- The teacher points to specific parts of the diagram while explaining, emphasizing the relationships between the points.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the triangle diagram on the digital screen, labeled with points A, B, C, and D. The triangle has lines drawn from each vertex to the opposite side, illustrating the concept of triangle centers.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds the term \"重心\" (centroid) to the chalkboard and draws a triangle with points A, B, and E using a yellow tool.\n   - **Modifications**: The teacher draws additional lines within the triangle on the chalkboard to demonstrate vector relationships.\n   - **Deictic Gestures**: The teacher points to specific lines and points on both the chalkboard and the screen, such as the intersection points and lines representing medians.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses different colors of chalk to distinguish between different elements of the diagram.\n   - Important concepts, such as the centroid, are emphasized through verbal explanation and pointing gestures.\n\nThis structured visual evolution helps in understanding the geometric relationships and vector methods used to study triangle centers.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a triangle labeled with points A, B, C, and D, with lines drawn from each vertex to the opposite side, illustrating the concept of triangle centers. The teacher began by writing \"用向量法研究三角形的外心\" (Using vector methods to study the circumcenter of a triangle) on the chalkboard, establishing the lesson's focus. \n\nThen, the teacher gave a lecture, constructing a triangle on the chalkboard using a yellow tool, labeling points A, B, and E. The teacher derived the concept of the centroid by drawing medians and emphasizing their intersection. Throughout the explanation, the teacher annotated the diagram, adding lines and labels to demonstrate vector relationships.\n\nThe teacher resolved deixis by pointing to specific elements, such as tracing the medians to illustrate their convergence at the centroid. On the digital screen, the teacher highlighted the triangle's lines to reinforce the visual connection between the chalkboard and screen diagrams.\n\nFinally, the teacher circled the centroid on the chalkboard, using red chalk to emphasize its importance. This visual strategy, combined with the structured diagrams, reduced cognitive load by clearly linking abstract concepts to concrete visual representations, ensuring students could follow the geometric relationships and vector methods effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Circumcenter",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[191.92 -> 298.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Centroid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[191.92 -> 298.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Median Intersection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[191.92 -> 298.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Triangle Centers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[340.00 -> 354.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Vector Method for Centroid",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[302.44 -> 339.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Centroid in Physics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[191.92 -> 298.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Triangle Diagram with Medians",
+        "type": "Visual",
+        "original_text": "Triangle labeled with points A, B, C, D with medians",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Chalkboard Diagram with Centroid",
+        "type": "Visual",
+        "original_text": "Diagram with lines and centroid labeled on chalkboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Using vector methods to derive properties of the centroid."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The concept of the centroid builds upon the principle of median intersection."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The centroid is a specific example of triangle centers."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Triangle centers evolve from understanding median intersections."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding the centroid in physics is derived from geometric properties."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The visual elements on the chalkboard complement the digital screen diagram."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Using vector methods prompts student engagement."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The chalkboard diagram illustrates median intersection principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

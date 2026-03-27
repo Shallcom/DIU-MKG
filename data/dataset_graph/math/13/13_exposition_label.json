@@ -1,0 +1,158 @@
+{
+  "video_name": "13_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Learn to use classification methods to calculate the number of possible combinations; distinguish between classification under “or” conditions and stepwise counting under “and” conditions.",
+  "transcript": "[210.0 -> 275.44] 好同学们开始上课我们之前所学的我们之前遇到过的技术问题是我们很小的时候我们就经常遇到的我们是通过列举一个一个的去数数字呢这是我们之前所经常遇到也是很常用的一种技术的基本方法但如果说这个方法呢它也只适用于什么啊就是我们的数字很小数量不多的时候是不是就非常的适用但是当我们数量它非常的大数字它也很大的时候或者说我们需要数的数据它这种密密麻麻的就很多那我们要如何去数呢我们能否用巧妙的技术方法去数数提高我们数数的效率呢那这我们这节课呢就会学习以这种巧妙的方法来教我们大大的数字或者说很大的团体来通过我们简单的方法呢去数出我们最正确的数字数方法数字好那首先请同学们思考一下一个问题他说用一个大写的英文字母或者说一个阿拉伯数字给教室里的每一位同学给教室里的一个座位进行进行编号比如说我们对这个位置我们进行编号我们可以用大写的英文字母也可以用一个阿拉伯数字给它编号我们想想有多少种不同的它可以编出不同多少种不同的号码请同学们思考一下。\n[296.36 -> 369.62] 好同学们思考说可以用多少种方法来给它排序呢这位同学你说一下如果我们给这个座位排序可以用多少种方法应该有三十六种为什么呢因为大致字母一共有二十六个然后阿拉伯数字从零到九个十个好请坐好那这位同学刚刚说得非常的好他说我们的英文字母一共有二十六个阿拉伯数字一共有十个那么总共就可以编出十种不同的号码好那刚刚的这个问题结合我们学生的回答请同学们好再讨论一下我们小组讨论讨论一下刚刚这个问题它有什么特征呢为什么这个同学会想出用遮住方法来给我们作为盘序编号呢好小组讨论好讨论结束了啊。\n[370.9 -> 415.0] 那首先我们来看一看我们说这里它有什么特征我们是它有一个大写的英文字母或者是一个阿拉伯数字我们是要干什么啊给座位进行编号但是而且我们这句话里面它出现了一个非常重要的字好同学们看看是什么字呢没错这位同学非常非常回答得非常的好我们这个数字它就是户因为有了这个户我们这位同学他采用什么采用二十六个英文字母以及十个阿拉伯数字给这个座位进行编号对不对。\n[421.66 -> 455.22] 好我们刚刚说这里要完成一件事这里要完成的事情是给座位编号而且它出现了或字也就是一个座位要出现一个英文字母或者是一个阿拉伯数字那么就有二十六个英文字母也就有二十六种方法那十个阿拉伯数字也就有十种方法对那总和起来就是有二十六加十也就是有三十六种我们的编法。\n[457.08 -> 476.96] 那我们在给编号的时候我们都跟同学他的说法他是先给我们的这个座位给我们的方法进行一个分类我们的十种阿拉伯数字十个阿拉伯数字它是一种分类。\n[487.08 -> 547.74] 然后二十六个字母它又是另一种分类就有几种分类呀有两种分类然后我们再看每一种分类里面它是有多少个数字呢分别计算各类号码的数字我们想想刚刚我们说第一类是二十六个字母是二十六个英文字母那么它的个数就是二十六个然后我们的第二类是什么就是阿拉伯数字然后阿拉伯数字我们说它的个数是有多少个呢没错那么阿拉伯数字它就有十个好那么我们来到第三步就是各类号码的个数它去相加也就是刚刚的二十六个英文字母再加上十个阿拉伯数字。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"6.1 分类加法计数原理与分步乘法计数原理\" (Classification Addition Counting Principle and Step-by-Step Multiplication Counting Principle).\n- The teacher gestures towards the screen, indicating the title and the introductory content.\n- The chalkboard shows \"6.1\" written in white chalk.\n\n**Middle:**\n- The teacher holds a piece of paper and points to the screen, which now displays \"分类加法计数原理\" (Classification Addition Counting Principle) and a question in Chinese.\n- The teacher engages with a student, who stands and interacts with the teacher, possibly answering a question.\n- The teacher writes \"基本计数\" (Basic Counting) on the chalkboard using white chalk.\n- The screen updates to show a new section with bullet points, and the teacher explains these points while gesturing towards the screen.\n\n**End:**\n- The teacher writes \"基本计数原理\" (Basic Counting Principle) on the chalkboard.\n- The teacher continues to explain, using hand gestures to emphasize points on the screen, which lists steps and principles related to counting.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying the principles of counting. Initially, it shows the title and introductory content. Later, it displays detailed principles and steps in Chinese.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"基本计数\" and then \"基本计数原理\" on the chalkboard while explaining the principles shown on the screen.\n   - **Modifications**: The teacher updates the screen content to include new sections and bullet points as the lesson progresses.\n   - **Deictic Gestures**: The teacher points to specific parts of the screen, such as the title and bullet points, while explaining. The teacher also gestures towards the chalkboard when writing new terms.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key points on the screen.\n   - Important terms like \"基本计数原理\" are written clearly on the chalkboard to highlight their significance.\n   - The screen content is structured with clear headings and bullet points to organize the information visually.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"6.1 分类加法计数原理与分步乘法计数原理\" (Classification Addition Counting Principle and Step-by-Step Multiplication Counting Principle), establishing the lesson's focus. The teacher began by pointing to the title, setting the stage for the principles of counting. The chalkboard initially showed \"6.1,\" serving as a visual cue for the lesson's section.\n\nAs the lecture progressed, the teacher constructed the concept of the \"分类加法计数原理\" (Classification Addition Counting Principle) by pointing to a question on the screen, engaging a student in a discussion. The teacher then wrote \"基本计数\" (Basic Counting) on the chalkboard, aligning with the evolving content on the screen, which now included detailed bullet points. The teacher derived further understanding by explaining these points, using hand gestures to emphasize key ideas.\n\nThe teacher continued to annotate the chalkboard by writing \"基本计数原理\" (Basic Counting Principle), reinforcing the screen's content. Throughout, the teacher resolved deixis by tracing specific sections on the screen, such as bullet points, to illustrate the principles clearly. Visual emphasis was achieved by clearly writing terms on the chalkboard and structuring the screen content with headings and bullet points, reducing cognitive load by organizing information hierarchically.\n\nFinally, the teacher circled around the core principles, ensuring students visually connected the chalkboard notes with the digital content. This dual approach of dynamic gestures and structured visual aids effectively supported the cognitive processing of complex counting principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Classification Addition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[210.0 -> 275.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Step-by-Step Multiplication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[210.0 -> 275.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Basic Counting",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[296.36 -> 369.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Arab Numerals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[370.9 -> 415.0]"
+      },
+      {
+        "id": "c5",
+        "label": "English Alphabets",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[370.9 -> 415.0]"
+      },
+      {
+        "id": "c6",
+        "label": "36 Counting Methods",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[421.66 -> 455.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Counting Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[487.08 -> 547.74]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Classification Addition Counting Principle and Step-by-Step Multiplication Counting Principle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Question Slide",
+        "type": "Visual",
+        "original_text": "Displays a question about classification",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Points Slide",
+        "type": "Visual",
+        "original_text": "Detailed principles and steps for counting",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The classification addition counting principle is built upon basic counting principles."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The step-by-step multiplication counting principle is developed from basic counting principles."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Arab Numerals are included as part of the 36 counting methods."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "English Alphabets are included as part of the 36 counting methods."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The title slide emphasizes the classification addition counting principle as a key concept."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The question slide visualizes the application of the classification addition counting principle."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "The bullet points slide scaffolds the procedure for counting efficiency."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "The student's answer demonstrates understanding of the 36 counting methods."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "The group discussion elaborates on the concept of 36 counting methods."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Counting efficiency builds upon the principles of classification addition."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

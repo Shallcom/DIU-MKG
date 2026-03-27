@@ -1,0 +1,170 @@
+{
+  "video_name": "16_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the units of electric field strength and their conversion; analyze the relationship between the density of electric field lines and the magnitude of the electric field.",
+  "transcript": "[353.18 -> 418.7] 那么同学们出去看黑板我们知道U等于E乘D那么E就应该等于的是U在比上这个D那么我们看一下根据这个公式U的单位应该是这位同学电插的单位应该是库尔是吗电视插U应该是什么应该是福特是不是那么D呢在国际单位之中应该是米所以我们能得到电场强度的单位应该是伏每米而之前我们学到的电场强度单位是牛每库轮所以我们就可以得到一牛每米不是一伏每米应该等于的是一牛每库轮同学们你都掌握了吗好了那我们看一下这个公式的物理意义就应该是在云墙电场中电场强度的大小应该等于两百米两点之间的电视差与两点沿电场方向的距离之比那么它在数值上就应该等于的是沿电场方向单位距离上降低的这样一个电视。\n[420.2 -> 489.06] 那么同学们可以看一下这里根据这个公式我们可以看到在U一定的时候来这位同学我们发现在U一定的时候如果E它很大的话那么D就非常小所以我们就验证了在U定的时候电场强度大他们之间的应该是等式线就越密集我们刚才说了E它所描述的就是电场线电场强度的大小是不是而D就是等式线的一个密集程度所以我们就验证了我们刚刚在导会的时候所说的电场线越密集的地方等式线也越密集这里你可以看到电场线密集等式线也密集是不是这样一个道题说如图真空中的平行接触板M和N之间的距离D是零点零四而有这样一个带电粒子在M旁这样移动电荷量给出了又给出了这样一个直流电压我们来求一下所收的静电力的大小现在同学拿出纸和笔去算一下看看刚才你们的公式有没有掌握。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the interactive whiteboard, directing students' attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the diagram on the interactive whiteboard, which included a circuit diagram and a graph depicting electric field lines. The teacher emphasized the transition from $U_{AB} = Ed$ to the graph, indicating the relationship between electric potential difference and electric field strength.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher used hand gestures to trace the path of the electric field lines on the diagram, visually guiding students through the concept. She pointed to specific parts of the circuit diagram and the graph, reinforcing the connection between the two visual elements.\n- The teacher also wrote additional annotations on the whiteboard, such as labeling parts of the diagram and writing key equations, to provide real-time scaffolding as she spoke.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled key components of the diagram on the interactive whiteboard, visually confirming important concepts. She also drew additional lines and arrows to illustrate the flow of electric fields, providing visual elaboration to clarify student understanding.\n- After a student response, the teacher gave a nod and used affirmative gestures, such as pointing to the correct part of the diagram, to validate the student's input. If corrections were needed, she drew a comparative diagram or highlighted the correct formula on the board to address any misconceptions.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand towards the class and points to the interactive whiteboard.\n  - Focus on the circuit diagram and graph displayed on the board.\n\n- **Middle:**\n  - Teacher traces electric field lines on the graph with her finger.\n  - Writes additional annotations on the whiteboard, labeling parts of the diagram.\n  - Uses hand gestures to connect the circuit diagram with the graph.\n\n- **End:**\n  - Teacher circles key components of the diagram on the interactive whiteboard.\n  - Draws additional lines and arrows to illustrate concepts.\n  - Nods and points to validate student responses, providing visual feedback.\n\nThis structured approach ensures that the teacher's visual strategies effectively support the co-construction of knowledge, linking gestures and board content seamlessly.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a circuit diagram and a graph depicting electric field lines, with the equation $U_{AB} = Ed$ prominently displayed. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content. She pointed directly at the interactive whiteboard, highlighting the transition from the equation to the graph, signaling the start of an interactive discussion.\n\nAs the teacher facilitated the session, she moved fluidly between the interactive whiteboard and the chalkboard. While a student explained their reasoning, the teacher walked over to the board and jotted down key terms and equations, visually reinforcing the student's points. She used her finger to trace the path of the electric field lines on the graph, guiding the student's explanation and ensuring clarity. The teacher also drew additional lines and arrows on the diagram, linking the circuit elements to the graph, providing real-time visual scaffolding.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the correct components of the diagram on the interactive whiteboard. She then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, visually linking the new understanding to the core lesson content.\n\nThroughout the interaction, the teacher's gestures and visual cues transformed the classroom into an active learning environment. By moving from passively receiving knowledge to actively constructing their own understanding, students were encouraged to engage deeply with the material. The teacher's deliberate visual strategies—such as circling key concepts, drawing connections, and providing affirmative gestures—empowered students to see the relationships between different elements of the lesson, fostering a dynamic and interactive construction of knowledge.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Field Strength",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[353.18 -> 418.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Units of Electric Field",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[353.18 -> 418.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Volt per Meter",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[353.18 -> 418.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Newton per Coulomb",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[353.18 -> 418.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Electric Field Line Density",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[420.2 -> 489.06]"
+      },
+      {
+        "id": "c6",
+        "label": "Electric Potential Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[353.18 -> 418.7]"
+      },
+      {
+        "id": "c7",
+        "label": "$U_{AB} = Ed$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[353.18 -> 418.7]"
+      },
+      {
+        "id": "c8",
+        "label": "Electric Field Line Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[420.2 -> 489.06]"
+      },
+      {
+        "id": "c9",
+        "label": "Circuit Diagram",
+        "type": "Visual",
+        "original_text": "A detailed representation of a circuit on the interactive whiteboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Electric Field Graph",
+        "type": "Visual",
+        "original_text": "Graph depicting electric field lines on the interactive whiteboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes one of the units of electric field strength."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes an alternative unit of electric field strength."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Explains how the magnitude of the field relates to the density of field lines."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Electric field strength is derived from the potential difference concept."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Illustrates the relationship between potential difference and electric field."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Circuit diagram shows the principles of electric field strength in action."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Graph depicts the relationship between field line density and field strength."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Links the circuit elements to the corresponding electric field lines in the graph."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students are encouraged to participate and answer questions."
+      },
+      {
+        "source": "s2",
+        "target": "c8",
+        "relation": "addresses_misconception",
+        "intent": "Student responses help clarify the use of equations related to field lines."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Student answers lead to a deeper discussion about potential difference."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the connection between the circuit and the field lines."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

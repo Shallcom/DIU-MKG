@@ -1,0 +1,146 @@
+{
+  "video_name": "30_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Be able to explain the efforts and limitations of different social classes in China’s quest for national salvation since the modern era; understand the historical inevitability of the founding of the Chinese Communist Party and the establishment of its leadership position.",
+  "transcript": "[0.0 -> 89.14] 各位评委老师好我是历史组三十号选手我出道的直系演讲的题目是从各阶级的奋斗史来解读红歌没有共产党就没有新中国二零二一年是中国共产党成立的一百周年从南湖边的小船到微微的巨轮中国共产党走过了百年的风雨征程我时常在这首红歌时想起我会想为什么只有中国共产党才能救中国呢我们知道近代以来不乏有许多的阶级都试图探索过救国救亡图存的道路我们知道有病毒阶级实行养物运动要变要实行养物运动想要复国强兵但是最后也趋于失败农民运动中有太平天国运动还有义和团奋起抗争可是也由于他们的阶级局限性最后也被或者是被联合绞杀而居失败还有资产阶级他们变法唯心最后还有孙中山等志士建立了中华民国但是他们这些行为都由于没有考虑到中国社会的实际而起于了失败。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a map displayed on the screen, which appears to be a historical map of China. It includes various geographical labels and boundaries.\n\n#### 2. **The Title Event**\n- The exact title written on the screen is: \"第10课 古代的村落、集镇和城市\" (Lesson 10: Ancient Villages, Market Towns, and Cities).\n- The teacher is standing next to the screen, presenting the title without any specific action like underlining.\n\n#### 3. **The Objectives**\n- The learning objectives are not explicitly listed as bullet points on the screen. The top of the slide contains a reference to the textbook chapter, but no specific learning goals are visible.\n\n#### 4. **Key Gestures**\n- The teacher is seen holding papers and occasionally gesturing towards the screen, likely emphasizing the title and map content.\n- There are no specific gestures like pointing or circling observed in the frames provided.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"第10课 古代的村落、集镇和城市\" and a historical map of China.\n- The teacher holds papers, possibly notes or a lesson plan, and gestures generally towards the screen.\n\n**Middle:**\n- The teacher continues to stand in front of the screen, maintaining focus on the title and map.\n- No significant changes in the visual content or gestures are observed.\n\n**End:**\n- The teacher remains in the same position, with the screen still displaying the title and map.\n- The teacher's gestures remain consistent, emphasizing the content on the screen without specific pointing or highlighting actions.\n\n### Summary\nThe introduction phase of the lesson centers around the title \"第10课 古代的村落、集镇和城市\" and a historical map of China. The teacher uses general gestures towards the screen to engage with the content, without specific highlighting or detailed pointing. The visual focus remains on the title and map throughout the introduction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a historical map of China, serving as the initial visual stimulus. The map, detailed with geographical labels and boundaries, sets the context for the lesson. The teacher, holding papers, gestures generally towards the screen, engaging with the content without specific pointing. The slide prominently features the title \"第10课 古代的村落、集镇和城市,\" which remains the focal point throughout the introduction. The teacher's actions are consistent, emphasizing the title and map to establish the lesson's theme. The transition from the hook to the main topic is seamless, as the map and title together introduce the historical exploration of ancient settlements. This visual setup connects new knowledge to students' existing understanding of geography and history, preparing them to delve into the development of ancient communities. The introduction effectively bridges the visual and thematic elements, grounding the lesson in a historical context that will guide future learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Efforts of Social Classes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Limitations of Social Classes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Founding of CCP",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Inevitability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Leadership of CCP",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Ancient Villages",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Market Towns",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Ancient Cities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.14]"
+      },
+      {
+        "id": "c9",
+        "label": "Historical Map of China",
+        "type": "Visual",
+        "original_text": "Historical map of China displayed on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Lesson Title Display",
+        "type": "Visual",
+        "original_text": "Displaying title: Lesson 10: Ancient Villages, Market Towns, and Cities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes both the efforts and limitations of social classes in historical context."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Concept of CCP founding is built upon its historical inevitability."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "CCP's founding evolves into its leadership role."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Ancient villages are visualized through lesson title and map."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Market towns are visualized through lesson title and map."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Ancient cities are visualized through lesson title and map."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Historical map provides contextual scaffolding for understanding the CCP's founding."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes title to engage students with lesson content."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Map content is summarized for student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

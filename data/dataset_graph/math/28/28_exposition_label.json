@@ -1,0 +1,126 @@
+{
+  "video_name": "28_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master the collinearity condition for planar vectors and its applications; be able to decompose a vector into a linear combination of two non‑collinear vectors; understand the relationship between vector decomposition and the parallelogram law.",
+  "transcript": "[81.18 -> 116.5] 那么最后我想说的是一枝粉笔两袖清风我今天所抽到的课题在将来我走上三年了我一定会遇到这样的情况那当我遇到这样的学生的时候我会付之以爱小之以理动之以情我将我所有的身心放在他们的身上教导他们无论是在学习在生活在人生的这条道路上我都希望能够陪伴他们继续前行我的即兴讲演到此结束接下来开始我的片段教学。\n[120.0 -> 214.2] 同学们我们在上一节课学习了平面向量的运算我们知道在同一条直线上的任意向量可以由在这条直线上的非零向量来表示那么同学们我们能不能来回顾一下向量A两非零向量向量A与向量B他们共线的冲要条件是什么呢有没有同学来回顾一下我们一起来看两非灵向量向量A与向量B共线的冲要条件是存在唯一确定的指数num的使得向量B等于num的向量A那么现在老师给到大家一两条项链分别是项链E一和项链A如果这时候他们俩共线那么项链A能否用项链E一来表示呢有同学有想法吗看来同学们都掌握得不错可以将项链A等于NANDA项链E一那么这时候项链NANDA这时候NANDA的项链就是存在的唯一确定的时数。\n[215.26 -> 224.78] 那么这时候如果项量A与项量E一不共线呢这时候项量E一可以表示项量A吗。\n[225.96 -> 250.46] 看到有同学摇头了说明说不可以那么我们可以再增加一个项量E二那么大家认为项量E二这时候与项链E一是共线还是不共线呢是不共线的那么现在请同学们拿出草稿纸我们来画一画。\n[252.5 -> 273.3] 已知这是项链E二项链E一这一角是项链A我们能否通过项链E一和项链E二来表示项链A呢同学们动手来画一画图。\n[274.58 -> 286.96] 老师给大家一点建议可以将这三条项链共起点好时间到有没有哪位同学有思路啊。\n[288.16 -> 320.88] 看来这道题对于大家来说还是有一定的难度那老师和大家一起来我们将项链一一和项链一二与项链A共起点那它们的起点我们可以记作是用大写字母O来表示我们将这三条项链的终点也用大写字母来表示上。\n[322.0 -> 387.34] 那么这时候我们是不是能将向量A在向量E一和向量E二这两个方向上进行分解大家回忆一下在物理学中我们学习过力的合成与分解我们将力F在水平与垂直的方向上进行分解那我们类比物理学上的知识我们也将向量A在向量E一和向量E二这两个方向上进行分解我们一起动手来画一画我们应该如何做呢我们可以过C点做关于直线OB的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OA的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB的平行线教OB这条直线与M点得到向量OM。\n[391.14 -> 396.6] 同样过C点做直线OB的平行线。\n[400.48 -> 414.12] 过C点做直线OA的平行线交直线OB与N点得到向量ON。\n[416.38 -> 431.28] 那么根据平行四边形法则我们可以知道向量A可以等于向量OM加上向量ON。\n[433.48 -> 439.82] 那么同学们我们来观察一下这时候项量OM和项量ON与项量E一项量E二有怎样的关系呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"6.3.1 平面向量的基本定理\" (Basic Theorem of Plane Vectors).\n- The teacher gestures with hands, likely introducing the topic. The screen shows a geometric diagram with vectors.\n\n**Middle:**\n- The slide changes to a question: \"两向量共线的充要条件？\" (Necessary and Sufficient Condition for Two Vectors to be Collinear?).\n- The teacher writes vector diagrams on the chalkboard, drawing two vectors labeled $\\vec{a}$ and $\\vec{b}$.\n- The teacher uses a pointer to indicate the vectors, explaining their collinearity.\n\n**End:**\n- The teacher adds a third vector $\\vec{a}$, demonstrating a proportional relationship.\n- The teacher writes $\\vec{a} = \\lambda \\vec{b}$, indicating scalar multiplication.\n- The teacher circles the equation, emphasizing the condition for collinearity.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the chalkboard with vector diagrams and the digital slide with the question about collinearity.\n   - Initial state: Two vectors $\\vec{a}$ and $\\vec{b}$ drawn on the board.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds a third vector $\\vec{a}$ and writes the equation $\\vec{a} = \\lambda \\vec{b}$.\n   - **Modifications**: The teacher adjusts the vectors to show alignment, illustrating collinearity.\n   - **Deictic Gestures**: The teacher points to the vectors and the equation while explaining the relationship.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher circles the equation $\\vec{a} = \\lambda \\vec{b}$ to highlight the key condition for collinearity.\n   - Uses hand gestures to emphasize the proportional relationship between vectors.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"6.3.1 平面向量的基本定理\" with a geometric diagram illustrating vectors. The teacher began by introducing the concept of collinearity, transitioning the slide to the question \"两向量共线的充要条件？\". On the chalkboard, the teacher constructed two vectors, $\\vec{a}$ and $\\vec{b}$, drawing them parallel to each other. As the lecture progressed, the teacher derived the relationship by adding a third vector $\\vec{a}$ and writing the equation $\\vec{a} = \\lambda \\vec{b}$, demonstrating scalar multiplication. The teacher traced the vectors to emphasize their alignment, resolving deixis by pointing to each vector's direction and magnitude. To highlight the key condition, the teacher circled the equation, reinforcing the necessary and sufficient condition for collinearity. This visual strategy, combined with dynamic gestures and clear annotations, effectively reduced cognitive load by breaking down the abstract concept into concrete, step-by-step visual elements.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Collinearity Condition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.0 -> 214.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Decomposition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[322.0 -> 387.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Scalar Multiplication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.0 -> 214.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Parallelogram Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[416.38 -> 431.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Non-Collinear Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[225.96 -> 250.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Unique Scalar Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 214.2]"
+      },
+      {
+        "id": "c7",
+        "label": "Vector Diagram on Board",
+        "type": "Visual",
+        "original_text": "Vector diagram showing vectors a and b on chalkboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Digital Slide on Collinearity",
+        "type": "Visual",
+        "original_text": "Digital slide titled 'Basic Theorem of Plane Vectors'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Engaged State",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Questioning State",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Collinearity condition includes scalar multiplication as a method to demonstrate the relationship."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Vector decomposition builds upon the parallelogram law to understand vector relationships."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Learning about vector decomposition evolves from understanding non-collinear vectors."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Unique scalar number is part of the condition for vector collinearity."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Vector diagram on the board emphasizes the digital slide's content regarding collinearity."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The visual diagram helps students remain engaged by clarifying vector relationships."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Engagement prompts students to question further about vector properties."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

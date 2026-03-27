@@ -1,0 +1,135 @@
+{
+  "video_name": "37_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Increase students' participation and interaction skills in class; help students understand and use vocabulary for describing emotions; develop students' reading comprehension abilities and writing skills.",
+  "transcript": "[95.02 -> 97.6] how can teachers solve this problem?\n[97.82 -> 111.42] I will analyze it from the two time the first is that in the class. In class I will ask the students to answer my questions to get the students involved in my class. For example,\n[111.42 -> 114.2] when I ask a question,\n[114.56 -> 125.16] I will get the students to answer my question. And I believe this student is very active and is very willing to answer my questions. And second,\n[125.16 -> 133.72] after the class I will reflect on my teaching and on my teaching objectives and also procedures. Maybe there are not some,\n[134.22 -> 148.42] maybe there are some places that I can improve to make the students more interested in my class and not interrupt what I'm saying. That's all for my impromptu speech. Thank you for listening. Now I will begin my micro teaching.。\n[155.26 -> 160.66] Good morning girls. How are you feeling today?\n[161.02 -> 172.08] Great. Great. So in the last class we have learned some words to describe our feelings right. So can you guess how do I feel now?\n[173.28 -> 177.76] Excited? No. To be honest,\n[177.76 -> 182.22] I feel a little bit anxious. Do you know why?\n[184.44 -> 186.06] Now I will tell you.。\n[189.36 -> 215.018] Recently I received an email from my pen pal Jack from Ireland. And in his email he told me he's from Ireland which is a very beautiful places. And here he wrote his description about Ireland. And also he said he's going to China next month and he wants me to recommend some beautiful places for him to visit. But I don't know what kind of places I can recommend for him. So can you help me today?",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a presentation titled \"Unit 4: History and traditions - Reading for writing.\"\n- The screen shows a slide with an image of a traditional building and the unit title.\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher transitions to a slide titled \"Lead-in,\" featuring a cartoon image of a red mailbox and a speech bubble with a smiley face.\n- The slide contains text: \"Do you like writing letters to your friends? Why or why not? Do you prefer to send emails or text messages? Why?\"\n- The teacher points to the text and the mailbox illustration, emphasizing the question about communication preferences.\n\n**End:**\n- The teacher continues to engage with the slide, possibly asking students to share their thoughts on the questions displayed.\n- The teacher's gestures direct attention to the speech bubble and the text, encouraging participation.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the \"Lead-in\" slide with the red mailbox illustration and the text about writing letters versus digital communication.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis by pointing to the text and the mailbox illustration while speaking.\n- **Modifications**: No erasures or changes to the slide content; the focus remains on the existing text and image.\n- **Deictic Gestures**: The teacher points to the speech bubble and the text, highlighting the questions about communication preferences.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the questions on the slide.\n- The red mailbox and smiley face draw visual attention to the theme of communication.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a vibrant \"Lead-in\" slide featuring a red mailbox illustration and a speech bubble with a smiley face, accompanied by text exploring communication preferences. The teacher began by introducing the theme of traditional versus modern communication methods, setting the stage for discussion. As the lecture progressed, the teacher constructed engagement by pointing to the speech bubble and tracing the text, emphasizing the questions about writing letters versus sending emails or text messages. The teacher's gestures directed attention to specific parts of the slide, such as the mailbox and the queries, encouraging students to reflect on their communication habits. Finally, the teacher circled key phrases in the text to highlight the importance of personal preferences in communication, aligning visual emphasis with the lesson's conclusion. This strategic use of visual anchors and highlighting reduced cognitive load by focusing attention on critical elements, facilitating a clear understanding of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Traditional Building",
+        "type": "Visual",
+        "original_text": "Slide showing image of traditional building titled 'Unit 4: History and traditions - Reading for writing'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c2",
+        "label": "Red Mailbox Illustration",
+        "type": "Visual",
+        "original_text": "Illustration of red mailbox and smiley face on slide titled 'Lead-in'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Writing Letters",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[95.02 -> 97.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Emails and Text Messages",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[97.82 -> 111.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Student Participation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[111.42 -> 114.2]"
+      },
+      {
+        "id": "c6",
+        "label": "Reflection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[125.16 -> 133.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Improvement Areas",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[134.22 -> 148.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Greetings",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Emotions Vocabulary",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[161.02 -> 177.76]"
+      },
+      {
+        "id": "c10",
+        "label": "Pen Pal Email",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[189.36 -> 215.018]"
+      },
+      {
+        "id": "c11",
+        "label": "Ireland Description",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[189.36 -> 215.018]"
+      },
+      {
+        "id": "c12",
+        "label": "Places to Visit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[189.36 -> 215.018]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The traditional building slide sets a historical context leading to the discussion of writing letters."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The illustration guides focus towards the discussion about digital communication forms."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Student participation connects with teacher reflection for improving future engagement strategies."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Vocabulary learned in previous lessons is used to engage students in current emotional state discussion."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Email from pen pal includes a description of Ireland, adding cultural context."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Ireland's description provides a basis for brainstorming places for Jack to visit."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

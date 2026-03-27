@@ -1,0 +1,146 @@
+{
+  "video_name": "25_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the significance and role of diversified homework assignments in physics teaching; master the basic methods of designing tiered (differentiated) homework.",
+  "transcript": "[0.0 -> 52.76] 我抽到演讲的题目是新课程倡导作业布置的类型和评价的多样化结合实力在教学实践中如何操作针对这个问题我是这样理解的作业是老师检验掌握学生掌握情况的窗口针对于学习内容的不同学生掌握程度也会不同理解起来也会不同如果只是单纯地布置单一的作业难免会导致偏见导致学生不能很好的发展这与我们所倡导的因材施教的理念所相违背所以这又要求老师在布置作业的时候要切实掌握学生的学习情况。\n[53.8 -> 87.0] 所以针对这个问题我提出了以下的解决方法在实际的教学中我会首先去了解学生在本节课学习所掌握的情况对于他们的重难点有没有切实的掌握到位对他们的薄弱点也有所研究接着我会自己把它们分为不同类型针对于不同类型的学生我还会布置开放性的作业比如说必做作业选做作业和开放性的作业。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide features a title in Chinese characters and includes a diagram with four circular icons and a rectangular image. The exact text on the slide is not fully legible, but it appears to be an introduction to a topic related to the content being discussed.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"磁気気浮き電動機の動作原理\" (Principle of Operation of Magnetic Levitation Motors). The teacher does not physically write this title but presents it on the digital screen. The title is prominently displayed at the top of the slide.\n\n#### 3. **The Objectives**\n- Specific learning objectives are not explicitly listed as bullet points on the screen or board. The focus is on the title and the introductory diagram.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their left hand, likely emphasizing points related to the content on the slide. The gestures include open hand movements, possibly to explain concepts or direct attention to the slide content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands behind a desk, facing the students. The digital screen displays the introductory slide with the title \"磁気気浮き電動機の動作原理\" and a diagram.\n- The teacher begins speaking, holding papers, and occasionally gesturing with their left hand.\n\n**Middle:**\n- The teacher continues to reference the slide, using hand gestures to emphasize key points. The blackboard remains mostly blank, with some faint chalk marks visible.\n- The teacher's gestures include open palm movements, possibly to illustrate concepts or maintain engagement.\n\n**End:**\n- The teacher maintains focus on the slide content, using consistent hand gestures to link verbal explanations with the visual elements on the screen.\n- The classroom setting remains unchanged, with students seated and the teacher actively engaging with the material presented.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "Initially, the screen presents a slide titled \"磁気気浮き電動機の動作原理\" alongside a diagram featuring four circular icons and a rectangular image, serving as the hook to capture attention. To bridge to the topic, the teacher holds papers and uses open hand gestures, likely emphasizing key points related to the diagram. The visual focus remains on the slide throughout, with the teacher's gestures directing attention to the content displayed. Finally, the lesson goal is established through the prominent title on the screen, linking the introduction to foundational concepts of magnetic levitation motors, setting the stage for deeper exploration of the topic. This approach connects new knowledge to the visual and conceptual elements presented, preparing students for subsequent learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Magnetic Levitation Motors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 52.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Homework Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 52.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Diversification",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 52.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Student Mastery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 52.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Differentiated Homework",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 52.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Open Assignments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[53.8 -> 87.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Compulsory Assignments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[53.8 -> 87.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Elective Assignments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[53.8 -> 87.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "Principle of Operation of Magnetic Levitation Motors",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram Slide",
+        "type": "Visual",
+        "original_text": "Diagram with circular icons",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide introduces the principle of operation of magnetic levitation motors."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Diversification enhances homework design."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Differentiated homework is part of effective homework design."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Open assignments are a type of differentiated homework."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Compulsory assignments are a type of differentiated homework."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Elective assignments are a type of differentiated homework."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Student mastery requires diversified homework."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram aids in conceptualizing different types of homework."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to think about magnetic levitation principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,173 @@
+{
+  "video_name": "32_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Improve students' ability to learn English vocabulary and grammar; promote language input efficiency through output activities; stimulate students' interest and participation in language learning.",
+  "transcript": "[89.36 -> 96.78] we wanted to do a project using foreign language. We want to communicate with foreigners. We want to write something,\n[96.78 -> 103.32] write a novel, write some essays. We definitely want to write better,\n[103.32 -> 155.9] want to do better at the very first place. So which means that in that case we would definitely want to force ourselves to gain more knowledge from the books from other resources so that so that we can learn more vocabulary and grammar and also other knowledges to do our project presentation or other output outputting activities better so in this case the language output actually can promote the efficiency also the resources of the language inputs so as a teacher we definitely need to utilize these relations which means that we need to be more deep enough scaffolding for students so that they can use more ways to output and they are more willing to gain more language input and learn better at a foreign language so that's all for my speech thank you for listening and now there is my model class。\n[166.46 -> 172.88] Okay so good afternoon everyone,\n[172.88 -> 191.02] nice to see you guys and welcome to my class. So before we kick off today's lesson I want to play a guessing game with you guys. So first I will write a map of a country and you need to guess which country it belongs Okay,\n[191.02 -> 197.42] so first the first clue is the map of the country。\n[202.86 -> 209.36] Is in this way and it is in the South America with the letter P so which country is。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"B1U2 TRAVELING AROUND Reading and Thinking.\" The slide includes images of travel-related scenes and a map.\n- The teacher holds papers and gestures with their hands, likely explaining the content on the screen.\n- The blackboard is mostly empty, with some Japanese text and colored markers on the side.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen and occasionally looking at the papers.\n- The screen transitions to a new slide with tabs labeled \"Lead-in,\" \"Learning,\" \"Applying,\" \"Creating,\" and \"homework.\"\n- The teacher moves to the blackboard and begins drawing a rough outline of a map, possibly related to the travel theme.\n\n**End:**\n- The teacher completes the map outline on the blackboard and continues to explain, using the map as a visual aid.\n- The digital screen remains static, showing the same slide with the process tabs.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide titled \"B1U2 TRAVELING AROUND Reading and Thinking,\" featuring travel images and a map. The slide later transitions to a process-oriented layout with tabs.\n\n**The Derivation Process (Dynamic):**\n\n- **Additions:**\n  - The teacher draws a map outline on the blackboard while explaining, likely correlating with the travel theme from the slide.\n  \n- **Modifications:**\n  - No erasures or modifications are observed; the teacher focuses on adding content to the blackboard.\n\n- **Deictic Gestures:**\n  - The teacher points to specific images on the digital slide, likely linking them to the travel theme being discussed.\n  - While drawing the map, the teacher gestures towards different parts of the outline, possibly indicating specific locations or routes.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize points on the digital slide and the map outline on the blackboard.\n- The map on the blackboard is drawn in white chalk, standing out against the green background, highlighting its importance in the lesson.\n\nThis structured visual evolution shows the teacher's method of linking digital content with physical board work to enhance understanding of the travel theme.",
+  "visual_narrative": "Initially, the bulletin board displayed a slide titled \"B1U2 TRAVELING AROUND Reading and Thinking,\" featuring images of travel scenes and a map, setting the thematic anchor for the lesson. The teacher began by gesturing towards these images, likely establishing the context of travel and exploration. As the lecture progressed, the slide transitioned to a process-oriented layout with tabs labeled \"Lead-in,\" \"Learning,\" \"Applying,\" \"Creating,\" and \"homework,\" outlining the lesson's structure. The teacher then moved to the blackboard and constructed a rough map outline, correlating it with the travel theme from the digital content. Throughout, the teacher pointed to specific images on the slide, such as the map, to illustrate key points, and traced parts of the map outline to highlight routes or locations. Finally, the teacher used the completed map on the blackboard to reinforce the lesson's concepts, ensuring visual continuity between the digital and physical elements. This dual approach reduced cognitive load by providing both a structured digital framework and a tangible, evolving visual aid, allowing students to connect abstract ideas with concrete representations seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Foreign Language Project",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[89.36 -> 96.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Communicate with Foreigners",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[89.36 -> 96.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Write Novels",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[89.36 -> 96.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Learn More Vocabulary",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[103.32 -> 155.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Grammar Learning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[103.32 -> 155.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Project Presentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[103.32 -> 155.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Language Output",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[103.32 -> 155.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Gain More Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[103.32 -> 155.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Deep Scaffolding",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[103.32 -> 155.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Classroom Engagement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[166.46 -> 172.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: B1U2 Traveling Around",
+        "type": "Visual",
+        "original_text": "Digital slide titled 'B1U2 TRAVELING AROUND Reading and Thinking' with travel images and a map.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Process Tabs",
+        "type": "Visual",
+        "original_text": "Slide showing tabs: 'Lead-in,' 'Learning,' 'Applying,' 'Creating,' and 'homework'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Map Outline",
+        "type": "Visual",
+        "original_text": "Rough map outline drawn by the teacher on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Guessing Game Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Foreign language projects involve communicating with foreigners."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Projects involve writing novels for language practice."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Learning more vocabulary supports grammar learning."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Presentations enhance language output efficiency."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Gaining knowledge helps in learning more vocabulary."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "enables",
+        "intent": "Deep scaffolding enhances classroom engagement."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Visual slides scaffold engagement through thematic imagery."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The board map emphasizes locations related to language output."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The slide with tabs visualizes the process for presentation structure."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Map drawing prompts students to participate in the guessing game."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

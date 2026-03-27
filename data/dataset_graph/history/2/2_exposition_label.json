@@ -1,0 +1,152 @@
+{
+  "video_name": "2_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "history",
+  "teaching_goal": "- Understand the manifestations of economic development during the Spring‑and‑Autumn and Warring States periods and its impact on society.  \n- Analyze the background and content of the reform movements undertaken by the various states.  \n- Recognize the role of economic development and reform movements in the historical process.",
+  "transcript": "[108.66 -> 155.66] 好我今天讲的字幕是第二课的诸侯纷争与列国变法的第二个字幕经济发展与变革运动同学们上一节课我们讲到了上一节课上节课我们讲到了周王室衰归之后天下由天下共主转变为列国的纷争春秋战国出现了大变局那这一时期春秋大变局变在哪里呢。\n[156.92 -> 162.68] 在这个问题让我们走进今天的新课经济发展与变法运动。\n[168.66 -> 205.8] 首当其冲便是经济的变化因为经济是什么呀同学们经济是什么对经济是基础那么这一时期经济发展有哪些表现呢请大家根据课本和材料总结归纳经济发展的表现。\n[228.38 -> 233.42] 好那好位同学最前脚到可以举手。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The main visual anchor is a presentation slide titled \"一、经济发展\" (Economic Development). The slide contains text in Chinese, including a question about the impact of the 1953-1957 period on economic development.\n- **Teacher's Actions**: The teacher stands at the podium, holding papers, and gestures towards the slide. The teacher's finger points to the text on the slide, emphasizing the question about the 1953-1957 period.\n\n#### Middle\n- **Derivation Process (Dynamic)**:\n  - **Additions**: The teacher writes on the blackboard to the left of the screen, adding the phrase \"红旗发展与变法成功\" (Red Flag Development and Successful Reform).\n  - **Modifications**: The teacher underlines \"红旗发展\" (Red Flag Development) on the blackboard, highlighting its importance.\n  - **Deictic Gestures**: The teacher points to the newly written phrase on the blackboard while explaining its connection to the slide content.\n\n- **Highlighting Strategy (Emphasis)**:\n  - The teacher uses a marker to circle \"红旗发展\" on the blackboard, drawing attention to this concept.\n  - The teacher gestures back and forth between the blackboard and the slide, linking the written phrase to the economic development topic.\n\n#### End\n- **Derivation Process (Dynamic)**:\n  - **Additions**: The teacher writes \"经济的恢复\" (Economic Recovery) below the previously written phrase on the blackboard.\n  - **Modifications**: The teacher adds a small arrow pointing from \"红旗发展\" to \"经济的恢复,\" illustrating a cause-and-effect relationship.\n  - **Deictic Gestures**: The teacher points to the arrow and the text on the blackboard, explaining the transition from development to recovery.\n\n- **Highlighting Strategy (Emphasis)**:\n  - The teacher uses a different color marker to highlight \"经济的恢复\" on the blackboard.\n  - The teacher gestures towards the slide again, reinforcing the connection between the blackboard notes and the slide content.\n\n### Knowledge Flow Tracking\n\n1. **The Core Artifact (Static)**: The main visual anchor is the slide titled \"一、经济发展\" with text discussing the 1953-1957 period's impact on economic development.\n\n2. **The Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes \"红旗发展与变法成功\" and \"经济的恢复\" on the blackboard, creating a visual link between historical development and economic recovery.\n   - **Modifications**: Underlining and circling key phrases on the blackboard, and drawing an arrow to show relationships.\n   - **Deictic Gestures**: The teacher points to specific parts of the blackboard and slide, synchronizing verbal explanations with visual cues.\n\n3. **The Highlighting Strategy (Emphasis)**:\n   - Using different colors and underlining to emphasize key terms.\n   - Gesturing to draw connections between the blackboard and slide content, reinforcing the narrative of economic development and recovery.",
+  "visual_narrative": "Initially, the bulletin board displayed a slide titled \"一、经济发展,\" focusing on the impact of the 1953-1957 period on economic development. The teacher began by pointing to the text on the slide, emphasizing the significance of this historical timeframe. Then, the teacher constructed a narrative by writing \"红旗发展与变法成功\" on the blackboard, linking the concept of Red Flag Development to successful reforms. The teacher underlined \"红旗发展\" and traced a connection to the slide content, reinforcing the relationship between historical development and economic themes. As the lecture progressed, the teacher derived additional insights by adding \"经济的恢复\" below the initial phrase, illustrating the transition from development to economic recovery. An arrow was drawn to show the cause-and-effect relationship, with the teacher gesturing between the blackboard and slide to synchronize verbal explanations with visual cues. Finally, the teacher highlighted \"经济的恢复\" in a different color, circling key terms to emphasize their importance. This visual strategy, combined with dynamic gestures and annotations, reduced cognitive load by providing clear, structured links between concepts, aiding in the comprehension of economic development and recovery processes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Economic Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[108.66 -> 205.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Spring and Autumn Period",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[108.66 -> 155.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Warring States Period",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[108.66 -> 155.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Red Flag Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[168.66 -> 205.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Economic Recovery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[156.92 -> 233.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Reform Movements",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[108.66 -> 155.66]"
+      },
+      {
+        "id": "c7",
+        "label": "1953-1957 Economic Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[168.66 -> 205.8]"
+      },
+      {
+        "id": "v1",
+        "label": "Economic Development Slide",
+        "type": "Visual",
+        "original_text": "Slide discussing economic impact from 1953-1957",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard with Red Flag Development",
+        "type": "Visual",
+        "original_text": "\"Red Flag Development and Successful Reform\" text on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard with Economic Recovery",
+        "type": "Visual",
+        "original_text": "\"Economic Recovery\" text on blackboard below Red Flag Development",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Economic Development includes events from the Spring and Autumn Period."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Economic Development includes events from the Warring States Period."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Economic Development builds upon Red Flag Development."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Economic Recovery evolves from Red Flag Development."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Red Flag Development includes concepts from successful reforms."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Economic Development examines the impact from the 1953-1957 period."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes key concepts of Economic Development."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes Red Flag Development."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes Economic Recovery."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher prompts students to engage with the concept of Economic Development."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

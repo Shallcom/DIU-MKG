@@ -1,0 +1,127 @@
+{
+  "video_name": "19_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Analyze the impact of error handling on students’ learning motivation and confidence; evaluate the suitability of different teaching methods in physics instruction.",
+  "transcript": "[0.0 -> 81.96] 美丽的对于这个事件发表我的观点首先我认为一种讲过那么多次了你们怎么还错这种合法是不正确的不符合我们中学物理的教育原则不符合我们中学物理教育原则的教育性教育性原则它不仅会打击学生的积极性还有可能会伤害到学生的自尊所以这是不合适的不合理的其次我认同第二种老师的说法是学生的错永远是美丽的学生有错误说明学生是有提升空间的我们能够看到学生的错误就证明我们有方法来制定一系列的计划来改变学生的现状来提升学生的能力。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The teacher enters the classroom holding a stack of papers, which he uses to initiate the lesson. The papers are likely the lesson materials or handouts.\n\n#### 2. **The Title Event**\n- The screen to the left of the teacher displays text in Chinese, which appears to be the title or topic of the lesson. The exact text is not fully visible, but it includes the characters \"定律\" (law or theorem). The teacher does not interact with the screen directly in the frames provided.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the board or screen in the provided frames. The focus is on the teacher presenting with papers.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with his free hand, possibly emphasizing points as he speaks.\n- He occasionally looks at the papers and then back at the students, indicating he is reading or referring to the content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom from the door on the right, holding papers.\n- He approaches the front of the classroom and stands near the green chalkboard.\n- The screen to the left displays text, likely the lesson topic, but the teacher does not interact with it initially.\n\n**Middle:**\n- The teacher begins speaking, using the papers as reference.\n- He gestures with his free hand, possibly to emphasize points or maintain engagement.\n- The students are seated, facing the teacher, with one student in a green jacket visible from behind.\n\n**End:**\n- The teacher continues to refer to the papers, occasionally looking up to address the class.\n- No significant changes occur on the board or screen during this segment.\n- The teacher's gestures remain consistent, focusing on delivering the content from the papers.\n\nThis structured visual analysis captures the teacher's actions and their relation to the classroom environment, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the teacher enters the classroom holding a stack of papers, which serve as the opening visual stimulus. To bridge to the main topic, he stands in front of the green chalkboard and begins speaking, using the papers as reference. The screen to his left displays text, likely the lesson topic, which includes the characters \"定律\" (law or theorem). While speaking, the teacher occasionally gestures with his free hand, emphasizing points and maintaining engagement. The visual focus remains on the teacher and the screen, which hints at the lesson's subject without direct interaction. This introduction connects the new knowledge to the students' existing experience by using structured materials, setting the stage for the lesson's objectives and establishing a clear focus on the topic presented on the screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Error Handling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 81.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Learning Motivation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 81.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Student Confidence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 81.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Physics Instruction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 81.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Self-esteem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 81.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Educational Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 81.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Materials",
+        "type": "Visual",
+        "original_text": "Teacher's paper stack",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Law or Theorem",
+        "type": "Visual",
+        "original_text": "Screen showing text about laws",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher's Gesture",
+        "type": "Visual",
+        "original_text": "Teacher gesturing while speaking",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Focused Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Error handling impacts learning motivation positively."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Proper error handling can increase student confidence."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Effective error handling considers self-esteem."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Error handling is part of educational principles."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Physics instruction follows educational principles."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Lesson materials complement the theorem shown on the screen."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Gestures help maintain student engagement and focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,160 @@
+{
+  "video_name": "12_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concepts of trigonometric functions and their application in solving practical problems; master the fundamental differences and connections between spherical trigonometry and plane trigonometry; cultivate students’ interest in mathematical inquiry and their autonomy.",
+  "transcript": "[0.0 -> 65.62] 各位评委老师各位同学们我是十二号选手现在开始我的即席讲演我抽到的题目是有人曾提出教学应该求慢求少求难求拙的教学理念接下来我将从数学教育的目的以及教育的规律两方面来进行论证是否应当秉持这样的教育理念呢首先我认为学生是学习的主体新课标指出教师要以学生为主体引导学生在课堂中自主地探究教育的主要目的是为了培养学生的兴趣兴趣自信自主性以及引导学生在数学的探究过程中有批判的精神质疑的精神。\n[66.9 -> 155.04] 因此教育工作要做新做细做精秉持着工匠的精神因此我认为求慢求少求难求足这样的教育理念我们可以信但不能尽信为何不能尽信呢因为我们需要遵循教育的规律以退为进遵循学生的身心发展各不相同若教育赶在学生认知之前则为拔苗助长赶在认知之后则为无用的教学因此我们作为教师应当布下一张教学的网络教学网络将教育工作做细做精根据学生发展的规律来进行教育而非单纯地秉持这个理念求慢求少求难求足若不懂其中的内涵只是单纯地按照字面意思来的话那么教育就会越来越退步因此我认为真要求慢求少求难求足的教育理念应尽但不能尽兴以上是我的集体讲演。\n[164.76 -> 169.74] 同学们我们现在开始上课。\n[170.76 -> 197.6] 宇宙的奥秘大家都想要探寻吗早在公元前一千四百多年啊人类就开始探行了宇宙的奥秘那在那个时候大家还没有宇宙飞船先进的科技以及现在如今便捷的交通那么他们要如何探究宇宙的奥秘呢。\n[199.12 -> 205.28] 这一良天的学问早在古代呢就有许许多多人前呼后继地去研究了。\n[206.6 -> 240.0] 最初人们是通过球面的三角来进行研究随后呢根据测量和测绘的需要逐渐发展出了平面的三角学那三角学和天文学密不可分今天我们就来学习三角函数的概念请同学们翻开课本大家思考一下我们先前学过的函数有哪些类型。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a green chalkboard. The initial visual focus is on the teacher, who is wearing a name tag with the number \"12.\" The screen to the right displays a slide titled \"5.3 三角函数的概念\" (Concept of Trigonometric Functions).\n\n#### 2. **The Title Event**\n- The title \"5.3 三角函数的概念\" is prominently displayed on the screen. The teacher gestures towards the screen, likely emphasizing the title. There is no indication of underlining or additional writing on the board.\n\n#### 3. **The Objectives**\n- The slide transitions to show a diagram with the text \"量天的学问?\" (The science of measuring the sky?) and two connected circles labeled \"三角\" (Trigonometry) and \"天文\" (Astronomy). This suggests a thematic link between trigonometry and astronomy as learning objectives.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing towards the screen and moving towards the chalkboard. She holds papers, possibly notes or a lesson plan, and occasionally looks at them while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the chalkboard, with the screen displaying \"5.3 三角函数的概念.\"\n- She gestures towards the screen, likely introducing the topic of trigonometric functions.\n\n**Middle:**\n- The teacher continues to speak, occasionally looking at her notes.\n- The screen transitions to show the diagram with \"量天的学问?\" and the connected circles \"三角\" and \"天文.\"\n- The teacher points to the screen, emphasizing the connection between trigonometry and astronomy.\n\n**End:**\n- The teacher moves towards the chalkboard, possibly to write or highlight additional information.\n- She continues to engage with the students, using hand gestures to reinforce the concepts being discussed.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to specific visual content on the screen and board.",
+  "visual_narrative": "Initially, the teacher stands in front of a green chalkboard, with the screen displaying the title \"5.3 三角函数的概念\" as the opening visual stimulus. To bridge to the main topic, the teacher gestures towards the screen, emphasizing the title. The slide then transitions to a diagram featuring the text \"量天的学问?\" with connected circles labeled \"三角\" and \"天文,\" visually linking trigonometry to astronomy. The teacher points to this diagram, highlighting the thematic connection. Finally, the visual focus remains on the screen, establishing the lesson goal of exploring the concept of trigonometric functions and their applications in astronomy. This introduction connects new knowledge to students' existing understanding of both mathematics and science, setting the stage for a deeper exploration of trigonometric principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 65.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Spherical Trigonometry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[206.6 -> 240.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Plane Trigonometry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[206.6 -> 240.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Astronomy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[66.9 -> 155.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Mathematical Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 65.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Educational Slow and Precise Approach",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[66.9 -> 155.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Interest and Autonomy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[170.76 -> 197.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Criticism and Inquiry Spirit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.04]"
+      },
+      {
+        "id": "c9",
+        "label": "Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[206.6 -> 240.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Classroom Chalkboard",
+        "type": "Visual",
+        "original_text": "Teacher standing in front of a green chalkboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Trigonometric Functions Title Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying '5.3 Concept of Trigonometric Functions'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Astronomy and Trigonometry Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with text 'Science of Measuring the Sky?' connecting 'Trigonometry' and 'Astronomy'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visualizes the concept being discussed in class."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Plane trigonometry evolved from spherical trigonometry."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the thematic relation between trigonometry and astronomy."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Mathematical inquiry includes critical thinking and questioning."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Discusses the educational principle focusing on interest and autonomy."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "Visual cues used by the teacher help in engaging students."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Trigonometric functions evolved from the general concept of functions."
+      },
+      {
+        "source": "c7",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages student interest and autonomy in learning trigonometry."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "guides_discussion",
+        "intent": "The spirit of criticism and inquiry guides student participation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

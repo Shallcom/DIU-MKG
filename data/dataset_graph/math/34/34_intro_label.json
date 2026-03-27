@@ -1,0 +1,146 @@
+{
+  "video_name": "34_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the importance of mathematical culture in high school mathematics teaching; analyze the influence of mathematical culture on students' confidence in the subject.",
+  "transcript": "[0.0 -> 3.8] 点支持明镜与点点栏目。\n[9.82 -> 56.34] 各位评委老师各位同学早上好我抽到的几系演讲题目是在高中数学教学中是否要融合数学文化我的观点是我非常赞同在高中数学的教学当中一定要去融入数学文化我们知道思想文化是一个学科的灵魂是一个学科的历史支柱而且国家现在非常重视各学科的文化教育数学文化与数学学科之间是一个密不可分的一个关系我们有个教育家也曾说过没有文化就意味着没有学科的根源因此我赞同高中数学教学中一定要有入数学文化。\n[59.0 -> 97.9] 农中数学文化讲述前人的一个探究故事能够激发学生积极向上的一个心态学习前人的探究精神有利于培养学生的学科自信以及激发学生的学科发现问题提出问题以及分析问题还有解决问题的能力这不仅是对精神文化的一个支持更是学生学科自信的一个来源以上是我的即兴演讲到此结束感谢各位的倾听下面将开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a green chalkboard. The initial visual focus is on the chalkboard, which is blank except for some colored chalk pieces and Chinese text written on the left side: \"数学班 34号选手\" (Math Class, Contestant No. 34).\n\n#### 2. **The Title Event**\n- The title or main text on the board is \"数学班 34号选手,\" written in white chalk. The teacher does not appear to write or underline this text during the video; it is already present.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the board or screen during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally looks at them while speaking. There are no specific gestures linking to board content, such as pointing or underlining.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the chalkboard, which is mostly blank except for the text \"数学班 34号选手\" and colored chalk pieces.\n- The teacher holds papers and begins speaking, likely introducing the lesson or topic.\n\n**Middle:**\n- The teacher remains stationary, occasionally glancing at the papers in hand. No additional writing or gestures are made towards the board.\n- The digital screen to the right displays a grid or list, but no interaction with it is observed.\n\n**End:**\n- The teacher continues to address the class, maintaining focus on the papers. The board content remains unchanged throughout the segment.\n\n### Summary\nThe introduction phase centers on the teacher presenting with pre-written text on the board. The primary visual elements are the chalkboard text and the teacher's interaction with papers. No dynamic changes or gestures are noted, keeping the focus on the initial setup and the teacher's spoken introduction.",
+  "visual_narrative": "Initially, the scene presents the teacher standing before a green chalkboard, which prominently displays the text \"数学班 34号选手\" alongside colored chalk pieces. This serves as the opening visual stimulus, setting the context for the introduction. The teacher, holding papers, begins the lesson by addressing the class, maintaining focus on the documents in hand. Throughout the introduction, the teacher remains stationary, with no additional gestures or interactions with the board or digital screen, which displays a static grid. The visual focus stays on the pre-written text, establishing the lesson's context without transitioning to new content. This approach grounds the introduction by linking the teacher's presence and the board's static text, preparing students for the forthcoming lesson content through a clear, unchanging visual anchor.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mathematical Culture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.82 -> 56.34]"
+      },
+      {
+        "id": "c2",
+        "label": "High School Mathematics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.82 -> 56.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Subject Confidence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[59.0 -> 97.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Educational Philosophy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.82 -> 56.34]"
+      },
+      {
+        "id": "c5",
+        "label": "Cultural Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.82 -> 56.34]"
+      },
+      {
+        "id": "c6",
+        "label": "Exploratory Stories",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[59.0 -> 97.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Inquiry Spirit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[59.0 -> 97.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Academic Inquiry Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[59.0 -> 97.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Teacher Standing with Papers",
+        "type": "Visual",
+        "original_text": "Teacher holding papers, standing before green chalkboard with colored chalk and text: 'Math Class, Contestant No. 34'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Static Grid Display",
+        "type": "Visual",
+        "original_text": "Digital screen displaying a static grid or list.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Mathematical culture enhances students' confidence in the subject."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The philosophy includes the integration of mathematical culture."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Cultural education is emphasized within high school mathematics teaching."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Exploratory stories support the understanding of mathematical culture."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Inquiry spirit enhances students' subject confidence."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Inquiry skills evolve from understanding mathematical culture."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The teacher's stance and emphasis on documents relate to mathematical culture."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Static grid display summarizes relevant content for high school mathematics."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's presentation prompts student engagement in listening."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

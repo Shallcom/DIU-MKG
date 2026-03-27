@@ -1,0 +1,166 @@
+{
+  "video_name": "43_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Be able to describe the process of nerve impulse generation; understand the differences between the resting state and the action potential; analyze the mechanism of electrical signal conduction along nerve fibers.",
+  "transcript": "[235.64 -> 247.24] 好大家都阅读结束了吗\n[248.34 -> 470.1] 嗯好那么请同学们跟着老师一起来分析一下这个实验过程首先呀他在蛙的足骨神经外侧呢用两个电极连接了一个电表我们来看一下在最初的阶段电表的指针有没有发生变化没有那这说明我们这个神经上电信号是是一致的对不对那么在接下来呢这个人他在左侧给这个神经施加了一个刺激在刺激之后呢我们可以发现原本的正电号变成了负电号诶我们看到电表它有一个点发生了一个偏移所以呢电表发生偏移的原因就是由于我们在这个电极当中产生了电流电流都是从什么极到什么极移动的正极到负极因此呢我们就可以确定这边是正极这边是负极那么过了一段时间呢这个电表它又回归了原来的位置这说明什么呀这说明两个电极都又变成了等了一样的很好那么过了一段时间之后他发现这个指针突然又向左边偏转了一下这说明什么说明我们这个时候这两边的正负极应该是左边是什么极左边是负极因为我们的指针应该是啊这个电流应该是从右侧向左侧传递对不对啊是我的方向出问题了那么对大家来说呢这边就是右侧那么在右侧应该是正极左侧应该是负极那么在这个过程当中啊我们发现原本负信号在这边然后后来呢它传递到了这里这说明在神经当中我们的信号是以什么形式传递的啊应该是以电信号的显示传递的那么我们也称这种电信号呢为神经冲动那接下来就让我们一起来探究一下电信号它在神经纤维上是如何传递的因为我们这个实验材料呢用到的是蛙的坐骨神经而坐骨神经呢我们都知道它是由无数个神经纤维组成的那神经纤维对我们人来说神经纤维是非常细长的一个物体那么我们应该如何去检测电信号如何在神经纤维上传递呢这就要考察到我们对实验材料的选取方面的知识了那么想要去做一个可观的实验首先我们的这个神经纤维一定要选得大一些那么科学家呢他经过探索发现有一种乌贼它的神经纤维非常的巨大那么我们就可以用这种神经纤维来作为实验材料去探究这个鲜分如何在神经纤维上进行传导首先呢在此之前老师想要给大家介绍一个概念叫做门控通道呢它是指在机械化学或电压等因素的影响下可以打开的通道那么请同学们先自行阅读课本二十八页来寻找一下进气定位和动作定位的概念",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a diagram with three rectangular structures labeled \"神经冲动的产生与传导\" (Neural Impulse Generation and Conduction).\n- The chalkboard has text written in Chinese: \"生物组第13号选手\" (Biology Group No. 13 Contestant) and \"神经冲动的产生与传导\" (Neural Impulse Generation and Conduction).\n- The teacher points to the digital screen, indicating the first rectangular structure, which represents a neuron.\n\n**Middle:**\n- The teacher uses hand gestures to explain the diagram, moving from left to right across the three structures.\n- She points to specific parts of the neuron diagram, likely explaining the flow of neural impulses.\n- The teacher then writes additional text on the chalkboard, adding to the existing content.\n- She uses a pointer to highlight different sections of the digital diagram, emphasizing key points.\n\n**End:**\n- The teacher transitions to a new slide on the digital screen, which shows a different diagram or text.\n- She continues to gesture and explain, maintaining focus on the new content displayed.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital diagram of neurons, consisting of three rectangular structures representing different stages of neural impulse conduction.\n   - The diagram is labeled with Chinese text, and each structure has specific components indicating parts of the neuron.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:** The teacher writes additional text on the chalkboard while explaining, likely adding key terms or steps related to neural impulse conduction.\n   - **Modifications:** The teacher points to and possibly circles or underlines parts of the digital diagram to highlight important features.\n   - **Deictic Gestures:** When explaining, the teacher points to specific parts of the neuron diagram, such as the axon or synapse, to illustrate the flow of impulses.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize certain parts of the diagram, such as pointing to the direction of impulse travel.\n   - She may use different colors on the chalkboard to differentiate between concepts or steps in the process.\n   - The digital screen is used to zoom in or highlight specific sections of the diagram as needed.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating a detailed understanding of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a diagram of three rectangular structures representing neurons, labeled \"神经冲动的产生与传导\" (Neural Impulse Generation and Conduction). The teacher began by pointing to the first structure, tracing the path of the neural impulse to illustrate its initiation. She then constructed a narrative by moving to the second and third structures, explaining the conduction process through gestures that highlighted the synaptic connections.\n\nAs the lecture progressed, the teacher annotated the chalkboard with key terms, adding depth to the digital content. She derived the flow of impulses by pointing to specific components of the neuron, such as the axon terminals, to show how signals are transmitted. Her gestures emphasized the directionality of the impulse, tracing the rising action potential along the neuron.\n\nFinally, she transitioned to a new slide, which introduced additional diagrams or text. Throughout, she used visual highlighting strategies, such as circling critical parts of the neuron and using contrasting colors on the board to differentiate concepts. This alignment of visual cues with verbal explanations reduced cognitive load, allowing students to follow the complex process of neural impulse conduction more easily. The teacher's methodical approach ensured that each step was clearly visualized, reinforcing the lesson's key points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Neural Impulse Generation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Resting State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Action Potential",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Electrical Signal Conduction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Axon Terminals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Synaptic Connections",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Positive and Negative Charges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c8",
+        "label": "Current Flow",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c9",
+        "label": "Gate Channels",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c10",
+        "label": "Squid Nerve Fibers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[248.34 -> 470.1]"
+      },
+      {
+        "id": "c11",
+        "label": "Experimental Setup",
+        "type": "Visual",
+        "original_text": "Diagram of neuron structures labeled 'Neural Impulse Generation and Conduction'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Visual Highlights",
+        "type": "Visual",
+        "original_text": "Digital screen with highlighted sections of the neuron diagram",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c13",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Neural impulse generation builds upon the concept of the resting state."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "An action potential is part of the process of neural impulse generation."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Neural impulse generation is fundamental to understanding signal conduction."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Axon terminals are part of synaptic connections."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Current flow relies on the differences between positive and negative charges."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Gate channels play a role in managing current flow."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Squid nerve fibers are used to study signal conduction along nerve fibers."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram aids in visualizing the concept of neural impulse generation."
+      },
+      {
+        "source": "c12",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Visual highlights emphasize synaptic connections in the diagram."
+      },
+      {
+        "source": "c13",
+        "target": "c1",
+        "relation": "engages",
+        "intent": "The teacher engages students with neural impulse concepts through explanation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,172 @@
+{
+  "video_name": "40_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the solubility characteristics of benzoic acid and their impact on purification; master the ability to select appropriate purification methods based on the properties of a substance; apply purification methods to solve real‑world problems.",
+  "transcript": "[154.86 -> 168.14] 下面开始我的模拟生活环节上课同学们今天我们共同来学习的内容是提纯与分离。\n[173.02 -> 261.52] 在上课之前啊我的教学组长告诉我发现自己放在桌子上用来展示的高纯度苯甲酸不见了那么究竟是谁又为什么要使用我们化学组的苯甲酸呢本节课就请大家跟老师一起化身小侦探帮助化学组的老师一起破解此案这里有一些线索请大家给大家一分钟的时间来阅读线索请大家想一想如何来提出本假算法注意节课线索我听到有同学说可以用过滤的方法因为苯甲酸微溶于水过滤可以提纯到一部分的苯甲酸但是相信大家也看到老师在这里圈了一个圈杂志当中含有泥沙并且它是微溶于水苯甲酸所以过滤很显然并不能完全的除去苯甲酸的杂志看来过滤不太行那大家还有没有其他的方法呢。\n[262.86 -> 265.41999999999996] 也有同学说因为它的溶解度有变化所以我们可以采用蒸发结晶的方式。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact**: The initial visual anchor is a presentation slide with a hexagonal pattern and text in Chinese. The blackboard displays the number \"40\" and some Chinese characters.\n- **Teacher's Actions**: The teacher stands near the blackboard, gesturing towards the presentation screen. The slide reads \"研究有机化合物的一般方法\" (General methods for studying organic compounds) and \"第一章 第二节\" (Chapter 1, Section 2).\n- **Visual Details**: The hexagonal pattern on the slide suggests a molecular structure, possibly benzene.\n\n#### Middle\n- **Core Artifact**: The teacher writes \"分离和提纯\" (Separation and Purification) on the blackboard.\n- **Teacher's Actions**: The teacher points to the newly written text while explaining. The presentation changes to a slide with a case description: \"A老师躺在桌子上 闻来很奇怪的 高纯度苯甲酸 不见了\" (Teacher A lies on the table, smells something strange, high-purity benzoic acid is missing).\n- **Visual Details**: The slide includes exclamation marks and a table with data, indicating a problem-solving scenario.\n\n#### End\n- **Core Artifact**: The presentation slide changes to \"设计实验\" (Design Experiment) with a question: \"思考：如何证明苯甲酸？\" (Think: How to prove benzoic acid?).\n- **Teacher's Actions**: The teacher gestures towards the slide, emphasizing the question. The slide includes a table with experimental data.\n- **Visual Details**: The teacher uses hand gestures to highlight the experimental approach, possibly discussing methods to identify benzoic acid.\n\n### Knowledge Flow Tracking\n\n1. **The Core Artifact (Static)**:\n   - **Initial State**: The main visual anchor is the presentation slide with hexagonal patterns and text about studying organic compounds. The blackboard initially displays \"40\" and some Chinese characters.\n\n2. **The Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes \"分离和提纯\" on the blackboard while explaining the concept of separation and purification.\n   - **Modifications**: The presentation slides change to introduce a case study and then an experimental design question.\n   - **Deictic Gestures**: The teacher points to the text on the blackboard and specific parts of the presentation slides, such as the case description and experimental data.\n\n3. **The Highlighting Strategy (Emphasis)**:\n   - **Visual Cues**: The teacher uses hand gestures to emphasize key points, such as the case description and the experimental question. The presentation slides use bold text and tables to highlight important information.\n\n### Chronological Log of Visual Events\n\n1. **Initial Slide**: Hexagonal pattern with text about studying organic compounds.\n2. **Blackboard Writing**: \"分离和提纯\" is written as the teacher explains separation and purification.\n3. **Case Description Slide**: Teacher points to the text about the missing benzoic acid.\n4. **Experimental Design Slide**: Teacher emphasizes the question about proving benzoic acid, using gestures to highlight the experimental approach.\n\nThis structured visual analysis captures the evolution of the lesson, linking the teacher's actions to specific visual content and emphasizing key educational elements.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a hexagonal pattern representing molecular structures, accompanied by text introducing general methods for studying organic compounds. The teacher began by explaining these methods, gesturing towards the hexagonal pattern to emphasize molecular concepts. Then, the teacher wrote \"分离和提纯\" on the blackboard, constructing the foundation for discussing separation and purification techniques. The presentation evolved to a case study slide, where the teacher pointed to the text describing a scenario involving missing high-purity benzoic acid, highlighting the problem-solving aspect. The teacher derived the experimental approach by transitioning to a slide asking how to prove the presence of benzoic acid, using hand gestures to trace the experimental data table. Finally, the teacher circled key data points and emphasized the experimental design, aligning visual cues with the conclusion to reduce cognitive load and reinforce understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Organic Compounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[154.86 -> 168.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Hexagonal Pattern",
+        "type": "Visual",
+        "original_text": "Slide depicting molecular structure",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Studying Organic Compounds",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[154.86 -> 168.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Separation and Purification",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.02 -> 261.52]"
+      },
+      {
+        "id": "c5",
+        "label": "40 on Blackboard",
+        "type": "Visual",
+        "original_text": "Number '40' and Chinese characters on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "High-Purity Benzoic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.02 -> 261.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Experimental Design Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Design Experiment' with question about proving benzoic acid",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Case Study",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[173.02 -> 261.52]"
+      },
+      {
+        "id": "c9",
+        "label": "Proving Benzoic Acid",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[262.86 -> 265.42]"
+      },
+      {
+        "id": "c10",
+        "label": "Table with Data",
+        "type": "Visual",
+        "original_text": "Slide showing experimental data table",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Filter Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[173.02 -> 261.52]"
+      },
+      {
+        "id": "c12",
+        "label": "Evaporation and Crystallization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[262.86 -> 265.42]"
+      },
+      {
+        "id": "c13",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The hexagonal pattern represents molecular structures related to organic compounds."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Studying organic compounds involves understanding their structures."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The focus shifts from the number on the blackboard to understanding purification."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The case study illustrates practical examples using high-purity benzoic acid."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Understanding solubility of benzoic acid is key in purification processes."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The slide challenges the students to think critically about experimental design."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "The case study develops into a more complex question about identifying benzoic acid."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Data table provides empirical evidence for proving benzoic acid presence."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Filtration is one of the methods used in the separation process."
+      },
+      {
+        "source": "c12",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains the process of evaporation followed by crystallization as a purification method."
+      },
+      {
+        "source": "c13",
+        "target": "c8",
+        "relation": "guides_discussion",
+        "intent": "Student engagement is encouraged through solving the case study."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

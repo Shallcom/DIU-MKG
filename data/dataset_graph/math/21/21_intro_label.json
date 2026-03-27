@@ -1,0 +1,146 @@
+{
+  "video_name": "21_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concepts of mathematical modeling and their application to real-world problems; master the fundamental steps for constructing mathematical models from real-world situations.",
+  "transcript": "[0.0 -> 88.6] 数学建模素养是其重要的部分而六大核心素养为指引学生学习以及老师授课指明了方向其中在数学建模素养中它要求我们从实际问题中建立数学模型那么首先我们就要能够有模型即要学到数学模型其次我们要会建立模型那么在学到模型中我们在授课的过程中一起来学习了方程函数不等式等等知识那么在建立模型的过程中我们在学习这些知识的最后一节往往都会学习它们的应用通过应用学会如何建立它们的模型那么这就是数学建模而老师在授课的过程中首先要对学生基本知识的要求即使学生能够明白数学的模型比如方程不等式等等。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide contains a flowchart with various text boxes and arrows, indicating a process or system. The text is in Chinese, and the flowchart includes elements like \"登录\" (login) and \"注册\" (register), suggesting a focus on a digital or online system.\n\n#### 2. **The Title Event**\n- The title on the screen is not explicitly stated in the frames provided. However, the flowchart and text boxes suggest a focus on a digital process or system. The teacher does not appear to write anything on the board during this segment.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the board or screen in the provided frames. The focus is on the flowchart and the teacher's explanation.\n\n#### 4. **Key Gestures**\n- The teacher stands at the podium, holding papers, and gestures with her hands while speaking. She occasionally points towards the screen, likely emphasizing points related to the flowchart displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays a flowchart with text boxes and arrows, indicating a digital process. The teacher stands at the podium, holding papers, and begins speaking.\n- The teacher gestures with her hands, occasionally pointing towards the screen to emphasize the flowchart content.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to highlight key points. She occasionally looks at the papers in her hand, possibly referring to notes.\n- The screen remains focused on the flowchart, with no changes observed in the visual content.\n\n**End:**\n- The teacher maintains her position at the podium, continuing to gesture and speak. The screen still displays the same flowchart, indicating a sustained focus on explaining the digital process depicted.\n\n### Summary\nThe introduction phase of the lesson centers around a digital flowchart displayed on the screen. The teacher uses hand gestures to emphasize points related to the flowchart, which includes elements like \"登录\" (login) and \"注册\" (register). No specific title or learning objectives are visible, and the teacher's actions are primarily focused on explaining the content of the flowchart.",
+  "visual_narrative": "Initially, the screen presents a flowchart detailing a digital process, with elements like \"登录\" (login) and \"注册\" (register). To bridge to the topic, the teacher stands at the podium, holding papers, and uses hand gestures to emphasize key points on the flowchart. While speaking, she occasionally points towards the screen, highlighting specific sections of the flowchart. The visual focus remains on the flowchart throughout, establishing the lesson goal of understanding the digital system depicted. This introduction connects new knowledge to the students' existing experience with digital processes, setting the stage for a deeper exploration of the system's components and functionality.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mathematical Modeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 88.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Login Process",
+        "type": "Visual",
+        "original_text": "Login sequence in a digital process",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Register Process",
+        "type": "Visual",
+        "original_text": "Register sequence in a digital process",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Inequality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 88.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Real-World Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 88.6]"
+      },
+      {
+        "id": "c9",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart depicting a digital system",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Mathematical modeling includes understanding equations."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Mathematical modeling includes understanding functions."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Mathematical modeling includes understanding inequalities."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Model construction leads to real-world application."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The login process is visualized in the flowchart."
+      },
+      {
+        "source": "c3",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The registration process is visualized in the flowchart."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the flowchart points."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Model construction is a step in mathematical modeling."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "The flowchart prompts student engagement and thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

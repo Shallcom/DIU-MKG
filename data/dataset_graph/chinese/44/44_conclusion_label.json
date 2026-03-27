@@ -1,0 +1,132 @@
+{
+  "video_name": "44_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Be able to compare the different expressive effects of imagery across various literary works; be able to apply the learned knowledge to deliver a report presentation during the summary sharing session.",
+  "transcript": "[736.34 -> 777.52] 其实不知道同学们有没有发现老师在这里画了一弯弯月而不是圆月就是希望大家在看到世事浮沉的时候也能心如明镜来通过自己的努力自己的选择来收获自己人生的圆月那么在课堂的最后老师给大家布置了课后作业许有余力的同学可以完成我们的基础作业许有余力同学可以完成我们的提高作业来比较意向的不同并在总结分享会上进行汇报发言我的模拟上课到此结束同学们下课老师们辛苦了谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a slide with a title and bullet points.\n   - The slide layout includes a title at the top, followed by two main sections with bullet points underneath. The background is a light, possibly watercolor-style image.\n\n2. **Key Knowledge Items (Content View)**:\n   - The title on the slide reads: \"作业布置，课堂小结\" (Homework Assignment, Classroom Summary).\n   - The first section includes:\n     - A description of homework requirements, mentioning a 300-500 word essay.\n   - The second section includes:\n     - Instructions for a group presentation, emphasizing the use of multimedia and a 10-minute duration.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the screen, holding papers, and gestures towards the slide content.\n   - The teacher points to the title and sections on the slide, likely emphasizing the importance of the homework and presentation tasks.\n   - The teacher occasionally looks at the students, possibly to ensure they are paying attention to the summary points.\n\n4. **Transition to Next Step**:\n   - The slide includes specific instructions for homework and a group presentation, indicating the next steps for the students.\n   - The homework section specifies the word count and submission requirements, while the presentation section outlines the format and duration.\n\nThis structured visual summary helps consolidate the lesson's key points and directs students on their next tasks.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"作业布置，课堂小结\" prominently displayed on the digital screen. The teacher stands in front of the screen, holding papers, and systematically reviews the content. He points to the title, ensuring students recognize the dual focus on homework and the lesson summary. Moving through the slide, he gestures towards the first section, highlighting the homework requirements, which include a 300-500 word essay. He then directs attention to the second section, emphasizing the group presentation instructions, noting the use of multimedia and a 10-minute duration. The teacher's deliberate pointing and pauses on each section underscore the importance of these tasks. The slide itself serves as a clear visual handover, outlining the next steps for the students, with specific details about the homework and presentation format clearly visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Homework Assignment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[736.34 -> 777.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Classroom Summary",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[736.34 -> 777.52]"
+      },
+      {
+        "id": "c3",
+        "label": "300-500 Word Essay",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[736.34 -> 777.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Group Presentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[736.34 -> 777.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Use of Multimedia",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[736.34 -> 777.52]"
+      },
+      {
+        "id": "c6",
+        "label": "10-Minute Duration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.34 -> 777.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Final Visual Summary Slide",
+        "type": "Visual",
+        "original_text": "Homework Assignment, Classroom Summary",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Slide",
+        "type": "Visual",
+        "original_text": "Title and bullet points on watercolor-style background",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide provides a visual representation of the homework instructions."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide outlines the key points of the lesson summary."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Homework assignment involves writing a 300-500 word essay."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Homework assignment includes a group presentation component."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The presentation requires the use of multimedia tools."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The presentation has a specific duration requirement of 10 minutes."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The classroom summary includes instructions for upcoming assignments."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The visual slide encourages student engagement with the content."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Homework assignment motivates students to reflect on and summarize learned material."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "44_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the calculation of kinetic friction and its application in force analysis.",
+  "transcript": "[595.7 -> 805.08] 好老师看到同学们已经完成了那么我想请一位同学来进行分析一下好这位男生有请当我们想要研究这个问题的时候如果我们想研究首先要干嘛建立坐标系那在这个过程之中你会怎么建立坐标系标系呢就是把运动方向设置为正方向好非常不错那在这个过程之中有可能冰壶的运动是不是不是直线啊对但在这个过程之中我们假设它是一个直线那么我们把它运动的方向设置为正方向建立一维坐标系请坐那么已经建立好坐标系了我们接下来具体的进行分析根据刚才的思路首先对冰壶进行受力分析好这位同学冰壶受到一个受到支持力然后重力然后一个摩擦力好请坐那老师再请一位同学来回答一下好这位同学摩擦力的方向与物体运动的方向相似这个摩擦力是动摩擦还是静摩擦动摩擦那动摩擦力的计算公式是什么MUFN这个FN是它的镇压力好那根据这个我们体干之中的信息可以进行列出来这个摩擦力的表达式式子就是这样的那接下来我们现在已经知道了力接下来怎么办根据女儿定律求减加速度老师想请一位同学来回答一下好这位女生根据女儿定律请你列出来这个式子是什么A等于负的六FN除M好请坐非常好已经答得不错了那我们来看一看根据刚才同学的回答我们现在求解出来了加速度那问题让我们求的是什么冰壶运动了多远那该怎么办呢运动方程用哪个呢我们知道的有现在有知道了加速度又知道了它的出速度我们用的是非常的好同学们对之前知识掌握得很不错了看来那带入数据我们就可以求解出来具体的滑行了具体的了那请同学们现在来带入数据算一算注意单位我的片段教学到此结束恳请各位老师批评指正。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains handwritten notes and diagrams, while the slide displays a structured layout with diagrams and text.\n   - The slide is divided into sections with headings and diagrams illustrating concepts related to levers and force analysis.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - Main heading: \"§4.5 杠杆运动定律的应用\" (Application of the Lever Motion Law)\n     - Subheadings: \"思路\" (Approach), \"运动情况\" (Motion Situation), \"力\" (Force)\n     - Formula: $F_1 \\times l_1 = F_2 \\times l_2$\n   - **Slide**:\n     - Diagrams showing lever setups with labeled forces and distances.\n     - Text explaining the analysis of forces and motion situations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagrams on the slide, emphasizing the lever setups and force analysis.\n   - She gestures towards the blackboard, highlighting the formula $F_1 \\times l_1 = F_2 \\times l_2$ and the subheadings.\n   - The teacher uses hand movements to trace the relationships between forces and distances in the diagrams.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content through gestures and pointing to key areas on the slide and blackboard.",
+  "visual_narrative": "The lesson concludes with a slide displaying diagrams and text summarizing lever concepts. The teacher visually reviews the content by pointing to each diagram in sequence, emphasizing the relationships between forces and distances. She highlights the blackboard formula $F_1 \\times l_1 = F_2 \\times l_2$, reinforcing the core takeaway. The visual focus remains on the key concepts, with no explicit homework or next-step instructions visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Kinetic Friction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Force Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Lever Motion Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Lever Setup",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c5",
+        "label": "Force Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Motion Situation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.7 -> 805.08]"
+      },
+      {
+        "id": "c9",
+        "label": "Static View Blackboard",
+        "type": "Visual",
+        "original_text": "Handwritten notes and diagrams",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Slide Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams with forces and distances",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answers",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Kinetic friction contributes to force analysis."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Lever motion law includes force equations."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Slides illustrate lever setups."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Blackboard displays key force equation."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Motion situation relies on coordinate system."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Acceleration is determined in force analysis."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "answering",
+        "intent": "Student engages by discussing kinetic friction."
+      },
+      {
+        "source": "s2",
+        "target": "c10",
+        "relation": "engaged",
+        "intent": "Students are engaged with visual slide content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

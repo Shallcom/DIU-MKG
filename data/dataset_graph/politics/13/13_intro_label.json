@@ -1,0 +1,152 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "- Understand the basic significance of activity‑based subject curriculum teaching  \n- Master methods for pre‑class preparation and material collection  \n- Learn to design interactive activities for the classroom",
+  "transcript": "[0.0 -> 75.18] 对活动型学科课程教学的理解我将会从以下三方面说一说我的理解第一课前做好准备我会通过提前了解学生们的学习情况然后引导学生们搜集相关的实证资料去网上搜集与本节课相关的各种各样的信息第二课中积极互动我会开展多种多样的活动比如说小组讨论比如说活动操演等让学生们积极地参与到课堂中来以各种各样创新的形式帮助学生理解本节课的知识点。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the initial slide displayed on the screen, which features a red and yellow design with text in Chinese. The text reads: \"正确认识中国特色社会主义\" (Correctly Understanding Chinese Socialism).\n\n#### 2. **The Title Event**\n- The title on the blackboard is written in Chinese characters. The teacher did not write it during the video; it was already present. The title is located on the left side of the blackboard.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or blackboard during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with their left hand, pointing towards the blackboard and the screen.\n- The teacher's right hand is used to emphasize points, sometimes gesturing in the air to highlight concepts.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring the competition's name and the number \"10th\" prominently displayed.\n- Transition to the classroom where the teacher stands in front of a blackboard and a screen displaying the initial slide.\n\n**Middle:**\n- The teacher stands at the podium, holding papers, and begins speaking.\n- The teacher gestures with their left hand, pointing towards the blackboard, which has some text and diagrams.\n- The screen displays the slide with the title \"正确认识中国特色社会主义\" (Correctly Understanding Chinese Socialism).\n\n**End:**\n- The teacher continues to speak, using hand gestures to emphasize points.\n- The blackboard remains unchanged, with the initial text and diagrams visible.\n- The screen continues to display the same slide throughout the segment.\n\n### Summary\nThe introduction phase of the lesson is initiated with a slide titled \"正确认识中国特色社会主义\" (Correctly Understanding Chinese Socialism). The teacher uses hand gestures to engage with the content, pointing towards the blackboard and screen. The blackboard contains pre-written text and diagrams, which the teacher references during the introduction. No specific learning objectives are displayed, and the focus remains on the introductory slide throughout the segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, holding papers, and facing a classroom. The initial visual stimulus is the slide on the screen, prominently displaying the title \"正确认识中国特色社会主义\" (Correctly Understanding Chinese Socialism), serving as the hook to capture attention. The teacher gestures with their left hand, occasionally pointing towards the blackboard, which features pre-written text and diagrams, though the specifics are not detailed. The slide remains static throughout, maintaining focus on the introductory theme. As the teacher speaks, they use hand movements to emphasize points, sometimes gesturing towards the screen to reinforce the topic. The transition from the hook to the main topic is seamless, as the slide and blackboard content remain consistent, providing a visual anchor. The teacher's gestures and references to the board and screen help bridge the introduction to the broader discussion, linking new concepts to the students' existing understanding by visually reinforcing key themes. This approach sets the stage for deeper exploration of the subject matter, ensuring students are oriented towards the lesson's objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Activity-Based Curriculum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 75.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Pre-Class Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 75.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Material Collection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 75.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Interactive Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 75.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Online Information",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 75.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Understanding Chinese Socialism Slide",
+        "type": "Visual",
+        "original_text": "Correctly Understanding Chinese Socialism",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "正确认识中国特色社会主义 (Correctly Understanding Chinese Socialism)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Diagrams on Blackboard",
+        "type": "Visual",
+        "original_text": "Unspecified pre-written text and diagrams",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c6",
+        "label": "Group Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 75.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Activity Rehearsal",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 75.18]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Activity-based curriculum involves pre-class preparation."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Activity-based curriculum includes designing interactive activities."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Pre-class preparation involves material collection."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Material collection involves gathering online information."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Interactive activities include group discussions."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Interactive activities include activity rehearsal."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of the lesson is visualized through the socialism slide."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard title supports the lesson theme."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Unspecified diagrams and text aid the design of interactive activities."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with activity-based curriculum methods."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,126 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the importance of classroom discipline in physics learning; analyze classroom management measures in different teaching contexts.",
+  "transcript": "[0.0 -> 57.9] 字幕志愿者杨栋梁老师们好我出道的即兴讲演题目是在物理课上老师发现王同学在看化学书然后将他立即请出了教室你怎么看然后针对这样的问题首先我认为老师将他请出教室是怕他打扰到其他同学的学习影响课堂秩序第二是我认为在物理课上学化学是对老师的一个不尊重应该受到惩罚第三是如果我遇到这样的一个情况例如他在我的课堂上看其他科目那我就会把他的书没收然后课下把他叫到办公室告诉他在物理课上看别的科目是不尊重老师的表现应该改正并在以后的课堂上及时地他学习状态避免他再出现这样的问题我都会调暗批谢老师。\n[59.0 -> 60.0] 上课同学们好今天我们来学习。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen displaying the event name in Chinese and English: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (National Contest of Teaching Skills for Teacher-College Students). The number \"10th\" is prominently displayed in red, along with a graphic of a cityscape.\n\n#### 2. **The Title Event**\n- The teacher writes \"功率\" (Power) on the digital screen to the left of the blackboard. This is the initial visual focus as the lesson begins.\n- On the blackboard, the teacher writes \"03号\" (Number 03) and \"物理学组\" (Physics Group) vertically, indicating the lesson's identification and subject area.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this introduction phase.\n\n#### 4. **Key Gestures**\n- The teacher holds a piece of paper and gestures towards the blackboard, likely introducing the topic.\n- The teacher's hand movements are directed towards the written content, emphasizing the lesson's identification and subject.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring event information and a decorative border.\n- Transition to the classroom where the teacher stands in front of a blackboard and digital screen.\n- The digital screen displays \"功率\" (Power), setting the topic for the lesson.\n\n**Middle:**\n- The teacher writes \"03号\" (Number 03) and \"物理学组\" (Physics Group) on the blackboard.\n- The teacher holds a paper and gestures towards the blackboard, indicating the start of the lesson content.\n\n**End:**\n- The teacher continues to stand in front of the blackboard, maintaining focus on the written content.\n- The digital screen remains static, displaying the initial topic \"功率\" (Power).\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to specific visual elements on the board and screen.",
+  "visual_narrative": "Initially, the video presents a vibrant yellow title screen featuring the event name and the number \"10th\" in bold red, setting the stage for the competition. Transitioning to the classroom, the teacher stands before a blackboard and digital screen, holding a piece of paper. The digital screen prominently displays \"功率\" (Power), serving as the initial visual stimulus. To bridge to the main topic, the teacher writes \"03号\" (Number 03) and \"物理学组\" (Physics Group) on the blackboard, establishing the lesson's identification and subject area. The teacher gestures towards the blackboard, emphasizing the written content. Finally, the visual focus remains on the digital screen's \"功率\" (Power) and the blackboard's identifiers, establishing the lesson's goal and context. This introduction effectively links the competition theme to the specific physics topic, preparing students for the exploration of power within the broader framework of physics education.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Classroom Discipline",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 57.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemistry Book in Physics Class",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 57.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Respect for Teacher",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 57.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Classroom Order",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 57.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Corrective Measures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 57.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Cityscape Graphic",
+        "type": "Visual",
+        "original_text": "Cityscape design element on title screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Lesson Topic: Power",
+        "type": "Visual",
+        "original_text": "Digital screen displays 'Power'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Lesson Identifier",
+        "type": "Visual",
+        "original_text": "Blackboard shows 'Number 03' and 'Physics Group'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Establishes the need for maintaining discipline by avoiding distractions."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Shows that discipline involves respect towards the educator."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Highlights that maintaining discipline contributes to classroom order."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Emphasizes the need for corrective measures to instill respect."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The title screen graphics provide thematic context for the lesson."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Links the lesson topic with the classroom setting and identifiers."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "The display of 'Power' engages students with the lesson topic."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "The lesson identifiers focus student attention on lesson specifics."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

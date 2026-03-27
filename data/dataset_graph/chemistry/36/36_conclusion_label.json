@@ -1,0 +1,154 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "- Be able to correctly write the reaction products of carbon‑hydrogen bond cleavage in the benzene ring.  \n- Analyze the bond‑breaking process in benzene substitution reactions.  \n- Understand the role of concentrated sulfuric acid as a catalyst in benzene substitution reactions.",
+  "transcript": "[669.6 -> 739.16] 请回非常好请回同学们都书写正确了吗看到同学们都书写正确了为这位同学掌声在哪里那我们进一步从断剑的角度来分析一下这个实验啊我们发现这位同学写的产物是什么秀文他的名称叫秀本发现是应该如何反应的啊是不是苯环巷的碳氢键断裂锈锈键断裂其中一个锈去找了碳这个氢去找了锈而形成的这样的产物啊那么接下来同学们在课后思考在浓硫酸的作用下苯还可以发生消化反应这个反应呢化学方式是什么呢又是怎样的呢它的断剑过程又是什么呢我们下节课一起交流讨论这节课就上到这儿同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard, which contains chemical structures and equations. The board is divided into sections with different chemical formulas and reactions.\n   - The right side of the board features a chemical reaction involving benzene derivatives, including $\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_3$ and $\\text{Br}_2$.\n   - The left side shows a complex organic molecule with annotations in Chinese characters.\n\n2. **Key Knowledge Items (Content View)**:\n   - Chemical structures: $\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_3$, $\\text{Br}_2$, $\\text{FeBr}_3$, $\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_2\\text{Br}$.\n   - Reaction equation: $\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_3 + \\text{Br}_2 \\xrightarrow{\\text{FeBr}_3} \\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_2\\text{Br} + \\text{HBr}$.\n   - Chinese annotations related to the reaction mechanism and conditions.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical structures on the board, specifically highlighting $\\text{Br}_2$ and the product $\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_2\\text{Br}$.\n   - She gestures towards the reaction arrow, emphasizing the transformation process.\n   - The teacher circles the final product to draw attention to the outcome of the reaction.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with text in Chinese, which includes a message thanking the students and encouraging them to ask questions. This suggests the end of the lesson.\n   - There is no explicit homework or assignment slide visible, but the concluding message implies readiness for the next session or further inquiries.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the green chalkboard prominently displaying chemical structures and a reaction equation involving benzene derivatives. The teacher visually reviews the key points by pointing to the reactants, specifically highlighting $\\text{Br}_2$ and the product $\\text{C}_6\\text{H}_5\\text{CH}_2\\text{CH}_2\\text{Br}$. She traces the reaction arrow, emphasizing the transformation process. To mark the core takeaway, she circles the final product, drawing attention to the outcome of the reaction. The screen beside the board shows a concluding message in Chinese, indicating the end of the lesson and encouraging questions, but no explicit homework or next-step instructions are visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Benzene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept2",
+        "label": "Carbon-Hydrogen Bond Cleavage",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept3",
+        "label": "Concentrated Sulfuric Acid Catalyst",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept4",
+        "label": "Bromine Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept5",
+        "label": "FeBr3 Catalyst",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept6",
+        "label": "Reaction Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept7",
+        "label": "Electrophilic Substitution Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "concept8",
+        "label": "Chinese Reaction Annotations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.6 -> 739.16]"
+      },
+      {
+        "id": "visual1",
+        "label": "Green Chalkboard",
+        "type": "Visual",
+        "original_text": "Chemical structures and equations on the green chalkboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual2",
+        "label": "Benzene Derivatives",
+        "type": "Visual",
+        "original_text": "Chemical reaction involving benzene derivatives including C6H5CH2CH3 and Br2.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual3",
+        "label": "Organic Molecule with Annotations",
+        "type": "Visual",
+        "original_text": "Complex organic molecule with annotations in Chinese characters.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual4",
+        "label": "Chemical Reaction Equation",
+        "type": "Visual",
+        "original_text": "C6H5CH2CH3 + Br2 → C6H5CH2CH2Br + HBr",
+        "ocr_corrected": false
+      },
+      {
+        "id": "student_state1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept2",
+        "target": "concept4",
+        "relation": "includes",
+        "intent": "Describes the bond cleavage process in the bromine reaction."
+      },
+      {
+        "source": "concept3",
+        "target": "concept7",
+        "relation": "evolves_from",
+        "intent": "Sulfuric acid as a catalyst in substitution reactions exemplifies the electrophilic substitution process."
+      },
+      {
+        "source": "concept4",
+        "target": "visual2",
+        "relation": "visualizes",
+        "intent": "Depicts the specific chemical reaction with benzene derivatives."
+      },
+      {
+        "source": "concept5",
+        "target": "concept7",
+        "relation": "builds_upon",
+        "intent": "FeBr3 as a catalyst enhances the substitution mechanism."
+      },
+      {
+        "source": "concept6",
+        "target": "visual3",
+        "relation": "summarizes",
+        "intent": "Visual representation of reaction mechanisms with Chinese annotations."
+      },
+      {
+        "source": "visual1",
+        "target": "student_state1",
+        "relation": "scaffolds",
+        "intent": "The chalkboard provides a scaffold for student engagement."
+      },
+      {
+        "source": "student_state1",
+        "target": "concept1",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students think critically about benzene structures."
+      },
+      {
+        "source": "concept6",
+        "target": "concept8",
+        "relation": "includes",
+        "intent": "The mechanism includes annotations in Chinese."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

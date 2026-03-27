@@ -1,0 +1,127 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Master the derivation and application of the distance formula between two points; understand how plane vectors are used in geometric problems.",
+  "transcript": "[0.0 -> 120.12] 首先需要做到两个过关以及两个热爱首先第一个就是专业知识方面的过关我们只有专业知识方面了于执掌学生在问我们问题的时候呢我们才能很快地反映出他到底是哪个方面存在着不足我们才能针对这个方面去更好地展开我们后续的教学第二个就是教学教学方法方面的观念我们虽然学会了知识但是不会怎么样把它传授出去的话这样对于学生他接受知识也是一个困难的地方所以呢我们不仅要知识过关我们还要教资教法这个方面的过关然后就是两个热爱第一个就是首先我们要热爱学生只有带着爱去看待学生呢我们才能很好地发现学生身上的不足也以及缺点然后才能很好地去带领他们去学习数学专业知识或者其他方面生活方面上的知识第最后一个关爱呢就是我们要热爱教育数学的这一门教育事业我们常说兴趣就是一门最好的老师所以只有我们带着这一份热爱我们才能很好地根植于这个教育事业的行业才能去对付我们后续的发展发展才能让我们很好地坚持下来以上就是我即席演讲的内容。\n[121.62 -> 139.6] 下面开始我的模拟授课环节今天我试讲的题目呢是选字选数学的选修一的第二章第三节第二小节两点间的距离公式下面开始我的试讲。\n[140.82 -> 182.857675] 好那我们来看老师如果想求这一位学生和这一位学生它们两点之间的距离我们有什么办法可以求呢在初中的时候应该有学过或者我们数学的必修二中也有提到过一个方法呢就是我们的平面向量那我们接下来看一下用像样的方法去怎么求这两点之间的距离好我们读题已知如图呢在平面内两点间P一是X一Y一P二呢是S二Y二让我们求两点间的距离用像样的方法我们应该怎么求诶我们首先是要是不是写出连接两点P一和P二然后呢我们呢我们首先是要是不是写出连接两点P一和P二然后呢那么写出用坐标坐标运算写出P一和P二的坐标就是S二减S一纵坐标是Y二减Y一好那么求向量的长度是不是就是求它的膜的长度啊那么求膜长我们就把它先把它平方然后呢再开方这样子就得到了P一和P二的长度那么这一个呢也就是我们今天所要学习的第一个重点两点间的距离公式。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a green chalkboard and a digital screen. The initial visual focus is on the digital screen displaying the title \"2.3.2 两点间的距离\" (Distance between two points).\n\n#### 2. **The Title Event**\n- The title \"2.3.2 两点间的距离公式\" (Distance formula between two points) is prominently displayed on the digital screen. The teacher gestures towards the screen, emphasizing the title without writing it on the chalkboard.\n\n#### 3. **The Objectives**\n- The screen transitions to a slide with the heading \"一、情境导入 - 探究计划\" (Context Introduction - Investigation Plan). The slide includes a diagram with points \\( P_1 \\) and \\( P_2 \\) on a coordinate plane, indicating the lesson's focus on calculating distances between points.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize the title on the screen, pointing towards the text and diagram.\n- She moves her hands in a manner that suggests explaining the concept, possibly indicating the axes or points on the coordinate plane.\n\n### Chronological Log of Visual Events\n\n1. **Introduction Phase**\n   - The teacher stands in front of the chalkboard and digital screen. The screen displays \"2.3.2 两点间的距离\" (Distance between two points).\n   - The teacher gestures towards the screen, highlighting the title.\n\n2. **Title Emphasis**\n   - The screen updates to show \"2.3.2 两点间的距离公式\" (Distance formula between two points). The teacher points to the title, ensuring students focus on it.\n\n3. **Context Introduction**\n   - The screen transitions to a slide titled \"一、情境导入 - 探究计划\" (Context Introduction - Investigation Plan).\n   - The slide features a coordinate plane with points \\( P_1 \\) and \\( P_2 \\). The teacher gestures towards the diagram, likely explaining the setup for calculating distances.\n\n4. **Teacher Interaction**\n   - The teacher uses hand movements to emphasize key elements of the diagram, possibly tracing the axes or pointing to specific points to illustrate the concept of distance calculation.\n\n### Summary\nThe lesson introduction effectively uses both the chalkboard and digital screen to engage students. The teacher's gestures are aligned with the visual content, guiding students through the title and initial concepts of distance calculation on a coordinate plane. The structured layout of the slides and the teacher's emphasis on key visual elements create a clear pathway for understanding the lesson objectives.",
+  "visual_narrative": "Initially, the teacher stands before a green chalkboard and a digital screen displaying the title \"2.3.2 两点间的距离\" (Distance between two points), setting the initial visual focus. To bridge to the main topic, the teacher gestures towards the screen, emphasizing the title without additional writing on the chalkboard. The visual aid then transitions to a slide titled \"2.3.2 两点间的距离公式\" (Distance formula between two points), where the teacher points directly at the text to highlight its importance. Finally, the screen shifts to a slide titled \"一、情境导入 - 探究计划\" (Context Introduction - Investigation Plan), featuring a coordinate plane with points \\( P_1 \\) and \\( P_2 \\). The teacher uses hand gestures to direct attention to the diagram, likely illustrating the foundational concept of calculating distances. This structured introduction connects the new topic to students' existing knowledge of coordinate geometry, preparing them for the exploration of distance formulas and their applications.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Distance Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[121.62 -> 139.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Plane Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.82 -> 182.857675]"
+      },
+      {
+        "id": "c3",
+        "label": "Coordinate Plane",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.82 -> 182.857675]"
+      },
+      {
+        "id": "c4",
+        "label": "Point P1",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.82 -> 182.857675]"
+      },
+      {
+        "id": "c5",
+        "label": "Point P2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[140.82 -> 182.857675]"
+      },
+      {
+        "id": "c6",
+        "label": "Vector Length",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[140.82 -> 182.857675]"
+      },
+      {
+        "id": "c7",
+        "label": "Vector Modulus",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[140.82 -> 182.857675]"
+      },
+      {
+        "id": "v1",
+        "label": "Distance Formula Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying the distance formula between two points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Investigation Plan Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Context Introduction - Investigation Plan' with points P1 and P2 on a coordinate plane.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the distance formula being taught."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide shows a coordinate plane to illustrate the concept of distance calculation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Points P1 and P2 are specific examples on the coordinate plane."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Calculating vector length involves understanding vector modulus."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The concept of plane vectors is foundational for understanding the distance formula."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The introduction of the distance formula engages students in the learning process."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding the coordinate plane is essential for applying plane vectors."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

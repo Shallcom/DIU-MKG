@@ -1,0 +1,177 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the mechanisms of antibody production and its quantitative changes within the immune system; master data visualization and trend‑analysis techniques by analyzing antibody‑level change graphs.",
+  "transcript": "[545.66 -> 605.54] 那同学们我们再回忆一下当同一种流感病毒第一次入侵我们人体是不是很迅速马上就能够产生免疫反应比如我们打喷嚏咳嗽这就是出现了抗体那当我们痊愈之后这个病毒的抗体会消失吗它是不是再也不会出现在我们体内呢好像不是那请同学们来在你的任务单上尝试画出第一次和第二次抗体进入会是怎样的数量变化图呢可以大胆尝试来我们来想一想哦可是从您开始的这边的同学呀也可以相互讨论想一想是怎样的变化曲线。\n[618.72 -> 650.1] 我看到同学们都在认真地绘图好像有同学已经得出结果了老师想将同学们的作品展示在黑板上我们来一起看一看。\n[663.28 -> 677.56] 同学们我们来看同学们都是从零开始但是两组同学第一个不同的点出现了这组同学是从第一次侵入的时间开始。\n[678.56 -> 680.56] 从您开始的对不对。\n[681.68 -> 688.12] 那大家想一想我们是一侵入之后就产生还是在侵入之前就产生了呢。\n[689.42 -> 767.26] 侵入之后才会产生抗体对不对那证明这一组同学是正确的我们从第一次的时间开始产生抗体之后呢慢慢痊愈就会下降但是并没有消失同学们把这个点呀都注意得非常棒老师要给你们点个赞那我们再看第二次进入之后我们会以更快更迅速的这种准备时间来应对病菌对吧所以同学们呀都绘画出了不一样的曲线风图好那老师这里呢也展示出了其中一种但是这个是不是有点问题啊课后大家可以讨论交流那我们刚刚解决了免疫的问题就解决了我们生活中常见的生活现象那同学们呀在日常生活中也要加强锻炼提高身体免疫同时加强学习抵抗不良思潮的入侵课后大家可以再想一想完成作业我的片段教学到此结束谢谢各位同学谢谢各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram and text written in Chinese. The layout includes:\n     - A title at the top: \"免疫与计划免疫\" (Immunity and Planned Immunization).\n     - Two main sections labeled \"一.组成\" (1. Composition) and \"二.过程\" (2. Process).\n     - A diagram with a curve labeled \"站价\" (possibly a miswritten term, likely related to a graph or process).\n     - Two pieces of paper attached to the board with orange pins, possibly containing additional notes or diagrams.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings:\n     - \"一.组成\" (1. Composition)\n     - \"二.过程\" (2. Process)\n   - Diagram elements:\n     - A curve with labels indicating different stages or components.\n     - Arrows pointing from \"抗原\" (Antigen) to \"免疫记忆\" (Immune Memory) and \"抗体\" (Antibody).\n   - Text on the screen:\n     - A question in Chinese about the relationship between two variables in a graph.\n     - A statement about the immune process and its characteristics.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the curve to explain its significance.\n   - The teacher gestures towards the text on the blackboard, emphasizing the connections between \"抗原\" (Antigen), \"免疫记忆\" (Immune Memory), and \"抗体\" (Antibody).\n   - The teacher uses hand movements to highlight the flow of the process depicted in the diagram, likely explaining the sequence of events in immune response.\n\n4. **Transition to Next Step**:\n   - The screen displays text that may indicate further instructions or a summary of the lesson, but no explicit homework or assignment details are visible in the frames provided.\n   - The teacher's gestures suggest a conclusion, possibly preparing to move to the next topic or activity, but specific visual elements indicating this transition are not clearly shown.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying a diagram and key headings related to \"免疫与计划免疫\" (Immunity and Planned Immunization). The main summary artifact includes two sections: \"一.组成\" (1. Composition) and \"二.过程\" (2. Process), accompanied by a curve diagram illustrating the immune process. The teacher visually reviews the knowledge points by pointing to the diagram, tracing the curve to highlight its significance. She gestures towards the connections between \"抗原\" (Antigen), \"免疫记忆\" (Immune Memory), and \"抗体\" (Antibody), emphasizing the flow of the immune response. To mark the core takeaway, the teacher likely uses deliberate gestures to underscore the central elements of the diagram. While the screen shows additional text, no explicit homework or next-step instructions are visually highlighted in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Immune Response",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.66 -> 605.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Antibody Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[545.66 -> 605.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Antigen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[545.66 -> 605.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Immune Memory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.66 -> 605.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Antibody Levels",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[618.72 -> 650.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Planned Immunization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[689.42 -> 767.26]"
+      },
+      {
+        "id": "c7",
+        "label": "First Exposure",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[663.28 -> 677.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Second Exposure",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[689.42 -> 767.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Immune and Planned Immunization Diagram",
+        "type": "Visual",
+        "original_text": "Diagram and text showing immunity and planned immunization",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Antigen to Immune Memory Flow Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with arrows from Antigen to Immune Memory and Antibody",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Antibody Level Change Graph",
+        "type": "Visual",
+        "original_text": "Graph illustrating changes in antibody levels over time",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Drawing Antibody Graphs",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Discussing Graph Variations",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Antibody production is a key part of the immune response."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Antibody production contributes to the development of immune memory."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The presence of antigens is necessary for immune memory formation."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Antigens stimulate the immune response."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Antibody levels change following the first exposure to an antigen."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Antibody levels change following the second exposure to the same antigen."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Planned immunization is a part of understanding the immune response."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates the concept of planned immunization."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The flow diagram shows how antigens lead to immune responses."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The graph depicts changes in antibody levels over time."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to visualize and think about changes in antibody levels."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Students discuss and brainstorm variations in graph representations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

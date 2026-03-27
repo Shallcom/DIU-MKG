@@ -1,0 +1,147 @@
+{
+  "video_name": "25_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and geometric meaning of the point‑slope form of a line; master the method of deriving a line’s equation from the coordinates of two points.",
+  "transcript": "[502.24 -> 553.94] 在这里我们可以将这个P一的坐标带入到这个方程里面我们就得到了这样一个式子那么在这里我们同样可以讨论当X一等于X零的情况当X一等于X零的时候此时他们的Y一也是等于Y零的那就说明P一和P零的坐标是重合的也就是说这个P一在这个直线L上那么当X一不等于X零的时候呢请同学们自主思考一下。\n[559.64 -> 621.92] 来你来跟大家分享一下当X一不能用X零时两点之间是有一个斜率的这个斜率就是开到于Y一减Y零以上X一减X零也就是说当X一不能用X零的时候你是得出他们的斜率好非常棒请坐那同样我们在这里也可以得出K也就是K是等于Y一减去Y零比上X一减去X零的那么这儿的K值与我们原来直线的K值的斜率是一样的那就说明什么这两条直线它们的斜率都为K且都经过P零这个点那就说明点P一在这条直线上。\n[623.08 -> 644.22] 那通过刚刚我们就能够知道我们坐标满足关系式这个关系式的点一定是在直线上的并且直线上任意一点的坐标一定满足我们的关系式那在这里我们就给出点斜式方程的定义。\n[649.64 -> 669.361967] 也就是什么方程是Y减去Y零是等于K倍的X减去X零的因此我们将这样的方程叫做直线的点斜式方程那点斜式方程我们又如何来运用呢那下面请同学们观看一下这一道例题那这个例题就留到我们下一环节再来探究那么今天我们学习了什么内容呀我们通过生活的情境有什么有那个定我们给出了一个坐标的定值有什么特殊在这个过程当中我们体会了特殊到一般的重要数学思想好我的授课到此结束。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the equation on the blackboard: $y - y_1 = k(x - x_1)$. This equation was prominently displayed, and the teacher referred to it multiple times during the interaction.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the equation on the blackboard, specifically highlighting the variables $x_1$ and $y_1$. This action visually guided the student to consider these components in their response.\n- The teacher also gestured towards the projection screen, where a similar equation was displayed, reinforcing the connection between the blackboard content and the slide.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student provided an answer, the teacher nodded and smiled, indicating approval. She then proceeded to write additional notes on the blackboard, elaborating on the student's response by drawing a small diagram to illustrate the concept further.\n- The teacher circled the key part of the equation on the blackboard, emphasizing the correct application of the formula. This visual confirmation helped validate the student's input and clarified any potential misunderstandings.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Focus shifts to the equation $y - y_1 = k(x - x_1)$ on the blackboard.\n\n- **Middle:**\n  - Teacher points to $x_1$ and $y_1$ in the equation while the student responds.\n  - Teacher gestures towards the projection screen, linking it to the blackboard content.\n\n- **End:**\n  - Teacher nods and smiles, indicating approval of the student's response.\n  - Writes additional notes and draws a small diagram on the blackboard.\n  - Circles the key part of the equation to visually confirm the correct application.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students understand the application of the linear equation formula through guided visual cues and real-time feedback.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the equation $y - y_1 = k(x - x_1)$, a fundamental concept in linear equations. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem. This broad gesture signaled the start of an interactive session, focusing attention on the equation.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, pointing to the variables $x_1$ and $y_1$ to guide the student's thought process. Simultaneously, she gestured towards the projection screen, reinforcing the connection between the blackboard content and the visual aid. While the student elaborated, the teacher walked over to the board and jotted down key terms, visually mapping the student's explanation alongside the equation.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the critical part of the equation on the blackboard. This action emphasized the correct application of the formula. She then drew a small diagram to further illustrate the concept, ensuring clarity and reinforcing the student's understanding.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing an arrow from the newly added diagram to the main equation. This visual linkage helped students see the relationship between their response and the overarching lesson, moving them from passive reception to active construction of knowledge. Through these orchestrated gestures and visual cues, the teacher facilitated a dynamic and interactive learning experience, empowering students to build their understanding of linear equations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Point-Slope Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[502.24 -> 669.36]"
+      },
+      {
+        "id": "c2",
+        "label": "$y - y_1 = k(x - x_1)$",
+        "type": "Visual",
+        "original_text": "Equation shown on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Variables $x_1$, $y_1$",
+        "type": "Visual",
+        "original_text": "Highlighted variables on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Slope Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[559.64 -> 644.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Coordinates of Two Points",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[502.24 -> 553.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher's Broad Gesture",
+        "type": "Visual",
+        "original_text": "Sweeping gesture towards class",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c8",
+        "label": "Diagram of Line Equation",
+        "type": "Visual",
+        "original_text": "Small diagram drawn on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Approval Gesture",
+        "type": "Visual",
+        "original_text": "Teacher nods and smiles",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Connection to Projection Screen",
+        "type": "Visual",
+        "original_text": "Gesturing to screen while discussing equation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Direct Application to Example",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[649.64 -> 669.36]"
+      },
+      {
+        "id": "c12",
+        "label": "Interactive Segment Start",
+        "type": "Visual",
+        "original_text": "Class invited to participate",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Variables are emphasized during the explanation of the equation."
+      },
+      {
+        "source": "c6",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Gesture signals the start of interaction."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Slope definition is built upon understanding of point coordinates."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Point-slope form includes the principle of slope definition."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "praises_response",
+        "intent": "Teacher approves of student's correct answer through gesture."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Projection is used to further scaffold understanding of the equation."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Diagram aids in visualizing the direct application of the equation to examples."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Direct application procedure is built upon the understanding of point-slope form."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

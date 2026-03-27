@@ -1,0 +1,140 @@
+{
+  "video_name": "23_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the significance and mathematical expression of frequency stability; learn to describe the probability of an event using mathematical language.",
+  "transcript": "[622.92 -> 629.4] 我们这把它称为频率的稳定性也就是我们今天学的主要内容。\n[630.62 -> 637.46] 那频率的稳定性我们是怎么定义的呢我们不妨用数学语言来表述一下。\n[639.5 -> 660.4] 一般的对于世界随着世界次数N的增多我们世界发生的频率可以计为F它是逐渐逐渐趋近于逐渐稳定于我们把它计为稳定于。\n[669.5 -> 733.18] P也就是这个事件发生的概率我们得到一般性能定义一般的随着事件N次数增大频率频离概率的幅度会越来越小杠杆的图也显示了那么这句话转化为数学语言就是事件A发生的频率FNA会逐渐稳定于事件A发生的概率我们就把频率这样的一种性质就叫做频率的稳定性也就是说我们通过刚刚的实验分析啊一起研究了从不确定到确定那么我们要用数学的眼光去观察和分析问题要学会用数学的思维思考并解决问题那么对于频率的稳定性它又如何应用呢我们将在下一个环节进行讲解。\n[734.62 -> 737.98] 感谢各位朋友老师我的模拟授课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains the title \"10.3.1 概率的稳定值\" and the formula $P(A) = \\frac{1}{2}$, along with the phrase \"频率一稳定性\".\n   - The presentation slide displays a graph and text explaining the stability of frequency, with a section titled \"频率的稳定值\".\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Title: \"10.3.1 概率的稳定值\"\n     - Formula: $P(A) = \\frac{1}{2}$\n     - Phrase: \"频率一稳定性\"\n     - Definition: \"定义: 频率的稳定值 $P(A)$\"\n   - Slide:\n     - Title: \"频率的稳定值\"\n     - Graph showing frequency stability\n     - Text explaining the concept of frequency stability\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $P(A) = \\frac{1}{2}$ on the blackboard, emphasizing its significance.\n   - The teacher gestures towards the phrase \"频率一稳定性\" to highlight the concept.\n   - The teacher uses hand movements to indicate the definition section on the blackboard, reinforcing the explanation.\n   - The teacher points to the slide, particularly the graph and explanatory text, to summarize the key points visually.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content without transitioning to next steps.",
+  "visual_narrative": "The lesson concludes with a blackboard and slide summarizing the concept of frequency stability. The teacher visually reviews the content by pointing to the formula $P(A) = \\frac{1}{2}$ and the phrase \"频率一稳定性\" on the blackboard, emphasizing their importance. The presentation slide, titled \"频率的稳定值,\" is highlighted as the teacher gestures towards the graph and explanatory text, reinforcing the key points. The final emphasis is placed on the definition section, with the teacher using hand movements to underscore the stability concept. No visual handover to homework or next steps is present, focusing solely on the lesson's core takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Frequency Stability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[622.92 -> 629.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Mathematical Language",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[630.62 -> 637.46]"
+      },
+      {
+        "id": "c3",
+        "label": "World Frequency View",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[639.5 -> 660.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Probability Stability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.5 -> 733.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Event Probability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.5 -> 733.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Frequency Formulation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[639.5 -> 660.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Mathematical Interpretation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[639.5 -> 733.18]"
+      },
+      {
+        "id": "c8",
+        "label": "Stable Frequency Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[622.92 -> 629.4]"
+      },
+      {
+        "id": "c9",
+        "label": "P(A) = 1/2",
+        "type": "Visual",
+        "original_text": "Blackboard formula representing event probability.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Frequency Stability Graph",
+        "type": "Visual",
+        "original_text": "Slide showing frequency stability graph.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Engaged Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains how frequency stability implies probability stability."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Core formula supporting the concept of frequency stability."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Probability stability based on event probability calculation."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Uses mathematical interpretation to frame frequency view."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Mathematical language formulation of frequency."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Defines frequency stability."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Graphical representation of frequency stability concept."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students with the review of frequency stability."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

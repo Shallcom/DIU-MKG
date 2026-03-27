@@ -1,0 +1,120 @@
+{
+  "video_name": "16_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Guide students to focus on their personal growth experiences; develop students’ ability to record and share growth stories; enhance students’ independent thinking and innovation abilities.",
+  "transcript": "[0.0 -> 129.74] 学生为主体教师呢要引导学生学生他们学习方式的转变以及学习能力的提高其次呢我们要培养的是品学兼优的学生要培养的是身心健康的学生并且呢我们要学生在独立思考以及创新这方面的能力的提升并且我们要培养的是多方面发展具有多方面发展能力的学生那最后呢学生是祖国的花朵是民族未来的希望我们教师呢就要保护好学生教育好学生这是我们的职责所在这就是我以上几席讲演的全部内容接下来是我的模拟上课环节上课同学们好同学们我们现在呢都处在青春成长的道路上那请你回忆一下你遗忘的青春岁月你对此有没有印象很深刻的事或者人呢我们呢准备举办有关成长的故事分享会请你呢回忆自己印象最深的一件事或者一个人哪些人来将他们写下来记录下来并跟同学们一起分享那在此之前呢我们就一起先来聆听一下大卫他的故事请同学们先快速浏览一下课文。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed the text \"大卫·格里菲斯\" (David Griffiths) in a centered format with a horizontal line above and below the text. This likely served as the introduction to the lesson.\n\n#### 2. **The Title Event**\n- The title \"大卫·格里菲斯\" was shown on the screen. The teacher did not physically write it but presented it on the digital screen. No specific action like underlining was observed.\n\n#### 3. **The Objectives**\n- The slide titled \"成长·故事分享会\" (Growth · Story Sharing Session) included a paragraph of text. Specific bullet points for learning objectives were not visible, but the content focused on sharing stories and experiences.\n\n#### 4. **Key Gestures**\n- The teacher held papers and occasionally gestured with her hands while speaking, likely emphasizing points in the text on the screen.\n- No specific gestures like pointing to particular words or images were observed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom and stands in front of the screen displaying \"大卫·格里菲斯.\"\n- The teacher holds papers and begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize points.\n- The screen transitions to \"成长·故事分享会,\" with a paragraph of text visible.\n- The teacher gestures with her hands, possibly highlighting key ideas in the text.\n\n**End:**\n- The teacher maintains her position in front of the screen, continuing to engage with the content displayed.\n- No additional visual changes or gestures are noted beyond the initial presentation and explanation.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, focusing on the teacher's actions and the displayed content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase began with the teacher standing in front of a screen displaying the text \"大卫·格里菲斯,\" serving as the initial visual hook. The teacher, holding papers, initiated the lesson by engaging with the content on the screen. As the session progressed, the visual aid transitioned to a slide titled \"成长·故事分享会,\" accompanied by a detailed paragraph of text. This shift marked the bridge from the hook to the main topic, focusing on sharing growth stories. Throughout this transition, the teacher used hand gestures to emphasize key points within the text, maintaining a connection with the content displayed. The introduction effectively linked the topic to the students' experiences by setting a narrative context, preparing them for a discussion on personal growth and storytelling, thus establishing a foundation for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Personal Growth",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 129.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Independent Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Innovation Abilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Storytelling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 129.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Mental and Physical Health",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Diverse Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 129.74]"
+      },
+      {
+        "id": "c7",
+        "label": "David Griffiths",
+        "type": "Visual",
+        "original_text": "Text 'David Griffiths' shown on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Growth Story Session",
+        "type": "Visual",
+        "original_text": "Text 'Growth Story Sharing Session' with paragraph",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Group Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Visualizes the concept of personal growth through storytelling session."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Independent thinking is enhanced by storytelling procedures."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Innovation abilities are fostered through storytelling and sharing."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Diverse development includes mental and physical health aspects."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "David Griffiths' introduction scaffolded the transition to growth stories."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Student reflection prompts collaborative brainstorming and story sharing."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

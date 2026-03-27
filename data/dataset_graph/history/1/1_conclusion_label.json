@@ -1,0 +1,126 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Identify and describe “Rich People Illustrated” and its discussions of women’s issues; analyze how the newspaper reflects gender attitudes in 1930s China.",
+  "transcript": "[678.5378 -> 738.04] 在下一页中我们看到了什么在第一段是不是有我们有新的报刊新的报纸老师最近也在做一个研究是关于这样一本报刊的研究这本报刊叫做富人画报我们从名字看它是一种了解女性生活的这样一种报刊也确实是如此啊这部报刊诞生于一九三三年啊最后一期发行于一九三七年在这样一个短暂的四年之间这份报纸上主要是登载了大量的女性的照片啊就这样一种模式在以往是难以想象的除此以外呢这份画报里面也有很多的关于女性问题的讨论比如说像就像刚才我们讲过的她与他这样的问题女性到底应不应该独立出来这样一个她字在这样一份画报中都有很大量很清晰的讨论好以上就是我本次上课的全部内容感谢各位评委老师的垂听。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"新文化运动简介\" (Introduction to the New Culture Movement).\n   - The slide contains a bullet list with four key points:\n     - 民主与科学 (Democracy and Science)\n     - 反对传统礼教 (Opposition to Traditional Teachings)\n     - 提倡白话文 (Advocacy for Vernacular Language)\n     - 文学革命 (Literary Revolution)\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords visible on the slide are:\n     - 民主与科学 (Democracy and Science)\n     - 反对传统礼教 (Opposition to Traditional Teachings)\n     - 提倡白话文 (Advocacy for Vernacular Language)\n     - 文学革命 (Literary Revolution)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point in order, likely emphasizing each key aspect of the New Culture Movement.\n   - The teacher gestures towards the entire list, possibly summarizing the main points covered in the lesson.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework, further reading, or the next lesson on the slide or board in the provided frames.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"新文化运动简介\" (Introduction to the New Culture Movement), displaying a bullet list of four key points: 民主与科学 (Democracy and Science), 反对传统礼教 (Opposition to Traditional Teachings), 提倡白话文 (Advocacy for Vernacular Language), and 文学革命 (Literary Revolution). The teacher points to each bullet point in sequence, emphasizing the main aspects of the New Culture Movement. There is no visible indication of homework or next steps on the slide, focusing solely on the summary of the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Rich People Illustrated",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.5378 -> 738.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Women's Issues Discussion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.5378 -> 738.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Gender Attitudes in 1930s China",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.5378 -> 738.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Democracy and Science",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[738.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Opposition to Traditional Teachings",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[738.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Advocacy for Vernacular Language",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[738.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Literary Revolution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[738.04]"
+      },
+      {
+        "id": "v1",
+        "label": "New Culture Movement Slide",
+        "type": "Visual",
+        "original_text": "Introduction to the New Culture Movement slide with key points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Review Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The newspaper included discussions on women's issues."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "reflects",
+        "intent": "Rich People Illustrated reflected gender attitudes of its time."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the importance of Democracy and Science as part of the New Culture Movement."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the opposition to traditional teachings as part of the New Culture Movement."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the advocacy for vernacular language as part of the New Culture Movement."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the literary revolution as part of the New Culture Movement."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes key points on the slide to engage students."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The concept of Rich People Illustrated builds upon the gender attitudes within China during the 1930s."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

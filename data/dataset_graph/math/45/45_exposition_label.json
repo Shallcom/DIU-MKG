@@ -1,0 +1,132 @@
+{
+  "video_name": "45_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concepts of elementary functions and their derivatives; master the method of using the derivative definition to compute derivatives of elementary functions; be able to apply the fundamental properties of derivatives to solve related mathematical problems.",
+  "transcript": "[87.0 -> 134.86] 下面开始我的模拟授课环节上课同学们好我国著名数学家华罗根曾说过宇宙之大粒子之微探索数学乐趣无穷下面就让我们一起来探索五点一点二节基本初等函数。\n[137.4 -> 192.88] 在前面我们学习了基本初等函数并且知道很多复杂的函数都是通过对于这些函数进行加减乘除等运算得到的由此我们可以自然地联想到可以先求出基本初等函数的倒数再利用倒数及其运算法则来解决更加复杂的数学问题下面老师要请一位同学来回答如何求出基本初等函数的倒数你有什么方法呢。\n[194.38 -> 207.0] 这位同学请你来回答一下就是用对是不是通过导数的定义啊对很好请坐也就是我们可以通过导数的定义来求出基本初等函数的导数那么下面我们知道了根据导数的定义求函数Y等于FX导数就是这位同学所说的求出ZX趋于零时ZY比上ZX无间无限趋近于的那个定制下面就让我们一起来求一下几个常用函数的倒数吧首先来看一求解函数Y等于FX等于C的倒数同学们先思考一下。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"§5.2.1 基本初等函数的导数\" (Basic Elementary Functions Derivatives).\n- The teacher gestures towards the screen, indicating the topic of the lecture.\n- The chalkboard is initially blank except for some text on the left side.\n\n**Middle:**\n- The teacher writes \"5.2.1 基本初等函数的导数\" on the chalkboard, mirroring the slide content.\n- The teacher turns to the digital screen, which now displays a paragraph of text. She gestures towards the text, likely explaining its content.\n- The teacher uses hand gestures to emphasize points while speaking, pointing to different parts of the text on the screen.\n\n**End:**\n- The teacher continues to gesture towards the screen, ensuring students focus on the key points of the paragraph.\n- The chalkboard remains with the written title, while the screen shows the text for further discussion.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying the title \"§5.2.1 基本初等函数的导数\" and a paragraph of explanatory text.\n   - The chalkboard initially contains only the written title after the teacher's addition.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes the title \"5.2.1 基本初等函数的导数\" on the chalkboard.\n   - **Modifications**: None observed; the teacher does not erase or modify existing content.\n   - **Deictic Gestures**: The teacher points to the text on the screen while explaining, likely indicating specific sentences or phrases.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the text on the screen, possibly underlining key concepts verbally.\n   - The written title on the chalkboard serves as a visual reinforcement of the topic.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"§5.2.1 基本初等函数的导数\" alongside a digital screen presenting the same heading. The teacher began by writing the title on the chalkboard, establishing a visual anchor for the lesson. As the lecture progressed, the teacher constructed the foundational concept by mirroring the slide content on the board. She then turned to the digital screen, which revealed a detailed explanatory paragraph. Using deliberate gestures, she traced specific sentences, emphasizing key ideas within the text. For instance, her finger pointed to phrases discussing derivative rules, ensuring students focused on critical information. Throughout, the teacher's annotations on the board and gestures towards the screen worked in tandem, reducing cognitive load by reinforcing concepts through dual visual channels. Finally, she circled essential formulas and terms on the screen, highlighting the core takeaway of the lesson. This strategic use of visual emphasis aligned with the lecture's conclusion, ensuring students grasped the fundamental principles of basic elementary function derivatives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Basic Elementary Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[87.0 -> 134.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Derivative Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[194.38 -> 207.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Derivative Rules",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[137.4 -> 192.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Function Derivative",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[194.38 -> 207.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Elementary Function Derivatives",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[137.4 -> 192.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard Title",
+        "type": "Visual",
+        "original_text": "The teacher writes '5.2.1 Basic Elementary Functions Derivatives' on the chalkboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Paragraph",
+        "type": "Visual",
+        "original_text": "The digital screen displays detailed explanatory text on derivatives.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "The teacher uses hand gestures to point towards specific sentences.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Basic elementary functions form the foundation for understanding function derivatives."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Derivatives of functions are calculated using the definition of a derivative."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Derivative rules are part of the procedure for computing elementary function derivatives."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Elementary function derivatives include function derivatives calculated by rules."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The chalkboard title provides a visual representation of the lesson topic on elementary functions."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The digital screen text explains the derivatives of elementary functions."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures highlight critical points about derivative rules in the text."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student responding confirms understanding of the derivative definition."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures direct student focus towards understanding function derivatives."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,139 @@
+{
+  "video_name": "8_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Summarize the core knowledge points of this lesson; complete the basic post‑class assignment and, according to your interests, select an advanced or practical assignment.",
+  "transcript": "[595.321333 -> 606.76] 不要告诉他们上台来给大家做一个演示或者说你也可以选择用肢体语言表达也可以用语言来表达但是不能说出其中的字来时间交给你了我画吗可以我们认真来看啊那我还是不要面包也可以结合哎呀那我们画一个题目好不好自由对吧你这么的相当鼓励好我们请回啊相信啊通过我们刚刚的这个小游戏我们对了本节课的核心有一个更深入的了解\n[608.86 -> 620.94] 课下请同学们全部要完成基础作业同时呢根据自己的兴趣爱好来选择进阶和实践作业根据自己的兴趣去深入学习去尝试它\n[622.5 -> 654.42] 通过我们今天的学习呀希望同学们不仅学习到了科学文化知识还学习到了我们运动健儿们身上的英勇不屈的精神和顽强的毅力正如习近平主席曾说我们要有逢水佳桥遇山开路的精神希望同学们带着这样的信念去面对以后的人生成就更好的未来本节课就到这里下节课我们再会谢谢同学们",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the digital screen.\n   - The chalkboard contains handwritten notes in Chinese, including a list of key points.\n   - The digital screen displays a slide with a blue and white design, featuring a heading and text content.\n\n2. **Key Knowledge Items (Content View)**:\n   - Chalkboard:\n     - Heading: 细胞中的无机物 (Inorganic Compounds in Cells)\n     - Key points:\n       - 一、水和无机盐 (1. Water and Inorganic Salts)\n       - $\\text{H}_2\\text{O}$\n       - 无机盐 (Inorganic Salts)\n   - Digital Screen:\n     - Heading: 你说“我猜” (You Say, I Guess)\n     - Text content in Chinese, likely summarizing key concepts or instructions.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the chalkboard and screen, gesturing with her hands to emphasize points.\n   - She occasionally points towards the chalkboard, likely referring to the key points listed.\n   - Her gestures include open hand movements, possibly to engage the class in a discussion or review of the material.\n\n4. **Transition to Next Step**:\n   - The digital screen displays a slide with the text 你说“我猜” (You Say, I Guess), which may indicate an interactive activity or review game to consolidate the lesson.\n   - No explicit visual elements indicate homework or further reading, but the interactive slide suggests a transition to an engaging review activity.\n\nThis structured visual summary highlights the key elements of the lesson and the teacher's dynamic engagement with the class to reinforce learning.",
+  "visual_narrative": "The lesson concludes with a dual summary artifact, featuring both a chalkboard and a digital slide. The chalkboard displays key points under the heading 细胞中的无机物 (Inorganic Compounds in Cells), listing water and inorganic salts. The digital screen shows a slide titled 你说“我猜” (You Say, I Guess), indicating an interactive review activity. The teacher visually reviews the content by gesturing towards the chalkboard, pointing to each key point in sequence. Her dynamic hand movements emphasize the listed items, reinforcing the core concepts. The visual focus then shifts to the interactive slide, signaling a transition to an engaging review game, effectively wrapping up the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Inorganic Compounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.32 -> 654.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Water (H2O)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.32 -> 654.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Inorganic Salts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.32 -> 654.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Core Knowledge Points",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[622.50 -> 654.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Advanced Assignment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[608.86 -> 620.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Practical Assignment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[608.86 -> 620.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Inorganic Compounds in Cells",
+        "type": "Visual",
+        "original_text": "Inorganic Compounds in Cells",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Interactive Review Slide",
+        "type": "Visual",
+        "original_text": "You Say, I Guess",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Interactive Review Activity",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[595.32 -> 654.42]"
+      },
+      {
+        "id": "c10",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The broader category of inorganic compounds includes water as a key example."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The broader category of inorganic compounds includes inorganic salts as a key example."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Core knowledge points evolve from the understanding of inorganic compounds."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Advanced assignments evolve from core knowledge points."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Practical assignments evolve from core knowledge points."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The visual display on the chalkboard emphasizes inorganic compounds as a core concept."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "The interactive slide supports the review activity."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "The review activity engages students and prompts cognitive engagement."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding of inorganic salts builds upon the knowledge of water."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,127 @@
+{
+  "video_name": "5_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Analyze the author's use of illustrative examples as a method of argumentation; understand the application and advantages of the contrast technique between the soul and the cover; summarize the article’s main theme and the scientific spirit it reflects.",
+  "transcript": "[715.0 -> 722.06] 来旁边这位女生请进来这里也是引诱那么在这一段落作者又用了怎样的方法呢也是句与句之间的举例多方面多样化的角度举例为作者的观点以及他的说理奠定了一种方法来说是一种方法来说基础除此之外我们都知道这篇文章重点是在魂盖之针那么魂与盖之间作者又是怎么说的这位同学你能找到原文吗它有它是单个单个说的还是将这两者放在一起有说过它是先先说盖嗯他们两个放在一起这是运用了对比的方法对比比较的方法那么又有怎样的优势所在呢可以更鲜明地表达他们的不同之处也就是印证了我们这一个真字刘邪在文心雕龙中说过这样一句话坠闻者情动而辞发观文者批文以入情这虽然是一篇普遍性的科普性的文章但是从中我们也能够发现作者他的情感倾向情感价值。\n[723.74 -> 731.18] 就如这一句话同学们自有朗读说一说你能得出作者怎样的情感态度呢。\n[735.76 -> 770.88] 来请这位女生比如说我们一起齐读一下最后一句话现在没有想法没关系我们一起齐读我们完全有理由说预备齐我们完全有理由说文盖之争作为中国历史上最引人注目的史书文征之役将涌在中华文明发展的始祖里有想法吗丝毫的并且是肯定这样的科学发展的。\n[788.84 -> 816.84] 老师以一个拳头的形象来总结一下我们这堂课劳动人民们以及科学家们他们用双手论证用双手记载用双手奠定了科学发展思维交融的史册这不仅仅只是争论还体现了力争上游尊重科学的精神那么今天这堂课我们就上到这里同学们下课谢谢各位评委老师谢谢各位同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a mind map structure.\n   - The layout includes a central title \"天文史上的旷世之争\" (The Great Controversy in the History of Astronomy) with branches extending to key points.\n\n2. **Key Knowledge Items (Content View)**:\n   - Central Title: 天文史上的旷世之争\n   - Branches: \n     - 概述 (Overview)\n     - 竞争 (Competition)\n     - 道路曲折 (Tortuous Path)\n     - 关键词 (Keywords)\n     - 利用 (Utilization)\n     - 创造 (Creation)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each branch of the mind map, likely reviewing the content associated with each keyword.\n   - She gestures towards the screen, possibly summarizing the text displayed, which includes a detailed passage with highlighted sections.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the board or screen in the provided frames. The focus remains on the summary of the lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a mind map centered around the title \"天文史上的旷世之争.\" The teacher visually wraps up the lesson by pointing to each branch of the mind map, which includes key points such as \"概述,\" \"竞争,\" \"道路曲折,\" \"关键词,\" \"利用,\" and \"创造.\" She moves through these elements methodically, likely summarizing the content associated with each branch. The screen beside the blackboard shows a detailed passage, which the teacher gestures towards, possibly highlighting important sections. No strong emphasis actions like drawing boxes or underlining are observed, but the structured layout of the mind map serves as the core takeaway. There is no visible homework or next-step instruction presented in this final visual summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Illustrative Examples",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.0 -> 722.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Contrast Technique",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.0 -> 722.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Soul and Cover",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.0 -> 722.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Author's Emotional Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[723.74 -> 731.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Spirit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[735.76 -> 770.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Great Controversy in Astronomy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[788.84 -> 816.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Argumentation Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.0 -> 722.06]"
+      },
+      {
+        "id": "v1",
+        "label": "Mind Map on Blackboard",
+        "type": "Visual",
+        "original_text": "Mind map structure on blackboard centered around 'The Great Controversy in the History of Astronomy' with key branches.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Text Passage on Screen",
+        "type": "Visual",
+        "original_text": "Detailed passage with teacher highlighting important sections.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Illustrative examples as a method of argumentation."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Contrast technique applied between the soul and the cover."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Soul and cover discussion reflects a scientific spirit."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Visual representation of the discussion on the history of astronomy."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Text passage aids in understanding the author's emotional attitude."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students engaged in listening to illustrative examples."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The mind map summarizes the scientific spirit."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,136 @@
+{
+  "video_name": "37_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the relationship between net force and acceleration; understand experimental verification methods for Newton’s second law; be able to apply Newton’s second law to analyze real‑world problems.",
+  "transcript": "[674.0333 -> 716.0] MA所以在这里的F实际上应该是物体所受的合力非常好好那下来之后请同学们继续讨论力的单位就是我们刚才提到的如何去确定这个比例系数K然后在小组之间互相交流回到我们刚才的问题怎么样去提到歼二零的加速性能并将其做成课程报告交到上面来好这节课就上到这里我们来回顾一下这节课我们通过律性和力量相结合得出了什么扭断第二定律的基本内容。\n[722.06 -> 725.48] 好这节课就上到这里同学们再见。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which prominently displays the key concepts of the lesson.\n   - The layout includes the title \"牛顿第二定律\" (Newton's Second Law) at the top, with two main sections: \"定性\" (Qualitative) and \"定量\" (Quantitative).\n   - A diagram illustrating a force application scenario is present on the right side, with the equation $F = ma$ clearly written.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: 牛顿第二定律 (Newton's Second Law)\n   - Sections: 定性 (Qualitative) and 定量 (Quantitative)\n   - Equation: $F = ma$\n   - Diagram: A force application diagram with annotations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title \"牛顿第二定律\" to emphasize the main topic.\n   - She circles the equation $F = ma$ to highlight its importance.\n   - The teacher gestures towards the diagram, explaining the force application scenario depicted.\n   - She underlines the sections \"定性\" and \"定量\" to differentiate between qualitative and quantitative aspects.\n\n4. **Transition to Next Step**:\n   - The teacher briefly mentions \"强制性考试\" (Compulsory Exam) on the board, indicating a future assessment.\n   - No specific homework or further reading is visually displayed, but the mention of the exam suggests preparation for upcoming evaluations.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on Newton's Second Law. The teacher visually reviews the content by pointing to the title \"牛顿第二定律\" and circling the equation $F = ma$, reinforcing its significance. She gestures towards the qualitative and quantitative sections, underlining each to differentiate their roles. The visual focus shifts to the mention of a \"强制性考试,\" signaling preparation for an upcoming assessment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Net Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Newton's Second Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Force Unit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Proportional Constant K",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Qualitative Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Quantitative Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard summarizes Newton’s Second Law with qualitative and quantitative sections, including a force diagram and the equation F = ma.",
+        "ocr_corrected": true,
+        "timestamp": "[674.0333 -> 716.0]"
+      },
+      {
+        "id": "v2",
+        "label": "Compulsory Exam Mention",
+        "type": "Visual",
+        "original_text": "Mention of compulsory exam on the board indicating future assessment.",
+        "ocr_corrected": false,
+        "timestamp": "[716.0 -> 725.48]"
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[674.0333 -> 716.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Net force is a fundamental concept in understanding Newton's Second Law."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Acceleration is directly related to Newton's Second Law."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard provides a visual summary of Newton’s Second Law topics."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "includes",
+        "intent": "Students discuss the force unit as part of their group activity."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "includes",
+        "intent": "The proportional constant K is part of the students' discussion."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Newton’s Second Law includes qualitative analysis."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Newton’s Second Law includes quantitative analysis."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Mention of the exam motivates students to engage in the discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,185 @@
+{
+  "video_name": "49_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the basic features and periodicity of sine curves; be able to analyze and plot the graph of a sine function; reinforce understanding of periodicity and the induction formulas through practical exercises.",
+  "transcript": "[483.8 -> 602.6] 可以跟旁边同学讨论一下很好看到同学们都已经在自己的纸上操作了是不是都跟老师这样取了这样几个点并描述出来了呢那我们接下来来思考我已经把它描点描出来了那我要怎么绘制它的图像呢像我们之前学习二次函数初中的那些函数过程以及高中学的指数函数对数函数描点过后连线好那这几个点是不是不够啊那其实借助我们的信息工具几个画板老师也取了好几个点当然这几个点还是不够由于时间有限我们同学们回去以后还可以操作一下然后我们连接这个线这几个点是不是就可以得到这样一个光滑起伏的曲线那么我们就做出了它在领到二派上的图像是这样子的但接下来我们是要做出这个正弦函数的图像它的定义域是在二派二上的所以我们接下来要如何画出二上的这个正弦函数的图像呢同学们想想看有没有什么想法刚刚有同学已经提供思路了你来试试就是因为它是具有周期性的所以就是就可以继续往下平行周期就是就是接上去就可以非常好庆祝因为它是有周期性的所以其实我在零到二派上的图像跟我在二K派和二二括号K加一派上这个区间上的图像应该是一模一样的对不对这就利用了我们的诱导公式一三X等于三X加上二K派我们就可以再把它左右平移得出一个完整的正弦函数的图像就是这样一个光滑的图像那我们正弦函数的图像就叫做正弦曲线我先研究了Y的一个YX然后X的属于二但是我们首先先把它分割了那我们得到了它的一个定义就是正弦函数的图像这叫做正弦曲线。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the interactive whiteboard, directing students' attention to the visual content displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the mathematical graph displayed on the interactive whiteboard, specifically the sine wave graph labeled $y = \\sin x$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize key points on the graph. She pointed to specific parts of the sine wave, highlighting the amplitude and the periodic nature of the function.\n- The teacher also moved to the blackboard, where she wrote additional notes related to the sine function, providing visual cues to support the student's verbal explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by drawing a small checkmark next to the correct parts of the graph on the whiteboard.\n- She elaborated on the student's explanation by adding annotations to the graph, such as labeling the maximum and minimum points and the period of the sine wave.\n- The teacher also gave a nod and a smile, reinforcing the student's correct understanding visually.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Points to the interactive whiteboard displaying the sine wave graph.\n\n- **Middle:**\n  - Teacher gestures towards specific points on the sine wave, emphasizing amplitude and period.\n  - Writes additional notes on the blackboard related to the sine function.\n\n- **End:**\n  - Draws checkmarks on the whiteboard to confirm correct student input.\n  - Adds annotations to the graph, labeling key features.\n  - Nods and smiles to visually validate the student's understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed the sine wave graph labeled $y = \\sin x$, setting the stage for the lesson on trigonometric functions. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content displayed on the interactive whiteboard. She pointed directly at the graph, signaling the focus of the interaction.\n\nAs a student began to explain their reasoning, the teacher moved fluidly between the whiteboard and the blackboard. She used hand gestures to highlight key features of the sine wave, such as the amplitude and period, while the student spoke. Walking over to the blackboard, she jotted down the student's key terms, providing visual reinforcement of their explanation. Her movements were deliberate, ensuring that each part of the student's response was visually supported.\n\nTo validate the student's input, the teacher gave a distinct nod and drew checkmarks next to the correct parts of the graph on the whiteboard. She then added annotations, labeling the maximum and minimum points and the period of the sine wave, ensuring clarity and accuracy. This visual feedback served as a confirmation of the student's understanding.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing arrows from the annotations on the graph to the main theorem discussed earlier. This visual linkage helped students see the relationship between their response and the broader concepts of the lesson.\n\nThrough these gestures, the teacher facilitated a transition from passive reception to active construction of knowledge. By visually engaging with the student's explanation and linking it back to the lesson's main ideas, she encouraged students to think critically and construct their own understanding of the sine function's properties.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sine Wave",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Amplitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Periodicity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Graph Plotting",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Induction Formulas",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Maximum Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Minimum Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Translation along X-axis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[483.8 -> 602.6]"
+      },
+      {
+        "id": "c9",
+        "label": "x = 0 to 2π",
+        "type": "Visual",
+        "original_text": "The interval from 0 to 2π is represented on the sine graph.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Displays sine graph y = sin x.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Student Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c12",
+        "label": "Teacher Gesture",
+        "type": "Visual",
+        "original_text": "Teacher gestures to emphasize key graph features.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Checkmark",
+        "type": "Visual",
+        "original_text": "Validated student response with a checkmark.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c14",
+        "label": "Graph Annotations",
+        "type": "Visual",
+        "original_text": "Teacher adds labels to maximum, minimum, and period.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The sine wave graph includes the concept of amplitude."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The sine wave exhibits periodicity."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Periodicity is explained further using induction formulas."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The sine wave includes maximum points."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The sine wave includes minimum points."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Graph plotting involves translating the function along the X-axis."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Translation along X-axis is derived from induction formulas."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The whiteboard visualizes the sine graph on the interval from 0 to 2π."
+      },
+      {
+        "source": "c12",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures to emphasize the amplitude on the graph."
+      },
+      {
+        "source": "c12",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures to emphasize the periodicity of the sine function."
+      },
+      {
+        "source": "c11",
+        "target": "c14",
+        "relation": "prompts_thinking",
+        "intent": "Student explanation prompts teacher to make graph annotations."
+      },
+      {
+        "source": "c11",
+        "target": "c13",
+        "relation": "praises_response",
+        "intent": "Student response is praised by validating with a checkmark."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

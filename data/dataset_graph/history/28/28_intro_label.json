@@ -1,0 +1,145 @@
+{
+  "video_name": "28_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Analyze the characteristics of the traditional education model and its impact on teachers and students; understand the necessity of educational reform and its core concepts; recognize how a student‑centered teaching approach promotes holistic development.",
+  "transcript": "[0.0 -> 156.14] 那么为什么要进行教学的改革呢和传统教育有何利弊呢我再次作为理想两点分析第一点对于教师来说传统教学教师主要教教材唯一的课本也是教材而学生学习的唯一依照也是教材那么根据教材教学习得不到拓展与提升学生只能通过书本上的知识进行学习和拓展而老师也仅仅辞版地跟着书本式去教学生的核心思想体现得不到提升学习得不到拓展和延续对于学生来说这是一个损失那么第二传统式教学呢提倡填鸭式教学也就是我们所说的满堂观全程呢由教师一个人在上面讲而学生全程在底下默默地听这样的教学方式呢使得课堂缺少的活力学生缺少的参与度使逐渐使得学生们脱离了课堂逐渐走神跑茅的习惯那么学生的积极性和注意力也得不到提高填压式教学严重阻碍了学生的积极性和老师的上课能力老师在课堂上唱单决而学生的底下词版的听使教学效率也得到下降那么第三对学生来说学习方式就为单一学生的学习词版核心素养得到提升只能为分数论的程度进而学习我们的学习是为了提高分数而不是进行得志甜美苗的全面发展和全面提高那么最后我想总结的是进而传统教学有利有弊进而我们能承认传统教学以分数为提高学习教育也有较为提升的可能性那么分数也会逐渐提升但是我们所要提倡的教学是以学生为中心的教学是讲求全面发展的教学最后我也相信我国的教育改革也越来越好逐渐的教育也会逐渐由强国的方式而转变好了本次演讲到此结束谢谢各位。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The text on the slide is in Chinese, and it appears to be a list of topics or objectives for the lesson.\n\n#### 2. **The Title Event**\n- The title on the slide reads: \"了解这些结构句型\" (Understanding these structural sentence patterns).\n- The teacher stands in front of the screen, presenting the content without additional actions like underlining or circling.\n\n#### 3. **The Objectives**\n- The bullet points listed on the slide are:\n  - 解释\n  - 举例说明\n  - 沟通\n  - 反馈\n  - 探究\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the points listed.\n- The teacher uses hand movements to engage with the audience, possibly pointing or indicating the text on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the slide titled \"了解这些结构句型.\"\n- The slide lists the objectives: 解�, 举例说明, 沟通, 反馈, 探究.\n- The teacher holds papers and begins speaking, occasionally looking at the audience.\n\n**Middle:**\n- The teacher gestures towards the screen, likely emphasizing the bullet points.\n- The audience is seated, facing the teacher and the screen, indicating engagement with the content.\n\n**End:**\n- The teacher continues to interact with the audience, maintaining focus on the objectives displayed.\n- No additional visual changes occur on the screen or board during this segment.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a slide titled \"了解这些结构句型.\" The slide serves as the initial visual stimulus, presenting a list of objectives: 解释, 举例说明, 沟通, 反馈, 探究. The teacher, holding papers, engages with the audience, using hand gestures to emphasize the points on the screen. The visual focus remains on the slide throughout, with the teacher occasionally pointing to the objectives, guiding the students' attention. This setup bridges the hook to the main topic by clearly outlining the lesson's structure and goals, ensuring students understand the framework for the upcoming content. The introduction effectively links new knowledge to existing learning experiences by highlighting key actions like explanation and examples, setting a foundation for interactive communication and feedback.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Traditional Education Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Impact on Teachers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Impact on Students",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Educational Reform Necessity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Core Concepts of Reform",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Student-Centered Approach",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Holistic Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 156.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide on Structural Sentence Patterns",
+        "type": "Visual",
+        "original_text": "Understanding structural sentence patterns",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points on Slide",
+        "type": "Visual",
+        "original_text": "Explain, Give Examples, Communicate, Feedback, Investigate",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Audience Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how the traditional education model affects teachers."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains how the traditional education model affects students."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Shows the need for change due to limitations in traditional education."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Describes fundamental principles necessary in educational reform."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Emphasizes the importance of a student-centered approach."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "promotes",
+        "intent": "Student-centered approach encourages holistic development."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The slide provides key objectives related to understanding structural patterns."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide introduces core concepts linked to educational reform."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "engages_with",
+        "intent": "Students are actively engaged with concepts promoting holistic development."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to emphasize key points on the slide to the audience."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

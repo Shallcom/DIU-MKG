@@ -1,0 +1,184 @@
+{
+  "video_name": "6_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Review the discovery history of the electron, proton, and neutron.",
+  "transcript": "[179.4 -> 283.74] 同学们在学习本节课之前呢我们已经了解了电子质子中子以及光子及其发展的历程现在老师就带领大家一起来回忆一下我们是如何发现电子的呢糖酸通过阴极视线管实验发现了电子接着人们又通过阿尔法粒子散射实验发现了核式结构模型原子核是怎样组成的呢它又集中在中心的核子以及环绕核子旋转的电子构成随后人们又通过了大量的实验发现原子核中有一个共同的物质也就是质子接着通过对核子质量的研究明白了电子核是由中子和质子共同构成的最后我们又学习了光电效应的实验我们知道当光线打到金属板上的时候金属板中的自由电子会吸收光能从而摆脱这个金属板向外发射出光电子我们将这些粒子呢称为基本粒子然而随着科学的进步科学家们意识到这些基本粒子并不是最小的粒子人们发现数以百计的新粒子它是无法看错的是由中子电子和质子构成的另一方面中子电子和质子呢也有自己的复杂结构所以二十世纪后半期我们就将基本两个字去掉把这电子质子和光子统称为粒子。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes on the blackboard, introducing the topic \"基本粒子\" (basic particles).\n- The screen displays \"5.5 基本粒子\" with a subtitle in smaller text.\n- The teacher stands in front of the screen, holding papers, and begins explaining.\n\n**Middle:**\n- The screen updates to show \"组成物质的一种粒子模型\" (a particle model of matter).\n- The teacher writes \"电子\" (electron) on the screen.\n- The teacher continues to explain, adding \"质子\" (proton) and \"中子\" (neutron) to the list.\n- The teacher gestures towards the screen, emphasizing the listed particles.\n\n**End:**\n- The screen now includes \"光子\" (photon) under the list of particles.\n- The teacher points to the screen, highlighting the complete list of particles.\n- A student in the foreground leans forward, possibly to take notes or ask a question.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the screen displaying the list of particles: \"电子, 质子, 中子, 光子\" (electron, proton, neutron, photon).\n- The blackboard has \"基本粒子\" written, serving as a topic header.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher sequentially adds \"电子,\" \"质子,\" \"中子,\" and \"光子\" to the screen.\n- **Modifications**: \n  - No erasures or modifications are observed; the list builds progressively.\n- **Deictic Gestures**: \n  - The teacher points to each particle as it is introduced, ensuring clarity in the explanation.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize each particle as it is added.\n- The list is visually structured with clear spacing, enhancing readability.\n- The teacher's focus on the screen ensures students' attention is directed to the evolving list.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the screen displayed the title \"5.5 基本粒子\" with a subtitle, establishing the topic of basic particles. The teacher began by writing \"基本粒子\" on the blackboard, setting the stage for the lecture. The screen then evolved to show \"组成物质的一种粒子模型,\" introducing the concept of a particle model of matter. The teacher constructed the list of particles step-by-step, starting with \"电子\" (electron), followed by \"质子\" (proton) and \"中子\" (neutron). Each addition was accompanied by gestures pointing to the respective term, ensuring students followed the progression. Finally, \"光子\" (photon) was added to the list, completing the model. Throughout, the teacher emphasized key points by pointing directly to each particle, reducing cognitive load by visually aligning explanations with the evolving content. The structured layout and clear annotations on the screen helped maintain focus, guiding students through the foundational concepts of basic particles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electron",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Proton",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Neutron",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Photon",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Particle Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Cathode Ray Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Alpha Particle Scattering",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c8",
+        "label": "Nuclear Structure Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "c9",
+        "label": "Photoelectric Effect Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[179.4 -> 283.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Basic Particles Blackboard",
+        "type": "Visual",
+        "original_text": "The teacher writes 'Basic Particles' on the blackboard to introduce the lecture.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Particle Model Screen",
+        "type": "Visual",
+        "original_text": "Screen displays 'A particle model of matter'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Particle List Screen",
+        "type": "Visual",
+        "original_text": "Screen shows list of particles: Electron, Proton, Neutron, Photon.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Note-Taking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Electron discovery through the cathode ray experiment."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Proton discovery through alpha particle study."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Neutron identification within nuclear structure model."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Photon understanding enhanced by photoelectric effect."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Screen displays particle model concept that teacher explains."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Screen lists and emphasizes electron as part of basic particles."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Screen lists and emphasizes proton as part of basic particles."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Screen lists and emphasizes neutron as part of basic particles."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Screen lists and emphasizes photon as part of basic particles."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Blackboard introduces the topic of basic particles and particle model."
+      },
+      {
+        "source": "s1",
+        "target": "v3",
+        "relation": "engages_with",
+        "intent": "Student actively takes notes on particles listed on screen."
+      },
+      {
+        "source": "s2",
+        "target": "v3",
+        "relation": "questions",
+        "intent": "Student likely seeks clarity on complex particle concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

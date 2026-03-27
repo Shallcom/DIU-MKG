@@ -1,0 +1,158 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Master the main routes of the Southwest Silk Road; understand the reasons for the rise of the Maritime Silk Road; analyze the factors influencing the rise and fall of the Silk Road.",
+  "transcript": "[638.44 -> 697.78] 西南四川非常好那么西南丝绸之路它的路线是怎么样的呀通过关东平原入蜀成都平原以及这横断十二路南下最后是到达缅甸印度中亚西亚非常好请坐那么我们发现了苍北丝绸之路和西南的这个丝绸之路那么刚刚这位同学还说到了海上的丝绸之路而海上的丝绸之路在唐朝中期以后逐渐兴起那么我们不禁思考一个问题为什么唐朝中后期之后唐朝的中期后丝绸之路会逐渐地兴起呢两人一起讨论一下快可以接受课本。\n[699.82 -> 736.36] 好谢谢啦祝福因为通照东西以后受科技战乱的因素影响然后就是路上的机构之后重要性逐渐下降然后东西方的踩入好请坐那么他发现的是政治上的那么除了政治上其实还有很多其他方面的那么请同学们阅读材料那么思考一下还有什么样的方面呢我们稍后继续学习以上就是我的所有展示内容。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the whiteboard screen, which displays a slide titled \"一、在贸易中发展\" (Development in Trade).\n   - The slide contains a question: \"思考本课：为什么唐都长安和海上丝绸之路能成为全盛唐的象征？\" (Think about this lesson: Why did Chang'an and the Maritime Silk Road become symbols of the prosperous Tang Dynasty?).\n   - The blackboard to the left has handwritten notes, including \"唐朝\" (Tang Dynasty) and \"目标\" (Goals).\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes the main question about the significance of Chang'an and the Maritime Silk Road.\n   - The blackboard notes include terms like \"唐朝\" (Tang Dynasty) and \"目标\" (Goals), indicating key lesson objectives.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the question on the slide, emphasizing the main inquiry for the lesson.\n   - The teacher gestures towards the blackboard, likely reviewing the goals and key terms written there.\n   - The teacher moves around the classroom, engaging with students, possibly to ensure understanding of the summary points.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or board.\n   - The teacher's interaction with students may imply a verbal transition or assignment, but it is not visually represented in the frames provided.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"一、在贸易中发展\" prominently displayed, featuring a central question about the significance of Chang'an and the Maritime Silk Road in the Tang Dynasty. The teacher visually reviews the key inquiry by pointing directly at the question, ensuring it remains the focal point. To the left, the blackboard contains handwritten notes, including \"唐朝\" and \"目标,\" which the teacher gestures towards, reinforcing the lesson's objectives. The teacher's movements around the classroom suggest an interactive review, engaging students to consolidate the main ideas. No explicit visual homework instructions are present, but the emphasis on the central question and blackboard notes visually underscores the core takeaway of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Southwest Silk Road Routes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.44 -> 697.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Chang'an Significance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.44 -> 697.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Maritime Silk Road Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[638.44 -> 697.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Tang Dynasty Trade",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.44 -> 697.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Influence of Technology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[699.82 -> 736.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Impact of Warfare",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.82 -> 736.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Political Influence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.82 -> 736.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Material Reading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[699.82 -> 736.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Development in Trade Slide",
+        "type": "Visual",
+        "original_text": "Development in Trade slide with question about Chang'an and Maritime Silk Road.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Tang Dynasty Notes",
+        "type": "Visual",
+        "original_text": "Blackboard notes include 'Tang Dynasty' and 'Goals'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Discussion Prompt",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Southwest Silk Road routes are part of the larger Tang Dynasty Trade."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Chang'an's significance supports the understanding of the Maritime Silk Road."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The Maritime Silk Road's importance is enhanced by political factors."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Influence of technology evolves from the impact of warfare."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Impact of warfare includes political influences."
+      },
+      {
+        "source": "c8",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Material reading triggers students to question and discuss."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Slide reinforces the key points noted on the blackboard."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Student engagement builds upon understanding of Tang Dynasty trade."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes the significance of Chang'an."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Blackboard notes visualize the objectives related to Tang Dynasty trade."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,152 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Master the design methods of grouped control experiments.",
+  "transcript": "[478.9 -> 480.6] 老师听到有同学说碳酸。\n[481.64 -> 536.74] 那么我们一起来看一下我们是不是要设计分组实验到底是二氧化碳还是水还是二氧化碳溶水的产物呢好如何设计实验老师桌上同样有给大家准备的紫色石人小花有哪位同学愿意起来分享一下你们小组的实验思路好这位同学我们可以在在拿一朵纸花上面喷上水然后在第二朵纸花上面加入二氧化碳的集庆品中然后在第三朵纸花上面喷上水再加入成分二氧化碳的集庆品中很好请问同学我们这样做实验运用到了我们学科中非常重要的什么思想对照法很好对照请坐。\n[538.64 -> 681.42] 那么请现在请大家动手起来每个组做一个实验好现在请大家观察实验现象我们首先请第一小组那么我们这里设置了一个相当于是红白的对照实验我们在紫色石绿小花上面喷锡醋酸诶我们发现这个小花变红那么也在再一次印证了酸确实能够使紫色水变红好那么我们的第一小组做的是紫色水小花喷水的实验第二小组做的是二氧化碳与紫色水小花的反应第三组做的是喷水后放入二氧化碳当中的反应那么现在哪个小组愿意起来来分享你们的现象呢好这位同学请问你是第几小组第一小组你们的现象是就是颜色没有变化很好你们发现喷水之后实验现象并没有明显变化那么你们的现象与我们的第二小组同学的实验现象一致请坐好那么我们现在再来看一下第三小组呢好这位同学发的颜色变化很好我们请大家观察第三小组的实验现象我们发现它们的小花是不是变红了很好那么我们由此可以总结前面两组都不能使紫色水变红而喷了水的再放入二氧化碳当中能够使其变红那如果这个时候老师再干一件事儿老师把这个变红的石纹小花在加热用吹风机热吹风机吹一下这个时候我们其实会发现红色会褪去恢复到原来的颜色那么我们刚刚说二氧化碳溶于水我们猜测可能是我们根据元素观可能会生成碳酸。\n[684.64 -> 706.88] 很好那么因为加了热吹我们用热吹风机来吹这朵小花发现它又褪色了那么是不是说明我们的碳酸在加热情况下一分解。\n[714.64 -> 777.08] 重新生成二氧化碳和水很好请大家看一下那么其实我们最后再来给大家进行一个小小的揭秘那么在我们的溶洞当中其实是溶有二氧化碳的水在硫金岩石碳酸钙的时候会生成可溶性的碳酸氢钙而这种碳酸氢钙在高温下又会重新分离分解成二氧化碳和碳酸钙由此循环往复就能得到我们美丽的溶洞了那么课下呢请大家给布置给大家布置两个小任务一个查阅型一个动手型去了解碳循环碳中和以及二氧化碳在生活中的用途最后再去动脑想一想如何来改进我们的小花实验呢好同学们本本节课内容就上到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen.\n   - The slide layout includes a title \"升华拓展\" (Elevation and Expansion) and a list of bullet points with accompanying images.\n   - The blackboard also contains chemical equations written in chalk.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**:\n     - Bullet points:\n       1. 溶洞形成 (Cave formation)\n       2. 碳酸钙的用途 (Uses of calcium carbonate)\n       3. 二氧化碳的用途 (Uses of carbon dioxide)\n   - **Blackboard Content**:\n     - Chemical equations:\n       - $\\text{CO}_2 + \\text{H}_2\\text{O} = \\text{H}_2\\text{CO}_3$\n       - $\\text{H}_2\\text{CO}_3 = \\text{CO}_2 \\uparrow + \\text{H}_2\\text{O}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the slide in sequence, likely explaining or summarizing each item.\n   - The teacher gestures towards the chemical equations on the blackboard, possibly reviewing the reactions discussed.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the current lesson content through the slide and blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"升华拓展\" (Elevation and Expansion), displaying three bullet points accompanied by images. The teacher points to each bullet in sequence, highlighting key concepts such as cave formation, uses of calcium carbonate, and uses of carbon dioxide. On the blackboard, chemical equations are visible, including $\\text{CO}_2 + \\text{H}_2\\text{O} = \\text{H}_2\\text{CO}_3$ and $\\text{H}_2\\text{CO}_3 = \\text{CO}_2 \\uparrow + \\text{H}_2\\text{O}$. The teacher gestures towards these equations, reinforcing the reactions discussed. No visual indication of homework or next steps is present, focusing solely on the lesson's core takeaways.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cave Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[481.64 -> 536.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Uses of Calcium Carbonate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[481.64 -> 536.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Uses of Carbon Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[481.64 -> 536.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Calcium Carbonate Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[714.64 -> 777.08]"
+      },
+      {
+        "id": "c5",
+        "label": "CO2 and Water Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[538.64 -> 681.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Contrast Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[481.64 -> 536.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Carbon Cycle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[714.64 -> 777.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Carbon Neutrality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[714.64 -> 777.08]"
+      },
+      {
+        "id": "v1",
+        "label": "Elevation and Expansion Slide",
+        "type": "Visual",
+        "original_text": "Elevation and Expansion with cave formation, calcium carbonate, and carbon dioxide applications.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemical Equation Blackboard",
+        "type": "Visual",
+        "original_text": "CO2 reacts with H2O to form H2CO3.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Experiment Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Group Experiment Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide visualizes cave formation as a key concept."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide highlights uses of calcium carbonate."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide presents uses of carbon dioxide."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Chemical reaction of CO2 with water is shown on the blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The blackboard equations illustrate principles of calcium carbonate reactions."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Use of contrast method prompts students to consider experimental designs."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Students discussing experiment results lead to deeper engagement."
+      },
+      {
+        "source": "c7",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Understanding of carbon cycle is promoted during experiment observation."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "addresses_misconception",
+        "intent": "Clarifying carbon neutrality concepts as part of post-experiment discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

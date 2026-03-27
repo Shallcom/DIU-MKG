@@ -1,0 +1,172 @@
+{
+  "video_name": "15_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Master the importance of biology experimental skills and their application in teaching; understand the concept of allergens and their common manifestations; be able to identify and analyze allergic phenomena in everyday life.",
+  "transcript": "[83.72 -> 125.82] 好那第三点的话是在有限的条件下作为一名生物老师我认为实验技能是十分的重要因此呢在一些条件下教师可以自费带领学生制作一些实验器具例如在B九二的时候教师可以上网自行购买一些DNA结构的基本单位的一些辅助器具带领学生在课堂上模拟建构DNA的双螺旋结构模型此外此外第四点在课后任务中可以布置学生利用生活中的常见材料制作一些实验展开实验\n[129.28 -> 157.74] 那么实验操作技能的培养呢对落实科学思维和科学探究发展生物学学科核心素养是非常的重要的对形成科学的自然观和价值观培养学生的人生观和价值观具有十分重要的作用因此我的即兴演讲到此结束好谢谢大家好下面开始我的授课环节\n[159.28 -> 232.78] 好同学们我们开始上课那么在生活当中啊你们有没有经常看到过这样一些现象呢有的人他会对花粉过敏在吸入花粉后呢他会发生鼻炎或者是哮喘有时甚至呢皮肤还会出现红肿的现象奇痒难熬那么有的人啊在吃了鱼虾等食物之后呢会发生呕吐腹痛等现象这些啊都是过敏反应的表现那老师想问问同学们在生活中你还知道哪些过敏现象呢非常好那例如老师自身呢他会对豆制品奶制品产生过敏反应那么相信同学们在自己的生活中也会对某一些物质产生过敏反应好那么无论是我们的花粉还是鱼虾等食物啊其实呢这都是过敏源那么到底什么是过敏源呢",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the podium, holding papers, with a digital screen displaying a slide titled \"第4章 第3节 免疫失调\" (Chapter 4, Section 3: Immune Disorders).\n- The slide shows three circular images: a dog, a yellow circular object, and a cluster of cells.\n- The teacher gestures towards the screen, likely introducing the topic of immune disorders.\n\n**Middle:**\n- The teacher continues to gesture, pointing at the images on the screen, possibly explaining each one's relevance to immune disorders.\n- The slide transitions to a new page with text and an illustration of children. The text discusses \"免疫缺陷\" (immune deficiency) and mentions \"先天性\" (congenital) and \"获得性\" (acquired) conditions.\n- The teacher uses hand gestures to emphasize points, likely correlating with the text on the screen.\n\n**End:**\n- The teacher points to specific parts of the text on the screen, possibly highlighting key terms or concepts.\n- The illustration of children is used to visually represent the discussion on immune deficiency in different age groups.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide with text and illustrations. Initially, it displays images related to immune disorders.\n   - The text on the slide is in Chinese, discussing immune deficiency, with terms like \"先天性\" (congenital) and \"获得性\" (acquired).\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher does not add content to the board but uses the existing slide content to explain concepts.\n   - **Modifications**: No erasures or modifications are made to the slide; the focus remains on the existing content.\n   - **Deictic Gestures**: The teacher points to specific images and text on the slide, such as the circular images and the illustration of children, to emphasize key points.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to highlight important sections of the text and images on the slide.\n   - The transition between slides helps to emphasize different aspects of immune disorders, with the second slide focusing on immune deficiency.\n\nThis structured approach ensures that the teacher's actions are clearly linked to the visual content, providing a coherent narrative of the lesson's visual evolution.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide titled \"第4章 第3节 免疫失调\" (Chapter 4, Section 3: Immune Disorders), featuring three circular images: a dog, a yellow object, and a cluster of cells. The teacher began by gesturing towards these images, likely introducing the topic of immune disorders and their manifestations. \n\nThen, the teacher gave a lecture, transitioning to a new slide that discussed \"免疫缺陷\" (immune deficiency), with terms like \"先天性\" (congenital) and \"获得性\" (acquired). The slide included an illustration of children, which the teacher pointed to while explaining the differences between congenital and acquired immune deficiencies. The teacher's gestures emphasized key text, tracing the descriptions to illustrate the concepts.\n\nFinally, the teacher highlighted specific sections of the text, using hand gestures to underscore important points. The visual transition between slides helped maintain focus, reducing cognitive load by segmenting information into manageable parts. The teacher's emphasis on the illustration and key terms ensured that the concepts were clearly linked to visual examples, aiding comprehension.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Biology Experimental Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[83.72 -> 125.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Allergens",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.28 -> 232.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Allergic Reactions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.28 -> 232.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Pollen Allergy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.28 -> 232.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Immune Disorders",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "c6",
+        "label": "Immune Deficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "c7",
+        "label": "Congenital Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "c8",
+        "label": "Acquired Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "c9",
+        "label": "Dog Image",
+        "type": "Visual",
+        "original_text": "Circular image of a dog on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Yellow Object Image",
+        "type": "Visual",
+        "original_text": "Circular image of a yellow object on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Cluster of Cells Image",
+        "type": "Visual",
+        "original_text": "Circular image of a cluster of cells on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Children Illustration",
+        "type": "Visual",
+        "original_text": "Illustration of children representing immune deficiency.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Dog image is used to introduce the topic of immune disorders."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Yellow object image is used to introduce the topic of immune disorders."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Cluster of cells image is used to introduce the topic of immune disorders."
+      },
+      {
+        "source": "c6",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Illustration of children is used to explain immune deficiency."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Immune disorders include conditions of immune deficiency."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Immune deficiency can be congenital."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Immune deficiency can be acquired."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Allergens are the cause of allergic reactions."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Allergic reactions include pollen allergy."
+      },
+      {
+        "source": "c1",
+        "target": "c13",
+        "relation": "prompts_thinking",
+        "intent": "Discussion of experimental skills engages students."
+      },
+      {
+        "source": "c2",
+        "target": "c13",
+        "relation": "prompts_thinking",
+        "intent": "Discussion of allergens engages student thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

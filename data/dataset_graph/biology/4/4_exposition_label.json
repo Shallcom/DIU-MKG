@@ -1,0 +1,158 @@
+{
+  "video_name": "4_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the principle of isotopic labeling; master the application of scientific methods in experiments.",
+  "transcript": "[60.0 -> 94.04] 好那现在呢请大家看到课本的第五十四页中的思考与讨论那现在呢老师给大家一分钟的时间两位同学为一个小组先简单地讲一下课本的思考与讨论简单地阅读一下思考与讨论这个部分中的内容\n[95.68 -> 98.32] 同时呢注意思考这几个问题\n[101.1 -> 103.96] 本次实验采用的科学方法是什么\n[110.0 -> 174.82] 我们思考第一个问题就行好那老师看大家已经完成的差不多了每次实验中运用的科学方法是什么呀对同位素标记法",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the blackboard, writing the title \"DNA的半保留复制\" (DNA semi-conservative replication) in white chalk.\n- The digital screen displays a diagram of DNA strands with annotations in Chinese, explaining the semi-conservative replication process.\n- The teacher gestures towards the screen, pointing at the DNA strands to emphasize the replication mechanism.\n\n**Middle:**\n- The teacher writes \"一种母方法\" (a maternal method) on the blackboard, linking it to the replication process.\n- The screen transitions to a new slide titled \"DNA复制的Meselson-Stahl实验\" (Meselson-Stahl experiment on DNA replication), showing experimental diagrams.\n- The teacher points to specific parts of the diagrams on the screen, explaining the experimental steps and results.\n\n**End:**\n- The teacher moves closer to the students, possibly to check their notes or answer questions.\n- The screen continues to display the experimental diagrams, with the teacher occasionally pointing to reinforce key points.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying diagrams of DNA replication and the Meselson-Stahl experiment.\n   - Initial state: The first diagram shows two DNA strands with labels indicating the semi-conservative replication process.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes the title and key terms on the blackboard while explaining the concepts.\n   - **Modifications**: The teacher points to different parts of the diagrams on the screen to illustrate changes during replication.\n   - **Deictic Gestures**: The teacher points to specific strands and labels on the screen, saying \"this\" to indicate particular steps in the replication process.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key points on the diagrams.\n   - Important terms on the blackboard are written clearly to stand out, such as the title and \"一种母方法.\"\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving visual content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a diagram illustrating DNA semi-conservative replication, with labeled strands and annotations explaining the process. The teacher began by writing the title \"DNA的半保留复制\" on the blackboard, establishing the topic. Then, the teacher constructed the concept of \"一种母方法\" on the board, linking it to the replication mechanism. The screen transitioned to the Meselson-Stahl experiment diagrams, where the teacher derived the experimental steps, pointing to specific strands to illustrate nitrogen labeling and density shifts. The teacher traced the experimental outcomes on the screen, emphasizing key phases of replication. Finally, the teacher moved around the classroom, ensuring students grasped the visual details, and highlighted critical points by pointing to experimental results, reducing cognitive load through clear visual and verbal synchronization.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Isotopic Labeling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[101.1 -> 103.96]"
+      },
+      {
+        "id": "c2",
+        "label": "DNA Semi-Conservative Replication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 94.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Meselson-Stahl Experiment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[110.0 -> 174.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Maternal Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 94.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[101.1 -> 103.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Density Gradient Centrifugation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[110.0 -> 174.82]"
+      },
+      {
+        "id": "v1",
+        "label": "DNA Replication Diagram",
+        "type": "Visual",
+        "original_text": "Digital screen displays DNA semi-conservative replication process.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Meselson-Stahl Experiment Diagrams",
+        "type": "Visual",
+        "original_text": "Screen shows experimental steps and nitrogen labeling.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "Teacher writes 'DNA Semi-Conservative Replication' on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Maternal Method Blackboard Note",
+        "type": "Visual",
+        "original_text": "Teacher writes 'Maternal Method' linking to replication on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Students Discussing",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The visual represents the principle of DNA semi-conservative replication."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Diagrams illustrate the experimental process and results of the Meselson-Stahl experiment."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The experiment supports the principle of semi-conservative replication."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Isotopic labeling is integral to the Meselson-Stahl experiment."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Isotopic labeling is applied in density gradient centrifugation."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "The blackboard note connects the concept of maternal method to replication."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The maternal method concept stems from understanding DNA replication."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The title on the blackboard introduces the concept of replication."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Engaged students are prompted to discuss scientific methods."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Scientific method knowledge includes the application of isotopic labeling."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

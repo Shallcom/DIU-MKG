@@ -1,0 +1,133 @@
+{
+  "video_name": "20_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Help students develop a positive learning attitude and sense of participation; design effective teaching strategies to enhance classroom engagement; promote home‑school communication and cooperation.",
+  "transcript": "[0.0 -> 27.02] 打赏支持明镜与点点栏目\n[30.0 -> 90.0] 对家长说我偏爱优等生没有顾及到他的孩子有这么个反馈对这个我来提出我的一些对家长进行一些反馈我会先给孩子和家长道一下歉说可能因为我自身能那个自身没有到孩子为他道歉原因呢可能是他们就是孩子自身表现得不积极班里学生比较多我没有到他也可能是孩子他自身遇到了一些生物问题没有及时跟上老师所以呢对此我提出来了一些策略我会鼓励孩子去勇敢地举手然后问出自己的问题那么可以采取一些举手的话就可以集一些分数然后对孩子进行奖励或者是我看到的一种策略就是用牌子举牌子的方式让孩子来举手积极举手然后我还会对家长说有什么问题呢孩子可以来办公室找我单独询问我也会单独找孩子鼓励孩子来积极地问问题问一下他为什么会产生这样的问题就是说我为什么要会忽略到它那我以后会尽最大程度到每一个孩子",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. The slide contains Japanese text, which appears to be the title of the lesson. The text reads: \"蛋白質は生命活動の機能を担う者\" (Proteins are the ones that carry out life activities).\n\n#### 2. **The Title Event**\n- The title on the board is written in green chalk and reads: \"生物は蛋白質でできている\" (Life is made of proteins). The teacher did not write this during the video; it was already present on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and occasionally gesturing with her hands, possibly emphasizing points in her presentation.\n- She points towards the screen, likely to draw attention to the title or content displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title slide: \"蛋白質は生命活動の機能を担う者\" (Proteins are the ones that carry out life activities).\n- The board already has the title: \"生物は蛋白質でできている\" (Life is made of proteins).\n\n**Middle:**\n- The teacher gestures with her hands while speaking, possibly emphasizing key points.\n- She occasionally looks at the screen and then back at the students, maintaining engagement.\n- The teacher points towards the screen, likely to highlight the title or content.\n\n**End:**\n- The teacher continues to gesture and speak, maintaining focus on the content displayed on the screen.\n- The visual elements on the board and screen remain unchanged throughout the segment.\n\nThis structured visual analysis captures the evolution of the lesson's introduction phase, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "Initially, the screen presents the title slide with the text \"蛋白質は生命活動の機能を担う者\" (Proteins are the ones that carry out life activities), serving as the hook to capture the students' attention. The teacher stands in front of the class, holding papers and occasionally gesturing with her hands to emphasize key points. To bridge to the main topic, the teacher points towards the screen, directing the students' focus to the title displayed. The board already features the title \"生物は蛋白質でできている\" (Life is made of proteins), reinforcing the lesson's theme. Throughout the introduction, the teacher's gestures and engagement with the screen help establish the lesson's goal, linking the concept of proteins to life activities. This visual setup connects the new knowledge to the students' existing understanding of biology, setting the stage for a deeper exploration of proteins' roles in life processes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Proteins",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 27.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Life Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 27.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Learning Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 90.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Student Participation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 90.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Home-School Communication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30.0 -> 90.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Engagement Strategies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[30.0 -> 90.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Biological Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 27.02]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Proteins",
+        "type": "Visual",
+        "original_text": "Proteins are the ones that carry out life activities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Board Title: Life is Made of Proteins",
+        "type": "Visual",
+        "original_text": "Life is made of proteins",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Proteins function to enable life activities."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Proteins partake in various biological functions."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Life activities stem from biological functions."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The title slide introduces the concept of proteins carrying out life activities."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The board title reinforces the concept of life being dependent on proteins."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Developing a positive learning attitude to engage students."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages student participation and engagement."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Promoting home-school communication enhances engagement strategies."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

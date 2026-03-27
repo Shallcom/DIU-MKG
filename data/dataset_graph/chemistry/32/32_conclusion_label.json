@@ -1,0 +1,152 @@
+{
+  "video_name": "32_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the energy changes in chemical reactions; master the methods for calculating enthalpy changes; apply Hess’s law to solve practical problems.",
+  "transcript": "[706.2655 -> 743.72] 那么同样我们还要再断裂一模绿绿件那么此时我们还要吸收多少的热量呢我们还要吸收二百四十三千焦黑膜的能量那么这是我们断件的能量变化那么我们成件大家想一下一模氯气与一模氯气反应生成两模氯化氢那么其中的氢氯件有几模呢两模所以我们就要生成两模的氢氯件那么此时就应该放出多少热量呢四百三十一千焦每模这是一模氢滤件那么我们如果放出两模就要再乘以二那么我们放出的总热量为八百六十二千焦每模那么我们最后将吸收的总热量加合在一起减掉我们放出的热量就能够得到我们滤器与氢气反应生成一模滤器与一模氢气反应生成一模轮两模氯化氢的德泰H为负一百八十四点六千焦每模。\n[747.18 -> 759.9] 那么我们该如何表示一个化学反应的反应热呢我们下一节课来进行探究我的模拟授课环节到此结束恳请各位评委老师批评指正。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key points and formulas written in white chalk.\n   - The layout includes two main sections: one on the left with chemical equations and another on the right with reaction heat concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - Left Section:\n     - Chemical equations: \n       - $\\text{H}_2 + \\text{Cl}_2 \\rightarrow 2\\text{HCl}$\n       - $\\text{H}_2 + \\text{Cl}_2 \\rightarrow 2\\text{HCl}$\n     - Enthalpy changes: \n       - $\\Delta H = -436 \\times 2 - 243 \\times 2$\n   - Right Section:\n     - Reaction heat concepts:\n       - $1.1.1$ 反応熱\n       - $2$ 反応熱と燃焼\n       - 燃焼: $\\Delta H$ 単位: $\\text{kJ/mol}$\n       - 放熱反応: $\\Delta H < 0$\n       - 吸熱反応: $\\Delta H > 0$\n       - 断鍵は吸熱, 成鍵は放熱\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equations on the left side of the blackboard, emphasizing the enthalpy changes.\n   - The teacher gestures towards the right section, highlighting the definitions of exothermic and endothermic reactions.\n   - The teacher uses hand movements to underline the concepts of bond breaking and forming, linking them to heat absorption and release.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with a question in Japanese, indicating a potential homework or review task.\n   - The slide includes a diagram with molecular structures and a question about calculating reaction heat, suggesting further practice or application of the lesson's concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key chemical equations and reaction heat concepts. The teacher visually wraps up the lesson by pointing to the chemical equations on the left, emphasizing the enthalpy changes with deliberate gestures. Moving to the right section, the teacher highlights the definitions of exothermic and endothermic reactions, using hand movements to underscore the concepts of bond breaking and forming. A strong emphasis is placed on the relationship between bond changes and heat absorption or release, with the teacher gesturing to these points to reinforce understanding. The screen transitions to a slide featuring a molecular diagram and a question, indicating a potential homework task. This visual cue suggests further practice or application of the lesson's concepts, providing a clear handover to the next learning step.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Energy Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Enthalpy Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Hess's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Exothermic Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Endothermic Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Bond Breaking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Bond Forming",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[706.2655 -> 743.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Equations",
+        "type": "Visual",
+        "original_text": "Chemical equations and enthalpy changes on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Reaction Heat Concepts",
+        "type": "Visual",
+        "original_text": "Visual representation of reaction heat concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Slide with Homework",
+        "type": "Visual",
+        "original_text": "Slide with a molecular diagram and calculation question.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Enthalpy change is a specific type of energy change."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Hess's Law relies on understanding enthalpy changes."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Understanding both exothermic and endothermic reactions requires knowledge of energy changes."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Bond breaking leads to endothermic reactions."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Bond forming leads to exothermic reactions."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Blackboard shows equations representing energy changes."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visual representation of enthalpy changes on blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Exothermic reactions depicted in visual concepts."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Endothermic reactions depicted in visual concepts."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Slide provides review homework to engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

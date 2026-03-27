@@ -1,0 +1,204 @@
+{
+  "video_name": "44_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the method of deducing an object’s forces from known motion conditions; be able to establish a physical model through force analysis to solve real‑world problems.",
+  "transcript": "[368.32 -> 396.66] 那如果我们知道的是物体的运动情况呢那又该如何来求解它的受力呢。\n[398.32 -> 413.8] 是不是和刚才的情况相反反过来就可以了那请同学们先体会一下这两种思路下面我们进行一些具体情境的分析。\n[428.32 -> 467.86] 前几天啊老师看了一场比赛是冰壶比赛在这个冰壶比赛中老师看到运动员他们非常的奋力努力地在摩擦这个地面那么老师今天就带来了这样的一个制作的一个小模型请同学们来看。\n[468.94 -> 486.7] 当老师把这个冰球扔出去的时候它是当老师把这个冰球沿着地面滑出去的时候请同学们分析在接吻过程之中冰球受到什么样的力呢好请这位同学来分析一下。\n[487.76 -> 587.78] 摩擦力首先数值方向上有重力和支持力那除了之外水平方向上还有摩擦力那除了这个摩擦力是不是还有可能会有空气阻力啊那遇到这样的情况是不是比较复杂我们该怎么办进行模型建构忽略这个空气阻力不就行了吗好那么针对这样的一个情景我们来看这样的一个问题首先我们来对问题进行分析问的是冰面上冰壶能在冰面上滑雪多远它是不是让我们求的是一个位移呀那么我们再上前来看我们知道的有什么动摩擦因素那有动摩擦因素我们可以求解的是摩擦力非常的好同学们对前面的学习已经掌握得很不错了那我们知道了摩擦力那要想一想对于这个问题我们应该运用前面的哪一种思路来进行求解呢爱从受力再分析到运动刚才我们已经总结了这样的思路请同学们现在小组之间进行合作讨论想一想这道题该怎么样来进行求解待会儿老师请同学们来回答一下。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the digital screen displaying the practice problems, inviting students to engage with the content.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the practice problems displayed on the digital screen. The screen showed two physics problems related to motion, with accompanying images and text in Chinese.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and used hand gestures to emphasize key points. She occasionally pointed to the relevant sections on the screen, such as the equations or diagrams, to guide the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher nodded and smiled to encourage the student's participation. She also used the pointer to highlight correct elements in the student's response on the screen. If a student made an error, she would gesture towards the correct formula or concept previously discussed, such as $F = ma$, to provide visual hints.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes on the blackboard, outlining key concepts like \"运动情况\" (motion situation) and \"力\" (force).\n  - She gestures towards the digital screen, which displays a slide with two physics problems involving motion and force.\n\n- **Middle:**\n  - The teacher points to the first problem on the screen, which involves a 14 m/s velocity scenario. She uses hand gestures to explain the problem's context.\n  - She invites a student to respond, using a sweeping gesture to engage the class.\n\n- **End:**\n  - While the student explains, the teacher points to the relevant parts of the problem on the screen, such as the velocity and acceleration values.\n  - She provides visual feedback by nodding and pointing to the correct formula $F = ma$ when the student mentions it, reinforcing the connection between the problem and the concept.\n\nThis structured interaction ensures that visual elements on both the blackboard and digital screen are effectively used to co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed two physics problems involving motion and force, setting the stage for the lesson. The teacher began by writing key concepts on the blackboard, such as \"运动情况\" (motion situation) and \"力\" (force), and gestured towards the screen, inviting students to engage with the problems.\n\nAs the lesson progressed, the teacher pointed to the first problem on the screen, which involved a scenario with a velocity of 14 m/s. She used sweeping gestures to signal the start of an interactive segment, encouraging students to participate. While a student explained their reasoning, the teacher moved to the board, nodding and smiling to provide encouragement. She pointed to the relevant parts of the problem on the screen, such as the velocity and acceleration values, and occasionally referenced the formula $F = ma$ to guide the student's explanation.\n\nTo validate the student's response, the teacher gave a distinct nod and highlighted the correct elements on the screen, reinforcing the connection between the problem and the core concept. She then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, visually linking the application to the foundational knowledge.\n\nThroughout the interaction, the teacher's gestures and movements facilitated the transition from passive reception to active construction of understanding. By visually connecting the student's response to the lesson content, she helped students see the practical application of the concepts, fostering a deeper comprehension of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Motion Situation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[368.32 -> 396.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[368.32 -> 396.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Force Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[398.32 -> 413.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Ice Curling Game",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[428.32 -> 467.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Friction Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Gravity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Normal Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Air Resistance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c9",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c10",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c11",
+        "label": "Kinetic Friction Coefficient",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "c12",
+        "label": "Formula F=ma",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[487.76 -> 587.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Screen with Problems",
+        "type": "Visual",
+        "original_text": "Screen displays two physics problems related to motion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Motion and Force",
+        "type": "Visual",
+        "original_text": "Blackboard shows motion situation and force concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Collaboration",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Using motion situation as a basis for force analysis."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Incorporating friction force into force analysis."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Force analysis includes constructing a physical model."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Model construction considers friction force."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Ice curling scenario introduces friction force."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Friction force analysis includes gravity."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Kinetic friction coefficient relates to friction force."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Displacement calculation involves the kinetic friction coefficient."
+      },
+      {
+        "source": "c12",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Applying F=ma formula to friction force."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Screen problem visualizes displacement challenge."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Blackboard displays force concept."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts active thought on force analysis."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Collaborative brainstorming about friction forces."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

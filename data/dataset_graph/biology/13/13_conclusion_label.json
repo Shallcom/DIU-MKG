@@ -1,0 +1,147 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "- Be able to describe how changes in blood‑glucose levels trigger the secretion of insulin and glucagon.  \n- Understand the crucial role of feedback regulation in maintaining internal homeostasis.  \n- Analyze the main symptoms of diabetes and its potential impacts on health.",
+  "transcript": "[635.3 -> 703.52] 嗯非常好没错也是当血糖水平降低的时候就会刺激胰岛A细胞分泌胰高血糖素进而使得肝糖原种号雷糖这就是血糖平衡的调节机制了那在一个系统中系统本身工作的效果反过来又会为信息调节该系统生物的工作这种调节方式就叫做反馈调节那么反馈调节呢也是稳态与平衡一个非常重要的体现在日常生活中我们可能会常常听到糖尿病这种疾病那么它是一种严重危害健康的常见病主要表现为高血糖还有糖尿可以导致多种器官功能的损害那么其实饮食不规律不健康等等也会导致糖尿病的发生所以我们要注重饮食的健康还有培养良好的生活习惯那么在课后呢也希望同学们思考提倡三个问题谢谢",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a structured layout with bullet points and a highlighted section for key terms.\n   - The slide is divided into sections with headings and bullet points, providing a clear overview of the lesson's main points.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes the following main keywords and headings:\n     - \"总结与升华\" (Summary and Sublimation)\n     - \"根据同一化学反应方程式，可以同时计算不同物质的质量\" (According to the same chemical equation, the mass of different substances can be calculated simultaneously)\n     - \"注意单位换算，单位要统一\" (Pay attention to unit conversion, units must be consistent)\n     - \"解题步骤\" (Problem-solving steps):\n       1. 写出化学方程式 (Write the chemical equation)\n       2. 找出已知量和未知量 (Identify known and unknown quantities)\n       3. 列出比例式 (List the proportion)\n       4. 解出未知数 (Solve for the unknown)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the slide, emphasizing each bullet point in sequence.\n   - She gestures towards the chemical equation and problem-solving steps, ensuring students follow along.\n   - The teacher underlines key phrases on the slide, such as \"注意单位换算\" (Pay attention to unit conversion), to highlight their importance.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the lesson content, with no additional slides or board sections visible for next steps.",
+  "visual_narrative": "The lesson concludes with a slide displaying a structured summary of key points. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the importance of unit conversion and problem-solving steps. She underlines the phrase \"注意单位换算\" to highlight its significance. The visual focus remains on the summary, with no additional slides or instructions for homework or next steps appearing, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Blood-Glucose Levels",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Insulin Secretion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Glucagon Secretion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Feedback Regulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Homeostasis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Diabetes Symptoms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Impact on Health",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Diet and Health",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c9",
+        "label": "Chemical Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "c10",
+        "label": "Unit Conversion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[635.3 -> 703.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Summary and Sublimation presented. Highlight on unit conversion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Insulin secretion is triggered by increased blood-glucose levels."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Glucagon secretion is triggered by decreased blood-glucose levels."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Feedback regulation is crucial for maintaining homeostasis."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Diabetes symptoms and its impacts on health."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Diet and health are linked to the development of diabetes."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Chemical equations require proper unit conversion for accuracy."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Unit conversion is visually emphasized on the slide."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students engage with the summary slide content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

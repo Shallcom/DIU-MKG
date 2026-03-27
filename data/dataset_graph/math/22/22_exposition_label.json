@@ -1,0 +1,192 @@
+{
+  "video_name": "22_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the definition of space vectors and how they differ from plane vectors; master the direction, magnitude, and representation of space vectors; be able to analogously extend the concept of plane vectors to three‑dimensional space.",
+  "transcript": "[174.88 -> 257.24] 带走的就是那个摇滚的那一笔很没上去的小说单子你直接讲就可以了可以了可以了所以不用翻页里面还是说有翻页里是更好的地方我们现在大概要多久就换一个新的就插上去有了啊有了哪儿呀就学可以了吗可以不是不是那个就是借的一接了一个你刚才那个拿回来了吗这个是原来的新的好接下来开始我的模拟授课环节好同学们上课今天我们要讲的是一点一节空间向量及其线性运算。\n[264.88 -> 377.42] 首先老师来问大家一个问题我们在实际生活当中可以如何表示点A到另一个点B有相线段的大小以及它的长度呢就像这里所述A点到B点它是一个有大小有方向的有象限段那么我们可以通过什么样的方式来表示它呢请同学们仔细想一下有大小又有方向也就是我们所说的响亮那么我们翻开课本的第一页我们可以看到一个非常宏观的图它是一个滑翔伞的照片那么滑翔伞它所受到的利益它在滑翔的过程当中所受到的利益来自不同的方向不同的大小那么我们能在平面上去进行描述吗它是一个空间的量那么它不在一个平面那么我们能不能将向量推广到空间当中呢这也就是我们今天要学习的我们首先来回顾一下初中我们是如何定义平面向量的其实刚才老师已经说过了平面向量也就是在平面当中具有大小又有方向的量就叫做平面向量那么今天我们要学习的是空间向量。\n[378.44 -> 389.06] 同学们仔细思考一下我们能不能通过平面向量的定义来推广出空间向量的定义呢有没有同学可以告诉老师。\n[390.36 -> 413.78] 有同学有想法吗看老师标红的地方这里是平面平面在平面中得到的就是平面向量那么在空间中我们就得到的是空间向量所以这样的话我们也就类比推出了空间向量的概念我们一起来读一下好不好。\n[414.8 -> 486.14] 在空间中具有大小又有方向的量就叫做空间向量那么我们可以如何来进行表示呢我们平面向量是用一个小箭头来进行表示大家还记得吗那么在空间当中我们依然是用这种方式来进行表示的如果你在空间中有一个有像线段小A那么它就可以用小A上面有一个小小的箭头来进行表示那么空间中的向量既有大小又有方向那么大小我们可以通过怎样来进行表示呢我们同样类比平面向量当中的膜来进行表示它同样是给两边加上一个竖线那么用膜来进行表示它的大小这样的话我们也就得到了空间向量的定义以及它的表示方式。\n[487.22 -> 496.84] 那么除了这种表示方式还有没有其他的表示方法呢老师在黑板上画一个长方体。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the podium, facing the class. The screen displays the title slide in Chinese: \"第一章 空间向量与立体几何 1.1.1 空间向量及其线性运算.\"\n- The blackboard is initially blank. The teacher turns to the blackboard and begins writing with white chalk. The first line written is \"1.1.1 空间向量及其线性运算.\"\n\n**Middle:**\n- The teacher continues writing on the blackboard, adding \"平行\" (parallel) to the existing text, forming \"1.1.1 空间向量及其线性运算 平行.\"\n- The screen transitions to a new slide titled \"情境引入\" (Context Introduction) with two examples:\n  - 例1: \"我们发现某条直线，可以这样选择其中的一个点作为...\" (We find a certain line, we can choose one of its points as...)\n  - 例2: \"在停车场停车时，我们不可能把一个圆形的...\" (When parking in a parking lot, we cannot park a circular...)\n- The teacher gestures towards the screen, pointing at the text while explaining the examples.\n\n**End:**\n- The screen changes to a slide titled \"新知讲解\" (New Knowledge Explanation) with two sections:\n  - 例1: \"首先我们想知道这条直线是怎么确定的呢？\" (First, we want to know how this line is determined?)\n  - 例2: \"在停车场外，我们不可能把一个圆形的...\" (Outside the parking lot, we cannot park a circular...)\n- The teacher writes a horizontal line on the blackboard, corresponding to the discussion of determining a line.\n- The teacher continues to explain, gesturing towards the blackboard and the screen, emphasizing key points.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard, which initially displays \"1.1.1 空间向量及其线性运算 平行\" and later includes a horizontal line representing a geometric concept.\n- The screen serves as a secondary anchor, displaying context examples and new knowledge explanations.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"平行\" on the blackboard while introducing the concept of parallelism.\n  - A horizontal line is drawn to illustrate the determination of a line in space.\n- **Modifications**: \n  - No erasures are observed; the teacher builds upon the existing content.\n- **Deictic Gestures**: \n  - The teacher points to specific parts of the screen examples while explaining, such as the text in 例1 and 例2.\n  - The horizontal line on the blackboard is indicated during the explanation of line determination.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on both the blackboard and the screen.\n- Important concepts like \"平行\" and the horizontal line are visually highlighted through deliberate writing and drawing on the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"1.1.1 空间向量及其线性运算,\" establishing the foundational concept for the lecture. The teacher began by writing \"平行\" on the blackboard, constructing the initial framework for discussing parallelism in space. The screen transitioned to a \"情境引入\" slide, presenting real-world examples to contextualize the abstract concepts. The teacher pointed to specific text in 例1 and 例2, tracing the narrative of line determination and spatial constraints in parking scenarios.\n\nAs the lecture progressed, the teacher derived a horizontal line on the blackboard, visually representing the geometric concept of line determination discussed in the new knowledge section. This addition was synchronized with the screen's transition to \"新知讲解,\" where the teacher elaborated on determining lines in space. The teacher's gestures actively linked the horizontal line to the explanatory text, emphasizing the practical application of theoretical principles.\n\nFinally, the teacher circled key phrases on the screen and underlined the horizontal line on the blackboard, highlighting critical insights. This visual emphasis aligned with the conclusion, reinforcing the core concepts of spatial vectors and linear operations. The strategic use of the blackboard and screen, combined with deliberate annotations and gestures, effectively reduced cognitive load by providing clear, step-by-step visual guidance, ensuring students could follow the progression from theory to application seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Space Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[264.88 -> 377.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Plane Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[264.88 -> 486.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[264.88 -> 486.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Magnitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[264.88 -> 486.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Parallelism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[264.88 -> 486.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Line Determination",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[387.06 -> 486.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Vector Representation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[414.80 -> 486.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Space Vector Extension",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[378.44 -> 389.06]"
+      },
+      {
+        "id": "c9",
+        "label": "Real-World Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[264.88 -> 486.14]"
+      },
+      {
+        "id": "c10",
+        "label": "Parking Scenario",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[264.88 -> 486.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Space Vectors",
+        "type": "Visual",
+        "original_text": "1.1.1 Space Vectors and Linear Operations - Parallel",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Context Introduction Slide",
+        "type": "Visual",
+        "original_text": "Examples: Line determination and Parking constraint",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "New Knowledge Explanation Slide",
+        "type": "Visual",
+        "original_text": "How to determine lines and parking radius external constraints",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Blackboard Horizontal Line",
+        "type": "Visual",
+        "original_text": "Line representing geometric concept of line determination",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "To extend the concept of plane vectors to three-dimensional space."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Space vectors incorporate direction as a fundamental property."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Space vectors incorporate magnitude as a fundamental property."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Plane vectors have direction as a fundamental property."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Plane vectors have magnitude as a fundamental property."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The concept of parallelism is visually introduced in the title slide."
+      },
+      {
+        "source": "c6",
+        "target": "v4",
+        "relation": "scaffolds",
+        "intent": "Horizontal line drawn on the blackboard illustrates line determination procedure."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Representation strategies evolve from abstract space vector concepts."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students encouraged to extend plane vector concepts to space vectors."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Real-world context includes practical example of parking scenarios."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Slides illustrate real-world examples contextualizing abstract concepts."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Slide text emphasizes new knowledge on line determination in space."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

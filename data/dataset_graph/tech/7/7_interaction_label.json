@@ -1,0 +1,205 @@
+{
+  "video_name": "7_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "Master the resistance unit (ohm) and its conversion relationships; understand the basic concepts of semiconductor materials and superconductivity.",
+  "transcript": "[391.02 -> 429.96] 电阻的单位是欧母简称欧符号是欧米噶欧米噶较大的单位有千欧和赵欧欧千欧和兆欧之间存在以下的换算关系一千欧等于一千欧一兆欧等于十的六次方欧。\n[431.56 -> 511.02] 学习到这儿我们就能够找到课前游戏的制胜法宝了这就是我们在选择导线时应该选择电阻较大的还是电阻较小的呢较小的是电流变大就能够让灯泡更亮了在课前老师为大家布置了一项社会调研活动使大家调查一下家中用电器的电阻以及科技生活中用到的用电器的电阻我们发现手电筒小灯泡和常用的电炉丝的电阻也各不相同在调查作业的过程中有同学向老师问了这样一个问题为什么特别重要的电器设备的导线要用昂贵的银来做而不用铁来做学习到这儿相信这个问题大家也已经迎刃而解了这是因为铁的电阻更大所以我们不选用铁丝在生活中我们常常选用合适的电阻来保护电路那在工业和科技生活中我们也要选用合适的电阻使电流变大来为用电器提供电路的效果合适的功率那为了对电阻我国的科学家对电阻进行深入研究发现了半导体材料并且将它应用于现代的收音机电视机电话机计算机等领域可以说没有半导体就没有我们如今的科技生活除此之外聪明的科学家们还发现了一种神奇的现象叫做超导现象当某一种物质在温度很低时会实现电阻几乎为零这就是超导现象应用于实际呀会给我们带来很多好处比如在发电厂发电时如果我们能能够实现超导是不是就会减少很多电能的损失呢如果用超导材料来制作电子元件我们甚至都不用考虑散热的问题这是不是说明超导现象能为我们的生活带来很多便利呀那老师希望同学们在未来的学习生活中也能够找到自己的学习方法和适合自己学习的环境实现自己的超导人生通过本节课的实验我们发现导体的电阻似乎与它的材料有关那同种材料的导体它们之间的电力又和哪些因素有关呢下节课我们将继续探究影响电阻大小的其他因素本节课就上到这下课。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was accompanied by a shift in body orientation towards the students, indicating an open invitation for participation.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the slide titled \"小测验: 谁的电阻亮？解密时刻\" (Mini Quiz: Whose Resistance is Bright? Decoding Moment). This slide served as the central visual artifact for student engagement.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While students were responding, the teacher maintained eye contact and used hand gestures to emphasize key points on the slide. She occasionally pointed to specific text or diagrams on the slide to guide students' attention to relevant information.\n- The teacher also used the green marker to underline or circle important points on the blackboard, such as the section labeled \"一、电阻\" (1. Resistance), reinforcing the connection between the slide content and the blackboard notes.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student responded, the teacher nodded and smiled, providing non-verbal affirmation. She then proceeded to write additional notes on the blackboard, linking the student's response to the concepts discussed earlier.\n- The teacher used the pointer to highlight specific parts of the slide, such as the formula $R = \\frac{U}{I}$, to visually confirm correct answers and clarify any misconceptions.\n- She drew a simple circuit diagram on the blackboard to visually explain the student's answer, ensuring that the concept was clearly understood.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand towards the class, signaling interaction.\n  - Slide titled \"小测验: 谁的电阻亮？解密时刻\" is displayed.\n\n- **Middle:**\n  - Teacher points to the slide, emphasizing key text and diagrams.\n  - Uses green marker to underline \"一、电阻\" on the blackboard.\n  - Nods and smiles while students respond.\n\n- **End:**\n  - Writes additional notes on the blackboard, linking to slide content.\n  - Highlights formula $R = \\frac{U}{I}$ on the slide with a pointer.\n  - Draws a circuit diagram to visually explain student responses.\n\nThis structured approach ensures that the teacher's visual strategies effectively manage the dialogue and co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the slide titled \"小测验: 谁的电阻亮？解密时刻\" (Mini Quiz: Whose Resistance is Bright? Decoding Moment), accompanied by key concepts and diagrams related to resistance. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem presented on the slide. This gesture signaled the start of an interactive session, encouraging active participation.\n\nAs students began to respond, the teacher moved to the front of the classroom, using hand gestures to emphasize important points on the slide. While a student explained their reasoning, the teacher walked over to the blackboard and used a green marker to underline the section labeled \"一、电阻\" (1. Resistance). She also pointed to the formula $R = \\frac{U}{I}$ on the slide, guiding the student's explanation and ensuring clarity.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the correct answer on the slide using a pointer. She then drew a simple circuit diagram on the blackboard, visually linking the student's explanation to the core lesson content. This action reinforced the connection between the theoretical concepts and practical application, helping students see the relevance of the material.\n\nFinally, the teacher connected the student's correct answer back to the main theorem discussed earlier by drawing an arrow from the diagram to the key points on the blackboard. This visual strategy not only confirmed the student's understanding but also encouraged the class to actively construct their own knowledge by seeing the practical implications of the theoretical concepts.\n\nThrough these visual orchestrations, the teacher facilitated a dynamic interaction where students moved from passively receiving information to actively engaging with and constructing their own understanding of resistance and its applications.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ohm",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[391.02 -> 429.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Resistance Unit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[391.02 -> 429.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Omega Symbol",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[391.02 -> 429.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Kiloohm",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[391.02 -> 429.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Megohm",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[391.02 -> 429.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Conversion Relationships",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[391.02 -> 429.96]"
+      },
+      {
+        "id": "c7",
+        "label": "Semiconductor Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[431.56 -> 511.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Superconductivity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[431.56 -> 511.02]"
+      },
+      {
+        "id": "c9",
+        "label": "Circuit Diagram",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[511.02]"
+      },
+      {
+        "id": "c10",
+        "label": "Favorable Conductor Material",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[431.56 -> 511.02]"
+      },
+      {
+        "id": "c11",
+        "label": "Human-Technology Interface",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[431.56 -> 511.02]"
+      },
+      {
+        "id": "c12",
+        "label": "Resistance Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[429.96 -> 431.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Mini Quiz Slide",
+        "type": "Visual",
+        "original_text": "Mini Quiz: Whose Resistance is Bright? Decoding Moment",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Resistance Section",
+        "type": "Visual",
+        "original_text": "Section labeled '1. Resistance' on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Formula Highlight",
+        "type": "Visual",
+        "original_text": "Highlighted formula R = U/I on the slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Connects resistance to its symbol representation."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Kiloohm is a larger unit of resistance than Ohm."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Kiloohm is part of resistance conversion relationships."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Megohm is part of resistance conversion relationships."
+      },
+      {
+        "source": "c7",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Semiconductor materials are used in modern technology."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Superconductivity provides benefits for technology applications."
+      },
+      {
+        "source": "c12",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Resistance formula is expressed using omega symbol."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide presents a visual representation of related concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Blackboard section underlines key resistance concepts."
+      },
+      {
+        "source": "v3",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Slide highlights the resistance formula."
+      },
+      {
+        "source": "ss1",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Students' answers involve understanding superconductivity."
+      },
+      {
+        "source": "ss2",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with content on the mini quiz slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

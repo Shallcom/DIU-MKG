@@ -1,0 +1,145 @@
+{
+  "video_name": "24_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the basic procedures of genetic engineering; master the main steps in developing transgenic insect‑resistant cotton; recognize the application of PCR technology in amplifying target genes.",
+  "transcript": "[167.32549175 -> 212.42] 上课同学们好今天我们来学习基因工程的基本操作程序我国是棉花的消费和种植大国但是棉花呢极易受到害虫的侵袭同学们有没有什么好的办法能够帮助棉花更好地生长呢你有想法吗它可以转变它的基因好非常好请坐因为在传统的打农药啊这种方法呢会污染环境我国科学家就发现了一种抗虫基因将这种抗虫基因呢转到棉花的体细胞中使棉花可以表达出一种抗虫蛋白从而更好地保护自己那么这种抗虫蛋白是如何导入到棉花体内的呢下面就让我们学习本节课的内容在进行转基因之前我们要想我们得获取到一种目的基因在基因工程的设计和操作中用于改变受体细胞性状或者获得预期表达产物的基因呢就是目的基因在刚刚我们所讲述的例子中就是将苏云基因感经中的杀虫基因导入到棉花的体细胞内从而使棉花能够表达出抗虫蛋白下面同学们自主阅读课本找一下培育转基因抗重棉的主要的四个步骤分别是什么等会儿老师让同学起来回答\n[232.12 -> 334.6509835] 好同学们你们找到是哪四个步骤了好你来回答一下吧好这位同学你找到是哪四个步骤了吗目的基因的筛选与获取进行表达代表的推荐将目的基因导入社会情况和目的基因的检测和鉴定好请坐对就是这四个步骤这个呢就是第一步获取目的基因从相关的已知结构或者功能从相关已知结构和功能清晰的基因中进行筛选是有效的方法随着现代技术的发展呢一些遗传序列数据库的建立和序列对比工具的创新都有效地能够帮助我们筛选出优势的基因我们筛选的这些基因呢一般是具有抗逆性或者是具有抗病抗虫害等等这些基因筛选完基因之后我们就要它进行扩增了我们常用的扩增方法呢是PCR法PCR是聚合酶链式反应的缩写它的原理就是我们之前学过的半保留复制它的作用是在体外提供DNA复制的各种主份与反应条件对目的基因的核根森序列进行大量复制的过程同学们还记得我们之前学过的DNA复制它的步骤是什么吗",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with text and a flowchart. The slide contains Chinese text and two boxes connected by an arrow.\n- The teacher gestures towards the screen, pointing at the flowchart, indicating the process described in the boxes.\n- The blackboard to the left is initially blank except for some pre-written text in green chalk.\n\n**Middle:**\n- The teacher turns to the blackboard and writes additional text in white chalk: \"3.2 基因工程的原理和应用 (1)TH0404\".\n- The teacher continues to gesture towards the digital screen, emphasizing the content displayed. The flowchart remains the focal point of the explanation.\n\n**End:**\n- The teacher points at specific parts of the flowchart on the screen, likely explaining the steps or relationships between the boxes.\n- The teacher's gestures include pointing and moving hands to illustrate connections or processes described in the text.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide with a flowchart. It consists of two boxes connected by an arrow, with accompanying Chinese text.\n   - The blackboard initially contains some green chalk writing, which the teacher adds to with white chalk.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"3.2 基因工程的原理和应用 (1)TH0404\" on the blackboard while explaining.\n   - **Modifications**: No erasures are observed; the teacher only adds to the existing content.\n   - **Deictic Gestures**: The teacher points at the flowchart on the screen, specifically at the boxes and the connecting arrow, while explaining the process.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the flowchart on the screen, likely highlighting the steps or the direction of the process.\n   - The newly written text on the blackboard is in white chalk, contrasting with the existing green text to draw attention.\n\nThis structured visual evolution shows the teacher's method of linking digital content with handwritten notes to enhance understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a flowchart with two interconnected boxes, accompanied by explanatory Chinese text, serving as the primary visual anchor. The blackboard initially featured some green chalk writing. The teacher began by pointing at the flowchart, tracing the arrow to illustrate the process described in the boxes. She then turned to the blackboard and constructed the text \"3.2 基因工程的原理和应用 (1)TH0404\" in white chalk, adding to the existing content. Throughout the lecture, she frequently gestured towards the flowchart, emphasizing the connections between the boxes by tracing the arrow's direction. The teacher's annotations on the blackboard complemented the digital content, creating a cohesive narrative. Finally, she reinforced key points by pointing at specific parts of the flowchart, ensuring students followed the logical progression. This dual approach of digital and handwritten content reduced cognitive load by providing both a structured overview and detailed annotations, facilitating better comprehension of the gene engineering principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Genetic Engineering Basics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[167.32 -> 212.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Transgenic Cotton Development",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[167.32 -> 334.65]"
+      },
+      {
+        "id": "c3",
+        "label": "PCR Technology",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[232.12 -> 334.65]"
+      },
+      {
+        "id": "c4",
+        "label": "Insect Resistance Gene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[167.32 -> 212.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Gene Amplification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[232.12 -> 334.65]"
+      },
+      {
+        "id": "c6",
+        "label": "Target Gene Selection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[232.12 -> 334.65]"
+      },
+      {
+        "id": "c7",
+        "label": "Transgenic Cotton",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[167.32 -> 212.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Flowchart on Screen",
+        "type": "Visual",
+        "original_text": "Slide with flowchart of gene engineering process.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Text on Blackboard",
+        "type": "Visual",
+        "original_text": "3.2 Principles and Applications of Genetic Engineering (1)TH0404",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explains genetic engineering concepts as a foundation for transgenic cotton development."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes the use of insect resistance gene in cotton development."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Describes the result of developing transgenic cotton."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Utilizes PCR technology to perform gene amplification."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Gene amplification follows gene selection as a step in transgenic cotton development."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Depicts the transgenic cotton development process."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Highlights the PCR technology's role in gene amplification."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Illustrates principles and applications for genetic engineering."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "engages",
+        "intent": "Students actively answer questions related to transgenic cotton development."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Supports understanding of the insect resistance gene's role."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

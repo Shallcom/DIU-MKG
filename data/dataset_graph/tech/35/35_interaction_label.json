@@ -1,0 +1,133 @@
+{
+  "video_name": "35_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "Understand the propagation characteristics of electromagnetic waves in a vacuum; identify the differences between electromagnetic waves and other wave forms; analyze the applications of electromagnetic waves in everyday life.",
+  "transcript": "[293.0 -> 351.1] 好这是一个电磁波我们看这里又是一个争夺帐我们把这个移动电话放在里面好我们现在给移动电话打电话我们给它传播好我们来听听到了什么声音听到了里面发出你好你好的声音哎很好那这个声音它能够被记录下来那这个我们在里面播放音乐我们看看能不能来在外面能够听到好播放哎同学们你们是不是能够听到其中的声音嗯好那好那这个其实就是我们刚刚提到的电磁波好。\n[353.0 -> 491.6] 移动电话为什么能够接收到信号并且能够向我们传递出信号呢这个过程我们来看一下好我们说声音传播的时候我们说真空照外听不到声音里面的录音设备也听不到外界的声音但电磁波可以接受也可以传给我们也可以听到我们当时总结出来的规律是真空中不能传播那哪位同学可以来通过刚刚的实验总结出电磁波传播会是怎样的特点好你来说真空中可以传播电磁波很好请坐这位同学发现了电磁波传播的一个秘密真空中可以传播电磁波好我们来总结一下刚刚我们发现的作用首先我们发现它真空中能够传播诶真空中能够传播那我们在实际生活中能有什么运用比如我们的太空中是真空的那我们就可以使它能够应用于什么东西呢我们可以使它能够运用于什么东西呢我们在真空中建置来帮助我们传递信息比如在太空中我们的太空人可以在其中进行交流他们使用的就是我们的电磁波好这是其中一个作用能够传递信息。\n[501.0 -> 529.64] 好传递信息我们再来看它的一个特点我们说它的一个声波的速度光速是多少我现在还记得吗对三乘十的八次方我们发现我们电磁波的声速电磁波传播的速度也是这么的快。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content displayed on the interactive whiteboard, specifically the section discussing the role of electromagnetic waves in communication. The slide highlighted the transmission of information through electromagnetic waves in a vacuum.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher used hand gestures to emphasize key points on the slide. For instance, she pointed directly to the text on the board that read \"电磁波可以在真空的介质中传播信息\" (Electromagnetic waves can transmit information in a vacuum medium).\n- She also wrote additional notes on the blackboard, such as \"真空可以传播电磁波\" (A vacuum can propagate electromagnetic waves), to reinforce the concept being discussed.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually confirmed the information by circling and underlining key phrases on the slide and blackboard. For example, she emphasized the formula \"$v = \\lambda f$\" by pointing to it and ensuring students noted its relevance to wave propagation.\n- She used the interactive whiteboard to highlight the text, making sure students focused on the critical aspects of electromagnetic wave properties and their applications in communication.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher starts with a sweeping gesture towards the class.\n  - The slide displays a diagram of a mobile phone call, with annotations about sound waves and electromagnetic waves.\n\n- **Middle:**\n  - The teacher points to the comparison between sound waves and electromagnetic waves on the slide.\n  - She writes \"真空可以传播电磁波\" on the blackboard, linking it to the slide content.\n  - The teacher emphasizes the role of electromagnetic waves by underlining the text on the slide.\n\n- **End:**\n  - The teacher circles the formula \"$v = \\lambda f$\" on the slide, explaining its significance.\n  - She uses hand gestures to summarize the key points, ensuring students visually connect the blackboard notes with the slide content.\n\nThis structured approach ensures that visual elements are effectively used to co-construct knowledge, guiding students through the material with clear visual cues and reinforcement.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a diagram comparing sound waves and electromagnetic waves, highlighting their roles in communication. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content displayed. She pointed to the key phrases on the slide, such as \"电磁波可以在真空的介质中传播信息,\" emphasizing the unique properties of electromagnetic waves.\n\nAs the discussion progressed, the teacher actively facilitated the interaction by moving to the blackboard. While a student explained their understanding of wave propagation, the teacher walked over to the board and wrote down the student's key terms, reinforcing the concept of \"真空可以传播电磁波.\" She used hand gestures to connect these notes back to the slide, ensuring students visually linked the ideas.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the formula \"$v = \\lambda f$\" on the slide, highlighting its importance. She then drew an arrow from the student's notes on the blackboard to the main points on the slide, illustrating how electromagnetic waves facilitate communication in a vacuum.\n\nThroughout the interaction, the teacher's gestures and visual cues helped students move from passively receiving information to actively constructing their own understanding. By linking the student's response to the core lesson content, she encouraged deeper engagement and comprehension, transforming the classroom into a dynamic space for knowledge co-construction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[293.0 -> 529.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Sound Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[293.0 -> 529.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Vacuum Medium",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[293.0 -> 529.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Wave Propagation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[293.0 -> 529.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Formula v = λf",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[293.0 -> 529.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Communication",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[293.0 -> 529.64]"
+      },
+      {
+        "id": "c7",
+        "label": "Speed of Light",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[501.0 -> 529.64]"
+      },
+      {
+        "id": "v1",
+        "label": "Electromagnetic Wave Slide",
+        "type": "Visual",
+        "original_text": "Diagram comparing sound and electromagnetic waves. Displays communication via mobile phone.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Board Notes",
+        "type": "Visual",
+        "original_text": "\"Vacuum can propagate electromagnetic waves\" written on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide visually summarizes the properties and communication role of electromagnetic waves."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "The slide supports understanding of electromagnetic waves in a vacuum."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Wave propagation understanding is built upon the principle of a vacuum medium."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Board notes reinforce the concept of electromagnetic waves propagating in a vacuum."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Electromagnetic wave properties include the wave formula v = λf."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Understanding of electromagnetic waves supports the concept of communication."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The formula v = λf is linked with the speed of electromagnetic waves such as light."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The topic of communication keeps students engaged in discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

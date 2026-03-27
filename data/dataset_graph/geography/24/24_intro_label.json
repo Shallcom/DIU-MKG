@@ -1,0 +1,122 @@
+{
+  "video_name": "24_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the importance of geography in developing students' core competencies; master the basic concepts of the human‑environment coordination perspective in geography; enhance students' awareness of and analytical ability regarding sustainable development issues.",
+  "transcript": "[0.0 -> 89.42] 更有利于培养学生的核心素养例如地理学科更有利于培养学生尊重客观规律建立人地协调的理念同时提升注意地方国家乃至全球能与地理问题相关的以及可持续发展的问题的意识二我认为更有利于建立以核心素养为主导的课堂根据学生形成核心素养的特点从而围绕培育核心素养展开建立五化课堂三我认为更有利于创新培育核心素养的学习方式在教学过程当中可以利用自主学习探究学习合作性学习等较为新颖的学习方式不仅仅是传授传授学生知识更加的是培养学生知识学生的学习能力。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. The slide contains text in Chinese, which appears to be the title of the lesson.\n\n#### 2. **The Title Event**\n- The exact title on the screen reads: \"陆地水体间的相互关系\" (Relationships Between Terrestrial Water Bodies).\n- The teacher is standing in front of the screen, presenting the slide. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the slide. The slide primarily displays the title and a list of other slides on the left.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and appears to be reading or presenting from them.\n- No specific gestures, such as pointing or circling, are observed in the frames provided.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen, which displays the title slide \"陆地水体间的相互关系.\"\n- The teacher holds papers, likely notes or a script for the presentation.\n\n**Middle:**\n- The teacher remains stationary, focusing on presenting the content from the papers.\n- The slide on the screen does not change, maintaining the title throughout this phase.\n\n**End:**\n- The teacher continues to present, with no additional gestures or changes to the slide content.\n- The audience is seated, facing the teacher and the screen, indicating engagement with the presentation.\n\n### Summary\nThe introduction phase of the lesson centers around the title slide \"陆地水体间的相互关系.\" The teacher uses papers to guide their presentation, with no additional visual gestures or changes to the slide content observed. The focus remains on the title, setting the stage for the lesson's topic.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title slide \"陆地水体间的相互关系.\" The teacher holds papers, likely notes, and maintains a focused stance, indicating the start of the lesson. The initial visual stimulus is the title slide, which serves as the hook to capture the students' attention. Throughout this phase, the teacher remains engaged with the content on the papers, suggesting a structured approach to presenting the topic. There is no transition observed in the visual aids, as the slide remains static, emphasizing the importance of the title. The teacher's actions are centered around presenting from the notes, with no specific gestures directed at the screen or board. This setup establishes a clear focus on the relationships between terrestrial water bodies, setting the stage for deeper exploration. The introduction effectively links the topic to the students' existing knowledge by presenting a clear and concise title, preparing them for the forthcoming detailed discussion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Relationships Between Terrestrial Water Bodies",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Human-Environment Coordination",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Core Competencies in Geography",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Sustainable Development Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Self-directed Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Inquiry-based Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Collaborative Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide Display",
+        "type": "Visual",
+        "original_text": "The hook object, presentation slide with 'Relationships Between Terrestrial Water Bodies'.",
+        "ocr_corrected": false,
+        "timestamp": "[0.0 -> 89.42]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 89.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the central theme of the lesson using the title slide."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Core competencies in geography involve understanding human-environment coordination."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Core competencies are built upon awareness of sustainable development issues."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Inquiry-based learning evolves from self-directed learning methodologies."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Inquiry-based learning includes collaborative aspects."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The discussion on core competencies prompts student engagement and thinking."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "The title slide engages students with the topic of relationships between water bodies."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,190 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Explain the mechanisms of resting‑potential and action‑potential formation; understand how threshold stimulation influences neural impulses.",
+  "transcript": "[646.04 -> 737.12] 因此在我们的间隙状态下所形成的电位是这个样子的那么接下来呀就是动作电位了当我们对神经纤维施加一定的刺激之后它就会引起钠离子的内流但是呢这个内流它是有一定条件的必须要达到一定的阈值大家都知道我们碰到针的时候手会迅速弹起来但是如果在你的手上落了一个灰尘你还会迅速弹起来吗就不会了所以呢在一个玉指的刺激下呢纳粒子通道就会打开让我们的电位升到四十毫伏纳粒子它会大量的内流此时呢膜外的正电荷变少变少膜内的正电荷变多因此我们的电位就变成了这个样子那么当达到四十毫伏的时候呀这个时候我们的钠离子门控通道就会立马关上而钾离子通道它在它会在膜两侧的这个电位差的影响下而迅速打开此时呢钾离子就会外流那么钾离子一外流钾离子外流之后膜内侧这个正电荷又会变少往外侧的正电荷又会变多所以呢我们的摩电位又会下降好谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram illustrating the process of neurotransmission. The diagram includes a series of connected structures labeled with ions such as $\\text{Na}^+$ and $\\text{K}^+$, and a graph depicting potential changes over time.\n   - The layout includes a horizontal line graph with labeled axes and a series of vertical lines indicating different phases or points in the process.\n\n2. **Key Knowledge Items (Content View)**:\n   - Diagram elements: $\\text{Na}^+$, $\\text{K}^+$, and other ion symbols.\n   - Graph: Axes labeled with potential (y-axis) and time (x-axis).\n   - Text on the blackboard: \"神经冲动的产生和传导\" (Generation and Conduction of Nerve Impulses).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the $\\text{Na}^+$ and $\\text{K}^+$ symbols, emphasizing their role in the process.\n   - She traces the trajectory of the graph line, highlighting changes in potential over time.\n   - The teacher circles specific points on the graph, likely indicating key phases or thresholds in the nerve impulse process.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen in the provided frames. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a diagram on the blackboard centered on the generation and conduction of nerve impulses. The teacher visually reviews the content by pointing to the $\\text{Na}^+$ and $\\text{K}^+$ symbols, emphasizing their roles in the process. She traces the trajectory of the graph line, highlighting changes in potential over time, and circles specific points to mark key phases. Finally, the visual focus remains on the diagram, reinforcing the core concepts without transitioning to homework or next steps.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Resting Potential",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Action Potential",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Threshold Stimulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Na+ Inflow",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c5",
+        "label": "K+ Outflow",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Membrane Charge Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c7",
+        "label": "40 mV Potential",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Na+ Channel Closure",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c9",
+        "label": "K+ Channel Opening",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[646.04 -> 737.12]"
+      },
+      {
+        "id": "c10",
+        "label": "Nerve Impulse Generation",
+        "type": "Visual",
+        "original_text": "Generation and Conduction of Nerve Impulses",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Ion Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with Na+ and K+ ions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Potential Graph",
+        "type": "Visual",
+        "original_text": "Graph showing potential changes over time",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Action potential following resting potential."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Threshold stimulation is necessary for action potential."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Action potential involves Na+ inflow."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Action potential involves K+ outflow."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Closure of Na+ channel post-inflow."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Opening of K+ channels for outflow."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Charge distribution affects membrane potential."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "summarizes",
+        "intent": "Summarizing nerve impulse generation using ion diagram."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "summarizes",
+        "intent": "Summarizing nerve impulse conduction using potential graph."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes Na+ inflow through pointing."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes K+ outflow through pointing."
+      },
+      {
+        "source": "c12",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher traces graph to highlight membrane potential."
+      },
+      {
+        "source": "c12",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher circles graph points to highlight key potential value."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Engages students through visual presentation of concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

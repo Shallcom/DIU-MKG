@@ -1,0 +1,127 @@
+{
+  "video_name": "4_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the concept of DNA semi‑conservative replication; analyze how scientists experimentally verified the mechanism of semi‑conservative replication; master the significance of semi‑conservative replication in genetics.",
+  "transcript": "[0.0 -> 54.36] 好上课同学们好那在上节课的学习中呢我们已经知道了沃森和克里克呢讲起发表的论文中提出的是的一个遗传物质的一个自我复制并且呢我们知道了其中的一个复制方式是半保留复制很好可是那这个半保留复制是怎么得出的呢对实验那今天呢我们就同走科学家们的实验之路来看看半保留复制的一个具体的过程",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displaying a diagram of DNA strands. The text on the slide reads: \"DNA双螺旋结构模型\" (DNA double helix structure model).\n\n#### 2. **The Title Event**\n- The title on the screen is \"新课导入\" (Introduction to New Lesson). The teacher points to this title on the screen, emphasizing the start of the lesson.\n\n#### 3. **The Objectives**\n- The slide includes text explaining the DNA double helix structure and its significance. The learning goals are not explicitly listed as bullet points but are implied through the content: understanding the DNA structure and its replication mechanism.\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the DNA diagram on the screen, explaining the structure.\n- The teacher uses hand movements to emphasize points, such as tracing the shape of the DNA strands.\n- The teacher writes on the blackboard, using her hand to underline or highlight key points related to the DNA structure.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the DNA double helix diagram.\n- She points to the title \"新课导入\" on the screen, indicating the start of the lesson.\n- The teacher gestures towards the DNA diagram, explaining its components and significance.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, emphasizing specific parts of the DNA structure.\n- She moves to the blackboard, writing additional notes related to the DNA structure.\n- The teacher uses hand movements to trace the shape of the DNA strands, reinforcing the visual content on the screen.\n\n**End:**\n- The teacher summarizes the key points, pointing back to the diagram on the screen.\n- She writes a concluding note on the blackboard, linking the visual content to the lesson objectives.\n\nThis structured approach ensures that the teacher's actions are directly tied to the visual elements, enhancing the clarity and focus of the lesson introduction.",
+  "visual_narrative": "Initially, the screen presents a diagram of the DNA double helix structure, serving as the hook to capture the students' attention. To bridge to the topic, the teacher points to the title \"新课导入\" on the screen, emphasizing the start of the lesson. She gestures towards the DNA diagram, explaining its components and significance, using hand movements to trace the shape of the strands. The visual focus then shifts to the blackboard, where the teacher writes additional notes related to the DNA structure, linking the visual content to the lesson objectives. This introduction connects the new knowledge of DNA structure to the students' existing understanding of biological concepts, setting the stage for deeper exploration of genetic mechanisms and replication processes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "DNA Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 54.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Double Helix",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 54.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Semi-Conservative Replication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Watson and Crick Paper",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 54.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Replication Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 54.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Genetic Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.36]"
+      },
+      {
+        "id": "v1",
+        "label": "DNA Double Helix Diagram",
+        "type": "Visual",
+        "original_text": "DNA double helix structure model shown on slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title Introduction",
+        "type": "Visual",
+        "original_text": "Introduction to New Lesson",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the DNA diagram to explain structure.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s2",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "DNA Structure includes the concept of Double Helix."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Double Helix concept is visualized by the diagram on the screen."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Semi-Conservative Replication builds upon the Replication Mechanism."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Semi-Conservative Replication evolves from the concept of Genetic Significance."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Watson and Crick Paper includes the principle of Semi-Conservative Replication."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to emphasize the diagram shown on screen."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures prompt students to engage with and think about the DNA structure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

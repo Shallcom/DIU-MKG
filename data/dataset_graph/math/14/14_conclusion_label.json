@@ -1,0 +1,146 @@
+{
+  "video_name": "14_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Master the method of using undetermined coefficients to analyze multivariate functions.; Understand the effect of each parameter on the graph of a quadratic function.",
+  "transcript": "[478.26 -> 495.08] 对于这个函数我们有三个数字我们都不知道分别是大A还有奥米噶以及范这三个参数那么我们如何去讨论呢我们学二次函数是不是也有三个参数不知道啊。\n[496.4 -> 503.56] 我们二次函数的表达式是Y等于AX平方加上BX再加C。\n[505.12 -> 521.82] 我们是如何去研究二次函数的这样一个参数位置的情况呢我们是不是运用了一个代定系数法我们讲当我们研究A的时候我们就假设B和C取一个定值。\n[525.4 -> 554.02] 然后去研究A的去研究A的这么一个情况好那么同样我们研究这个函数就是我们今天的这个主题那么我们应该如何去研究呢是不是一样我们要运用但数但定系数法通过定二求一那么对于第一个我们就可以假定。\n[555.4 -> 582.76] 假定A和Omega不变然后去研究Phi对函数图像的影响那么第二个就同样我们也假设A和Phi不变我们去研究Omega。\n[585.4 -> 673.74] 同理第三种我们也讲是Phi和Omega不变我们去研究A的这么一个情况好那么我们可以将这个变得更简单一点我们可以取当我们假定A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变的时候我们可以取它为一一是不是很简单啊好那么第二个同样我们假设A和Omega不变我们以假定它为一好第三个也是一样的那么我们看到第一个情况假定A和Omega为一的时候我们去研究方爱对函数的影响好如果定动点以O零为起点当它经过X秒的时候到达了P点在我们的这个O零的时候Y是等于零所以它是哪个函数呢是不是Y等于三X好那么当它以QE当它以QE的时候为起点然后转动X秒那么此时起点的角角度应该是。\n[675.4 -> 737.74] 应该是啊X减去六分之八因为我们这里假定了它是六分之八好所以我们可以将上一X的函数如果转移到Y等于上一我们一上映X加六分之八这样一个情况的话那么我们将XY这么一个点就到了X减六分之八的Y这么一个点所以我们看它的图像是不是整体都向左平移了我们知道左加右减所以它向左平移了六分之八所以我们进行总结我们知道Y等于三二开始它会好感谢各位评论老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the final version of the function transformation process.\n   - The blackboard layout includes:\n     - The title: \"5.6 函数 $y=A\\sin(\\omega x+\\varphi)$\" at the top.\n     - Three main steps labeled ①, ②, and ③, detailing transformations:\n       - ① $A \\sin \\omega x \\rightarrow y$\n       - ② $A \\sin \\omega x \\rightarrow A \\sin(\\omega x+\\varphi)$\n       - ③ $A, \\omega, \\varphi \\rightarrow A, b, \\omega, \\varphi$\n     - A final equation: $y = \\sin x \\rightarrow y = A\\sin(\\omega x+\\varphi)-2$.\n     - A diagram illustrating the transformation of a sine wave.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas:\n     - $y = A\\sin(\\omega x+\\varphi)$\n     - $y = \\sin x \\rightarrow y = A\\sin(\\omega x+\\varphi)-2$\n     - Transformation steps: $A \\sin \\omega x \\rightarrow y$, $A \\sin \\omega x \\rightarrow A \\sin(\\omega x+\\varphi)$, $A, \\omega, \\varphi \\rightarrow A, b, \\omega, \\varphi$.\n   - Diagram elements:\n     - Sine wave graph with labeled transformations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each step on the blackboard in order, emphasizing the transformation process.\n   - The teacher's finger traces the final equation, highlighting the complete transformation from $y = \\sin x$ to $y = A\\sin(\\omega x+\\varphi)-2$.\n   - The teacher gestures towards the diagram, explaining the visual representation of the transformations.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with a diagram and text, indicating further exploration of the topic.\n   - The slide includes a graph and text in Chinese, suggesting additional context or homework related to the sine wave transformations.\n   - No explicit homework or assignment details are visible, but the slide implies continuation of the topic in the next session.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the transformation of the function $y = A\\sin(\\omega x+\\varphi)$. The teacher visually reviews the content by pointing to each transformation step in sequence, emphasizing the progression from $A \\sin \\omega x \\rightarrow y$ to the final equation $y = A\\sin(\\omega x+\\varphi)-2$. The teacher's gestures highlight the complete transformation process, tracing the final equation and diagram to reinforce understanding. The visual focus then shifts to the screen, which displays a diagram and text, suggesting further exploration of the topic, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Undetermined Coefficients",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[478.26 -> 495.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Quadratic Function Parameters",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[496.4 -> 503.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Function Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[505.12 -> 673.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Parameter Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[555.4 -> 582.76]"
+      },
+      {
+        "id": "c5",
+        "label": "A, ω Constants",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[585.4 -> 673.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Φ Impact",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[555.4 -> 582.76]"
+      },
+      {
+        "id": "c7",
+        "label": "y = A sin(ωx + Φ)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[545.4 -> 673.74]"
+      },
+      {
+        "id": "c8",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Visual",
+        "original_text": "Teacher visually reviews transformations on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating sine wave transformation",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Final Equation Review",
+        "type": "Visual",
+        "original_text": "Teacher traces y = sin x to y = A sin(ωx + Φ) - 2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Engaged Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Use of undetermined coefficients applied to quadratic functions."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Function transformation includes analyzing Φ's impact."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Parameter impact analysis considers constants."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Phi's impact is analyzed within the function."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Summarizing transformations with visual aid."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Visual representation complements equation tracing."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Teacher traces the complete transformation process."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "engages",
+        "intent": "Students are engaged by visual consolidation."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Quadratic function understanding evolves from parameter analysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

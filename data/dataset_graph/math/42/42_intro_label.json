@@ -1,0 +1,120 @@
+{
+  "video_name": "42_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Learn to identify and describe the monotonicity of functions; understand the concept of function monotonicity through graph observation.",
+  "transcript": "[0.0 -> 118.16] 各位评委老师好我是四十二号选手我抽到的即兴讲演题目是高中数学教学中会设计一些概念的形成高一有单调性高二有导数的概念那么一些教师喜欢直接地引入这些概念然后再进行一些推导身为高中教师的你应该怎样讲函数单调性这一节呢首先我认为高一学生对数学充满了求知欲与好奇心具有一定分析问题解决问题的能力但抽象概括能力还有待提高并且具有一定的为难情绪没有掌握适合自己的学习方法其次函数这一节在高中中占了非常大的比例并且也是很多学生比较不容易突破的一个重难点在学习函数的单调性之前已经学会了函数并且后续也会学习函数的机有性嗯所以呢在教学过程中我会让学生通过自己动手操作描点画图然后观察函数图像最后自己总结从而渗透竖形结合的思想方法体会到函数图像的结合方法体来到函数图像的结合教师为主导学生为主体让学生成为学生课堂的主人从而符合学生成长的最近发展区而且作为高一的教师呢我们也可以积极地向身边的老教师来请教经验来学习怎样来进行函数的教学然后帮助学生更好地来学习函数以上便是我的即兴讲演的全部内容了谢谢您的观看下面开始我的授课。\n[122.88 -> 151.52] 上课同学们好请坐同学们我们知道数学来源于生活又应用于生活那么这节课让我们一起来学习七点二离散型随机变量及其分布列看看你能否通过今天的学习生活中有什么能够应用到本节课知识的地方呢。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual object is a digital screen displaying text in Japanese: \"12.2等比数列と等差数列の事例\" (Examples of Geometric and Arithmetic Sequences). This sets the context for the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"12.2等比数列と等差数列の事例\" (Examples of Geometric and Arithmetic Sequences). The teacher does not physically write this; it is displayed on the screen. The teacher gestures towards the screen, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this introduction phase.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely to emphasize the title or content displayed.\n- The teacher's hand movements are directed towards the screen, indicating a focus on the digital content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"12.2等比数列と等差数列の事例\" (Examples of Geometric and Arithmetic Sequences).\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, maintaining focus on the title.\n- The blackboard remains mostly blank, with some text on the side, possibly indicating the lesson's theme or section.\n\n**End:**\n- The teacher continues to engage with the class, occasionally looking at the screen and gesturing.\n- The screen remains unchanged, reinforcing the lesson's focus on geometric and arithmetic sequences.\n\n### Summary\nThe introduction phase centers on the digital screen displaying the lesson's title. The teacher uses gestures to direct attention to the screen, emphasizing the topic of geometric and arithmetic sequences. No additional visual content or objectives are introduced during this phase.",
+  "visual_narrative": "Initially, the screen presents the title \"12.2等比数列と等差数列の事例\" (Examples of Geometric and Arithmetic Sequences), serving as the hook to capture the students' attention. To bridge to the topic, the teacher gestures towards the screen, emphasizing the title and likely explaining its relevance. The visual focus remains on the screen throughout, with the teacher occasionally pointing to the text to highlight key elements. The blackboard remains mostly blank, directing all visual attention to the digital content. This approach establishes the lesson goal by clearly presenting the topic of geometric and arithmetic sequences, linking it to the students' existing mathematical knowledge and setting the stage for further exploration of these concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Monotonicity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 118.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Geometric Sequences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 118.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Arithmetic Sequences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 118.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Function Graphs",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Function Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 118.16]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Curiosity",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c7",
+        "label": "Digital Screen Title",
+        "type": "Visual",
+        "original_text": "Examples of Geometric and Arithmetic Sequences",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Blackboard",
+        "type": "Visual",
+        "original_text": "Mostly blank with some text on the side",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding monotonicity through graph observation."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The screen displays examples of geometric sequences."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The screen displays examples of arithmetic sequences."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Analyzing function graphs to understand function behavior."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student curiosity is engaged by the concept of monotonicity."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the screen content."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Teacher gestures scaffold understanding by directing focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

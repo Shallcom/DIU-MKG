@@ -1,0 +1,141 @@
+{
+  "video_name": "3_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Master the definition and calculation method of work; understand how to calculate work when the force direction differs from the direction of motion.",
+  "transcript": "[60.0 -> 77.64] 上课同学们好今天我们来学习。\n[88.94 -> 112.34] 功和功率其实呀在起重机提升重物的时候重物运动的方向与力的方向是一致的那此时我们应该怎样计算这个力对物体所做的功呢来哪个都没知道呀思考一下初中学过这个知识思考一下应该怎么计算。\n[113.48 -> 115.66] 来哪个都没知道可以举手示意一下老师。\n[117.74 -> 153.24] 来你来吧这位同学应该怎么计算呢通等于它的力乘以它的在这个力上的移动距离非常好请坐看来这位同学对初中知识掌握得非常牢固但其实在生活中我们常见的是力的方向与运动方向不一致的情况例如在马拉雪橇的时候我们能发现拉力的方向与力物体运动的方向成一定的啊角度对吧那么在这种情况下我们应该如何去计算力所做的功呢。\n[154.82 -> 162.3] 相信通过今天的学习同学们都能解决这个问题来接下来给大家半分钟的时间看一下目标。\n[164.74 -> 175.22] 好时间到那接下来老师有一个问题当物体受力的方向与物体运动的方向不一致的时候如何计算物体所做的功呢。\n[177.38 -> 213.06] 一致的时候如何计算物体所做的功能来拿出去知道公式W等于FL对非常好那个是在方向力的方向与运动方向一致的情况下那如果力的方向与运动方向不一致而是成一个角度而发的时候我们应该怎样去计算呢我们可以把力进行分解那依据之前所学的力的分解知识来哪个同学知道怎样进行分解呢。\n[215.82 -> 226.04] 好你来说一下吧把力分解为S方向和Y方向非常好请坐把力分解到S方向和Y方向。\n[230.2 -> 235.24] 把力分解到S方向的时候此时。\n[237.38 -> 239.18] 力F一应该等于多少呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"功和功率\" (Work and Power).\n- The teacher writes \"功和功率\" on the chalkboard, aligning it with the slide content.\n- The screen shows an image of a horse pulling a cart, accompanied by text explaining the relationship between force direction and object movement.\n\n**Middle:**\n- The teacher points to the text on the screen, which discusses calculating work when force and motion directions are not aligned.\n- The teacher gestures towards the horse image, emphasizing the angle between force and movement.\n- The screen transitions to a slide with three bullet points outlining the lesson objectives:\n  1. Calculate work done by a force.\n  2. Derive the power formula.\n  3. Understand characteristics of doing no work.\n\n**End:**\n- The teacher presents a slide with a diagram showing a force applied at an angle to an object's movement.\n- The teacher writes the formula $W = F \\cdot L$ on the screen, explaining how to calculate work when force and motion are aligned.\n- The teacher emphasizes the formula, using hand gestures to highlight the variables.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide with the diagram illustrating force application at an angle. It includes:\n  - A horizontal line representing the object's path.\n  - An arrow indicating the force direction at an angle.\n  - Labels for force ($F$) and distance ($L$).\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the formula $W = F \\cdot L$ on the screen, correlating with the diagram.\n- **Modifications**: The teacher adjusts the diagram on the screen to show alignment of force and motion, simplifying the explanation.\n- **Deictic Gestures**: The teacher points to the angle in the diagram while discussing force decomposition, then to the formula to explain its derivation.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses a pointer to highlight the formula $W = F \\cdot L$, ensuring it is the focus.\n- The teacher circles key parts of the diagram to draw attention to the relationship between force and distance.\n- The teacher emphasizes the bullet points on the slide by pointing to each as they are discussed, reinforcing the lesson objectives.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide titled \"功和功率\" (Work and Power), featuring an image of a horse pulling a cart and text explaining the relationship between force direction and object movement. The teacher wrote \"功和功率\" on the chalkboard, establishing the lesson's focus. The teacher then constructed a narrative around the horse image, pointing to the text to explain how force and motion directions affect work done. \n\nNext, the teacher transitioned to a slide with three bullet points outlining the objectives: calculating work, deriving the power formula, and understanding no-work scenarios. The teacher annotated these points, emphasizing each as they were discussed. The screen then showed a diagram with a force applied at an angle to an object's path. The teacher derived the formula $W = F \\cdot L$ by tracing the alignment of force and motion in the diagram, using gestures to highlight the angle and its implications.\n\nFinally, the teacher resolved deixis by pointing to specific parts of the diagram, tracing the force vector and distance to illustrate work calculation. The teacher circled the formula $W = F \\cdot L$ on the screen, reinforcing its importance. Throughout, the teacher used visual aids to break down complex concepts, reducing cognitive load by linking gestures to specific elements, ensuring students followed the logical progression from diagram to formula.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Work Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[60.0 -> 77.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Work Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[88.94 -> 153.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Force-Motion Alignment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[88.94 -> 153.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Force Decomposition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[177.38 -> 226.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Power Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[164.74 -> 175.22]"
+      },
+      {
+        "id": "c6",
+        "label": "No Work Scenario",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[164.74 -> 175.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Angle Force Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[177.38 -> 226.04]"
+      },
+      {
+        "id": "v1",
+        "label": "Work and Power Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Work and Power' showing horse pulling cart",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Horse Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of horse pulling cart, showing force angle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Formula Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing force at angle to object's motion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[117.74 -> 153.24]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Work calculation builds upon the definition of work."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Work calculation incorporates principle of force-motion alignment."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Force decomposition is used to understand force applied at an angle."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The alignment of force and motion is visualized in the horse diagram."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the power formula as a learning objective."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The diagram scaffolds understanding of force decomposition."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students' answers prompt deeper thinking about work calculation."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide summarizes scenarios of doing no work as an objective."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

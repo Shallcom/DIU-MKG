@@ -1,0 +1,127 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the basic attributes and geometric characteristics of ellipses; master the symmetry and eccentricity calculation methods under the standard equation of an ellipse.",
+  "transcript": "[426.501075 -> 441.98] 那好现在我们再来想一想那你觉得椭圆会具有哪些顶点呢来后面那位同学来请你回答一下有与X轴的焦点与Y轴的焦点它有分别关于X轴和Y轴的焦点对吧那它的四个顶点应该是A顶对还有复A零B还有零复B非常好请坐那现在通过定义的角度我们得出了以下两个结论那现在我们再想一想椭圆还会具有哪些性质呢它可能还会具有对称性和离心率现在我们再来从几何的角度来看呢我们再来从几何的角度来看那现在我们再想一想椭圆还会具有哪些性质呢它可能还会具有对称性和离心率现在我们再来从几何的角度来看那现在我们再想一想一想椭圆还会具有哪些性质呢它可能还会具有对称性和离心率进行分析同样还是这一个模型你觉得椭圆它怎样才能证明出它具有对称性呢那现在如果我将沿着X轴切割垂直的方向画几条竖箭你能得出什么结论呢它可能椭圆关于X轴对称那同样的道理如果我沿着平行对称于X轴方向再画几条直线呢那你觉得椭圆关于外轴对称非常好请坐椭圆关于外轴对称那关于X轴和关于外轴对称呢还可以通过什么进行对称呢那好我们现在再来画几条直线你能够发现此时椭圆关于圆点对称那通过以上这三种情况我们能够得到椭圆具有对称性。\n[455.66 -> 502.76] 好学习了椭圆具有对称性现在我们再来从代数的角度进行分析现在还是同样一个数学模型我们现在假设这个椭圆的标准方成为X平方比五的平方加上万的平方比三的平方等于一枚幂那如果此时我将它标出来以后用一个三角构成一个直角三角形并得到A等于五B等于三那我们知道C应该等于根号下A方减B方那通过我们把这个数带上去就可以得到C等于三四那这样我们知道椭圆的离心力的方程应该为。\n[514.54 -> 558.62] 离心力应该怎样表示一等于C非常好那我们把这个数带进去那这个例子它的离心率应该是五分之四那好通过本节课的学习我们知道了我们得到了椭圆的曲直范围还有它的顶点还有它的对称性离心率那这样我们就得到了本节课所学习到的椭圆的简单几何性质那同学们对于本节课还有哪些疑问吗。\n[561.14 -> 566.7] 那好没有的话那我们本节课就上到这儿那下课同学们再见。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a structured list of key points related to the lesson on hyperbolas.\n   - The layout includes a title at the top, followed by a list of bullet points. There is also a diagram of a hyperbola with labeled axes and a focus point.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings visible on the screen include:\n     - 椭圆的几何性质 (Geometric Properties of Ellipses)\n     - 椭圆的对称性 (Symmetry of Ellipses)\n     - 椭圆的顶点 (Vertices of Ellipses)\n     - 椭圆的有界性 (Boundedness of Ellipses)\n     - 椭圆的离心率 (Eccentricity of Ellipses)\n   - The blackboard contains the formula for eccentricity: $e = \\frac{c}{a}$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the screen in sequence, likely summarizing the key properties discussed.\n   - She gestures towards the hyperbola diagram, emphasizing the geometric aspects such as symmetry and vertices.\n   - The teacher writes the eccentricity formula on the blackboard and points to it, reinforcing its importance.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the lesson content visually.\n\nThis structured visual summary helps consolidate the key concepts of hyperbolas, with the teacher's gestures reinforcing each point through direct reference to the screen and blackboard content.",
+  "visual_narrative": "The lesson concludes with a structured list on the digital screen, centered on the geometric properties of hyperbolas. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing key aspects such as symmetry and vertices. She highlights the eccentricity formula on the blackboard, drawing attention to its significance. The visual focus remains on summarizing the core concepts, with no explicit homework or next-step instructions visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geometric Properties of Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[426.50 -> 566.70]"
+      },
+      {
+        "id": "c2",
+        "label": "Symmetry of Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[426.50 -> 566.70]"
+      },
+      {
+        "id": "c3",
+        "label": "Vertices of Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[426.50 -> 566.70]"
+      },
+      {
+        "id": "c4",
+        "label": "Boundedness of Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[426.50 -> 566.70]"
+      },
+      {
+        "id": "c5",
+        "label": "Eccentricity of Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[426.50 -> 566.70]"
+      },
+      {
+        "id": "c6",
+        "label": "Standard Equation of Ellipse",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[455.66 -> 502.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Focus Points",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[426.50 -> 566.70]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Screen Summary",
+        "type": "Visual",
+        "original_text": "Structured list of key points about hyperbolas and diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Eccentricity Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "$e = \\frac{c}{a}$",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Answering Focus Points",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Engaged in Symmetry Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Visual summary of geometric properties of hyperbolas."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights the formula for eccentricity on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Teacher engages students in understanding symmetry."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to identify ellipse vertices."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Eccentricity calculation relies on the standard equation of ellipse."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Focus points contribute to the identification of vertices."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

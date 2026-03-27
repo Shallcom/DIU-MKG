@@ -1,0 +1,174 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to identify and differentiate the specific meanings of vocabulary; understand how to combine a positive, upward attitude with the role of a socialist builder; be capable of applying the learned vocabulary in context to express oneself.",
+  "transcript": "[694.4 -> 756.14] 那么从左边到右边我们可以看到词的意义是更具体的对吧他们变得更具体的就是加上了词句或词句对吧I think this spiritis inlinewiththePresidentC'squoteandatSenyaHighSchoolhighSchoolstudentsweshouldbepositiveandenergetictobecomsocialistbuildersandsuccessorsright。\n[757.34 -> 770.76] wellandhereisthechecklistforyoubasedonthispleasecreateyourclassmatesworkwithyourcomments好的课程结束了谢谢你。",
+  "visual_facts": "### Phase 4: Conclusion - Visual Knowledge Consolidation\n\n#### 1. Summary Artifact (Static View)\n- **Main Visual Carrier**: The summary is presented on a digital slide displayed on the screen.\n- **Overall Layout and Structure**: The slide is titled \"Complete the checklist\" and is organized into two columns: \"Criteria\" and \"Scores.\" The criteria are listed under three main headings: Structure, Content, and Language.\n\n#### 2. Key Knowledge Items (Content View)\n- **Criteria**:\n  - **Structure**: \n    1. Clear production and conclusion\n    2. Correct format\n  - **Content**: \n    1. Adequate supporting details\n  - **Language**: \n    1. Proper grammatical details\n    2. Correct spelling\n    3. Correct inference\n    4. Correct sentence\n- **Scores**: This column is left blank for students to fill in.\n\n#### 3. Review Gestures (Dynamic View)\n- **Teacher's Gestures**:\n  - The teacher points to each criterion on the checklist, likely explaining or reviewing what each point entails.\n  - The teacher gestures towards the \"Scores\" column, indicating where students should record their evaluations.\n\n#### 4. Transition to Next Step\n- **Visual Element**: The final slide displays the text \"Thank you!\" indicating the end of the lesson.\n- **Homework/Assignment**: No specific homework or next lesson details are visible on the screen or board in this segment. The focus is on closing the session with a summary and gratitude.",
+  "visual_narrative": "The class ends with a slide titled \"Complete the checklist,\" organized into two columns: \"Criteria\" and \"Scores.\" The criteria are divided into Structure, Content, and Language, each with specific points listed. The teacher points to each criterion in sequence, guiding students through the checklist. She gestures towards the \"Scores\" column, indicating where evaluations should be recorded. The lesson concludes with a slide displaying \"Thank you!\" marking the end of the session. No homework or next-step instructions are visually presented in this segment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Vocabulary Meaning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[694.4 -> 756.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Socialist Builder Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[694.4 -> 756.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Positive Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[694.4 -> 756.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Expressing Vocabulary in Context",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[694.4 -> 756.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Clear Production and Conclusion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Correct Format",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Adequate Supporting Details",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "c8",
+        "label": "Proper Grammatical Details",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "c9",
+        "label": "Correct Spelling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "c10",
+        "label": "Correct Inference",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "c11",
+        "label": "Correct Sentence",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[757.34 -> 770.76]"
+      },
+      {
+        "id": "v1",
+        "label": "Checklist Slide",
+        "type": "Visual",
+        "original_text": "Complete the checklist: Criteria and Scores",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Thank You Slide",
+        "type": "Visual",
+        "original_text": "Thank you!",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Checklist Completion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[757.34 -> 770.76]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Students use vocabulary understanding to express themselves in context."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Slide lists criteria for clear production and conclusion."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Slide illustrates the requirement of correct format."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Slide lists criteria of adequate supporting details."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Slide encompasses criteria for proper grammatical details."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Slide includes proper spelling criterion."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Slide incorporates the criterion for correct inference."
+      },
+      {
+        "source": "v1",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Slide exhibits the criterion for correct sentence."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "The session concludes and students engage in closing activities."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Role of socialist builder includes maintaining a positive attitude."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

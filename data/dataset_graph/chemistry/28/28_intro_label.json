@@ -1,0 +1,145 @@
+{
+  "video_name": "28_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the impact of acid rain and red tide on the environment; master the basic methods of wastewater treatment.",
+  "transcript": "[0.0 -> 84.78] 是隐性的方式渗透但是潜移默化的行为并非就是说不会影响学生的观念和以后的行为其次虽然化学观念对学生的影响是隐性的所谓的隐性可能不能够在化学成绩上体现但是观念一定会影响人比如说同学们在前面课程那集气化合物学习当中运用了伽利奥尔图的方式学习这些化合物那么这一方式肯定会影响到后面在碳积极化合物的学习过程中最后虽然观念是隐性的但是教师的工作具有长期性和长效性因此长期潜移默化的结果更有益于教师从化学教学到化学育女人这一观念的转变我的结构化问答到此结束接下来将进行我的上课环节上课。\n[86.44 -> 91.88] 同学们好请坐在生活中我们常常会遇见一些。\n[96.96 -> 107.36] 前段时间新闻中报道到A市下了一场酸雨学校校园里的树木或者是马路都受到了不同程度的损害。\n[110.24 -> 128.9] 同样还有被赤藻污染过的河流这些化学问题都对我们的生活产生了一定的影响那么除此之外同学们还有知道哪些通过化学的污染对生活造成的一些伤害呢比如说有还有光化学的污染以及等等。\n[131.08 -> 164.26] 那么接下来说一个与生活有关的也就是污水的处理那么同学们可以阅读手上相关的课本第一百一十七到一百一十八面思考好以下三个问题首先污水处理的方法有哪些呢其次污水处理有哪些物理方法化学方法最后大家能否通过自己的阅读和思考简要概述一下污水处理的一些流程呢给大家两分钟的时间进行思考。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"环境保护与绿色化学\" (Environmental Protection and Green Chemistry). The hook object is an image of a river with green algae, illustrating environmental pollution.\n\n#### 2. **The Title Event**\n- The title \"环境保护与绿色化学\" is displayed on the screen. The teacher stands beside the screen, gesturing towards the title, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The learning objectives are listed as:\n  1. 什么是绿色化学及其研究内容？\n  2. 为什么要研究绿色化学？\n  3. 绿色化学有哪些代表性的成果？\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing to the objectives on the screen.\n- The teacher occasionally looks at the students, engaging them with eye contact while explaining.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium, facing the students.\n- The initial slide displays the title \"环境保护与绿色化学\" with an image of a polluted river.\n- The teacher gestures towards the title, highlighting the topic of the lecture.\n\n**Middle:**\n- The teacher transitions to a slide with learning objectives.\n- The objectives are listed as bullet points:\n  1. 什么是绿色化学及其研究内容？\n  2. 为什么要研究绿色化学？\n  3. 绿色化学有哪些代表性的成果？\n- The teacher points to each objective, explaining their significance.\n\n**End:**\n- The teacher continues to engage with the students, using hand gestures to emphasize key points.\n- The teacher occasionally looks at the screen and then back at the students, ensuring comprehension.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, providing a detailed narrative of the lesson's introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, facing the students, as the screen displays an image of a river affected by green algae, serving as the hook to capture attention. The teacher gestures towards this visual, emphasizing the environmental issue depicted. The scene transitions smoothly as the slide switches to the title \"环境保护与绿色化学,\" which the teacher highlights by pointing directly at it, establishing the main topic. Following this, the teacher presents the learning objectives, using hand gestures to point at each bullet point on the screen: \"什么是绿色化学及其研究内容？\", \"为什么要研究绿色化学？\", and \"绿色化学有哪些代表性的成果？\". This structured approach bridges the hook to the main topic, linking the visual of environmental pollution to the concept of green chemistry. The teacher's deliberate gestures and transitions create a clear connection between the real-world issue and the academic content, setting the stage for deeper exploration of green chemistry principles and their relevance to existing environmental challenges.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Green Chemistry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 84.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemical Pollution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[110.24 -> 128.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Acid Rain",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[96.96 -> 107.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Red Tide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[110.24 -> 128.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Wastewater Treatment Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[131.08 -> 164.26]"
+      },
+      {
+        "id": "c6",
+        "label": "Physical Treatment Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[131.08 -> 164.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Chemical Treatment Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[131.08 -> 164.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Environmental Protection and Green Chemistry Slide",
+        "type": "Visual",
+        "original_text": "Slide with 'Environmental Protection and Green Chemistry' title and image of polluted river",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Learning Objectives Slide",
+        "type": "Visual",
+        "original_text": "Slide listing objectives: What is green chemistry and its content? Why study green chemistry? What are the representative achievements?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Links environmental pollution to the principles of green chemistry."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Highlights how acid rain is an example of chemical pollution."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Highlights how red tide is an example of chemical pollution."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Shows the progression from understanding chemical pollution to wastewater treatment methods."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Physical methods are part of overall wastewater treatment procedures."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Chemical methods are part of overall wastewater treatment procedures."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide sets the stage for the discussion on green chemistry."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide provides objectives related to the principles of green chemistry."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students consider wastewater treatment methods."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Engagement in understanding green chemistry principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

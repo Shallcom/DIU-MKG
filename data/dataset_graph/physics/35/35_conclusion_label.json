@@ -1,0 +1,139 @@
+{
+  "video_name": "35_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the definition and conditions of free‑fall motion; be able to analyze the existence of free‑fall motion in real life.",
+  "transcript": "[703.6629 -> 711.92] 好那么我们将物体只在重力作用下由静止开始下落的物体叫做自由落体运动诶同学们那你们能不能根据自由落体的定义来说出自由落体的条件呢。\n[717.8 -> 733.52] 这个同学只受重力然后出速度没有非常好请坐。\n[736.4 -> 754.98] 那么在实际生活中我们往往没有只受到重力还不受到其他物体的影响那么自由落体在实际生活中就不存在了吗这个问题我们就留到下一节课再进行探讨了我的授课大致结束谢谢各位。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key points of the lesson.\n   - The layout includes two main sections:\n     - Section 1: \"质量\" (Mass) with a sub-point \"空气阻力\" (Air Resistance).\n     - Section 2: \"自由落体运动\" (Free Fall Motion) with a sub-point \"初速度为零\" (Initial Velocity is Zero).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \n     - 自由落体运动 (Free Fall Motion)\n     - 质量 (Mass)\n   - Sub-points:\n     - 空气阻力 (Air Resistance)\n     - 初速度为零 (Initial Velocity is Zero)\n   - Formula: $v_0 = 0$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the heading \"自由落体运动\" (Free Fall Motion) and emphasizes the sub-point \"初速度为零\" (Initial Velocity is Zero) by writing $v_0 = 0$.\n   - The teacher gestures towards the section on \"质量\" (Mass) and \"空气阻力\" (Air Resistance), likely summarizing their relationship to free fall motion.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the key points on the blackboard.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the core topic of free fall motion. The teacher visually reviews the content by pointing to each section in sequence, starting with \"自由落体运动\" (Free Fall Motion) and emphasizing the sub-point \"初速度为零\" (Initial Velocity is Zero) by writing the formula $v_0 = 0$. The teacher then gestures towards the section on \"质量\" (Mass) and \"空气阻力\" (Air Resistance), summarizing their relevance. The final emphasis is placed on the formula $v_0 = 0$, visually marking it as a key takeaway. There is no visual indication of homework or next steps in the frames provided, signaling the end of the session with a focus on the summarized concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Free Fall Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[703.6629 -> 711.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Mass",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[703.6629 -> 711.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Air Resistance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[703.6629 -> 711.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Initial Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[703.6629 -> 711.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Gravity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[717.8 -> 733.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Free Fall Conditions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[703.6629 -> 711.92]"
+      },
+      {
+        "id": "c7",
+        "label": "Real Life Application",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.4 -> 754.98]"
+      },
+      {
+        "id": "c8",
+        "label": "v_0 = 0",
+        "type": "Visual",
+        "original_text": "v_0 = 0",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Key points on blackboard: Free Fall Motion, Mass, Air Resistance",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Free fall motion includes conditions like initial velocity being zero."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Conditions for free fall build upon the principle of gravity affecting the object."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Real life application of free fall motion builds upon understanding its definition."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The formula on the blackboard visualizes the concept of initial velocity in free fall."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes mass as it affects free fall motion via air resistance."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Air resistance is emphasized to show its relevance to free fall motion."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to think about the existence of free fall in real life."
+      },
+      {
+        "source": "c6",
+        "target": "s2",
+        "relation": "engages",
+        "intent": "Engage students by summarizing the concepts visibly on the blackboard."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,166 @@
+{
+  "video_name": "24_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master the definition of set union and its operational rules; be able to express union operations using symbolic language; be able to apply the concept of union to solve real‑world problems.",
+  "transcript": "[164.91475 -> 235.9] 上课同学们好请坐在本节课之前我们已经学习了集合的定义和性质那么接下来我们还可以学习集合的什么呀运算非常好那么有这样一假设现在有集合ABC集合A表示高一五班的全体女生集合B表示高一五班的全体男生集合C表示高一五班的全体同学那么集合ABC之间有怎样的关系呢老师听到有同学说集A加B倒于C成加法运算那么在初中我们就知道时数它存在着加减乘除等运算那么类似的集合是否也存在这样的运算呢带着这个问题我们一起进入今天的数学探究之旅集合的基本运算。\n[251.48 -> 329.8295] 好我们先来看到这样两个问题观察下面的集合你能说出集合C与集合AB之间的关系吗好我们一起分析接下来看第一题集合A中所含有一三五那么集合B中含有着二四六那集合C呢老师听到有同学说集合C是集合AB中A的元素加上集合B的元素非常好那我们来看第二题集合A中X表示的元素是一有粒数那集合B中X表示的是无粒数集合C则是实数我们知道实数它是由有粒数和无粒数组成的也就是说集合C中的元素也是由AB的元素所组成的同学们反应非常迅速好那么由此我们可以得到集合C是由所有属于A或属于C属于B的元素所组组成的那么一般的诶我们说由所有属于集合A或属于集合B的元素组成的集合我们称为集合A与集合B的诶并集独作A并B那么这也就是我们今天所要学习集合的运算的第一个运算法奏那么以上是它的文字语言哪位同学可以总结概括出来的符号语言呢同桌之间相互交流。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n\n- The teacher stands in front of a large screen displaying the title slide: \"集合的基本运算\" (Basic Operations of Sets) from the People's Education Press textbook.\n- The teacher gestures towards the screen, indicating the start of the lesson.\n- The blackboard is mostly empty, with some chalk marks and colored chalk pieces visible on the side.\n\n**Middle:**\n\n- The teacher points to the screen displaying a slide titled \"探究一 集合的并集定义\" (Investigation One: Definition of Union of Sets).\n- The slide lists three statements:\n  - A: 集合A与集合B的并集是集合A和集合B的元素组成的集合。\n  - B: 集合A与集合B的并集是集合A和集合B的公共元素组成的集合。\n  - C: 集合A与集合B的并集是集合A和集合B的非公共元素组成的集合。\n- The teacher writes \"集合的并集\" (Union of Sets) on the blackboard, using white chalk.\n- The teacher gestures towards the screen, emphasizing the correct definition of the union of sets.\n\n**End:**\n\n- The screen changes to \"探究二 集合运算的应用\" (Investigation Two: Application of Set Operations).\n- The slide presents two problems:\n  1. Given sets $A=\\{1, 2, 3\\}$, $B=\\{2, 3, 4\\}$, $C=\\{1, 2, 3, 4, 5\\}$, find $A \\cup B$ and $C \\cap A$.\n  2. Given $A=\\{x \\mid x \\text{ is an odd number}\\}$, $B=\\{x \\mid x \\text{ is a prime number}\\}$, $C=\\{x \\mid x \\text{ is a natural number}\\}$, find $A \\cap B$ and $C \\cap A$.\n- The teacher points to the first problem, explaining the process of finding the union and intersection of sets.\n- The teacher continues to gesture towards the screen, emphasizing key points in the problems.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n\n- The main visual anchor is the screen displaying the slides about set operations, specifically focusing on the union and intersection of sets.\n- The initial state of the blackboard is mostly empty, with only the title \"集合的并集\" (Union of Sets) written in white chalk.\n\n**The Derivation Process (Dynamic):**\n\n- **Additions:**\n  - The teacher writes \"集合的并集\" on the blackboard while explaining the concept of union.\n  - The teacher points to each statement on the screen, likely explaining why statement A is correct.\n- **Modifications:**\n  - No erasures or modifications are observed; the teacher primarily adds content and gestures.\n- **Deictic Gestures:**\n  - The teacher points to statement A on the screen, indicating it as the correct definition of the union of sets.\n  - The teacher gestures towards the problems on the second slide, highlighting the sets and operations involved.\n\n**The Highlighting Strategy (Emphasis):**\n\n- The teacher uses hand gestures to emphasize the correct definition of the union of sets (statement A).\n- The teacher points directly at the problems on the screen, drawing attention to the specific sets and operations to be performed.\n- The use of the screen as a visual aid helps in highlighting the key concepts and problems being discussed.\n\nThis structured visual evolution captures the teacher's method of transforming abstract set theory concepts into concrete examples through gestures, writing, and screen content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the title slide \"集合的基本运算\" (Basic Operations of Sets), establishing the lesson's focus. The teacher began by pointing to the screen, which transitioned to \"探究一 集合的并集定义\" (Investigation One: Definition of Union of Sets), listing three statements. The teacher constructed the concept of union by writing \"集合的并集\" on the blackboard, using white chalk to emphasize the term. \n\nThen, the teacher derived the correct definition by pointing to statement A: \"集合A与集合B的并集是集合A和集合B的元素组成的集合,\" tracing the elements to illustrate the union concept. The teacher's gestures highlighted the distinction between union and intersection, ensuring clarity.\n\nFinally, the screen shifted to \"探究二 集合运算的应用\" (Investigation Two: Application of Set Operations), presenting two problems. The teacher annotated the first problem, pointing to sets $A=\\{1, 2, 3\\}$, $B=\\{2, 3, 4\\}$, and $C=\\{1, 2, 3, 4, 5\\}$, and traced the union $A \\cup B$ and intersection $C \\cap A$ to demonstrate the operations. For the second problem, the teacher emphasized the sets of odd and prime numbers, guiding the students through the intersection process.\n\nThroughout, the teacher used the screen and blackboard synergistically, reducing cognitive load by visually segmenting complex concepts into manageable steps. The final emphasis was placed on the practical application of set operations, with the teacher circling key results to reinforce understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Basic Set Operations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[164.91 -> 171.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Union of Sets Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.00 -> 179.00]"
+      },
+      {
+        "id": "c3",
+        "label": "Intersection of Sets",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[300.00 -> 310.00]"
+      },
+      {
+        "id": "c4",
+        "label": "Set A = {1, 2, 3}",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[280.00 -> 285.00]"
+      },
+      {
+        "id": "c5",
+        "label": "Set B = {2, 3, 4}",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[280.00 -> 285.00]"
+      },
+      {
+        "id": "c6",
+        "label": "Set C = {1, 2, 3, 4, 5}",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[280.00 -> 285.00]"
+      },
+      {
+        "id": "c7",
+        "label": "Odd Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.00 -> 295.00]"
+      },
+      {
+        "id": "c8",
+        "label": "Prime Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.00 -> 295.00]"
+      },
+      {
+        "id": "c9",
+        "label": "Natural Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[290.00 -> 295.00]"
+      },
+      {
+        "id": "v1",
+        "label": "Investigation One Slide",
+        "type": "Visual",
+        "original_text": "Investigation One: Definition of Union of Sets",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Investigation Two Slide",
+        "type": "Visual",
+        "original_text": "Investigation Two: Application of Set Operations",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Content",
+        "type": "Visual",
+        "original_text": "Union of Sets",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains the principle of union within set operations."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Uses specific examples of sets to illustrate union."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlights the definition of union on the slide."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Illustrates the application of intersection operations on sets."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Set A is used along with Set B to explain the union in practice."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Demonstrates membership relations using these sets in operations."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Displays the concept of union of sets written on blackboard."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "engages_with",
+        "intent": "Students engage with the application of set operations."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "intersection",
+        "intent": "Shows the intersection of odd and prime numbers."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Prime numbers are a subset of natural numbers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

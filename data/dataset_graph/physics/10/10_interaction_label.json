@@ -1,0 +1,185 @@
+{
+  "video_name": "10_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the direction and units of momentum; analyze the application of momentum in real‑world physics problems.",
+  "transcript": "[525.36 -> 576.14] 有没有哪个小组已经有答案了来请你来分享一下你的结果发现动量之和是不变的动量之和前后碰撞的速度和质量成绩之和不变没错在这样的一个运动过程中有很多物理量都变化了速度变了速度和质量的成绩变了动能之和变了但是我们很棒找到了其中的不变量就是速度和质量乘积之和那么这个物理它有着非常重要的意义这也是一个非常重要的物理思维从变化中找到不变忽略个别的非本质的物理抓住共同的本质的规律用抽象整合的思想我们得出了一个全新的物理量动量。\n[582.8 -> 604.14] 德国海森堡先生曾经说要想更好地研究物理规律就需要不断地构建新的物理概念今天我们就构建出了动量的这个物理量同学们动量是质量和速度的乘积我们把它定义为动量它的表达式是什么呢来青莲回答。\n[605.48 -> 645.36] 没错它的视角是P等于V动量我们也把它叫做字母P同学们想一下它有没有方向呢它是矢样还是标样呢没错是大多说是矢样它的方向与速度方向相同那它的单位呢质量单位是什么所以它的单位是很棒那么它是一个状态呀还是过程呀呢为什么状态对它是它与运动状态有没有关系它与它的运动的位移有没有关系它描述的是物体的状态所以是一个状态呀动量是相对的还是绝对的呢为什么啊因为它有速度速度是相对于叉烤系而言的叉烤系变化了动量是不是也就变化了所以动量是一个相对量。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the chalkboard, indicating where students should focus their attention.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the chalkboard, specifically the section where the teacher had written \"动量\" (momentum) and \"寻找证据控制变量\" (finding evidence to control variables). The digital screen also displayed a summary slide with the formula $p = mv$ and related bullet points.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher turned to the chalkboard and wrote \"动量\" (momentum) and \"P = mv\" alongside the existing content. This visual addition provided a direct link to the formula being discussed.\n- The teacher also gestured towards the digital screen, pointing to the bullet points to reinforce the concepts being discussed.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation.\n- She then wrote \"矢量\" (vector) on the board, elaborating on the nature of momentum as a vector quantity.\n- The teacher circled the formula $p = mv$ on the board, visually emphasizing its importance and correctness.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the class, inviting participation.\n  - Points to the chalkboard, highlighting \"寻找证据控制变量\" (finding evidence to control variables).\n\n- **Middle:**\n  - Writes \"动量\" (momentum) and \"P = mv\" on the board while listening to the student.\n  - Points to the digital screen's bullet points, linking them to the student's response.\n\n- **End:**\n  - Nods and smiles to affirm the student's input.\n  - Writes \"矢量\" (vector) to elaborate on momentum's properties.\n  - Circles the formula $p = mv$ to confirm its correctness.\n\nThis structured visual interaction effectively guides students through the concept of momentum, using both the chalkboard and digital content to scaffold understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the concept of \"动量\" (momentum) and the task \"寻找证据控制变量\" (finding evidence to control variables), setting the stage for the lesson. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the material. She pointed directly to the chalkboard, emphasizing the importance of understanding momentum as a vector quantity.\n\nAs a student began to respond, the teacher walked over to the board and wrote \"动量\" (momentum) alongside the formula \"P = mv,\" visually anchoring the discussion. While the student explained their reasoning, the teacher nodded and smiled, providing non-verbal encouragement. She then turned to the digital screen, pointing to the bullet points to reinforce the concepts being discussed, creating a visual link between the student's input and the lesson content.\n\nTo validate the student's understanding, the teacher gave a distinct nod and circled the formula $p = mv$ on the board, highlighting its significance. She further elaborated by writing \"矢量\" (vector) next to the formula, clarifying momentum's properties. This action visually confirmed the student's correct understanding and connected it back to the core lesson on momentum.\n\nFinally, the teacher drew an arrow from the newly written term \"矢量\" (vector) back to the original concept of \"动量\" (momentum) on the board, illustrating the relationship and reinforcing the lesson's key takeaway. Through these gestures, the teacher facilitated a dynamic interaction, moving students from passive reception to active construction of their understanding, ensuring they grasped the fundamental principles of momentum and its vector nature.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Momentum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[525.36 -> 576.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Conservation of Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[525.36 -> 576.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Speed and Mass Product",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[525.36 -> 576.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Invariant Quantity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[525.36 -> 576.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Momentum Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[582.8 -> 604.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Vector Quantity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.48 -> 645.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Relative Quantity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.48 -> 645.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Physical Concept Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[582.8 -> 604.14]"
+      },
+      {
+        "id": "c9",
+        "label": "Heisenberg Quote",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.8 -> 604.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Invitation Gesture",
+        "type": "Visual",
+        "original_text": "Teacher invites participation with sweeping gesture.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard with Concepts",
+        "type": "Visual",
+        "original_text": "Chalkboard displays 'Momentum' and 'Finding Evidence to Control Variables'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Digital Screen Bullet Points",
+        "type": "Visual",
+        "original_text": "Screen shows formula p=mv and related points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Vector Written",
+        "type": "Visual",
+        "original_text": "Teacher writes 'Vector' to elaborate momentum's properties.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Defines the mathematical representation of momentum."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes how certain quantities remain unchanged in a system."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Conceptualizes momentum as a directional quantity."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Describes momentum's dependence on relative motion."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Engages in constructing new concepts through defined formulas."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Highlights the importance of creating new physical concepts."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider the presented concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Showcases the central concept of momentum on the chalkboard."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Displays key points accompanying the formula on screen."
+      },
+      {
+        "source": "v4",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Clarifies momentum's nature as a vector quantity."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Student response contributes to understanding of momentum."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

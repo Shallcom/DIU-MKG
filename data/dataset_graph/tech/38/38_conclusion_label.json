@@ -1,0 +1,151 @@
+{
+  "video_name": "38_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Summarize the pattern of mass‑volume changes in experimental data; master the application of the tabular method and the graphical method in experimental data analysis.",
+  "transcript": "[714.0 -> 810.82] 哪位同学愿意啊刚才支持人家这位小组的实验我们想请另外一个小组同学发现总结一下他们的实验规律好哪位小组愿意啊没有思路没关系那我们看质量是从第一个小组到第三个实验数据是不是在逐渐的增加体积呢也在增加那是不是说明质量越大体积就越大好刚才老师给大家推荐的方法是列表法除了列表法还有没有其他的方法能帮我们分析实验数据呢好非常好这个同学说了我们还可以用图像法课本呀给出了我们的图像法的一个表格我们以体积为横坐标质量为纵坐标接下来大家把你们的实验数据用秒点连线的方法将它绘制在你们的教科书中好老师看到同学们都已经把图像画好了我发现呀大家的图像不好我的模拟授课就到这里感谢各位同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the interactive whiteboard screen.\n   - The blackboard displays a table with mass ($m/\\text{kg}$) and volume ($V/\\text{cm}^3$) data:\n     \\[\n     \\begin{array}{|c|c|c|}\n     \\hline\n     & m/\\text{kg} & V/\\text{cm}^3 \\\\\n     \\hline\n     1 & 20 & 50 \\\\\n     2 & 30 & 75 \\\\\n     3 & 40 & 100 \\\\\n     \\hline\n     \\end{array}\n     \\]\n   - The screen shows a slide titled \"实验探究\" (Experimental Investigation) with sections labeled \"列表法\" (Tabulation Method) and \"图像法\" (Graphical Method).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"实验探究\" (Experimental Investigation), \"列表法\" (Tabulation Method), \"图像法\" (Graphical Method).\n   - Key terms: \"m/\\text{kg}\" (mass in kilograms), \"V/\\text{cm}^3\" (volume in cubic centimeters).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the table on the blackboard, emphasizing the relationship between mass and volume.\n   - She gestures towards the screen, highlighting the \"图像法\" (Graphical Method) section, indicating a transition to graphical analysis.\n   - The teacher uses a pointer to trace the grid on the screen, preparing to discuss plotting data.\n\n4. **Transition to Next Step**:\n   - The screen displays a grid for plotting, suggesting the next step involves creating a graph from the tabulated data.\n   - No explicit homework or assignment details are visible, but the setup implies further work on graphing the data.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a table of mass and volume data, alongside a slide on the interactive whiteboard titled \"实验探究\" (Experimental Investigation). The teacher visually reviews the key points by pointing to the table, emphasizing the correlation between mass ($m/\\text{kg}$) and volume ($V/\\text{cm}^3$). She then gestures towards the \"图像法\" (Graphical Method) section on the screen, indicating a shift to graphical analysis. The teacher uses a pointer to trace the grid, preparing students for plotting the data. Although no explicit homework is shown, the setup suggests the next task involves creating a graph from the tabulated data, visually guiding students to apply the concepts discussed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[714.0 -> 810.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Volume",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[714.0 -> 810.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Mass-Volume Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[714.0 -> 810.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Tabulation Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.0 -> 810.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Graphical Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.0 -> 810.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Data Plotting",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[714.0 -> 810.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Mass and Volume Table",
+        "type": "Visual",
+        "original_text": "Blackboard table with mass and volume data.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Experimental Investigation Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Experimental Investigation' showing 'Tabulation' and 'Graphical' methods.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Data Grid for Plotting",
+        "type": "Visual",
+        "original_text": "Screen displaying grid for data plotting.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher uses the table to show mass data."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher uses the table to show volume data."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Principle includes mass in relation."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Principle includes volume in relation."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Tabulation method shown on slide for analysis."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Graphical method shown on slide for analysis."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Teacher prepares data grid for plotting experiment data."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Graphical method elaborates mass-volume relationship through visualization."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Uses mass data in tabulation method."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Uses volume data in tabulation method."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with the principle through investigative methods."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

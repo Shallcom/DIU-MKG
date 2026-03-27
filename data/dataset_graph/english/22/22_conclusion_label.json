@@ -1,0 +1,152 @@
+{
+  "video_name": "22_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to communicate and converse accurately; be able to correctly use the present progressive tense to express future actions in real-life contexts.",
+  "transcript": "[604.42 -> 616.14] 是很晒晒的所以你会睡在浴室里面对吧那么现在哪个群伙认为能够做出很好的沟通和准确的谈话呢。\n[622.4 -> 658.44] 我认为你做了一个很好的专业我认为是的所以你现在可以做个个人试验来检查自己吗所以你能够学会使用现实的继续机会吗你能够使用它来描述未来吗是的好的所以现在这是你今天的家庭工作每个人都要完成第一个另外一个是选择你明白吗是的今天课程结束了谢谢您的参与。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"Thank You!\" displayed on the screen. This slide is simple, with a white background and centered text.\n   - The blackboard retains the previous content, including the title \"Unit: Traveling Around,\" a diagram labeled \"Future Plan,\" and two \"Group\" sections.\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide: \"Thank You!\"\n   - Blackboard: \n     - Title: \"Unit: Traveling Around\"\n     - Diagram: \"Future Plan\" with two \"Group\" sections connected by a balance-like structure.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Thank You!\" slide, indicating the conclusion of the lesson.\n   - No specific gestures are directed at the blackboard content during this phase.\n\n4. **Transition to Next Step**:\n   - The previous slide titled \"Homework\" is visible earlier in the sequence, indicating the next steps:\n     - \"Combine your winter holiday plan by using the present continuous tense.\"\n     - \"Make a table to summarize the different uses of present continuous tense and future simple tense for the future description.\"\n   - This slide is not visible in the final frames, suggesting the lesson has concluded with the \"Thank You!\" slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displaying \"Thank You!\" as the main summary artifact, signaling the conclusion of the lesson. The teacher gestures towards this slide, indicating the end of the session without additional gestures on the blackboard. The core takeaway is visually marked by the simplicity and centrality of the \"Thank You!\" message, which stands out against the white background. Although the previous homework instructions are not visible in the final frames, the earlier emphasis on combining winter holiday plans using specific tenses and creating a summary table remains part of the lesson's visual narrative. The blackboard retains the \"Unit: Traveling Around\" title and the \"Future Plan\" diagram, subtly reinforcing the lesson's theme without further interaction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Present Progressive Tense",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[622.4 -> 658.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Future Simple Tense",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[622.4 -> 658.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Communicate Accurately",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[604.42 -> 616.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Accurate Conversation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[604.42 -> 616.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Winter Holiday Plan",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[622.4 -> 658.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Check Self",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[622.4 -> 658.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Thank You Slide",
+        "type": "Visual",
+        "original_text": "Thank You!",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Traveling Around Blackboard Title",
+        "type": "Visual",
+        "original_text": "Unit: Traveling Around",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Future Plan Diagram",
+        "type": "Visual",
+        "original_text": "Future Plan with balance-like structure",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Homework Slide",
+        "type": "Visual",
+        "original_text": "Combine winter holiday plan; table for tense summary",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Use present progressive tense in formulating winter holiday plans."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Compare use of future simple tense in holiday planning."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Learning to communicate accurately supports having accurate conversations."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Checking self involves the use of present progressive in realistic scenarios."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to have accurate conversations."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "The thank you slide marks the lesson's conclusion and engages students emotionally."
+      },
+      {
+        "source": "c5",
+        "target": "v4",
+        "relation": "includes",
+        "intent": "Homework instructions include practical application of learned tenses."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "The traveling around theme supports the necessity for accurate communication."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents planning elements requiring tense application."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Reinforces the thematic context for structuring holiday plans."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

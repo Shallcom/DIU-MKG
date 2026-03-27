@@ -1,0 +1,138 @@
+{
+  "video_name": "47_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Analyze the impact of online behavior on personal image; apply these principles to develop guidelines.",
+  "transcript": "[628.4 -> 686.68] 好的时间到了可以给两位人一些建议吗第一个我觉得人应该在网上尊严你觉得他应该尊严对吗所以为什么给这些建议呢ofthepassageOKpleasegoon。\n[690.7 -> 744.42] OKsotime isuplet'slookdownhereisonemarkthatiswrittenbythegrouponewecanseethatitisveryclearrightbutitlackedthelastpartbecausethepowerboxthreedidnmentionaboutthispartrightsoheshouldadditintothispassageright我给你可以自由地选择自己的工作了好这就这么多了再见了学生们。",
+  "visual_facts": "### Phase 4: Conclusion - Visual Knowledge Consolidation\n\n#### 1. Summary Artifact (Static View)\n- **Main Visual Carrier**: The blackboard and the interactive screen.\n- **Layout and Structure**:\n  - **Blackboard**: Features a mind map with the title \"Unit 3: The Internet.\" The mind map includes branches labeled \"Convenience,\" \"Performance Anxiety,\" and \"Cybercrime.\"\n  - **Interactive Screen**: Displays a slide titled \"Homework\" with a section for \"Comprehension task and optional table.\"\n\n#### 2. Key Knowledge Items (Content View)\n- **Blackboard**:\n  - Title: \"Unit 3: The Internet\"\n  - Branches:\n    - Convenience\n    - Performance Anxiety\n    - Cybercrime\n- **Interactive Screen**:\n  - Homework:\n    - Comprehension task:\n      1. \"I'd rather stay at home and chat online than go out with friends.\"\n      2. \"I have to check my email at least 40 times a day.\"\n      3. \"I have to check my email at least 40 times a day.\"\n      4. \"I feel anxious if I can't check my email.\"\n      5. \"I feel anxious if I can't check my email.\"\n    - Optional table: \"Complete the table on page 43.\"\n\n#### 3. Review Gestures (Dynamic View)\n- **Teacher's Gestures**:\n  - **Pointing**: The teacher points to each branch of the mind map on the blackboard, likely reviewing the key points discussed.\n  - **Screen Interaction**: The teacher gestures towards the interactive screen, emphasizing the homework tasks listed.\n\n#### 4. Transition to Next Step\n- **Visual Element for Homework**:\n  - The interactive screen displays a slide titled \"Homework\" with specific tasks:\n    - Comprehension task with five statements.\n    - Instruction to complete a table on page 43.\n\nThis structured visual summary consolidates the lesson's key points and transitions students to the next steps with clear homework instructions.",
+  "visual_narrative": "The class ends with a slide on the interactive screen displaying homework tasks, including a comprehension task with five statements and instructions to complete a table on page 43. The teacher visually reviews the mind map on the blackboard, which summarizes \"Unit 3: The Internet\" with branches labeled \"Convenience,\" \"Performance Anxiety,\" and \"Cybercrime.\" He points to each branch in sequence, ensuring students revisit the key topics discussed. The teacher emphasizes the homework by gesturing towards the screen, highlighting the tasks listed. This visual handover smoothly transitions students to the next steps, reinforcing the lesson's core concepts and preparing them for the assignments ahead.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internet Convenience",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[628.4 -> 686.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Performance Anxiety",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[628.4 -> 686.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Cybercrime",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[628.4 -> 686.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Homework Task",
+        "type": "Visual",
+        "original_text": "Slide titled 'Homework' with comprehension tasks and table instruction",
+        "ocr_corrected": true,
+        "timestamp": "[690.7 -> 744.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Email Anxiety",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.7 -> 744.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Social Interaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[690.7 -> 744.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Mind Map Visualization",
+        "type": "Visual",
+        "original_text": "Mind map titled 'Unit 3: The Internet' with branches",
+        "ocr_corrected": true,
+        "timestamp": "[628.4 -> 686.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Homework Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[690.7 -> 744.42]"
+      },
+      {
+        "id": "c9",
+        "label": "Teacher's Pointing Gesture",
+        "type": "Visual",
+        "original_text": "Teacher points at the mind map branches",
+        "ocr_corrected": true,
+        "timestamp": "[628.4 -> 686.68]"
+      },
+      {
+        "id": "c10",
+        "label": "Teacher's Screen Interaction",
+        "type": "Visual",
+        "original_text": "Gestures towards the interactive screen",
+        "ocr_corrected": true,
+        "timestamp": "[690.7 -> 744.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The concept of Internet Convenience is visually represented in the mind map."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Performance Anxiety is visually included in the mind map."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Cybercrime is one of the branches in the mind map."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Email Anxiety is emphasized through the homework task displayed on the screen."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Social interaction concepts are included in the 'Homework' slide."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Student engagement is emphasized when interacting with the homework slide."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "Teacher summarizes concepts when pointing at the mind map."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the homework tasks by gesturing towards the screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

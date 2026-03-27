@@ -1,0 +1,126 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Understand the basic nature and significance of open classes, competition classes, and observation classes; analyze the reasons why open classes may turn into performance lessons and the strategies to address them; explore the role of teacher professionalism in open classes.",
+  "transcript": "[0.0 -> 69.32] 我抽到的这些演讲的题目是公开课的公开课和比赛课以及观摩课与课改无关为什么它往往会沦为表演课以及教师个人素养的展现我是如何看待这一说法那么在我看来呢这样的说法是片面的首先公开课不仅是对教师个人素养知识素养教师技能培养等方面的挑战更是教师技能培养教师展现风采以赛促课促能促进个人能培养以及教师学生生成的一种表现其次我认为这些课会沦为表演课则需要教师自身去摆正态度坚持传道授业以学生为本要坚持从学生出发最后我希望通过这些比赛课和公开课观摩课更应该是以赛促课以公开来促进教师自身能力的提高在交流中和自我批评与同道之间的批评和交流中不断地发展教师的自身素养促进了个人能力的推展我们演讲到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher College Students) and \"历史学 13\" (History 13). The screen includes colorful circular icons and a large \"10th\" in red.\n\n#### 2. The Title Event\n- **Title on Screen**: \"现代交通运输的新变化\" (New Changes in Modern Transportation) with the date \"12.13\".\n- **Teacher's Action**: The teacher stands in front of the screen, presenting the title without additional emphasis like underlining.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly visible in the provided frames. The focus is on the title and the teacher's introduction.\n\n#### 4. Key Gestures\n- **Teacher's Actions**: The teacher holds a paper and gestures with their hands, likely emphasizing points related to the title. Specific gestures like pointing or tracing are not visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n1. **Beginning**\n   - **Visual Element**: Yellow title screen with competition details and \"10th\" prominently displayed.\n   - **Teacher Action**: None, as this is an introductory title screen.\n\n2. **Middle**\n   - **Visual Element**: Slide with the title \"现代交通运输的新变化\" (New Changes in Modern Transportation) and date \"12.13\".\n   - **Teacher Action**: The teacher stands at the podium, holding a paper, and gestures with their hands, likely explaining the topic.\n\n3. **End**\n   - **Visual Element**: The same slide remains visible, with no additional content changes.\n   - **Teacher Action**: Continues to gesture and speak, maintaining focus on the title content.\n\n### Summary\nThe lesson introduction phase centers on the title \"现代交通运输的新变化\" displayed on the screen. The teacher uses hand gestures to engage with the audience, though specific interactions with the content are minimal in the provided frames. The visual focus remains on the title and the teacher's presence at the podium.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, displaying the competition details and the number \"10th\" in bold red, setting the stage for the event. Transitioning to the classroom, the teacher stands at the podium, holding a paper, and gestures with their hands, engaging the audience. The slide behind them prominently features the title \"现代交通运输的新变化\" with the date \"12.13,\" marking the main topic. The teacher's actions, though subtle, focus on presenting and emphasizing the title, creating a clear visual anchor for the lesson. This setup bridges the hook to the main topic by maintaining a consistent visual theme, preparing students for a discussion on modern transportation changes. The introduction effectively links the competition context to the specific subject matter, grounding the new knowledge within a structured and thematic framework, ready to build upon students' existing understanding of historical and technological developments.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Open Classes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 69.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Performance Lessons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 69.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Teacher Professionalism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.32]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Significance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 69.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Pedagogical Goals",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.32]"
+      },
+      {
+        "id": "c6",
+        "label": "Modern Transportation Changes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 69.32]"
+      },
+      {
+        "id": "v1",
+        "label": "Competition Title Screen",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher College Students, History 13",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Transportation Title Slide",
+        "type": "Visual",
+        "original_text": "New Changes in Modern Transportation, Date 12.13",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains why open classes may become performance lessons."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Teacher professionalism impacts the effectiveness of open classes."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Pedagogical goals serve as a framework for exploring transportation changes."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Title screen provides context for the historical significance of the event."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Title slide highlights the main topic of the lesson."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Open classes offer opportunities to display teacher professionalism."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Pedagogical goals aim to enhance teacher professionalism during open classes."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The discussion on transportation changes engages students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

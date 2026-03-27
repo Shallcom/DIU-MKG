@@ -1,0 +1,139 @@
+{
+  "video_name": "38_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Summarize the basic process of genetic information transfer; understand the rules for decoding the genetic code; master the translation mechanism in protein synthesis.",
+  "transcript": "[718.1 -> 743.56] 一啊一A的一条膜板硬然后呢是不是合成那码\n[746.7 -> 764.7] 那么我们把这个过程就叫做遗传信息的转入那么我们已经得到了MMA如何从MMA到蛋白质呢这个问题我们就到下节课再说时间到下课",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains handwritten notes and diagrams.\n   - The layout includes a title at the top, \"基因指導蛋白質的合成\" (Gene-Directed Protein Synthesis), followed by bullet points and a diagram.\n   - The right side of the blackboard features a diagram with a wavy line and some annotations.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: 基因指導蛋白質的合成 (Gene-Directed Protein Synthesis)\n   - Bullet Points:\n     - 一封信使 - mRNA\n     - ④核糖體, 回旋, 回旋鏈\n     - 二種酶\n     - 細胞內林通訊RNA合成的...\n   - Diagram: A wavy line with annotations, possibly representing a molecular structure or pathway.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title \"基因指導蛋白質的合成\" to emphasize the main topic.\n   - The teacher gestures towards the bullet points, likely reviewing each item in sequence.\n   - The teacher traces the wavy line in the diagram, possibly explaining the process or structure it represents.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen displays a slide titled \"基因指導蛋白質的合成\" with a flowchart and a molecular diagram, but no additional instructions are visible.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on gene-directed protein synthesis. The teacher visually reviews the content by pointing to the title and bullet points, emphasizing each item in sequence. The wavy line diagram is traced to highlight the process or structure it represents. No explicit homework or next-step instructions are visible, marking the end of the session with a focus on the core concepts displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Protein Synthesis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[718.1 -> 743.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Genetic Information Transfer",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[746.7 -> 764.7]"
+      },
+      {
+        "id": "c3",
+        "label": "mRNA",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[718.1 -> 743.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Ribosome",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[718.1 -> 743.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Two Enzymes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[718.1 -> 743.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Cellular Communication RNA Synthesis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[718.1 -> 743.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "Gene-Directed Protein Synthesis",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Points",
+        "type": "Visual",
+        "original_text": "Bullet Points: mRNA, Ribosome, Two Enzymes, Cellular Communication RNA",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with wavy line and annotations",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard title encapsulates the concept of protein synthesis."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard title captures the principle of genetic information transfer."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The bullet points on the blackboard include mRNA as a key element."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The bullet points on the blackboard emphasize the role of ribosomes."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The bullet points mention two enzymes involved in the process."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The bullet points depict the procedure of RNA synthesis in cellular communication."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "The diagram with a wavy line illustrates the ribosome's role in protein synthesis."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Genetic information transfer includes the procedure of RNA synthesis."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Students show engagement with the core concept on the blackboard."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

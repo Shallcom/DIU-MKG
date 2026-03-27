@@ -1,0 +1,171 @@
+{
+  "video_name": "23_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Identify the key steps in reverse design of organic synthesis; understand the analytical process from target product back to basic starting materials; apply retrosynthetic thinking to solve design problems of simple organic compounds.",
+  "transcript": "[154.56 -> 217.54] 好上课同学们好同学们在上一个环节呢我们了解到从维勒合成尿素到颗粒进一步通过计算机辅助有机合成的路线我们知道有机合成不仅推动了技术的进步而技术的进步呢又反过来推动了有机的合成那么在上一环节我们通过设计合成乙酸的相关思路建立了从基础原料到目标产物的合成思路一般思路那本环节呢我们从这个思路来进一步思考一下我们能否建立一个从目标产物到基础原料的这么一个合成分析呢那么在设计这样一个合成分析中我们要哪些注意点以及基础知识好带着这样的疑问我们走进本环节的学习有机会有机合成的思路和设计。\n[236.78 -> 272.28] 首先同学们思考一下我们从我们想要的目标产物到分析我们究竟需要哪些基础原料那么在这个过程中我们要考虑哪些因素呢有没有同学有想法请你比如说反应条件以及反应物反应条件反应物那么我们现在已经知道了目标产物那我们要知道它的基础原料我们对于目标产物要进行一个怎么样的分析呢分析目标产物的冠冕团以及它所处的化石性质具有的化学性质非常好。\n[273.54 -> 279.48] 那么通过上述乙烯合成路乙酸合成路线呢我们对于镍合成类的也来进行一个分析。\n[280.56 -> 324.4] 这种基本思路呢是从目标产物到基础原料我们可以进一步分析目标产物它具有怎么样的官能船它的碳骨架结构又是怎么样的又具有怎么样特殊的化学件进一步通过断开化学件一步一步形成我们想要的中间体并在中间体的基础上进一步断开化学件从而得到我们想要的基础原料那么在这个过程其实上是一种一步一步后退简化的过程相当于是将我们从从合成乙酸的那一般思路进行思维的逆化那么在这过程中同学们也要注意一下我们一般用这个符号来表示逆推的过程那么一般用正向箭头表示合成路线的正向过程。\n[325.5 -> 329.98] 那么了解了逆合成分子的一般思路我们接下来来进行一个运用。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with a comic-style illustration and text in Chinese. The slide includes a question about the relationship between a character and a product.\n- The teacher points to the comic illustration, likely discussing the content or question presented.\n\n**Middle:**\n- The screen transitions to a flowchart with categories like \"情境导入\" (situational introduction) and \"建构知识\" (constructing knowledge).\n- The teacher gestures towards different sections of the flowchart, explaining the relationships between the components.\n- The teacher writes \"有机合成树脂隔热水平设计\" on the blackboard, indicating a topic related to organic synthetic resin and thermal insulation design.\n\n**End:**\n- The teacher continues to explain, pointing to the flowchart on the screen, which now includes additional elements like \"基础知识\" (basic knowledge) and \"目标产物\" (target product).\n- The teacher adds more details to the flowchart, such as \"聚合反应\" (polymerization reaction) and \"结构设计\" (structural design), while gesturing to emphasize these points.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the flowchart on the digital screen, which outlines a process involving basic knowledge, safety knowledge, and target products. It is structured with boxes and arrows indicating relationships.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"有机合成树脂隔热水平设计\" on the blackboard, establishing the topic. On the screen, additional elements like \"聚合反应\" and \"结构设计\" are added to the flowchart.\n- **Modifications**: The teacher updates the flowchart by adding arrows and labels to show the progression from basic knowledge to target products.\n- **Deictic Gestures**: The teacher points to specific parts of the flowchart, such as \"基础知识\" and \"聚合反应,\" while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the flowchart, such as circling or underlining important terms.\n- The digital screen highlights different sections of the flowchart as the teacher discusses them, aiding in visual focus.\n\nThis structured approach ensures a clear link between the teacher's actions and the evolving visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "Initially, the digital screen displayed a comic-style illustration with a question about character-product relationships, setting the stage for discussion. The teacher pointed to the comic, initiating the topic. Then, the screen transitioned to a flowchart outlining \"情境导入\" and \"建构知识,\" serving as the visual anchor. The teacher constructed the lesson by writing \"有机合成树脂隔热水平设计\" on the blackboard, establishing the core topic. As the lecture progressed, the teacher derived additional elements on the flowchart, such as \"基础知识\" and \"目标产物,\" while gesturing to emphasize their connections. The teacher annotated the flowchart with \"聚合反应\" and \"结构设计,\" tracing arrows to illustrate the progression from basic to advanced concepts. Deictic gestures were resolved by pointing to specific sections like \"基础知识\" to highlight foundational knowledge. Finally, the teacher circled key terms and used hand gestures to underscore important relationships, reducing cognitive load by visually aligning explanations with the evolving flowchart. This dynamic construction ensured a clear, step-by-step understanding of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Urea Synthesis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[154.56 -> 217.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Retrosynthetic Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[280.56 -> 324.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Basic Raw Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[236.78 -> 272.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Target Product Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[280.56 -> 324.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Functional Groups",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[280.56 -> 324.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Carbon Skeleton",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[280.56 -> 324.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Polymerization Reaction",
+        "type": "Visual",
+        "original_text": "Polymerization Reaction",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Structural Design",
+        "type": "Visual",
+        "original_text": "Structural Design",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Chemical Bond Breaking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[280.56 -> 324.4]"
+      },
+      {
+        "id": "c10",
+        "label": "Reverse Thinking Process",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[325.5 -> 329.98]"
+      },
+      {
+        "id": "c11",
+        "label": "Visual Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart with situational introduction and knowledge construction",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Class Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Explains development from historical context in organic synthesis."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Retrosynthetic analysis includes considering basic raw materials."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Builds upon understanding target product for synthesis planning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Analyzing target products includes examining functional groups."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Assessing the carbon skeleton as part of product analysis."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Breaking chemical bonds is essential to the analysis process."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Involves using polymerization reactions for synthesis."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Retrosynthetic analysis builds upon reverse thinking principles."
+      },
+      {
+        "source": "c11",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Flowchart illustrates polymerization within the synthesis plan."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Flowchart provides a visualization of structural design."
+      },
+      {
+        "source": "c11",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Engages students by organizing visual flow of information."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts deeper analysis of retrosynthesis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

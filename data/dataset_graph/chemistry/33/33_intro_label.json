@@ -1,0 +1,161 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to accurately assess the impact of chemical phenomena on society and the environment; cultivate a spirit of scientific inquiry and patriotic sentiment by integrating scientists’ stories; understand the relationship between material properties and new‑energy development.",
+  "transcript": "[0.0 -> 114.98] 我认为可以由以下三点首先我们可以紧贴实际运用实证的素材来在化学课当中对同学们进行讲解比如说日本排放核污水这一实证素材我们就可以以此给学生树立正确的价值判断让学生有自己的思考能力第二点在课程引入阶段可以给出科学家的视力比如说我们的侯德宝先生它质检的方法就可以在课前引入阶段里学生们进行一定的讲解这样的话既完成了教学任务又渗透了课程思政起到了润无细无声的作用第三点我们可以将理论和实践相互结合比如说在我即将授课的这一个课时当中我会讲到顽听的性质在这一节当中我将会拓展可燃冰的相关知识以此来解释未来的可燃冰的开采新能源战役在这一块内容当中让学生们动用自己的思想如何更有效地在南海领域去开采这件可燃冰我的回答到此结束谢谢大家。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The teacher holds a small yellow object, possibly a model or a prop, which is used to engage the audience at the beginning of the lesson.\n\n#### 2. The Title Event\n- **Title on Screen**: The screen displays text in Chinese, with the main title being \"授業の適切な与え方\" (translated as \"Appropriate Ways to Conduct Lessons\").\n- **Teacher's Action**: The teacher stands in front of the screen, likely referring to the title as they begin the presentation.\n\n#### 3. The Objectives\n- **Visible Content**: The screen shows a list of bullet points in Chinese, which are likely the learning objectives or agenda for the lesson. Specific bullet points are not clearly readable, but they are organized in a structured format on the right side of the screen.\n\n#### 4. Key Gestures\n- **Hand Movements**: The teacher holds papers and occasionally gestures towards the screen, possibly emphasizing points related to the content displayed.\n- **Object Handling**: The teacher manipulates the yellow object, likely using it to illustrate a concept or maintain engagement.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Teacher's Action**: The teacher stands in front of the class, holding papers and a yellow object.\n- **Screen Content**: The title \"授業の適切な与え方\" is prominently displayed, setting the theme of the lesson.\n- **Gestures**: The teacher gestures towards the screen, possibly introducing the topic.\n\n#### Middle\n- **Teacher's Action**: The teacher continues to hold the papers and occasionally looks at them, likely reading or referring to notes.\n- **Screen Content**: The bullet points remain visible, providing structure to the lesson.\n- **Gestures**: The teacher uses hand movements to emphasize points, occasionally pointing towards the screen or the yellow object.\n\n#### End\n- **Teacher's Action**: The teacher maintains focus on the screen content, possibly summarizing or transitioning to the next part of the lesson.\n- **Screen Content**: The visual elements on the screen remain consistent, with the title and bullet points guiding the lesson's flow.\n- **Gestures**: The teacher's gestures continue to link the physical actions with the visual content, reinforcing key points.\n\nThis structured approach ensures that the teacher's actions are explicitly linked to the visual content, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "The introduction phase of the lesson begins with the teacher standing in front of the class, holding a small yellow object, which serves as the initial visual hook to engage the students. The teacher's poised stance and the object in hand suggest an interactive start, possibly using the prop to illustrate a concept. The scene transitions smoothly as the teacher gestures towards the large screen displaying the title \"授業の適切な与え方,\" which anchors the lesson's main topic. The screen also features a structured list of bullet points, likely outlining the learning objectives or agenda. Throughout this phase, the teacher's actions are deliberate, occasionally referring to notes and the yellow object, which helps maintain student interest. The visual shift from the hook to the main topic is seamless, with the teacher's gestures directing attention to the screen's content. This approach effectively bridges the students' existing experiences with the new knowledge, setting a clear framework for the lesson. The introduction not only captures attention but also establishes a structured pathway for the forthcoming content, ensuring students are prepared for the learning journey ahead.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Nuclear Wastewater",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Value Judgment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientist Stories",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Silent Infiltration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Theory-Practice Integration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Methane Hydrate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c8",
+        "label": "South China Sea Extraction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c9",
+        "label": "New Energy Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.98]"
+      },
+      {
+        "id": "c10",
+        "label": "Hook Object",
+        "type": "Visual",
+        "original_text": "The teacher holds a small yellow object as a prop to engage students.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Lesson Title",
+        "type": "Visual",
+        "original_text": "Appropriate Ways to Conduct Lessons",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Learning Objectives",
+        "type": "Visual",
+        "original_text": "Structured list of lesson objectives in bullet points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c13",
+        "label": "Introductory Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards screen and yellow object to emphasize points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c14",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Using nuclear wastewater as a case to teach value judgment."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Value judgment leads to development of critical thinking."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Stories of scientists include the idea of silent infiltration."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Integrating theory with practice to understand new energy development."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Exploring methane hydrate extraction in the South China Sea."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The yellow object helps visualize the lesson topic."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Lesson title connects to learning objectives on screen."
+      },
+      {
+        "source": "c13",
+        "target": "c14",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures help keep students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,154 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and geometric properties of a parabola; master the roles of the focus and directrix in a parabola.",
+  "transcript": "[686.8 -> 696.36] 这么一个图像是一个泡雾线好那在这个画图的过程当中大家来找找有哪些大小关系呢它涉及到哪些量这些量之间有怎样的一个大小关系啊请这位男同学说说看涉及到一些距离上的关系比如说M点L的距离这个MB的长度那就是表示长MB的绝对值跟那个MF的绝对值是相等的等于MF的绝对值这一段和这一段的距离相等为什么呢因为那个线是我从那个池子上做出来的所以是长度是一样的所以其实是这一段加这一段其实等于这一段加这一段是吧因为我们系绳的长度和AF的长度是相等的所以由刚刚的计算过程我们可以得到其实MB的长度和MF的长度是一样的很好请坐好由这样的一个等量关系之后同学们结合刚刚我们的做图过程你能够尝试地说说泡物线的定义吗。\n[699.06 -> 758.04] 这是一个动点MM满足这样的一个等式M到定点的距离这位同学你愿意预示啊请你说说看M到定点的距离与M到定值线的距离是相等的相等的好请坐我们来看一下将它的这个过程严谨地表述出来之后其实就是平面一个定点F与一条直线L这条直线L它的它是不经过我们这个定点F的与它距离相等这么一个轨迹就叫做爬物线我们其中给这个F命名为爬物线的焦点它叫做焦点这条直线F呢就叫做爬物线的准线。\n[759.06 -> 781.58] 好那有了它的定义之后同学们接下来再继续进行小组探究建立适当的坐标系使得这个抛物线的方程更加简单进而我们还需要思考的一个问题就是好的我的模拟授课到此结束恳请各位评委老师批评执照。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram and key mathematical expressions.\n   - The diagram includes a circle with labeled points and angles, and the expression $IM = 10 \\pi$ is written below it.\n   - The screen to the right displays a list of questions and key points in Chinese, structured in a bullet format.\n\n2. **Key Knowledge Items (Content View)**:\n   - Diagram on the blackboard: Circle with points labeled $A$, $M$, and angles marked.\n   - Mathematical expression: $IM = 10 \\pi$.\n   - Screen content includes:\n     - Question 1: \"如何求圆的周长？\"\n     - Question 2: \"如何求圆的面积？\"\n     - Additional text discussing the relationship between circumference and diameter.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the circle and highlighting the angle $\\angle A$.\n   - The teacher gestures towards the expression $IM = 10 \\pi$, emphasizing its significance.\n   - The teacher occasionally looks at the screen, likely to reference the questions displayed, but primarily focuses on the blackboard content.\n\n4. **Transition to Next Step**:\n   - The screen displays a list of questions, which may serve as a review or homework prompt.\n   - No explicit homework assignment is visible, but the questions could imply further study or practice on the topics discussed.\n\nThis structured visual summary consolidates the lesson's focus on circle properties and related calculations, with the teacher's gestures reinforcing key elements of the diagram and mathematical expressions.",
+  "visual_narrative": "The lesson concludes with a blackboard diagram centered on circle properties, featuring a labeled circle and the expression $IM = 10 \\pi$. The teacher visually reviews the content by pointing to the circle's angles and tracing the diagram, reinforcing the relationship between the circle's elements. He emphasizes the expression $IM = 10 \\pi$ by gesturing towards it, marking it as a key takeaway. The screen displays questions related to circumference and area, serving as a visual prompt for further review or homework, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Parabola Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.06 -> 758.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Focus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.06 -> 758.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Directrix",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.06 -> 758.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Circle Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[686.8 -> 696.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Distance Equality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[686.8 -> 696.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Circumference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.06 -> 758.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Area of Circle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.06 -> 758.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Geometric Relationships",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[686.8 -> 696.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Circle with labeled points and angles",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Mathematical Expression",
+        "type": "Visual",
+        "original_text": "$IM = 10 \\pi$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen Questions",
+        "type": "Visual",
+        "original_text": "Questions on circumference and area in English",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Exploration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[759.06 -> 781.58]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines the parabola by its focus and directrix."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Defines the parabola based on its directrix."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram illustrates circle properties."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Expression highlights the significance of distance equality."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Circle properties inform geometric relationships."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Screen prompts thinking about circle circumference."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Screen prompts thinking about circle area."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Geometric relationships evolve from distance equality."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Blackboard content guides student exploration of concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

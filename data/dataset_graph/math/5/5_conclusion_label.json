@@ -1,0 +1,152 @@
+{
+  "video_name": "5_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "- Master the basic form and transformations of the complete‑square formula.  \n- Understand the steps for solving real‑world problems by completing the square.  \n- Be able to apply mathematical thinking to abstract specific problems into mathematical models.",
+  "transcript": "[673.399333 -> 733.38] 小组讨论结束这位同学你认为该如何来广大一方的形式呢我觉得需要镇如何镇把它可以先把这个二给两边成一二之后得到一个平等的辨识然后对这个辨识进行辨线形式一项处理非常好然后最后在因为它已经是一个玩完全圈方的形式对不对对我们提出一个号之后可以将形化解成这样的形式我们可以然后将号不能是变号之后我们会发现这个是大于远邻的由此就证明了这个基本不能是在大于远邻的形式里面的形一般的情形当中也是成立的对吧非常好进行的从而我们将这个基本步的事推广到了所有的情形当中接下来到刚开始的那个问题如何为才能使得它的面积等于一百平方米呢请同学们课后去进行探究回顾今天的我们通过真实体系进击抽象出数学尾巴叠叠然后将完成平方公式之后变形得到了基本不能试试在这个过程当中体现了我们数学的状化与化规和特殊到一般单的数学思想请同学们课后探究基本不能试的几何解释是什么样的样的下课下课我都听到听到听到好。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a structured layout with a green border and a red header labeled \"授業の目標\" (Lesson Goals).\n   - The slide is divided into three sections, each with a red label: \"基礎知識の習得\" (Acquisition of Basic Knowledge), \"数学的思考\" (Mathematical Thinking), and \"探究活動\" (Inquiry Activities).\n\n2. **Key Knowledge Items (Content View)**:\n   - **基礎知識の習得**: This section likely contains key formulas or concepts related to basic knowledge.\n   - **数学的思考**: This section may include terms or strategies related to mathematical thinking.\n   - **探究活動**: This section might outline activities or methods for inquiry-based learning.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each section of the slide in order, likely emphasizing the importance of each goal.\n   - The teacher gestures towards the blackboard, where key formulas such as $(a-b)^2 = a^2 - 2ab + b^2$ and $a+b \\geq 2\\sqrt{ab}$ are written, reinforcing the connection between the slide content and the blackboard notes.\n   - The teacher uses hand movements to underline or highlight the final points on the slide, ensuring students focus on the summary.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary slide and blackboard content, suggesting a review or closure of the lesson without immediate transition to next steps.",
+  "visual_narrative": "The lesson concludes with a slide centered on the lesson goals, divided into three sections: Acquisition of Basic Knowledge, Mathematical Thinking, and Inquiry Activities. The teacher visually reviews the content by pointing to each section in sequence, ensuring students focus on each goal. He emphasizes the key formulas on the blackboard, such as $(a-b)^2 = a^2 - 2ab + b^2$, reinforcing their importance. The visual focus remains on the summary slide, with no explicit transition to homework or next steps, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Basic Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[673.399333 -> 733.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Transformations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[673.399333 -> 733.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Complete-Square Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[673.399333 -> 733.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Solve Real-World Problems",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[673.399333 -> 733.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Mathematical Models",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[673.399333 -> 733.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Formula $(a-b)^2$",
+        "type": "Visual",
+        "original_text": "The formula $(a-b)^2 = a^2 - 2ab + b^2$ on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Inequality $a+b \\geq 2\\sqrt{ab}$",
+        "type": "Visual",
+        "original_text": "The inequality $a+b \\geq 2\\sqrt{ab}$ on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Lesson Goals Slide",
+        "type": "Visual",
+        "original_text": "Slide with 'Lesson Goals' in red header, divided into sections: Acquisition of Basic Knowledge, Mathematical Thinking, Inquiry Activities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Acquisition of Knowledge",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Group Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "c11",
+        "label": "Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[673.399333 -> 733.38]"
+      },
+      {
+        "id": "c12",
+        "label": "Geometric Interpretation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[673.399333 -> 733.38]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Understanding the basic form of the equation is essential before mastering transformations in the complete-square formula."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The complete-square formula is used to solve real-world problems as it provides a clear procedural method."
+      },
+      {
+        "source": "c4",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Solving real-world problems includes applying mathematical thinking and models."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Applying mathematical models builds upon problem-solving skills."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The formula on the blackboard visualizes the connection to the complete-square formula mentioned in the lesson goals slide."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The inequality on the blackboard visualizes the importance of mathematical thinking highlighted in the lesson goals slide."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "The lesson goals slide scaffolds students' engagement with the core topics of the lesson."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Group brainstorming prompts students' engagement with the lesson content."
+      },
+      {
+        "source": "c3",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Understanding geometric interpretation is part of mastering the complete-square formula."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,133 @@
+{
+  "video_name": "34_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "- Understand the basic classification standards for criminal disputes and criminal proceedings.  \n- Analyze the differences among various types of cases regarding their nature and procedural application.  \n- Master the parties, substantive content, and applicable laws of criminal proceedings.",
+  "transcript": "[712.2715 -> 730.0] 那么第三个涉及到情况比较严峻恶劣了它就成为了一种刑事纠纷和刑事诉讼。\n[736.68 -> 761.28] 那么同学们这三种类型呢他们主要案件的性质诉讼的目的以及提起诉讼的主体诉讼内容和程序适用法律方面等等都有差异那么具体有什么差异呢我们稍后将接着学习以上就是我整体的授课片段恳请各位评论老师批评指正。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram and text written in Chinese. The diagram includes a triangle and several labels.\n   - The digital screen displays a slide with text in Chinese, which appears to summarize key points or instructions.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Diagram with a triangle labeled with Chinese text.\n     - Text written in Chinese, including phrases like \"操作评价\" (Operational Evaluation) and \"教学设计\" (Teaching Design).\n   - Digital Screen:\n     - Text in Chinese, including phrases like \"教学设计\" (Teaching Design) and \"课堂管理\" (Classroom Management).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the blackboard, specifically highlighting the phrase \"操作评价\" (Operational Evaluation).\n   - The teacher gestures towards the triangle diagram, possibly explaining its components or significance.\n   - The teacher occasionally looks at the digital screen, likely to reference or emphasize the points displayed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.\n\nThis structured visual summary highlights the teacher's emphasis on key concepts through gestures and the static layout of the blackboard and digital screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a diagram featuring a triangle and several Chinese labels, alongside text including \"操作评价\" (Operational Evaluation) and \"教学设计\" (Teaching Design). The digital screen shows a slide with key phrases in Chinese, such as \"教学设计\" (Teaching Design) and \"课堂管理\" (Classroom Management). The teacher visually wraps up the lesson by pointing to the phrase \"操作评价\" on the blackboard, emphasizing its importance. Gestures are directed towards the triangle diagram, likely explaining its components. The teacher occasionally references the digital screen, reinforcing the points displayed. No explicit visual indication of homework or next steps is present, focusing solely on the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Criminal Dispute",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[712.27 -> 730.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Criminal Proceedings",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[712.27 -> 730.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Case Nature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.68 -> 761.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Laws Applicable",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[736.68 -> 761.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Litigation Subject",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.68 -> 761.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Operational Evaluation",
+        "type": "Visual",
+        "original_text": "Operational Evaluation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Teaching Design",
+        "type": "Visual",
+        "original_text": "Teaching Design",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Classroom Management",
+        "type": "Visual",
+        "original_text": "Classroom Management",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Triangle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with a triangle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines the transformation from dispute to legal proceedings."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explains specifics that contribute to classifying the dispute."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Describes the legal principles involved in proceedings."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Identifies parties involved in legal proceedings."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher underscores operational evaluation significance via diagram."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Teaching concepts are illustrated using diagram."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher uses classroom management strategies to engage students."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Concludes lesson by summarizing concepts with diagram."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

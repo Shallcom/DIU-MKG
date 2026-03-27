@@ -1,0 +1,204 @@
+{
+  "video_name": "16_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Able to identify and classify natural and social phenomena related to sound.",
+  "transcript": "[60.0 -> 119.7] 核裂变是一个重核变成两个中等核会放出能量那两个亲核变成一个重点核也会放出能量今天我要解答同学的困惑首先我会肯定学生提出问题的行为这是一个积极思考的过程非常值得肯定其次我会让学生回顾能量守恒的观点能量守恒是指能量并不能凭空产生也不能凭空消失总能量是守恒的其次我会对这个现象进行解释一个重核裂变成两个轻中等核会放出能量是因为重核的总能量会大于两个中等核的能量两个轻核聚变成一个中等核以放出能量是因为两个轻核的总能量会小于中等核的总能量这与反应前后的总能量有关最后我会希望同学继续保持积极思考的态度对同学的科学态度进行认可。\n[120.7 -> 216.9] 我的即兴演讲到此结束下面开始我的模拟上课环节同学们我们在生活过程中经常会听到声音比如老师现在在讲课同学们能听见老师的声音那老师想问同学们了生活中有什么与声音有关的现象呢同学们可以从自然界和人类生活这两个方面进行思考请这位同学来回答一下在自然界中有什么与声音有关的现象呢像比如会听到芭蕾声对了非常好芭蕾声还有什么呢自然界的话还有动物也会有他们自己的语言也能被我听见很好请坐那请这位同学来说一下在人类生活中有什么与声音有关的现象吗击打乐器的时候会产生声音非常好还有吗讲话也有声音的基本非常好这位同学思维非常敏捷请坐。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with Chinese text. The slide lists several points, with the first being highlighted in red.\n- The teacher holds papers and gestures towards the screen, indicating the content being discussed.\n- The blackboard is mostly empty, with some faint writing on the left side.\n\n**Middle:**\n- The teacher moves closer to the blackboard, writing the word \"雷\" (léi) followed by \"Eda\" in English.\n- The teacher continues to write, adding more characters and possibly explaining the pronunciation or meaning.\n- The digital screen remains static, displaying the same slide with the highlighted point about the relationship between sound and people.\n\n**End:**\n- The teacher completes writing on the blackboard, possibly adding more details or examples related to the topic.\n- The teacher gestures towards the blackboard, emphasizing the written content while speaking.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide, which lists several points in Chinese. The highlighted point reads: \"生活中声音与人息息相关！（听觉、人与人交流）\" (In life, sound is closely related to people! (Hearing, communication between people)).\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"雷\" and \"Eda\" on the blackboard, likely explaining the concept of sound or a related term.\n- **Modifications**: No erasures or modifications are observed; the teacher focuses on adding content.\n- **Deictic Gestures**: The teacher points to the blackboard while writing, ensuring students follow along with the new content.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses the blackboard to emphasize key terms, writing them clearly and possibly repeating them verbally.\n- The digital slide's red highlight draws attention to the main topic being discussed.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a slide with several points in Chinese, highlighting the relationship between sound and human life: \"生活中声音与人息息相关！（听觉、人与人交流）\". The blackboard was mostly empty, setting the stage for the lesson. The teacher began by standing in front of the screen, gesturing towards the highlighted point to emphasize its importance. \n\nThen, the teacher moved to the blackboard, constructing the character \"雷\" and writing \"Eda\" beside it, likely explaining its phonetic or semantic significance. The teacher's gestures directed attention to these written elements, ensuring students connected the visual symbols with the spoken explanation. \n\nFinally, the teacher expanded on the blackboard content, possibly adding related terms or examples. Throughout, the teacher's deictic gestures traced specific parts of the writing, reinforcing key concepts. The consistent highlighting on the digital slide and the clear, deliberate additions on the blackboard worked together to reduce cognitive load, allowing students to focus on understanding the relationship between sound and human interaction. The teacher's strategic use of visual emphasis, such as writing key terms prominently, aligned with the lesson's conclusion, ensuring a cohesive learning experience.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Nuclear Fission",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 119.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Energy Release",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[60.0 -> 119.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Energy Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 119.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Nuclear Fusion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 119.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Sound in Nature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Sound in Human Life",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Hearing",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Human Communication",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Thunder Sound",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Animal Sounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c11",
+        "label": "Musical Instruments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "c12",
+        "label": "Speech Sounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.7 -> 216.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Highlighted Slide",
+        "type": "Visual",
+        "original_text": "In life, sound is closely related to people! (Hearing, communication between people)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Writing",
+        "type": "Visual",
+        "original_text": "雷 Eda",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Heavy nuclei split into lighter ones, releasing energy."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Energy conservation principle explains energy behavior."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Light nuclei merge, releasing energy."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Slide emphasizes the relationship between sound and people."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Hearing is a part of human communication."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Musical instruments are examples of sound in human life."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Thunder sound is an example of sound in nature."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Animal sounds are examples of sound in nature."
+      },
+      {
+        "source": "c6",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Speech sounds are examples of sound in human life."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Blackboard writing emphasizes concepts related to the slide."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of sound in nature."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of sound in human life."
+      },
+      {
+        "source": "s2",
+        "target": "c9",
+        "relation": "answers_about",
+        "intent": "Student answers regarding sound in nature."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

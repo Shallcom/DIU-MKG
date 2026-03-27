@@ -1,0 +1,145 @@
+{
+  "video_name": "9_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Recall and explain the definition and graph characteristics of exponential functions; describe the pattern of graph changes for exponential functions with different bases; plot and analyze the symmetry of exponential functions with various bases.",
+  "transcript": "[202.56 -> 239.32] 那同学们你们还记得我们上节课学习的是什么内容吗我们上节课学习了密函数同学们还记得我们是什么样的步骤进行学习的吗首先通过通过生活力探究出了密函数的定义数的定然后呢画出函数图像数图像然后对函数图像进行观察得出得出密函数的性质性质那现在我们已经得出了数函数的定义那接下来我们要进行哪一步啊。\n[240.34 -> 408.08] 对画出函数图像好同学们现在呢现在呢我们通过描点画出函数二维点指数的指数项好大家还记得我们描点法的步骤吗首先是要列表然后描点最后连线连线那老师呢就给出了这样的表格同学们先完成这个表格然后再进行描点描解画出函数图画出函数套效给大家点分钟的时间好我看同学们都已经画完了我们一起看一看大家画出的函数的函数图像是这样的呀大家都画正确画正确了那么接着我们继续来看我们指数函数的图像非常非常非常现在呢继续画出函数Y等于二一点四的函数的图像的图像并与并与函数Y等于二为X函数的图像进行对比好同学们现在现在一个坐标系上画上画出Y等于二等于一为S的指数还能够处于相同的图像大家动起手来吧我看同学们都已经画出来了现在我们就来观察一下这个像还数图像他们有什么关系吗来有哪位同学有想法吗来这位同学所以你观察的观察的结果好观察的很仔细我们可以观察到它是关于对称的对称同学们通过我们观察的这个结果你们能不能在以Y等于A等于C指数的C指数的情况下画出Y等于二分之二等于A等于C指数来处的主像的图像呢那怎么样画呢有哪位同学来说说他的想法吗来这位同学请说可以先找到外图上面的点然后做他关于外图的对象再把这些点点出来很好请坐请坐那么同学们我们现在通过这两个比数为半数观察图出来它们是关系对称的对称的。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes on the blackboard with white chalk, forming the title \"§4.2 指数函数\" (Section 4.2 Exponential Function).\n- The screen displays a slide with the title \"新课引入\" (Introduction to New Lesson) and text explaining exponential functions, including the definition $y = a^x$ where $a > 0$ and $a \\neq 1$.\n\n**Middle:**\n- The teacher turns to face the class, gesturing towards the screen, which now shows a blank slide.\n- The teacher writes on the blackboard, but the content is not visible in the frames provided.\n- The screen updates to show a new slide with a graph of an exponential function, including axes and a curve.\n\n**End:**\n- The teacher points to the graph on the screen, likely explaining its features.\n- A student stands up, possibly to answer a question or participate in the lesson.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the graph of the exponential function displayed on the screen. It includes:\n  - X and Y axes labeled.\n  - A curve representing the exponential function.\n  - No specific labels or equations are visible on the graph itself.\n\n**The Derivation Process (Dynamic):**\n\n- **Additions:**\n  - The teacher writes the section title on the blackboard at the beginning.\n  - The screen transitions from text-based slides to a graphical representation of the exponential function.\n\n- **Modifications:**\n  - No visible erasures or modifications to the blackboard or screen content during the frames provided.\n\n- **Deictic Gestures:**\n  - The teacher gestures towards the screen, likely indicating the graph and its components while explaining.\n  - Points to the blackboard title, emphasizing the lesson's focus on exponential functions.\n\n**The Highlighting Strategy (Emphasis):**\n\n- The teacher uses hand gestures to direct attention to the screen, particularly the graph.\n- The use of the screen to transition from text to a visual graph emphasizes the conceptual shift from definition to graphical representation.\n\nThis structured visual evolution helps students connect the abstract definition of exponential functions to their graphical interpretation, facilitated by the teacher's deliberate gestures and screen transitions.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the title \"§4.2 指数函数\" alongside a slide introducing exponential functions with the definition $y = a^x$ where $a > 0$ and $a \\neq 1$. The teacher constructed the foundational concept by writing the section title on the blackboard, establishing the lesson's focus. As the lecture progressed, the screen transitioned to a blank slide, prompting the teacher to annotate verbally, likely elaborating on the properties of exponential functions. The teacher then derived the graphical representation by displaying a slide with an exponential function graph, featuring labeled axes and a characteristic curve. Throughout, the teacher resolved deixis by tracing the rising slope of the curve, illustrating the increasing trend of the function. To emphasize key points, the teacher gestured towards the graph, aligning visual cues with explanations to highlight the function's behavior. Finally, the teacher engaged a student, reinforcing the interactive learning process. This strategic use of visual aids and gestures reduced cognitive load by linking abstract definitions to concrete graphical interpretations, facilitating a comprehensive understanding of exponential functions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Exponential Function Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[202.56 -> 239.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Properties of Exponential Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[202.56 -> 239.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Graph Symmetry Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[240.34 -> 408.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Exponential Graph Drawing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[240.34 -> 408.08]"
+      },
+      {
+        "id": "c5",
+        "label": "Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[240.34 -> 408.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Deictic Gesture",
+        "type": "Visual",
+        "original_text": "Teacher gestures to the graph showing key features.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "§4.2 Exponential Function",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Exponential Function Graph",
+        "type": "Visual",
+        "original_text": "Graph with labeled axes and a curve.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Blank Slide Transition",
+        "type": "Visual",
+        "original_text": "Screen transitions to a blank slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Participating",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The definition of exponential functions is the basis for understanding their properties."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The analysis of graph symmetry is part of understanding the properties of exponential functions."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Drawing the graphs is based on the definition of exponential functions."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Drawing graphs evolves to include symmetry analysis."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Graph drawing gives practical application of the coordinate system."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Gestures highlight key features of the graph."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard title clarifies the lesson's topic."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Graphically represents the exponential function definition."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "Transition from text to graph marks a conceptual shift."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "engages",
+        "intent": "Student interaction is encouraged through the analysis of graphs."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

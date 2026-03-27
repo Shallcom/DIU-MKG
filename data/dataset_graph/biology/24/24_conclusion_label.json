@@ -1,0 +1,166 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the basic principles of PCR technology and how it differs from DNA replication inside the cell; master the three fundamental steps of the PCR amplification process and the specific role of each.",
+  "transcript": "[501.97647525 -> 516.34] 大家找到了吗PCR技术是体外扩张DNA的一种技术它用到的成分呢与我们细胞中的有些类似但也有一定的不同有没有同学发现不同在哪里呀我们在体内进行DNA复制的时候有隐悟吗没有所以在体外的时候它是需要隐悟的我们来看一下每一个首先它需要有解玄酶解玄酶的作用是不是和在细胞内是一样的呀都是为了打开DNA的收链使它的碱基暴露出来然后还要有一条DNA的母链它是为DNA的复制提供模板还要有四种脱氧核苷酸作为它的原料还要有DNA聚合酶它是催化合成DNA的子链的在体外频扩增的时候我们还需要有饮物它可以使DNA聚合酶能够从饮物的三层端开始合成脱氧和肝酸这就是它的一些原料了下面同学们还是阅读一下这个PCR的过程图看一下它一共分为哪几步呢\n[521.86 -> 599.34] 好时间到有没有同学找到呀有请出来了同学三步变性复性和延伸好请坐我们先来看第一步变性变性啊它是当温度上升到九十九十摄氏度以上时双链DNA呢解旋为单链然后第二步是复性就是当温度下降到五十摄氏度以下时两种引物呢通过碱基互补配对与两条单链DNA结合到了第三步就是延伸当温度上升到七十二摄氏度左右时溶液中的四种多氧核苷酸在耐高温DNA聚合酶的作用下根据碱基互补配对原则合成新的DNA链这样就是刚刚那个同学说的三个步骤\n[601.56 -> 643.7] 我们合成了第一代之后呢第二代就以第一代的产物为模板继续进行复制还是重复刚刚的三个步骤大家一起说一下变性复性和延伸好这样呢就完成了PCR的过程\n[647.66 -> 664.42] 怎么样同学们你们学会了吗老师希望大家通过本节课的学习能够多一些思考与创新好了以上就是我的教学片段设计感谢各位评委老师的聆听与支持感谢各位同学的配合谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard. It features a list of key points written in white chalk. The layout is organized vertically with bullet points, and there are color-coded elements in green and red chalk for emphasis.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings visible on the board include:\n     - \"5.2 基因工程的基本操作程序\" (Basic procedures of genetic engineering)\n     - \"一、获取目的基因\" (1. Obtain the target gene)\n     - \"二、基因表达载体的构建\" (2. Construction of gene expression vector)\n     - \"三、将目的基因导入受体细胞\" (3. Introduce the target gene into the recipient cell)\n     - \"四、目的基因的检测与鉴定\" (4. Detection and identification of the target gene)\n   - Additional notes and diagrams are present, though specific details are not fully legible.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the board in sequence, emphasizing the steps of the genetic engineering process.\n   - The teacher uses hand gestures to underline or circle key terms, such as \"获取目的基因\" and \"基因表达载体的构建,\" to highlight their importance.\n   - The teacher occasionally turns to the interactive screen, pointing to corresponding sections on the slide to reinforce the connection between the board notes and the digital content.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the board or screen in the provided frames. However, the teacher's gestures suggest a review of the lesson's main points, possibly preparing students for the next topic or assignment.",
+  "visual_narrative": "The lesson concludes with a chalkboard summary centered on the basic procedures of genetic engineering. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the steps from obtaining the target gene to its detection and identification. The teacher uses hand gestures to underline key terms, reinforcing their importance. Although no explicit homework or next-step instructions are visible, the teacher's gestures suggest a review of the lesson's main points, preparing students for subsequent topics.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "PCR Technology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[501.97 -> 516.34]"
+      },
+      {
+        "id": "c2",
+        "label": "DNA Replication",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[501.97 -> 516.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Enzymes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[501.97 -> 516.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Target Gene",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[516.34 -> 521.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Gene Vector Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[516.34 -> 521.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Gene Introduction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[516.34 -> 521.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Gene Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[516.34 -> 521.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Denaturation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.86 -> 599.34]"
+      },
+      {
+        "id": "c9",
+        "label": "Annealing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.86 -> 599.34]"
+      },
+      {
+        "id": "c10",
+        "label": "Extension",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.86 -> 599.34]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Chalkboard",
+        "type": "Visual",
+        "original_text": "Chalkboard with genetic engineering steps",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures for emphasis",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "PCR is based on the principles of DNA replication."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Denaturation is a fundamental step in PCR."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Annealing follows denaturation in PCR process."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Extension occurs during PCR to synthesize new DNA strands."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Board displays the steps related to genetic engineering."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Each procedure step outlined from target gene to detection."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Hand gestures underline key steps like obtaining the target gene."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Student clarifies denaturation process by answering about PCR's steps."
+      },
+      {
+        "source": "s2",
+        "target": "c9",
+        "relation": "guides_discussion",
+        "intent": "Engaged student supports understanding of annealing."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

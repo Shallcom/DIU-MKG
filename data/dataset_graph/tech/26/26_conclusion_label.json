@@ -1,0 +1,166 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic concepts of variation and its universality; master the causes of variation and its classification.",
+  "transcript": "[642.3016 -> 650.7] 就讲变异具有普遍性一切事物似乎都有变异对不对好那引起这个变异的原因呢是多种多样的。\n[652.8 -> 663.68] 一部分原因是环境还有可能是遗传物质非常好。\n[669.0 -> 676.08] 而由环境变化引起的变异能不能遗传给后代不能所以我们将不考虑遗传的地步。\n[682.8 -> 700.66] 而由遗传物质引起的变异呢可以所以我们叫可疑的变异好了大家对变异的类型和变异的概念也有了一个基本的了解我们可以在上面留言。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram and text written in white chalk. The diagram includes arrows and labels, forming a conceptual map.\n   - The layout includes a vertical line labeled \"生物的变异\" (Biological Variation) with an arrow pointing to \"普遍性\" (Universality) and then to \"原因多样\" (Diverse Causes). Below this, there are additional labels: \"环境\" (Environment), \"遗传物质\" (Genetic Material), and \"表现\" (Expression).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and phrases visible on the blackboard:\n     - 生物的变异 (Biological Variation)\n     - 普遍性 (Universality)\n     - 原因多样 (Diverse Causes)\n     - 环境 (Environment)\n     - 遗传物质 (Genetic Material)\n     - 表现 (Expression)\n   - The screen displays a slide with text and a diagram, including:\n     - 适应环境 (Adaptation to Environment)\n     - 不适应环境 (Not Adapted to Environment)\n     - 生存竞争 (Survival Competition)\n     - 自然选择 (Natural Selection)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher writes \"原因多样\" (Diverse Causes) on the blackboard, linking it to \"普遍性\" (Universality) with an arrow.\n   - The teacher writes \"环境\" (Environment) and \"遗传物质\" (Genetic Material) under \"原因多样\" (Diverse Causes), connecting them with a curved line.\n   - The teacher writes \"表现\" (Expression) and draws a line connecting it to the previous elements.\n   - The teacher gestures towards the screen, pointing to the diagram and text, likely summarizing the content displayed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard diagram summarizing biological variation, featuring a vertical line labeled \"生物的变异\" (Biological Variation) with an arrow pointing to \"普遍性\" (Universality), which then leads to \"原因多样\" (Diverse Causes). Below, the teacher has written \"环境\" (Environment), \"遗传物质\" (Genetic Material), and \"表现\" (Expression), connected by lines to illustrate their relationships. The screen displays a slide with a diagram showing \"适应环境\" (Adaptation to Environment) and \"不适应环境\" (Not Adapted to Environment), linked to \"生存竞争\" (Survival Competition) and \"自然选择\" (Natural Selection).\n\nThe teacher visually reviews the content by writing and connecting the key terms on the blackboard, emphasizing the flow from universality to diverse causes. Gestures include pointing to each term and tracing the connections, reinforcing the conceptual map. The teacher highlights the core takeaway by ensuring each element is clearly linked, visually solidifying the lesson's structure. No explicit homework or next-step instructions are visible in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept_1",
+        "label": "Biological Variation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[642.3016 -> 650.7]"
+      },
+      {
+        "id": "concept_2",
+        "label": "Universality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[642.3016 -> 650.7]"
+      },
+      {
+        "id": "concept_3",
+        "label": "Diverse Causes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[642.3016 -> 650.7]"
+      },
+      {
+        "id": "concept_4",
+        "label": "Environment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.8 -> 663.68]"
+      },
+      {
+        "id": "concept_5",
+        "label": "Genetic Material",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.8 -> 663.68]"
+      },
+      {
+        "id": "concept_6",
+        "label": "Expression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.8 -> 663.68]"
+      },
+      {
+        "id": "concept_7",
+        "label": "Adaptation to Environment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.8 -> 700.66]"
+      },
+      {
+        "id": "concept_8",
+        "label": "Not Adapted to Environment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.8 -> 700.66]"
+      },
+      {
+        "id": "concept_9",
+        "label": "Survival Competition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.8 -> 700.66]"
+      },
+      {
+        "id": "concept_10",
+        "label": "Natural Selection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.8 -> 700.66]"
+      },
+      {
+        "id": "visual_1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "A diagram with arrows and labels on biological variation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual_2",
+        "label": "Screen Diagram",
+        "type": "Visual",
+        "original_text": "Slide showing adaptation and selection processes",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept_1",
+        "target": "concept_2",
+        "relation": "builds_upon",
+        "intent": "Biological variation is a universal principle."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_3",
+        "relation": "builds_upon",
+        "intent": "Biological variation is created by diverse causes."
+      },
+      {
+        "source": "concept_3",
+        "target": "concept_4",
+        "relation": "includes",
+        "intent": "Environment is a cause of variation."
+      },
+      {
+        "source": "concept_3",
+        "target": "concept_5",
+        "relation": "includes",
+        "intent": "Genetic material is a cause of variation."
+      },
+      {
+        "source": "concept_3",
+        "target": "concept_6",
+        "relation": "includes",
+        "intent": "Expression is related to causes of variation."
+      },
+      {
+        "source": "concept_7",
+        "target": "concept_9",
+        "relation": "builds_upon",
+        "intent": "Adaptation affects survival competition."
+      },
+      {
+        "source": "concept_8",
+        "target": "concept_9",
+        "relation": "builds_upon",
+        "intent": "Non-adaptation impacts survival competition."
+      },
+      {
+        "source": "concept_9",
+        "target": "concept_10",
+        "relation": "builds_upon",
+        "intent": "Survival competition leads to natural selection."
+      },
+      {
+        "source": "visual_1",
+        "target": "concept_1",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram visualizes biological variation."
+      },
+      {
+        "source": "visual_2",
+        "target": "concept_9",
+        "relation": "visualizes",
+        "intent": "Screen diagram visualizes survival competition."
+      },
+      {
+        "source": "visual_2",
+        "target": "concept_10",
+        "relation": "visualizes",
+        "intent": "Screen diagram visualizes natural selection."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,101 @@
+{
+  "video_name": "45_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand how to translate biological knowledge into students' core competencies; master methods for integrating ideological and political education into the classroom; cultivate students' scientific thinking and critical analytical abilities.",
+  "transcript": "[0.0 -> 142.74] 最近的各位评委老师亲爱的同学们大家上午好我是高中生物组的第四十五号选手我抽到的即兴讲演题目是你是如何理解生物单元教学是由知识走向素养的桥梁我将从以下三个方面进行回答首先第一点教学教师在教育的过程中应当具有启智润心的作用不仅要教育教育的学习作用更要让学生将知识应用于生活中去为其素养树立良好的方向标将抽象知识具体化直观化不仅促进了知识的理解同时提高了学生的科学思维第二点是在我们教学的过程中可以在其中融入课堂思政的环节例如在DNA结构的讲授中可以使学生发散思维运用多学科来支持教学来支撑教学那在转接产品的安全性中也可以让学生认识到科学是不断发展的科学道路是不断更新与修正的我们也应当拥有科学家的科学情怀最后我想说的是就如德国哲学家所说教育意味着一棵树摇动另一棵树一个灵魂唤醒另一个灵魂所以我们教师也应当充分把握学习者的学习状态和心理素质为他们制定量身的核心素养环节我的即兴讲演到此结束接下来是我的第二环节为你授课上课同学们好在几百年后科学家们培育出来一种转基因产品这种产品它不仅产量高而且试过的人们都能永光焕发精神满满但是呢这时候就出现了两种观点一种人认为这种产品产量又高效果又好是我们食物的不二之选那还有另外一种人他的态度则比较保留他觉得这种产品是不是不安全呢如果是同学们同学们会怎么看呢这位同学你觉得这是健康安全的吗",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is an image of a plant in a pot, labeled \"转基因水稻\" (Genetically Modified Rice). This image is displayed on the screen at the beginning of the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"转基因产品的安全性\" (Safety of Genetically Modified Products). The teacher does not physically write this title but points towards it on the screen, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The learning objectives are listed on the screen in bullet points:\n  - \"转基因产品\" (Genetically Modified Products)\n  - \"转基因技术\" (Genetic Modification Technology)\n  - \"转基因产品的安全性\" (Safety of Genetically Modified Products)\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, indicating the title and objectives.\n- The teacher points to the image of genetically modified rice, linking it to the discussion of safety.\n- The teacher uses hand movements to emphasize key points on the screen, such as the objectives and the image.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"转基因产品的安全性\" with an image of genetically modified rice.\n- The teacher gestures towards the screen, highlighting the title and the image of the rice plant.\n\n**Middle:**\n- The teacher continues to point at the screen, emphasizing the learning objectives listed in bullet points.\n- The teacher moves slightly to the side, maintaining eye contact with the students while occasionally pointing back to the screen.\n\n**End:**\n- The teacher places the papers on the desk and continues to gesture towards the screen, reinforcing the visual content.\n- The teacher uses hand movements to connect the image of the rice plant with the discussion of genetically modified product safety.\n\nThis structured approach ensures that the teacher's actions are directly linked to the visual content, providing a clear and coherent narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents an image of genetically modified rice, labeled \"转基因水稻,\" serving as the hook to capture the students' attention. To bridge to the topic, the teacher gestures towards the screen, emphasizing the title \"转基因产品的安全性\" displayed prominently. The teacher points to the learning objectives listed in bullet points, ensuring students understand the focus areas. Finally, the visual focus remains on the title and objectives, establishing the lesson goal of exploring the safety of genetically modified products. This introduction links the visual stimulus of the rice plant to broader concepts, preparing students to connect new knowledge with existing understanding of genetic modification and its implications.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Genetic Modification Technology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 142.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Genetically Modified Products",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 142.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Safety of Genetically Modified Products",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 142.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Genetically Modified Rice Image",
+        "type": "Visual",
+        "original_text": "Image of a genetically modified rice plant.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Safety Title Screen",
+        "type": "Visual",
+        "original_text": "Title 'Safety of Genetically Modified Products' displayed on screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Objectives Screen",
+        "type": "Visual",
+        "original_text": "Bullet points list: Genetically Modified Products, Genetic Modification Technology, Safety of Genetically Modified Products.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 142.74]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Genetic Modification Technology encompasses genetically modified products."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Safety discussions evolve from understanding genetically modified products."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The image of genetically modified rice represents a specific example of genetically modified products."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The title screen highlights the importance of discussing the safety of genetically modified products."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The objectives screen scaffolds the understanding of genetic modification technology."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Students' engaged state prompts them to think critically about the safety of genetically modified products."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

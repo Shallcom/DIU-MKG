@@ -1,0 +1,140 @@
+{
+  "video_name": "14_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "- Identify geographic elements in current news and assess their impact on national security.  \n- Understand the geographic significance of food security through analysis of textbook cases.  \n- Master concrete methods for integrating national‑security education into geography teaching.",
+  "transcript": "[0.0 -> 113.78] 国家安全但在经济生态资源等领域我们对学生的要求尚不完善今天我就想来谈一谈如何实现地理课堂和国家安全教育相融合从三个方面展开第一了解时事挖掘其背后的地理味儿我们需要在时事新闻当中去落实学生的最近发展区让他们明白这一个案例背后所存在的地理知识在哪里第二专题教学地理能在国家安全当中做什么这其实在选B三当中整本书都有设计比如在粮食安全这一节中课程当中有一个板块叫做谁来养活中国我们可以通过分析教材及相关材料给学生答案中国可以养活中国甚至在之后中国还可以养活世界第三课程是司政合理专题渗透国家安全比如我现在要讲的地球自传这一节就可以通过火箭发射这一案例来进行太空安全的落实从地理中来到地理中去生活当中其实处处有地理地理也在生活当中处处有体现由此通过上述的三个路径我们就可以实现地理课堂和国家安全教育的融合我的即兴讲演到此结束下面开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of the Moon displayed on the screen.\n- **Text**: The text on the screen reads \"地球在转??\" (Is the Earth rotating??).\n\n#### 2. **The Title Event**\n- **Title**: The title on the screen is \"地球在转??\" (Is the Earth rotating??).\n- **Teacher's Action**: The teacher stands in front of the screen, pointing to the title with a piece of paper in hand.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly visible in the frames provided.\n\n#### 4. **Key Gestures**\n- **Gestures**: The teacher uses hand gestures to emphasize points, such as pointing towards the screen and holding the paper while speaking.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays an image of the Moon with the title \"地球在转??\" (Is the Earth rotating??).\n- **Teacher Action**: The teacher walks towards the screen, holding a piece of paper, and begins to speak, pointing towards the title.\n\n#### Middle\n- **Visual Content**: The screen remains unchanged, showing the Moon image and title.\n- **Teacher Action**: The teacher continues to speak, occasionally looking at the paper and gesturing towards the screen. The teacher's hand movements emphasize the title and the image of the Moon.\n\n#### End\n- **Visual Content**: The screen still displays the Moon image and title.\n- **Teacher Action**: The teacher maintains focus on the screen, using hand gestures to engage with the content, possibly explaining concepts related to Earth's rotation.\n\n### Summary\nThe lesson introduction centers around the image of the Moon and the question \"地球在转??\" (Is the Earth rotating??). The teacher uses gestures and a paper to engage with the content, emphasizing the title and image to initiate the discussion on Earth's rotation.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing in front of a screen displaying an image of the Moon, accompanied by the title \"地球在转??\" (Is the Earth rotating??). This visual hook immediately captures attention, setting the stage for the lesson. The teacher, holding a piece of paper, actively engages with the content by pointing towards the title and the Moon image, using hand gestures to emphasize key points. Throughout the introduction, the screen remains focused on this initial visual, serving as a constant reference point. The teacher's deliberate gestures and interaction with the paper suggest a structured approach to explaining the concept of Earth's rotation. This visual setup bridges the students' existing knowledge of celestial bodies with the new topic, effectively introducing the concept of Earth's rotation and preparing the class for a deeper exploration of the subject. The consistent visual aid helps maintain focus and provides a clear link between the hook and the main topic, facilitating a smooth transition into the lesson's core content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Earth Rotation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Geographic Elements",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c3",
+        "label": "National Security Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Food Security",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Integrating Geography and Security",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Geography in National Security",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c7",
+        "label": "China Food Security",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Rocket Launch Case",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 113.78]"
+      },
+      {
+        "id": "c9",
+        "label": "Moon Image",
+        "type": "Visual",
+        "original_text": "Image of the Moon displayed on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Earth Rotation Query",
+        "type": "Visual",
+        "original_text": "Text on screen: 'Is the Earth rotating?'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The image of the Moon is used to visualize the concept of Earth's rotation."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Earth rotation is emphasized through the question on the screen."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Geographic elements are discussed in terms of their impact on national security."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The concept of food security builds upon the specific case of China."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Understanding food security evolves from integrating geography with national security."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Integrating geography and security evolves from understanding geography's role in national security."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Using rocket launch as a case builds upon integrating geography into security education."
+      },
+      {
+        "source": "s1",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "The Earth rotation query prompts thinking and engages students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

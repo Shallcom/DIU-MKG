@@ -1,0 +1,166 @@
+{
+  "video_name": "3_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Understand the deeper meaning of “Man can be destroyed but not defeated”; analyze the old man’s persistence and courage; summarize the work’s theme and transfer its relevance to real‑life contexts.",
+  "transcript": "[700.18 -> 715.1] 请到他的义理他的义力你是怎么来理解人可以被毁灭而不能但不能够被打败这句话的呢。\n[716.96 -> 799.46] 毁灭可能指的是他的肉体或者是他的财富但是被打败的精神是不能被打败的好那么刚才我们提到了在这场第一场的搏斗当中老人的结果好像是失败的但是我们说他是一个失败者吗不是我们其实还可以在失败的后面加上一个什么词来形容他永不言败的我们可以看到课后提示他也我们也可以称他为一位失败的师父对失败英雄那么在这个英雄的背后我们更加能够感受到的是老人内心他面对失败永不言弃的这样一种精神那么我们可以也可以说这是人内心非常宝贵的一种什么样的品质呢在面对挫折的时候好快还能够使我们坚持下去的便是这样一种思路这也是我们从时间到老人与海这一篇文章简练于言背后所品味到的冰山之下的内容好以上是我模拟上课的全部内容谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a mind map structure.\n   - The layout includes a central concept with branching keywords, forming a hierarchical structure.\n\n2. **Key Knowledge Items (Content View)**:\n   - Central concept: \"老人与海\" (The Old Man and the Sea)\n   - Branching keywords: \n     - \"未来挑战\" (Future Challenges)\n     - \"毅力\" (Perseverance)\n     - \"飞速逼近\" (Rapid Approach)\n     - \"险恶\" (Dangerous)\n     - \"英雄\" (Hero)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each keyword on the blackboard, likely emphasizing their connections to the central concept.\n   - She gestures towards the digital screen, possibly linking the board content to the text displayed.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided. The focus remains on the summary content on the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a mind map centered around \"老人与海\" (The Old Man and the Sea), with branching keywords such as \"未来挑战\" (Future Challenges), \"毅力\" (Perseverance), \"飞速逼近\" (Rapid Approach), \"险恶\" (Dangerous), and \"英雄\" (Hero). The teacher points to each keyword in sequence, emphasizing their connections to the central theme. She gestures towards the digital screen, reinforcing the content displayed. The core takeaway is visually marked by the structured layout of the mind map, highlighting the interrelated concepts. No visual homework or next-step instructions are present in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Perseverance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Future Challenges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Rapid Approach",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Dangerous",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Hero",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Man Destroyed Not Defeated",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[700.18 -> 715.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Physical Destruction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c8",
+        "label": "Spiritual Resilience",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c9",
+        "label": "Old Man's Fight",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[716.96 -> 799.46]"
+      },
+      {
+        "id": "c10",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Visual",
+        "original_text": "The blackboard displays a mind map centered around 'The Old Man and the Sea' with key related concepts.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Teacher emphasizing keywords",
+        "type": "Visual",
+        "original_text": "Teacher points to each keyword on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Digital screen reference",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the digital screen, linking board content to displayed text.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c13",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Perseverance is a key element in the concept of being destroyed but not defeated."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "The principle that a man's spirit cannot be defeated evolves from spiritual resilience."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Physical destruction is part of the concept of being destroyed but not defeated."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The Old Man's fight against challenges builds upon his perseverance."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The blackboard mind map visually represents key concepts emphasized by the teacher."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Teacher's gesture provides scaffolding to help students understand the visual arrangement of concepts."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the connection between board keywords and digital screen content."
+      },
+      {
+        "source": "c12",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The digital screen content summarizes the principle of being destroyed but not defeated."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Heroism includes qualities like spiritual resilience."
+      },
+      {
+        "source": "c13",
+        "target": "c10",
+        "relation": "engaged_in",
+        "intent": "Students are engaged in interpreting the blackboard mind map."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

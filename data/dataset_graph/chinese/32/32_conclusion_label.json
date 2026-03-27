@@ -1,0 +1,158 @@
+{
+  "video_name": "32_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Understand how Du Mu employs extensive parallelism in “The Ode to the Epang Palace” to showcase the palace’s grandeur; analyze the author’s use of imagination and fabrication regarding real scenes; explore the author’s purpose and the historical admonitory significance.",
+  "transcript": "[585.76 -> 691.1] 这位同学请你来说你想为哪一句设计一个特写镜头呢歌台暖晓春光荣荣舞殿冷秀风雨淇淇你来翻译一下这一句吗就是人们在殿中舞蹈舞袖飘浮好像带来痕迹如同婚礼交加那样嬉笑还有就是人们在台歌唱歌声响起好像冲浪冲浪一样说得很好那么老师想问了作者真的看到了这样跳舞歌唱的画面了吗并没有所以作者所写的这些东西都是他的想象那么作者在这一段的最后又说了一日之内一宫之间而气候不起同学们从这句话中你感觉到了恶狂公使命的特点呀特别的大我们有一集这样的诗是这么说的人间四月风飞尽山似桃花始盛开这是因为海拔的提高导致气候的变化而恶狂公面积如此之大导致他一宫之内也是气候不起。\n[692.4 -> 724.8] 那作者如此铺陈排比是否表现鄂庞公之美呢同学们在课文后中还有这样一段话蜀族教韩国举楚人一句可怜焦土鄂庞公最后负面而刻下注释一中又告诉我们杜牧的写作缘由他是为了保利大起功势他希望通过割皇宫的教训劝解郡王吸取历史教训。\n[730.78 -> 744.94] 那么作者在论述割皇宫之外还论述了什么呢下节课我们继续交流下课。\n[746.0 -> 749.94] 我的试讲告辞结束了谢谢各位老师谢谢各位同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation screen.\n   - The blackboard contains the title \"阿房宫赋\" and the phrases \"视角\" and \"想象\" written in white chalk.\n   - The presentation screen displays a slide with text and an image of a traditional Chinese painting.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - Title: 阿房宫赋\n     - Phrases: 视角, 想象\n   - Presentation Screen:\n     - Text discussing the historical and imaginative aspects of the \"阿房宫赋.\"\n     - Image of a traditional Chinese landscape painting.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the phrases \"视角\" and \"想象\" on the blackboard, emphasizing these key concepts.\n   - The teacher gestures towards the screen, highlighting the text and the painting, likely connecting the visual elements to the discussed themes.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with text that may indicate further reading or discussion points, though specific homework or assignment details are not visible in the frames provided.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying the title \"阿房宫赋\" and the key phrases \"视角\" and \"想象.\" The presentation screen shows a slide with text and a traditional Chinese painting. The teacher visually wraps up the lesson by pointing to \"视角\" and \"想象\" on the blackboard, emphasizing these concepts. She gestures towards the screen, highlighting the text and painting to reinforce the discussed themes. The teacher's movements suggest a strong emphasis on connecting the visual elements to the narrative. While no explicit homework instructions are visible, the final slide hints at further reading or discussion points, indicating a transition to the next lesson's content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Du Mu",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[585.76 -> 691.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Epang Palace Ode",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[585.76 -> 691.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Extensive Parallelism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[692.4 -> 724.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Imagination and Fabrication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.76 -> 691.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Historical Significance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[692.4 -> 724.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Perspective",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.76 -> 691.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Influence of Geography on Climate",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[692.4 -> 724.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Historical Lessons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[692.4 -> 724.8]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Title and Phrases",
+        "type": "Visual",
+        "original_text": "Title: Epang Palace Ode; Phrases: Perspective, Imagination",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Slide",
+        "type": "Visual",
+        "original_text": "Text about historical and imaginative aspects; Image of traditional Chinese painting",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Translation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The text uses extensive parallelism as a stylistic device."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Du Mu employs imagination and fabrication in his description."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The imaginative elements highlight historical lessons."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Historical significance is tied to learning from past events."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher points to 'Perspective' to emphasize its importance."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher highlights 'Imagination' on the blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide supports discussion of stylistic elements."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The text mentions geographical influence on climate."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "author_of",
+        "intent": "Du Mu is the author of 'Epang Palace Ode'."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The blackboard prompts students to engage with the concepts."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The slide helps contextualize the historical significance."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

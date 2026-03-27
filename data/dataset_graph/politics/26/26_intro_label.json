@@ -1,0 +1,165 @@
+{
+  "video_name": "26_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Help students develop a correct attitude toward examinations; master strategies and methods for addressing problems during exams.",
+  "transcript": "[0.0 -> 122.14] 那我作为一名青年私政课教师就承担着立得树人和帮助学生扣好人生第一利扣死的责任所以我有责任和义务在考前给同学们加以补五所以说我在考试前呢我会首先跟同学们讲出同学们考试将近来检验我们学习成果的时候到了不管你过去如何雄关漫道真如铁如今又如何人间正道是沧桑我们都说首先坚信自己能够长风破浪会有时首先我要强调在考试中我们要学习毛主席所说的在战略上要蔑视敌人在战术上要重视敌人所以说呢在考试时我们首先要认真对待我们的题目那么将你百分百地认真投注到你的这个做题过程中在做题过程中要完美地把你所学的知识展现出来同时我们要记住不要去想你的结果如何毛主席曾经说过与天斗与地斗最难的还是与人斗所以说我们要把自己的考试目标设定为自己我们要超越自己始终坚信前途是光明的道路是曲折的最后一句话与同学们共勉山登绝顶我为峰海盗无涯天走暗祝大家考试成功。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a digital screen displaying a slide titled \"電気記号と回路の図形\" (Electrical Symbols and Circuit Diagrams). The slide includes a list of bullet points, likely outlining the lesson's objectives or key topics.\n\n#### 2. **The Title Event**\n- The title \"電気記号と回路の図形\" is prominently displayed on the digital screen. The teacher does not physically write this title but points towards it, ensuring students focus on the main topic.\n\n#### 3. **The Objectives**\n- The slide shows several bullet points, though specific text is not fully legible. These likely represent the learning goals or key topics to be covered in the lesson.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing towards the screen and making explanatory gestures. These actions direct students' attention to the content on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the digital screen displaying the title \"電気記号と回路の図形.\"\n- The teacher points to the title, ensuring students recognize the lesson's focus.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, highlighting the bullet points, which likely outline the lesson's objectives.\n- The teacher uses hand movements to emphasize key concepts, maintaining eye contact with the students to engage them.\n\n**End:**\n- The teacher stands still, allowing students to absorb the introductory information.\n- The screen remains on the same slide, reinforcing the lesson's main topic and objectives.\n\nThis structured approach ensures a clear visual link between the teacher's actions and the content displayed, setting the stage for the lesson's introduction.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a digital screen displaying the title \"電気記号と回路の図形,\" serving as the hook to capture students' attention. The teacher points directly to the title, ensuring it is the focal point. The slide includes several bullet points, which the teacher gestures towards, likely outlining the lesson's objectives. This transition from the hook to the main topic is seamless, as the teacher uses hand movements to emphasize key areas on the screen, maintaining engagement. The teacher's gestures, such as pointing and making explanatory motions, help bridge the introduction to the core content, linking new knowledge to students' existing understanding of electrical concepts. This structured approach sets the stage for a detailed exploration of electrical symbols and circuit diagrams, preparing students for the upcoming lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Examination Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Problem-solving Strategies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Electric Symbols",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Circuit Diagrams",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Self-confidence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Knowledge Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Strategic Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Focus on Task",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "c9",
+        "label": "Teaching Responsibilities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 122.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Electric Symbols and Circuit Diagrams Slide",
+        "type": "Visual",
+        "original_text": "The digital screen shows the title 'Electrical Symbols and Circuit Diagrams'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points Slide",
+        "type": "Visual",
+        "original_text": "The screen displays bullet points possibly representing lesson objectives.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Developing a correct examination attitude fosters effective problem-solving strategies."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Electric symbols are foundational components within circuit diagrams."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Self-confidence enhances one's ability to maintain focus on tasks."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Being self-confident encourages applying knowledge effectively."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Strategic thinking is an advanced form of problem-solving strategies."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Discussing teacher responsibilities leads to developing a correct examination attitude."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide provides a visual representation of electric symbols."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide provides a visual representation of circuit diagrams."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Bullet points highlight the focus on developing a correct examination attitude."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Bullet points underscore the importance of mastering problem-solving strategies."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "engages_with",
+        "intent": "Students exhibit focus on the task due to engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

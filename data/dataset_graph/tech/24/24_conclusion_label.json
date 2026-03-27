@@ -1,0 +1,178 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the concept of power and its physical significance; be able to compare the speed of work in different situations through calculation.",
+  "transcript": "[709.401967 -> 768.56] 运动的路程不同时间也不同那我们当时怎么比较的我们当时是不是引入了一个什么引入了一个速度的观念好那我们同样这节课我们引入一个相同本质是相同的观念它叫功率请同学们看到六十五面第三段就像用速度表示运动的快慢一样物理学中我们用功率来表达表示做工的快慢它是怎么定义功率的呀同学们一起读一下功与做工时间的之比叫做功率它在数值上等于单位时间内所做的功速度的定义是V等于什么V等于什么S除以T那我们这里功率的定义是老师告诉大家在物理学中我们用大写字母的P来表示功率power嘛取它的首字母大写好PV等于HS除以T那么P等于什么除以什么来谁能用你的推理的能力来推出我们今天最重要的结论之一来等于W除以TW是啥呀是公做也就是做的功的多少T就是什么做工所用的时间非常好请坐P等于W出一个T现在我们可以通过算出它单位时间内所做的功来描述一个物体做工的快乐同学们那你们说这个功率的定义是实际上是上面两种功方法的哪一个呀是时间相同比做工还是做工相同比时间呢很明显吧是不是时间相同比做工呀这里只是把时间换成了什么单位时间比做工它的本质其实就是P等于W除以T课堂的时间是有限的我老是希望同学们在课下的时间了解一下功率的单位我们下节课再来一起学习我的片段教学到此结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which prominently displays the formula for power: $P = \\frac{W}{t}$.\n   - The blackboard also contains Japanese text, which appears to be definitions and explanations related to power and work.\n\n2. **Key Knowledge Items (Content View)**:\n   - The formula $P = \\frac{W}{t}$ is central to the summary.\n   - Japanese text includes phrases such as \"功\" (work), \"時間\" (time), and \"做的功\" (work done).\n   - The screen to the right displays a slide with additional text in Japanese, likely providing further definitions or explanations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points directly at the formula $P = \\frac{W}{t}$, emphasizing its importance.\n   - The teacher gestures towards the Japanese text on the blackboard, likely reviewing key terms and concepts.\n   - The teacher occasionally looks at the screen, possibly to reference or highlight points from the slide.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The screen displays text that might relate to the next lesson or further study, but specific details are not clearly visible.\n\nThis structured visual summary focuses on reinforcing the formula for power and reviewing key terms, with the teacher's gestures guiding attention to these critical elements.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying the formula $P = \\frac{W}{t}$, serving as the central summary artifact. The teacher points directly at this formula, emphasizing its significance. He gestures towards the surrounding Japanese text, likely reviewing key terms such as \"功\" (work) and \"時間\" (time). The teacher's movements focus on reinforcing the formula and definitions, ensuring these elements are visually highlighted. No explicit visual handover to homework or next steps is observed, as the screen primarily displays additional text without clear instructions for subsequent tasks. The emphasis remains on consolidating the core concept of power through the displayed formula and related terms.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Power Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Work",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Time",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Work Done",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Definition of Power",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Speed of Work",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Comparison through Time",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Power Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard displays P = W/t",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Japanese Text on Blackboard",
+        "type": "Visual",
+        "original_text": "Japanese descriptions of 'Work' and 'Time'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen Text",
+        "type": "Visual",
+        "original_text": "Slide with additional explanations",
+        "ocr_corrected": false
+      },
+      {
+        "id": "t1",
+        "label": "Teacher Points to Formula",
+        "type": "Dynamic",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "t2",
+        "label": "Teacher Gestures to Text",
+        "type": "Dynamic",
+        "timestamp": "[709.401967 -> 768.56]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[709.401967 -> 768.56]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Power formula involves concept of work."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Power formula involves concept of time."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Definition evolves from the formula."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Definition of power is based on work done."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Comparison through time involves calculation of power."
+      },
+      {
+        "source": "t1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the importance of the formula."
+      },
+      {
+        "source": "t2",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Teacher summarizes key Japanese terms using gestures."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Speed of work relates to the definition of power."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Blackboard visualizes the power formula."
+      },
+      {
+        "source": "v3",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Screen text likely supports understanding of comparisons."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of power."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

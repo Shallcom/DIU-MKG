@@ -1,0 +1,164 @@
+{
+  "video_name": "4_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the definition of a function’s zero and its relationship to the real roots of equations; master the method of using a quadratic function’s graph to determine the interval containing the zero.",
+  "transcript": "第一小姐函数的零点与方程的减。好同学们我们在之前学习了二次函数运用二次函数的观点认识一元二次方程知道一元二次方程的实数根其实就是一元二二次函数的什么没关系大胆说是零点那假如像老师举例的这种方程乱万二X加二XX减六等于零。我们用方程的求解公式是不是很难求解出来呀那我们要探究它的解是否可以用相对应的二次函数的性质来研究呢。那老师想一定有一些同学有问题我们之前是用二次函数的观点来认识一元二次方程的那在这里这个方程不是一元二次方程嘛那我们同样也可以用相对应的函数来解释吗。同学们觉得呢大胆说没关系是不是啊能不能可以是吧对与二次函数的零点概念相同对于一般函数Y等于F我们只要使F等于零其X的取值就是这个就是二次函数的解也就是这个函数的零点。好那我们就知道了方程的实数解就是与它对应的函数的零点也就是这个零点与X轴的公共点的什么坐标横坐标它们之间是可以相互转化的对吧那我们由此可知我们要求这个方程等于零它的时数减也就是只要确定了函数的零点就可以确定了对吗。那对于像老师刚才举的那个例子不能用公式的方法求解方程的解的时候我们就可以运用来确定函数的零点问题求解方程的解对不对那老师举一个具体的实例请同学们看探究问题对于二次函数FX等于X方减二X减三我们观察他的图像发现他有几个零点观察图像零点也就是它与X轴的焦点有两个零点分别在什么区间内。右边的这个零点是二到四它的零点是只能单独说三可以吗我们说是横坐标。X等于三那左边的这个零点呢它的区间是负二到零那它的零点是X等于负一很好那我们看在区间二四上有一个零点那这个零点的附近函数图像与X轴有什么关系呢在零点的附近观察。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes on the blackboard: \"4.5.1 函数的零点与方程的解\" (Function zeros and equation solutions).\n- The screen displays the same title, reinforcing the lesson's focus.\n- The teacher gestures towards the screen, which shows a question mark and text in Chinese, indicating a problem or concept to be discussed.\n\n**Middle:**\n- The teacher writes the function notation \"$y = f(x)$\" on the blackboard.\n- The screen transitions to a flowchart with three steps:\n  1. \"求函数的零点\" (Find the zeros of the function)\n  2. \"求方程的解\" (Find the solutions of the equation)\n  3. \"求函数图像与x轴的交点\" (Find the intersection points of the function graph with the x-axis)\n- The teacher points to each step on the screen, explaining the process.\n\n**End:**\n- The screen displays a graph with a function and its intersection with the x-axis, accompanied by text explaining the relationship between function zeros and equation solutions.\n- The teacher points to the graph, highlighting the intersection points and their significance.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the flowchart on the screen, detailing the steps to find function zeros and their relation to equation solutions.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"$y = f(x)$\" on the blackboard, establishing the function notation.\n- **Modifications**: The teacher transitions the screen content from a question to a structured flowchart, then to a graph with explanatory text.\n- **Deictic Gestures**: The teacher points to each step in the flowchart and the graph's intersection points, linking verbal explanations to visual elements.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the flowchart steps and the graph's key features.\n- The screen's text and graph are highlighted to draw attention to the relationship between function zeros and equation solutions.\n\nThis structured approach ensures a clear visual and cognitive connection between the teacher's actions and the lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the title \"4.5.1 函数的零点与方程的解\" alongside a digital screen presenting the same heading. The teacher began by writing the function notation \"$y = f(x)$\" on the blackboard, establishing the foundational concept. The screen then transitioned to a flowchart with three steps: \"求函数的零点,\" \"求方程的解,\" and \"求函数图像与x轴的交点.\" The teacher constructed the explanation by pointing to each step, linking the process of finding zeros to solving equations and identifying graph intersections.\n\nAs the lecture progressed, the teacher derived the relationship between these concepts, using hand gestures to trace the flowchart's logical sequence. The screen evolved to display a graph illustrating a function intersecting the x-axis, with accompanying text explaining the visual representation. The teacher annotated the graph, tracing the intersection points to emphasize their significance in determining function zeros.\n\nFinally, the teacher circled the key intersection points on the graph, highlighting their importance in solving equations. This visual strategy reduced cognitive load by aligning verbal explanations with clear, step-by-step visual cues, ensuring students could follow the progression from abstract concepts to concrete graphical solutions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Function Zero",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c2",
+        "label": "Equation Solution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c3",
+        "label": "Graph Intersection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c4",
+        "label": "Quadratic Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c5",
+        "label": "Real Roots",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c6",
+        "label": "X-Axis Intersection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c7",
+        "label": "Zero Interval",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0:00 -> 2:00]"
+      },
+      {
+        "id": "c8",
+        "label": "Function Notation",
+        "type": "Visual",
+        "original_text": "$y = f(x)$ written on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Flowchart Steps",
+        "type": "Visual",
+        "original_text": "Flowchart with steps: Find zeros, Find solutions, Find graph intersections",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Function Graph with X-Axis",
+        "type": "Visual",
+        "original_text": "Graph showing function intersecting x-axis with explanatory text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explains that function zeros provide solutions to equations."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Links the solution of equations to their graphical representation."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explains zeros within the context of quadratic functions."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Determines intersection points for quadratic functions."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Zeros are expressed as real roots in the context of equations."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Zeros define the interval relevant for function analysis."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Illustrates function zeros using the notation $y = f(x)$."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Supports understanding of graph intersections with structured steps."
+      },
+      {
+        "source": "c10",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Shows the practical application of finding graph intersections."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Highlights the relationship between graph intersections and real roots."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider the concept of function zeros."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Fosters engagement and comprehension through visual aids."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

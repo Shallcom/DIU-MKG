@@ -1,0 +1,129 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and properties of mutual independence of events; distinguish independent events from opposite (mutually exclusive) events; master methods for judging whether two events are independent.",
+  "transcript": "[0.0 -> 4.3] 字幕由 Amara.org 社群提供。\n[8.4 -> 54.78] 老师们同学们上午好我是数学组三十三号选手今天我演讲的题目是组织课堂教学突出教学重点我抽到这样的材料针对本节课的教学我该如何组织课堂教学该用如何方法突出教学重点以及难点呢我想从以下两个方面展开说说第一点我招待的题目是事件的相互独立性我在本节课设计的重点是事件相互独立的概念以及独立互视和对立事件之间的联系和区别又是什么难点则是两事件相互独立的概念形成过程。\n[55.86 -> 60.0] 第二点我该如何突出我本节课教学的重点和难点呢。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-College Students). The screen includes colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. The Title Event\n- **Title on Screen**: The screen displays \"数学与应用数学\" (Mathematics and Applied Mathematics) and the number \"33\".\n- **Teacher's Action**: The teacher is seen standing in front of a digital screen displaying a flowchart with text boxes. The teacher gestures towards the screen, likely introducing the lesson content.\n\n#### 3. The Objectives\n- **Visible Content**: The screen shows a flowchart with text boxes in Chinese. The visible objectives include:\n  - \"事件的分类\" (Classification of Events)\n  - \"事件的关系与运算\" (Relationships and Operations of Events)\n- **Teacher's Action**: The teacher points to these sections on the screen while explaining.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher holds papers and gestures with their hands, likely emphasizing points related to the flowchart on the screen. Specific gestures include:\n  - Holding papers and pointing to the screen.\n  - Using hand movements to indicate different sections of the flowchart.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Hook Object**: The video starts with a yellow title screen introducing the competition.\n- **Teacher's Action**: The teacher stands in front of a digital screen displaying a flowchart.\n\n#### Middle\n- **Title Event**: The screen shows \"数学与应用数学\" and the number \"33\".\n- **Teacher's Action**: The teacher gestures towards the flowchart, pointing to different sections.\n- **Objectives Displayed**: The flowchart includes \"事件的分类\" and \"事件的关系与运算\".\n- **Key Gestures**: The teacher uses hand gestures to emphasize points on the flowchart, holding papers and pointing.\n\n#### End\n- **Teacher's Action**: The teacher continues to gesture and explain, maintaining focus on the flowchart content.\n\nThis structured analysis captures the visual evolution and links the teacher's actions to specific content on the screen.",
+  "visual_narrative": "Initially, the screen presents a vibrant yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" and the number \"10\", setting the stage for the competition. To bridge to the topic, the teacher stands in front of a digital screen displaying a flowchart with text boxes, gesturing towards the content. The visual focus then shifts to \"数学与应用数学\" and the number \"33\" on the screen, establishing the lesson goal. The teacher points to sections labeled \"事件的分类\" and \"事件的关系与运算\", using hand gestures to emphasize key points. This introduction connects the new knowledge to the students' existing understanding by outlining the structure of events and their relationships, preparing them for deeper exploration of mathematical concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mutual Independence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[8.4 -> 54.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Independent Events",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[8.4 -> 54.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Opposite Events",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[8.4 -> 54.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Judging Independence",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[8.4 -> 54.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Screen",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-College Students",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 4.3]"
+      },
+      {
+        "id": "v2",
+        "label": "Mathematics Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart showing Classification and Relationships of Events",
+        "ocr_corrected": true,
+        "timestamp": "[8.4 -> 54.78]"
+      },
+      {
+        "id": "v3",
+        "label": "Objective Display",
+        "type": "Visual",
+        "original_text": "Objectives including 'Classification of Events', 'Relationships and Operations of Events'",
+        "ocr_corrected": true,
+        "timestamp": "[8.4 -> 54.78]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[8.4 -> 60.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Mutual independence involves understanding independent events."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Mutual independence must be distinguished from opposite events."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding independent events is foundational for judging independence."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The contest title screen sets the stage for the flowchart content on event classification."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The flowchart provides a visual summarization of mutual independence concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The flowchart emphasizes the concept of independent events."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The flowchart emphasizes the distinction between independent and opposite events."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The objective display scaffolds understanding of mutual independence."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Student engagement is visualized through the teacher's interaction with the flowchart."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

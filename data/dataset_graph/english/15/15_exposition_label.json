@@ -1,0 +1,127 @@
+{
+  "video_name": "15_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "- Able to identify and analyze key information within a text.  \n- Able to accurately guess an article’s theme and provide a reasonable explanation.  \n- Able to understand implicit meanings through context.",
+  "transcript": "[242.0 -> 251.12] 您能不能跟我们分享一下您的旅游经验吗您是旅游者吗您的经验怎么样呢。\n[253.0 -> 267.84] 我希望你会成为我未来的朋友。\n[269.0 -> 311.58] 所以现在我们来看看这两张图片中的标题是什么呢你觉得这篇文章的主题是什么呢。\n[313.14 -> 315.58] 不要看这篇文章了先猜猜吧。\n[329.0 -> 471.1] 你把蓝超稍微按这个位置设定好才行的所以现在我会给你两分钟请你快点读这篇文章并尝试把它定义成专业作业好吗你能够注意到第一章和最后的诗句从这里开始挑战解决解决纸巾裙子裙子裙子裱子裱子裱好的你完成了吗好我们来分析一下你的答案一些关键点好那这个漂亮的女孩呢对于这个挑战来说是为了保障人类的健康和健康的健康的健�你能告诉我什么意义在哪一部分做这些事情呢。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"Let's find out what we'll do today!\" with the question \"Shall we have a warm-up activity?\" The slide has a green and white color scheme.\n- The teacher gestures with her hands, likely explaining the purpose of the warm-up activity.\n- The audience is seated, facing the teacher and the screen.\n\n**Middle:**\n- The slide changes to \"Let's make a prediction!\" with the question \"According to the title and illustration, what do you think we are going to talk about?\" and images of ancient structures.\n- The teacher holds papers and gestures towards the screen, possibly asking students to make predictions based on the images.\n- The teacher points to the images on the screen, emphasizing the visual elements for discussion.\n\n**End:**\n- The slide transitions to \"Famous global structures\" with text and images of ancient structures.\n- The teacher turns to the blackboard and writes \"From Problems To Solutions\" in chalk.\n- The teacher gestures towards the blackboard, likely explaining the connection between problems and solutions in the context of the structures discussed.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying slides about global structures. The initial slide has a green and white design with text and images of ancient structures.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"From Problems To Solutions\" on the blackboard while explaining the concept.\n- **Modifications**: None observed; the teacher adds content without erasing previous information.\n- **Deictic Gestures**: The teacher points to the images on the screen and the text on the blackboard, linking visual elements to spoken explanations.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the screen and the blackboard.\n- The phrase \"From Problems To Solutions\" is written prominently on the blackboard to highlight the lesson's theme.\n\nThis structured visual evolution shows the teacher's method of linking abstract concepts to concrete visual elements, guiding students through a logical flow from prediction to detailed discussion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a green and white slide titled \"Let's find out what we'll do today!\" with the question \"Shall we have a warm-up activity?\" The teacher gestured towards the screen, setting the stage for the lesson. Then, the teacher transitioned to a slide titled \"Let's make a prediction!\" featuring images of ancient structures. She pointed to these images, prompting students to predict the lesson's focus. The teacher constructed a framework for discussion by linking visual elements to spoken cues, reducing cognitive load through familiar imagery.\n\nAs the lesson progressed, the screen changed to \"Famous global structures,\" displaying detailed text and images. The teacher derived connections between these structures and broader themes, using hand gestures to emphasize key points. She turned to the blackboard and constructed the phrase \"From Problems To Solutions,\" writing it prominently. This act visually anchored the lesson's theme, providing a clear takeaway.\n\nThroughout, the teacher resolved deixis by tracing specific images on the screen and pointing to the newly written phrase on the board. She annotated the blackboard content while speaking, ensuring students followed the logical flow. Finally, she reinforced the lesson by circling the phrase \"From Problems To Solutions,\" highlighting its importance. This visual strategy, combined with structured slides and clear gestures, effectively reduced cognitive load, guiding students through a coherent learning journey.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Warm-up Activity",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[242.0 -> 251.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Predicting Theme",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[269.0 -> 267.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Ancient Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.0 -> 311.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Theme Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[313.14 -> 315.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Implicit Meanings",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[329.0 -> 471.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Warm-up Activity Slide",
+        "type": "Visual",
+        "original_text": "Let's find out what we'll do today! Shall we have a warm-up activity?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Prediction Slide",
+        "type": "Visual",
+        "original_text": "Let's make a prediction! According to the title and illustration, what do you think we are going to talk about?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Global Structures Slide",
+        "type": "Visual",
+        "original_text": "Famous global structures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Blackboard Text",
+        "type": "Visual",
+        "original_text": "From Problems To Solutions",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Predictions",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher uses a slide to initiate a warm-up activity."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The teacher presents a slide to elicit predictions from students."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The teacher uses visuals to introduce ancient structures."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Theme identification builds upon understanding implicit meanings."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Discussion of ancient structures includes deriving implicit meanings."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "The teacher uses the blackboard text to emphasize problem-solution themes."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Slide encourages students to engage and predict the lesson's focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,145 @@
+{
+  "video_name": "16_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Review and understand the purpose of the test program; be able to summarize and describe the main English knowledge points learned.",
+  "transcript": "[540.0 -> 618.76] 好的我看到你们都完成了有人可以告诉我答案吗所以第一个问题是什么是测试程序很好的什么是主要的想法好的你请说一下很好的你可以看到主要的想法是给大家介绍一下中国语言的详细内容和一些详细的资料吧稍后你们可以仔细地读解这些详细的资料吧好吗所以我会让你再次读歌词但这次你必须要读歌词仔细地读�二到五是吗二到五一二是吗二到五什么是最后的部分六好这里是这道道路的位置好吗现在你必须要很小心地读取一些数据数据数据数数据数数据数数介绍介绍身体的部分和结尾的部分是什么的呢我希望你能够描述一下你的思想图片吧。\n[620.78 -> 630.42] 你可以在你的图片里描述一下你的思想图片吧这里可以给你描述整体的结构你能够把它描述出来的思想图片吧。\n[638.6 -> 663.2] 请稍后再拨打电话给您的电话号码。\n[664.6 -> 766.14] 蜂蜜蜂蜜蜂蜜好的我们在下一个舞台上学习了两个舞台好吗所以这就是我的麦克教授了谢谢你。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which displays the phrase \"Welcome to Chinatown\" with three branches labeled \"Where,\" \"Who,\" and \"Why.\" \n   - Below these branches, the word \"Characters\" is written, connected to a box labeled \"Introduction.\"\n   - The screen displays a slide titled \"Read for Details\" with a passage and a diagram with empty boxes, indicating a structured reading activity.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \"Welcome to Chinatown,\" \"Where,\" \"Who,\" \"Why,\" \"Characters,\" \"Introduction.\"\n   - Screen: \"Read for Details,\" a passage, and a diagram with empty boxes for filling in details.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Characters\" section on the blackboard, indicating its connection to the \"Introduction\" box.\n   - The teacher gestures towards the screen, likely summarizing the reading activity and the structure of the passage.\n   - The teacher writes on the blackboard, adding details to the \"Characters\" section, reinforcing the connection to the introduction.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the lesson content visually presented on the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying \"Welcome to Chinatown,\" branching into \"Where,\" \"Who,\" and \"Why.\" Below, the teacher has added \"Characters\" connected to an \"Introduction\" box, visually structuring the lesson's key elements. The teacher points to the \"Characters\" section, reinforcing its link to the introduction, and gestures towards the screen, which shows a \"Read for Details\" slide with a passage and a diagram. The teacher writes additional details on the blackboard, emphasizing the connection between characters and the introduction. No explicit homework or next-step instructions are visible, focusing the conclusion on the visual summary of the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Welcome to Chinatown",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[540.0 -> 618.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Where",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 618.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Who",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 618.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Why",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 618.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Characters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[540.0 -> 618.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Introduction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 618.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Read for Details",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[620.78 -> 630.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Overview",
+        "type": "Visual",
+        "original_text": "Main visual carrier displaying key concepts and their connections.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Details Diagram Slide",
+        "type": "Visual",
+        "original_text": "Slide with passage and diagram for structured reading.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Concept 'Where' is part of the overall theme 'Welcome to Chinatown'."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Concept 'Who' is part of the overall theme 'Welcome to Chinatown'."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Concept 'Why' is part of the overall theme 'Welcome to Chinatown'."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Concept 'Characters' evolves from 'Introduction'."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept 'Characters' is visually represented on the blackboard."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The procedure 'Read for Details' is visually represented on the slide."
+      },
+      {
+        "source": "ss1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to answer based on procedure 'Read for Details'."
+      },
+      {
+        "source": "ss2",
+        "target": "v1",
+        "relation": "engages",
+        "intent": "Students are engaged with the blackboard overview."
+      },
+      {
+        "source": "ss2",
+        "target": "v2",
+        "relation": "engages",
+        "intent": "Students are engaged with the details diagram slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

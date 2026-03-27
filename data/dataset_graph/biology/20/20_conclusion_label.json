@@ -1,0 +1,114 @@
+{
+  "video_name": "20_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Compare differences among proteins and analyze their causes; understand the relationship between a protein’s three‑dimensional structure and its function; apply the learned knowledge to explain the etiology of sickle‑cell anemia.",
+  "transcript": "[677.9372 -> 684.5] 那么再看一下这两个蛋白质有什么不同呢对连接的顺序不同那么大家看一下教材的第三十一页我们刚才呢总结了蛋白质不同的原因有几个刚才总结了几个两个一个是氨基酸的数量一个是氨基酸的排列顺序那现在请同学们看一下教材第三十一页看一下这上面的这个图这个氨基酸组成了蛋白质大家看这个图是不是同一个蛋白质\n[685.52 -> 734.4] 是不是同一个蛋白质在上面的这个图三十一页只是它的展现形式不同那么这就是蛋白质的空间这就说明蛋白质拥有空间结构所以蛋白质不同的原因还有就是它具有空间结构那么空间结构就决定了它具有什么样的功能那么当它的空间结构改变的时候它的功能就会发生改变那么有一种疾病叫镰刀型贫血症大家下节课看一下为什么会发生镰刀型贫血症它的结构发生了什么变化好到节目下课了",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard. It contains handwritten notes and diagrams related to the lesson's content.\n   - The board is divided into sections with different topics, including a chemical equation and bullet points.\n\n2. **Key Knowledge Items (Content View)**:\n   - The chemical equation: $\\text{ADP} + \\text{Pi} + \\text{H}_2\\text{O} + \\text{energy} \\rightarrow \\text{ATP} + \\text{H}_2\\text{O}$.\n   - Bullet points discussing the structure of nucleic acids and related concepts.\n   - A table on the screen to the right, titled \"任务二: 调查蛋白质各种功能的实例\" (Task 2: Investigate examples of various functions of proteins), with columns and rows filled with data.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the chemical equation on the board, likely emphasizing the transformation process from ADP to ATP.\n   - She points to the bullet points, possibly reviewing key concepts or steps in the lesson.\n   - The teacher occasionally looks at the screen, possibly summarizing the table content or highlighting specific data entries.\n\n4. **Transition to Next Step**:\n   - The screen displays a table that may serve as a reference for homework or further study, indicating students should investigate examples of protein functions.\n   - No explicit homework instructions are visible, but the table suggests an assignment related to the data presented.\n\nThis structured visual summary consolidates the lesson's key points, with the teacher's gestures reinforcing the main concepts and directing attention to important areas on the board and screen.",
+  "visual_narrative": "The lesson concludes with a chalkboard summary centered on the chemical equation and key concepts of nucleic acids. The teacher visually reviews the content by pointing to the chemical equation, emphasizing the transformation from ADP to ATP, and then moving to the bullet points to highlight important notes. She occasionally glances at the screen displaying the protein function table, reinforcing the data presented. The visual focus shifts to the table, suggesting further investigation as a potential homework task, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "ADP to ATP Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[677.9372 -> 684.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Protein Structure Differences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.9372 -> 684.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Amino Acid Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.9372 -> 684.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Spatial Structure and Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.52 -> 734.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Sickle-cell Anemia Etiology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[685.52 -> 734.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Chemical Equation",
+        "type": "Visual",
+        "original_text": "ADP + Pi + H2O + Energy → ATP + H2O",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Protein Function Table",
+        "type": "Visual",
+        "original_text": "Task 2: Investigate examples of various functions of proteins",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Nucleic Acids Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[677.9372 -> 684.5]"
+      },
+      {
+        "id": "c9",
+        "label": "Students' Investigation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The transformation process from ADP to ATP is visually represented on the board."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Protein structure differences include variations in amino acid sequence."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understands how spatial structure changes lead to sickle-cell anemia."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "The table serves as a prompt for students' investigation into protein functions."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "Potential homework task related to protein function examples."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Nucleic acids play a role in protein structure differences."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

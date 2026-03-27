@@ -1,0 +1,160 @@
+{
+  "video_name": "17_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic content and applications of the first law of thermodynamics; be able to analyze the impact of work and heat transfer on internal energy during gas state changes; design experiments to verify the practical application of the first law of thermodynamics.",
+  "transcript": "[0.0 -> 54.94] 支持明镜与点点栏目尊敬的各位评委老师亲爱的同学们大家好我是物理组十七号选手我抽到的即兴演讲题目是当你上课时发现一个学生在传纸条你该怎么办针对于这个问题我将从该学生个人课堂整体以及教师本身这三个方面进行回答首先我会考虑到课堂整体性为了避免课堂的耽误我不会立即去处理这个学生的问题而是保证课堂的正常进行接下来我会在交代学生布置任务的时候走到传纸条的这名学生的旁边轻声告诉他不要再继续传纸条。\n[56.1 -> 104.96] 上课认真听课接下来我会在课后时间对其进行批评教育劝诫他下次再不要做这样的事情那么同时我也会反思自己是不是自己在课堂中使整个课堂气氛不是很活跃导致学生未能专心听课那么在今后的教学过程中我将通过自身的努力使课堂气氛提高其次我在平时的教学过程中更应该注意学生在这方面的问题最后我会在全班同学面前劝解所有同学认真听课并积极采取同学们对教师的建议提升课堂氛围以上就是我对这个题目的论述下面开始我的模拟授课。\n[112.7 -> 163.1] 上课同学们好请坐同学们我们一同来看一下这样的一个问题我们将一个气缸装满一定这样的气体那么我们在压缩气缸的同时对气缸进行加热那么气体内容的变化相较于单一方式做工或者传热有何区别呢产生这一现象的原因又是什么呢请同学们思考一下这个问题带着这样的一个问题啊我们一同来学习今天的课程热力学第一定律我相信同学们在学习完这节课之后会对这个问题做出很好的回答。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide on the screen displaying the title \"热力学第一定律\" (First Law of Thermodynamics). This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"热力学第一定律\" is prominently displayed on the screen. The teacher stands next to the screen, likely emphasizing the title through her positioning and gestures.\n\n#### 3. **The Objectives**\n- The slide includes several bullet points:\n  - 创设情境 (Create a scenario)\n  - 思考加工 (Think and process)\n  - 分析探究 (Analyze and explore)\n  - 总结提升 (Summarize and improve)\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely explaining the objectives.\n- She occasionally looks at the students, engaging with them while referencing the content on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying \"热力学第一定律.\"\n- She gestures towards the screen, emphasizing the title and objectives.\n- The blackboard is mostly blank, with some text on the right side.\n\n**Middle:**\n- The teacher continues to reference the screen, pointing to the bullet points as she explains each objective.\n- She moves slightly, maintaining eye contact with the students to ensure engagement.\n\n**End:**\n- The screen transitions to a slide with an image of two thermometers and a question in Chinese.\n- The teacher gestures towards the new content, likely prompting discussion or analysis.\n- She holds a remote or pointer, indicating specific elements on the slide.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, providing a detailed narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"热力学第一定律\" as the hook, immediately drawing attention to the lesson's focus. To bridge to the topic, the teacher gestures towards the screen, emphasizing the objectives listed as bullet points: creating a scenario, thinking and processing, analyzing and exploring, and summarizing and improving. The blackboard remains mostly blank, directing all visual focus to the screen. Finally, the visual focus shifts to an image of two thermometers accompanied by a question, establishing the lesson goal of exploring thermodynamic concepts. This transition effectively links the introduction to the students' existing knowledge of basic thermodynamics, setting the stage for deeper analysis and discussion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "First Law of Thermodynamics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 54.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Internal Energy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Heat Transfer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Work",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Gas State Changes",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[112.7 -> 163.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Scenario Creation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "c7",
+        "label": "Processing Thought",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "c8",
+        "label": "Analytical Exploration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "c9",
+        "label": "Summary and Improvement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[56.1 -> 104.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "First Law of Thermodynamics",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Objectives Slide",
+        "type": "Visual",
+        "original_text": "Create a scenario; Think and process; Analyze and explore; Summarize and improve",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Thermometers Image",
+        "type": "Visual",
+        "original_text": "Image of two thermometers with a question",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the First Law of Thermodynamics using the introductory slide."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The introductory slide relates to internal energy as part of the thermodynamics principle."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The objectives slide scaffolds the understanding of thermodynamics principles."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Heat Transfer and Work build upon the concept of impacting internal energy."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Gas state changes build upon the first law of thermodynamics."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Scenario creation evolves into analytical exploration."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Processing thought leads to summarizing and improving the learning outcome."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The thermometers image visualizes the concept of gas state changes."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher prompts students to think about thermodynamics principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

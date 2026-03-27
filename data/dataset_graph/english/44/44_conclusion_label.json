@@ -1,0 +1,149 @@
+{
+  "video_name": "44_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "- Be able to describe the relationship between activities and feelings  \n- Learn to use appropriate sentence structures to express the feelings that activities bring  \n- Identify and briefly introduce traditional Chinese festivals",
+  "transcript": "[675.04 -> 679.04] 是的那是活动和感觉谢谢你非常多的。\n[680.18 -> 692.72] 所以我们应该使用活动活动和感觉好吗那么这里有一个问题什么是中国的节日呢。\n[693.9 -> 730.26] 我可以想起春节和龙龙斑斗之类的东西之�的东西之�的东西之�的东西之�的东西之�的东西之�我们还有两项训练好吗记得重复和完成训练课程了课程结束了下一次再见了拜拜。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the slide titled \"Homework\" displayed on the screen.\n   - The slide is divided into two sections: \"Required\" and \"Optional.\"\n   - The \"Required\" section includes a task to write a composition of 100 words about a festival or celebration.\n   - The \"Optional\" section suggests searching the origin of a festival or celebration on the Internet and making a speech to introduce it.\n   - The slide also features an image of festival foods and lanterns.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords: \"Homework,\" \"Required,\" \"Optional,\" \"composition,\" \"100 words,\" \"festival,\" \"celebration,\" \"search,\" \"origin,\" \"Internet,\" \"speech.\"\n   - The final slide displays the text \"Thank you\" with the same image of festival foods and lanterns.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the \"Homework\" slide, pointing to the \"Required\" section to emphasize the composition task.\n   - She then moves to the \"Optional\" section, highlighting the research and speech task.\n   - The teacher waves and gestures towards the \"Thank you\" slide, indicating the end of the lesson.\n\n4. **Transition to Next Step**:\n   - The \"Homework\" slide clearly outlines the tasks for the students, with specific instructions for both required and optional activities.\n   - The visual emphasis on the slide ensures students understand the expectations for the next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Homework,\" prominently displayed on the screen, divided into \"Required\" and \"Optional\" sections. The teacher points to the \"Required\" section, emphasizing the task to write a 100-word composition about a festival or celebration. She then moves to the \"Optional\" section, highlighting the research and speech task. The slide features an image of festival foods and lanterns, reinforcing the cultural theme. The teacher concludes by waving and gesturing towards the \"Thank you\" slide, which retains the same image, marking the end of the lesson. The visual emphasis on the homework tasks ensures students are aware of their next steps.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Activities and Feelings",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[675.04 -> 679.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Chinese Festivals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.18 -> 692.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Sentence Structures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[675.04 -> 679.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Spring Festival",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[693.9 -> 730.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Dragon Boat Festival",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[693.9 -> 730.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Homework Slide",
+        "type": "Visual",
+        "original_text": "Slide with Homework tasks divided into Required and Optional sections",
+        "timestamp": "[680.18 -> 692.72]",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Festival Foods Image",
+        "type": "Visual",
+        "original_text": "Image depicting festival foods and lanterns",
+        "timestamp": "[680.18 -> 692.72]",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Thank You Slide",
+        "type": "Visual",
+        "original_text": "Final slide saying 'Thank you'",
+        "timestamp": "[693.9 -> 730.26]",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Composing",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[680.18 -> 692.72]"
+      },
+      {
+        "id": "s2",
+        "label": "Researching",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[693.9 -> 730.26]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Activities link to feelings that use appropriate sentence structures."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Spring Festival is an example of Chinese festivals."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Dragon Boat Festival is an example of Chinese festivals."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Visual slide reinforces homework related to feelings and activities."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Image on slide depicts cultural elements of festivals."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think about sentence structures in composition task."
+      },
+      {
+        "source": "c2",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Students engage in researching topics related to Chinese festivals."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Slide summarizes required composition task for students."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "scaffolds",
+        "intent": "Optional research task scaffolded by slide."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Final 'Thank you' slide concludes concepts discussed."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

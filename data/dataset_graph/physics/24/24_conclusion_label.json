@@ -1,0 +1,158 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic principles of electromagnetic induction and its applications; master the operating mechanism of generators and their energy‑conversion processes; be able to analyze real‑life cases of electromagnetic induction.",
+  "transcript": "[635.08 -> 688.8] 发电机对了它磁生电能作为我们的发电机那么早在之前呢最先发明的最早的发电机是由法拉第它通过了一个轮盘的轴以及轮盘的边缘连在了电流表两端那这个时候其实有一位夫人她就说你这个发电机它能发明什么呀难道它能造小孩吗那这个时候其实它就是能够造小孩的但是这个小孩是打了双引号的那这大家可以看到三峡电站其实这就是一台发动机发电机的转子这就是我们电磁感应在生活中的应用啊那同学们觉得生活中还有哪些应用到了电磁感应的呢。\n[690.32 -> 696.9] 下节课呀老师将和大家来重点的讨论一下以上就是我的授课环节。\n[708.6 -> 715.72] 热水炖鸡肉炖鸡肉炖�。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in white chalk. The layout is simple, with bullet points organized vertically on the right side of the board.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key points:\n     - 电磁感应现象及其应用\n     - 一、电磁感应\n     - 二、探究实验\n     - 结论\n   - The presentation screen shows images related to electromagnetic induction applications, including a large machine and a historical device.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the blackboard, specifically highlighting the bullet points related to electromagnetic induction and experimental investigation.\n   - The teacher gestures towards the presentation screen, emphasizing the images and their connection to the lecture content.\n   - The teacher uses hand movements to underline the conclusion section on the blackboard, reinforcing the final points discussed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the board or screen. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on electromagnetic induction and its applications. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the sections on electromagnetic induction and experimental investigation. The final emphasis is placed on the conclusion, with the teacher underlining it to highlight the core takeaway. There is no visual indication of homework or next steps, keeping the focus on the summarized key points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Generators",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Energy Conversion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Experimental Investigation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Faraday's Early Generator",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Three Gorges Dam",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Everyday Use Cases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.08 -> 688.8]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Key Points",
+        "type": "Visual",
+        "original_text": "Blackboard with bullet points: Electromagnetic induction, Experimental investigation, Conclusion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Images",
+        "type": "Visual",
+        "original_text": "Images on screen showing generator and historical device",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how generators operate based on electromagnetic induction."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Discusses energy conversion in the context of electromagnetic principles."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Procedure to demonstrate electromagnetic induction."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Examples given of applications of electromagnetic induction."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Historical context of generator technology."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Real-world example of electromagnetic application in large-scale energy production."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Further everyday examples of electromagnetic induction."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Visual summary of key points on the board."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Connects lecture content to clear application visuals."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher emphasizes the principle to engage students in understanding."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Investigation procedure aimed at student engagement and understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

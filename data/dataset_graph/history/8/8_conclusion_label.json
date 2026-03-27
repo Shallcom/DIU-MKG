@@ -1,0 +1,166 @@
+{
+  "video_name": "8_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "- Understand the historical role and significance of study‑tour education.  \n- Analyze the impact of study‑tour education on national development.  \n- Be able to apply the acquired knowledge to analyze real‑world cases of study‑tour education.",
+  "transcript": "[561.38 -> 637.38] 好的老师同学想来谈谈探讨一下好了这位同学第一个的话是留学教育它应该是一直比较悠久的比如说古代事业中心它其实就是吸引来自各个国家和文学的生产是历史上优秀的正好话这个文学教育它其实和我们国家是息息相关的主要是通过这个传媒的台来为我们这个国家和国民就是产生一个记忆的作用好的请坐还有同学吗想要分享一下吗好吧那我们就继续刚刚这个同学说到了是游学教育推动了国家作为中国革命和国家建设培养了一大批的栋梁之材这里就有代表人孙中山邓小平啊那些都是游学归来的革命人士那么接着再来看一下最后来阅读一下蔡雅带过一下蔡元培先生的观点。\n[644.38 -> 682.32] 好的同学们那么对于蔡明轩上的观点呢也就先讲到这里下节课我们就会讲解到关于印刷术的诞生印刷术诞生以及横竖版的成长是多元文化的一种传播的体现那么下课谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. The slide contains two sections of text, each with a heading and several paragraphs.\n   - The overall layout is divided into two columns, with headings in bold and paragraphs of text below each heading.\n\n2. **Key Knowledge Items (Content View)**:\n   - The headings on the slide are:\n     - \"审美追求\"\n     - \"艺术风格\"\n   - The text under \"审美追求\" discusses the aesthetic pursuits of a particular subject, mentioning terms like \"艺术创作\" and \"文化内涵\".\n   - The text under \"艺术风格\" describes artistic styles, including references to \"艺术表现\" and \"文化背景\".\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the slide, specifically highlighting the heading \"审美追求\" and the paragraph below it.\n   - The teacher then moves to the second section, pointing at the heading \"艺术风格\" and the associated text.\n   - The teacher circles a specific phrase in the text, emphasizing its importance.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the slide.\n   - The blackboard to the left of the screen contains handwritten text, but it is not clearly visible in the frames provided.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing two sections of text, each with a bold heading: \"审美追求\" and \"艺术风格\". The teacher begins the review by pointing to the heading \"审美追求\" and then moves through the associated paragraph, emphasizing key points with hand gestures. Next, the teacher transitions to the second section, pointing at the heading \"艺术风格\" and the text below it. To highlight a crucial phrase, the teacher circles it on the slide, drawing attention to its significance. No visual elements indicating homework or next steps are present on the slide, focusing solely on the summary content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "The final slide with two sections, 'Aesthetic Pursuits' and 'Artistic Styles'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Aesthetic Pursuits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Artistic Styles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Artistic Creation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Cultural Context",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Artistic Expression",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Historical Significance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c7",
+        "label": "National Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c8",
+        "label": "Printing Technique Birth",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.38 -> 682.32]"
+      },
+      {
+        "id": "c9",
+        "label": "Multicultural Transmission",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[644.38 -> 682.32]"
+      },
+      {
+        "id": "c10",
+        "label": "Sun Yat-sen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "c11",
+        "label": "Deng Xiaoping",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.38 -> 637.38]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide displays information about aesthetic pursuits."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide shows information on artistic styles."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The concept of aesthetic pursuits includes artistic creation."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Aesthetic pursuits encompass cultural context."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Artistic styles involve artistic expression."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Historical significance impacts national development."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "The birth of the printing technique supports multicultural transmission."
+      },
+      {
+        "source": "c10",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Sun Yat-sen's accomplishments are part of historical significance."
+      },
+      {
+        "source": "c11",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Deng Xiaoping's contributions connect to historical significance."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Student reflection on historical significance."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

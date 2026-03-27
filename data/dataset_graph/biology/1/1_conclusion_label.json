@@ -1,0 +1,133 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the recognition sites and cleavage characteristics of restriction enzymes; master the process by which restriction enzymes cut DNA and the types of resulting fragments; comprehend the applications of sticky ends and blunt ends in genetic engineering.",
+  "transcript": "[627.42 -> 731.58] 它的切割的结果是不是全是一些氮的核酸呢不是吧我们来看一下它是具有限制性的它的切割位点有什么样的特征呢一般来说它识别的位点是具有由六个核酸所组成的一个特定的序列那么当然也有一些可以识别四个位点以及八个位点的一些限制酶那么来再看第二个问题限制酶是如何来完成这个切割过程的呢刚才我们已经讲了我们有限制酶的切割位点是吧那么我们得先来了解一下它的切割过程是怎样的呢我们来看一下它的具体过程我们以EQORI这个限制酶作为例子它首先呢沿着这个叫做什么呢它的识别的位点也就是GAATTC这个识别的一个位点然后呢这里是有个中轴线那么它是怎么切割的它是在G和A之间的磷酸二质键进行一次切割然后它们的另外一边也也是同样的进行同样的切割进行这样两段DNA的分子对吧两段DNA那么这个产物是一个叫做粘性末端的产物你观察一下这个粘性末端它有什么样的特点呢第三组你们有没有什么样的观察结果中性对称非常好那么还有没有更加直观点的它们两段来它们各自的连接双链有什么样的特点呢\n[734.36 -> 744.44] 是不是各自都有一段凸出来的对不对那么想想这样凸出来的它有没有什么样的好处呢那这种切割方式有没有什么样的好处呢\n[746.18 -> 752.42] 我们第二步的操作就是要把它们要是连接起来吧那么这样凸出来有没有什么好处呢\n[754.96 -> 805.88] 接着面积跟弹也是一个啊我们是不是之前学过减肌互补配对原则呀那么减肌互补配对原则是不是可以运用到这个里面去便于它们第一根分子之间进行一个连接呀对不对那么第二个问题就是除了这种切割方式以外还有没有其他的切割结果呢我能切出这种粘性末端你觉得还能切出怎样的末端呢皮末端是怎样的末端我们来看一下比如说以这个MA一枚为例它可以把这个DNA的分子切割成这样两段DNA分子看一下它的涡轮就是一个平滑的对吧那想想这种切割方式有什么好处吗可以结束了好我的模拟生活环节到此结束谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the slide displayed on the screen. It features a diagram illustrating the basic tools of DNA recombination technology, specifically focusing on the process of molecular cloning using plasmids.\n   - The slide includes a title in Chinese, a textual description, and a diagram with two main sections: a plasmid and a recombinant plasmid.\n\n2. **Key Knowledge Items (Content View)**:\n   - The title on the slide reads: \"重组DNA技术的基本工具——分子克隆技术\" (Basic Tools of Recombinant DNA Technology - Molecular Cloning Technology).\n   - The diagram shows a plasmid with restriction enzyme sites and a recombinant plasmid with inserted DNA.\n   - Key terms and labels in the diagram include restriction enzymes, plasmid backbone, and inserted DNA fragment.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title on the slide, emphasizing the topic of molecular cloning technology.\n   - The teacher gestures towards the plasmid diagram, highlighting the restriction enzyme sites and the process of DNA insertion.\n   - The teacher traces the transformation from the original plasmid to the recombinant plasmid, indicating the steps involved in molecular cloning.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary of the current topic.\n\nThis structured visual summary consolidates the key concepts of DNA recombination technology, with the teacher's gestures reinforcing the understanding of the molecular cloning process depicted in the diagram.",
+  "visual_narrative": "The lesson concludes with a slide centered on the core topic of molecular cloning technology. The teacher visually reviews the content by pointing to the title and tracing the transformation from the original plasmid to the recombinant plasmid in the diagram. This gesture emphasizes the process of DNA insertion and the role of restriction enzymes. The visual focus remains on the diagram, highlighting the key steps in molecular cloning without transitioning to homework or next steps.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Restriction Enzyme Sites",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.42 -> 731.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Cleavage Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.42 -> 731.58]"
+      },
+      {
+        "id": "c3",
+        "label": "DNA Cutting Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[627.42 -> 731.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Sticky Ends",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[754.96 -> 805.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Blunt Ends",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[754.96 -> 805.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Recombinant DNA",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.42 -> 731.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Molecular Cloning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.42 -> 731.58]"
+      },
+      {
+        "id": "v1",
+        "label": "Molecular Cloning Slide",
+        "type": "Visual",
+        "original_text": "Basic Tools of Recombinant DNA Technology - Molecular Cloning Technology",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Plasmid Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing plasmid with restriction enzyme sites and recombinant plasmid",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Shows how cleavage characteristics evolve from understanding restriction enzyme sites."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Describes the DNA cutting process as a foundational step in forming recombinant DNA."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Describes sticky ends and blunt ends as types of cleavage results in DNA cutting."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Explains recombinant DNA as a key aspect of molecular cloning."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The slide highlights the plasmid diagram, emphasizing the concepts of molecular cloning."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The slide provides a summary of molecular cloning technology."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The diagram visualizes the process involved in molecular cloning for understanding."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students' engagement prompts deeper understanding of molecular cloning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

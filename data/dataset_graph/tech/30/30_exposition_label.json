@@ -1,0 +1,192 @@
+{
+  "video_name": "30_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "- Be able to describe the basic steps for correctly connecting a circuit.  \n- Be able to identify and correct common circuit‑connection errors encountered in experiments.  \n- Be able to explain the basic conditions required for current to flow.",
+  "transcript": "[230.0 -> 258.94] 让小灯泡还有电动机以及它风铭机都正常地工作接下来我就请同学们先用导线连接电路先后连接三次让它们工作且要受到开关的控制在这个过程当中同学们一定要注意安全必须要保证不能用导线直接连接这个电池的正极以及负极请同学们先在你的书本上画下你想怎么连接着请大家分组共同合作来完成这个电路的连接。\n[260.88 -> 262.7] 好给同学们一些时间。\n[278.1 -> 288.28] 要注意我们是要分别连接小灯泡电动机以及蜗名机而不是将三个都一起连接起来。\n[290.48 -> 325.88] 好通过刚刚的实验过程我看到有的同学成功了我们看到了小灯泡亮了起来电动机转了起来还有无名鲸响了起来不过也有一些同学失败了我们来比较一下大家的实验结果成功的同学你们使用了哪些器材呀有用到导线还有我们用到了电那失败的同学有人没有使用电池吗。\n[326.96 -> 337.32] 好像有同学是没有使用电池的看来是否使用电池是我们成功的必要条件之一。\n[338.58 -> 351.96] 那么除此以外成功的同学们你们是怎么来连接的呀我看看这位同学他连接的时候是这样连接的。\n[354.04 -> 430.7] 是不是你是将小灯泡和电池连接然后又和开关连接对不对最后他还将中间的这条线连接了起来我看到有些同学说他也连接了不过你们要注意观察这个导线的连接它是什么呀形成了一个对闭合的毁路看来不光要用导线来连接而且我们要形成一个闭合的毁路这使我们能够成功让这些电器工作的必要条件哎哎有没有同学使用了这些导线将它们连接起来却没有成功呢哦这位同学他好像没有成功我来看看你的导线哎我发现他的导线并没有正确接在我们的接线柱上同学们要让导线成功的连接需要注意什么呀哎导体之间要相互接触这样这样它们才能导电。\n[431.76 -> 449.16] 实际上这些用电器它们能够正常地工作是因为有持续不断的电荷通过了它们这也是我们电流需要形成的条件之一。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a diagram of a simple electric circuit. The screen shows a battery, a switch, and a light bulb connected in series.\n- The teacher points to the switch in the diagram, indicating its role in the circuit.\n- The blackboard to the left is mostly blank, with some faint writing visible.\n\n**Middle:**\n- The teacher gestures towards the light bulb on the screen, explaining its function within the circuit.\n- The screen transitions to a new slide with two boxes labeled \"成功\" (Success) and \"失败\" (Failure), comparing scenarios with and without a closed switch.\n- The teacher points to the \"成功\" box, explaining the conditions for the circuit to work successfully.\n\n**End:**\n- The teacher returns to the original circuit diagram, emphasizing the importance of the closed switch for the circuit to function.\n- The screen displays detailed explanations in the \"成功\" and \"失败\" boxes, with the teacher elaborating on each scenario.\n- The teacher uses hand gestures to reinforce key points, such as the necessity of a closed switch for current flow.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying a simple electric circuit diagram. It includes:\n  - A battery labeled \"电池\"\n  - A switch labeled \"开关\"\n  - A light bulb labeled \"灯泡\"\n  - Wires connecting these components in series.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds verbal explanations corresponding to the visual elements on the screen, such as the function of the switch and the light bulb.\n- **Modifications**: The screen transitions between different slides, showing the circuit in different states (with the switch open or closed).\n- **Deictic Gestures**: \n  - The teacher points to the switch when explaining its role in completing the circuit.\n  - The teacher gestures towards the light bulb to illustrate its illumination when the circuit is complete.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the switch and light bulb, indicating their critical roles.\n- The screen highlights the \"成功\" and \"失败\" boxes to contrast successful and failed circuit conditions.\n- The teacher's gestures and verbal emphasis align with the visual changes on the screen, reinforcing key concepts.\n\nThis structured visual and cognitive flow helps students understand the principles of electric circuits through dynamic interaction with the digital content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a simple electric circuit diagram featuring a battery, a switch, and a light bulb connected in series. The teacher began by pointing to the switch, explaining its pivotal role in completing the circuit. She then constructed a comparison between successful and failed circuit conditions, transitioning the screen to show two boxes labeled \"成功\" (Success) and \"失败\" (Failure). The teacher derived the conditions for each scenario, tracing the closed switch in the \"成功\" box to illustrate current flow and the open switch in the \"失败\" box to show circuit interruption. She annotated the diagrams with verbal explanations, emphasizing the necessity of a closed switch for the light bulb to illuminate. Throughout, her gestures aligned with the visual elements, reducing cognitive load by linking physical actions to specific components. Finally, she reinforced the concept by returning to the original circuit diagram, circling the switch to highlight its importance, ensuring students grasped the core principle of circuit completion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[230.0 -> 449.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.0 -> 449.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Switch",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.0 -> 449.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Light Bulb",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.0 -> 449.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Closed Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[354.04 -> 430.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Open Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[354.04 -> 430.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Current Flow",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[431.76 -> 449.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Successful Circuit Connection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[290.48 -> 430.7]"
+      },
+      {
+        "id": "c9",
+        "label": "Failed Circuit Connection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[290.48 -> 430.7]"
+      },
+      {
+        "id": "c10",
+        "label": "Circuit Diagram on Screen",
+        "type": "Visual",
+        "original_text": "Digital screen displaying circuit diagram with battery, switch, and light bulb.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Success and Failure Comparison",
+        "type": "Visual",
+        "original_text": "Screen showing results in boxes labeled 'Success' and 'Failure'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Circuit Activity",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[230.0 -> 262.7]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Experiment Results",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[290.48 -> 430.7]"
+      },
+      {
+        "id": "s3",
+        "label": "Students Identifying Errors",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[290.48 -> 430.7]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The electric circuit includes a battery."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The electric circuit includes a switch."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The electric circuit includes a light bulb."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Understanding of closed circuits builds upon the concept of open circuits."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Open circuits are included in the failed circuit connection."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Closed circuits are included in the successful circuit connection."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Current flow builds upon the principle of closed circuits."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Understanding failed connections helps illustrate what makes a successful connection."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "The diagram evolves to show a comparison of success and failure scenarios."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the role of the switch through the circuit diagram."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "guides_discussion",
+        "intent": "Student activity guided towards achieving successful circuit connections."
+      },
+      {
+        "source": "s2",
+        "target": "c8",
+        "relation": "guides_discussion",
+        "intent": "Students discuss different experiment results leading to successful connections."
+      },
+      {
+        "source": "s3",
+        "target": "c9",
+        "relation": "addresses_misconception",
+        "intent": "Students identifying errors address misconceptions in circuit connections."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

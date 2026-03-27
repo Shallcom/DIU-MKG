@@ -1,0 +1,127 @@
+{
+  "video_name": "45_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the role of mathematical contexts in teaching; master how to design appropriate mathematical contexts; analyze the application of mathematical contexts in examinations.",
+  "transcript": "[0.0 -> 82.22] 良好的情景可以让学生快速地进入学习状态俗话说得好良好的开端是成功的一半数学情景的合理运用可以让学生直观地感受新课的内容获得良好的数学活动经验而教学方面的数学情景设置可以让学生更好地理解与掌握数学的基本知识与技能数学思想与方法在考试层面考试中运用合理的数学情景可以让学生更好地理解体育把握出体人的意图同时考试中运用数学情景可以将考试与生活联系起来充分落实数学的本质是服务于生活以上就是我极其讲演的全部内容恳请各位评委评委老师评评指正。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a digital screen displaying a document titled \"SPEECH CONTEST.\" The teacher stands at a podium, preparing to present.\n\n#### 2. **The Title Event**\n- The title \"数学組45号選手\" (Mathematics Group Number 45 Contestant) is written on the blackboard. The teacher stands in front of it, indicating the start of the presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds a piece of paper, likely a script, and occasionally glances at it while speaking.\n- The teacher's hands are mostly stationary, with slight movements to emphasize points.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a digital screen showing \"SPEECH CONTEST.\"\n- The blackboard displays \"数学組45号選手\" with colored magnets nearby.\n\n**Middle:**\n- The teacher continues to speak, referencing the paper in hand.\n- No additional content is added to the board or screen during this phase.\n\n**End:**\n- The teacher maintains a steady position, focusing on delivering the speech.\n- The visual elements remain consistent, with no changes to the board or screen content.\n\nThis structured visual analysis captures the teacher's actions and the static elements present throughout the introduction phase.",
+  "visual_narrative": "Initially, the screen presents a document titled \"SPEECH CONTEST,\" serving as the opening visual stimulus. The teacher stands at the podium, holding a script, and begins the introduction. To bridge to the main topic, the teacher references the blackboard, which displays \"数学組45号選手\" alongside colorful magnets. Throughout the introduction, the teacher maintains a steady position, occasionally glancing at the script. The visual focus remains on the blackboard title, establishing the context for the speech. This setup connects the presentation to the audience's anticipation of a speech contest, grounding the introduction in a clear and structured visual framework. The consistent visual elements help orient students to the purpose of the session, setting the stage for the forthcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mathematical Contexts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Introduction Effect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Exam Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Basic Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Skills Mastery",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematics Ideas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Life Connection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.22]"
+      },
+      {
+        "id": "c8",
+        "label": "Speech Contest Title",
+        "type": "Visual",
+        "original_text": "Speech Contest",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Mathematics Group 45",
+        "type": "Visual",
+        "original_text": "Mathematics Group Number 45 Contestant",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Steady Presentation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Links the understanding of mathematical contexts to their application in exams."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Shows how a good introduction facilitates learning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Basic knowledge is foundational for mastering skills."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Mastery of skills includes understanding mathematical ideas."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Mathematics ideas help connect learning to real-life contexts."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The digital screen's title labels the context of the presentation."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Visual element keeps students engaged in the themed context."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

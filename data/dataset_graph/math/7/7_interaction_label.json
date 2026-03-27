@@ -1,0 +1,133 @@
+{
+  "video_name": "7_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "- Be able to distinguish and apply vector and geometric methods to solve distance problems.  \n- Master the use of the coordinate method to prove the diagonal property of a parallelogram.  \n- Compare the advantages and applicability of different methods in geometric problems.",
+  "transcript": "[365.71535 -> 497.42] 好这位同学你可以来分享一下吗我觉得好像最后得出的结果都是一样的对结果都是一样的但是它们的思路有点区别那你可以分享一下具体它们有什么区别吗一个是从向量法一个是一个是几格法好请坐那么一个是从向量一个是从几何的角度去分别了写出式子然后最终都得到了这个答案那么它们之间是不是有一个运算或者思维上面的不同呀好那接下来让我们带着这个一起来看我们的例三我们读题已知点A是负一二点B是二根号七让我们求X轴上一点P使得PA的距离等于PB的距离并且求出PA的距离是多少那好那我们读题通过读题我们已知要求的是这一点P好那么我们来写出已知的已知这些条件求证P好那求什么我们是不是就设什么呀我们就可以设设这一点P呢是FB的距离S设这一点P是那我们就可以设这一点P是S零S零然后呢在翻译题目中给出的条件题目是不是给了PA等于PB的距离啊那我们就通过刚刚学习的两点间的距离公式就把它带入坐标表达然后得出来PA等于这个式子PB等于这个式子再令它们从而解出X等于一好那最后解出X等于一了之后是不是还得求PA的值啊我们再把PAP的这一点的值代入进去得出PA呢就是等于二倍根号二的好那这是第三接下来我们看一下第四第四的方法呢让我们我们读题他说的是用坐标法去证明平行四边形的两条对角线的平方和角是等于两铃边的平方和的好那题目说给了用坐标法来去证明那坐标法的第一步我们需要干什么呀。\n[498.56 -> 548.573025] 坐标坐标它是放在哪个东西里面的啊平面直角坐标系里面的啊所以呢我们第一步呢就应该建立一个平面直角坐标系好这里题目已经给我们建出来了证出来了那既然用坐标法那必不可缺的是什么呀是不是点的什么点的坐标所以第二步呢我们先把点的坐标给它写出来好那我们这里来看一下这个点A呢是零零是确定的B也是很好写的那第一呢它是用了BCC呢是用A加B还有C来表示的好那写出来了各一点的坐标之后呢我们就可以来翻译题目条件了题目说的是两对角线的平方和等于两菱边的平方和的两倍那我们就分别写出两对角线的平方和再写出两菱边的平方和的两倍化解一下看看它们是否相等好我们来看题目的过程首先两条对角线就是AC和BD那么通过两点接的距离公式是不是可以写的它AC等于这个滴滴等于这个然后呢它是等于什么两邻边的平方和那我们也写出两条邻边的长度最终化解一下它们两个相加等于这个它们两个邻边和相加等于这个我们发现它是不是刚好等于它的两倍啊那这就是我们用坐标法去解决这个这一类问题的一个过程那好在平面向量中呢我们这一道题呢这一条结论我们之前学习平面向量的时候也用了向量法去证明大家还记得是怎么证明的吗用向量的方法向量法那它说的是不是对角线的平方和等于临边的平方那我们就用向量的方法来把这两条对角线给它表示出来好我们来看首先呢AC我们可以写成AD加DC然后我们就用向量的方法来把这两条对角线给它表示出来好我们来看首先呢AC我们可以写成AD加DC然后我们就用向量的方法来把这两条对角线给它表示出来好我们来看首先呢AC我们可以写成AD加DC然后我们就用向量的方法来把这两条对角线给它表示出来好我们来看首先呢AC我们可以写成AD加DC然后呢BD可以写成BA加AD那好我们就把它平方一下AC的平方向量的平方是不是就是磨的平方呀磨长的平方那就等于AD的磨的平方加上BC的磨的平方再加上二倍的ADAD乘以这个BD的磨的平方加上AC的磨的平方再加上二倍的ADAD乘以这个BD的磨的平方加上AC的磨的平方再加上二倍的ADAD乘以这个BD的磨的平方加上AC的磨的平方再加上二倍的ADAD乘以这个BD的磨的平方加上AC的磨的平方再加上二倍的ADAD乘以这个BD的磨的平方加上AC的磨的平方再加上二倍的ADAD乘以这个BD的磨的平方加上AC的磨的平方加上AC的磨的平方再加上二倍的ADDC好这个是它的平方那么DBD的平方呢也是照样的可以写出来等于BA的模的平方加上这个AD的模的平方再加上这个二位的BA乘以AD好那么我们把他们两个相加最终因为这里BA和这个上面的一个DC呢它是一个相反相量那么就可以提出一个负号最终把它们两个相加这一部分就可以消掉了然后我们再看这个AD有两个AD的平方然后呢还有这两个呢又是一个相把它们提个负号出来它们两个也是一个相同相量那么最终我们也可以得到这个。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact for interaction was the practice problem displayed on the screen, labeled as \"例题1\" (Example 1). The problem involved calculating distances between points and analyzing geometric figures.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the relevant formula on the blackboard: $|P_1P_2| = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$. This action visually connected the student's verbal response to the foundational concept.\n- The teacher also gestured towards the diagram on the screen, highlighting specific points and lines to guide the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation.\n- The teacher then drew a line connecting two points on the diagram, visually reinforcing the correct approach to solving the problem.\n- An emphatic thumbs-up was given to validate the student's correct understanding, followed by circling the key part of the solution on the screen to emphasize accuracy.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Focus shifts to \"例题1\" on the screen.\n\n- **Middle:**\n  - Teacher points to the distance formula on the blackboard while the student speaks.\n  - Gestures towards the diagram, highlighting specific elements.\n\n- **End:**\n  - Nods and smiles to affirm the student's response.\n  - Draws a line on the diagram to illustrate the correct method.\n  - Gives a thumbs-up and circles the correct solution on the screen.\n\nThis structured visual interaction effectively co-constructs knowledge, linking gestures to specific content for enhanced understanding.",
+  "visual_narrative": "Initially, the bulletin board showed the problem \"例题1,\" involving calculating distances between points using the formula $|P_1P_2| = \\sqrt{(x_2-x_1)^2 + (y_2-y_1)^2}$. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. This broad gesture signaled the start of an interactive session, focusing attention on the practice problem displayed prominently on the screen.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, pointing directly to the distance formula. This action visually anchored the student's verbal explanation to the foundational concept. While the student elaborated, the teacher walked over to the screen, gesturing towards specific points on the diagram to highlight key elements of the problem. These supportive gestures guided the student's explanation, ensuring clarity and connection to the visual content.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the correct solution on the screen. This visual confirmation was followed by a thumbs-up, reinforcing the accuracy of the student's understanding. The teacher then drew a line connecting the student's correct answer back to the main theorem discussed earlier, visually linking the application to the core lesson content.\n\nThroughout this process, the teacher's gestures transformed passive reception into active construction. By connecting the student's response to both the formula and the diagram, the teacher facilitated a deeper understanding, encouraging students to see the practical application of theoretical concepts. This dynamic interaction not only verified knowledge but also empowered students to construct their own understanding through guided exploration and visual reinforcement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Distance Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[365.71535 -> 497.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[365.71535 -> 497.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Geometric Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[365.71535 -> 497.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Coordinate Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[498.56 -> 548.573025]"
+      },
+      {
+        "id": "c5",
+        "label": "Diagonal Property",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[498.56 -> 548.573025]"
+      },
+      {
+        "id": "c6",
+        "label": "Example 1",
+        "type": "Visual",
+        "original_text": "Practice problem involving distance calculation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Diagram Points and Lines",
+        "type": "Visual",
+        "original_text": "Diagram highlighting specific points and lines",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c9",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Thumbs-Up Gesture",
+        "type": "Visual",
+        "original_text": "Teacher gives thumbs-up to validate student's response",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Circle Correct Solution",
+        "type": "Visual",
+        "original_text": "Teacher circles the correct solution on the screen",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The distance formula is visually represented in the practice problem."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "compares",
+        "intent": "Comparison between vector and geometric methods."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "proves",
+        "intent": "Coordinate method used to prove the diagonal property."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Example 1 includes diagram points and lines for analysis."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Student answering prompts engagement with the problem."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "praises_response",
+        "intent": "Teacher's thumbs-up gesture praises the student's correct response."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Teacher circles the correct solution to emphasize accuracy."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

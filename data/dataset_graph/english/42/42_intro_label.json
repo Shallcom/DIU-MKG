@@ -1,0 +1,139 @@
+{
+  "video_name": "42_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Analyze AI’s impact on English learners’ thinking abilities; explore the challenges AI tools pose to academic integrity and independent thinking.",
+  "transcript": "[0.0 -> 92.7] Okay so good morning dear judges and my dear fellow students so first of all I'd like to begin my impromptu speech which is about whether the advent of AI poses a challenge or even threat to English education so I'd like to illustrate this topic from several aspects in accordance with the national English curriculum. So first of all I like to analyze thinking ability. I believe this aspect is definitely the one that receives the most important impact. So for example if you just type a prompt into generative AI like LGBT then it can seamlessly generate a very detailed and intricate answer for the user. So the result is people may tend to rely on them and the thinking of AI may replace the thinking of human brain so that is definitely detrimental to independent thinking and critical thinking and also in terms of students learning ability students may rely on AI to finish their homework and even use them to write essays so as teachers we don't know whether students have really grasped the knowledge we taught them in class and students may even credit the work of AI as their own work which is also against the moral of of academic education. So third point is chatGPT and also generative AI like NewBean,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a presentation slide titled \"Increasing Your Progress.\" The slide is displayed on a large screen at the front of the classroom.\n\n#### 2. **The Title Event**\n- The title \"Increasing Your Progress\" is prominently displayed on the screen. The teacher stands beside the screen, holding papers, and gestures towards the title, likely emphasizing its importance.\n\n#### 3. **The Objectives**\n- The slide includes a subtitle: \"How to Study for Your Exams.\" This suggests the learning goals are focused on exam preparation strategies.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points while speaking. They occasionally point towards the screen, likely to draw attention to the title and subtitle.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing the students.\n- The screen displays the slide titled \"Increasing Your Progress\" with the subtitle \"How to Study for Your Exams.\"\n- The teacher holds papers and gestures with their free hand, possibly introducing the topic.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize key points.\n- They occasionally point to the screen, directing students' attention to the title and subtitle.\n- The students are seated, facing the teacher, with some taking notes or listening attentively.\n\n**End:**\n- The teacher maintains focus on the screen content, reinforcing the lesson's objectives.\n- The visual emphasis remains on the slide, with the teacher's gestures linking their verbal explanations to the displayed content.\n\n### Summary\nThe lesson introduction centers around the slide titled \"Increasing Your Progress,\" with a focus on exam study strategies. The teacher uses gestures to highlight the title and subtitle, ensuring students understand the lesson's purpose. The visual elements, including the slide and teacher's actions, work together to engage the students and set the stage for the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, dressed in a formal suit, holding papers. The initial visual stimulus is the slide titled \"Increasing Your Progress,\" prominently displayed on the screen, setting the hook for the lesson. The subtitle, \"How to Study for Your Exams,\" suggests a focus on practical study strategies. The teacher uses deliberate hand gestures, occasionally pointing to the title and subtitle, to draw students' attention to the key elements of the slide. As the teacher speaks, their gestures emphasize the importance of the content, creating a bridge from the hook to the main topic of exam preparation. The visual transition remains centered on the slide, with the teacher's actions reinforcing the lesson's objectives. This approach connects the new knowledge to the students' existing experiences by highlighting common challenges in studying and preparing them for strategies to enhance their progress. The introduction effectively sets the stage for a structured exploration of study techniques, ensuring students are engaged and aware of the lesson's focus from the outset.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "AI Impact on Thinking",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Independent Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Use of AI in Homework",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Academic Integrity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Generative AI",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "c7",
+        "label": "ChatGPT",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 92.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Increasing Your Progress",
+        "type": "Visual",
+        "original_text": "Slide showing title 'Increasing Your Progress'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Subtitle: Study Strategies",
+        "type": "Visual",
+        "original_text": "Slide showing subtitle 'How to Study for Your Exams'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Analyzes how AI could undermine independent thinking."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explores AI's impact on critical thinking abilities."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Discusses how reliance on AI for homework affects academic integrity."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Example of how generative AI is used in completing homework."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Position ChatGPT as a specific example of generative AI."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Academic integrity is challenged by AI's impact on thinking capabilities."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged with the analysis of AI's impact."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the study strategies as a subtitle to the main title."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "The visually engaging slide helps in keeping students focused and engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

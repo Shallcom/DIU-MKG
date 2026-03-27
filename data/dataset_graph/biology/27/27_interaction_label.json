@@ -1,0 +1,153 @@
+{
+  "video_name": "27_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Grasp the role of fossils as the most direct evidence for studying biological evolution; analyze the evolutionary characteristics reflected by fossils from different time periods; identify and explain the evolutionary patterns from unicellular to multicellular organisms.",
+  "transcript": "[386.64 -> 390.54] 来思考一下我们能得到什么样的结论呢\n[391.78 -> 401.68] 好我们一起来看一下啊化石它是研究生物进化最直接最重要的证据那么为什么说它最直接呢\n[403.44 -> 415.82] 因为它可以直接看到一个动物的原始骨骼形态还有它的什么还有它的其他结构特征对不对\n[417.08 -> 423.24] 那么这就是化石的化石是直接证据的原因\n[433.44 -> 453.94] 好接下来请同学们和老师一起看一则资料那么接下来老师把课堂交给你们我们来看一下这张图片思考你能发现什么样的问题呢从这张图片我们又能看出生物进化有什么样的特点呢好讨论开始\n[463.44 -> 466.62] 从生育的进化就有了思考项目\n[468.82 -> 481.16] 生育就是一个人生难题嘛我们来想想从进化方面和它的融解思维面的一个反解方式很好啊\n[482.82 -> 504.0] 好的讨论结束我们一起来分析一下这个资料我们来看一下啊首先发现的化石是在两千一百万年前发现的是什么化石啊是单细胞甄合生物的化石那么这我们就可以先理解为它是生命的起点对不对再来看七百万年前我们发现了多生物的化石它的等级提高了那么在四百零八到三百六十万年前我们又发现了昆虫和栖息类动物的化石再往上前三百六十万年到二百八十六万年我们又发现了爬行动物的化石",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the interactive whiteboard, directing students' attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the diagram on the interactive whiteboard, which depicted soil layers. The visual artifact included labels and a cross-sectional view of soil composition.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded to encourage participation. She occasionally pointed to specific layers in the soil diagram to guide the student's explanation, linking their verbal response to the visual content.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled key elements of the soil diagram on the whiteboard, visually validating the correct points. She also added brief annotations next to the diagram, reinforcing the student's correct understanding and providing additional context.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands by the interactive whiteboard, which displays a flowchart with Chinese text. She gestures towards the flowchart, emphasizing the process depicted.\n\n- **Middle:**\n  - The teacher transitions to a slide showing a soil layer diagram. She points to different layers, explaining their characteristics. The blackboard behind her has handwritten notes, including \"生物有亲用, 确定位置\" and \"11/22,\" which remain static throughout.\n\n- **End:**\n  - The teacher invites student interaction with a sweeping gesture. She focuses on the soil diagram, using hand movements to highlight specific layers as students respond. She provides visual feedback by circling correct elements and adding annotations, ensuring student understanding is visually reinforced.\n\nThis structured approach ensures that visual elements and teacher actions are explicitly linked, facilitating effective knowledge co-construction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a detailed diagram of soil layers, with labels indicating different components. The teacher began by gesturing towards the diagram, inviting students to engage with the content. She made a sweeping gesture across the class, signaling the start of an interactive discussion.\n\nAs the student began explaining their understanding of soil composition, the teacher moved closer to the interactive whiteboard. She pointed to specific layers, nodding and maintaining eye contact to encourage the student. While the student elaborated, the teacher walked over to the board and jotted down key terms next to the diagram, visually linking the student's explanation to the visual content.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the correct elements on the diagram. She then drew arrows connecting these elements back to the main concepts discussed earlier, reinforcing the core lesson on soil structure.\n\nThroughout the interaction, the teacher's gestures and annotations transformed passive observation into active participation. By visually connecting the student's response to the lesson content, she facilitated a deeper understanding, guiding students to construct their own knowledge actively. This dynamic process evolved from initial presentation to collaborative exploration, ensuring students engaged deeply with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Fossils",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[391.78 -> 401.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Biological Evolution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[391.78 -> 415.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Unicellular Organisms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.82 -> 504.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Multicellular Organisms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.82 -> 504.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Diagram of Soil Layers",
+        "type": "Visual",
+        "original_text": "Detailed diagram of soil layers with labeled components",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Encouraging Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to encourage participation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Direct Evidence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[403.44 -> 415.82]"
+      },
+      {
+        "id": "c9",
+        "label": "Evolutionary Patterns",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[433.44 -> 453.94]"
+      },
+      {
+        "id": "c10",
+        "label": "Animal Fossils",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[403.44 -> 423.24]"
+      },
+      {
+        "id": "c11",
+        "label": "Student Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c12",
+        "label": "Nodding Gesture",
+        "type": "Visual",
+        "original_text": "Teacher's nodding to show agreement",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Annotations",
+        "type": "Visual",
+        "original_text": "Annotations added to soil diagram for clarification",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Fossils provide evidence for biological evolution studies."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Evolutionary patterns include development from unicellular to more complex forms."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Multicellular organisms are part of the evolutionary sequence."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Soil layers used to stimulate student interaction."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Animal fossils as direct evidence for evolutionary study."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Gestures used to guide student participation."
+      },
+      {
+        "source": "c6",
+        "target": "c12",
+        "relation": "scaffolds",
+        "intent": "Gestures help scaffold student understanding while answering."
+      },
+      {
+        "source": "c13",
+        "target": "c11",
+        "relation": "emphasizes",
+        "intent": "Annotations provide additional context and emphasize correct elements from student responses."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

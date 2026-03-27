@@ -1,0 +1,198 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Understand the causes of the El Niño phenomenon and its impact on global climate; master the relationship between ocean‑current movement and wind.",
+  "transcript": "[699.492067 -> 747.44] 我们再来回到刚才的图片这是太平洋东岸这是太平洋西岸我们可以看到东岸它是我们看图的时候先看图里图里你看它的颜色它越偏红它的温度其实变得越高的是吧但我们从图中可以看到它太平洋的东岸它其实温度都是一个变高还是变低那我们再看西安的话可以看出来就是靠近澳大利亚大陆的有一部分是稍微有点升高因为我们一会儿也有想到它其实是发生了一个干旱的现象那么其余地区你看是不是温度发现了发生了明显的降低我们先把同学的这个讨论的结果放这儿老师刚才精神的分析我想大家心中也有有个答案那么我们再看一下为什么产生了这种现象我们刚才所说洋流它的运动是跟什么有关系风跟风有关系所以它鄂尔尼诺现象的出现它是东太平洋它的温度升高那也就是说它风力减弱了所以导致它吹过去的海水就少了吹过去的海水少太平洋这儿就积聚了大量的暖兴致的海水所以说在太平洋的东岸它的温度要高。\n[748.6 -> 758.9] 然后看西岸它同时也是蒸发的但是它的蒸发量就少了它降水量就少了然后在东岸时间到了好。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a diagram illustrating the interaction between ocean currents and weather patterns.\n   - The slide includes a labeled diagram with arrows indicating the movement of air and water, and text explaining the process.\n\n2. **Key Knowledge Items (Content View)**:\n   - The diagram includes labels such as \"暖湿气流\" (warm, moist air flow) and \"冷空气\" (cold air).\n   - Text on the slide explains the temperature difference and its impact on weather, mentioning a temperature increase of \"0.5°C\" and its effects over several hours.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to different parts of the diagram, specifically highlighting the arrows showing air and water movement.\n   - The teacher gestures towards the text explaining the temperature increase, emphasizing the \"0.5°C\" and the duration of the effect.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary diagram and explanation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a detailed diagram illustrating the interaction between ocean currents and weather patterns. The teacher visually wraps up the lesson by pointing to various elements of the diagram, specifically highlighting the arrows that depict the movement of warm, moist air flow and cold air. She emphasizes the text explaining the temperature increase of \"0.5°C\" and its effects over several hours, using gestures to draw attention to these key points. The teacher's movements through the diagram reinforce the core concepts, ensuring students visually connect the process described. No visual elements indicating homework or next steps are present in the frames, keeping the focus on the summary diagram and its explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "El Niño Phenomenon",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Pacific Ocean Temperature Increase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Eastern Pacific Warming",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Western Pacific Cooling",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Weakened Wind Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Ocean Current Movement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Warm, Moist Air Flow",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c8",
+        "label": "Cold Air",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c9",
+        "label": "Temperature Increase (0.5°C)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "c10",
+        "label": "Reduced Rainfall in Western Pacific",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[748.6 -> 758.9]"
+      },
+      {
+        "id": "c11",
+        "label": "Drought in Australia",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.492067 -> 747.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Diagram of Ocean Currents and Weather",
+        "type": "Visual",
+        "original_text": "Diagram illustrating interaction between ocean currents and weather patterns.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Arrows Showing Air and Water Movement",
+        "type": "Visual",
+        "original_text": "Arrows indicating movement of warm, moist air flow and cold air.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Text Explaining Temperature Increase",
+        "type": "Visual",
+        "original_text": "Text explaining the temperature increase of 0.5°C and its effects over several hours.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged with Diagram",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains the temperature increase in the Pacific Ocean as a key factor in the El Niño phenomenon."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Highlights the warming of the eastern Pacific as part of the overall temperature increase."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Highlights the cooling of the western Pacific as part of the overall temperature dynamics."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Links the El Niño phenomenon to the weakening of wind force."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Explains how weakened wind force affects ocean current movement."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Describes the movement of warm, moist air flow as part of ocean current dynamics."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Describes the movement of cold air as part of ocean current dynamics."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Explains how a temperature increase of 0.5°C leads to reduced rainfall in the western Pacific."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Links reduced rainfall in the western Pacific to drought conditions in Australia."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram visually represents the El Niño phenomenon."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Arrows in the diagram illustrate the movement of air and water in ocean currents."
+      },
+      {
+        "source": "v3",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Text highlights the temperature increase of 0.5°C and its effects."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the diagram summarizing the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

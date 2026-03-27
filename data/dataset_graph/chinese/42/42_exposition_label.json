@@ -1,0 +1,127 @@
+{
+  "video_name": "42_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "Master the linguistic characteristics of feature articles and the methods for expressing characters’ spirit; develop the ability to quickly skim and organize an article’s structure.",
+  "transcript": "[191.98 -> 258.56] 好的同学们上课在上一个任务呀我们共同完成了播云见日记录语言的学习任务活动同学们通过阅读教育录这样的一篇通讯文章把自己通过文章当中使以感动的语言记录了下来同时我们通过这样的一个表格梳理了我们文章当中五个小标题当中它对于原文当中以及体现出的人物精神进行了一个梳理下面我们一同来总结一下请大家根据我们上一题任务五个小标题继续来快速阅读它在每前四个小标题之下找到每一个人物精神体现的精神图纸稍后老师有一个小惊喜带给大家请同学们借助小标题快速继续浏览这篇文章。\n[283.34 -> 311.98] 好的同学们差不多了下面请同学们看一看自己的抽屉里有没有找到这个小惊喜呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing a digital screen displaying a slide with Chinese text. The slide reads: \"任务一：读三月日记，记录感言。\" followed by instructions to quickly read an article and record moving words.\n- The teacher gestures towards the screen, emphasizing the task instructions.\n\n**Middle:**\n- The slide changes to a new task: \"任务二：提取材料，概括‘三重’。\"\n- The slide displays a table with categories: \"原文\" (Original Text), \"人物精神\" (Character Spirit), \"小标题\" (Subtitle), and \"感悟\" (Reflection).\n- The teacher holds papers and explains the task, occasionally pointing to the table on the screen.\n- The teacher turns to the green chalkboard and begins writing. The first characters written are \"成长日记的提炼\" (Extraction of Growth Diary).\n\n**End:**\n- The teacher continues writing on the chalkboard, adding more characters: \"感悟\" (Reflection).\n- The teacher uses hand gestures to emphasize the written content, occasionally looking back at the students.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide with the table structure. It has a red star and four categories: \"原文,\" \"人物精神,\" \"小标题,\" and \"感悟.\"\n\n**The Derivation Process (Dynamic):**\n\n- **Additions:**\n  - The teacher writes \"成长日记的提炼\" on the chalkboard, followed by \"感悟.\"\n  - These additions are made while explaining the task, linking the board content to the slide's categories.\n\n- **Modifications:**\n  - No erasures or modifications are observed; the teacher focuses on adding content.\n\n- **Deictic Gestures:**\n  - The teacher points to the \"感悟\" category on the slide while explaining its significance.\n  - Hand gestures direct attention to the chalkboard writing as it progresses.\n\n**The Highlighting Strategy (Emphasis):**\n\n- The teacher uses the red star on the slide to draw attention to the task's importance.\n- The chalkboard writing is done in white, standing out against the green background, emphasizing key terms.\n- Gestures towards the board and slide synchronize with verbal explanations to highlight connections between the two visual elements.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a task slide titled \"任务一：读三月日记，记录感言,\" instructing students to read an article and record moving words. The teacher gestured towards this slide, emphasizing the reading task. Then, the slide transitioned to \"任务二：提取材料，概括‘三重’,\" featuring a table with categories: \"原文,\" \"人物精神,\" \"小标题,\" and \"感悟.\" The teacher pointed to each category, explaining their significance while holding instructional papers.\n\nThe teacher then turned to the green chalkboard and began constructing the phrase \"成长日记的提炼,\" followed by \"感悟.\" These additions were synchronized with verbal explanations, linking the board content to the slide's structure. The teacher's gestures directed attention to the \"感悟\" category on the slide, tracing its connection to the chalkboard writing.\n\nThroughout the process, the teacher used the red star on the slide to highlight the task's importance. The white chalk writing stood out against the green board, emphasizing key terms. By annotating the board and referencing the slide, the teacher reduced cognitive load by visually reinforcing the task's components. Finally, the teacher circled around the classroom, ensuring students understood the visual and verbal instructions, aligning the knowledge delivery with the structured table and board notes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Reading Task",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[191.98 -> 258.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Feature Articles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[191.98 -> 258.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Character Spirit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[191.98 -> 258.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Skimming Ability",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[191.98 -> 258.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Growth Diary Extraction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[283.34 -> 311.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[283.34 -> 311.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Task Slide with Categories",
+        "type": "Visual",
+        "original_text": "Slide with 'Original Text', 'Character Spirit', 'Subtitle', 'Reflection'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Writing",
+        "type": "Visual",
+        "original_text": "Words 'Growth Diary Extraction', 'Reflection' written in white",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Red Star",
+        "type": "Visual",
+        "original_text": "Red star on slide marking task importance",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The reading task is visually presented through the slide with categories."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Feature articles include elements that express character spirit."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Mastering feature articles involves skimming ability."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The chalkboard writing supports the extraction of growth diary."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Reflection is highlighted through chalkboard writing."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The red star underscores the importance of the reading task."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The slide engages students by directing their attention to the task."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,242 @@
+{
+  "video_name": "6_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Identify and list common metal ores and their uses; understand the basic process flow of iron ore smelting; be able to explain the principles and key steps of ancient iron smelting.",
+  "transcript": "[188.05453325 -> 303.16] 好同学们上课这节课呢我们来认识一下金属的相关知识同学们常见的金属矿石有哪些呢同学们动脑思考一下铁矿石那具体有哪几种呢好这位同学回答一下有黄铁矿是铁矿磁铁矿黄铜矿哦看来你预习的非常充分同学们还有吗好这位同学回答一下还有磷铁矿铝土矿和灰铜矿好请坐其实啊在我们日常生活中呢我们也会经常碰到这些矿石刚才我们锁了一我认识到的以上这些金属矿石呢其实我们主要是目前采购提取量最大的就是铁矿石那么我们经常会采用是铁矿也就是氧化铁进行提炼铁单质好知道了以上常见的金属矿石呢我们接着往下看这个是古时候人类提取铁的工艺流程同学们看一下生熟铁炼炉。\n[304.3 -> 311.3] 同学们可以思考一下小组讨论一下五十号生成铁的原理是什么呢。\n[334.3 -> 376.1090665] 好这个同学回答一下古代的人的话就是如果他要炼铁的话首先要需要一个很高很高的温度对然后他会我不太清楚就是古代他们到底是把是加炭进去吗加炭和铁好那我们带着这个小问题呀我们来进行一个小实验在这个实验探究中呢我们会搭制如上的装置图这里老师有一个小问题沉浸石灰水的作用是什么末尾的酒精灯的作用又是什么呢。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The initial visual anchor is a presentation slide with the title \"看一看\" and the question \"变质岩的成分不均匀吗？\" (Translation: \"Look at it. Is the composition of metamorphic rocks uneven?\"). The slide displays images of different rock samples.\n- **Teacher's Actions**: The teacher stands in front of the class, holding papers, and gestures towards the slide. The blackboard shows handwritten text: \"変質岩の成分は不均一か？\" (Translation: \"Is the composition of metamorphic rocks uneven?\").\n\n#### Middle\n- **Slide Change**: The slide transitions to show more detailed images of rock samples with labels.\n- **Teacher's Actions**: The teacher points to specific rock images on the slide, likely explaining their characteristics. The blackboard remains unchanged, maintaining the initial question.\n\n- **Next Slide**: The slide changes to \"思考与讨论\" (Translation: \"Thinking and Discussion\") with two black-and-white illustrations.\n- **Teacher's Actions**: The teacher gestures towards the illustrations, possibly prompting discussion. The blackboard now includes additional text: \"1.成分が不均一\" (Translation: \"1. Uneven composition\").\n\n#### End\n- **Teacher's Actions**: The teacher writes on the blackboard, adding \"2.異常な状況\" (Translation: \"2. Abnormal conditions\"). The teacher continues to gesture towards the slide, emphasizing the illustrations.\n- **Student Interaction**: A student stands up, possibly to answer a question or participate in the discussion.\n\n### Knowledge Flow Tracking\n\n#### Core Artifact (Static)\n- **Main Visual Anchor**: The presentation slide with illustrations under \"思考与讨论\" (Thinking and Discussion). The illustrations depict geological formations or processes.\n\n#### Derivation Process (Dynamic)\n- **Additions**: The teacher writes \"2.異常な状況\" on the blackboard while explaining the slide content.\n- **Modifications**: No erasures or modifications are observed; the teacher adds to the existing content.\n- **Deictic Gestures**: The teacher points to specific parts of the illustrations, likely correlating them with the written points on the blackboard.\n\n#### Highlighting Strategy (Emphasis)\n- **Visual Cues**: The teacher uses hand gestures to emphasize key points on the slide and blackboard. The blackboard text is written in white chalk, maintaining focus on the main discussion points.\n\n### Summary\nThe teacher effectively uses both the presentation slides and the blackboard to guide the class through a discussion on metamorphic rocks. Visual elements are synchronized with verbal explanations, ensuring a clear flow of information.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the question \"変質岩の成分は不均一か？\" alongside a presentation slide titled \"看一看\" with images of various rock samples. The teacher began by pointing to these images, constructing a visual comparison of different metamorphic rock compositions. As the lecture progressed, the slide transitioned to \"思考与讨论,\" featuring two detailed illustrations of geological formations. The teacher annotated the blackboard with \"1.成分が不均一,\" tracing the uneven textures in the illustrations to emphasize compositional variability. \n\nFurther into the session, the teacher derived additional insights by writing \"2.異常な状況\" on the board, linking it to specific parts of the illustrations to highlight abnormal geological conditions. The teacher's gestures actively resolved deixis, such as pointing to particular rock features in the images and corresponding points on the blackboard. \n\nTo reduce cognitive load, the teacher used clear visual anchors and step-by-step additions, ensuring each concept built logically on the previous one. The final emphasis was placed on the illustrations, with the teacher gesturing towards key areas to reinforce the discussion points, effectively circling back to the initial question displayed on the board. This structured visual and verbal synchronization guided the students through the complex topic, enhancing comprehension.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Common Metal Ores",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Iron Ore Types",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Pyrite",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Magnetite",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Chalcopyrite",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c6",
+        "label": "Apatite",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c7",
+        "label": "Bauxite",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Antimonite",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[188.05453325 -> 303.16]"
+      },
+      {
+        "id": "c9",
+        "label": "Iron Ore Smelting Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[304.3 -> 311.3]"
+      },
+      {
+        "id": "c10",
+        "label": "High Temperature Requirement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[334.3 -> 376.1090665]"
+      },
+      {
+        "id": "c11",
+        "label": "Carbon Addition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[334.3 -> 376.1090665]"
+      },
+      {
+        "id": "c12",
+        "label": "Limestone in Smelting",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[334.3 -> 376.1090665]"
+      },
+      {
+        "id": "c13",
+        "label": "Alcohol Lamp Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[334.3 -> 376.1090665]"
+      },
+      {
+        "id": "v1",
+        "label": "Metamorphic Rocks Slide",
+        "type": "Visual",
+        "original_text": "Is the composition of metamorphic rocks uneven?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Rock Samples Images",
+        "type": "Visual",
+        "original_text": "Images of different rock samples",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Discussion Illustrations",
+        "type": "Visual",
+        "original_text": "Thinking and Discussion illustrations",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Group Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Common metal ores include various types of iron ore."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Iron ore types include Pyrite."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Iron ore types include Magnetite."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Iron ore types include Chalcopyrite."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Iron ore types include Apatite."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Iron ore types include Bauxite."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Iron ore types include Antimonite."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "The smelting process requires high temperatures."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "The smelting process involves the addition of carbon."
+      },
+      {
+        "source": "c9",
+        "target": "c12",
+        "relation": "evolves_from",
+        "intent": "Smelting process includes the use of limestone."
+      },
+      {
+        "source": "c9",
+        "target": "c13",
+        "relation": "evolves_from",
+        "intent": "Alcohol lamp is used in the process."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the question and rock samples."
+      },
+      {
+        "source": "v3",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Illustrations scaffold the discussion on temperature in smelting."
+      },
+      {
+        "source": "v3",
+        "target": "c11",
+        "relation": "scaffolds",
+        "intent": "Illustrations scaffold the discussion on carbon addition."
+      },
+      {
+        "source": "ss1",
+        "target": "c3",
+        "relation": "answers",
+        "intent": "Student answers include mention of Pyrite as an iron ore."
+      },
+      {
+        "source": "ss1",
+        "target": "c5",
+        "relation": "answers",
+        "intent": "Student answers include mention of Chalcopyrite."
+      },
+      {
+        "source": "ss2",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Group brainstorming prompts thinking about the smelting process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

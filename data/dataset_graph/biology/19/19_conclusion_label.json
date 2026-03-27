@@ -1,0 +1,152 @@
+{
+  "video_name": "19_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the reciprocal relationship between organisms and the environment; analyze the results and phenomena of their mutual influence; identify everyday examples of organism‑environment relationships.",
+  "transcript": "[705.798367 -> 706.42] 除此之外生物它总是生活在环境当中的呀在原始的大气中没有氧气最早的生物都是咽氧的这体现了生物与环境的什么特点什么关系相互适应是谁适应谁生物适应环境而光合生物的出现使得大气中有了氧气起向生物与环境的什么关系生物影响环境那你还能不能举出生物我们生活当中生物与环境关系的案例呢比如说沙漠中的骆驼\n[707.48 -> 715.18] 肚头刺的根系非常发达几乎没有叶子生物适应的环节\n[721.26 -> 740.08] 由于不同生物之间存在影响并且生物与环境之间也存在影响在这种影响当中它们会有什么样的结果生态平衡会发生什么样的现象呢\n[741.14 -> 749.28] 你可以看到我们课本的第一百二十九页有一个黑痞子它说产生了什么这是你的全新画\n[753.86 -> 757.7] 以上是我的全部授课内容感谢各位评委的聆听",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a diagram illustrating the concept of \"协同进化\" (coevolution). The diagram includes arrows connecting \"植物\" (plants) and \"动物\" (animals) to \"环境\" (environment), forming a triangular relationship.\n   - The screen displays a slide with text in Chinese, likely summarizing key points or providing additional information related to the topic.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - \"协同进化\" (coevolution)\n     - \"植物\" (plants)\n     - \"动物\" (animals)\n     - \"环境\" (environment)\n   - Screen:\n     - Text in Chinese, including phrases like \"协同进化\" and \"生物多样性\" (biodiversity).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the arrows between \"植物\" (plants), \"动物\" (animals), and \"环境\" (environment) to emphasize the relationships.\n   - The teacher gestures towards the screen, likely highlighting key phrases or points on the slide.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary of the lesson content.",
+  "visual_narrative": "The lesson concludes with a diagram on the blackboard centered on \"协同进化\" (coevolution). The teacher visually reviews the content by tracing the arrows connecting \"植物\" (plants), \"动物\" (animals), and \"环境\" (environment), reinforcing the relationships between these elements. The screen displays additional text, likely summarizing key points. The teacher gestures towards the screen, emphasizing the text. There is no visible homework or next-step instruction in the frames provided, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Co-Evolution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Plants",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Animals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Environment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Mutual Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Adaptation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Desert Camel",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.798367 -> 740.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Biodiversity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.798367 -> 757.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating plants, animals, and environment co-evolution.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Text",
+        "type": "Visual",
+        "original_text": "Slide displaying co-evolution and biodiversity.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Co-evolution includes the role of plants."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Co-evolution includes the role of animals."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Co-evolution includes the role of the environment."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Adaptation is a result of mutual influence between organisms and environments."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Camel's adaptations in the desert demonstrate the principle of adaptation."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram visualizes the concept of co-evolution."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide text summarizes key points about co-evolution."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "The slide text includes information on biodiversity."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Co-evolution is an example of mutual influence between organisms and their environment."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students engage with the concept of co-evolution."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

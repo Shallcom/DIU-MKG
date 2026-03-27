@@ -1,0 +1,135 @@
+{
+  "video_name": "46_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Cultivate students’ problem awareness and scientific inquiry abilities; guide students to understand the role of problems in driving social progress.",
+  "transcript": "[0.0 -> 3.78] 字幕由 Amara.org 社群提供。\n[5.0 -> 95.38] 尊敬的各位老师亲爱的同学们大家下午好我是中和呃我是初中科学组的第四十六号选手今天我接席讲演的题目是问题与创新走进科学走进社会的一码钥匙我抽到这样一则材料在人工智能的背景下我们要如何来提高学生在未来适应社会社会的能力事实上这让我们想到教育的本质是什么教育的本质说来很大它其实是一个让学生能够越来越适应社会能够适应社会化走进人类走到人群中去的这样一种能力那么当我们的人工智能在逐渐发展的时候随着时代的变化我们的教育也要有所改进我们应该教出怎样的学生让他能够适应现在这个逐渐发展逐渐不断变化的社会呢我认为第一点我们要培养学生的问题意识是所有学生所有孩子他们在接触社会接触自然的那一瞬间都会产生无穷无尽的问题为什么天空是蓝的为什么草地是绿的为什么鱼儿在水里游为什么人在岸上走这样许许多多的问题组成了他们对科学的认知也正是这些问题一步一步组成了我们现在所接触到的自然科学和社会科学那么。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a digital slide displayed on the screen. It features an illustration of a child reading a book, accompanied by Chinese text.\n\n#### 2. The Title Event\n- **Title**: The title on the screen reads \"如何撰写读书报告\" (How to Write a Book Report).\n- **Teacher's Action**: The teacher stands in front of the screen, presenting the slide without additional writing on the board.\n\n#### 3. The Objectives\n- **Bullet Points**: Not explicitly visible in the frames provided. The slide focuses on the title and illustration.\n\n#### 4. Key Gestures\n- **Hand Movements**: The teacher holds a card or notes, occasionally gesturing with her hands to emphasize points. No specific pointing to the screen or board is observed in the frames.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher enters the frame, standing in front of a green chalkboard and a digital screen.\n- The screen displays the title \"如何撰写读书报告\" with an illustration of a child reading.\n\n**Middle**\n- The teacher holds notes and gestures with her hands, likely explaining the content on the screen.\n- No additional writing or changes on the chalkboard are observed.\n\n**End**\n- The teacher continues to gesture and speak, maintaining focus on the digital content.\n- The screen remains static, displaying the initial title and illustration.\n\n### Summary\nThe introduction phase centers on the digital slide titled \"如何撰写读书报告,\" featuring an illustration of a child reading. The teacher uses hand gestures to engage with the content, though no specific pointing or additional board writing is noted. The visual focus remains on the screen throughout the segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a green chalkboard and a digital screen, which prominently displays the hook object: an illustration of a child reading a book alongside the title \"如何撰写读书报告.\" The teacher, holding notes, initiates the lesson by engaging with the visual content on the screen. Throughout the segment, she uses hand gestures to emphasize key points, maintaining focus on the digital presentation. The visual narrative transitions smoothly from the hook to the main topic, as the screen remains static, reinforcing the lesson's focus on writing book reports. The teacher's gestures and positioning in front of the screen create a clear link between the visual aid and the lesson's objectives, setting the stage for students to connect the concept of book reports to their existing reading experiences and future writing tasks. This structured introduction effectively bridges the hook to the main topic, guiding students into the learning process.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Problem Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Social Progress",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Artificial Intelligence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Education Improvement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Adaptation to Society",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c7",
+        "label": "Natural Science",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "c8",
+        "label": "Social Science",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[5.0 -> 95.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Child Reading Illustration",
+        "type": "Visual",
+        "original_text": "The slide features an illustration of a child reading a book",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Writing Book Reports Title",
+        "type": "Visual",
+        "original_text": "The title on the screen reads 'How to Write a Book Report'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[5.0 -> 95.38]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Scientific Inquiry involves developing problem awareness."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Problem awareness drives social progress."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Development of AI prompts education improvement."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Education improvement evolves from the need to adapt to society."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Natural science includes aspects that contribute to social science."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Illustration emphasizes the importance of reading in writing book reports."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The title 'How to Write a Book Report' serves as a guide for engaged listening."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

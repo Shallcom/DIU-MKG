@@ -1,0 +1,154 @@
+{
+  "video_name": "48_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "- Be able to explain the importance of researching a nation's history and culture.  \n- Be able to summarize the key information foreign tourists should know before coming to China.  \n- Be able to apply cross‑cultural understanding in real‑world situations.",
+  "transcript": "[367.06 -> 388.08] This is your answer. Questions number one. Why it is important to study the history and culture of a country before visiting it. In page 41,\n[388.08 -> 419.62] 41 why it is important let's change the way if we do not study the history and culture of a country and we visit it what will happen we do not know and we maybe we feel confused and some of our action maybe may have maybe root for the local people right and any other any other ideas。\n[421.74 -> 425.22] Why it is so important,\n[425.22 -> 428.46] just from the text we have two points,\n[428.46 -> 444.86] right, the second point is it will make our visit much more enjoyable. So why to study the history and culture will make our journey more enjoyable.。\n[446.86 -> 449.38] We could know the buildings,\n[449.38 -> 453.5] the histories of the past local place,\n[453.5 -> 465.48] right? And second question is what important thing should visitors know about before they come to China?\n[465.68 -> 468.04] So in our local context,\n[468.04 -> 472.74] if some foreigners your foreign friends want to come to China。\n[473.8 -> 479.44] to say the places of interest. So what should they know?\n[480.26 -> 482.94] Suppose you are the guide for them.。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the chalkboard, particularly the section labeled \"WHAT'S IN A HONG\" with the subtopics \"location,\" \"history,\" \"culture,\" \"food,\" and the phrase \"unbroken experience\" leading to \"Tushar.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and occasionally pointed to the relevant sections on the chalkboard. For instance, when discussing \"culture,\" the teacher pointed to that specific word, reinforcing the topic being discussed.\n- The teacher also used hand gestures to emphasize key points, such as holding up fingers to count the subtopics, aiding in structuring the student's response.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student provided input, the teacher nodded affirmatively and made small check marks next to the relevant subtopics on the board, visually confirming correct responses.\n- For elaboration, the teacher drew a small arrow connecting \"unbroken experience\" to \"Tushar,\" visually illustrating the relationship discussed by the student.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher initiates interaction with a sweeping gesture.\n  - Focus shifts to the chalkboard content: \"WHAT'S IN A HONG.\"\n\n- **Middle:**\n  - Teacher points to \"culture\" while a student elaborates on this topic.\n  - Uses hand gestures to count subtopics, aiding in structuring the discussion.\n  - Nods and makes check marks next to subtopics as students respond correctly.\n\n- **End:**\n  - Teacher draws an arrow connecting \"unbroken experience\" to \"Tushar\" to visually explain the student's point.\n  - Gives a thumbs-up gesture to validate the student's contribution.\n\nThis structured visual approach ensures that the teacher's actions are clearly linked to the evolving content on the chalkboard, facilitating effective knowledge co-construction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the topic \"WHAT'S IN A HONG,\" with subtopics \"location,\" \"history,\" \"culture,\" \"food,\" and the phrase \"unbroken experience\" leading to \"Tushar.\" The teacher began by making a sweeping gesture across the classroom, inviting all students to engage with the content on the board.\n\nAs the discussion progressed, the teacher actively facilitated the interaction by moving towards the board and pointing to each subtopic as students responded. While a student elaborated on \"culture,\" the teacher used hand gestures to count the subtopics, reinforcing the structure of the discussion. The teacher also made check marks next to each subtopic as students provided correct information, visually confirming their contributions.\n\nTo validate the student's input, the teacher drew an arrow connecting \"unbroken experience\" to \"Tushar,\" illustrating the relationship discussed. This visual action not only confirmed the student's understanding but also linked it back to the core lesson content, emphasizing the continuity of cultural experience.\n\nThroughout the interaction, the teacher's gestures and visual cues transformed the classroom from a passive learning environment to an active construction zone. By pointing, marking, and drawing connections on the board, the teacher guided students in actively engaging with the material, helping them construct their own understanding of the topic. This dynamic approach ensured that students moved from merely receiving information to actively participating in the knowledge-building process.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "History Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[367.06 -> 388.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Culture Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[367.06 -> 388.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Visitor Enjoyment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[428.46 -> 444.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Building Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[446.86 -> 449.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Local History",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[449.38 -> 453.5]"
+      },
+      {
+        "id": "c6",
+        "label": "China Tourist Advice",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[453.5 -> 465.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Foreign Friend Guidance",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[468.04 -> 472.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard Content",
+        "type": "Visual",
+        "original_text": "WHAT'S IN A HONG with subtopics location, history, culture, food, unbroken experience leading to Tushar",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Invitation Gesture",
+        "type": "Visual",
+        "original_text": "Teacher makes a sweeping gesture to the class",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Chalkboard Pointing",
+        "type": "Visual",
+        "original_text": "Teacher points to 'culture' on the board",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Check Marks",
+        "type": "Visual",
+        "original_text": "Teacher makes check marks next to correct subtopics",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v5",
+        "label": "Arrow Drawing",
+        "type": "Visual",
+        "original_text": "Arrow from 'unbroken experience' to 'Tushar'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's sweeping gesture invites participation."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Chalkboard shows importance of history."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Chalkboard shows importance of culture."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes 'culture' by pointing."
+      },
+      {
+        "source": "v4",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Check marks confirm correct understanding of enjoyment."
+      },
+      {
+        "source": "v5",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Arrow connects 'unbroken experience' to 'Tushar'."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding history contributes to visitor enjoyment."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding culture contributes to visitor enjoyment."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,197 @@
+{
+  "video_name": "3_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "- Understand how codon substitution, insertion, and deletion influence protein synthesis.  \n- Analyze the inheritance patterns of gene mutations in gametes versus somatic cells.  \n- Apply the principles of gene mutation to design space‑breeding strategies.",
+  "transcript": "[582.2 -> 683.9] 那我们如果说这一块是一个密码子如果仅仅是替换是不是有可能这个发生了错误变成了C那它翻译成的只有一种蛋白质这一块的一种蛋白质产生了错误那如果是增添呢诶老师说一下如果这里呃产生了很多很多很多种那这里的密码子是不是会怎么样啊它这个位置如果增添的话这里假如增加两个剪辑增加AA那么这样一个密码词实际上是会移动的相当于后面的整一个部分它的对对它的翻译都会变同样的缺失如果是不是三的倍数是不是也是这种情况啊嗯非常好所以说是增添和缺失第二第三个对于基因的影响是最大的那么同学们刚刚老师讲的基因突变何以遗传给子弹吗哦老师请一个同学来回答一下吧这位同学哦这位同学来回答一下哦可能会遗传给子弹什么样的情况可能啊在生殖期吧哦很好很好其实呢有分两种情况是不是不是如果是在配子当中是不是会根据遗传规律遗传给子代但是如果在体细胞当中呢我们一般说它是不遗传的除非它是通过植物的无性生殖那现在老师就有一个小组合作任务交给同学们如果你在太空育种过程当中发现了一个优良的性状你想采用什么样的方式使这样优良的性状稳定地移动现在给同学们五分钟的时间讨论一下我的模拟授课到此结束谢谢",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a slide with key points in Chinese, structured as a list with three main categories: 替换 (Replacement), 插入 (Insertion), and 缺失 (Deletion). Each category is highlighted in blue boxes.\n   - The blackboard on the left contains diagrams and formulas related to DNA and RNA sequences, including a comparison of nucleotide sequences and the transformation from DNA to RNA.\n\n2. **Key Knowledge Items (Content View)**:\n   - On the digital screen:\n     - 替换 (Replacement)\n     - 插入 (Insertion)\n     - 缺失 (Deletion)\n     - 问题: 基因突变对性状的影响？ (Question: What is the effect of gene mutations on traits?)\n   - On the blackboard:\n     - DNA sequence: $\\text{ACTG}$\n     - RNA sequence: $\\text{CUGA}$\n     - Transformation: $\\text{DNA} \\rightarrow \\text{RNA}$\n     - Nucleotide sequences: $\\text{AGUAGU}$, $\\text{IGAAG}$, $\\text{Caaat}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the blackboard and gestures towards the DNA and RNA sequences, likely summarizing the transformation process.\n   - The teacher points to the digital screen, emphasizing the three categories of mutations (Replacement, Insertion, Deletion) and the question about gene mutations.\n   - The teacher uses hand gestures to underline or highlight the importance of the question on the screen, possibly encouraging students to reflect on the topic.\n\n4. **Transition to Next Step**:\n   - The final slide on the digital screen includes a question about gene mutations, suggesting a prompt for further discussion or homework.\n   - There is no explicit visual element indicating specific homework or next lesson content, but the question serves as a transition point for students to consider the implications of gene mutations.",
+  "visual_narrative": "The lesson concludes with a slide displaying three key mutation types: Replacement, Insertion, and Deletion, each highlighted in blue boxes. The teacher visually reviews the content by pointing to each category in sequence, emphasizing the differences between them. The blackboard shows DNA and RNA sequences, with the teacher gesturing towards the transformation process. The final emphasis is placed on the question about gene mutations, with the teacher underlining its importance. The visual focus remains on this question, suggesting a prompt for further reflection or homework, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Codon Substitution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Codon Insertion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Codon Deletion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Gene Mutation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Effect on Traits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c6",
+        "label": "DNA Sequence ACTG",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c7",
+        "label": "RNA Sequence CUGA",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c8",
+        "label": "DNA to RNA Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Inheritance Patterns",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Gametes vs Somatic Cells",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "c11",
+        "label": "Space-Breeding Strategies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.2 -> 683.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Mutation Categories Slide",
+        "type": "Visual",
+        "original_text": "Replacement, Insertion, Deletion highlighted on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "DNA and RNA Blackboard Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams and formulas related to DNA and RNA sequences",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Reflecting on Gene Mutations",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Codon substitution is a type of gene mutation."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Codon insertion is a type of gene mutation."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Codon deletion is a type of gene mutation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Gene mutations influence traits."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide highlights codon substitution."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Slide highlights codon insertion."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Slide highlights codon deletion."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Blackboard displays the DNA sequence ACTG."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Blackboard displays the RNA sequence CUGA."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Teacher uses diagrams to explain DNA to RNA transformation."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Analyzing inheritance patterns between gametes and somatic cells."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Effect on traits includes inheritance patterns."
+      },
+      {
+        "source": "c4",
+        "target": "c11",
+        "relation": "apply_to",
+        "intent": "Applying gene mutation principles to design space-breeding strategies."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "reflects_on",
+        "intent": "Students engage with the concept of gene mutations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

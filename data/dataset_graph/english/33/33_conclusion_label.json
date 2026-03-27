@@ -1,0 +1,152 @@
+{
+  "video_name": "33_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "- Master the meaning and usage of the words “opportunity” and “grateful.”  \n- Understand the modifying and emphasizing functions of adverbs in sentences.  \n- Be able to apply the learned vocabulary to complete related practice tasks.",
+  "transcript": "[601.74 -> 737.86] 好的所以你们都完成了这个课程了对吗好的我们来看看答案吧第一个是几千万个孩子是正确的吗是的有机会得到好教育的机会所以这些词的主题是机会是的机会对吗所以这也是对的是的非常好and the secondonebegratefulwhat'sthemeaningofthisphraseyestosaythanksforsomebodyrightsoisitcorrectyesverygoodandhowaboutthisonequicklyquietquicklysothequietistoemphasizethequicklyright所以我们知道我们刚才找到这些词是对的现在请大家思考一下和尝试去分析这些词的功能为什么为什么我们使用�我可以让你爱你爱你爱那是对于你所说的对于你所thequietistomakethequicklytomodifythequicklyrightistoemphasizerightemphasizetheadverbquicklyrightsowecanconcludethatwecanmodifythenounsandsometimeswecanemphasizeright而且有时候也能表达我们的情绪和感情对不对呢是的好的所以刚才我们已经完成了两个练习对不对呢那么你还记得我们之前提到的任务吗。\n[740.1 -> 763.46] 我们的学校计划要有照片展示照片是正确的吗现在你需要写介绍照片展示照片的内容你应该使用这些技巧。\n[765.92 -> 768.22] 好的谢谢我的示范课了谢谢。\n[770.1 -> 771.44] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen, titled \"Creating.\"\n   - The slide features images of a sunflower, a plant, and a honeycomb, indicating a focus on introducing phrasal verbs related to plants.\n   - The overall layout includes a title at the top and three images arranged horizontally.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main heading on the slide is \"Creating.\"\n   - The images on the slide are labeled with phrasal verbs related to plants, though specific text labels are not clearly visible.\n   - The blackboard retains sections labeled \"Noun phrases,\" \"Adjective phrases,\" and \"Adverb phrases,\" with examples written in each.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the images on the slide, likely reviewing the phrasal verbs associated with each.\n   - She gestures towards the blackboard sections, possibly summarizing the key points discussed under each phrase type.\n   - The teacher uses hand movements to emphasize the connection between the slide content and the blackboard notes.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the slide or board.\n   - The focus remains on the current lesson content, with no transition slides or notes visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Creating,\" featuring images of a sunflower, a plant, and a honeycomb, indicating phrasal verbs related to plants. The teacher points to each image in sequence, likely reviewing the associated phrasal verbs. She gestures towards the blackboard sections labeled \"Noun phrases,\" \"Adjective phrases,\" and \"Adverb phrases,\" summarizing the key points discussed. The teacher emphasizes the connections between the slide content and the blackboard notes, reinforcing the lesson's core concepts. No visual homework or next-step instructions are present, keeping the focus on the current lesson's summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Opportunity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.74 -> 737.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Grateful",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.74 -> 737.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Adverbs",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.74 -> 737.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Emphasize Quickly",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.74 -> 763.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Modify Quickly",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.74 -> 763.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Express Emotions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.74 -> 763.46]"
+      },
+      {
+        "id": "c7",
+        "label": "Phrasal Verbs",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[740.1 -> 763.46]"
+      },
+      {
+        "id": "v1",
+        "label": "Creating Slide",
+        "type": "Visual",
+        "original_text": "The slide features images of a sunflower, a plant, and a honeycomb illustrating phrasal verbs.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Slide Title",
+        "type": "Visual",
+        "original_text": "Title labeled 'Creating'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Sections",
+        "type": "Visual",
+        "original_text": "Sections below: Noun phrases, Adjective phrases, and Adverb phrases.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Reviewing Exercises",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Analyzing Functions",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of opportunity is visualized through images related to phrasal verbs."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of being grateful is visualized through images related to phrasal verbs."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "builds_upon",
+        "intent": "The lesson focuses on phrasal verbs in relation to the images shown on the slide."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Adverb phrases are emphasized as key elements within the blackboard sections."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The concept emphasizing quickly includes modifying quickly as a use case."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Expressing emotions includes procedures for modifying adverbs."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Adverbs evolve into use cases such as emphasizing specific actions."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage in reviewing exercises related to understanding opportunity."
+      },
+      {
+        "source": "s2",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm the functionality of adverbs in relation to sentence structure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

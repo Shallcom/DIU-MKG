@@ -1,0 +1,141 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the hierarchical layers of students' cognitive structures and their significance in instructional design; be able to assess which cognitive level a student is at; apply the results of cognitive‑structure evaluation to optimize teaching strategies.",
+  "transcript": "[0.0 -> 98.32] 思维结构进行分层级评价将学生的思维结构分为前结构单点结构多点结构关联结构以及拓展抽象结构那么将学生的思维结构进行分层评价就可以区分出学生处于不同的思维层级对于我们教学设计的难易程度以及采用不同的教学模式教学方法以及教师在课堂中该如何去如何引导学生进行思考如何引导他的思维发展等方面使教师的设计的课堂能够更加贴合学生的思维结构从而提升教学效果使学生能够更好地理解本杰克的设计但是呢我们教师在进行思维结构评价的时候可以结合多种理论不能说只结合一种理论进行单一那么我们可以结合其他的评价方式使我们的评价更加的多角度更加的全面。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of an industrial site with cranes and construction equipment. This image is displayed on the screen at the beginning of the lesson.\n\n#### 2. **The Title Event**\n- **Title**: The title on the screen reads \"污染物跨境转移与环境安全\" (Cross-border Transfer of Pollutants and Environmental Safety).\n- **Teacher's Action**: The teacher is standing in front of the screen, holding papers, and appears to be presenting the content. There is no indication of underlining or additional emphasis on the title.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- **Gestures**: The teacher is holding papers and occasionally gesturing towards the screen. Specific gestures like pointing or tracing are not clearly visible in this segment.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays an image of an industrial site with the title \"污染物跨境转移与环境安全\" (Cross-border Transfer of Pollutants and Environmental Safety).\n- **Teacher Action**: The teacher stands in front of the screen, holding papers, and begins the presentation.\n\n#### Middle\n- **Visual Content**: The screen remains unchanged, showing the same industrial image and title.\n- **Teacher Action**: The teacher continues to gesture towards the screen, likely explaining the content related to the title.\n\n#### End\n- **Visual Content**: No changes in the screen content are observed.\n- **Teacher Action**: The teacher maintains a focus on the screen, possibly elaborating on the topic introduced by the title and image.\n\n### Summary\nThe lesson introduction phase centers around the visual of an industrial site, linking it to the topic of cross-border pollutant transfer and environmental safety. The teacher's actions are primarily focused on presenting and explaining the content displayed on the screen, with occasional gestures towards the visual aids.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying an industrial site image, serving as the hook to capture the students' attention. The teacher holds papers and gestures towards the screen, which prominently features the title \"污染物跨境转移与环境安全\" (Cross-border Transfer of Pollutants and Environmental Safety). Throughout the introduction, the teacher maintains focus on the visual aid, likely elaborating on the significance of the industrial image in relation to the topic. The screen remains static, emphasizing the connection between the visual stimulus and the main topic. The teacher's gestures and positioning suggest an effort to link the industrial context to broader environmental concerns, setting the stage for a discussion on how pollutants move across borders and impact safety. This visual approach helps students connect the tangible image of industry with the abstract concepts of environmental science, preparing them for deeper exploration of the subject.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cognitive Structure Hierarchy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Pre-structural",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Uni-structural",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c4",
+        "label": "Multi-structural",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Relational Structural",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c6",
+        "label": "Extended Abstract",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c7",
+        "label": "Teaching Strategy Optimization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Cross-border Pollutant Transfer",
+        "type": "Visual",
+        "original_text": "Image of an industrial site with cranes and construction equipment. Title: 'Cross-border Transfer of Pollutants and Environmental Safety'",
+        "ocr_corrected": true,
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c9",
+        "label": "Environmental Safety",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.32]"
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 98.32]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes pre-structural stage within cognitive hierarchy."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes uni-structural stage within cognitive hierarchy."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes multi-structural stage within cognitive hierarchy."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Describes relational structural stage within cognitive hierarchy."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Describes extended abstract stage within cognitive hierarchy."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Extended abstract evolves from relational structural stage."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Utilizes cognitive structure hierarchy to optimize strategies."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Image links industrial context to environmental safety."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Visual content engages students in learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

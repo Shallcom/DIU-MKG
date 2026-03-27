@@ -1,0 +1,126 @@
+{
+  "video_name": "4_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to accurately use the IMG format to describe others' behavior; consolidate the application of the IMG structure through interactive practice.",
+  "transcript": "[584.05847475 -> 757.3] 女士可以告诉我答案吧我们可以看到这篇文章的主题是什么呢是部队的文章对吗第一个是林教授的文章所以这里我们不能重新写下来所以你们很担心因为你们知道这个规则对吗太好了你们真聪明了这里还有两个例子给你们看这些是从不同的文章来的所以您可以看看这张图片第一个是中国的中国的大声的声音很棒但无论什么的结构是看着别人在做对的所以这里的IMG形式是非常有用的当你描述别人的行为你同意吗所以让我们想想当你描述别人的行为你的眼睛是你使用的唯一的东西吗只能看到别人的眼睛也能看到你的耳朵也能听到你的鼻子也能听DoYouSeeHearSmellOrFeelOnTheWayToYourSchoolOrOnYourWayHome所以U三进一组和U三进二组可以决定在上学或上学后每个学生会用I和G四来制作一句词词我可以给你另一个例子可能我在上学的时候我能嗅到你知道我们现在在京华我能嗅到牛肉的香味在空调中对吗所以只要用IMG形式创造词句吧现在让我进入你的群里面讨论一下问题吧如果你有任何问题请握手让我做好吗走吧请问您在学校或在家里聊天吗在家里聊天啊好啊那您可以看到什么吗我看到两个人在打滚球哦两个人在打滚球所以我可以看到这个故事啊。\n[759.0 -> 772.66] 我听了你的讨论谢谢你今天学到的IMG训练今天让我们发掘更有用的结构在接下来的课程里谢谢你听。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the interactive screen.\n   - The chalkboard displays the word \"adverbial\" with a circle around \"-ing form\" and the phrase \"See sth doing.\"\n   - The interactive screen shows a text excerpt with highlighted phrases and an instruction for group work.\n\n2. **Key Knowledge Items (Content View)**:\n   - Chalkboard:\n     - \"adverbial\"\n     - \"-ing form\" (circled)\n     - \"See sth doing\"\n   - Interactive Screen:\n     - Highlighted phrase: \"we saw him trying to climb\"\n     - Instruction: \"Work in groups. Discuss what you see/hear/smell on the way to school or on the way home. Each one creates one sentence using the -ing form.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"-ing form\" on the chalkboard, emphasizing its connection to \"adverbial.\"\n   - She gestures towards the interactive screen, highlighting the group work instruction and the highlighted phrase.\n   - The teacher uses hand movements to illustrate the concept of \"See sth doing\" on the board.\n\n4. **Transition to Next Step**:\n   - The interactive screen displays the group work instruction, indicating the next activity for students.\n   - No explicit homework or further reading is visible, but the instruction implies continued practice with the \"-ing form.\"",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the green chalkboard and interactive screen serving as the main summary artifacts. The chalkboard prominently displays \"adverbial\" with a circled \"-ing form\" and the phrase \"See sth doing.\" The interactive screen shows a text excerpt with the highlighted phrase \"we saw him trying to climb\" and an instruction for group work. The teacher visually reviews the knowledge points by pointing to the \"-ing form\" on the chalkboard, emphasizing its role as an adverbial. She gestures towards the interactive screen, highlighting the group work instruction and the highlighted phrase. To mark the core takeaway, the teacher uses hand movements to illustrate \"See sth doing\" on the board. The interactive screen's group work instruction serves as the visual handover to the next task, guiding students to apply the \"-ing form\" in their discussions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Adverbial",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[584.05847475 -> 757.3]"
+      },
+      {
+        "id": "c2",
+        "label": "-ing Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[584.05847475 -> 757.3]"
+      },
+      {
+        "id": "c3",
+        "label": "See sth doing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[584.05847475 -> 757.3]"
+      },
+      {
+        "id": "c4",
+        "label": "We saw him trying to climb",
+        "type": "Visual",
+        "original_text": "Text excerpt with highlighted phrase",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Group Work Instruction",
+        "type": "Visual",
+        "original_text": "Work in groups. Discuss what you see/hear/smell on the way to school or on the way home.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Create Sentence using -ing Form",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[584.05847475 -> 757.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Sensory Description",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[584.05847475 -> 757.3]"
+      },
+      {
+        "id": "c8",
+        "label": "Interactive Screen",
+        "type": "Visual",
+        "original_text": "Screen with text excerpt and group work instruction",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The concept of adverbials includes the application of the -ing form."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Procedure for recognizing adverbial use in sentences."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "See sth doing is an application of the -ing form."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The text excerpt exemplifies the group work instruction."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The creation of sentences using the -ing form is scaffolded by the group work instruction."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Sensory description supports understanding of See sth doing."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "guides_discussion",
+        "intent": "The instruction directs student engagement in group discussion."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to create sentences, encouraging active participation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

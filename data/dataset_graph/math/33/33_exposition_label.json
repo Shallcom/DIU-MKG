@@ -1,0 +1,140 @@
+{
+  "video_name": "33_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master the methods for determining the independence of probability events; be able to analyze and understand event independence through real‑world cases.",
+  "transcript": "[60.0 -> 60.26] 第二点我该如何突出我本节课教学的重点和难点呢。\n[61.4 -> 106.78] 首先我想从单元整体的视角去考虑在之前我们学习了数的相关概念并且从数的分类以及数的性质运算等方面去理解理解那么在本章呢我们学习了概率相关知识并且也从分类事件概率性质以及计算方面去研究但是对机的运算形式我们却认识比较少所以我们可以通过类域的形式引发学生去思考第二点我可以通过实际的案例分析例如在课堂中可以通过抛硬币以及摸小球等从生活实力出发去由浅入深由易到难地让学生理解机事件相互独立的可能性。\n[107.88 -> 162.2] 第三我要以学生为主体体现探究过程在变化的过程中发现数学体其中不变的奥秘逐步形成数学核心素养我们知道数学核心素养是学生在学习数学的过程与应用的过程中逐步形成具有数学基本特征的思维品质关键能力以及情感态度价值观所以教师在学生学习的过程中要加以引导而不是只是单独的讲授要把时间放给学生最后我想说教师自己有多深才能引领学生走多远教育之路漫漫我们需要且行且思所以在整个教学过程中我们要以学生为主体以教师为主导这样才能让我们数学教学才能散发出绚丽之花谢谢。\n[172.62 -> 180.0] 下面开始我的模拟上课了。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a presentation slide. The slide contains several text boxes in Chinese, with a pink box labeled \"事件的定义\" and a blue box labeled \"事件的类型\".\n- The teacher holds papers and gestures with their left hand, pointing towards the pink box, indicating a focus on the definition of events.\n- The teacher's badge displays the number \"33\".\n\n**Middle:**\n- The teacher continues to gesture, occasionally looking at the papers and then back at the screen. They emphasize the blue box labeled \"事件的类型\", suggesting a transition to discussing types of events.\n- The teacher's gestures include pointing and holding up fingers, possibly to enumerate points or steps related to the content on the screen.\n\n**End:**\n- The teacher moves to the desk, interacting with a computer. The screen updates to show a flowchart with additional boxes, including a yellow box labeled \"事件处理程序\".\n- The teacher's focus shifts to explaining the flowchart, using hand movements to trace the connections between boxes.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital presentation slide, initially displaying two primary text boxes: a pink box labeled \"事件的定义\" and a blue box labeled \"事件的类型\".\n- The slide later updates to include a flowchart with a yellow box labeled \"事件处理程序\", connected to the previous boxes.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis to the pink and blue boxes through gestures, indicating a discussion on definitions and types of events.\n- **Modifications**: The screen updates to include a flowchart, showing a progression from definitions to types and then to handling procedures.\n- **Deictic Gestures**: The teacher points to the pink box when discussing definitions and to the blue box when transitioning to types. Later, they gesture towards the yellow box in the flowchart to explain event handling.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight key points, such as pointing directly at text boxes and using open hand movements to indicate broader concepts.\n- The flowchart's yellow box is visually emphasized on the screen, aligning with the teacher's focus on event handling procedures.\n\nThis structured visual evolution shows the teacher's method of linking abstract concepts to concrete visual elements, guiding students through definitions, types, and processes systematically.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a foundational slide with two primary text boxes: a pink box labeled \"事件的定义\" and a blue box labeled \"事件的类型\". The teacher began by constructing an understanding of event definitions, using hand gestures to point directly at the pink box, emphasizing its content. As the lecture progressed, the teacher derived the concept of event types, shifting focus to the blue box and using open hand movements to illustrate broader categories. The teacher's gestures included pointing to specific text within the boxes, ensuring clarity in definitions and classifications.\n\nThen, the teacher interacted with the computer, updating the screen to reveal a flowchart that included a yellow box labeled \"事件处理程序\". This visual addition constructed a pathway from definitions to handling procedures, with arrows connecting the boxes to show logical progression. The teacher annotated the flowchart in real-time, tracing connections between the boxes to explain the sequence of event processing. Deictic gestures were resolved by pointing to the yellow box to highlight the final stage of event handling, ensuring students followed the conceptual flow.\n\nFinally, the teacher circled key elements in the flowchart, particularly the yellow box, to underscore its importance in the overall process. This visual emphasis aligned with the conclusion, reinforcing the procedural aspect of event management. The structured evolution from definitions to handling reduced cognitive load by breaking down complex concepts into sequential, visually supported steps, ensuring students could follow the narrative seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Event Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[60.0 -> 60.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Event Types",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[61.4 -> 106.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Probability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[61.4 -> 106.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Coin Toss Example",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[61.4 -> 106.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Independence of Events",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[61.4 -> 106.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Exploration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[107.88 -> 162.2]"
+      },
+      {
+        "id": "c7",
+        "label": "Mathematical Core Literacy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[107.88 -> 162.2]"
+      },
+      {
+        "id": "c8",
+        "label": "Flowchart on Event Handling",
+        "type": "Visual",
+        "original_text": "Flowchart illustrating event handling procedures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Event Handling Procedure",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[107.88 -> 162.2]"
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Gestures emphasizing elements on screen",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Event definitions lay the foundation for understanding various event types."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Classifies specific principles such as the independence of events."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "illustrates",
+        "intent": "Uses real-world examples to explain the principle of event independence."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding probability is crucial for explaining event independence."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Event independence principles evolve into detailed handling procedures."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The flowchart on the screen visualizes the event handling procedure."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "The teacher's gestures emphasize aspects of the flowchart for clarity."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Student engagement contributes to developing mathematical core literacy."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gestures prompt student cognitive engagement by guiding attention."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

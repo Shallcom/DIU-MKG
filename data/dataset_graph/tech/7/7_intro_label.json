@@ -1,0 +1,144 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the concept of resistance and its influencing factors; analyze how material properties affect resistance.",
+  "transcript": "[0.0 -> 224.0] 的作用在于让学生通过情境融入到物理学习的过程中感受我们物理学科的魅力理解物理学从古代至今的发展那我拟定的演讲题目是从生活走向物理从物理走向社会下面我将以具体的例子谈谈我对物理情境这一点的看法比如在讲高中物理在讲初中物理八年级光的反射这一节我会通过我国淮南万辟术中有关于光的反射的记载创设引入情境在淮南万辟术中有这样一条记载取大镜高悬置水盆于下则见四林意这就会引发学生的思考为什么我们可以用镜子和水观察到高墙外的林里呢那物理情境我认为应该贯穿本堂课的始和终所以在讲完光的反射具体内容后我们会让学生自行画出取大金高悬至水盆以下的光路图让学生自主探究出为什么我国古人就可以通过简单的镜子和水盆观察到高墙外的林里这是从生活走向了物理课堂那我们应该如何从物理走向社会呢在讲完光的反射后我们会演出与取大镜高悬置水盆以下相似的现代科技的例子就是军事中应用的潜望镜这就实现了从物理走向社会综上我认为在物理情境中学习物理是很重要的我们只有创设好物理情境才能让学生感受到物理学科的魅力才能让学生意识到物理学科的重要性我的极讲解极其讲演到此结束下面是我的模拟授课环节上课同学们好请坐在正式开始本节课之前我们先一起做一个小游戏老师将我们班级的学生分为了四个小组准备了四种不同材料制备的导线请四个小组的同学分别选取你们所需要的导线老师这里分别有铜丝镍铬合金丝塑料丝和铁丝我们将四种导线接入到同一种电路中来看看哪一组同学的灯泡更亮呢我们发现接入同司的这组同学他们的灯泡更亮这是为什么呢今天我们一起学习第十六章第三节电阻来寻找到灯泡明亮的制胜法宝。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a slide on the screen with the text: \"小游戏：谁的灯泡亮？\" (Translation: \"Mini Game: Whose Light Bulb is On?\").\n\n#### 2. **The Title Event**\n- The title on the screen is \"小游戏：谁的灯泡亮？\" (Mini Game: Whose Light Bulb is On?).\n- The teacher gestures towards the screen, emphasizing the title without writing anything on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher points to the screen, highlighting the title.\n- The teacher uses hand gestures to engage the audience, possibly explaining the game.\n- The teacher holds a red paddle, likely used for interaction or demonstration.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a green pointer in hand.\n- The screen displays the title \"小游戏：谁的灯泡亮？\".\n- The teacher gestures towards the screen, emphasizing the title.\n\n**Middle:**\n- The teacher continues to gesture, possibly explaining the rules or purpose of the game.\n- The teacher points to the screen again, reinforcing the title.\n- The teacher holds up a red paddle, indicating an interactive element.\n\n**End:**\n- The teacher maintains focus on the screen, ensuring students understand the game's premise.\n- The screen remains unchanged, keeping the title visible for the duration.\n\nThis structured visual analysis captures the teacher's actions and their direct links to the visual content, providing a clear narrative of the introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, holding a green pointer, and facing a screen displaying the hook object: \"小游戏：谁的灯泡亮？\" (Mini Game: Whose Light Bulb is On?). The teacher gestures towards the screen, emphasizing the title to capture the students' attention. The scene remains focused on this title throughout, with the teacher using hand gestures to engage the class, possibly outlining the game's rules or purpose. A red paddle is introduced, suggesting an interactive element to the lesson. The visual aid remains consistent, reinforcing the game's theme without transitioning to new content. This approach serves as a bridge, using a relatable game concept to introduce a topic that likely connects to principles of electricity or circuits, grounding the new knowledge in an interactive and familiar context. The teacher's gestures and the static title on the screen work together to set the stage for an engaging exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Resistance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 224.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Material Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 224.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Copper Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 224.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Nickel-Chromium Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 224.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Plastic Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 224.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Iron Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 224.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Mini Game Title",
+        "type": "Visual",
+        "original_text": "Mini Game: Whose Light Bulb is On?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Red Paddle Interaction",
+        "type": "Visual",
+        "original_text": "Teacher holds a red paddle, suggests interaction.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Groups Analyzing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explaining that resistance is influenced by material properties."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Copper wire as an example with low resistance."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Nickel-Chromium wire as an example affecting resistance."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Plastic wire as a high resistance example."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Iron wire presented in resistance context."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Title screen prompts student engagement in the game."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Red paddle used by teacher to enhance student interaction."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Copper wire material property affects resistance."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Nickel-Chromium wire material property affects resistance."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Plastic wire material property affects resistance."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Iron wire material property affects resistance."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

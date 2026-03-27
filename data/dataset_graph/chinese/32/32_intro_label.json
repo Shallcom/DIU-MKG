@@ -1,0 +1,166 @@
+{
+  "video_name": "32_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand the importance of the teacher‑student relationship in Chinese language classes; analyze how to establish a harmonious teacher‑student interaction model.",
+  "transcript": "[0.0 -> 15.84] 点支持明镜与点点栏目。\n[20.0 -> 133.24] 尊敬的各位评委老师同学们你们好我是今天的第三十二号选手我答辩的题目是与学生相处的艺术学生不太喜欢严厉的老师但是小王老师总是与学生开玩笑导致教学秩序不好对此我演讲的题目是做良师做益友其实作为一名老师如何与学生相处把握相处的度是一门艺术我觉得首先尤其是对于语文课堂来说我们要形成一种非常自由的课堂的氛围比如以我们的语文课堂为例我会鼓励学生自由地发言自由地提问但是在课堂当中我们更要注意威严做一个威有权威的教室比如当学生行为有错误的时候我们要敢于指出并且叮嘱他进行改正比如学生在教学当中出现了不文明不礼貌的行为我们要及时指出并且以严厉的态度要求学生改正因为课堂上老师的责任老师的身份就告诉我们必须要坚持利益得数人帮助学生去形成一个良好的世界观人生观价值观在课堂上我们要用文明的语言用权威的行文用坚定的语气还有专业的态度来让学生幸福但是在让学生幸福之外我认为作为一名老师更应该让学生信任在良师之外还要做一名益友比如在课堂之后我会帮助学生解答一些生活当中的问题倾听他们的烦恼给出我的建议尤其是在运动会文化节这些本身就带有松弛感的活动当中我也会与学生融为一体打成一片做学生的良师益友以上就是我的讲演。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a slide displayed on the screen titled \"阿房宫赋\" (Ou Yang Xiu). The background features a traditional Chinese painting with mist and trees, setting a cultural and historical context for the lesson.\n\n#### 2. **The Title Event**\n- The title \"阿房宫赋\" is prominently displayed on the screen. The teacher stands beside the screen, likely introducing the topic. There is no indication of underlining or additional emphasis on the title through writing.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the introduction of the topic.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely to emphasize the title and the visual elements of the slide. Specific gestures such as pointing or tracing are not clearly visible in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen introducing the \"10th National Contest of Teaching Skills for Teacher College Students\" with a focus on Chinese Language and Literature.\n- Transition to the classroom setting where the teacher stands at the front.\n\n**Middle:**\n- The teacher presents the slide titled \"阿房宫赋\" on the screen. The background image is a traditional Chinese painting.\n- The teacher gestures towards the screen, likely explaining the significance of the title and the visual context provided by the painting.\n\n**End:**\n- The teacher continues to engage with the students, maintaining focus on the slide content. No additional visual elements or board writing are introduced in this segment.\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the front of the classroom, presenting a visually engaging hook: a slide titled \"阿房宫赋\" set against a traditional Chinese painting backdrop, evoking cultural and historical themes. The teacher holds papers and gestures towards the screen, drawing attention to the title and the artistic imagery. This visual transition smoothly bridges the hook to the main topic, establishing a context that connects the literary work to its historical setting. The teacher's gestures and the prominent display of the title on the screen serve to anchor the students' focus, preparing them to explore the content's deeper cultural significance. This approach effectively links the new material to students' existing knowledge of Chinese literature and history, setting the stage for a rich exploration of the text.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Teacher-Student Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c2",
+        "label": "Harmonious Interaction Model",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Chinese Language Classes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Cultural Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c5",
+        "label": "阿房宫赋 Slide",
+        "type": "Visual",
+        "original_text": "Slide titled '阿房宫赋' with a traditional Chinese painting",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Gesturing to Screen",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Presenting Slide",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Freedom in Classroom",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c9",
+        "label": "Authority in Classroom",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c10",
+        "label": "Correcting Behaviors",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c11",
+        "label": "Trust vs Fear",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c12",
+        "label": "Teacher as Friend",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20.0 -> 133.24]"
+      },
+      {
+        "id": "c13",
+        "label": "Professional Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20.0 -> 133.24]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Teacher-student relationship evolves into a harmonious interaction model."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Discussion of teacher-student relationships in the context of Chinese language classes."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Cultural context is visualized through the '阿房宫赋' slide."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the slide content."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Student engagement is visualized in response to the slide."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Freedom in classroom contributes to harmonious teacher-student relationships."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Authority in the classroom involves correcting inappropriate behaviors."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "contrasts_with",
+        "intent": "Contrasts the approach of authority with fostering trust."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Teacher as friend builds trust rather than fear."
+      },
+      {
+        "source": "c13",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Professional attitude supports teacher-student relationship development."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

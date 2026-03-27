@@ -1,0 +1,121 @@
+{
+  "video_name": "25_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the magnetic force on a current‑carrying conductor and its direction; master the relationship between the direction of the Ampère force, the magnetic field, and the current; be able to apply this knowledge to solve practical problems.",
+  "transcript": "[88.02 -> 125.26] 同时呢在课程中体现基础性和可选择性在作业的结束后我会认真地批改在批改的同时呢针对于不同学生的作业做一个简单的评估了解他们真正薄弱的地方的情况了解他们在课程结束后有哪些地方还没有掌握清楚针对于他们共同的问题我会带领他们再次过一遍让他们切实地学到知识理解知识并在实际问题中去应用以上就是我的演说内容谢谢。\n[133.52 -> 191.3] 接下来开始我的微课展示我出道的题目是磁场对充电导线的作用力同学们下午好哪位同学愿意上来跟老师合作来做一个小实验呢好这位同学你来好再来看看吧好接下来同学们仔细观察当这位同学通电源后发现了什么现象。\n[193.14 -> 207.0] 好感谢这位同学请回好哪位同学愿意分享一下好你来对说得非常好他发现了当有电流通过的时候导体棒是不是发生运动啊那它发生运动这个方向怎么判断它的大小就与哪些因素有关系呢带着这样的问题我们来学习今天的内容首先我们一起来猜想一下安培力的方向跟哪些因素有关系呢好你来说思畅强对对跟跟赞誉强度的方向还有没有我看你有些犹豫大胆尝试。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"磁場対通電導線の作用力\" (Force of Magnetic Field on Current-Carrying Wire).\n- The slide shows a diagram of a U-shaped wire configuration.\n- The teacher holds papers and gestures while explaining, likely introducing the topic.\n\n**Middle:**\n- The teacher turns to the chalkboard and writes \"磁場対通電導線の作用力\" (Force of Magnetic Field on Current-Carrying Wire) in white chalk.\n- The digital screen remains static, displaying the same slide with the wire diagram.\n- The teacher uses hand gestures to emphasize points, possibly explaining the components of the diagram.\n\n**End:**\n- A new person enters and interacts with the teacher, possibly assisting or taking over.\n- The teacher continues to gesture, likely summarizing key points.\n- The slide on the screen changes to include additional text, possibly explaining the force calculation or principles.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide showing a U-shaped wire diagram with the title \"磁場対通電導線の作用力.\"\n- The chalkboard initially has no writing but later displays the same title written in white chalk.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the title on the chalkboard while explaining, reinforcing the topic visually.\n- **Modifications**: No erasures or modifications are observed; the focus is on adding information.\n- **Deictic Gestures**: The teacher points to the wire diagram on the screen, likely highlighting specific parts of the U-shaped configuration during the explanation.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the wire diagram on the screen.\n- The title written on the chalkboard serves as a visual reinforcement of the topic being discussed.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating a detailed understanding of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a slide titled \"磁場対通電導線の作用力\" with a diagram of a U-shaped wire configuration, serving as the primary visual anchor. The teacher began by explaining the fundamental concept, gesturing towards the wire diagram to highlight its structure. As the lecture progressed, the teacher turned to the chalkboard and constructed the title \"磁場対通電導線の作用力\" in white chalk, reinforcing the topic visually. The teacher then derived key points by pointing to specific parts of the U-shaped wire on the screen, likely tracing the path of current flow and magnetic field interaction. An assistant entered, and the teacher continued to emphasize the diagram, possibly annotating the slide with additional text to explain force calculations. Finally, the teacher circled critical elements on the screen, aligning visual highlights with the conclusion to ensure clarity. This structured approach, combining static diagrams with dynamic annotations and gestures, effectively reduced cognitive load by providing clear, step-by-step visual guidance throughout the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Magnetic Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[133.52 -> 191.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Current-Carrying Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[133.52 -> 191.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Ampère Force Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[193.14 -> 207.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Magnetic Field",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[193.14 -> 207.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Force Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[193.14 -> 207.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Visual Anchor Slide",
+        "type": "Visual",
+        "original_text": "Slide showing U-shaped wire diagram titled 'Force of Magnetic Field on Current-Carrying Wire'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Chalkboard Writing",
+        "type": "Visual",
+        "original_text": "Title 'Force of Magnetic Field on Current-Carrying Wire' written on chalkboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Observing Experiment",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[133.52 -> 191.3]"
+      },
+      {
+        "id": "s2",
+        "label": "Attempting Force Prediction",
+        "type": "Student_State",
+        "cognitive_state": "Questioning",
+        "timestamp": "[193.14 -> 207.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how magnetic force acts upon a current-carrying wire."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Ampère force direction is determined by the magnetic field."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Force calculation procedure shows relevance of Ampère force direction."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the U-shaped wire configuration explained."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Chalkboard writing reinforces the topic for visual support."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Student engagement with the slide during experiment observations."
+      },
+      {
+        "source": "s2",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students question the direction of force during prediction attempts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

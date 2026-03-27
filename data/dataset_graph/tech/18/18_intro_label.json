@@ -1,0 +1,120 @@
+{
+  "video_name": "18_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the nature of science and its significance in information technology; inspire students’ interest in learning information technology; develop students’ analytical and inquiry abilities.",
+  "transcript": "[0.0 -> 83.36] 对科学本质的探究中了解科学的奥秘提高学生对科学的学习兴趣俗话说人不能忘本树不能无根对于科学来说其本质就像做人之本树之根一样科学发展像是人们在成长过程中的不断学习精简的过程像树在成长的过程中不断变得枝繁叶茂的过程但是若人忘了本树没了根即使发展得再好它也不能立足于世所以我认为科学的本质是学生学习的重要内容不能忽略了本质的学习以上就是我对即兴演讲题目的看法下面开始我的模拟授课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen titled \"能源的开发与利用\" (Energy Development and Utilization). The slide includes a green and white design with icons related to energy.\n\n#### 2. **The Title Event**\n- The title \"能源的开发与利用\" is prominently displayed on the screen. The teacher does not physically write it but stands beside the screen, ensuring it is visible to the students.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the title and content displayed.\n- The teacher moves slightly, maintaining eye contact with the students, ensuring engagement.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The classroom setup includes a green chalkboard and a digital screen displaying the title slide.\n- The teacher stands at the front, holding papers, and begins addressing the class.\n\n**Middle:**\n- The teacher gestures towards the screen, likely highlighting the title \"能源的开发与利用.\"\n- Students are seated, facing the teacher and the screen, indicating the start of the lesson.\n\n**End:**\n- The teacher continues to stand by the screen, maintaining focus on the introduction content.\n- No additional visual elements or changes occur on the board or screen during this segment.\n\nThis structured visual analysis captures the introduction phase, focusing on the teacher's actions and the displayed content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, holding papers, and facing a digital screen displaying the title slide \"能源的开发与利用\" (Energy Development and Utilization). The slide features a green and white design with energy-related icons, serving as the initial visual stimulus to capture the students' attention. The teacher gestures towards the screen, emphasizing the title and setting the stage for the lesson. The classroom setup includes a green chalkboard and a digital display, creating a dual visual environment. As the teacher addresses the class, they maintain eye contact and occasionally point to the screen, ensuring the title remains the focal point. This visual transition from the hook slide to the main topic establishes a clear connection, preparing students for the exploration of energy concepts. The introduction effectively links the new topic to the students' existing knowledge by highlighting the importance of energy development, setting the foundation for further learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Nature of Science",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 83.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Significance in IT",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 83.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Energy Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 83.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Inquiry Abilities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 83.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Analytical Abilities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 83.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Energy Development Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Energy Development and Utilization' with icons related to energy.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher holds papers and gestures towards the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Classroom Setup",
+        "type": "Visual",
+        "original_text": "Classroom with green chalkboard and digital screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Nature of Science builds upon its significance in Information Technology."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the concept of Energy Development."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Inquiry abilities build upon analytical abilities."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher’s gestures emphasize the content to keep students engaged."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Classroom setup prompts students to focus and think."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Development of inquiry abilities builds upon understanding the significance of science in IT."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Nature of Science includes the development of analytical abilities."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

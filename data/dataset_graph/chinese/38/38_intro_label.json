@@ -1,0 +1,119 @@
+{
+  "video_name": "38_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand the different social perceptions of the teaching profession and their historical‑cultural backgrounds; analyze the differences in how traditional viewpoints and modern educational concepts position the teacher’s role; develop a comprehensive and scientific understanding of the teaching profession.",
+  "transcript": "[0.0 -> 32.88] 并你怎样看待这个说法。\n[33.92 -> 100.66] 首先我认为我们要辩证地看待这类说法想必大家都有印象是以前提出的甚至还有一种说法教师是辛勤的流着泪的红主妇首先这类说法不够全面有失偏颇教师是人类灵魂的工程师过分侧重教师而我们当今新时代强调的是五欲并举德欲为重但还有美智美德智体美劳而教师是先秦的园丁侧重的是教学方法他强调的是教师像园丁一样为学生们这些祖国未来的花朵们浇水施肥强调的是教师单向的输出是一种灌输浇灌这两类说法都忽视了教师其实是引导唤醒学生的。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a presentation slide displayed on the screen. The slide contains text in Chinese: \"以工匠精神铸就护理品质\" (Crafting Nursing Quality with a Craftsman Spirit). The slide also features a decorative design with green vines and circles.\n\n#### 2. **The Title Event**\n- The title on the screen is \"以工匠精神铸就护理品质\" (Crafting Nursing Quality with a Craftsman Spirit). The teacher does not physically write this title; it is already displayed on the screen. The teacher stands in front of the screen, holding papers, and begins the lesson.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking. She occasionally points to the screen, likely emphasizing the title or content displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The classroom is set up with a green chalkboard and a digital screen displaying the title slide.\n- The teacher enters the frame, holding papers, and stands in front of the screen.\n- The screen shows the title \"以工匠精神铸就护理品质\" with decorative elements.\n\n**Middle:**\n- The teacher begins speaking, using hand gestures to emphasize points.\n- She occasionally points to the screen, directing attention to the title.\n- Students are seated, facing the teacher and the screen, appearing attentive.\n\n**End:**\n- The teacher continues to engage with the class, maintaining focus on the content displayed.\n- No additional visual elements or changes occur on the board or screen during this segment.\n\n### Summary\nThe introduction phase centers around the title slide, \"以工匠精神铸就护理品质,\" which sets the theme for the lesson. The teacher uses hand gestures and points to the screen to engage students, though no specific learning objectives or additional content is introduced visually in this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a digital screen displaying the title slide, \"以工匠精神铸就护理品质,\" adorned with green decorative elements. The teacher, holding papers, initiates the lesson by engaging with the students, using hand gestures to emphasize the content on the screen. The visual focus remains on the title slide throughout, serving as the hook to capture the students' attention. The teacher occasionally points to the screen, directing the students' focus to the central theme. This visual setup bridges the hook to the main topic by consistently highlighting the importance of craftsmanship in nursing. The introduction effectively links the concept of craftsmanship to the students' existing understanding of nursing quality, setting the stage for deeper exploration of how meticulous attention and dedication enhance professional practice. The consistent visual emphasis on the title slide ensures that the foundational theme is clearly established for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept_1",
+        "label": "Teacher's Role in Society",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 100.66]"
+      },
+      {
+        "id": "concept_2",
+        "label": "Craftsmanship Spirit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 100.66]"
+      },
+      {
+        "id": "concept_3",
+        "label": "Nursing Quality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 100.66]"
+      },
+      {
+        "id": "concept_4",
+        "label": "Historical Social Perceptions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 32.88]"
+      },
+      {
+        "id": "concept_5",
+        "label": "Modern Educational Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[33.92 -> 100.66]"
+      },
+      {
+        "id": "concept_6",
+        "label": "Stereotypical Teacher View",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 32.88]"
+      },
+      {
+        "id": "visual_1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Crafting Nursing Quality with a Craftsman Spirit",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_state_1",
+        "label": "Attentive Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept_2",
+        "target": "concept_3",
+        "relation": "includes",
+        "intent": "Craftsmanship spirit is essential for nursing quality."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_4",
+        "relation": "evolves_from",
+        "intent": "The role of teachers historically perceived in society influences modern views."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_5",
+        "relation": "builds_upon",
+        "intent": "Modern educational concepts build upon traditional views of the teacher’s role."
+      },
+      {
+        "source": "concept_6",
+        "target": "concept_1",
+        "relation": "evolves_from",
+        "intent": "Traditional stereotypes evolve into modern perceptions of the teacher’s societal role."
+      },
+      {
+        "source": "visual_1",
+        "target": "concept_2",
+        "relation": "emphasizes",
+        "intent": "The title slide emphasizes the theme of craftsmanship spirit."
+      },
+      {
+        "source": "concept_4",
+        "target": "concept_6",
+        "relation": "builds_upon",
+        "intent": "Historical perception builds upon stereotypical viewpoints of teachers."
+      },
+      {
+        "source": "concept_5",
+        "target": "concept_1",
+        "relation": "builds_upon",
+        "intent": "Modern educational principles support a new understanding of the teaching profession."
+      },
+      {
+        "source": "visual_1",
+        "target": "student_state_1",
+        "relation": "visualizes",
+        "intent": "The slide serves as a visual anchor to maintain student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

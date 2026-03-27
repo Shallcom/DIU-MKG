@@ -1,0 +1,97 @@
+{
+  "video_name": "12_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Describe the reasons for selecting peas for genetic research; analyze the inheritance patterns of different pea traits.",
+  "transcript": "[0.0 -> 158.22] 对于这个问题我有以下见解这个问题呢我们运用到的是演示法它的教学原则是启发式教学原则而对于这个问题我有以下几个方面的见解首先首先我们为要创设情境打造生活化的课堂联系生活实际匹配与课文相适应的图片激发学生的求知欲和好奇心建立新知识与生活的联系起可以打造活动化的课堂引导学生在做中学学中思思中建利用图片建构多样化的活动流程利用学生观察提问实验设计方案实施以及对结果的交流和讨论等引导学生步步探究层层增入突破教学重难点提高学生分析和解决问题的能力第三可以打造开放式的课堂通过展示实验活动有关的图片激发学生的思考和探索欲提升全面提升学习效果和学习兴趣还可以布置实践性的作业这里就不仅仅是进行实验了虽然说实践是自然科学的基础但是我们要布置严谨的实践性的作业通过概括与本行知识有关的相适应的图片实例提升学生严谨的科学思维和科学态度从而帮助学生培养科学精神最后我想说教育的本质是一棵树吹动另一个树一朵云凝豆另一个云一个灵魂唤醒另外一个灵魂而我愿意做那棵树那个云和那样一个灵魂用我全部的热情和智慧去唤醒他们的潜能去点燃他们心中的火焰陪伴他们走过青春最美好的旅程让我们携手并肩共同为实现中华民族伟大的复兴梦培养出更多德才兼备的建设者和接班人我的集体演讲到此结束下面欢迎进入我的模拟课堂\n[163.46 -> 179.86] 上课同学们好在上一个片段中我们学到了为什么要选用豌豆来作为实验材料首先豌豆是两性花可以进行自花传粉\n[180.86 -> 190.16] 其次它还有一与区分的性状比如在后代有高静矮静圆立和皱立等等",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual content on the screen is a slide with text and images related to biology, specifically about the life cycle of a butterfly. The slide includes diagrams of a butterfly and text in Japanese.\n\n#### 2. **The Title Event**\n- The title on the screen reads \"今日の授業の目標\" (Today's Lesson Goals). The teacher does not physically write this; it appears on the screen as part of the presentation.\n\n#### 3. **The Objectives**\n- The slide lists several bullet points in Japanese, which are likely the learning objectives. These are not explicitly detailed in the video but are visible as text on the screen.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, occasionally pointing towards the screen to emphasize the content displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, with a slide displayed on the screen showing diagrams of a butterfly and related text.\n- The teacher interacts with the screen, possibly transitioning slides or highlighting content.\n\n**Middle:**\n- The screen changes to display the title \"今日の授業の目標\" (Today's Lesson Goals).\n- The teacher holds papers and gestures, likely explaining the objectives shown on the screen.\n- She points towards the screen, emphasizing the text and diagrams related to the lesson goals.\n\n**End:**\n- The teacher continues to gesture and speak, maintaining focus on the content displayed on the screen.\n- The classroom setting remains consistent, with students seated and facing the teacher.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to specific visual content on the screen.",
+  "visual_narrative": "Initially, the screen presents a slide with diagrams of a butterfly and related text, serving as the hook to engage students in the topic of life cycles. To bridge to the main topic, the teacher gestures with papers in hand, occasionally pointing towards the screen to emphasize the visual content. The slide then transitions to display the title \"今日の授業の目標\" (Today's Lesson Goals), establishing the lesson's focus. Throughout this introduction, the teacher's gestures and interactions with the screen help connect the visual elements to the lesson objectives, setting the stage for the exploration of biological concepts. This structured approach links the initial visual stimulus to the lesson goals, facilitating a smooth transition into the core content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Pea Genetic Research",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[163.46 -> 179.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Self-Pollination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[163.46 -> 179.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Trait Inheritance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[163.46 -> 179.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Distinct Traits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[180.86 -> 190.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Butterfly Diagram Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying butterfly life cycle diagrams and Japanese text.",
+        "ocr_corrected": false,
+        "timestamp": "[0.0 -> 158.22]"
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Goals Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Today's Lesson Goals' in Japanese.",
+        "ocr_corrected": true,
+        "timestamp": "[158.22 -> 179.86]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[163.46 -> 190.16]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Introduces students to genetic research through biological imagery."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Highlights the lesson's focus on pea self-pollination."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Presents research as basis for understanding inheritance patterns."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains specific traits that exhibit inheritance patterns."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students with inquiry about genetic research."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

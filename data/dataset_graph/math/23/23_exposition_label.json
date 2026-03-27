@@ -1,0 +1,113 @@
+{
+  "video_name": "23_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand frequency stability and its application in probability research; master the relationship between frequency and probability.",
+  "transcript": "[180.0 -> 228.54] 上课同学们好在上课同学们好通过前面的学习我们学习了古典概型来计算一些概率它是研究样本点等可能的这些事件那对于一些压门点它不是等可能的或者说是对于一些难以判断这样的压门点是不是等可能的这样事件我们应该用什么样的方法来研究它的概率呢比如说我们要投掷一个粉笔我们怎样研究投掷粉笔这样的事件的概率。\n[229.76 -> 257.52] 同学们似乎就有些疑惑了那么我们今天就通过一起探究来探究新的方法来研究这样的概率事件研究我们今天所要学的十点三点一频率感稳定性。\n[262.22 -> 292.4] 这是我们研究新方法的开始我们再一起来回顾一下这样的一个过程我们在初中知道概率越大它代表事件发生的可能性就越大也表示了事件发生的频率也越大相反的越小发生的可能性就是越小频率一般也越小的我们在初中是利用频率来估计概率的那么老师就想请问同学们了。\n[293.96 -> 300.0] 在重复试验中概率的大小是否决定了频率的大小呢那么概率与频率到底是什么样的关系呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"10.3.1 频率的稳定性\" (Stability of Frequency).\n- The teacher interacts with the digital screen, which shows a web browser with a document open.\n- The teacher gestures towards the screen, indicating the topic of frequency stability.\n\n**Middle:**\n- The teacher moves to the chalkboard and writes \"10.3.1 频率的稳定性\" (Stability of Frequency) in white chalk.\n- The digital screen transitions to a slide with two bullet points:\n  - \"样本量尽可能大的试验\" (Experiments with as large a sample size as possible)\n  - \"古典概型公式计算概率\" (Calculating probability using classical probability formulas)\n- The teacher points to the text on the screen, emphasizing the importance of large sample sizes and classical probability formulas.\n\n**End:**\n- The teacher writes additional content on the chalkboard, reinforcing the topic.\n- The digital screen updates to show a flowchart:\n  - \"样本量越大\" (The larger the sample size)\n  - \"发生某事件的可能性越稳定\" (The probability of an event occurring becomes more stable)\n  - \"用频率去估计概率\" (Estimate probability using frequency)\n- The teacher gestures towards the flowchart, explaining the relationship between sample size and probability stability.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the flowchart about frequency stability and probability estimation.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"10.3.1 频率的稳定性\" on the chalkboard while explaining the concept.\n- **Modifications**: The teacher updates the digital screen to include the flowchart, visually connecting sample size to probability stability.\n- **Deictic Gestures**: The teacher points to specific parts of the flowchart, such as \"样本量越大\" and \"发生某事件的可能性越稳定,\" while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses the chalkboard to write key terms, ensuring they are visible.\n- The digital screen uses bullet points and a flowchart to organize information, with arrows indicating logical flow.\n- The teacher emphasizes points by pointing directly at them on the screen, reinforcing the connection between sample size and probability estimation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"10.3.1 频率的稳定性\" (Stability of Frequency), establishing the core topic. The teacher began by interacting with the screen, which showed a document in a web browser, setting the stage for the lecture. The teacher then moved to the chalkboard and constructed the heading \"10.3.1 频率的稳定性\" in white chalk, visually anchoring the lesson.\n\nAs the lecture progressed, the digital screen transitioned to a slide with two key bullet points: \"样本量尽可能大的试验\" (Experiments with as large a sample size as possible) and \"古典概型公式计算概率\" (Calculating probability using classical probability formulas). The teacher pointed to these points, emphasizing the necessity of large sample sizes and classical formulas. The teacher's gestures directed attention to each bullet, reinforcing their importance.\n\nThe teacher then derived a flowchart on the digital screen, constructing a visual pathway: \"样本量越大\" (The larger the sample size) leading to \"发生某事件的可能性越稳定\" (The probability of an event occurring becomes more stable), and finally to \"用频率去估计概率\" (Estimate probability using frequency). The teacher traced these connections, illustrating the logical flow and stability in probability estimation.\n\nThroughout, the teacher used the chalkboard to annotate key terms, reducing cognitive load by providing a static reference. The digital screen's flowchart visually summarized the dynamic process, with arrows guiding the viewer through the concept. The teacher's emphasis on specific points, such as circling \"样本量越大\" and \"发生某事件的可能性越稳定,\" highlighted critical relationships, ensuring clarity and retention of the lesson's core message.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Frequency Stability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[180.0 -> 300.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Sample Size",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[229.76 -> 292.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Classical Probability",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[180.0 -> 300.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Probability Estimation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[293.96 -> 300.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Frequency Stability Slide",
+        "type": "Visual",
+        "original_text": "Slide Title: Stability of Frequency",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points on Slide",
+        "type": "Visual",
+        "original_text": "Bullet points: Large Sample Size, Classical Probability Formulas",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Flowchart on Screen",
+        "type": "Visual",
+        "original_text": "Flowchart: Larger Sample Size -> Stable Probability -> Frequency Estimate",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visually introduces the principle of frequency stability."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Understanding frequency stability involves consideration of sample size."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the importance of a large sample size."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The visual summarizes the use of classical probability formulas."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The flowchart helps scaffold the process of using frequency to estimate probability."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The flowchart builds upon the concept of probability estimation."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the principle of frequency stability."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

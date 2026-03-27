@@ -1,0 +1,160 @@
+{
+  "video_name": "40_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Be able to analyze, through examples, how variations in force and time affect an object’s motion.",
+  "transcript": "[687.580167 -> 746.48] 好那有没有同学得到了这个问题的答案可以举手示意一下好那可能稍微有一些困难没关系我们可以和动能定理一样的分析我们当时动能定理分析的是F乘上L这个力做的是正拱它与运动方向相同做的是正拱所以说F乘上L的那个乘积是一个正值那这里同样呢我们这个F还是一个动力它承认德尔塔T的乘积是一个正值那对应就是右边这个式子的答案是一个正值也就是说我们的MV一撇要大于MV那M相同也就证明了V一撇要大于V那这也就解释了为什么物体在F的波动下会加速我们是通过动量定理去解释的那我们再反过来回来解释一下我们跳高运动员会下方为什么要放保护垫再观察一下我们跳钩运动员和保护垫所相互作用的一个过程我们可以发现保护垫发生了形变这个形变的时间是比较长的那相应我们的地面比较硬那它形变的过程就会比较短时间也就小那我们保护垫的时间更大一些而我们右边从同样高度落到地面的这个动量的差值是相同的因为它的重力势能转化为动能的直视相同的那右边相同左边德尔塔T更大那么F就一定较小好那请同学们回去再思考一下这样的相关过程并且小组合作寻找一下我们利用动量定理增大F或者减小F的一些实例那本节课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard displays the heading \"1.2 動量定理\" (Momentum Theorem) and several equations:\n     - $F\\Delta t = mV - mV'$\n     - $F\\Delta t = mV + mV'$\n     - $I$ (Impulse)\n     - $W$ (Work)\n   - The presentation slide shows the formula $F\\Delta t = mV' - mV$ and the phrase \"Δtが大きい, Fは小さい\" (When Δt is large, F is small).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main formulas:\n     - $F\\Delta t = mV - mV'$\n     - $F\\Delta t = mV' - mV$\n     - $I$ (Impulse)\n     - $W$ (Work)\n   - Key phrase: \"Δtが大きい, Fは小さい\" (When Δt is large, F is small).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $F\\Delta t = mV' - mV$ on the presentation slide, emphasizing the relationship between force, time, and velocity change.\n   - The teacher gestures towards the blackboard, highlighting the equations $F\\Delta t = mV - mV'$ and $F\\Delta t = mV + mV'$, likely contrasting different scenarios or conditions.\n   - The teacher uses hand movements to indicate the concept of impulse ($I$) and work ($W$), possibly explaining their relevance to the momentum theorem.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the momentum theorem and its implications, with no transition to next steps observed.",
+  "visual_narrative": "The lesson concludes with a dual summary on both the blackboard and presentation slide, centered on the momentum theorem. The teacher visually reviews the content by pointing to the formula $F\\Delta t = mV' - mV$ on the slide, emphasizing the relationship between time and force. He gestures towards the blackboard, highlighting the contrasting equations $F\\Delta t = mV - mV'$ and $F\\Delta t = mV + mV'$, likely to illustrate different scenarios. The core takeaway, \"Δtが大きい, Fは小さい\" (When Δt is large, F is small), is underscored through deliberate pointing. No visual handover to homework or next steps is present, keeping the focus on consolidating the momentum theorem concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Momentum Theorem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Impulse",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c3",
+        "label": "Work",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c4",
+        "label": "Force-Time Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c5",
+        "label": "Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Δt (Time Interval)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Velocity Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c8",
+        "label": "FΔt = mV' - mV",
+        "type": "Visual",
+        "original_text": "Impulse equation emphasizing final and initial momentum difference",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "FΔt = mV - mV'",
+        "type": "Visual",
+        "original_text": "Alternative impulse equation indicating force and time relation",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Soft Landing Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "c11",
+        "label": "Safety Padding",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[687.58 -> 746.48]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[687.58 -> 746.48]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Impulse is part of the broader concept of momentum theorem."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Force-time relationship involves understanding Δt."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Force is a component of the force-time relationship."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Variation in Δt affects force magnitude."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Force ultimately influences velocity change."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The equation illustrates the momentum theorem."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Alternative form of showing momentum theorem impact."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Soft landing principle employs safety padding procedures."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Understanding soft landings requires applying the force-time relationship."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The lesson on momentum theorem engages students in active reflection."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

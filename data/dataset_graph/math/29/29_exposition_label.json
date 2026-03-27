@@ -1,0 +1,165 @@
+{
+  "video_name": "29_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand complex numbers and their operational rules; master using the discriminant Δ to determine the roots of a quadratic equation.",
+  "transcript": "[155.48 -> 208.78] 好同学们在上课之前我们先一起来回忆一下诶如何求解二元一次方程呢好请请这位同学进来回答一下啊对对很好请坐看来同学们同学们都掌握得非常好那我们可以通过图像法或者是公式法来对一元二次方程进行判别求解那同学们我们如何用判别式德尔塔来求解这个方程呢那在运用德尔塔的时候我们有哪些情况呢。\n[210.42 -> 212.3] 好请这位同学你来回答一下。\n[213.52 -> 256.42] 就是这个比方减四以C它可能大于零跟等于零也可能小于零对对那它大于零的时候是方程有两个不相同的几对很好等于零是两个相同的几对对那小于零呢方程没有几对对很好清楚那同学们这节课我们能否通过我们能否来判这节课我们来判断一下当最后一种情况得它小于零方程没有几的时候我们能否通过扩充这种方法来对此进行一个探究十方成组得到一个新的解脑这就是我们今天要学习的内容复述的概念。\n[273.36 -> 275.48] 好同学们要探究负数的概念我们先从一种特殊的情况来直观感受一下请大家思考一下这个问题我们如何求解X平方加一这个方程呢好请这位同学给大家回答一下我是把一移到右边去就是X方等于负一所以解出来X平方等于把X等于正负根号分那知识很好请坐那我们再来想一下X平方减二这个方程我们是如何求解的呢好这位同学你来说一下也是把二移过去就是X的平方等于二然后我们解出来X的正负根号二很好请坐那其实这种X等于正负根号二是一个对那在学习无理数之前我们学习了有理数那对有理数进行扩充我们就得到了这个方程的习那刚才这位同学说X等于正负根号负一X等于正负根号负一有负一有正负根号负一那X但是X是一个什么数呢你们说X平方加一移过去X平方等于负一这个时候X平方是大于零的我们能对它进行开根号吗对那所以你刚才的回答是但是这位同学勇于回答起来勇于起来回答所以大家掌声送给他好那我们能否通过类比这个问题来得到X平方加一这个方程的求解呢同学们大家猜一猜是否是可以的呢对很好可以由此我们就可以通过这种方法来类比到引入新的对史数集进行扩充来引入新的办法来求解这个方程好接下来我们再来看一下那按照这种思想呢我们我国伟大的欧拉就引入了一个新的数字叫做I使得X平方X等于I是方程X平方加一等于零的解那这个时候使得I平方等于负一那所以刚才X平方加一等于零然后我们可以怎么做一项对不对好X平方就等于负一那这个时候我们说不能对X进行开根号但是这个我们就这里我们引入了有新的符号叫做II平方等于负一所以这个时候X平方X就可以等于对很好那这个问题我们就得到解决接下来你再来看一下那数I和实数计之间仍然能像实数计那样进行加法乘法运算吗那它对应的交换率分配率和结合率是否是成立的呢大家一起猜想一下是否是成立的那我们怎样对它进行验证呢接下来我们来看一下大家一起看到教材的第六十九页依照上述设想把实数A和实数B与I相乘记作BBI结果把实数A与B相加结果记作A加B那注意所有实数I都可以写成多少BA加BI的形式对不对那这个时候我们就可以把负数定义为A加上BI这个时候要注意A和B是属于多少实数的符号那由此我们就把形如A加BI这种数就叫做负数那其中I是什么虚数单位BA是虚数I叫做虚数单位其中呢A加BI中的A是实步B是虚步对了看来大家都跟随老师老师的思路来解决了这个问题那接下来我们再来思考一下当A等于零B等于零A不等于零B不等于零的时候这些情况我们又把它定义为什么呢好我们一起再看一下教材一起来看一下教材的六十九页接着在实数中在对于负数A加BI当A加BA等于零等于B时它是什么数A加BI是什么数十数对不对它是零它是十数零那当B等于零的时候它是它是一个什么数当B等于零也就是说这个时候虚不为零只是一就剩下实数A了对不对所以这个时候是实数。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide with Chinese text. The slide reads: \"如何求解一元二次方程?\" (How to solve a quadratic equation?).\n- The teacher holds papers and gestures with her hands, likely introducing the topic. She points to the slide, emphasizing the question about solving quadratic equations.\n\n**Middle:**\n- The teacher continues to explain, and the slide updates to include sub-questions and bullet points:\n  - \"判别式，公式法\" (Discriminant, formula method)\n  - \"用判别式求解时，有哪些情况？\" (What are the cases when solving with the discriminant?)\n  - The bullet points detail the discriminant cases: \n    - $\\Delta > 0$ 有两个不相等的实根 (Two distinct real roots)\n    - $\\Delta = 0$ 有两个相等的实根 (Two equal real roots)\n    - $\\Delta < 0$ 无实数根 (No real roots)\n- The teacher points to each bullet point, explaining the conditions for the discriminant.\n\n**End:**\n- The teacher turns to the chalkboard and writes \"7.1 复数的概念\" (7.1 Concept of Complex Numbers).\n- The digital screen changes to display \"7.1 复数的概念\" with additional text below.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide, initially displaying the question about solving quadratic equations. It evolves to include methods and discriminant cases.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds explanations to the slide content, detailing the discriminant cases. She writes \"7.1 复数的概念\" on the chalkboard.\n   - **Modifications**: The teacher updates the slide content to include discriminant conditions as she explains.\n   - **Deictic Gestures**: She points to each discriminant case on the slide while explaining, ensuring students follow the specific conditions.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key points on the slide, such as the discriminant conditions.\n   - Writing \"7.1 复数的概念\" on the chalkboard signals a transition to a new topic, highlighting its importance.\n\nThis structured visual evolution helps students connect the discriminant method to solving quadratic equations and introduces the concept of complex numbers.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the question \"如何求解一元二次方程?\" (How to solve a quadratic equation?), establishing the primary visual anchor for the lesson. The teacher began by introducing the topic, gesturing towards the slide to emphasize the question. As the lecture progressed, the teacher constructed the concept of solving quadratic equations by updating the slide to include \"判别式，公式法\" (Discriminant, formula method) and the sub-question about discriminant cases. She derived the discriminant conditions, pointing to each bullet point: $\\Delta > 0$ 有两个不相等的实根 (Two distinct real roots), $\\Delta = 0$ 有两个相等的实根 (Two equal real roots), and $\\Delta < 0$ 无实数根 (No real roots), tracing these conditions to illustrate their implications. \n\nTo resolve deixis, the teacher specifically highlighted each discriminant case, ensuring students understood the scenarios. She then transitioned to the chalkboard, writing \"7.1 复数的概念\" (7.1 Concept of Complex Numbers), signaling a shift in focus. The digital screen updated accordingly, reinforcing the new topic. Throughout, the teacher used gestures and board annotations to emphasize key points, such as circling important formulas and underlining new concepts, which aligned with the lesson's conclusion. \n\nThis structured visual evolution, combined with strategic highlighting and clear transitions, reduced cognitive load by providing a coherent narrative from quadratic equations to complex numbers, ensuring students could follow the progression seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Quadratic Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[155.48 -> 208.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Discriminant Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[155.48 -> 208.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Distinct Real Roots",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[213.52 -> 256.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Equal Real Roots",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[213.52 -> 256.42]"
+      },
+      {
+        "id": "c5",
+        "label": "No Real Roots",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[213.52 -> 256.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Concept of Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[273.36 -> 275.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Imaginary Unit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[273.36 -> 275.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Operations on Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[273.36 -> 275.48]"
+      },
+      {
+        "id": "v1",
+        "label": "Quadratic Equation Slide",
+        "type": "Visual",
+        "original_text": "How to solve a quadratic equation?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Discriminant Conditions Slide",
+        "type": "Visual",
+        "original_text": "Discriminant: Δ > 0, Δ = 0, Δ < 0",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Complex Numbers Slide",
+        "type": "Visual",
+        "original_text": "7.1 Concept of Complex Numbers",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher introduces and visualizes quadratic equations."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher explains and visualizes discriminant conditions."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Includes distinct real roots as a condition of the discriminant."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Includes equal real roots as a condition of the discriminant."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Includes no real roots as a condition of the discriminant."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Teacher introduces and visualizes the concept of complex numbers."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Imaginary unit is a fundamental part of complex numbers."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Building on the concept of complex numbers with operational rules."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher guides students to consider complex numbers in problem-solving."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students prompted to think about discriminant conditions."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Use discriminant method to solve quadratic equations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

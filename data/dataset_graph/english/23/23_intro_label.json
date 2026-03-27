@@ -1,0 +1,159 @@
+{
+  "video_name": "23_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Master the basic methods for designing personalized learning plans.",
+  "transcript": "[0.0 -> 186.32] 并我们的课程从世界各地不仅仅限于中国的学生们的时间也很短暂所以我们需要更好地使用网络课程来鼓励学生们学习我的课程今天将分为两个部分第一个部分是我们学生们应该帮助学生们学习这些网络课程是根据他们的英语等级和情况来选择的因为不同的学生有不同的英语等级的课程这意味着这些网络课程可能会有不同的影响给不同的学生的影响所以我们需要根据不同学生的英语等级去创造学生的学习效果更好地学会更好地学为更因为阿特克拉斯搜那明斯特处斯阿斯特康特斯威尔齐齐英英巴森诶萨巴瑞一波天多阿斯丘巴伦比斯的奥迈科斯安拉奥你的学习能更好地受教育的那就是我说的话的结尾了现在我要开始我的课程了好大家好各位大家现在有没有觉得有点累了还是没有呢巴黎奥运会刚刚结束了对吗你有看过吗是的是的直到中午因为我是一个很喜欢的体操员那么你最喜欢的体操是什么呢不单是奥运会上的体操吧。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen: \"Living Legends\" under the section \"Unit 3: Sports and Fitness.\" The slide also includes the subtitle \"Reading and Thinking.\"\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"Living Legends.\" The teacher stands in front of the screen, presenting the slide. There is no indication of the teacher physically writing or underlining the title; it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the content on the screen.\n- The teacher's body language suggests engagement with the audience, possibly using hand movements to emphasize the importance of the topic.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the screen displaying the title slide: \"Unit 3: Sports and Fitness\" and \"Living Legends\" with \"Reading and Thinking\" beneath it.\n- The teacher holds papers, indicating preparation to discuss or present content related to the slide.\n\n**Middle:**\n- The teacher maintains a position facing the class, occasionally looking at the papers, suggesting they are reading or referring to notes.\n- The screen remains static, showing the same title slide throughout this phase.\n\n**End:**\n- The teacher continues to engage with the class, possibly concluding the introduction phase. No changes occur on the screen, maintaining focus on the \"Living Legends\" title.\n\n### Summary\nThe introduction phase centers around the title slide \"Living Legends\" under \"Unit 3: Sports and Fitness.\" The teacher uses papers to guide their presentation, maintaining focus on the screen content without additional visual aids or changes. The static nature of the slide emphasizes the topic introduction, with the teacher's gestures supporting verbal engagement.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, presenting the hook object: the title slide on the screen displaying \"Living Legends\" under \"Unit 3: Sports and Fitness,\" with \"Reading and Thinking\" as the subtitle. The teacher holds papers, indicating prepared notes for the session. Throughout the introduction, the teacher engages with the class, occasionally glancing at the papers, suggesting a structured approach to the topic. The visual aid remains static, focusing attention on the title, which serves as the main topic. The teacher's gestures, such as holding and referencing the papers, help bridge the hook to the main topic, emphasizing the significance of \"Living Legends\" within the context of sports and fitness. This setup likely connects students' existing knowledge of sports figures to the upcoming exploration of legendary athletes, preparing them for a deeper dive into reading and critical thinking activities related to the theme. The consistent visual focus on the title slide ensures that students are anchored to the lesson's core subject from the outset.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Living Legends",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Unit 3: Sports and Fitness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Reading and Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Unit 3: Sports and Fitness, Living Legends, Reading and Thinking",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Papers",
+        "type": "Visual",
+        "original_text": "Teacher holds papers, indicating prepared notes for the session.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c4",
+        "label": "Global Courses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Digital Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c6",
+        "label": "English Proficiency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c7",
+        "label": "Olympics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Tailored Courses",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 186.32]"
+      },
+      {
+        "id": "c9",
+        "label": "Online Course Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 186.32]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Displays the main topic of the lesson 'Living Legends'."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Displays the context of the unit 'Sports and Fitness'."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Highlights the underlying principle of 'Reading and Thinking'."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses papers to emphasize points about 'Living Legends'."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Links 'Living Legends' to examples in 'Olympics'."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Digital courses form part of global courses."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Student's English level informs tailored courses."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Impact of online courses stems from digital learning principles."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Procedure of tailoring courses includes principles of digital learning."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's notes guide and engage students cognitively with the topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

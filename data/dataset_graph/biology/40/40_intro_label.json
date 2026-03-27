@@ -1,0 +1,121 @@
+{
+  "video_name": "40_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Analyze the limitations of traditional teaching methods in developing students’ core competencies; understand student‑centered teaching philosophies and practical strategies; reflect on how teachers’ assessment methods affect students’ learning attitudes.",
+  "transcript": "[0.0 -> 144.88] 各位老师同学好我的即兴讲演的题目是某学生在考试时写错了光合作用的概念老师罚他写光合作用概念二十篇对于这个老师的做法你怎么看我认为这个老师的做法是不成熟不恰当的首先在教学中应以学生为主体教学不应是死记硬背而应以提升学生的核心素养为导向学生在考试时写错了光合作用的概念说明他对这个概念没有完全未能完全理解而教师把它抄写这个有点照本宣科就是教教材引导学生背教材我觉得这个方法十分的不恰当其次我认为教学应该发挥学生的主观能动性俗话说兴趣是学生最好的老师教师把学生抄写可能会导致学生的厌学情绪从而产生一些心理问题我认为正确的做法应该是在考试结束后教师可以找他谈话询问他教学生活中在学习生活中是不是遇到了哪些困难对于这些知识点是怎么理解的哪些方面理解的不够充分从而针对学生的感受个人情况进行一个教学分析并改正自从而促进改进自身的教学方式方法同时教师应该反思自己教学方法教材学型分析是否理解的透彻在教学时是否在学生的最近发展区域内语言是否生动从而改进自己的教学策略最后我认为评价学生时应进行多角度的评价而不应仅仅是因为某一次考试写错了概念而对这个学生下定义就罚他抄写教师应该注重学生学生在学习过程中的进步从而多样的客观的来评价学生我的即兴讲演到此结束谢谢同学们上课这节课我们来学习免疫系统的组成和功能",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"免疫系统的组成与功能\" (The Composition and Functions of the Immune System). This initiates the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"免疫系统的组成与功能.\" The teacher does not physically write this; it is displayed on the screen. The teacher stands in front of the screen, ensuring the title is visible to the students.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the screen.\n- The teacher's body language is open, facing the students, and occasionally looking at the screen to reference the content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"免疫系统的组成与功能.\"\n- The teacher appears to be introducing the topic, likely referencing the content on the screen.\n\n**Middle:**\n- The teacher continues to hold the papers, occasionally looking at them and then back at the students.\n- The teacher gestures with the papers, possibly emphasizing key points related to the immune system's composition and functions.\n- The screen remains static, displaying the same title throughout this phase.\n\n**End:**\n- The teacher moves towards the desk, possibly to access additional materials or to transition to the next part of the lesson.\n- The screen still displays the title, indicating the introduction phase is concluding.\n\n### Summary\nThe introduction phase of the lesson is centered around the title \"免疫系统的组成与功能\" displayed on the screen. The teacher uses papers to guide the introduction, occasionally gesturing to emphasize points. The visual focus remains on the screen's content, with the teacher facilitating the transition into the lesson's main content.",
+  "visual_narrative": "Initially, the screen presents the title \"免疫系统的组成与功能\" as the opening visual stimulus, setting the stage for the lesson. The teacher stands in front of the class, holding papers, and uses them to guide the introduction, occasionally glancing at the content on the screen. To bridge to the main topic, the teacher gestures with the papers, likely emphasizing key points related to the immune system's composition and functions. The visual focus remains on the screen's title throughout, ensuring students are oriented towards the lesson's goal. The teacher's movement towards the desk at the end signals a transition, preparing to delve deeper into the subject matter. This introduction effectively links the new knowledge to the students' existing understanding by clearly presenting the topic and setting expectations for the upcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Immune System Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Immune System Composition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Student-Centered Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Traditional Teaching Limitations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Teacher's Assessment Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Link from Introduction to Content",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Immune System Title Slide",
+        "type": "Visual",
+        "original_text": "The Composition and Functions of the Immune System",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 144.88]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 144.88]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Describes the functions in relation to the immune system's components."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains student-centered learning as a solution to traditional teaching limitations."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "addresses_misconception",
+        "intent": "Discusses how assessment methods can reinforce or challenge traditional teaching limitations."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide represents the functions of the immune system visually."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide represents the composition of the immune system visually."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Links the introduction phase to the deeper understanding of immune system functions."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links the introduction phase to the detailed exploration of immune system composition."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement indicates the effectiveness of student-centered learning principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

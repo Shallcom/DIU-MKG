@@ -1,0 +1,120 @@
+{
+  "video_name": "37_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "- Understand the four primary dimensions of core competencies in physics.  \n- Analyze the role of disciplinary competencies in physics instruction.  \n- Explore ways to integrate these competencies into actual teaching practice.",
+  "transcript": "[0.0 -> 90.0] 并语言体系陈述我怎么看下面我将从以下几个方面谈一谈我的看法首先物理学科核心素养包括物理观念科学思维科学探究科学态度与责任这四个方面综合包含了物理知识学生在学习物理时需要发展的能力以及对情感的培养所以所以按照学科素养的语言体系来陈述知识来陈述学习内容不仅仅是知识方面的陈述更多的是要发展学生的综合素养为学生的终身发展以及应对现代和未来社会发展奠定基础物理学科核心素养也是物理学科育人本质的体现我们要把握好它对学生的发展的培养如果是仅仅按照学习内容的陈述方式那么它就只强调了学习内容中的知识层面而忽略了能力的培养情感的培养但是这两项对于学生的全面发展也是有着相当重要的地位的新课改要求要从教会学生知识转向教会学生学习从重解论的同时更要注重过程的推理所以在我们的核心素养四个层次方面不仅仅学生对知识的掌握更的是对学生的能力的培养则两者相互配合提升学生的综合素养。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of a fighter jet displayed on the screen. The image is part of a slide presentation, which appears to be the initial visual element used to engage the class.\n\n#### 2. **The Title Event**\n- **Title on Screen**: The title displayed on the screen is \"牛顿第二定律\" (Newton's Second Law).\n- **Teacher's Action**: The teacher stands in front of the screen, presenting the slide. There is no indication of writing on the board, as the title is already displayed on the screen.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: The teacher is holding papers and appears to be reading or presenting from them. There are no specific gestures like pointing or underlining observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher enters the classroom and approaches the front, where a large screen displays a slide with an image of a fighter jet.\n- The title \"牛顿第二定律\" (Newton's Second Law) is prominently displayed on the screen.\n\n**Middle**\n- The teacher stands in front of the screen, holding papers, and begins presenting. The focus remains on the slide with the fighter jet image.\n- The teacher's posture suggests they are reading or explaining content related to the slide, but no specific gestures are made towards the screen or board.\n\n**End**\n- The teacher continues to present, maintaining their position in front of the screen. The visual content remains unchanged, with the fighter jet image and title still visible.\n\n### Summary\nThe introduction phase of the lesson centers around the visual of a fighter jet on the screen, linked to the title \"牛顿第二定律\" (Newton's Second Law). The teacher's actions are primarily focused on presenting from papers, with no additional gestures or changes to the visual content observed during this segment.",
+  "visual_narrative": "Initially, the screen presents an image of a fighter jet, serving as the hook to capture the students' attention. To bridge to the topic, the teacher stands in front of the screen, holding papers and presenting from them, maintaining focus on the visual content. Finally, the visual focus remains on the title \"牛顿第二定律\" (Newton's Second Law) displayed prominently on the screen, establishing the lesson goal. This introduction links the dynamic image of the fighter jet to the fundamental physics concept, setting the stage for exploring how Newton's Second Law applies to real-world scenarios, thus connecting new knowledge to students' existing experiences with motion and forces.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Physics Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Physics Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Science Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Attitude and Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Newton's Second Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Fighter Jet Image",
+        "type": "Visual",
+        "original_text": "Screen displays an image of a fighter jet.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Title",
+        "type": "Visual",
+        "original_text": "Title: Newton's Second Law",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Core competencies include understanding key concepts."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Core competencies include scientific thinking processes."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Core competencies include procedures for scientific inquiry."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Core competencies include developing attitudes and responsibility."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visual connection between slide title and the concept."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Introductory fighter jet image leads to the exploration of Newton's Second Law."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher uses Newton's Second Law to engage students in conceptual thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

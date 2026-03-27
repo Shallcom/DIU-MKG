@@ -1,0 +1,122 @@
+{
+  "video_name": "5_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic concepts and characteristics of mechanical vibration; be able to apply idealized‑model methods to analyze simple physical problems.",
+  "transcript": "[698.36 -> 825.4] 好一分钟时间结束来请这位同学你来说你觉得可以用什么方法来确定我们画出的图像就是缝线函数呢选取小球平衡的位置为坐标远点他说选取小球平衡位置为坐标远点可以然后呢然后确定它的X轴和Y轴非常好这位同学说得非常严谨我们要先确定它的X轴和Y轴那么它的X轴代表什么物理量呢时间它的Y轴呢物理非常好来请坐它的横轴代表时间它的纵轴代表位移但是我看到这位同学似乎对怎么样去具体的方法似乎有点疑惑那么现在请同学们课后再来讨论一下这个问题等到下节课我们再请小组代表上台发言下面我们来总结一下这节课学习了什么首先我们知道了什么是机械振动接着我们通过理想化模型的方法定义了什么是盘黄镇子的接着我们又确定了盘黄镇子的位移时间图像是什么样的那么下节课我们继续来研究它的位移时间图像到底是不是一个正弦纯数好我的讲课结束谢谢各位老师同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard. It features a list of key points written in white chalk.\n   - The layout includes a heading \"简谐运动\" (Simple Harmonic Motion) at the top, followed by bullet points.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard contains the following visible items:\n     - \"简谐运动\" (Simple Harmonic Motion)\n     - \"机械振动的\" (Mechanical Vibration)\n     - \"理想化模型\" (Idealized Model)\n     - \"弹簧行力\" (Spring Force)\n     - An equation: $F = -kx$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point in sequence, emphasizing the terms \"机械振动的\" and \"理想化模型.\"\n   - The teacher underlines the equation $F = -kx$ to highlight its importance.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the blackboard or screen in this segment. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a summary on the blackboard centered on \"简谐运动\" (Simple Harmonic Motion). The teacher visually reviews the content by pointing to each bullet point in sequence, briefly pausing on the final formula $F = -kx$. The teacher underlines this equation to emphasize its significance. There is no visible homework or next-step instruction presented in this segment, focusing solely on reinforcing the core concepts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Harmonic Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[698.36 -> 825.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Mechanical Vibration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[698.36 -> 825.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Idealized Model",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[698.36 -> 825.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Spring Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.36 -> 825.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Equilibrium Position",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.36 -> 825.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Blackboard contains key points of the lesson with the heading 'Simple Harmonic Motion.'",
+        "timestamp": "[698.36 -> 825.4]",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Equation F = -kx",
+        "type": "Visual",
+        "original_text": "Equation F = -kx underlined to emphasize importance.",
+        "timestamp": "[698.36 -> 825.4]",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Prompts Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[698.36 -> 825.4]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Visual summary of simple harmonic motion."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Visual summary of mechanical vibration concepts."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Visual summary of idealized model procedures."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Equation highlights the principle of spring force in vibration."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding simple harmonic motion builds on mechanical vibration concepts."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Idealized model procedure uses the equilibrium position as a foundational concept."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Engaged student thinking about mechanical vibration through teacher prompting."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding and applying the idealized model."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

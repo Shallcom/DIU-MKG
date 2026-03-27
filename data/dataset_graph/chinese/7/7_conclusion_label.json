@@ -1,0 +1,140 @@
+{
+  "video_name": "7_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Be able to analyze Su Wu’s character traits in adversity; understand the broad perspective and loyalty embodied in Su Wu’s image.",
+  "transcript": "[630.0 -> 657.62] 爱国忠君非常好那么后面这句呢若知我不详明欲令两国相攻匈奴之祸从我食矣如果我不像你那么干那么两国相攻匈奴之祸从我食矣此时苏武的眼光从个人转向了哪里呢国家是不是啊说明此时苏武是有大局观的。\n[663.36 -> 682.18] 非常好通过这段的学习我们知道了苏武他是一个不仅是临危不乱同时还是有大局观的人同时那么这一段中还有没有苏武形象的体现呢。\n[683.34 -> 684.46] 请同学们再找一找。\n[686.72 -> 694.82] 当魏禹对苏武说父有罪当兴作在这一句时苏武是怎么回应他的。\n[696.42 -> 722.72] 苏武说本无谋又非亲属何谓连坐当面临着死到临头或者说刀尖上已经面临着刀尖顶上他的脖子的时刻他说本无谋又非亲属何谓连坐我本来就没有参与这个事情我为什么要连坐此时是不是也能看出苏武的头脑十分的清晰呀。\n[726.42 -> 756.88] 好到这里我们对于苏武形象的分析就结束了那么下节课呢希望同学们能够对比文中汉武帝和单羽两位君王的形象分析他们的形象有什么不同好同学们再见。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen.\n   - The slide is titled \"细读文本\" (Detailed Reading).\n   - It features a bullet point and a table with two columns labeled \"小说人物\" (Novel Characters) and \"小说情节\" (Novel Plot).\n\n2. **Key Knowledge Items (Content View)**:\n   - The bullet point reads: \"小说文本与人物关系的梳理，情节分析\" (Analysis of the relationship between the novel text and characters, plot analysis).\n   - The table is empty, indicating a focus on organizing information about characters and plot.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely emphasizing the bullet point and the table structure.\n   - The teacher's movements suggest highlighting the importance of analyzing character and plot relationships.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided.\n   - The focus remains on summarizing the analysis process rather than assigning tasks for the next lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"细读文本\" prominently displayed, featuring a bullet point and a two-column table for organizing novel characters and plot. The teacher gestures towards the slide, emphasizing the bullet point that outlines the analysis of character and plot relationships. Moving through the artifact, the teacher likely points to the table structure, highlighting its purpose for organizing information. The core takeaway is visually marked by the teacher's focus on the analytical framework presented. No visual elements indicate homework or next steps, keeping the conclusion centered on the summary of the lesson's key analytical concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Su Wu",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.0 -> 682.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Character Traits in Adversity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[630.0 -> 657.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Broad Perspective",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[630.0 -> 657.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Loyalty",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.36 -> 682.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Novel Characters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.0 -> 682.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Novel Plot",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.0 -> 682.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Detailed Reading Slide",
+        "type": "Visual",
+        "original_text": "Detailed Reading slide with bullet point and table",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Point Analysis",
+        "type": "Visual",
+        "original_text": "Analysis of relationship between novel text and characters, plot analysis",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Empty Table Structure",
+        "type": "Visual",
+        "original_text": "Table with columns labeled Novel Characters and Novel Plot",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Teacher Gesturing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[663.36 -> 682.18]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Su Wu's traits include facing adversity."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Su Wu's broad perspective is a key trait."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Su Wu's loyalty is an important character trait."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Character analysis is based on the plot."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Slide highlights the bullet point explaining text and character relationship."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Slide includes table structure for information organization."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher emphasizes slide content through gestures."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages analysis of character traits."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Teacher motivates developing character insights."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

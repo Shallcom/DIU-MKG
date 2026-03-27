@@ -1,0 +1,134 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to apply the functions of past participants to reconstruct story structure.",
+  "transcript": "[736.428967 -> 751.38] 所以过去参与者的重要功能告诉我们写作者的经验对吧所以写作者的态度是反映了她的感兴趣的状态她认为她可能不太好用它了但后来她发现她做了很好的工作所以她现在有了自信在玩琴和音乐的未来上好吗好课长现在我想让你利用你发现的过去的参与者来重新描述写作者的故事所以现在你们在第一组里面和你们在第二组里面可以透过用过去的参与者来告诉他的故事吗。\n[754.24 -> 769.12] 如果您需要帮助的话您可以握着手指头握住手指头好的课程结束了那我们来看看第二题吧。\n[770.32 -> 791.1] 是的您做了一个非常好的工作所以你非常正确地描述了过去的参与者的功能所以现在我想让你思考一下你从这个课程中学到的什么呢你从写作者的经验中获得了什么呢所以有道理有道理谢谢你。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide titled \"Result and share\" displayed on the screen. It contains a text excerpt with highlighted sections.\n   - The blackboard features a diagram labeled \"Assessing your progress\" with a graph showing an upward trajectory and labeled axes.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**: \n     - Title: \"Result and share\"\n     - Text excerpt discussing group work and key principles for a valid story.\n     - Highlighted phrases: \"the group should discuss the purpose of the story,\" \"the group should discuss the purpose of the story,\" \"the group should discuss the purpose of the story,\" \"the group should discuss the purpose of the story,\" \"the group should discuss the purpose of the story.\"\n   - **Blackboard Content**:\n     - Diagram: \"Assessing your progress\"\n     - Axes labels: \"Progress\" (horizontal), \"Attainment\" (vertical)\n     - Graph trajectory with labels: \"Past performance,\" \"Expected attainment,\" \"Actual attainment\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the highlighted phrases on the slide, emphasizing key points about group discussion and story purpose.\n   - The teacher gestures towards the blackboard diagram, likely discussing the relationship between past performance and expected vs. actual attainment.\n   - The teacher moves to the bottom of the slide, pointing to the button labeled \"Back to here we go - as a wrap.\"\n\n4. **Transition to Next Step**:\n   - The teacher interacts with the digital slide, possibly indicating a transition or review phase.\n   - No explicit homework or assignment details are visible, but the \"Back to here we go - as a wrap\" button suggests a review or next lesson prompt.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Result and share,\" displaying a text excerpt with several highlighted phrases emphasizing group discussion and story purpose. The teacher points to each highlighted section in sequence, reinforcing the key points about collaborative analysis. On the blackboard, a diagram labeled \"Assessing your progress\" features a graph with labeled axes and trajectory lines, indicating past performance, expected, and actual attainment. The teacher gestures towards this diagram, likely summarizing the progress assessment concepts. The lesson concludes with the teacher pointing to the \"Back to here we go - as a wrap\" button on the slide, signaling a review or transition to the next lesson. No explicit homework instructions are visible, but the emphasis on the slide's wrap-up button suggests preparation for further review or continuation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Story Purpose",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[736.42 -> 751.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Writing Experience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.42 -> 751.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Confidence in Music",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.42 -> 751.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Past Participants",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[736.42 -> 769.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Group Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[736.42 -> 769.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Progress Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[751.38 -> 769.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Applied Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[770.32 -> 791.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Result and Share Slide",
+        "type": "Visual",
+        "original_text": "Digital slide titled 'Result and Share' containing text excerpt with highlighted sections.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Progress Diagram",
+        "type": "Visual",
+        "original_text": "Diagram 'Assessing your progress' featuring graph trajectory with labeled axes.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Wrap-Up Button",
+        "type": "Visual",
+        "original_text": "Button labeled 'Back to here we go - as a wrap' on slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Collaborative Analysis",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the purpose of the story through highlighted text on the slide."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The writer's confidence in music evolves from positive writing experience."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "The concept of past participants prompts group discussion about story reconstruction."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The teacher uses the diagram to visualize the process of progress assessment."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Applied functions of past participants build upon their contributions to story reconstruction."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Students engage in collaborative analysis through guided discussion."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "The wrap-up button on the slide signals the conclusion and summary of applied functions for further review."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,186 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "- Understand the specific requirements that digital development imposes on teachers’ professional development.  \n- Master the basic methods of data collection and processing in geography.  \n- Be able to design geography teaching activities that are based on digital tools.",
+  "transcript": "[0.0 -> 110.58] 各位评委老师好我抽到的讲演题目是举例说明数字化的发展对于教师专业发展的要求举例说明是利那么数字化的发展在当地在当下的教育发展过程之中呢是具备广泛性且普遍性的那么教师在课堂中要发展自己的专业化水平对于数字化的利用是非常重要的那么如何在实践力中运用呢我将从以下几点进行讲解首先数据的收集与处理是一个重要的方法例如地理学科中人口的迁移城镇化的数据可以将各地区的数据进行收集和整理例如城镇化可以借用当地资源例如金华市的城镇化就是百分之七十四。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The lesson begins with an image of a satellite view of an island or coastal area, likely used to introduce the topic of maritime rights and development strategies.\n\n#### 2. The Title Event\n- **Title**: \"海洋权益与我国海洋发展战略\" (Maritime Rights and China's Marine Development Strategy)\n- **Teacher's Action**: The title is displayed on the screen, and the teacher stands in front of it, likely emphasizing its importance through body language and positioning.\n\n#### 3. The Objectives\n- **Bullet Points**: Not explicitly visible in the provided frames. However, the slide titled \"想一想\" (Think About It) suggests an objective to engage students in critical thinking about national security and development.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher uses hand gestures to emphasize points, likely pointing to different parts of the map and diagrams on the screen. Specific gestures include:\n  - **Pointing to the map**: To highlight geographical areas relevant to maritime rights.\n  - **Holding a pointer or pen**: To direct attention to specific text or diagrams on the screen.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Hook Object**: The satellite image of an island/coastal area is displayed, setting the context for the lesson.\n- **Title Event**: The title \"海洋权益与我国海洋发展战略\" appears on the screen. The teacher stands in front of the screen, likely emphasizing the title through body language.\n\n#### Middle\n- **Map Display**: A map of a coastal region with annotations is shown. The teacher points to various areas on the map, likely discussing maritime boundaries and security.\n- **Diagram Presentation**: A flowchart titled \"建设海洋强国的战略布局\" (Strategic Layout for Building a Strong Marine Nation) is displayed. The teacher gestures towards different sections, explaining the relationship between national security, economic development, and ecological protection.\n\n#### End\n- **Title Reiteration**: The initial title \"海洋权益与我国海洋发展战略\" reappears on the screen. The teacher summarizes key points, reinforcing the lesson's focus on maritime rights and strategies.\n- **Final Gestures**: The teacher uses hand movements to conclude the introduction, possibly summarizing the objectives and setting the stage for further discussion.\n\n### Summary\nThe lesson introduction effectively uses visual aids like satellite images and maps to engage students. The teacher's gestures and positioning emphasize key concepts, linking physical actions to specific content on the screen. The strategic layout diagram visually represents the lesson's objectives, highlighting the interconnectedness of maritime rights and national development strategies.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a large screen displaying a satellite image of an island or coastal area, serving as the hook to capture students' attention. The teacher gestures towards this image, likely highlighting its relevance to maritime discussions. The scene transitions smoothly as the slide switches to the title \"海洋权益与我国海洋发展战略,\" prominently displayed on the screen. The teacher's positioning emphasizes the importance of this title, setting the stage for the lesson's focus. Moving forward, the teacher presents a detailed map of a coastal region, pointing to various annotated areas to illustrate geographical and strategic points. This visual shift from the hook to the main topic is reinforced by the teacher's deliberate gestures, directing attention to specific regions on the map. The introduction culminates with the display of a strategic layout diagram, where the teacher uses hand movements to connect different sections, explaining the interplay between national security, economic development, and ecological protection. This structured visual narrative effectively bridges the students' existing knowledge of geography and national strategies with the new concepts of maritime rights, preparing them for a deeper exploration of the topic. The teacher's use of visual aids and targeted gestures ensures a clear and engaging introduction, linking the lesson's objectives to broader strategic frameworks.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Digital Development Requirements",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 110.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Teacher Professional Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 110.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Data Collection Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 110.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Data Processing Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 110.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Geography Teaching Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 110.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Maritime Rights",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Beginning"
+      },
+      {
+        "id": "c7",
+        "label": "Marine Development Strategy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "Beginning"
+      },
+      {
+        "id": "c8",
+        "label": "National Security",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c9",
+        "label": "Economic Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c10",
+        "label": "Ecological Protection",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "v1",
+        "label": "Satellite Image of Island",
+        "type": "Visual",
+        "original_text": "The lesson begins with a satellite image of a coastal area.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Title 'Maritime Rights and China's Marine Development Strategy' displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Annotated Map",
+        "type": "Visual",
+        "original_text": "A map of a coastal region with annotations is shown.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Strategic Layout Diagram",
+        "type": "Visual",
+        "original_text": "A flowchart titled 'Strategic Layout for Building a Strong Marine Nation' is displayed.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Critical Thinking Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how digital development changes teacher professional needs."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Data collection includes processing as a follow-up action."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Maritime Rights contribute to shaping the Marine Development Strategy."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "National security is part of broader economic development concerns."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "National security includes ecological protection efforts."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Teaching activities incorporate data collection methods."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The satellite image illustrates the concept of maritime rights."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The title slide introduces and emphasizes the marine development strategy."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The annotated map highlights key areas related to maritime rights."
+      },
+      {
+        "source": "v4",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The strategic layout diagram connects national security with other concepts."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Marine development strategy engages students in critical analysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

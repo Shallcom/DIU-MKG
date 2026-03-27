@@ -1,0 +1,204 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Be able to classify exponential functions according to the size of their base; master the basic features of exponential function graphs and the methods for analyzing them.",
+  "transcript": "[695.0543 -> 752.78] 我看大家都已经画出来了那我们就一起观察一下通过我们刚刚观察上一个底数为导数的两个函数图像的一个特征之后同学们能不能对这几个函数组下进行分类呢来这位同学说说你的看法我们可以把它分为两类的小于一吗好思考一下很好请坐请坐现在呢就把这几个函数分为两类一类呢是底数A大于A的一类式的隶数在一指间的那么我们先来观察关键数在底数在一指间的函数它们有什么样的特征呢来这位同学你观察出来了对单调计减它们的红线大致都是这个样子的是不是好请坐请坐那么我们也可以得到大于数一的函数图像大致是这样那么接下来我们继续观察它们的定义域好来这位同学你观察到它们的定义域都是啊都是啊请坐请坐那么继续我们来观察它们的直域那么通过我们之前学习学习数我们就可以得到它们的直域应该是应该是范围大家一起来告诉我应该是零到正无穷很好那么接下来继续来观察同学们还记得我们之前学习函数的性质的时候学习的理系性质有函数的单调性那我们继续来观察一下这几个函数它的单调性的情况我们来观察它们底数在零到一之间的单调性的情况同学们来观察一下我们可以发现它们都是单调递减的它们也就是函数那我们就可以得到函数那么这样它的抵触代理的函数呢它们的图像又是怎样呢是单调增的我们就观察了那同时同学们图像上面观察到哪一个我们可以发现它们的点都经过同一个点是哪个点啊零一对不对那我们是怎么知道我们这只是几个数的函数图像是否值有的值数函数他们说经过零一零这个特殊点特殊图像我们一起来探究一下那么通过之前数的学习知道若底数A它不等于零的话我们就可以得到A的零次是等于一等于一那么由此由在等线上反馈出来它就是都会经过一这个定点定点那么同学们同学他们就一定会经过零一这个定点呢定点还有一个关键点大家想高一点也就是在我们上一个阶段的学习的时候呢我们知道A它是不等于一的起的A要大于一那么这样才是完整的正确的知道了这些指数会经过一个定点零一好我们刚刚的观察了知道了我们的函数图像是一个什么函数解函数还是分函数呢解函数那底数在大于一的时候呢是分函数我们通过刚获利的这个探究过程从特殊到一般通过将数和形相结合探究出了指数函数它们在图像定域直域以定点和单调性他们的鸡偶戏又是怎样的呢同学们继续探究一下吧我的模拟课堂到此结束下课下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital slide displayed on the screen.\n   - The blackboard contains the heading \"外2 指数函数\" (Exponential Function) with two subheadings: \"定义\" (Definition) and \"图像\" (Graph).\n   - The digital slide shows graphs of exponential functions and some text in Chinese, likely summarizing key points about the functions.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - \"外2 指数函数\" (Exponential Function)\n     - \"定义\" (Definition)\n     - \"图像\" (Graph)\n     - Mathematical expressions: $a^x = 1$ and $|a| > 0$\n   - Digital Slide:\n     - Graphs of exponential functions\n     - Text in Chinese summarizing properties of exponential functions\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the expressions $a^x = 1$ and $|a| > 0$ on the blackboard, likely emphasizing their importance.\n   - The teacher gestures towards the digital slide, possibly highlighting key points or graphs related to the exponential functions.\n   - The teacher uses hand movements to indicate the flow of information from the blackboard to the digital slide, reinforcing the connection between the written definitions and the graphical representations.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition to next steps visible in the video segment.",
+  "visual_narrative": "The lesson concludes with a dual summary artifact, featuring both the blackboard and a digital slide. The blackboard prominently displays the heading \"外2 指数函数\" (Exponential Function) with subheadings \"定义\" (Definition) and \"图像\" (Graph), alongside the expressions $a^x = 1$ and $|a| > 0$. The digital slide presents graphs of exponential functions and accompanying text. The teacher visually reviews the content by pointing to the expressions on the blackboard, emphasizing their significance, and gesturing towards the digital slide to highlight key points and graphs. The teacher's gestures create a visual link between the written definitions and graphical representations, reinforcing the core concepts. There is no visible indication of homework or next steps in this segment, focusing solely on consolidating the lesson's key takeaways.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Exponential Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Graph Features",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Expression a^x = 1",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Expression |a| > 0",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Base < 1",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Base > 1",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Monotonic Decrease",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c9",
+        "label": "Monotonic Increase",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c10",
+        "label": "Domain Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c11",
+        "label": "Range Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "c12",
+        "label": "Special Point (0,1)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.0543 -> 752.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Blackboard displays 'Exponential Function', 'Definition', 'Graph', and expressions a^x = 1, |a| > 0.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Graphs",
+        "type": "Visual",
+        "original_text": "Digital slide shows graphs of exponential functions and summarizing text.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Classification Answer",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Exponential function includes definition."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Exponential function includes graph features."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Definition is visualized on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Graph features are visualized on the digital slide."
+      },
+      {
+        "source": "c4",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Expression a^x = 1 explains the special point (0,1)."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Expression a^x = 1 is shown on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Expression |a| > 0 is shown on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Base < 1 leads to monotonic decrease."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Base > 1 leads to monotonic increase."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Teacher guides student observation of domain."
+      },
+      {
+        "source": "c11",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Teacher guides student observation of range."
+      },
+      {
+        "source": "c12",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Special point (0,1) evolves from the expression a^x = 1."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts student to classify functions for bases < 1."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts student to classify functions for bases > 1."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

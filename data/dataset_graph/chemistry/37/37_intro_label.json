@@ -1,0 +1,113 @@
+{
+  "video_name": "37_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the physical properties and hazards of chlorine gas; comprehend safety protection measures for chemical substances in industrial production.",
+  "transcript": "[0.0 -> 150.44] 打赏支持明镜与点点栏目尊敬的各位评论老师好我是三十七号选手我抽到的演讲题目是绿气有毒一位老师创设了一个关于绿气有毒的一个真实情境问这样做是否合理我认为这样做是合理的首先化学是一门以实验为基础的学科我们应该用辩证的视角去看待化学实验氯气它的一条物理性质它是黄绿色气体它就是有毒的我们不应该规避掉这一点应该引领学生正确地看待氯气就是有毒的这样学生在进行化学实验时也会注意到氯气是有毒的进而进行一些防护措施如果我们在选择请进时只考虑化学给人类生活及生活生产科技带来的好的一面这样学生就不会了解一些化学物质的毒性有害性这样在进行化学实验时就无法进行防护会认为大多数化学药品都是安全的可能会直接用鼻子去吻药品不会用手扇动可能会用手直接触摸药品我认为其次我认为真实的问题情境这样是可以的我们可以选择一些真实的工业生产的情境这个老师选择的情境就是这一情境让学生真实的了解化学工业生产是如何进行的在工业生产中氯气化学生产是如何进行的就是有毒的以后学生在进行进行该项工作的时候也会注意到这一点以上就是我的演讲谢谢大家好同学们我们现在开始上课上节课我们学习了嗅语丸的结构和它的物理性能力的学习方法我们现在开始上课上节课上节课我们学习了嗅语丸的结构和它的物理性能力的学习方法我们现在开始上课上课上节课上节课我们学习了嗅语丸的结构下面我们深入探究秀与丸的化学性质。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. The slide features a green and white design with the text \"環境の代表\" (representative of the environment).\n\n#### 2. **The Title Event**\n- The title on the board is written in green chalk on the left side, reading \"化学基礎 環境\" (Chemistry Basics Environment). The teacher did not perform any specific action like underlining it during this segment.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the board or screen in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and standing in front of the board and screen. No specific gestures linking to the board content are observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays a slide with the text \"環境の代表\" (representative of the environment).\n- The blackboard shows \"化学基礎 環境\" written in green chalk.\n\n**Middle:**\n- The teacher remains stationary, occasionally looking at the papers.\n- No changes occur on the screen or board.\n\n**End:**\n- The teacher continues to stand in front of the class, maintaining the same position.\n- The visual content on the screen and board remains unchanged.\n\n### Summary\nThe introduction phase focuses on the title \"化学基礎 環境\" on the blackboard and the slide \"環境の代表\" on the screen. The teacher's actions are minimal, primarily involving standing and holding papers, with no specific gestures or changes to the visual content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a blackboard and screen. The initial visual stimulus is the slide on the screen displaying \"環境の代表\" (representative of the environment), accompanied by a green and white design. On the blackboard, \"化学基礎 環境\" (Chemistry Basics Environment) is written in green chalk, setting the thematic focus. The teacher remains stationary, occasionally glancing at the papers, without making specific gestures or pointing to any content. The visual aids remain static throughout, with no transitions or changes in the slides or board. This setup establishes a foundational context for the lesson, linking the topic of environmental chemistry to the students' existing knowledge framework. The introduction serves as a bridge, preparing students to explore specific environmental chemistry concepts by grounding them in the overarching theme displayed visually.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chlorine Gas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Toxic Nature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Safety Measures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 150.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Industrial Production",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Yellow-Green Gas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Environment Representative Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying the text 'Representative of the Environment' in green and white.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemistry Basics Board",
+        "type": "Visual",
+        "original_text": "Board with 'Chemistry Basics Environment' written in green chalk.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Listening to Introduction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Toxic nature is an intrinsic property of chlorine gas."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Safety measures are derived from the knowledge of chlorine's toxic nature."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Understanding chlorine's role in industrial production builds upon the basic knowledge of chlorine gas."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Describing chlorine as a yellow-green gas is part of understanding its physical properties."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide visually introduces the theme of chlorine in the industrial environment."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The board visual content relates to environmental aspects of chemistry basics."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engagement",
+        "intent": "Students are engaged by listening to the initial explanation about chlorine gas."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,164 @@
+{
+  "video_name": "34_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the classifications of function monotonicity and their significance; be able to classify functions based on their monotonicity characteristics.",
+  "transcript": "[661.42 -> 666.74] 根据单调性来分我们可以把它分成三种。\n[669.98 -> 711.92] 一种是递增的一种是地检的还有一种是长竖链也就是当它的土象趋于平稳的时候我们就可以得到一种长竖链时间到好感谢各位评委今天讨论的同时辛苦了。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in white chalk.\n   - The layout includes a heading \"4.1 数列的概念\" (Sequence Concept) at the top, followed by a list of subtopics:\n     - 数列的定义 (Definition of Sequence)\n     - 数列与函数的关系 (Relationship between Sequence and Function)\n     - 数列的单调性 (Monotonicity of Sequence)\n     - 数列的周期性 (Periodicity of Sequence)\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard also includes a sequence notation: $a_1, a_2, \\ldots, a_n, \\ldots$.\n   - The screen to the right displays a slide with text in Chinese, likely summarizing or providing additional information related to the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher writes additional notes on the blackboard, specifically underlining or adding to the section labeled \"数列的周期性\" (Periodicity of Sequence).\n   - The teacher points to the sequence notation $a_1, a_2, \\ldots, a_n, \\ldots$ while explaining, linking the written content to the verbal explanation.\n   - The teacher gestures towards the screen, possibly to highlight or reference the content displayed there.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen in the provided frames.\n   - The teacher appears to be concluding the lesson, as indicated by the summary points on the board and the final review gestures.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the concept of sequences. The teacher visually reviews the content by pointing to each key point listed on the board, including the definition of sequences, their relationship with functions, monotonicity, and periodicity. The sequence notation $a_1, a_2, \\ldots, a_n, \\ldots$ is highlighted as the teacher gestures towards it. The final emphasis is placed on the periodicity of sequences, with the teacher underlining this section. The screen to the right displays additional text, but no explicit homework or next-step instructions are visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sequence Concept",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Definition of Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Sequence-Function Relationship",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Monotonicity of Sequence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Increasing Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c6",
+        "label": "Decreasing Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c7",
+        "label": "Stationary Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "c8",
+        "label": "Periodicity of Sequence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[661.42 -> 711.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard contains key points including sequence concept, definition, sequence-function relationship, monotonicity, and periodicity.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Sequence Notation",
+        "type": "Visual",
+        "original_text": "$a_1, a_2, ..., a_n, ...$ notation on blackboard.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sequence Concept encompasses Definition of Sequence."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Sequence Concept encompasses Sequence-Function Relationship."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Sequence Concept encompasses Monotonicity of Sequence."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Sequence Concept encompasses Periodicity of Sequence."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Monotonicity of Sequence includes Increasing Sequence."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Monotonicity of Sequence includes Decreasing Sequence."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Monotonicity of Sequence includes Stationary Sequence."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes Sequence Concept."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes Monotonicity of Sequence."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes Periodicity of Sequence."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Sequence Notation is used to visualize Increasing Sequence."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Sequence Notation is used to visualize Decreasing Sequence."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Sequence Notation is used to visualize Stationary Sequence."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

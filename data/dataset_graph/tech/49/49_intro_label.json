@@ -1,0 +1,166 @@
+{
+  "video_name": "49_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the core elements of effective teaching and their impact on student development; analyze instructional methods for building knowledge networks and their application in real classroom settings; master the design and implementation of differentiated instruction strategies.",
+  "transcript": "[0.0 -> 107.4] 教育更加贴合于学生的发展针对于学生的发展我认为有效教学应该有着一定的目标指向那就是以学生为中心促进学生的全面发展我将从以下几个纬度展开首先从教学内容来看教学内容要具有连贯性系统性教知识不应该是一张伞的存在而应该像一张编织的网让学生能够深刻地去理解清晰地看到知识的脉络从而达到更好的知识迁移从而可以挖掘一些课本中的资政素材从而达到更好的资政教育其次从教学过程来看要以学生为中心教师作为引导者通过小组合作实践探究让学生通过将新知识与遗佑经验相接真正做到在理解的基础上进行学习与创新还可以进行分层教学将学生分为基础层提高层和拓展层帮助学生更好地去理解本节课所学的知识。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide has a green background with white text. The text reads \"课题引入\" (Introduction to the Topic) and includes additional smaller text below, which appears to be a subtitle or description.\n\n#### 2. **The Title Event**\n- The title on the screen is \"课题引入\" (Introduction to the Topic). The teacher does not physically write this title; it is part of the digital slide presentation. The teacher stands in front of the screen, holding papers, and appears to be presenting the content.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the introduction slide.\n\n#### 4. **Key Gestures**\n- The teacher stands in front of the screen, holding papers, and occasionally looks at the students. There are no specific gestures like pointing or underlining observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is seen interacting with the digital screen, possibly adjusting settings or preparing the presentation.\n- The screen displays a slide with a green background and the title \"课题引入\" (Introduction to the Topic).\n\n**Middle:**\n- The teacher moves to the front of the classroom, holding papers.\n- The teacher stands in front of the screen, presenting the content on the slide.\n- The blackboard remains blank, with no additional writing or diagrams.\n\n**End:**\n- The teacher continues to present, maintaining focus on the introduction slide.\n- No further changes to the screen or blackboard are observed.\n- The teacher's gestures are minimal, primarily involving holding papers and addressing the class.\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a digital screen displaying a green slide titled \"课题引入\" (Introduction to the Topic). The teacher, holding papers, prepares to present, creating an initial visual focus on the slide's content. The blackboard remains blank, emphasizing the digital presentation as the primary visual aid. As the teacher addresses the class, the slide remains static, serving as the hook to engage students. The teacher's minimal gestures, such as holding papers and maintaining eye contact, suggest a transition from preparation to active presentation. The consistent display of the introduction slide bridges the hook to the main topic, setting the stage for the lesson. This visual setup connects the new topic to the students' existing knowledge by providing a clear, focused entry point, preparing them for the forthcoming content. The introduction effectively uses the digital slide to anchor the lesson, ensuring students are oriented before delving into more detailed material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Effective Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Student-Centric",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Student Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Coherent Content",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Knowledge Networks",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Knowledge Transfer",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Textbook Materials",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c8",
+        "label": "Guided Discovery",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c9",
+        "label": "Group Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c10",
+        "label": "Prior Experience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "c11",
+        "label": "Differentiated Instruction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 107.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "Digital slide with a green background and white text 'Introduction to the Topic'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Effective teaching is centered on the student to enhance development."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Student-centric approach enhances student development."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Coherent content leads to the creation of knowledge networks."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Knowledge networks help in the transfer of knowledge."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Knowledge transfer can be improved by using textbook materials."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Guided discovery entails group cooperation."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Group cooperation utilizes students' prior experience."
+      },
+      {
+        "source": "c11",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Differentiated instruction further supports student development."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Guided discovery is emphasized through the introduction slide."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The focus on student development keeps students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

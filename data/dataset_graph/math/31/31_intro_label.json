@@ -1,0 +1,146 @@
+{
+  "video_name": "31_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the application scenarios of piecewise functions; recognize the properties of a triangle’s centroid and its practical value.",
+  "transcript": "[0.0 -> 141.08] 各位评委老师各位同学好今天我抽到的我是今天的第六组第三十一号选手今天我抽到的集习演讲的题目是在课堂上有学生公然发表言论学数学有什么用在生活中也用不上浪费时间经过学习其他学生也大为肯定该同学的言论作为老师你认为该如何处理首先数学是研究数量关系及空间形式的一门科学它来源于对现实生活的抽象基于这种抽象结构通过符号运算逻辑推理以及构建模型然后来让人们认识并理解事物的一些本质关系以及规律那么我认为在教学中应该创设一些真实化的生活情境来帮助学生去理解数学的概念比如在学习函数的章节时我们可以通过生活中的比如说水电计量这样的一个例子然后让同学观察到我们生活中水电计量它是不同的量有不同的计费标准那么这就可以自然地去引出我们对于分段函数的一个探究同时学习了分段函数也可以帮助学生在生活中去遇到这样的生活问题时他可以通过自己学的知识解决问题他就可以感受到我们数学学习是可以来源于生活并应用于生活的总之作为教师我们在设置课堂的教学环节应该要注重创设合适的生活情景启发学生的思考要让学生学会用数学的眼光观察现实世界用数学的思维思考现实世界用数学的语言去表达现实世界以上是我的集习演讲谢谢。\n[154.24 -> 159.94] 下面开始我的片段教学展示。\n[164.46 -> 191.916725] 上课同学们好那刚刚呢我们已经经历了两个探究活动啊探究一是诶我们让同学们去整理然后我们初中所学习过的一些三角形的相关性质相关结论啊探究二是诶我们让同学们去通过我们以前用几何的办法证明过的一些结论然后让同学们让用向量的方法在对这些结论进行决定啊那么同学们思考一下我们该如何用项链的办法去证明以前未证明得到的结论呢或者用项链去发现一些新的结论呢带着这样的问题我们继续今天的探究用项链法研究三角形的项链好从特殊到一般关于三角形的性质老师想到了一个我们初中学习过的三角形的三条中线相交于一点那这个焦点叫做三角形的重心那在物理中我们对重心又是这样描述的重心是物体各部分所受重力的合力的作用点形状规则且密度均匀的物体的重心重心就是它的几何中心那说明我们的重心它在几何学上在物理学上都有着重要的作用但我们对它的了解好像并不深刻那今天我们就来探究一下这个重心到底有怎样神秘的性质呢。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"用向量法研究三角形的性质\" (Using Vector Methods to Study the Properties of Triangles). This slide is displayed on the screen as the teacher enters the classroom.\n\n#### 2. **The Title Event**\n- The title \"用向量法研究三角形的性质\" is prominently displayed on the screen. The teacher does not physically write it but points to it, ensuring students focus on the title.\n\n#### 3. **The Objectives**\n- The slide includes a list of objectives or content points, though specific bullet points are not clearly visible. The teacher gestures towards these points, indicating their importance.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, emphasizing points as she speaks.\n- She occasionally points to the screen, directing attention to specific areas of the slide.\n- At one point, she uses a red circular marker on the podium, possibly to highlight or demonstrate something related to the lesson content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom and approaches the podium. The screen displays the title slide.\n- She stands at the podium, holding papers, and begins speaking, occasionally looking at the screen.\n\n**Middle:**\n- The teacher gestures with her hands while speaking, emphasizing key points.\n- She points to the screen, directing students' attention to the objectives listed on the slide.\n- The teacher moves slightly, maintaining eye contact with the audience and the screen.\n\n**End:**\n- The screen transitions to a new slide with the text \"问题1: 如何用向量方法求证三角形重心与顶点的距离关系?\" (Question 1: How to use vector methods to prove the relationship between the centroid and the vertices of a triangle?).\n- The teacher continues to speak, using hand gestures to emphasize the new question.\n- She stands near the screen, ensuring students focus on the new content.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to specific visual elements on the screen and board.",
+  "visual_narrative": "Initially, the screen presents the title \"用向量法研究三角形的性质\" as the opening visual stimulus, setting the stage for the lesson. The teacher stands at the podium, holding papers, and gestures towards the screen, emphasizing the importance of the title. To bridge to the main topic, she points to the objectives listed on the slide, ensuring students understand the lesson's focus. Finally, the visual focus shifts to a new slide with the question \"问题1: 如何用向量方法求证三角形重心与顶点的距离关系?\" displayed prominently. The teacher continues to gesture towards this new content, establishing the lesson goal and linking it to the students' existing knowledge of vectors and geometry. This structured introduction connects the overarching theme to specific learning objectives, preparing students for the exploration of vector methods in triangle properties.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Piecewise Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 141.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Triangle's Centroid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[164.46 -> 191.916725]"
+      },
+      {
+        "id": "c3",
+        "label": "Vector Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[164.46 -> 191.916725]"
+      },
+      {
+        "id": "c4",
+        "label": "Geometry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[164.46 -> 191.916725]"
+      },
+      {
+        "id": "c5",
+        "label": "Mathematics in Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 141.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Inquiry",
+        "type": "Student_State",
+        "cognitive_state": "Questioning",
+        "timestamp": "[0.0 -> 141.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Slide: Triangle Properties",
+        "type": "Visual",
+        "original_text": "Using Vector Methods to Study the Properties of Triangles",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Slide: Objectives",
+        "type": "Visual",
+        "original_text": "List of objectives or content points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Slide: Question 1",
+        "type": "Visual",
+        "original_text": "How to use vector methods to prove the relationship between the centroid and the vertices of a triangle?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[154.24 -> 159.94]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Connects piecewise functions to real-life applications."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Explores the geometric aspects of the triangle's centroid."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Uses vector methods for understanding the centroid properties."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Integrates vector methods into geometry."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to question the application of mathematics."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Uses visuals to focus on vector methods in teaching."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Highlights objectives relating to piecewise functions."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Student inquiry evolves into engagement."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Focuses on proving the centroid-vertex relationship."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Facilitates student engagement with the new material."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

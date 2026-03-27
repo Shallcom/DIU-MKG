@@ -1,0 +1,133 @@
+{
+  "video_name": "25_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Analyze the textbook text and construct authentic teaching situations; comprehend the youthful, uplifting theme in “Qinyuanchun – Changsha”; participate in poetry creation and learning centered on the theme of youth.",
+  "transcript": "[0.0 -> 42.16] 应当如何创造真实或者拟真的教学情境我的演讲题目是教学当设真实际青春当立凌云志。\n[43.2 -> 90.0] 我选取的篇目是沁园春长沙首先在创设真实情境时我们要分析教材和文本这篇课文属于必修上策的青春激扬人文主题的一篇课文在我们创设真实情境的时候要考虑本单元的人文主题是青春激扬同时单元的写作任务是写作诗歌因此我创设的情境是以青春诗运为主题我们开设了这样一个教学智慧云平台让同学们针对这一情境进行诗歌的学习与创作课前进行常识性学习课后进行学习升格写作。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a historical black-and-white photograph displayed on the screen. It features a group of people, likely from a significant historical event or context.\n\n#### 2. The Title Event\n- **Text on Screen**: The title displayed is \"天下大势，分久必合，合久必分\" (Translation: \"The great trend of the world, after a long division, must unite; after a long union, must divide\").\n- **Teacher's Action**: The teacher stands in front of the screen, presenting the title without additional emphasis like underlining.\n\n#### 3. The Objectives\n- **Bullet Points**: Not explicitly visible in the provided frames. The screen shows a list on the left side, but specific objectives are not readable.\n\n#### 4. Key Gestures\n- **Hand Movements**: The teacher gestures with her hand, possibly emphasizing points related to the title or photograph. She holds papers and occasionally points towards the screen.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Teacher's Entrance**: The teacher enters the classroom holding papers.\n- **Initial Gesture**: She stands in front of the screen, which displays the historical photograph and title.\n\n#### Middle\n- **Presentation**: The teacher remains stationary, occasionally gesturing towards the screen. She points to the photograph and title, likely explaining their significance.\n- **Student Engagement**: Students are seated, facing the teacher and screen, indicating active listening.\n\n#### End\n- **Final Gestures**: The teacher continues to gesture, possibly summarizing the introduction. She maintains focus on the screen content, linking her explanations to the visual elements.\n\n### Summary\nThe introduction phase centers around a historical photograph and a significant title, setting the context for the lesson. The teacher uses gestures to connect her verbal explanations with the visual content, guiding students through the initial engagement with the topic.",
+  "visual_narrative": "The introduction phase begins with the teacher standing confidently in front of the class, holding papers and presenting a historical black-and-white photograph as the opening visual stimulus. This photograph serves as the hook, capturing the students' attention with its evocative imagery. The teacher gestures towards the screen, which prominently displays the title \"天下大势，分久必合，合久必分,\" setting the thematic foundation for the lesson. As the teacher speaks, she occasionally points to the photograph and title, bridging the visual elements with her explanations. The slide remains focused on this initial content, allowing the teacher to elaborate on its significance. Through her gestures and positioning, she connects the historical context of the image to broader themes, likely preparing students to link this knowledge to their existing understanding of historical trends or upcoming discussions. This visual introduction effectively grounds the lesson, providing a clear and engaging entry point for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Authentic Teaching Situation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 42.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Qinyuanchun – Changsha",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[43.2 -> 90.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Youthful Theme",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[43.2 -> 90.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Poetry Creation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[43.2 -> 90.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Historical Photograph",
+        "type": "Visual",
+        "original_text": "A historical black-and-white photograph displayed as the hook object.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "World Trend Title",
+        "type": "Visual",
+        "original_text": "The great trend of the world, after a long division, must unite; after a long union, must divide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Initial Gesture",
+        "type": "Visual",
+        "original_text": "Teacher stands in front of the screen, displaying photograph and title.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Teaching Presence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 42.16]"
+      },
+      {
+        "id": "c10",
+        "label": "Youthful Aspirations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[43.2 -> 90.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The teaching situation includes discussion about the poem Qinyuanchun – Changsha."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The poem's theme is rooted in youthful spirit."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Students' poetry creation evolves from understanding the youthful theme."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Photo supports understanding of the world trend title."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Initial gesture emphasizes the title on screen."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Presence enhances the creation of authentic teaching situations."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Poetry creation is grounded in youthful aspirations."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Student engagement visualized through attention to the photograph."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

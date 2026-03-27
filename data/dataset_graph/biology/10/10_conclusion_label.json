@@ -1,0 +1,133 @@
+{
+  "video_name": "10_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the definition and classification of human genetic diseases; master the types of chromosomal disorders and related case analyses; be able to analyze the societal impact of human genetic diseases and propose measures to care for patients.",
+  "transcript": "[591.9513 -> 629.58] 在了解了人类遗传病的具体类别之后那通过今天的学习我们了解了什么叫做人类遗传病它是指遗传改变所引起的异类疾病那对染色体疾病的类型我们有了一定的认识它包括非常好看来大家对今天的学习掌握得非常到位下来请同学们以小组为单位开展调查工作调查五个家庭当中遗传病的情况并制作书面报告那通过刚才我们所提到的血友病这一类疾病以及刚才我们所了解到的二十一三体综合征我们看到患有人类遗传病的个体他们不光自身也遭受着病痛的折磨这对于家庭以及社会来说都是有一个巨大的负担的那作为当代青年我们应该怎么做呢\n[632.66 -> 651.26] 我们应该对于这些患病个体给予一定的关心和爱护让他们感受到社会的温暖对此我们应该以爱驱爱让爱启航好了我的生活课上到这里就结束了感谢各位老师的聆听各位学生的配合谢谢",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom.\n   - The screen displays a slide with a large text message: \"以爱聚智，让爱启航!\" (Gather love with intelligence, let love set sail!).\n   - The layout is simple, with a white background and black text, emphasizing the motivational message.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main text on the screen: \"以爱聚智，让爱启航!\".\n   - The blackboard on the left contains handwritten text: \"人造遥感卫星\" (Artificial Remote Sensing Satellites), \"一概念\" (Concept 1), and \"二案例\" (Case 2).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands near the screen, gesturing towards the motivational message, likely emphasizing its importance.\n   - The teacher's gestures are broad, possibly indicating a wrap-up or conclusion of the lesson, connecting the message to the lesson's content.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the screen or blackboard.\n   - The focus remains on the motivational message, suggesting a conclusion rather than a transition to the next lesson.\n\nThis structured visual summary highlights the lesson's closure with a motivational statement, linking the teacher's gestures to the final message displayed.",
+  "visual_narrative": "The lesson concludes with a motivational slide centered on the core message \"以爱聚智，让爱启航!\" displayed prominently on the digital screen. The teacher visually reviews the content by gesturing towards the message, emphasizing its significance as a closing thought. There is no additional visual handover to homework or next steps, as the focus remains on this final inspirational statement, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Human Genetic Disorders",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.9513 -> 629.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Chromosomal Disorders",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.9513 -> 629.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Case Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[591.9513 -> 629.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Societal Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.9513 -> 629.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Care Measures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[591.9513 -> 629.58]"
+      },
+      {
+        "id": "v1",
+        "label": "Motivational Message Slide",
+        "type": "Visual",
+        "original_text": "Gather love with intelligence, let love set sail!",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Artificial Remote Sensing Satellites",
+        "type": "Visual",
+        "original_text": "Artificial Remote Sensing Satellites",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Concept 1 - Remote Sensing",
+        "type": "Visual",
+        "original_text": "Concept 1",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Case 2 Analysis",
+        "type": "Visual",
+        "original_text": "Case 2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Human genetic disorders include chromosomal disorders."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Analyzing cases can highlight societal impacts."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Case analysis leads to proposing care measures."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The motivational message is linked to societal impact."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "The slide concludes the lesson, maintaining student engagement."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "includes",
+        "intent": "Artificial remote sensing satellites relate to Concept 1."
+      },
+      {
+        "source": "v3",
+        "target": "v4",
+        "relation": "builds_upon",
+        "intent": "Concept 1 provides a foundation for Case 2."
+      },
+      {
+        "source": "v4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Case 2 analysis evolves from previous case studies."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

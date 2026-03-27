@@ -1,0 +1,126 @@
+{
+  "video_name": "8_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the basic perspectives on the diversity of world cultures; recognize the uniqueness and historical value of Chinese culture; master the significance of pursuing the development path of socialist culture with Chinese characteristics.",
+  "transcript": "[743.803 -> 769.4] 来同学你来我觉得就是世界上的文化都是百花齐合百家争鸣的是有各种各样的文化因此我们只是但是每一个民族国家的文化都是有自身的特性的所以我们要走中国才能成为中国文化大道理的好请坐说得很好因为我们世界的文化它是多种多样的我们必须要尊重其他民族文化如果说世界的文化都一样的那我们这个世界就是灰掉的没有多姿多彩的颜色了我们四小四就一起来看我们的文化实力和国家的发展它其实不相称的我们国家拥有千年以上的历史和历史文化而美国虽然它现在在其他方面和军事方面是第一但是它的建国只有几百年所以说从这个方面我们可以看到文化的发展它是由我们国家的文化规律来决定的我们拥有这样的历史根基所以说应该来说发展的会越来越好。\n[772.0 -> 782.0] 好那么从这个材料呢我们可以看到只有走中国特色中国主义文化发展道路才能够推进我们中国文化的发展。\n[784.32 -> 788.5] 那最后就给大家呈现一个思维导图。\n[789.74 -> 803.48] 最后呢希望大家能够正确认识我们中国特色主义学与传统文化给大家布置一个课后作业呢就是技术性作业和拓展性学习作业好那么今天的课就上到这里。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a green and white color scheme with bullet points and headings.\n   - The blackboard contains a Venn diagram with two overlapping circles labeled \"文化\" (culture) and \"十七大\" (17th National Congress), with a shared section labeled \"文化发展的几个阶段\" (Several stages of cultural development).\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Content:\n     - Headings and bullet points in Chinese, including terms like \"文化发展\" (cultural development) and \"重要性\" (importance).\n   - Blackboard Content:\n     - Venn diagram with labels: \"文化\" (culture), \"十七大\" (17th National Congress), and \"文化发展的几个阶段\" (Several stages of cultural development).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the Venn diagram on the blackboard, likely emphasizing the relationship between the concepts of culture and the 17th National Congress.\n   - The teacher points to different sections of the slide, possibly highlighting key points or headings as part of the summary.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided. The focus remains on the summary content displayed on the slide and blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying key points in a green and white layout, alongside a Venn diagram on the blackboard illustrating the relationship between \"文化\" (culture) and \"十七大\" (17th National Congress). The teacher points to each section of the slide, emphasizing the bullet points and headings related to cultural development. Gestures are directed towards the Venn diagram, highlighting the overlapping stages of cultural development. The teacher's movements suggest a review of the interconnected concepts, reinforcing the central theme. No visual indication of homework or next steps is present, keeping the focus on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "World Cultures Diversity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[743.803 -> 769.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Uniqueness of Chinese Culture",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[743.803 -> 769.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Socialist Culture Path",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[772.0 -> 782.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Cultural Development Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[772.0 -> 782.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Historic Depth",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[743.803 -> 769.4]"
+      },
+      {
+        "id": "c6",
+        "label": "World Cultural Respect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[743.803 -> 769.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide with green and white layout featuring bullet points on cultural development.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Venn Diagram",
+        "type": "Visual",
+        "original_text": "Venn diagram with 'Culture' and '17th National Congress', highlighting overlapping stages.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "World cultures diversity includes the uniqueness of Chinese culture."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Development path of socialist culture evolves from the uniqueness of Chinese culture."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Socialist cultural path builds upon the understanding of cultural development's importance."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Historic depth builds upon the principle of world cultural respect."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Slide summarizes key points related to Venn diagram concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Venn diagram visualizes stages of cultural development importance."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts thinking about world cultures diversity."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Student engagement emphasizes understanding of summarized slide content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

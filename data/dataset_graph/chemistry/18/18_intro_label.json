@@ -1,0 +1,120 @@
+{
+  "video_name": "18_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Ensure that students strictly follow safety operating procedures during the experiment; develop students’ ability to analyze the causes of experimental failure; improve students’ collaboration and problem‑solving skills through group discussion.",
+  "transcript": "[0.0 -> 110.74] 首先切实关心当时的实验状况以及学生的安全情况把学生的安全放在首位并且告知学生在做实验的时候应一些的注意事项确保学生安全的前提下再进行下一步的环节其次针对实验不成功以及发生意外的原因可以使让同学们进行考虑思考比如如果课堂时间充足的话可以让同学们去进行小组讨论分组进行探究说为什么本次演示实验实验会不成功或者会发生这些意外呢这些实验状况外的情况可以开拓学生们的思维让学生们去思考为什么这些情况会出现在本实验中又为什么这些这些实验情况又是因为哪些意外的原因发生了呢其次通过这些实验探究和学生们的讨论的方式可以帮助学生在学习过程中开拓自己的思维的同时解决实验当堂的实际问题为学生日后学习更多的实验探究确保一定的基础打下一定的基础的同时提高学生的思维能力和解决实际问题的能力以上就是我的讲演部分。\n[120.0 -> 165.04] 现在开始我的模拟授课环节我们模拟授课的题目是实验探究搭建球柜模型认识有机化合物分子结构的特点首先在本节的开始老师想让我们同学一起来回顾一下在本章的学习过程中你们都学习到了哪些有机化合物本章重点以哪些化合物为准呢老师来帮同学们回忆一下比如本章的第一课时老师是通过以日常生活中加上做饭以使用煤气为例以煤气作为例以煤气以煤气燃烧为例我们学习了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide on the screen displaying the text: \"搭建球棍模型 认识有机化合物分子结构的特点\". This text serves as the initial hook for the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"搭建球棍模型 认识有机化合物分子结构的特点\". The teacher does not physically write this title but points to it on the screen, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The slide includes a list of learning objectives on the left side, though they are not fully legible. The main focus is on understanding the characteristics of organic compound molecular structures using ball-and-stick models.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely explaining the content displayed.\n- She points to the text on the screen, ensuring students focus on the key points.\n- The teacher uses hand movements to emphasize certain parts of the slide, possibly highlighting the objectives or key terms.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the projector screen, which displays the initial slide with the title \"搭建球棍模型 认识有机化合物分子结构的特点\".\n- She holds papers and gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to point at the screen, emphasizing the title and objectives.\n- She moves slightly to the left, possibly to reference the blackboard, though it remains mostly blank except for some faint writing on the left side.\n\n**End:**\n- The teacher transitions to a blank slide, signaling a shift in the lesson's focus.\n- She gestures with her hands, likely summarizing the introduction or preparing to move to the next activity.\n\n### Summary\nThe introduction phase of the lesson is visually anchored by the slide displaying the lesson's title and objectives. The teacher uses deliberate gestures to direct student attention to the screen, ensuring they understand the lesson's focus on organic compound molecular structures. The transition to a blank slide suggests a shift towards practical activities or further explanation.",
+  "visual_narrative": "The introduction phase begins with the teacher standing near the projector screen, which prominently displays the hook object: the title \"搭建球棍模型 认识有机化合物分子结构的特点\". This text serves as the initial visual stimulus, setting the stage for the lesson. The teacher holds papers and gestures towards the screen, directing students' attention to the objectives listed on the left side of the slide. Her deliberate pointing emphasizes key terms, ensuring students grasp the lesson's focus. As the introduction progresses, the teacher transitions to a blank slide, signaling a shift from theoretical introduction to practical application. This visual transition bridges the hook to the main topic, preparing students for hands-on activities with ball-and-stick models. Throughout, the teacher's gestures and movements create a clear link between the visual content and the upcoming exploration of organic compound structures, grounding new knowledge in visual and practical contexts to enhance understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Organic Compounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[120.0 -> 165.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Molecular Structures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[120.0 -> 165.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Ball-and-Stick Models",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[120.0 -> 165.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Safety Procedures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 110.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Experimental Failure Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 110.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Group Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 110.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Title Slide",
+        "type": "Visual",
+        "original_text": "Building Ball-and-Stick Models to Understand Organic Compound Molecular Structures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Learning Objectives Slide",
+        "type": "Visual",
+        "original_text": "Understanding characteristics of organic compound molecular structures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Organic compounds include various molecular structures."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Ball-and-stick models are used to visualize molecular structures."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Safety procedures prompt students to think about experimental failure analysis."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Experimental failure analysis guides group discussion."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The lesson title slide emphasizes the use of ball-and-stick models."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "The learning objectives slide summarizes the focus on molecular structures."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of organic compounds."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,126 @@
+{
+  "video_name": "2_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "- Master the common point on power‑function graphs and its associated properties.  \n- Understand the parity (odd/even) characteristics of power functions.  \n- Be able to analyze problems by applying the monotonicity of functions.",
+  "transcript": "[682.875467 -> 741.68] 好我看同学们都完成了差不多了好我们先来解决第一个问题这些函数图像有公共点吗那我们看我们看到这个图很明显我们发现这些图像都会经过哪个点一逗号一这个点对不对嗯非常好好那么这个第一个问题我们就解决了它们都会经过一这个点好那我们再根据我们刚刚填的表格的内容你能发现什么样的共同特征呢看到九十页好我们请这位同学来回答一下通过我们的函数图像以及你刚刚完成的表格你能得到什么样的性质呢或者什么样的特征呢特征特点呢比如说第一条就是这些函数都经过点一一然后呢积函数和偶函数有什么样的特征积有性有什么样的特征哪些函数是积函数哪些是偶函数当阿法等于一三负一的时候是积函数当阿法等于二的时候是偶函数也就是说当这个幂是一三和负一的时候是基函数当这个幂是二的时候是偶函数非常好请坐好那你还能得出什么样的结论呢从我之前学过的单调性上来看的话我发现首先Y等于XY等于X三次方还在负重到正重上应该是单调递增的然后Y等于X的二分之一次的话它在它的定义上零到正度程度上也是带着递增的而Y等于X的平方的话它是在复充到零上时间到。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard displays a graph of the function $y = x^2$ and a list of equations:\n     1. $y = 1.8W$\n     2. $S = 0$\n     3. $V = 0.5^3$\n     4. $C = \\sqrt{5} - S^2$\n     5. $V = v + t^1$\n   - The digital screen shows a table with various columns and rows, likely summarizing key concepts or data related to the lesson.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas on the blackboard:\n     - Graph: $y = x^2$\n     - Equations: $y = 1.8W$, $S = 0$, $V = 0.5^3$, $C = \\sqrt{5} - S^2$, $V = v + t^1$\n   - Digital screen content includes a table with headings and data entries, though specific text is not fully legible.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the graph of $y = x^2$ on the blackboard, likely summarizing its properties or significance.\n   - The teacher gestures towards the list of equations, possibly reviewing each one in sequence.\n   - The teacher interacts with a student, who then approaches the digital screen, indicating a collaborative review or final check of the table content.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on reviewing the current content, with no visible transition to next steps or assignments.",
+  "visual_narrative": "The lesson concludes with a dual summary artifact: a blackboard graph of $y = x^2$ and a list of equations, alongside a digital screen displaying a summary table. The teacher visually reviews the content by pointing to the graph and sequentially gesturing towards each equation on the blackboard. This methodical review emphasizes the relationships and solutions presented throughout the lesson. The final emphasis is placed on the digital screen as a student approaches it, suggesting a collaborative final check. There is no visible homework or next-step instruction, keeping the focus on consolidating the current knowledge points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Common Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[682.875467 -> 741.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Power Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.875467 -> 741.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Odd Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.875467 -> 741.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Even Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.875467 -> 741.68]"
+      },
+      {
+        "id": "c5",
+        "label": "Monotonicity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.875467 -> 741.68]"
+      },
+      {
+        "id": "c6",
+        "label": "y = x^2 Graph",
+        "type": "Visual",
+        "original_text": "Graph of y = x^2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Equations List",
+        "type": "Visual",
+        "original_text": "Equations: y = 1.8W, S = 0, V = 0.5^3, C = sqrt(5) - S^2, V = v + t^1",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Summary Table",
+        "type": "Visual",
+        "original_text": "Table summarizing key concepts",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Collaborative Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding the common point on power function graphs."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Odd parity of some power functions."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Even parity of some power functions."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Analyzing monotonicity within power functions."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Illustrates the quadratic power function y = x^2."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Displays various equations in relation to monotonicity."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Final review and collaboration on lesson summary."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Shows the graph that passes through the common point."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

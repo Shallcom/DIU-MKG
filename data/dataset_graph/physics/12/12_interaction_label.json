@@ -1,0 +1,154 @@
+{
+  "video_name": "12_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand and be able to apply Boyle’s law for data analysis.",
+  "transcript": "[480.76 -> 484.78] 那现在请大家利用手中的容器进行实验我们下面邀请两个小组来分享你们小组得到的实验数据。\n[497.56 -> 560.26] 好时间到通过刚刚老师观看各个小组的实验结论我看到同学们都将P与V的数据记录并且进行了一定的数据处理证明同学们对于实验的能力掌握得非常好同时我观察到两个小组他们得出了不同的实验数据第一个小组他们得到的图像是PV图她们组得到的图像是类似于双曲线的一个图像。\n[562.42 -> 600.76] 但是我观察到这名女生这个小组她们组得到的图像却是一条近似于直线的PV分之一的图像其实通过大量的实验英国科学家郭伊尔他们得出一定质量的气体在温度不变的情况下压强P与体积V成反比这个实验结论也就印证着刚刚同学们所做的实验数据都是类似准确的例如第一小组的双曲线图像以及第二小组的直线过远点的直线图像这就是著名的波伊尔定律公式显为PVC。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher turned towards the class, holding a pointer, and gestured broadly across the room, signaling the start of a discussion or question period. This gesture invited students to engage and share their thoughts.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the blackboard, specifically the diagrams and equations related to isothermal changes of gases. The teacher pointed to the graphs and the written content, which included the title \"9.2.2 气体的等温变化\" and the sections \"一、等温变化\" and \"二、实验探究.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and used the pointer to highlight specific parts of the diagrams on the blackboard. She occasionally gestured towards the interactive screen, which displayed related content, to reinforce the student's points or to guide the discussion.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded affirmatively and used the pointer to circle key elements on the blackboard, such as the graphs representing pressure ($P$) and volume ($V$) relationships. She also wrote additional notes next to the diagrams to clarify or expand on the student's explanation, ensuring the concepts were visually reinforced.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes \"9.2.2 气体的等温变化\" on the blackboard, establishing the topic.\n  - She adds \"一、等温变化\" and \"二、实验探究,\" outlining the lesson structure.\n\n- **Middle:**\n  - The teacher draws graphs on the blackboard, illustrating the inverse relationship between pressure and volume for isothermal processes.\n  - She points to the graphs and the interactive screen, which displays related content, to explain the concepts visually.\n\n- **End:**\n  - The teacher uses the pointer to highlight specific parts of the graphs and equations, such as $PV = \\text{constant},$ ensuring students understand the mathematical representation.\n  - She circles key points on the blackboard and adds notes to visually confirm and elaborate on student contributions, reinforcing the lesson's key takeaways.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed the title \"9.2.2 气体的等温变化\" with sections \"一、等温变化\" and \"二、实验探究,\" setting the stage for the lesson on isothermal processes. The teacher began by gesturally inviting students to participate, using a broad sweep of her arm and pointing to the diagrams on the blackboard, which depicted pressure ($P$) and volume ($V$) relationships.\n\nAs the student explained their reasoning, the teacher walked over to the board and used a pointer to highlight specific parts of the graphs, reinforcing the inverse relationship between $P$ and $V$. She occasionally glanced at the interactive screen, which displayed related content, nodding to encourage the student while maintaining visual focus on the key concepts.\n\nTo validate the student's explanation, the teacher gave a distinct nod and circled the equation $PV = \\text{constant}$ on the blackboard. She then drew arrows connecting this equation back to the graphs, visually linking the student's response to the core lesson content.\n\nFinally, she summarized the discussion by reinforcing the diagrams and equations, ensuring students actively connected their understanding to the broader principles of isothermal changes. This visual orchestration helped students move from passively receiving knowledge to actively constructing their own understanding by linking their insights to the lesson's foundational concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Boyle's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[562.42 -> 600.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Pressure and Volume Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[562.42 -> 600.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Isothermal Changes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[480.76 -> 484.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Experimentation Data Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[497.56 -> 560.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Pressure ($P$)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[497.56 -> 600.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Volume ($V$)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[497.56 -> 600.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Experiment Conclusion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[497.56 -> 560.26]"
+      },
+      {
+        "id": "c8",
+        "label": "Curve Graph Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[497.56 -> 560.26]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams depicting $P$ and $V$ relationships.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Interactive Screen Content",
+        "type": "Visual",
+        "original_text": "Screen displaying related Boyle's Law content.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[480.76 -> 484.78]"
+      },
+      {
+        "id": "s2",
+        "label": "Data Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[497.56 -> 560.26]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Boyle's Law explains the inverse relationship between pressure and volume."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Diagrams on the blackboard illustrate the pressure and volume relationship."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Understanding isothermal changes is necessary for engaging in experimentation data analysis."
+      },
+      {
+        "source": "c4",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Teacher guides discussion on experiment data."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Students engage in group discussion to arrive at experiment conclusions."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Interactive screen content emphasizes the relevance of curve graph analysis."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Pressure and volume are critical variables in Boyle's Law."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Teacher uses blackboard diagrams to scaffold understanding of volume concepts."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Experiment conclusions help validate Boyle's Law."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

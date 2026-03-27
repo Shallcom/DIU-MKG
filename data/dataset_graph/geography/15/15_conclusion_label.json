@@ -1,0 +1,178 @@
+{
+  "video_name": "15_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Analyze the impact of artificial island construction on Japan’s economy and society; understand the balance between ecology and economic development.",
+  "transcript": "[649.6 -> 799.68] 除此之外还有更多的很难堪的你们觉得他的中间从多跟朋友来考虑从生态里面还有一些生活里面的故事在落后好同学们讨论得怎么样了能不能找出它的一些优缺点你认为它有哪些优点和缺点好哪一组同学先来我们优点的同学先来他有哪些优点人工岛有哪些优点的人工岛的建设对于日本来说能有哪些优点他有哪些优点人工岛的建设对于日本来说能有哪些优点人工岛有哪些人工岛它扩大了它本来又不多的陆地面积扩大了领土面积可以让它的发展更加的广阔进展经济的发展然后人工岛可以建设一些港口深水段之类的配套设施然后提高这个居民的幸福指数提高居民的幸福指数为居民提供了更好的生活条件然后这种像一些深海的一些空间的利用可以提供一些陆地上的进行的研究场所有益于科研的开发啊拓展了他们的科研空间那想想看能不能开展一些旅游业的建设还可以开展旅游业对不对然后丰富他们的经济来源主要是从经济这一方面还有人们的生活条件这一方面进行改善对吗好确定的同学你们认为他有哪些确定问题啊时间到了对时间到了可以嗯。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the large screen at the front of the classroom.\n   - The screen displays a slide with a map and text in Chinese, focusing on coastal engineering and human impact on the ocean.\n   - The layout includes a map on the left and a block of text on the right, with a title at the top.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide title includes phrases like \"海洋空间\" (ocean space) and \"新课题迁移\" (new topic migration).\n   - The map shows a coastal area with a man-made structure, likely related to coastal engineering.\n   - The text block discusses coastal engineering and its implications, mentioning \"人工岛\" (artificial island).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the map on the screen, likely highlighting specific areas or features related to coastal engineering.\n   - The teacher gestures towards the text, possibly emphasizing key points or definitions about artificial islands and their impact.\n   - The teacher uses hand movements to connect the map and text, reinforcing the relationship between visual and textual information.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the screen or board in these frames.\n   - The blackboard has some text and diagrams, but they are not the focus of the summary and do not indicate next steps.\n\nThis structured visual summary consolidates the lesson's focus on coastal engineering and human impact, with the teacher actively linking visual and textual elements to reinforce key concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displaying a map of a coastal area alongside a block of text discussing artificial islands and their implications. The teacher visually wraps up the lesson by pointing to specific areas on the map, likely highlighting key features of the coastal engineering project. She then gestures towards the text, emphasizing important points about the construction and impact of artificial islands. The teacher's movements connect the map and text, reinforcing the relationship between the visual representation and the written explanation. No visual indication of homework or next steps is present, focusing the conclusion solely on the core concepts of coastal engineering and human impact on ocean spaces.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Artificial Island",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Japanese Economy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Coastal Engineering",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Territorial Expansion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c5",
+        "label": "Port Construction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Deep Water Facilities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Happiness Index",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Scientific Research",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c9",
+        "label": "Tourism Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "c10",
+        "label": "Economic Improvement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[649.6 -> 799.68]"
+      },
+      {
+        "id": "v1",
+        "label": "Map of Coastal Area",
+        "type": "Visual",
+        "original_text": "Slide showing map of coastal area with man-made structure.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Text on Artificial Islands",
+        "type": "Visual",
+        "original_text": "Text discussing artificial islands and their implications.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Class Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links artificial islands to their impact on Japan's economy."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Includes artificial island as a concept within coastal engineering."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Artificial islands contribute to territorial expansion."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Port construction is a use of artificial islands."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Deep water facilities are potential structures on artificial islands."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Artificial islands may improve the happiness index by improving living conditions."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Facilitates scientific research development by providing new space."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Tourism can be developed on artificial islands."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Artificial islands contribute to economic improvement."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Map illustrates coastal engineering projects."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Text emphasizes the impact and design of artificial islands."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students engage in discussions about the impact on Japan's economy."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,211 @@
+{
+  "video_name": "48_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the trigonometric form of complex numbers and its representation methods; understand the concept and computation of the argument; be able to convert complex numbers between algebraic and trigonometric forms.",
+  "transcript": "[489.657 -> 525.52] 零度非常好这位同学反应非常的迅速我们C是等于零度的那同样的A和B分别等于多少呢这位同学A是等于二乘二三零度就是二非常好那B呢B是二三零就是零非常好这位同学的思维非常的密切请坐我们可以知道A呢就等于RcosZ是R而B呢就是RsinZ就等于零那么Z等于A加BI就可以表示成Rcosθ加Rsinθ最后就等于同学们最后等于多少好最后就等于R那么在虚轴上时按照同样的探究方法首先它的θ等于多少呢I非常好等于二分之太也就是九十度那同样的A和B分分别等于多少啊A等于B呢非常好同学们的思维非常的敏捷那么按照同样的方法A加BI它就等于等于RI非常好那其实这两个形式是不是同样的适用了我们的Z等于R括号cosθ加IIsinθ它同样发现它在石轴和须轴上也是成立的那就说明了它在任何区域都是成立的。\n[526.96 -> 548.68] 它在任何区域都是成立的由此它在任何时候都是成立的由此呢我们就得到了第一个结论同学们一起阅读一下一般的。\n[554.44 -> 561.24] 一般的呀任何一个复数Z等于A加BI它都可以表示成。\n[572.68 -> 609.66] 它可以表示什么样的形式呢R乘于同学们可以一起说出来Rcosθ加上Isinθ同学们要在课堂上要更积极一点那么其中R就是负数Z的我而θ是负半轴的始变向向OZ所在的射线是为中边的角那么它叫做负数的辐角什么叫负数的辐角呢这位同学重复一下就是以X的非负半周为十边向向OZ的所在射线为中间所形成的角非常好这位同学的学习非常的认真那么负数的辐角它叫做负数Z等于二A加BI的三角表示式简称三角形式为了与三角形式区分开来我们的A加BI叫做负数的代数表示形式简称为代数形式那同学们是不是所有的都与我们的C它是有关的呀那么下面我们来看看C它到底是什么呢负为零的负数的辐角它有多少个值呢每个值之间相差多少呢同学们可以小组讨论思考一下。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the mathematical expression on the blackboard: $z = 8 + 6i$. This was prominently displayed, and the teacher referred to it multiple times during the interaction.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher wrote additional content on the blackboard, specifically the phrase \"模长 - 实部 - 虚部\" (modulus - real part - imaginary part). This provided a visual cue to guide the student's understanding.\n- The teacher also wrote the expression $z = a + bi$ and then $r(\\cos\\theta + i\\sin\\theta)$, linking the student's verbal response to the visual representation on the board.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the newly written expressions on the blackboard, visually confirming the correctness of the student's input.\n- The teacher also drew a box around the final expression $r(\\cos\\theta + i\\sin\\theta)$, emphasizing its importance and correctness.\n- Additionally, the teacher used hand gestures to point to specific parts of the expressions, reinforcing the connection between the student's explanation and the visual content.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher points to the digital screen displaying the formula $z = r(\\cos\\theta + i\\sin\\theta)$, highlighting the transformation from rectangular to polar form.\n  - The teacher writes \"模长 - 实部 - 虚部\" on the blackboard, setting up the visual framework for the interaction.\n\n- **Middle:**\n  - The teacher writes $z = a + bi$ and then $r(\\cos\\theta + i\\sin\\theta)$ on the blackboard, visually scaffolding the student's explanation.\n  - The teacher circles these expressions, providing visual confirmation of the student's correct understanding.\n\n- **End:**\n  - The teacher draws a box around $r(\\cos\\theta + i\\sin\\theta)$, emphasizing its significance.\n  - The teacher uses hand gestures to point to different parts of the expressions, reinforcing the visual connection between the student's verbal response and the written content.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring that the student's understanding is both validated and visually reinforced.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the mathematical expression $z = 8 + 6i$, setting the stage for the lesson on complex numbers. The teacher began by gesturally inviting students to participate, making a sweeping gesture across the classroom to engage everyone. This broad motion signaled the start of an interactive segment, focusing attention on the core problem displayed.\n\nAs the student began explaining their reasoning, the teacher moved to the blackboard and wrote down key terms: \"模长 - 实部 - 虚部\" (modulus - real part - imaginary part). This visual scaffolding provided a framework for the student's explanation. The teacher then wrote the expressions $z = a + bi$ and $r(\\cos\\theta + i\\sin\\theta)$, linking the student's verbal response to the visual content on the board. These actions supported the student by translating their thoughts into clear, written form, facilitating a deeper understanding.\n\nTo validate the student's explanation, the teacher circled the newly written expressions and drew a box around $r(\\cos\\theta + i\\sin\\theta)$, emphasizing its importance. This visual confirmation highlighted the correctness of the student's input. The teacher also used hand gestures to point to different parts of the expressions, reinforcing the connection between the student's explanation and the lesson content.\n\nFinally, the teacher drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, linking the new understanding to the broader lesson. This visual connection helped students see how their response fit into the larger context of the lesson, moving them from passive recipients to active constructors of knowledge. Through these orchestrated visual strategies, the teacher effectively facilitated the application and verification of knowledge, ensuring that students actively engaged with and internalized the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Complex Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[489.657 -> 609.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Algebraic Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[489.657 -> 609.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Trigonometric Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[489.657 -> 609.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Modulus",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[554.44 -> 561.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Argument",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[572.68 -> 609.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Rectangular to Polar Conversion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[572.68 -> 609.66]"
+      },
+      {
+        "id": "c7",
+        "label": "R*cos(theta)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.68 -> 609.66]"
+      },
+      {
+        "id": "c8",
+        "label": "I*sin(theta)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.68 -> 609.66]"
+      },
+      {
+        "id": "c9",
+        "label": "Real Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[489.657 -> 609.66]"
+      },
+      {
+        "id": "c10",
+        "label": "Imaginary Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[489.657 -> 609.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Expression: z = 8 + 6i",
+        "type": "Visual",
+        "original_text": "Initial complex number on board",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Expression: z = a + bi",
+        "type": "Visual",
+        "original_text": "General algebraic form on board",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Expression: r(cos(theta) + i*sin(theta))",
+        "type": "Visual",
+        "original_text": "Trigonometric form on board",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Modulus - Real Part - Imaginary Part",
+        "type": "Visual",
+        "original_text": "Written terms on the board",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v5",
+        "label": "Teacher Gesture",
+        "type": "Visual",
+        "original_text": "Teacher sweeping gesture inviting participation",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher introduces the specific complex number."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Highlighting the algebraic form of complex numbers."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Demonstrating transformation into trigonometric form."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Modulus incorporates the real part of complex numbers."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Modulus incorporates the imaginary part of complex numbers."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Trigonometric form involves the computation of the argument."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Linking the conversion process to its expression."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Conversion results in identifying R*cos(theta)."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Conversion results in identifying I*sin(theta)."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Visual bridge between algebraic and trigonometric forms."
+      },
+      {
+        "source": "v4",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Physical representation of key concepts related to complex numbers."
+      },
+      {
+        "source": "v1",
+        "target": "v5",
+        "relation": "emphasizes",
+        "intent": "Gestural reinforcement of student participation invitation."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Final expression encasing the argument's role."
+      },
+      {
+        "source": "s1",
+        "target": "v5",
+        "relation": "visualizes",
+        "intent": "Teacher's gesture facilitates student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

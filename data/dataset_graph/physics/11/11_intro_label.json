@@ -1,0 +1,141 @@
+{
+  "video_name": "11_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "To stimulate students’ interest in learning physics; to cultivate students’ scientific inquiry abilities.",
+  "transcript": "[0.0 -> 4.3] 字幕由 Amara.org 社区提供。\n[8.82 -> 15.48] 最近的各位评论老师亲爱的同学们大家好我是十一号参加选手。\n[16.82 -> 120.84] 我抽到极简短的题目是学生抱怨高中物理太难完全听不懂不想学我作为新分来的读者老师兼班主任我打算怎么做首先我会向同学阐述物理学习的重要性物理是高考中一门非常重要的学科物理也是以实验为基础的在实验中进行学习也可以让大家感受一些物理的乐趣而且我作为物理老师兼班主任也是从一名高中学生过来的我也会给学生带来一些信心和帮助在生活中我会带领大家发现物理的一些神奇现象一如光的折射中我们可以发现两道彩虹的神奇现象以及讲述一些物理学史并将信息技术带入课堂在课前我会布置一些小实验来提升学生的学习兴趣在课中通过创作物理情境让学生真正发现物理爱上物理并认真学习物理在课后我会布置一些时间性作业来巩固学生对于本级课的理解在平时班级管理中我也会利用来鼓励学生多学多问及时做好总结记笔记并可以写一些知识矿图与学生们共同探究物理的乐趣让学生发现物理爱上物理以上便是我的极其扬言下面是我的模拟教学片段展示好上课同学们在上节课上我们已经探究过平滑运动的特点那今天我们首先来观看一段中国女排的比赛视频。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image on the screen to the left of the teacher. It shows a colorful illustration of a person with a syringe, likely related to a biological or health topic. The text next to the image is partially visible, with the characters \"律\" and \"ET\" clearly seen.\n\n#### 2. **The Title Event**\n- **Title on Screen**: The visible text on the screen includes \"运动的规律\" which translates to \"Laws of Motion.\"\n- **Teacher's Action**: The teacher is standing in front of the screen, holding papers, and appears to be reading or presenting. There is no direct action of writing or underlining observed.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or board in the provided frames.\n\n#### 4. **Key Gestures**\n- **Hand Movements**: The teacher is holding papers and occasionally gesturing with them, possibly emphasizing points. There is no direct pointing or specific gesture linked to the board content observed.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of the class, holding papers. The screen displays an image with a syringe and partial text \"律\" and \"ET.\"\n- The teacher begins reading from the papers, likely introducing the topic.\n\n**Middle**\n- The teacher continues to gesture with the papers, maintaining focus on the content being presented.\n- The screen remains static, showing the same image and text, reinforcing the initial hook.\n\n**End**\n- The teacher continues to engage with the class, using hand gestures to emphasize points from the papers.\n- The blackboard remains blank, with no additional writing or diagrams introduced during this segment.\n\n### Summary\nThe introduction phase of the lesson is initiated with a visual hook of a syringe image and partial text on the screen. The teacher uses papers to present, likely outlining the \"Laws of Motion.\" No specific learning objectives or additional gestures linking to board content are observed. The focus remains on the teacher's verbal presentation and the static visual aid.",
+  "visual_narrative": "Initially, the screen presents an image of a syringe alongside partial text, serving as the hook to capture attention. To bridge to the topic, the teacher stands in front of the screen, holding papers and gesturing to emphasize points from the presentation. The visual focus remains on the screen, which displays the text \"运动的规律,\" establishing the lesson goal of exploring the laws of motion. The teacher's actions, such as reading from the papers and using hand gestures, help transition the class from the initial hook to the main topic. This approach likely connects the visual stimulus to the broader concept of motion, setting the stage for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Physics Learning Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Experiment-Based Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Physical Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c4",
+        "label": "History of Physical Science",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Technology in Education",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Pre-Class Experiments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Physics Context Creation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Post-Class Exercises",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[16.82 -> 120.84]"
+      },
+      {
+        "id": "c9",
+        "label": "Chinese Women's Volleyball Video",
+        "type": "Visual",
+        "original_text": "Screen displays a video of the Chinese women's volleyball game.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Laws of Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "v1",
+        "label": "Syringe Image with Text",
+        "type": "Visual",
+        "original_text": "Image of a syringe with partial text '律' and 'ET'.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Highlights the significance of learning through experiments."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Encourages discovery of interesting physical phenomena."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Discusses the history to enhance understanding of physical sciences."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Integrates technology to facilitate learning."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Utilizes pre-class experiments to create engaging contexts in class."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Post-class exercises reinforce learning gained in class."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Video used to demonstrate real-world application of physics principles."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "Image and text on screen introduce the topic of motion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

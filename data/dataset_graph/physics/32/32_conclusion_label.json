@@ -1,0 +1,160 @@
+{
+  "video_name": "32_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Identify the basic characteristics of alpha, beta, and gamma particles; compare the ionizing ability and penetrating power of the three types of radioactive particles.",
+  "transcript": "[540.0 -> 557.26] 阿尔法粒子它一点零一点零它的电荷量呢电荷量电子两倍电子的样异电离是吧穿透力呢走路。\n[561.02 -> 566.82] 接下来请同学们阅读第二一段材料找出贝塔粒子它的特点。\n[576.02 -> 621.48] 这位老师他的电离教路穿出比较强电离较弱穿透比较强那它的电荷量呢我们可以读出它是高速的电子流那么电子的话就应该是电子的所带的电荷量就应该是非常好。\n[634.52 -> 641.94] 接下来请同学们阅读教材当中的第三一段材料找出伽马粒子的特点。\n[654.7 -> 661.76] 这段材料就很简单了直接请岳同学你来说一说吧。\n[664.52 -> 695.5] 电磁力不强电离弱更弱也就是伽马粒子是这三种当中最弱的穿透力呢是这三种当中最强的那么通过刚才的学习啊我们就通过刚才的学习你们认识到了阿尔法伽马别谈一次了。\n[696.6 -> 706.34] 从他们所带的电和量异变里的程度以及他们的穿透能力得出了他们这三者之间的性质。\n[709.42 -> 712.62] 我的模拟学科片段到此结束了。\n[724.52 -> 728.74] 好啊是让他留下来菜菜的六点。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a structured list of key points and diagrams.\n   - The layout includes a title \"与α粒子核的结构\" (Structure with α particles) and a section labeled \"二、原子核的组成\" (Composition of the atomic nucleus).\n   - There are diagrams and equations related to atomic structure, including symbols like $e$ and $-e$.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"与α粒子核的结构\" (Structure with α particles), \"二、原子核的组成\" (Composition of the atomic nucleus).\n   - Key terms: \"质子\" (proton), \"中子\" (neutron), \"库仑力\" (Coulomb force), \"强相互作用力\" (strong interaction force).\n   - Symbols: $e$ (electron), $-e$ (negative charge), and arrows indicating forces.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title \"与α粒子核的结构\" to emphasize the main topic.\n   - She circles the terms \"质子\" and \"中子\" to highlight their importance in the atomic nucleus composition.\n   - The teacher traces the arrows between $e$ and $-e$ to illustrate the interaction forces.\n   - She underlines \"库仑力\" and \"强相互作用力\" to distinguish between different forces acting within the nucleus.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen displays a slide with text and a diagram, but no specific instructions for next steps are visible.\n\nThis structured visual summary consolidates the key concepts of atomic structure and forces, with the teacher's gestures reinforcing the critical elements on the blackboard.",
+  "visual_narrative": "The lesson concludes with a structured blackboard summary centered on the composition of the atomic nucleus. The teacher visually reviews the content by pointing to the title \"与α粒子核的结构\" and circling key terms like \"质子\" and \"中子.\" She traces the arrows between $e$ and $-e$ to illustrate interactions, underlining \"库仑力\" and \"强相互作用力\" to highlight their significance. The visual focus remains on the core concepts, with no explicit homework or next-step instructions visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Alpha Particle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[540.0 -> 557.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Ionizing Ability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 557.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Penetrating Power",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 557.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Beta Particle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.02 -> 566.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Gamma Particle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[634.52 -> 641.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Proton",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[576.02 -> 621.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Neutron",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[576.02 -> 621.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Coulomb Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[576.02 -> 621.48]"
+      },
+      {
+        "id": "c9",
+        "label": "Strong Interaction Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[576.02 -> 621.48]"
+      },
+      {
+        "id": "v1",
+        "label": "Structure with Alpha Particles",
+        "type": "Visual",
+        "original_text": "Title and diagrams on the blackboard highlighting alpha particle structure.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Atomic Nucleus Composition",
+        "type": "Visual",
+        "original_text": "Section on blackboard discussing atomic nucleus composition.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Force Arrows",
+        "type": "Visual",
+        "original_text": "Arrows on the board indicating electron interaction forces.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Reading Material",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The blackboard visually represents the structure of alpha particles."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how alpha particles have specific ionizing abilities."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains how alpha particles have specific penetrating powers."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Students are engaged in finding characteristics of beta particles from reading material."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Students ask to find characteristics of gamma particles from reading material."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Protons are visually presented in the atomic nucleus composition section."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Neutrons are visually presented in the atomic nucleus composition section."
+      },
+      {
+        "source": "c8",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Coulomb forces are represented by arrows on the board."
+      },
+      {
+        "source": "c9",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Strong interaction forces are represented by arrows on the board."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

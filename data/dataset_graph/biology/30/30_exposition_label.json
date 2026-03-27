@@ -1,0 +1,172 @@
+{
+  "video_name": "30_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Be able to explain the mechanism by which vaccines prevent disease; be able to list common vaccine types and describe their uses; be able to analyze the public‑health value of different vaccines.",
+  "transcript": "[134.62 -> 143.48] 上课同学们好今天我们一起来学习免疫学的应用那么在上课之前老师想要问大家都接种过哪些疫苗呢\n[145.6 -> 147.08] 大家都接种过哪些疫苗啊\n[148.74 -> 261.16] 对最常见的就是新冠对吧这个对我们印象来说很深刻那同学们请思考一下为什么我们接种疫苗之后就可以避免病原体的侵害了呢请大家思考一下其实啊当我们接种疫苗的时候那就可以刺激我们机体的免疫系统发生特异性免疫然后呢就可以针对我们的抗原进行一对一的清除那是不是就相当于给我们的抗原贴上了一个招牌标啊告诉抗体快来消灭我那么呢我们的抗原进行一对一的清除那是不是就相当于给我们的抗原贴上了一个招牌标啊告诉抗体快来消灭我那么就是用这种方式来避免了病原体的侵害那免疫学的应用还有哪些呢现在我们就来一起探究首先我们来明确地知道一下什么叫疫苗疫苗就是用灭活的或者减毒的病原体制作而成的比如说在新冠疫情的时候就曾有人用过康复的新冠患者的病原抗原然后注射在了非常严重的患者的身体里面他就康复了其实和疫苗的原理是一样的那么种类有卡介苗卡介苗其实就是大家左手臂上那个小疤啊这个就是我们接种的卡介苗那么还有脊髓灰质炎疫苗和麻疹疫苗这两个呢我们可能不太熟悉但是我们讲到HPV疫苗大家应该有所了解吧知道吗对其实呢也就是我们常常说的二驾呀四驾呀九驾呀但是啊这个HPV疫苗就非常厉害了因为它预防的是啊它是我们世界上第一个预防癌症的疫苗是人类在研发疫苗的进行当中具有里程碑式的意义所以这个HPV疫苗是非常重要的",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with text and images. The slide includes a title and a cartoon character.\n- The teacher gestures towards the screen, likely introducing the topic. The blackboard is initially blank except for some pre-written text on the left side.\n\n**Middle:**\n- The teacher writes on the blackboard, adding the phrase \"電気製品の三原則\" (Three Principles of Electrical Products).\n- The teacher points to the digital screen, which now shows images of electrical products. The teacher uses hand gestures to emphasize points related to the images.\n- The teacher continues to speak, occasionally pointing to specific parts of the screen, such as a highlighted section with text.\n\n**End:**\n- The teacher stands near the blackboard, having completed the writing. The screen displays additional text and images, including a red arrow pointing to a specific product.\n- The teacher uses hand gestures to summarize the key points, likely referring to both the blackboard and the screen.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying a slide with text and images of electrical products. The initial state includes a title, a cartoon character, and product images.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"電気製品の三原則\" on the blackboard while explaining the principles.\n- **Modifications**: The teacher points to different sections of the screen, highlighting specific products and text as the explanation progresses.\n- **Deictic Gestures**: The teacher points to the images on the screen, likely saying \"this\" or \"here\" to refer to specific products or text.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the screen, such as pointing to a red arrow and specific text.\n- The blackboard text \"電気製品の三原則\" is written clearly to mark the main topic of discussion.\n\nThis structured visual evolution helps in understanding how the teacher connects physical actions with visual content to convey the lesson effectively.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a slide titled \"電気製品の三原則\" with a cartoon character and introductory text. The blackboard had pre-written text on the left side. The teacher began by writing \"電気製品の三原則\" on the blackboard, establishing the core topic. As the lecture progressed, the teacher constructed the explanation by pointing to images of electrical products on the screen, tracing specific details to illustrate key principles. The teacher annotated the screen content, highlighting a red arrow pointing to a product and emphasizing related text. Throughout, the teacher used hand gestures to derive connections between the blackboard notes and screen visuals. Finally, the teacher summarized by circling important points on the screen and reinforcing the principles written on the blackboard, ensuring a cohesive understanding. This visual strategy, combining screen highlights and board annotations, effectively reduced cognitive load by aligning spoken content with clear, step-by-step visual cues.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Vaccines",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[134.62 -> 143.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Disease Prevention Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Common Vaccines",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Immune System Activation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Antigen Labeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c6",
+        "label": "COVID-19 Vaccine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[145.6 -> 147.08]"
+      },
+      {
+        "id": "c7",
+        "label": "BCG Vaccine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Polio Vaccine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c9",
+        "label": "Measles Vaccine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "c10",
+        "label": "HPV Vaccine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.74 -> 261.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Electrical Products",
+        "type": "Visual",
+        "original_text": "Slide displays images and text on electrical products.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Writing",
+        "type": "Visual",
+        "original_text": "Blackboard with 'Three Principles of Electrical Products'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Immune activation is a part of the disease prevention mechanism."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Antigen labeling is crucial for targeting pathogens."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Common vaccines are examples of the broader concept of vaccines."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "COVID-19 vaccine is an example of common vaccines."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "BCG vaccine is an example of common vaccines."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Polio vaccine is an example of common vaccines."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Measles vaccine is an example of common vaccines."
+      },
+      {
+        "source": "c3",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "HPV vaccine is an example of common vaccines."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide provides visual context for discussing vaccines."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The blackboard writing helps scaffold the discussion on vaccine principles."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Discussion on vaccines encourages student questioning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,189 @@
+{
+  "video_name": "4_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Identify the role of the capillary network in gas exchange; describe the relationship between alveolar structure and function; explain the steps of gas exchange during respiration.",
+  "transcript": "[232.74 -> 235.02] 它为何有这么多的毛细血管网呀。\n[237.64 -> 241.72] 没错是便于它进行气体交换的。\n[247.62 -> 255.7] 那同学们再仔细看肺泡中进行气体交换交换之后呢。\n[258.44 -> 284.86] 它是氧气和二氧化碳是怎样的途径进入呢其实我们的肺胞壁是非常薄的它仅由一层上皮细胞构成而我们的毛细血管也是由一层细胞构成的所以呢我们知道了肺胞壁它是非常的薄的是不是就更有利于它进行气体交换了呢。\n[288.44 -> 350.9] 那气体交换联系我们的呼吸过程它是如何进行的呢好同学们想一下前面已经学习了肺与外界进行气体交换时我们的我们吸气的过程中肺会扩张而呼气的过程中肺会收缩肺的运动呢也对应了肺抛的运动当我们吸气的过程中呢肺抛骨气呢二氧化与血液就进行了气体交换在这个过程中呢什么东西什么气体进行交换了呀我们吸气的过程中吸气没错氧气进入到了血液当中而二氧化碳呢从血液中进入到肺泡没错从血液中进入到了肺泡中当我们呼气的过程中呢我们的肺泡就收缩这个收缩的过程呢就能够把肺泡气体排出体外。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing a group of students.\n- The blackboard displays Chinese text: \"肺泡与血液的气体交换\" (Gas exchange between alveoli and blood).\n- The screen to the right shows a diagram of the lungs with alveoli and blood vessels, labeled in Chinese.\n\n**Middle:**\n- The teacher gestures towards the screen, likely explaining the diagram.\n- The diagram includes red and blue lines indicating oxygen and carbon dioxide pathways.\n- The teacher's hand movements emphasize different parts of the lungs and blood vessels.\n\n**End:**\n- The teacher continues to gesture, possibly summarizing key points.\n- The screen remains static, showing the same diagram throughout.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the diagram on the screen, depicting the lungs with alveoli and blood vessels.\n   - The diagram uses red and blue to represent oxygen and carbon dioxide flow.\n   - Labels in Chinese identify different parts of the respiratory system.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher does not add anything to the board or screen during the video.\n   - **Modifications**: No erasures or changes are made to the diagram.\n   - **Deictic Gestures**: The teacher points to specific areas of the lungs and blood vessels, likely explaining the gas exchange process.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key areas of the diagram.\n   - The use of color in the diagram (red and blue) visually distinguishes oxygen and carbon dioxide pathways.\n\n**Chronological Log of Visual Events:**\n\n1. **Initial State:**\n   - Diagram on screen shows lungs with alveoli and blood vessels.\n   - Red and blue lines indicate gas pathways.\n\n2. **Teacher's Actions:**\n   - Gestures towards the lungs, emphasizing alveoli.\n   - Points to blood vessels, likely explaining gas exchange.\n\n3. **Emphasis Techniques:**\n   - Hand gestures direct attention to specific parts of the diagram.\n   - Color coding in the diagram highlights different gases.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing understanding of the gas exchange process.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a detailed diagram of the lungs, highlighting the alveoli and blood vessels with red and blue lines to represent oxygen and carbon dioxide pathways. The teacher began by standing at the front, gesturing towards the screen to introduce the concept of gas exchange between alveoli and blood. She constructed an understanding by tracing the red lines to illustrate oxygen flow into the blood and the blue lines to show carbon dioxide removal. As she spoke, her hand movements directed attention to specific areas, such as the alveolar walls and capillaries, emphasizing the diffusion process. The teacher then annotated the diagram by pointing to key structures, reinforcing the pathways and mechanisms involved. Finally, she circled critical areas of the diagram, such as the alveoli and blood vessels, to highlight the importance of these structures in gas exchange. This visual strategy, combined with dynamic gestures and color coding, effectively reduced cognitive load by providing a clear, step-by-step visual narrative that aligned with the lecture content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gas Exchange",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[237.64 -> 241.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Alveolar Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[258.44 -> 284.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Capillary Network",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.74 -> 235.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Oxygen Pathway",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[258.44 -> 284.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Carbon Dioxide Pathway",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[288.44 -> 350.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Alveoli",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[258.44 -> 284.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Gas Diffusion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[288.44 -> 350.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Lung Expansion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[288.44 -> 350.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Lung Contraction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[288.44 -> 350.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Blood Vessels",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[237.64 -> 241.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Lung Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of lungs with alveoli and blood vessels, oxygen and carbon dioxide pathways visualized with red and blue lines.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding gas exchange requires knowledge of alveolar structures."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Gas exchange relies on the role of the capillary network."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Gas exchange involves the movement of oxygen into the blood."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Gas exchange involves the removal of carbon dioxide from the blood."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Alveolar structure includes the specific role of alveoli."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Gas diffusion is essential for oxygen pathway inside the lungs."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Gas diffusion facilitates the carbon dioxide removal pathway."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Lung expansion is a prerequisite to lung contraction during breathing."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Blood vessels support the oxygen pathway."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Blood vessels are vital for the carbon dioxide pathway."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram visually represents the gas exchange process."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The diagram emphasizes the role of alveoli in gas exchange."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The capillary network's role is highlighted in the diagram."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Blood vessels involved in gas exchange are depicted in the diagram."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with concepts of gas exchange during the exposition."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

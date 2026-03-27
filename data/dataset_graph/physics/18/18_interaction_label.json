@@ -1,0 +1,160 @@
+{
+  "video_name": "18_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the concept of displacement and its vector nature; distinguish the basic characteristics of scalars and vectors.",
+  "transcript": "[438.66 -> 519.24] 如果我们是描述在地面上人所处的位置我们就可以用平面直角坐标系那在这个问题当中汽车做的是直线运动我们就可以用一纬的坐标系来描述好那现在我们就建立一纬的坐标系来描述他描述这辆汽车在长安街上所处的位置我们取X轴这条直线为X轴那在长安街上我们任意选择一个交通岗亭作为原点O如果汽车它所处的位置是在三十这里我们应该怎么说呢你怎样描述它的位置汽车所处的位置在交通岗亭东边的三十米那如果汽车在负二十这里呢对以西的三十米在这里我们需要注意的是X轴这是X轴我们取它为正方向这是圆点那这里是一个单位长度这里就是位置坐标好那在刚才的问题当中我们已经分析了哪两个。\n[521.82 -> 555.12] 什么时候在哪里那还有一个问题运动了多远呢这个问题其实也就是物体位置的变化好现在我们就来看一下某人还要从北京去重庆他可以有不同的线路比如说他可以坐飞机还有呢坐高铁或者先坐火车到这儿然后坐船在做火车过去好它有不同的线路也就是说它所走过的路程是不同的路程大家想一想在初中我们所说的路程是什么呀指的是物体运动轨迹的长度那大家想一想这个路程是不同的在这个问题当中有没有使唤量是不变的呢大家思考一下好我刚刚听到有同学说是初位置和末位置的舞殿因为他们都是从北京去重庆好也就是说它们位置的变化是相同的那在这里我们是用一条有象线段从出位置指向末位置的有象线段来表示这个人他位置的变化那我们把这样的位置的变化我们用位移来描述位移来表示位移我们用L来表示好那像位移这样的使样的它是一它是像位移这样的物理量它是叫做矢量它是既有方向又有大小的像温度路程这样的物理量它是标量只有大小没有方向好那在前面我们学习了用一维坐标系来描述物体的位置那么在一维坐标系中位移应该如何表示呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the timeline diagram displayed on the interactive whiteboard. The timeline included labeled points and intervals, which were central to the discussion about moments and time intervals.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to specific points on the timeline diagram, highlighting key moments and intervals. This visual cue helped guide the student's explanation and reinforced the concepts being discussed.\n- The teacher also used hand gestures to indicate the flow of time, moving from left to right along the timeline, which visually supported the student's verbal explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation.\n- The teacher then drew a small checkmark next to the correct points on the timeline, visually confirming the accuracy of the student's input.\n- Additionally, the teacher elaborated on the student's explanation by drawing a brief supplementary diagram on the whiteboard, illustrating the relationship between different time intervals and moments. This visual aid helped clarify any remaining confusion and reinforced the correct understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Focus shifts to the timeline diagram on the interactive whiteboard.\n\n- **Middle:**\n  - Teacher points to specific points on the timeline while the student responds.\n  - Uses hand gestures to indicate the flow of time along the timeline.\n  - Nods and smiles to encourage the student.\n\n- **End:**\n  - Teacher draws a checkmark next to correct points on the timeline.\n  - Draws a supplementary diagram on the whiteboard to elaborate on the student's explanation.\n  - Provides visual confirmation through gestures and additional diagrams.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a timeline diagram illustrating key moments and intervals, setting the stage for the lesson on time concepts. The teacher began by making a sweeping gesture towards the class, inviting all students to engage with the problem at hand. This broad gesture signaled the start of an interactive session, focusing attention on the timeline.\n\nAs the student began to explain their reasoning, the teacher moved to the interactive whiteboard, pointing to specific points on the timeline. These gestures highlighted the moments and intervals being discussed, providing visual cues to support the student's explanation. The teacher's movements along the timeline reinforced the flow of time, using hand gestures to indicate progression from left to right. This dynamic interaction helped the student articulate their thoughts more clearly, linking their verbal explanation to the visual content.\n\nTo validate the student's response, the teacher drew a checkmark next to the correct points on the timeline, offering immediate visual confirmation. Additionally, the teacher elaborated on the explanation by drawing a supplementary diagram on the whiteboard, illustrating the relationship between different time intervals and moments. This visual aid not only confirmed the accuracy of the student's input but also deepened the understanding of the core lesson content.\n\nFinally, the teacher connected the student's correct answer back to the main concepts discussed earlier by drawing arrows on the timeline, linking the new information to previously covered material. This visual linkage reinforced the integration of new knowledge with existing understanding, helping students move from passive reception to active construction of their own comprehension. Through these orchestrated visual strategies, the teacher facilitated a dynamic and interactive learning environment, ensuring that students could apply and verify their knowledge effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Vectors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Scalars",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c5",
+        "label": "One-Dimensional Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Flow of Time",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Position",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Distance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[438.66 -> 555.12]"
+      },
+      {
+        "id": "c9",
+        "label": "Interactive Segment Start",
+        "type": "Visual",
+        "original_text": "Invitation gesture sweeping across the classroom.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Timeline Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing moments and time intervals.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Student Explaining",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c12",
+        "label": "Confirmation Gesture",
+        "type": "Visual",
+        "original_text": "Teacher nodding and smiling to confirm student's input.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Supplementary Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating relationship between time intervals.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Displacement is a vector quantity."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Vectors have direction and magnitude, unlike scalars."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "The flow of time is integral to understanding one-dimensional motion."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Coordinates help in identifying the position."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Distance is different when considering one-dimensional motion."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The gesture invites attention to the timeline diagram for discussion."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "focuses_on",
+        "intent": "The student's explanation focuses on the timeline diagram."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "praises_response",
+        "intent": "Teacher confirms student's explanation using nods and smiles."
+      },
+      {
+        "source": "c13",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The supplementary diagram helps explain displacement through time intervals."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

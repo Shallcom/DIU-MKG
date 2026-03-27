@@ -1,0 +1,146 @@
+{
+  "video_name": "20_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the role of chemical experiments in teaching; master the basic principles of laboratory safety and accident handling; design chemical‑experiment inquiry questions that can stimulate student interest.",
+  "transcript": "[0.0 -> 63.52] 如何把教书育人与化学结合中的一大重要板块儿就是化学实验化那首先我认为作为一个中学教师设计实验探究问题可以很好的激发学生的学习兴趣所以把实验引入课堂是必不可少的那针对题中出现的这样的情况如果作为我我会这样处理首先第一点要先稳住班级秩序有无同学受伤若有应该立即进行处理保障班内每一位同学的人身安全。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen displaying the event name: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-Trainee College Students). The screen features colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"化学 20\" (Chemistry 20). The teacher does not write this; it is part of the initial presentation slide. The teacher stands in front of the screen, holding papers, and begins the lesson.\n\n#### 3. **The Objectives**\n- The slide on the screen lists learning objectives in Chinese. The visible bullet points include:\n  - \"掌握化学反应速率的概念\" (Master the concept of chemical reaction rate)\n  - \"理解影响化学反应速率的因素\" (Understand the factors affecting chemical reaction rates)\n  - \"学会测定化学反应速率的方法\" (Learn methods to measure chemical reaction rates)\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her left hand, occasionally pointing towards the screen to emphasize the objectives.\n- She uses hand movements to engage with the audience, possibly indicating key points on the slide.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen introducing the event. The screen is bright yellow with red and green accents, featuring the event's name and the number \"10.\"\n\n**Middle:**\n- The scene transitions to a classroom setting. The teacher stands in front of a green chalkboard and a digital screen displaying a presentation slide.\n- The slide shows the lesson title and objectives in Chinese. The teacher holds papers and gestures with her left hand, pointing towards the screen to highlight the objectives.\n- The teacher's gestures include pointing and hand movements to emphasize the content on the slide.\n\n**End:**\n- The teacher continues to engage with the students, maintaining focus on the objectives displayed on the screen. The classroom setting remains consistent, with students seated and the teacher actively presenting.\n\n### Summary\nThe introduction phase of the lesson is visually anchored by the initial title screen and the presentation slide outlining the lesson's objectives. The teacher's gestures are directed towards the screen, emphasizing key points and engaging the students with the content displayed. The visual elements, including the slide's text and the teacher's movements, create a structured and focused introduction to the chemistry lesson.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, displaying the event's name and the number \"10\" in bold red, setting the stage for the competition. Transitioning to the classroom, the teacher stands before a green chalkboard and a digital screen, holding papers and engaging with the students. The slide on the screen shifts to reveal the lesson's title and objectives in Chinese, focusing on chemical reaction rates. The teacher uses deliberate gestures, pointing to the objectives on the screen, emphasizing key points such as mastering the concept of reaction rates and understanding influencing factors. This visual transition from the event introduction to the lesson's main topic effectively bridges the competition context with the educational content. The teacher's gestures and the structured layout of the slide create a clear link between the new knowledge and the students' existing understanding, preparing them for an in-depth exploration of chemical reaction rates.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chemical Reaction Rate",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Factors Affecting Reaction Rates",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Methods to Measure Reaction Rates",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Laboratory Safety",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Accident Handling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Designing Inquiry Questions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Interest Stimulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 63.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Event Introduction Slide",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-Trainee College Students with colorful icons and the number '10'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Objectives Slide",
+        "type": "Visual",
+        "original_text": "Lists learning objectives: Master the concept of chemical reaction rate, understand factors affecting reaction rates, learn methods to measure reaction rates.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher holds papers and gestures towards the screen to emphasize objectives.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the concept of chemical reaction rate."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide visually indicates factors affecting chemical reaction rates."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide demonstrates methods to measure reaction rates."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Laboratory safety includes proper accident handling."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Designing inquiry questions builds upon the principle of stimulating student interest."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Event introduction slide summarizing the transition to lesson objectives."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures prompt student engagement and focus."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding reaction rates evolves from factors affecting them."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Methods to measure reaction rates build upon understanding the concept of reaction rates."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

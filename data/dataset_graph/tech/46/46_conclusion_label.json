@@ -1,0 +1,224 @@
+{
+  "video_name": "46_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the differences between aerobic and anaerobic respiration and their roles in energy production; compare the reactants, products, and energy output of aerobic versus anaerobic respiration.",
+  "transcript": "[772.498333 -> 787.3] 这位女生请你来跟我说一说她是有什么反应的葡萄糖和老细是葡萄糖多了个氧气然后呢然后在煤的作用下产生二氧化碳和水还有别的产物吗有没有有没有有没有很好用能量好那么同学们谢谢你那么同学们你们试着观察这两个过程请你来想一想他们俩有没有什么相同点和不同点同学们写得比老师全面老师的版书忘记写氧气了他们有什么相同点吗就是都要在煤的作用下那从产物和生成物的角度呢反应物都有葡萄糖有氧呼吸要多一个氧气对不对那么生成物上来说有没有什么共同点啊很好都产生了能量因为我们刚刚讲到呼吸作用本质是要给我们的机体也功能的很好那么再来看那么不同点再看有氧钴锌产生大量能量无量钴锌产生少量能量产生的量不一样还有别的吗有氧气参与那除了能量之外它的其他产物无氧钴锌乳酸它会产生乳酸会让我们感受到不适那么结合你对这两种呼吸的分析能不能来想一想为什么我们机体要以有氧呼吸为主要的呼吸模式。\n[788.92 -> 804.9] 你看起来有想法了我们需要更多的能量然后在呼吸过程中去到水中那是在生活过程中上的水来的更进一步我们来想这个乳酸会让你感觉到啊。\n[806.44 -> 831.22] 哎我们的肌肉会酸痛会不适也就是说我们发现从它的产物角度来分析我们需要有更多的能量不适应乳酸的产生因此我们的机体只把无氧呼吸作为一种暂时的方式那除了人体之外其他的动物又有怎样的无氧呼吸过程呢这个我们就留到下个环节再来进行同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains handwritten notes and diagrams.\n   - The layout includes a list of key points written in white chalk, with arrows and boxes indicating relationships between concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard features the following key points:\n     - $与牛顿定律的联系$ (Relation to Newton's Laws)\n     - $动量守恒、能量守恒$ (Conservation of Momentum, Conservation of Energy)\n     - $碰撞$ (Collision)\n     - $弹性碰撞、非弹性碰撞$ (Elastic Collision, Inelastic Collision)\n   - There are arrows and boxes connecting these concepts, indicating their relationships.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the terms $动量守恒$ (Conservation of Momentum) and $能量守恒$ (Conservation of Energy).\n   - She gestures towards the arrows, emphasizing the connections between different concepts.\n   - The teacher uses a pointer to trace the flow of information on the blackboard, linking the terms and their relationships.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen displays a slide with diagrams and text, but no specific instructions for next steps are visible.\n\nThis structured visual summary consolidates the key concepts discussed, with the teacher's gestures reinforcing the connections between them.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key concepts related to Newton's laws and conservation principles. The teacher visually wraps up the lesson by pointing to each term on the board, including $动量守恒$ (Conservation of Momentum) and $能量守恒$ (Conservation of Energy), tracing the arrows that connect these ideas. She emphasizes the relationships between concepts by gesturing along the flow of information. The teacher draws attention to the central theme of collisions, using a pointer to highlight the distinctions between elastic and inelastic collisions. No specific homework or next-step instructions are visually presented, leaving the focus on the consolidated knowledge displayed on the board.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Newton's Laws Relation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Conservation of Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Conservation of Energy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Collision",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Elastic Collision",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Inelastic Collision",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Aerobic Respiration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c8",
+        "label": "Anaerobic Respiration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c9",
+        "label": "Glucose",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c10",
+        "label": "Oxygen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c11",
+        "label": "Carbon Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c12",
+        "label": "Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c13",
+        "label": "Energy Production",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "c14",
+        "label": "Lactic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[772.498333 -> 787.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard contains key concepts about Newton's laws and conservation principles.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher emphasizes concepts of conservation with gestures.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Conservation of momentum relates to conservation of energy in collisions."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Collision dynamics can be analyzed using conservation of momentum."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Collision encompasses elastic collision."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Collision encompasses inelastic collision."
+      },
+      {
+        "source": "c7",
+        "target": "c13",
+        "relation": "includes",
+        "intent": "Aerobic respiration is a process for energy production."
+      },
+      {
+        "source": "c8",
+        "target": "c13",
+        "relation": "includes",
+        "intent": "Anaerobic respiration is a process for energy production."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Glucose is a reactant for aerobic respiration."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Glucose is a reactant for anaerobic respiration."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Oxygen is a reactant for aerobic respiration."
+      },
+      {
+        "source": "c11",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Carbon dioxide is a product of aerobic respiration."
+      },
+      {
+        "source": "c12",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Water is a product of aerobic respiration."
+      },
+      {
+        "source": "c14",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Lactic acid is a product of anaerobic respiration."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes the relation to Newton's laws."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to emphasize conservation of momentum."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding aerobic respiration."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

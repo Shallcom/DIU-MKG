@@ -1,0 +1,120 @@
+{
+  "video_name": "14_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Master differentiated teaching strategies based on cognitive development; cultivate the ability to use language expression across varied contexts.",
+  "transcript": "[0.0 -> 123.16] 第一我们需要调整我的英语教育的速度根据学生的等级因为根据英语教育的标准我们的英语教育应该是学生中心化的这要求教授们要考虑我们的英语教育设计和学生的等级的活动比如说我们教学生从一个重要的高中上学时我们可以把教学的速度提高一点点因为我们的学生们很容易去思考解决问题的解决问题但对于普通学生来说我们需要给他们提供更多时间去思考去鼓励他们的以前的知识并且我们需要给他们提供更多的指导力来解决问题而且第二我认为我们需要调整我的教育空间我的教育节奏根据不同的活动因为根据活动的学习有学习理解和应用理解学习和理解应用和练习和创造活动所以对于理解和学习活动增加教育的速度。\n[125.32 -> 199.94] 但是对于讨论和报告的一些活动需要学生表达自己的想法的话我们应该给他们更多时间去思考这些事物所以总之我认为我们需要调整教育的速度根据学生的水平和不同的活动的程序来调整学生的速度所以这就是我的理解谢谢你啊好准备课今天我们会学习语言课程所以我们开始课程我想让你闭上眼睛你准备好了吗想象一下你可以飞现在你飞向地面越来越高进入一个完全黑暗的地方那里你可以看到一个亮亮的星球那是我们的星球你可以看到整个马鲁兰的图片美丽的星球我们的地球还有很多不同的星星在你面前转晃着你知道你在哪里吗。\n[201.06 -> 205.14] 宇宙是的我们在宇宙里面你觉得宇宙有什么感觉吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of an astronaut on the moon's surface. It is accompanied by the text: \"What do you feel about space?\" and \"What can we use to explore the space?\"\n\n#### 2. **The Title Event**\n- **Title**: \"Unit 4: Space Exploration - a grammar lesson\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher stands in front of the screen, holding papers, and gestures towards the title, likely emphasizing the lesson's focus.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly listed in the visible frames. The focus is on the hook image and questions to engage students.\n\n#### 4. **Key Gestures**\n- **Gestures**: \n  - The teacher holds papers and gestures with her hands, possibly emphasizing points related to the questions on the screen.\n  - She occasionally points towards the screen, directing attention to the astronaut image and the questions.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays \"Unit 4: Space Exploration - a grammar lesson.\"\n- **Teacher Action**: The teacher stands in front of the screen, holding papers, and gestures towards the screen, likely introducing the topic.\n\n#### Middle\n- **Visual Content**: The screen transitions to show an image of an astronaut on the moon with the text: \"What do you feel about space?\" and \"What can we use to explore the space?\"\n- **Teacher Action**: The teacher points to the astronaut image and the accompanying questions, engaging students with the hook questions.\n\n#### End\n- **Visual Content**: The screen remains on the astronaut image and questions.\n- **Teacher Action**: The teacher continues to gesture towards the screen, possibly encouraging discussion or responses from the students.\n\n### Summary\nThe lesson introduction begins with the title \"Unit 4: Space Exploration - a grammar lesson\" displayed on the screen. The teacher uses gestures to emphasize the lesson's focus. The hook object, an image of an astronaut on the moon, is introduced with questions to engage students. The teacher points to the image and questions, facilitating interaction and setting the stage for the lesson.",
+  "visual_narrative": "The introduction phase of the lesson begins with the teacher standing in front of a screen displaying the title \"Unit 4: Space Exploration - a grammar lesson.\" The teacher holds papers and gestures towards the screen, setting the stage for the lesson. The visual hook is introduced with an image of an astronaut on the moon's surface, accompanied by the questions, \"What do you feel about space?\" and \"What can we use to explore the space?\" The teacher points to the astronaut image and the questions, engaging students and prompting reflection. The transition from the title slide to the hook image serves as a bridge, connecting the broad topic of space exploration to specific, thought-provoking questions. This visual shift encourages students to draw on their existing knowledge and curiosity about space, preparing them to explore related grammar concepts. The teacher's gestures towards the image and questions facilitate an interactive start, linking the lesson's theme to students' prior experiences and setting the foundation for deeper learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Differentiated Teaching Strategies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Cognitive Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 123.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Language Expression",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 123.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Space Exploration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[126.18 -> 205.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Grammar Lesson",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[126.18 -> 205.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Astronaut on Moon",
+        "type": "Visual",
+        "original_text": "An image showing astronaut on the moon",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "What do you feel about space?",
+        "type": "Visual",
+        "original_text": "Question prompting students' reflections on space",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "What can explore the space?",
+        "type": "Visual",
+        "original_text": "Question about tools and methods to explore space",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Curiosity Triggered",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Using differentiated strategies to cultivate language expression."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Differentiated strategies shaped by understanding cognitive development."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Astronaut image introduces the concept of space exploration."
+      },
+      {
+        "source": "c7",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "The question triggers students' curiosity about space."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "Student engagement is encouraged by questioning exploration methods."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Using the astronaut image to focus on the grammar lesson theme."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

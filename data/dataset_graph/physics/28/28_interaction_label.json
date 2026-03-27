@@ -1,0 +1,147 @@
+{
+  "video_name": "28_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the influence of friction on an object’s motion; master the conclusions and significance of Galileo’s inclined‑plane experiment; be able to apply the relationship between inertia and motion state to analyze real‑world problems.",
+  "transcript": "[413.48 -> 508.12] 阻力也在我们之前已经学习过了是一种摩擦力非常好所以说伽利略就认为将人们引入歧途的其实就是摩擦那么物体我们想在通常运动的情况下摩擦是难以避免的对不对所以说伽利略就会注意到当一个斜面当一个球沿斜面向下滚落的时候它的速度要增大对不对那么它继续向上滚动的时候速度会减小然后它由此就会猜想这个斜面它一点一点一点放到水平的时候那么这个速度应该是怎么样的呀我们来推理一下应该是不增不减的对不对那么然而实际情况刚才我们已经看到了却是即使沿着来我们看即使沿着水平面运动我们再来做一下实验我们会发现这个小球会怎么样滚动得越来越慢对不对甚至最后停下来那么为了阐明自己的观点伽利略就做了这样一个实验然后呢这个也是现代人所做伽利略石面实验的这样频闪照片有助于我们更好地那么我们就可以通过这样的推断怎样的推断呢。\n[509.16 -> 577.52] 一个小球沿斜面进行开始运动冲上另一斜面随着坡度的减小我们会推断当斜面最终变为水平的时候小球会怎样会永远运动下去当没有力作用在它身上的时候当它是一个理想状态化模型是没有摩擦力的时候它会永远运动下去那么这说明了什么呢来同学们讨论一下说明了什么呢好像没有什么思路来你说得非常对来同学请说非常好非常好那么其实我们在生活中也能看到这样的实例我们看老师将一个粉米头扔出去的时候那么他在工中除了受到他自身的重力以外还受到其他的外力吗没有了对不对那么他还在运动就说明了力不是维持固体运动的原因。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the screen, directing attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the practice problem displayed on the screen, specifically the diagram and text related to the bridge design. The visual content includes a photograph of a bridge and accompanying text in Chinese.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While engaging with the students, the teacher pointed to specific parts of the bridge diagram on the screen, emphasizing key elements of the design. She used hand gestures to trace the lines of the bridge, highlighting structural aspects.\n- The teacher also referred to the text on the screen, pointing to specific sentences to guide the students' understanding.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher nodded and smiled, providing non-verbal affirmation as students responded. She also used hand gestures to reinforce correct answers, such as giving a thumbs-up.\n- When transitioning to the next slide, the teacher pointed to the new diagram, which illustrates a physical concept, ensuring students focus on the visual elements presented.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher points to the bridge diagram on the screen, tracing the lines to highlight structural elements.\n  - She gestures towards the text, emphasizing key points about bridge design.\n\n- **Middle:**\n  - The teacher makes a sweeping gesture to invite class participation, then points directly at the screen to focus attention on the practice problem.\n  - She nods and smiles as students respond, using hand gestures to guide their understanding.\n\n- **End:**\n  - The teacher transitions to the next slide, pointing to the new diagram and using gestures to explain the visual content.\n  - She provides visual confirmation through gestures, such as a thumbs-up, to validate student input.\n\nThis structured approach ensures that the teacher's visual strategies effectively manage the dialogue and co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a detailed diagram of a bridge, accompanied by explanatory text in Chinese. The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly at the bridge diagram to focus their attention. She emphasized key structural elements by tracing the lines of the bridge with her finger, highlighting important design features.\n\nAs students began to respond, the teacher actively facilitated the discussion. She walked over to the screen, pointing to specific parts of the diagram and text to guide their reasoning. While a student explained their thoughts, the teacher used supportive gestures, such as nodding and smiling, to encourage their participation. She also referred back to the text on the screen, pointing to relevant sentences to scaffold their understanding.\n\nTo validate the students' input, the teacher gave a distinct nod and used hand gestures to affirm correct answers. She circled key points on the screen and drew connections between the student's response and the core lesson content, ensuring the knowledge was linked back to the main concepts discussed earlier.\n\nFinally, the teacher reinforced the interactive learning by summarizing the key points and using gestures to illustrate how the bridge design principles applied to real-world scenarios. This visual orchestration helped students move from passively receiving information to actively constructing their own understanding, integrating the lesson content with practical applications.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Friction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[413.48 -> 508.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Galileo's Inclined Plane",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[413.48 -> 508.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Inertia",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[413.48 -> 508.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Motion State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[413.48 -> 508.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Idealized Models",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[509.16 -> 577.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Real-world Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[509.16 -> 577.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Smooth Surface Example",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[509.16 -> 577.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Physical Concept Slide",
+        "type": "Visual",
+        "original_text": "A diagram related to a physical concept, emphasizing motion and inertia",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Bridge Diagram",
+        "type": "Visual",
+        "original_text": "A detailed diagram of a bridge with Chinese text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[509.16 -> 577.52]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[509.16 -> 577.52]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Discussing the role of friction in Galileo's experiment."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Connecting the principle of inertia to the state of motion."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The experiment is exemplified through idealized conditions."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Applying theoretical understanding to practical situations."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "The bridge design concepts are transferred to new physical concepts."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Students share and build on each other's answers in a discussion format."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Using real-world examples to demonstrate friction effects."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Students use visual concepts to understand motion."
+      },
+      {
+        "source": "c9",
+        "target": "s2",
+        "relation": "scaffolds",
+        "intent": "The bridge diagram aids the students' engagement in discussions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,114 @@
+{
+  "video_name": "37_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Clarify the fundamental role of socialist core values in ideological and political education; understand the guiding function of curriculum assessment in improving teaching effectiveness; design case‑analysis‑based teaching activities to develop students’ political identity literacy.",
+  "transcript": "[0.0 -> 155.48] 社会主义核心价值观为根本的目的引导学生明确正确的正直方向培养他们树立正确的世界观人生观价值观的一种综合性活动型学科课程评价是教育的导向评价有利于提升教学的效果那作为未来的私人教师我们应该怎么做呢在讲授实践中追求和发展这里这一框题是我将采用新疆海鲜养殖这一个议题这一个情景来进行讲授开展活动在课前的时候我会选择合适的案例进行选择这个合适的合适的案例进行构思同时构思过程性评价表结合本节课的案例来构思然后在授课的过程中让学生了解新疆海鲜养殖背后它实践认识的关系在课中我会做活动比如柠檬发电实验来讲授真理的具体性有条件的突破教学的重难点让学生认同新疆海鲜养殖背后的这一个模式是正确的认同中国伟大实践提高他的政治认同素养最后让同学们参与到实践当中提升他们的公共参与素养并扣后让同学们撰写同同学们来填写终结性评价量表了解学生是否掌握了知识我再通过教学的反思看看哪里还存在着不足然后针对本次教本次终结性评价量表和过程性评价量表并为学生制定一系列根据他自身发展哪里不懂的在针对进行明确帮他们解决问题总而言之我在每一节课都会采用终结性评价量表和过程性评价量表来讲授我的每一节课的课堂。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a digital slide displayed on the screen. The slide contains Japanese text, which appears to be the title of the lesson.\n\n#### 2. The Title Event\n- **Title on Screen**: The title on the screen reads \"何が戦争を\" (What causes war) with additional text below.\n- **Teacher's Action**: The teacher is standing beside the screen, holding papers, and appears to be presenting the content. There is no indication of the teacher writing or underlining the title.\n\n#### 3. The Objectives\n- **Bullet Points**: No specific bullet points or learning goals are visible on the screen or blackboard in this segment.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher is holding papers and occasionally looking at them, likely reading or referring to notes. There are no specific gestures like pointing or circling visible in this segment.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Teacher's Position**: The teacher stands at the front of the classroom, to the left of the digital screen.\n- **Screen Content**: The slide titled \"何が戦争を\" is displayed. The teacher holds papers, possibly notes or a lesson plan.\n- **Student Engagement**: Students are seated, facing the teacher and the screen, with some taking notes.\n\n#### Middle\n- **Teacher's Actions**: The teacher continues to refer to the papers, occasionally glancing at the screen. No significant gestures or interactions with the blackboard are observed.\n- **Screen Content**: The slide remains unchanged, maintaining the title \"何が戦争を\" as the focal point.\n\n#### End\n- **Teacher's Actions**: The teacher maintains a similar position, still holding the papers and engaging with the class through verbal presentation.\n- **Screen Content**: The slide remains static, with no additional visual elements or changes.\n\n### Summary\nThe introduction phase of the lesson centers around the digital slide titled \"何が戦争を.\" The teacher uses papers, likely notes, to guide the presentation. There are no dynamic gestures or additional visual elements introduced during this segment. The focus remains on the title displayed on the screen, setting the stage for the lesson's content.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing at the front of the classroom, positioned to the left of a digital screen displaying the hook object: a slide titled \"何が戦争を.\" The teacher holds papers, likely notes, and uses them to guide the presentation. The initial visual stimulus is the slide itself, which serves as the focal point for the lesson. Throughout the introduction, the teacher maintains a static position, occasionally glancing at the papers while engaging with the class. The screen remains unchanged, consistently displaying the title without transitioning to additional content. The teacher's actions are primarily verbal, supported by the static visual aid, which sets the stage for the lesson's main topic. This approach establishes a clear starting point, linking the lesson's theme to the students' attention through the prominent display of the title. The introduction effectively uses the digital slide to anchor the topic, preparing students for a deeper exploration of the causes of war.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Socialist Core Values",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "concept2",
+        "label": "Ideological Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "concept3",
+        "label": "Political Identity Literacy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "concept4",
+        "label": "Curriculum Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "concept5",
+        "label": "Teaching Effectiveness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "concept6",
+        "label": "Case Analysis Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "visual1",
+        "label": "Causes of War Slide",
+        "type": "Visual",
+        "original_text": "The slide titled 'What causes war' with Japanese text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_state1",
+        "label": "Taking Notes",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 155.48]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "includes",
+        "intent": "Socialist core values include principles for ideological education."
+      },
+      {
+        "source": "concept2",
+        "target": "concept3",
+        "relation": "evolves_from",
+        "intent": "Ideological education aims to develop political identity literacy."
+      },
+      {
+        "source": "concept4",
+        "target": "concept5",
+        "relation": "guides_discussion",
+        "intent": "Assessment guides improvement in teaching effectiveness."
+      },
+      {
+        "source": "concept6",
+        "target": "concept3",
+        "relation": "builds_upon",
+        "intent": "Using case analysis builds political identity literacy."
+      },
+      {
+        "source": "concept4",
+        "target": "concept3",
+        "relation": "evolves_from",
+        "intent": "Assessment procedures evolve to improve political identity literacy."
+      },
+      {
+        "source": "visual1",
+        "target": "concept1",
+        "relation": "emphasizes",
+        "intent": "The visual slide emphasizes core values through the lens of causes of war."
+      },
+      {
+        "source": "visual1",
+        "target": "student_state1",
+        "relation": "visualizes",
+        "intent": "The slide aids student engagement by providing a visual focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

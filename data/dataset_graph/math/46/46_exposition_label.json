@@ -1,0 +1,141 @@
+{
+  "video_name": "46_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the selection criteria for inquiry‑based learning and its applicability; master the definition and determination method for a line perpendicular to a plane; learn to abstract mathematical models from real‑world problems and perform appropriate transformations.",
+  "transcript": "[240.0 -> 251.82] 各位评委老师大家好我出道的集体演讲题目是探究式学习适合现在的倡导的题目那么是否所有的课题都适合探究式学习呢那针对这一问题我们应该辩证地去看待关于探究式学习的选择我们应该根据具体的课程目标本节课的重难点以及我们想要达到的教学效果去选择那如果我们选择的题目比如说对于一个函数概念的形成比如说对数函数这个概念我们学生呢已经学习了密函数和指数函数已经有了一定的学习经验那么在这个对于对数函数的研究中呢我们就可以选择探究式学习来进行教学这样呢可以激发学生的学习兴趣然后呢在探究的过程中去主动地构建自己的认知过程然后帮助学生呢去对这个知识进行进一步的深入的了解和掌握那我们说有效的教学活动呢它绝对不是简单的模仿必须要学生亲自去经历数学知识产生的过程然后去感受其中蕴含的数学思想和方法那在探究室学习中有些课题呢确实是不适合探究室学习的比如说一些对于学生的要求比较高例如在椭圆的定义这个课题中那学生呢对于这个从现实生活中去抽象住椭圆的定义还有去建立竖形结合去建立方程都存在一定的困难那对学生的要求比较高对他们的思想方法呀核心素养的要求都比较高因此呢如果把这个利用探究式学习让学生自己去探究就可能存在一定的困难那所以呢教师应该在帮助学生去建立教学的这个脚手架然后呢在最近发展区内帮助学生去积累一定的活动经验的基础上再去展开探究式教学那最后我们还是要以核心素养为标准然后以人格去引领人格以思想去点燃思想以文化去培养文化聚焦核心素养的学习促进学生的发展成就学生也成就自己了以上就是我的集体演讲内容下面开始我的模拟授课好同学们上课我们知道垂直和平行是我们空间中直线还有平面的两种特殊的位置关系那在研究我们的利用垂直和平行去研究很多东西整个的空间问题呢都是具有重要的作用在上一章上一章节我们学习了已经学习过直线与平面平行的一些相关内容大家还记得吗记得这个直线和平面的平行中我们学习了哪些内容呀是不是首先学习了直线与直线的平行然后学了直线与平面的平行进而学习平面与平面的平行并且呀在这一过程中我们都是从这个先从定义然后到判定定理到性质这个过程来展开的好并且呀在这个过程中呢还渗透了非常重要的思想叫降维思想就是把空间问题努力地去转化成平面问题去解决那从这上一节呢我们也学习了直线与直线垂直的问题那这一节我们应该学什么呀学什么了应该直线与平面的垂直对吧所以这一节呢我们就开始学习直线与平面垂直。\n[257.88 -> 558.204133] 好那首先呢我们想一想日常生活中你见过哪些平面直线与平面垂直的例子呢我们国庆的时候呢大家都想去天安门看这个升旗仪式那我们知道旗杆和地面是垂直的关系对吧还有呢我们的教室你看相邻的墙面中间的这条交线和咱们的地面是不是也是垂直的关系啊对那我们生活中呢其实存在这样很多的这个直线与平面垂直的实例那我们知道啊在每一天呢我们因为阳光的不同的位置的照射这个旗杆在地面上是不是会形成很多的影子那直线这个旗杆和地面垂直那旗杆和这些影子之间有什么关系啊我们有很多的影子那我们在怎么去研究这个问题呢这是一个现实问题我们数学中通常会先把一个现实问题进行抽象是吧抽象成一个数学的问题那我们看把现实问题抽象成数学问题怎么抽象呀我们可以把旗杆抽象成一条直线叫做AB然后呢不同的影子这里老师选了三条其实它是有很多很多条的对吧我们的生活经验告诉我们有很多很多那影子就抽象成直线BC了那我们根据我们生活的经验大家知道直线AB与直线BC的位置关系是什么吗你的人和你的影子之间什么关系啊垂直对垂直那是不是AB就和所有的这些影子垂直用数学的语言来说就是直线ABAB与平面上过点B的所有的直线都是垂直的对不对那好那我们已经知道了直线与过这个点B的直线都垂平面内的过点B的直线都垂直那进一步的我们想一想对于地面上不过点B的任意直线比如说一条B片C片那它AB与B片C片的关系是什么呀你可以猜想一下是什么关系呢是不是还是垂直的我们猜想有时候呢要比知识还要重要那我们如何来去真正地去探索一下A和B片C片这样的关系啊我们是不是现在有一个新的问题了数学中还有一个重要的思想叫做转化思想我们把新的问题转化成我们已经解决过的问题我们现在已经知道了AB与BC的关系想要探究AB与B片C片的关系有一个中介点中介是不是BC呀那我们是不是想要寻找B片C片和BC的关系那如何把直线B片C片与直线BC之间建立联系呢怎么建立联系呢大家有想法吗我们说啊其实你看对于任意一个平面上的直线B片C片我们都可以通过平行在这个过点B的地方做一条与B片C片的平行线是不是可以做出来吧对那我们是不是就可以把通过平行把B片C片就转化到了BC了那我们前面已经知道了AB与过点B的直线都垂直那就进一步的AB与平面上的任意一条直线都是垂直的对吧但其实啊在这个过程中呢我们还是利用了相同的研究立体几何的思想方法就是什么呀我们是不是把一个最开始的线和面垂直的问题最后都变成了线和线垂直的问题也就是把线面垂直转化成了线线垂直是不是也是把空间问题转化成了一个平面问题也是我们降维思想的一个重要的体现那我们最后呢我们要来看一抽象是用一个简单的数学语言来表示是不是一般的如果直线L与平面阿尔法内的任意一条直线垂直我们就说直线L与平面阿尔法是互相垂直的那我们用这是文字语言然后呢这个是图像语言我们用一条直线L然后用一个平面阿尔法直观的就能看出它们的我们的直线与平面垂直的那还有一种语言叫符号语言对不对那符号语言怎么表示呢我们说如果直线L与平面阿尔法内的任意一条直线垂直首先要有任意的什么呀任意的一条直线M它是在平面阿尔法上的然后呢我们说如果这条直线M与L垂直L与平面成的任意一条直线M垂直我们就可以推出来什么直线L与平面阿尔法式互相垂直的那这就是我们直线与平面垂直的定义并且在生成这个定义的过程中我们还是把线面垂直的问题呢转化成了线线垂直的问题那根据我们的定义的定义的定义前面的研究思路学习了定义之后接下来该探究什么是不是直线与平面的判定定理呀诶我们之前在类比这个平面与平面学习平面直线与平面平行的判定定理来思考一下我们当时平面与平面平行的判定定理我们说虽然定义呢它是一个充分必要的条件充分充要但是我们定义里面说的是任意一条直线L我们这个要求是比较高呀你总不可能把平面上的每一条直线都去证明它和这个L垂直吧所以我们这里还渗透了一个我们要类比之前我们要把无限的条件转化成像有限的条件去转化也就是我们要把这个任意把它缩一缩那任意怎么缩呀是不是首先可以缩成一条从一条开始探究一条不行然后两条对不对那好那这个过程呢我们就留在下一个环节再去学习那本节课呢我们就是要主要是要掌握我们的降维思想然后呢去善于从现实生活中去观察数学知识用数学的眼光去观察这个现实世界然后用数学的思维去思考现实世界你会发现数学是一门非常神奇又非常令人笑貌的学科那好那这就是我的教学过程的展示。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard with the text \"直线与平面垂直\" written on it.\n- The interactive whiteboard displays a slide with a flowchart and a question in Chinese.\n- The teacher holds papers and gestures towards the flowchart, indicating the steps involved in the lesson.\n\n**Middle:**\n- The teacher transitions to a slide showing an image of a building and a diagram.\n- She points to the diagram, which illustrates a line perpendicular to a plane, explaining the concept visually.\n- The teacher uses hand gestures to emphasize the perpendicular relationship shown in the diagram.\n\n**End:**\n- The teacher continues to explain, pointing to a new slide with a geometric diagram.\n- She uses her finger to trace the line and plane, highlighting the perpendicular intersection.\n- The teacher emphasizes key points by pointing to specific parts of the diagram while speaking.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the geometric diagram on the interactive whiteboard, showing a line perpendicular to a plane.\n   - The diagram includes a right angle symbol and labels indicating the line and plane.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds emphasis by pointing to the right angle symbol and the intersection point while explaining.\n   - **Modifications**: No erasures or modifications are observed; the focus remains on the existing diagram.\n   - **Deictic Gestures**: The teacher points to the line and plane, saying \"this\" to indicate the perpendicular relationship.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to highlight the intersection point and the right angle.\n   - She occasionally points to the text on the slide to connect verbal explanations with visual elements.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing understanding of the geometric concept.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a geometric diagram illustrating a line perpendicular to a plane, with a right angle symbol marking the intersection. The teacher began by pointing to the diagram, tracing the line and plane to emphasize their perpendicular relationship. She constructed the concept by explaining the flowchart on the interactive whiteboard, which outlined the steps for understanding perpendicularity. As she spoke, she derived the geometric principles by highlighting the right angle and intersection point, using hand gestures to trace these elements. The teacher annotated the diagram by pointing to specific parts, resolving deixis by indicating the line and plane while explaining their properties. To capture emphasis, she frequently pointed to the right angle and intersection, aligning her gestures with key verbal explanations. Finally, she circled the critical elements of the diagram, reinforcing the concept of perpendicularity and reducing cognitive load by visually connecting abstract ideas with concrete visual cues.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Inquiry-Based Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[240.0 -> 251.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Course Objectives",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 251.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Definition of Perpendicularity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[257.88 -> 558.204133]"
+      },
+      {
+        "id": "c4",
+        "label": "Geometric Diagram",
+        "type": "Visual",
+        "original_text": "New slide shows geometric diagram.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Real-world Abstraction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[257.88 -> 558.204133]"
+      },
+      {
+        "id": "c6",
+        "label": "Flagpole Example",
+        "type": "Visual",
+        "original_text": "Illustration of flagpole perpendicular to ground.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Dimensional Reduction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[257.88 -> 558.204133]"
+      },
+      {
+        "id": "c8",
+        "label": "Teacher-Gesture Emphasis",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to emphasize.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Intersection Point Emphasis",
+        "type": "Visual",
+        "original_text": "Teacher points to intersection point.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Right Angle Symbol",
+        "type": "Visual",
+        "original_text": "Right angle symbol at line-plane intersection.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Geometric Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[257.88 -> 558.204133]"
+      },
+      {
+        "id": "c12",
+        "label": "Cognitive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Connects inquiry-based learning with aligning course objectives."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Uses visual aid to reinforce definition of perpendicularity."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Illustrates real-world example of abstraction process."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Dimensional reduction as basis for understanding perpendicularity."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Teacher uses gestures to stress importance of intersection."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Symbol used to indicate perpendicularity in geometry."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "prompts_thinking",
+        "intent": "Encourages student engagement in problem-solving activity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

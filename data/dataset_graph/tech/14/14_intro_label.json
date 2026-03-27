@@ -1,0 +1,146 @@
+{
+  "video_name": "14_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the methods of applying information technology in teaching; analyze how to use micro‑lectures and other technological tools to enhance students’ learning interest.",
+  "transcript": "[0.0 -> 179.68] 并学生之所以出现这样的现象一定是由于我的课堂不足以吸引学生让学生在课堂当中感到了无聊和不感兴趣从而对生物学科产生了一种讨厌的一种情绪那么对于这样的一种情况我认为首先应该在课堂当中安抚学生让学生能够放下对于科学这样对于生物这样一个学科的厌恶情绪从而能够专注地进入到这个叫生物学学习当中之后在课后的课后要及时与学生进行一个沟通询问一下他为什么会对生物学课产生这样不感兴趣或者无聊的一种状况从而根据学生具体的情形展开相对应的一些措施其次就是在生物学课堂当中因为生物学作为一门科学学科它的重点应该在于调动学生的情绪从而能够让学生在探究当中学习所以在生物学的教学过程当中在设计这样一系列的活动当中首先应该创设一些学生能够了解的已经真实体验过的一些真实的情境其次就是帮助学生在实验的过在教学的过程当中引导学生通过自主的探究从而激发学生对生物学科的兴趣然后就是对于教师自身来说我要更多的学习更多的探索观看更多的案例学习更多的方法从而能够丰富我的课堂比如可以在教学的过程当中用运用到许多先进的一些呃技术比如可以丰富一下师生交流的方式将课堂上一些重点难点进行一些微课的制作从而帮助学生课后加深学习从而激发兴趣最后就是教师要定时地反思及时地了解学生的一些动向以及情感从而更好地完善自己的教学活动总之在生物学教学过程当中我们应该践行教学过程重实践的课程理念从而更好地完善教学的环节进而就能够提升学生对生物学科的兴趣总之作为未来的教师我们应该不断地完善自己在未有知大变局的今天为祖国的发展贡献出教育的力量以上就是我对这个问题的看法谢谢那下面开始我的教学片段展示各位评委老师我抽取到的题目是人的性别遗传那下面开始我的片段展示。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. The slide contains text in Chinese, which appears to be the title or introduction to the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"从《红楼梦》看人物性格的塑造\" (Translation: \"Understanding Character Development from 'Dream of the Red Chamber'\").\n- The teacher stands in front of the screen, likely presenting or discussing the title. There is no visible action of writing or underlining, as the title is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment. The slide primarily displays the title.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures, such as clasping hands together and making slight movements, likely to emphasize points or engage the audience.\n- No direct pointing or specific gestures linking to the board content are observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the presentation slide visible on the screen.\n- The slide displays the title: \"从《红楼梦》看人物性格的塑造\".\n- The teacher's initial posture is neutral, with hands clasped in front.\n\n**Middle:**\n- The teacher maintains a central position, occasionally using hand gestures to engage the class.\n- The presentation slide remains unchanged, focusing on the title.\n- The teacher's gestures include slight hand movements, possibly to emphasize the introduction or transition into the lesson.\n\n**End:**\n- The teacher continues to stand in front of the class, maintaining a similar posture.\n- The slide content remains the same, with no additional visual elements introduced.\n- The teacher's gestures remain consistent, likely preparing to delve deeper into the lesson content.\n\n### Summary\nThe introduction phase of the lesson centers around the title slide, \"从《红楼梦》看人物性格的塑造,\" displayed on the screen. The teacher uses subtle hand gestures to engage the class, though no specific actions are directed at the board or slide content. The visual focus remains on the title, setting the stage for a discussion on character development from \"Dream of the Red Chamber.\"",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, presenting a slide titled \"从《红楼梦》看人物性格的塑造\" as the opening visual stimulus. The teacher's initial posture is neutral, with hands clasped in front, setting a calm and focused tone. The slide serves as the hook, immediately drawing attention to the theme of character development from \"Dream of the Red Chamber.\" Throughout the introduction, the teacher uses subtle hand gestures, such as slight movements and clasping, to engage the students without directly interacting with the slide content. The visual aid remains consistent, emphasizing the title and preparing the class for the upcoming discussion. This approach creates a bridge from the students' existing knowledge of literature to the specific focus on character analysis, grounding the lesson in a familiar context while introducing a new analytical perspective. The teacher's composed presence and the static slide work together to establish a clear and focused entry point into the lesson, linking the students' prior literary experiences with the upcoming exploration of character development techniques.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Character Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 179.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Dream of the Red Chamber",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 179.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Presentation Slide",
+        "type": "Visual",
+        "original_text": "Understanding Character Development from 'Dream of the Red Chamber'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Micro-Lectures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 179.68]"
+      },
+      {
+        "id": "c5",
+        "label": "Engage Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c6",
+        "label": "Advanced Technology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 179.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Classroom Technology Use",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 179.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Hand Gestures",
+        "type": "Visual",
+        "original_text": "Subtle hand gestures for engagement",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Neutral Posture",
+        "type": "Visual",
+        "original_text": "Teacher's calm and focused stance",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Student Learning Interest",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 179.68]"
+      },
+      {
+        "id": "c11",
+        "label": "Literature Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 179.68]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Connects the general concept of character development with a specific literary example."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Character development is analyzed through literature, specifically 'Dream of the Red Chamber'."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Teacher uses gestures to engage the audience while presenting the slide."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide presentation is accompanied by the teacher's calm and focused stance."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Use of advanced technology is a key component of integrating technology in the classroom."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Micro-lectures are part of employing advanced technology in teaching."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Micro-lectures are intended to enhance student engagement."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Student interest is enhanced through methods like micro-lectures."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "The slide provides a thematic summary from 'Dream of the Red Chamber'."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

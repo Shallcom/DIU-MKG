@@ -1,0 +1,153 @@
+{
+  "video_name": "15_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Summarize the core knowledge points learned in this lesson; reinforce memory of the key vocabulary and grammatical structures in the listening material.",
+  "transcript": "[688.0 -> 781.32] 在一一一九九一九九一九一九拉伦的康天奥迪斯特斯特斯特。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the digital screen.\n   - The chalkboard features a timeline with years: 1791, 1792, 1793, 1794, and \"our year\" with an arrow pointing right.\n   - The digital screen displays a slide titled \"GET STARTED!\" with a timeline diagram and text boxes labeled \"trending,\" \"problem,\" and \"solution.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Chalkboard: \n     - \"From Problems To Solutions\"\n     - Timeline: 1791, 1792, 1793, 1794, \"our year\"\n   - Digital Screen:\n     - \"GET STARTED!\"\n     - Timeline with labels: \"trending,\" \"problem,\" \"solution\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the timeline on the chalkboard, indicating each year sequentially.\n   - The teacher gestures towards the digital screen, likely emphasizing the \"trending,\" \"problem,\" and \"solution\" labels.\n   - The teacher holds papers and appears to reference them while explaining, possibly summarizing key points.\n\n4. **Transition to Next Step**:\n   - The digital screen briefly goes black, possibly indicating the end of the presentation or transition to another slide.\n   - No explicit visual elements indicate homework or next steps, but the teacher's gestures suggest a conclusion or summary of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a focus on the chalkboard and digital screen, both serving as key summary artifacts. The chalkboard prominently displays a timeline with the years 1791, 1792, 1793, 1794, and \"our year,\" accompanied by the phrase \"From Problems To Solutions.\" The digital screen shows a \"GET STARTED!\" slide with a timeline diagram labeled \"trending,\" \"problem,\" and \"solution.\" \n\nThe teacher visually reviews these elements by pointing to each year on the chalkboard timeline, moving sequentially from left to right. She also gestures towards the digital screen, likely emphasizing the progression from \"trending\" to \"solution.\" Her movements suggest a connection between the historical timeline and the conceptual framework on the screen.\n\nA strong emphasis is placed on the final year, \"our year,\" on the chalkboard, indicating a culmination of the timeline. The teacher's gestures towards the screen's labels reinforce the lesson's progression theme. \n\nThe digital screen briefly turns black, signaling the end of the presentation. No explicit homework or next-step instructions are visually presented, but the teacher's concluding gestures imply a wrap-up of the session's key points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Timeline 1791",
+        "type": "Visual",
+        "original_text": "Timeline with year 1791",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c2",
+        "label": "Timeline 1792",
+        "type": "Visual",
+        "original_text": "Timeline with year 1792",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c3",
+        "label": "Timeline 1793",
+        "type": "Visual",
+        "original_text": "Timeline with year 1793",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c4",
+        "label": "Timeline 1794",
+        "type": "Visual",
+        "original_text": "Timeline with year 1794",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c5",
+        "label": "Timeline Our Year",
+        "type": "Visual",
+        "original_text": "Timeline with 'our year'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "Trending",
+        "type": "Visual",
+        "original_text": "Slide section labeled 'trending'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Problem",
+        "type": "Visual",
+        "original_text": "Slide section labeled 'problem'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Solution",
+        "type": "Visual",
+        "original_text": "Slide section labeled 'solution'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "From Problems To Solutions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.0 -> 781.32]"
+      },
+      {
+        "id": "c10",
+        "label": "Review Gesture",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards timeline and slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Timeline Progression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.0 -> 781.32]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "The principle 'From Problems To Solutions' evolves from the timeline progression."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Teacher reviews the timeline starting with year 1791."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Teacher reviews the timeline year 1792."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Teacher reviews the timeline year 1793."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Teacher reviews the timeline year 1794."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the significance of 'our year' in the timeline."
+      },
+      {
+        "source": "c10",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes on 'trending' aspects of the slide."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the 'problem' aspect of the slide."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the 'solution' aspect of the slide."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "The timeline culminating at 'our year' summarizes the transition from problems to solutions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

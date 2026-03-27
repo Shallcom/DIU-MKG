@@ -1,0 +1,114 @@
+{
+  "video_name": "35_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "- Enhance students' English expressive ability through interactive activities.  \n- Understand vocabulary and concepts associated with protection.  \n- Accurately use verbs and adjectives to describe emotions within contextual situations.",
+  "transcript": "[0.0 -> 4.12] 字幕由 Amara.org 社区提供。\n[10.4 -> 120.0] 各位先生女士们早上好今天我的问题是作为英语教授如何帮助学生建立语言能力呢我觉得这是英语教授和学生的重要和困难的论点我们知道教育有价值教育不是固定的价值所以我会问三个问题首先教授会举办一个竞争因为竞争会帮助学生建立更多的语言例如我会教学生的外围保护学生不仅学会学习三星的安慕斯林的奥索艾维斯特森安姆斯内弗德普德肯德伦威尔斯安森贝尔斯艾斯艾斯艾准备是成功的另一个是美丽的我们会学到这个美丽的词语我们会知道这个词语的根据是美丽的最后我们应该使用书本因为书本非常重要非常有用于学生们他们会记得一些很难的词语在书本上每个星期每个早上都会记住这些语言的关键中文字幕志愿者杨茜茜杨在课前我想问你你喜欢动物吗是的你喜欢什么动物呢狗狗为什么喜欢它很可爱我认识你我们知道每个人都有自己喜欢的怪物现在我想介绍一些很可爱的怪物这是我喜欢的所以第一个你会看这很大你认识吗他们是什么请问这张图片里有什么信息呢第一个信息是你会发现很多的动物被虐待了对吗第二个信息是你能够得到的吗是的第一个信息是一百五十到二百多个生命空间失去了对吗你会发现这是蜂蜜的信息可以得到的是十七三百万的蜂蜜蜂蜜蜜蜂蜂蜜�。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"Wildlife Protection\" with the subtitle \"Discovering Ecological Destruction: Report on endangering crocodiles.\"\n\n#### 2. **The Title Event**\n- The title \"Wildlife Protection\" is displayed prominently on the screen. The teacher stands in front of the screen, gesturing towards it, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, possibly emphasizing points related to the content on the screen.\n- She occasionally points towards the screen, likely to draw attention to the title or subtitle.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher walks towards the front of the classroom.\n- The screen displays the title \"Wildlife Protection\" with the subtitle \"Discovering Ecological Destruction: Report on endangering crocodiles.\"\n- The teacher stands in front of the screen, holding papers.\n\n**Middle:**\n- The teacher gestures with her hands, likely explaining the topic.\n- She points towards the screen, emphasizing the title and subtitle.\n- The audience is seated, facing the teacher and the screen.\n\n**End:**\n- The teacher continues to gesture, maintaining focus on the screen content.\n- No additional slides or changes on the screen are observed in this segment.\n\n### Summary\nThe introduction phase centers around the title slide, with the teacher using hand gestures to emphasize key points. The visual focus remains on the screen content, highlighting the topic of wildlife protection and ecological destruction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, holding papers, and facing a screen displaying the title \"Wildlife Protection\" with the subtitle \"Discovering Ecological Destruction: Report on endangering crocodiles.\" This title slide serves as the hook, immediately drawing attention to the central theme of the lesson. The teacher gestures towards the screen, emphasizing the importance of the topic. As she speaks, she uses hand movements to highlight key points, occasionally pointing directly at the title to reinforce its significance. The visual focus remains on the screen throughout, with no transition to additional slides or content. This approach effectively bridges the hook to the main topic by maintaining a clear and consistent visual emphasis on wildlife protection and ecological destruction. The introduction connects new knowledge to the students' existing understanding by visually anchoring the discussion on a specific environmental issue, setting the stage for deeper exploration of ecological impacts and conservation efforts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Wildlife Protection Slide",
+        "type": "Visual",
+        "original_text": "The screen displays the title 'Wildlife Protection' with the subtitle 'Discovering Ecological Destruction: Report on endangering crocodiles.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "The teacher gestures with her hands and occasionally points towards the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Ecological Destruction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Endangering Crocodiles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Protective Vocabulary",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.4 -> 120.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Emotional Verbs",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[10.4 -> 120.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Emotional Adjectives",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[10.4 -> 120.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Interactive Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[10.4 -> 120.0]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of ecological destruction is shown visibly on the screen."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The problem of endangering crocodiles is highlighted as a key focus."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Protective vocabulary includes the use of emotional verbs."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Protective vocabulary includes the use of emotional adjectives."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Interactive activities aim to enhance student engagement and thinking."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "The teacher's gestures assist in focusing student attention on the visual information."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

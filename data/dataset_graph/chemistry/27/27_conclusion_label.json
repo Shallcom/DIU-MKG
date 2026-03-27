@@ -1,0 +1,165 @@
+{
+  "video_name": "27_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the principle governing the conversion of iron between different oxidation states; master the redox characteristics and testing methods of dipotassium iron salt.",
+  "transcript": "[683.709633 -> 741.42] 好如果我们想要那如果我们想要检验二钾铁和钢锣酸钾是否真的是按照这样的一个实验原理发生了反应我们应该检验哪一种物质我们可以检验三钾铁这一种生成物如果生成了三钾铁就说明发生了这一反应那应该可但应该来检验三家田呢流心化甲那现在就请同学们在刚刚反刚刚反射实验二中反应后的溶液里面加入两滴流心化碱看一看能得到什么现象呢好开始实验吧好实验结束看到了什么现象好实验容易变成血红色说明二价铁说明的确发生了这个反应二价铁转化成了三价铁那在这个反应中我们发现了通过氧化还原反应的手段可以让同种物质的同种元素在不同的价态之间进行转化那这样的一种原理呢在我们的生活中也十分常见大家知道补铁器中的铁是几价的吗是二价的但是我们知道二价铁非常容易被氧化所以我们在使用补铁剂的时候通常也会和具有还原性的维生素C同伏防止它被氧化成三价铁来保障我们的身体健康这节课我们通过实验探究的一般思路学习到了鸭铁盐具有氧化性和还原性课后请大家继续思考鸭铁离子应该如何检验有什么现象呢好这节课就上到这里下课感谢各位评论老师同学们。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the final slide on the screen.\n   - The blackboard contains chemical equations and notes written in white chalk. The equations are:\n     - $2\\text{Fe}^{2+} + 21 = \\text{Fe}^{3+} + 2\\text{e}^-$\n     - $5\\text{Fe}^{2+} + \\text{MnO}_4^- + 8\\text{H}^+ = 5\\text{Fe}^{3+} + \\text{Mn}^{2+} + 4\\text{H}_2\\text{O}$\n   - The screen displays a slide titled \"继续思考\" (Further Thinking) with the question: \"如何解释在该反应中的$\\text{MnO}_4^-$？为什么？\" (How to explain $\\text{MnO}_4^-$ in this reaction? Why?)\n\n2. **Key Knowledge Items (Content View)**:\n   - Chemical equations: $2\\text{Fe}^{2+} + 21 = \\text{Fe}^{3+} + 2\\text{e}^-$ and $5\\text{Fe}^{2+} + \\text{MnO}_4^- + 8\\text{H}^+ = 5\\text{Fe}^{3+} + \\text{Mn}^{2+} + 4\\text{H}_2\\text{O}$\n   - Slide content: \"继续思考\" (Further Thinking) and the question about $\\text{MnO}_4^-$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equations on the blackboard, likely reviewing the steps or components of the reactions.\n   - The teacher gestures towards the screen, emphasizing the question about $\\text{MnO}_4^-$, encouraging further thought or discussion.\n\n4. **Transition to Next Step**:\n   - The slide titled \"继续思考\" suggests a transition to further exploration or homework, prompting students to consider the role of $\\text{MnO}_4^-$ in the reaction. No specific homework details are visible, but the question implies continued study or reflection.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying two key chemical equations and a slide titled \"继续思考\" (Further Thinking) on the screen. The teacher visually wraps up the lesson by pointing to the equations on the blackboard, emphasizing the transformation of $\\text{Fe}^{2+}$ to $\\text{Fe}^{3+}$ and the role of $\\text{MnO}_4^-$ in the reaction. She then directs attention to the screen, highlighting the question about $\\text{MnO}_4^-$, prompting students to reflect on its significance. The teacher's gestures suggest a focus on understanding the reaction mechanisms, leaving students with a clear visual prompt for further consideration. No specific homework details are shown, but the slide implies continued exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Fe2+ to Fe3+",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Dipotassium Iron Salt",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Redox Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Testing Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Fe2+ to Fe3+ Equation",
+        "type": "Visual",
+        "original_text": "2Fe2+ + I2 = 2Fe3+ + 2e-",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "MnO4- in Reaction",
+        "type": "Visual",
+        "original_text": "How to explain MnO4- in this reaction? Why?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Further Thinking Slide",
+        "type": "Visual",
+        "original_text": "Title: Further Thinking",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Experiment Conclusion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Fe2+ Testing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c10",
+        "label": "Fe3+ Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c11",
+        "label": "Blood Red Color",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[683.71 -> 741.42]"
+      },
+      {
+        "id": "c12",
+        "label": "Oxidation Prevention",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[683.71 -> 741.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Shows the chemical transformation on the board to illustrate the principle of oxidation."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes the redox behavior of dipotassium iron salt."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Explores methods to test redox characteristics experimentally."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Uses the equation to develop a testing procedure for iron transformation."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Highlights the slide content to prompt deeper student reflection."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Demonstrates visible evidence of iron oxidation by color change."
+      },
+      {
+        "source": "c9",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Connects testing procedures with strategies to prevent oxidation."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to engage with the complex role of MnO4-."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Incorporates testing methods into the classroom experiment."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Visual confirmation that Fe2+ converts to Fe3+."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Incorporates practical testing methods into studying redox characteristics."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

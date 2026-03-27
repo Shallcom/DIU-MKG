@@ -1,0 +1,133 @@
+{
+  "video_name": "25_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand and master the conditions and derivation method of the point‑slope form of a line equation; be able to correctly write the line equation given a specific point and slope; be able to apply the point‑slope form to solve related problems in real‑world contexts.",
+  "transcript": "[172.28 -> 246.3] 好我们请第二排这个黑衣服同学你来说一下是一一跟二三非常棒请坐那么我们就知道了这两位同学的位置坐标分别是一一以及二三那现在这两个点是已经确定的点那如果这两个点是未知的点呢我们设这其中的一个点为P零啊X零Y零另外一个点的坐标为PXOY那么我们现在已经知道了这两个点和我们已经知道在平面角坐标系当中给定一一个点和斜率就能唯一确定一条直线那今天带着这样的问题就进入我们今天的学习我们共同来学习直线的点斜式方程。\n[262.64 -> 289.46] 那通过构建我们平面角坐标系以及追到这两个点坐标有哪位同学能够说出结合我们的斜率方程来得到它的斜率为多少呢来第一排的男同学。\n[292.64 -> 301.3] 那我们请这位女同学你来回答一下它的斜率是Y减Y零除以X减X零。\n[302.34 -> 338.86] 也就是斜率K等于Y减Y零除以上X减去X零回来得非常棒请坐那通过这个式子我们可以进一步推出Y减Y零是等于K倍的X减去X零的。\n[342.04 -> 358.7] 那同学们观察一下这个式子你们能够请小组合作交流一下这个柿子它们之间有怎样的一个联系呢也就是我们直线上的点与我们方程。\n[359.88 -> 368.26] 直线上的点与我们关系这个关系室它们之间有怎样的联系请小组合作交流一下。\n[379.64 -> 476.16] 好我们看这一小组同学有想法了那你请你一起来代表你们小组来回答一下我们发现就是只要是在这条直线上的点都是满足这个方程的当然X零这个点发现有点奇怪X零这个点对因为它是分母正好是零所以我们不知道怎么办它的分母不是零啊它就是也就是通过通过这个等式你能够知道我们什么就是我们我们直线上每一点它的坐标都满足我们的关系室并且只要满足这个关系室上的每一点它都在这个直线上好回来非常棒请坐那我们就得到了直线上L的每一点只要满足这个关系室那么它就在这个直线上同样满足关系室的这个关系满足关系式的这个方程的每一点也就在这个直线上。\n[479.42 -> 487.6] 那现在我们在任意在直线上取一点PE令它的坐标是XEYE。\n[489.12 -> 497.8] 若这个PE它满足上面的关系式它是否也满足于刚刚我们探究的那它们之间的关系呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide with a coordinate system diagram and text in Chinese.\n- The chalkboard initially shows the title \"§2.2.1 直线的方程方程\" and coordinates for points B(6, 4) and P(x, y).\n- The teacher gestures towards the points on the board, indicating their positions.\n\n**Middle:**\n- The teacher writes the slope formula $k = \\frac{y - 4}{x - 6}$ on the board.\n- She then writes the equation $y - 4 = k(x - 6)$, linking it to the slope formula.\n- The teacher points to the equation and the points on the board, explaining the relationship between them.\n\n**End:**\n- The teacher continues to explain, gesturing towards the equation and points.\n- She holds papers and gestures towards the digital screen, which shows the same coordinate diagram and text.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the coordinate system diagram on the digital screen, showing points A(0, 0), B(6, 4), and the line connecting them.\n   - The chalkboard displays the title \"§2.2.1 直线的方程方程\" and the coordinates B(6, 4) and P(x, y).\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:**\n     - The teacher writes the slope formula $k = \\frac{y - 4}{x - 6}$.\n     - She writes the equation $y - 4 = k(x - 6)$, connecting it to the slope formula.\n   - **Modifications:**\n     - No erasures or modifications are observed; the teacher builds upon the existing content.\n   - **Deictic Gestures:**\n     - The teacher points to the slope formula and the equation, emphasizing their connection.\n     - She gestures towards points B and P on the board while explaining.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the slope formula and the derived equation.\n   - She points directly at the equation $y - 4 = k(x - 6)$ to highlight its importance.\n   - The digital screen remains static, focusing on the coordinate diagram and accompanying text.\n\nThis structured visual evolution captures the teacher's method of linking abstract concepts to concrete visual elements, guiding students through the derivation of the line equation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"§2.2.1 直线的方程方程\" alongside the coordinates for points B(6, 4) and P(x, y), establishing the foundational elements for the lesson. The digital screen presented a coordinate system with points A(0, 0) and B(6, 4), connected by a line, serving as the primary visual anchor.\n\nThen, the teacher constructed the slope formula by writing $k = \\frac{y - 4}{x - 6}$ on the board, directly linking it to the points B and P. She derived the equation $y - 4 = k(x - 6)$, building upon the slope formula to illustrate the relationship between the points and the line. Throughout this process, she annotated the board, emphasizing the connection between the slope and the line equation.\n\nThe teacher resolved deixis by tracing the slope formula and the derived equation, pointing to specific components to clarify their roles. She highlighted the equation $y - 4 = k(x - 6)$, circling it to mark its importance as the final result.\n\nFinally, she reinforced the concept by gesturing towards the digital screen's coordinate diagram, aligning the visual elements with the board's equations. This integration of static diagrams and dynamic annotations reduced cognitive load, allowing students to follow the logical progression from points to line equations seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Point-Slope Form",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[302.34 -> 338.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Slope Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[292.64 -> 301.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Coordinate System",
+        "type": "Visual",
+        "original_text": "Diagram with points A(0,0) and B(6,4)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Equation y - 4 = k(x - 6)",
+        "type": "Visual",
+        "original_text": "Equation y - 4 = k(x - 6)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "The Line's Points",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[342.04 -> 358.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Points B and P",
+        "type": "Visual",
+        "original_text": "Coordinates B(6,4) and P(x,y)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Question Coordination",
+        "type": "Student_State",
+        "cognitive_state": "Questioning",
+        "timestamp": "[172.28 -> 246.3]"
+      },
+      {
+        "id": "s2",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[342.04 -> 358.7]"
+      },
+      {
+        "id": "s3",
+        "label": "Idea Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[379.64 -> 476.16]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Derivation of the point-slope form from the slope formula."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Illustrates the principle that every point on the line satisfies the equation."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Derives slope formula using points B(6,4) and P(x,y)."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Shows the point-slope form on both digital screen and board."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Highlights important derived equation on the board."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Supports understanding by linking points to equation."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in initial conceptual understanding."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Facilitates understanding through group interaction."
+      },
+      {
+        "source": "s3",
+        "target": "c1",
+        "relation": "praises_response",
+        "intent": "Encourages students' understanding and correct responses."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

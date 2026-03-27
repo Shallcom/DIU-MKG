@@ -1,0 +1,173 @@
+{
+  "video_name": "10_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Enhance students’ ability to understand the overall structure of discourse; strengthen students’ cross‑cultural awareness and linguistic sensitivity.",
+  "transcript": "[0.0 -> 97.1] Good morning, ladies and gentlemen. This is contestant number ten and the question that I got is when I'm going to teach a new lesson to my students what kind of ways should I to process the text. First of all before I move to the new chapter I would like to take a holistic view from the greater unit it belongs as we look bigger we may think deeper about specific text. And then I will teach my students more about the links between different passages within a specific unit and to let the students know that reading is not just about a time but also a lifetime. And second is about my personal close reading and think according to the text. I will need to figure out not only what is the text about but also I need to figure out how is this helpful to my students and also how to organize text like this. In order to better understand the text I also need to close read the text with my student together during the class that we would like to delve into like the basic forms of the language like words and phrases and also the sentence structures or some grammatical points and also we need to learn how to write during read because we need to abstract some useful information in this process so as to better help my students to know what is a good passage about. And also the rhetorical devices,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It reads \"Book2 U2.2 History and Traditions\" with the subtitle \"Reading of learning.\"\n\n#### 2. **The Title Event**\n- The title on the screen is \"Book2 U2.2 History and Traditions.\" The teacher is standing in front of the screen, presenting the slide. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and appears to be reading or presenting from them. There are no specific gestures noted towards the board or screen content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the slide titled \"Book2 U2.2 History and Traditions.\"\n- The blackboard is mostly blank except for some text on the right side, written in a non-Latin script.\n\n**Middle:**\n- The teacher maintains a static position, reading from the papers.\n- No changes occur on the screen or blackboard.\n- The teacher's gestures are minimal, primarily involving holding and possibly glancing at the papers.\n\n**End:**\n- The scene remains consistent with the teacher continuing to present from the papers.\n- The visual content on the screen and board does not change.\n\n### Summary\nThe introduction phase focuses on the teacher presenting a slide titled \"Book2 U2.2 History and Traditions.\" The teacher's actions are centered around reading from papers, with no additional gestures or changes to the visual content. The blackboard remains largely unused, except for some pre-written text.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and presenting a digital slide titled \"Book2 U2.2 History and Traditions.\" This slide serves as the initial visual stimulus, setting the stage for the lesson. The teacher remains stationary, primarily reading from the papers, with no additional gestures or interactions with the blackboard. The blackboard itself is mostly blank, except for some pre-written text in a non-Latin script on the right side. Throughout the introduction, the visual focus remains on the static slide, which does not transition or change. The teacher's actions are minimal, emphasizing the presentation of the topic rather than dynamic engagement with the content. This approach establishes a clear entry point for the lesson, grounding the students in the theme of \"History and Traditions\" before delving deeper into the subject matter. The introduction serves to orient students by presenting the topic upfront, preparing them for subsequent learning activities that will likely explore historical contexts and cultural traditions in more detail.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Holistic View",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Specific Text",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Links Between Passages",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Lifetime Reading",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Organizing Text",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Close Reading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Basic Forms of Language",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c8",
+        "label": "Words and Phrases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c9",
+        "label": "Sentence Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c10",
+        "label": "Grammatical Points",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c11",
+        "label": "Writing During Reading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "c12",
+        "label": "Rhetorical Devices",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 97.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: History and Traditions",
+        "type": "Visual",
+        "original_text": "Slide displays 'Book2 U2.2 History and Traditions'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Listening to Presentation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The holistic view helps understanding specific text."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding links within passages helps comprehending specific text."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Organizing text aids in effective close reading."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Close reading involves understanding the basic forms of language."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Basic forms of language include words and phrases."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Basic forms of language include sentence structures."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Basic forms of language include grammatical points."
+      },
+      {
+        "source": "c11",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Writing during reading supports close reading activities."
+      },
+      {
+        "source": "c12",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding rhetorical devices enhances comprehension of specific text."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "The slide visually reinforces the topic for students who are engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

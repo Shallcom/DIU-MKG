@@ -1,0 +1,161 @@
+{
+  "video_name": "6_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Cultivate students' rational analytical abilities when facing major life choices; guide students to recognize themselves and understand their strengths and interests; help students establish correct life values and planning awareness.",
+  "transcript": "[0.0 -> 6.34] 点支持明镜与点点栏目。\n[10.9 -> 134.96] 尊敬的各位评论老师大家好今天我提出奖品的题目是喜羊而生畅散而行根据题目中大学报考即将结开始成绩公布后学生向我征求意见究竟是去双一流学校的冷门专业还是普通大学的优质专业我将给他以下建议首先冷静分析慎慎对待双一流大学因为这更好的平台更多的机会更好的人与意见相信在那个大学你也能够有更多的邂逅然而优质专业也能够带给你不同的好处它或许会给你更好的优质资源更好的实习机会这些都是你成长过程中的宝贵经历其次透露内心略拿自我生活的出处是自我我们更应该了解自己更需要什么自己更擅长什么选择自己擅长的东西并进行学习在接下来的人生经历中才能够更加从容与自信不仅如此还要有浅下心去学习的那种笃定这样子在后期的学习中才能够做到周到不放弃其次最后一点我认为还需要不死无悔不负韶华人不能够美化自己没走过的道路正是因为如此既然选择了这样的道路无论是装丢大学的冷门专业还是普通大学的优质专业既然选择了这样就要有坚持到底的勇气人生是一段慢尿的旅程需要我们且心且思且感且悟这是因为如此所以人生中的每一步都很重要需要我们坚定地大步前行相信只要是你的选择一定能够坚定到底让人生开出慢尿的花朵谢谢以上就是我的仔细讲演的全部内容。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide contains the text \"红烛\" (Red Candle) in a beige box, with the name \"刘晶晶\" (Liu Jingjing) below it.\n\n#### 2. **The Title Event**\n- The title \"红烛\" (Red Candle) is prominently displayed on the digital slide. The teacher does not physically write it but points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely emphasizing the title \"红烛.\"\n- The teacher occasionally looks at the students, engaging with them while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the digital screen displaying the title \"红烛.\"\n- The teacher holds papers and gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, maintaining focus on the title.\n- The teacher occasionally looks at the students, ensuring engagement.\n\n**End:**\n- The teacher remains near the screen, reinforcing the title \"红烛\" through gestures and eye contact with the students.\n\n### Summary\nThe introduction phase centers on the digital slide with the title \"红烛.\" The teacher uses gestures to emphasize the title, engaging students through eye contact and pointing. No additional visual content or learning objectives are displayed during this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing near the digital screen, which prominently displays the title \"红烛\" (Red Candle) as the hook object. The teacher holds papers and gestures towards the screen, drawing attention to the title. This visual cue serves as the initial stimulus, setting the stage for the lesson. Throughout the introduction, the teacher maintains focus on the title by pointing and occasionally looking at the students, ensuring engagement. The transition from the hook to the main topic is seamless, as the teacher uses the title on the screen to establish a connection with the students. By emphasizing the title through gestures and eye contact, the teacher effectively links the new content to the students' existing knowledge, preparing them for the forthcoming exploration of the topic. This approach helps in grounding the lesson, making the introduction both engaging and informative.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Red Candle Slide",
+        "type": "Visual",
+        "original_text": "Digital slide with 'Red Candle' and 'Liu Jingjing' text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher points towards the screen emphasizing the title 'Red Candle'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 134.96]"
+      },
+      {
+        "id": "c1",
+        "label": "Life Choices",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Self-Recognition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Strengths Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Interest Identification",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Life Values",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Planning Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c7",
+        "label": "Cold Major vs. Premium Major",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c8",
+        "label": "Determination in Choices",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c9",
+        "label": "Growth Essentials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[10.9 -> 134.96]"
+      },
+      {
+        "id": "c10",
+        "label": "Life Journey",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[10.9 -> 134.96]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the important concept 'Red Candle' to capture student attention."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gestures help maintain student engagement through visual emphasis."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Recognizing oneself is essential for making informed life choices."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Understanding personal strengths aids rational decision-making."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Identifying interests is crucial when faced with significant decisions."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Self-recognition supports establishing correct life values."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Planning awareness enhances the establishment of life values."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Determination is necessary when choosing between a cold major and a premium major."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Life journey is constructed upon essential growth experiences."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

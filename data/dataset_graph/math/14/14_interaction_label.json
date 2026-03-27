@@ -1,0 +1,165 @@
+{
+  "video_name": "14_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the method of using trigonometric functions to calculate an object’s height; understand how to apply a mathematical coordinate system to practical physical problems.",
+  "transcript": "[360.62 -> 468.56] 好那么高度如何来求呢我们是不是知道cosX它描述的是它的投影是在X上的这段距离那么sinX它的投影是哪个距离呢是不是纵坐标对对那么我们批减它的重坐标是如何表示的呢那位同学可以回答一下好这位同学你来说它的重坐标就是所以YP它就会等于三OmegaT再加上我们的饭好我们最终的问题是要求什么是不是要求出铜车渗水桶的那个高度啊其实我们渗水桶我们知道生活实际上我们的渗水桶它是在水中的它是这样一个水面对吧但是我们将模型简化了我们在这个O点这里取得了并且刚才我们是知道渗水桶到这个中心到水面的距离是小那么我们这个大H应该等于多少呢是不是应该等于我们的YP的中坐标加上小H好我们来看就是这样那么同学们这个函数我们是不是看起来是比较陌生但是又好熟悉那么今天我们来看这个函数今天我们就来讨论一下这个函数。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the mathematical diagram on the blackboard, specifically the unit circle and the equations $y = \\sin(\\theta)$ and $y = \\sin(\\theta + \\varphi)$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the unit circle diagram on the blackboard, highlighting the angle $\\varphi$. This action visually guided the student to consider the phase shift in the sine function.\n- The teacher also wrote additional equations on the blackboard, such as $H = r$ and $\\frac{H}{r} = 1$, to scaffold the student's understanding of the relationship between the height and radius in the context of the unit circle.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the equation $y = \\sin(\\theta + \\varphi)$ on the blackboard, visually confirming the correctness of the concept being discussed.\n- The teacher then drew a line connecting the points on the unit circle to illustrate the phase shift, providing a visual explanation to reinforce the student's understanding.\n- An emphatic nod and a smile were used to validate the student's input, creating a positive reinforcement loop.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher made a sweeping gesture towards the class.\n  - The focus shifted to the unit circle diagram and the equations $y = \\sin(\\theta)$ and $y = \\sin(\\theta + \\varphi)$ on the blackboard.\n\n- **Middle:**\n  - While listening to a student, the teacher pointed to the angle $\\varphi$ on the unit circle.\n  - Additional equations $H = r$ and $\\frac{H}{r} = 1$ were written on the blackboard to scaffold the discussion.\n\n- **End:**\n  - The teacher circled the equation $y = \\sin(\\theta + \\varphi)$ to confirm its correctness.\n  - A line was drawn on the unit circle to illustrate the phase shift.\n  - The teacher nodded and smiled to visually validate the student's input.\n\nThis structured visual interaction ensured that the teacher effectively managed the dialogue, guiding students through the co-construction of knowledge with clear and deliberate visual cues.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the unit circle diagram and the equations $y = \\sin(\\theta)$ and $y = \\sin(\\theta + \\varphi)$, setting the stage for the lesson on phase shifts in trigonometric functions. The teacher began by making a sweeping gesture towards the class, inviting all students to engage with the problem at hand. This broad gesture signaled the start of an interactive segment, focusing attention on the visual elements of the unit circle and the associated equations.\n\nAs the teacher facilitated the discussion, they moved to the blackboard, pointing to the angle $\\varphi$ on the unit circle while a student explained their reasoning. This gesture visually guided the student to consider the phase shift in the sine function. Simultaneously, the teacher wrote additional equations, such as $H = r$ and $\\frac{H}{r} = 1$, on the blackboard to scaffold the student's understanding. These actions provided real-time visual support, helping the student articulate their thoughts more clearly.\n\nTo validate the student's response, the teacher circled the equation $y = \\sin(\\theta + \\varphi)$ on the blackboard, visually confirming its correctness. This action served as a clear endorsement of the student's understanding. The teacher then drew a line connecting points on the unit circle, illustrating the phase shift and reinforcing the concept being discussed. An emphatic nod and a smile further validated the student's input, creating a positive reinforcement loop.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing an arrow from the circled equation to the main unit circle diagram. This visual link reinforced the relationship between the phase shift and the sine function, ensuring that the student's understanding was firmly grounded in the lesson's key concepts. Through these deliberate and structured visual actions, the teacher facilitated the transition from passive reception of knowledge to active construction, empowering students to engage deeply with the material and build their own understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Unit Circle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Phase Shift",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Height Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "c6",
+        "label": "y = sin(θ)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "c7",
+        "label": "y = sin(θ + φ)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[360.62 -> 468.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Teacher Gesture",
+        "type": "Visual",
+        "original_text": "Teacher made a sweeping gesture to invite participation.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Unit Circle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram focusing on the unit circle and angles.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Equations on Blackboard",
+        "type": "Visual",
+        "original_text": "Equations $y = sin(θ)$ and $y = sin(θ + φ)$ displayed.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Equation Confirmation",
+        "type": "Visual",
+        "original_text": "Teacher circled $y = sin(θ + φ)$ to confirm correctness.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Trigonometric functions include concepts of the unit circle."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The phase shift is discussed in context with $y = sin(θ + φ)$."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Height calculation uses the mathematical coordinate system."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Equation $y = sin(θ + φ)$ builds upon $y = sin(θ)$."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gesture prompts student engagement."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Unit circle diagram visualizes the concept of the unit circle."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Equations visualize the trigonometric function $y = sin(θ)$."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Equations visualize the trigonometric function $y = sin(θ + φ)$."
+      },
+      {
+        "source": "v4",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Circle around equation emphasizes its correctness."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Student's answer guides the discussion on height calculation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

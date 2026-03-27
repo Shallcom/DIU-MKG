@@ -1,0 +1,165 @@
+{
+  "video_name": "39_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the resistance behavior of metal conductors and semiconductor materials as temperature varies; master the distinctions between metallic thermistors and thermistors and their respective application scenarios.",
+  "transcript": "[627.0 -> 715.66] 因为大家从定义的角度来想一想说明因为它比较便宜并且它相对于那个金啊银啊什么都比较便宜一些所以我们就要选择学生钵可以用来做电阻针阻剂那与金属导体不一样的是半导体材料它的导电力会学的温度升高增电导电能力增强说明它的电阻对电阻减小那说明这两个它们其实本质是不一样的其实本质是一样的就是它们的电阻力随着温度的变化不一样所以我们要通过合适的情景来选择不同的电阻下面它们大家来想一想金属热电阻和热敏电阻它们之间又有什么区别呢从它们的本质那现在我们就一起来分析一下这个一它代表的是金属热电阻它是一条斜直线我们可以看到它的温度范围可以从零变化到无穷大说明它的温度范围是比较比较广所以它的测温范围比较大但是它的灵敏度大家看当它的温度变化比较大的时候它的电阻R是不变化仍然是很小的一个范围相对于我们的热敏电阻来说同样的温度差下它们的电压值是不是变化的不一样那我们就可以从这个图中看出热敏电阻它的测温范围是比较小的从零到这里基本上就为零了测温范围比较小但是他的灵敏度比较高以上就是我们一周的环节。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a diagram illustrating the relationship between current and voltage in a conductor, with a graph showing a linear relationship.\n   - The blackboard contains handwritten notes, including the heading \"常见传感器的原理及应用\" (Common principles and applications of sensors) and a section labeled \"欧姆定律\" (Ohm's Law).\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide: \n     - Diagram with a graph showing a linear relationship between current (I) and voltage (V).\n     - Text: \"导体中的电流与导体两端的电压成正比，与导体的电阻成反比\" (The current in a conductor is directly proportional to the voltage across it and inversely proportional to its resistance).\n   - Blackboard:\n     - \"常见传感器的原理及应用\" (Common principles and applications of sensors).\n     - \"欧姆定律\" (Ohm's Law).\n     - \"情气球——电阻\" (Balloon analogy — Resistance).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the graph on the slide, emphasizing the linear relationship between current and voltage.\n   - She gestures towards the text on the slide, highlighting the proportional relationships described.\n   - The teacher occasionally looks at the blackboard, possibly referencing the notes written there, though specific gestures towards the blackboard are not detailed.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a slide displaying a graph illustrating the linear relationship between current and voltage in a conductor. The teacher visually reviews the content by pointing to the graph, emphasizing the proportional relationships depicted. She highlights the text on the slide, reinforcing the key principles of Ohm's Law. The blackboard remains visible with notes on common sensor principles and Ohm's Law, though no specific emphasis actions are noted. There is no visual indication of homework or next steps in the frames provided, marking the end of the session with a focus on the core concepts displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Current-Voltage Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Resistance and Temperature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Metal Conductors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Semiconductor Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Temperature Range of Metals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Thermistors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "c8",
+        "label": "Sensitivity of Thermistors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.0 -> 715.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Current-Voltage Slide",
+        "type": "Visual",
+        "original_text": "Slide depicting the linear relationship between current and voltage.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Notes on common sensor principles and Ohm's Law.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Balloon Analogy",
+        "type": "Visual",
+        "original_text": "Blackboard note on resistance analogy with a balloon.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Describes how Ohm's Law specifically relates to the relationship between current and voltage."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains the impact of temperature on resistance in metal conductors."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Explains the impact of temperature on resistance in semiconductor materials."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Identifies the broad temperature range applicable to metal conductors."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the principle of Ohm's Law."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Describes the role of semiconductor materials in thermistors."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Highlights the increased sensitivity of thermistors compared to other materials."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Notes on the blackboard provide additional scaffolding for understanding Ohm's Law."
+      },
+      {
+        "source": "c1",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The balloon analogy on the blackboard serves to scaffold understanding of resistance."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains the dependency of the current-voltage relationship on resistance changes with temperature."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Student engagement is directed toward the slide illustrating current-voltage relationships."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

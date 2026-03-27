@@ -1,0 +1,140 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the formal characteristics of dense functions and their graphs and properties; develop practical graph‑drawing abilities through the integration of numerical and geometric methods; apply mathematical abstraction and logical reasoning to derive the characteristics of dense functions.",
+  "transcript": "[0.0 -> 134.84] 下面开始我的继续演讲首先数学四级是指基础知识基本技能基本思想基本活动经验那么四级是新课程标准下对数学学科培养目标的基本要求作为教师我们在讲课授课的过程中一定要注重发展学生的四级培养学生的数学学科核心素养那么具体到本节课本节课所讲述的内容是密函数密函数在高一教材中起着呈上起下的作用一方面承接了之前所学函数的概念与图像另一方面也为指数函数等初等函数的学习起到了铺垫作用那么在本节课中基础知识主要体现在学生掌握密函数的形式特征及其图像与性质那么本节课的基本技能主要体现在学生在以竖形结合画图的形式中培养学生画图实践的能力基本思想主要体现在学生通过竖形结合推导概括出秘含数的特征与性质基本活动经验体现在学生通过小组合作交流探究中培养学生的数学抽象逻辑推理能力进而推导出本节课所学的秘函数那么以上就是我的即席演讲下面开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with the teacher standing at a podium, holding a sheet of paper. The initial focus is on the teacher's presence and the paper, which likely contains the lesson introduction or agenda.\n\n#### 2. **The Title Event**\n- The blackboard displays some Japanese text on the left side, which appears to be a lesson number or title: \"数学2 2-3 運動\". The teacher does not interact with this text directly in the frames provided, but it is visible as part of the background.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the blackboard or screen in the provided frames. The screen to the right shows a digital interface, possibly a presentation or document, but the content is not clearly readable.\n\n#### 4. **Key Gestures**\n- The teacher is seen holding a sheet of paper and occasionally gesturing with their free hand. Specific gestures include:\n  - Holding the paper with both hands, indicating reading or presenting from the document.\n  - Raising a hand to emphasize points while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher approaches the podium with a sheet of paper.\n- The blackboard shows Japanese text on the left side, indicating the lesson topic.\n- The digital screen displays a document or presentation, but details are not clear.\n\n**Middle:**\n- The teacher stands at the podium, reading from the paper.\n- The teacher gestures with their free hand, possibly to emphasize points or engage the audience.\n- The blackboard remains unchanged, with the lesson title visible.\n\n**End:**\n- The teacher continues to present, maintaining focus on the paper and occasionally gesturing.\n- No additional content is added to the blackboard or screen during this segment.\n\n### Summary\nThe introduction phase of the lesson is characterized by the teacher presenting from a paper at the podium. The blackboard displays the lesson title \"数学2 2-3 運動,\" which remains static throughout. The teacher uses hand gestures to emphasize points while speaking, though no specific visual content changes occur on the board or screen during this segment.",
+  "visual_narrative": "Initially, the teacher stands at the podium holding a sheet of paper, which serves as the opening visual stimulus. The blackboard in the background displays the lesson title \"数学2 2-3 運動,\" setting the initial context. To bridge to the main topic, the teacher reads from the paper and occasionally gestures with their free hand, emphasizing key points without altering the board content. The digital screen to the right shows a document, though its details remain unclear. Throughout the introduction, the teacher maintains focus on the paper, using hand movements to engage the audience. The visual focus remains on the lesson title on the blackboard, establishing the foundational goal of the session. This approach connects the introduction to the students' existing knowledge by clearly presenting the lesson's focus, preparing them for the forthcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Dense Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Formal Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Graph Drawing Abilities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Numerical Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Geometric Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematical Abstraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Logical Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 134.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Japanese Text Lesson Title",
+        "type": "Visual",
+        "original_text": "Mathematics 2 2-3 Motion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Digital Presentation Screen",
+        "type": "Visual",
+        "original_text": "Unclear document details due to resolution",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gestures Emphasis",
+        "type": "Visual",
+        "original_text": "Teacher gestures with free hand to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Dense functions include formal characteristics."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Graph drawing abilities build upon numerical methods."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Graph drawing abilities build upon geometric methods."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Mathematical abstraction evolves from understanding dense functions."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Logical reasoning builds upon understanding dense functions."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Japanese text lesson title visualizes the topic of dense functions."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize key points about dense functions."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engaged listening prompts thinking about dense functions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

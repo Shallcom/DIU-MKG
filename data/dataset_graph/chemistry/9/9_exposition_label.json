@@ -1,0 +1,184 @@
+{
+  "video_name": "9_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Identify the common states of matter; understand the basic concept of plasma.",
+  "transcript": "[147.6 -> 168.98] 上课同学们好我们在之前已经学习过元素周期率等指示点那么我们来看这样一个问题生活中常见物质的聚集状态有哪几种呢。\n[170.0 -> 182.78] 物体气体液体非常的好那么老师已经展示出来了固液气的相物多好非常的好那么老师已经展示出来了雇业器的相互转换方式那么这节课就让我们一起来学习一下物质的具体状态和晶体的尝试。\n[203.6 -> 231.42] 那么老师还想问你一个问题那么生活中自然界中只有这三种物质的聚集状态吗我看到同学们脸上露出了疑惑那么老师来问这么一个问题常见的火是什么样的聚集状态呢。\n[233.6 -> 253.14] 有没有同学有思考吗那老师告诉同学们那么火是一种等离子体老师已经将它的定义展示在黑板上了我们可以进行了解所以我们知道自然界中的具体状态不只有三种还有等离子体这样的物质所以。\n[263.6 -> 270.28] 具体状态有气液固含有等鼻子体。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a title slide in Japanese. The slide reads \"物質の量と濃度の基本的な関係\" (Basic Relationships Between Amount of Substance and Concentration).\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n- The blackboard is initially blank.\n\n**Middle:**\n- The teacher turns to the blackboard and writes \"物質量\" (amount of substance) in large characters.\n- The digital screen changes to show a triangular diagram with labeled sides, possibly illustrating a relationship between variables.\n- The teacher points to the diagram on the screen while explaining, likely connecting it to the concept written on the board.\n- The teacher writes additional text on the blackboard, expanding on the initial term to include \"物質量の濃度と溶媒量の関係\" (Relationship Between Amount of Substance Concentration and Solvent Quantity).\n\n**End:**\n- The teacher draws a diagram on the blackboard, starting with a rectangular shape.\n- The digital screen displays text explaining the concept of molar concentration.\n- The teacher labels parts of the diagram, writing \"集英体\" (solute) and \"溶媒\" (solvent), indicating different components of a solution.\n- The teacher uses arrows and additional annotations to clarify the relationships between the components.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard, which evolves from displaying the term \"物質量\" to a detailed diagram showing the relationship between solute and solvent.\n- The digital screen serves as a supplementary visual aid, initially showing a title slide, then a triangular diagram, and finally explanatory text.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"物質量の濃度と溶媒量の関係\" on the blackboard, expanding the initial concept.\n  - A rectangular diagram is drawn, with labels \"集英体\" and \"溶媒\" added to represent solute and solvent.\n- **Modifications**: \n  - The teacher adds arrows and annotations to the diagram to illustrate the flow or interaction between solute and solvent.\n- **Deictic Gestures**: \n  - The teacher points to specific parts of the diagram while explaining, such as the labels for solute and solvent, to emphasize their roles in the relationship being discussed.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses different colors of chalk to distinguish between terms and diagram elements, though specific colors are not discernible.\n- Important concepts like \"物質量\" and the final diagram are written larger and more prominently on the blackboard.\n- The teacher's gestures and pointing emphasize key parts of the digital screen content, such as the triangular diagram and explanatory text.\n\nThis structured visual evolution helps students connect abstract concepts with concrete diagrams, facilitating a deeper understanding of the relationships between amount of substance, concentration, and solvent quantity.",
+  "visual_narrative": "Initially, the bulletin board displayed the title \"物質量の濃度と溶媒量の関係\" (Relationship Between Amount of Substance Concentration and Solvent Quantity), setting the stage for the lesson. The teacher began by writing \"物質量\" (amount of substance) prominently on the blackboard, establishing the foundational concept. As the lecture progressed, the teacher constructed a detailed diagram, starting with a rectangular shape to represent the solution system. He annotated the diagram with \"集英体\" (solute) and \"溶媒\" (solvent), clearly delineating the components involved. \n\nThe teacher then derived the relationship by adding arrows and additional labels, illustrating the interaction between solute and solvent. He frequently referred to the digital screen, which displayed a triangular diagram and explanatory text, using it to reinforce key points. During the explanation, he traced specific parts of the diagram, such as the solute label, to emphasize its role in the concentration relationship. \n\nTo highlight important concepts, the teacher used different colors and larger text for terms like \"物質量の濃度と溶媒量の関係,\" ensuring they stood out. Finally, he circled critical parts of the diagram and text, aligning visual emphasis with the conclusion of the lesson. This structured approach, combining board work with digital aids, reduced cognitive load by providing clear, step-by-step visual guidance, making complex relationships more accessible to students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "States of Matter",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[147.6 -> 168.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Solid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.0 -> 182.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Liquid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.0 -> 182.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Gas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.0 -> 182.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Plasma",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[233.6 -> 253.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Amount of Substance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "c7",
+        "label": "Solute",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[End]"
+      },
+      {
+        "id": "c8",
+        "label": "Solvent",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[End]"
+      },
+      {
+        "id": "c9",
+        "label": "Molar Concentration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[End]"
+      },
+      {
+        "id": "c10",
+        "label": "Digital Screen Title Slide",
+        "type": "Visual",
+        "original_text": "Basic Relationships Between Amount of Substance and Concentration",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Triangular Diagram",
+        "type": "Visual",
+        "original_text": "Illustrates a relationship between variables.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Rectangular Diagram",
+        "type": "Visual",
+        "original_text": "Diagram on the blackboard representing solution system.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Confusion on Matter States",
+        "type": "Student_State",
+        "cognitive_state": "Confused"
+      },
+      {
+        "id": "s2",
+        "label": "Understanding Plasma",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Solid is a common state of matter."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Liquid is a common state of matter."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Gas is a common state of matter."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Plasma is a less commonly known state of matter."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Plasma extends the traditional understanding of matter states."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Digital screen initially supports the concept of amount of substance."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "scaffolds",
+        "intent": "Screen illustration helps understand the relationship of variables."
+      },
+      {
+        "source": "c7",
+        "target": "c12",
+        "relation": "scaffolds",
+        "intent": "Diagram helps visualize solute in solution."
+      },
+      {
+        "source": "c8",
+        "target": "c12",
+        "relation": "scaffolds",
+        "intent": "Diagram helps visualize solvent in solution."
+      },
+      {
+        "source": "c9",
+        "target": "c12",
+        "relation": "scaffolds",
+        "intent": "Diagram represents the principle of molar concentration."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages students to think about matter states."
+      },
+      {
+        "source": "c5",
+        "target": "s2",
+        "relation": "emphasizes",
+        "intent": "Engagement increases as students learn about plasma."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

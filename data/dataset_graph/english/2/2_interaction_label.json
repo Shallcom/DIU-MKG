@@ -1,0 +1,139 @@
+{
+  "video_name": "2_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Identify and understand the function of key sentences in a text.",
+  "transcript": "[427.2 -> 435.38] 有些提示给您的您可以专注于第一张图片和最后一张图片它能够帮助您解决问题吧。\n[440.06 -> 446.08] 如果你能找到答案请握手。\n[464.3 -> 595.16] 好的其实我们停在这里可能有点困难吧所以这里有些提示关于第一章和最后一章的内容所以这是文章的肢体部分对吧这意味着作者展示了中国语言的专业介绍在第一章的内容中而在最后一章的内容中作者展示了中国语言的价值在肩上的作者读出了中国语言中的一些词汇之内的词汇之内所以我们可以看到在画面上显示的很明显的一张图片是开始的身体和结束的图片的图片的�H艾特那是名斯的奥特好处迪斯克艾特白奥克西斯米尼斯菲尼斯专业斯专业专业The first sentenceand thelastsentencemaybeusefulforyoutofinishthisjob。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact for interaction was the diagram on the blackboard titled \"Welcome to Chitaitown.\" The diagram included sections labeled \"An introduction,\" \"Body,\" and \"Conclusion,\" with \"Body\" further divided into \"Beginning\" and \"Plans.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher stood near the blackboard, occasionally pointing to the \"Body\" section of the diagram. This action visually guided the student to focus on the structure of the body paragraphs.\n- The teacher also used hand gestures to emphasize the flow from \"Beginning\" to \"Plans,\" reinforcing the logical sequence in the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and gave a thumbs-up, visually confirming the correctness of the student's input.\n- The teacher then drew a connecting line between \"Beginning\" and \"Plans\" on the blackboard, visually reinforcing the relationship between these sections and providing a clearer structure for the students.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Focus shifts to the blackboard diagram titled \"Welcome to Chitaitown.\"\n\n- **Middle:**\n  - Teacher points to the \"Body\" section of the diagram while a student responds.\n  - Uses hand gestures to indicate the flow from \"Beginning\" to \"Plans.\"\n\n- **End:**\n  - Teacher nods and gives a thumbs-up to confirm the student's input.\n  - Draws a connecting line between \"Beginning\" and \"Plans\" on the blackboard.\n\nThis structured visual interaction effectively co-constructs knowledge by linking the teacher's gestures and board content changes, ensuring students understand the logical structure of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a diagram titled \"Welcome to Chitaitown,\" with sections labeled \"An introduction,\" \"Body,\" and \"Conclusion,\" and the \"Body\" further divided into \"Beginning\" and \"Plans.\" The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content on the board.\n\nAs the teacher facilitated the discussion, they moved to the blackboard and pointed to the \"Body\" section while a student responded. This gesture directed the student's attention to the structure of the body paragraphs. While the student explained their reasoning, the teacher walked over to the board and used hand gestures to emphasize the flow from \"Beginning\" to \"Plans,\" reinforcing the logical sequence.\n\nTo validate the student's input, the teacher gave a distinct nod and drew a connecting line between \"Beginning\" and \"Plans\" on the blackboard. This visual action confirmed the correctness of the student's explanation and highlighted the relationship between these sections.\n\nThe teacher's gestures linked the student's response back to the core lesson content by visually reinforcing the structure of the essay. This process helped students move from passively receiving knowledge to actively constructing their own understanding by engaging with the visual elements and seeing the connections between different parts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Key Sentences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[427.2 -> 435.38]"
+      },
+      {
+        "id": "c2",
+        "label": "First Image",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[427.2 -> 435.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Last Image",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[427.2 -> 435.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Introduction Section",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[464.3 -> 595.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Body Paragraphs",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[464.3 -> 595.16]"
+      },
+      {
+        "id": "c6",
+        "label": "Conclusion Section",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[464.3 -> 595.16]"
+      },
+      {
+        "id": "c7",
+        "label": "Chinese Language",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[464.3 -> 595.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Diagram on Blackboard",
+        "type": "Visual",
+        "original_text": "Diagram titled 'Welcome to Chitaitown' with labeled sections 'Introduction,' 'Body,' and 'Conclusion'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Connecting Line",
+        "type": "Visual",
+        "original_text": "Connecting line between 'Beginning' and 'Plans' on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "First and last images help identify key sentences."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "First and last images help identify key sentences."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Body paragraphs include introduction section."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Body paragraphs include conclusion section."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Diagram visualizes the structure of the body paragraphs."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Connecting line emphasizes the relationship within body structure."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Student engagement builds upon understanding key sentences."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "scaffolds",
+        "intent": "Diagram serves as scaffolding for student engagement."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "summarizes",
+        "intent": "Connecting line summarizes the relationship for students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

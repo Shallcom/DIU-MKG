@@ -1,0 +1,127 @@
+{
+  "video_name": "25_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the integrative and regional characteristics of the geography discipline; master the role of authentic‑context teaching in cultivating core geographic competencies.",
+  "transcript": "[0.0 -> 3.78] 点支持明镜与点点栏目。\n[7.4 -> 128.18] 曾经的各位老师你们好我是二十五号选手我抽到的即席演讲题目是高中地理教学为什么倡导使用真实情境首先我们来谈谈地理学科的一个特色它是充满着综合性与区域性的一门学科那么在建构主义的思想之下采用真实情境的教学啊有利于培养我们地理学科的核心素养在区域认知方面它是需要我们去在复杂的地理环境中不断地划分区域来认识整个环境所以整一个真实情境它是聚焦于某一个区域的这个对于我们一个区域思想的认知培养也是有非常重要的帮助那么在综合思维方面它需要我们用综合的视角去看待整一个复杂的地理环境那么这么复杂的地理环境我们怎么去划分呢在要素方面时空方面以及地方区域方面不断地去划分这个情境上面的要素从而在情境背后提取它相关的一些一般特性在地理实践方面我们在教学中倡导从座中学从座中教学生的一个主体性那么在真实情境中我们不断地去联系学生的生活实际以达到在真实生活中从做中学培养学生的地理实践力在人地协调观上面在真实情境环境下我们不断地在这样的环境中去感知人与地之间的关系来探讨地理环境对人的影响以及人对地理环境的影响还有人与地之间的相互影响那么在这样的一个地理核心素养方面我认为在高中地教学方面去运用这项的真实情境它是可以极大地促进地理学科的一个特色体现这样的特色以及对我们整一个能力全方面的发展有一个重要的帮助以上是我的演讲。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is an image of a cityscape displayed on the screen. The image shows a dense urban area with tall buildings, likely representing a metropolitan city.\n\n#### 2. **The Title Event**\n- The title on the screen reads \"2.3 城镇化进程\" (Urbanization Process). The teacher did not physically write this; it is displayed on the screen. The teacher points to the title during the introduction.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely emphasizing the title and the cityscape image.\n- The teacher uses hand movements to engage with the audience, possibly indicating key points related to urbanization.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays the title \"2.3 城镇化进程\" with a cityscape image.\n- The teacher stands to the right of the screen, holding papers, and gestures towards the screen, likely introducing the topic of urbanization.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, emphasizing the cityscape image.\n- The teacher's hand movements suggest pointing out features or aspects of the cityscape related to urbanization.\n\n**End:**\n- The teacher maintains focus on the screen, using hand gestures to reinforce the introduction of the topic.\n- The cityscape image remains the central visual element throughout the introduction phase.\n\nThis structured visual analysis links the teacher's actions to the content displayed, focusing on the introduction of the urbanization process.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a cityscape image, serving as the hook to engage students in the topic of urbanization. The teacher holds papers and gestures towards the screen, drawing attention to the dense urban environment depicted. The title \"2.3 城镇化进程\" is prominently displayed, setting the stage for the lesson. Throughout the introduction, the teacher uses hand movements to emphasize key aspects of the cityscape, likely highlighting elements relevant to urban development. The visual focus remains on the city image, bridging the hook to the main topic by visually representing the concept of urbanization. This approach connects the students' existing understanding of cities to the new knowledge of urbanization processes, preparing them for a deeper exploration of the subject. The teacher's gestures and the static visual aid work together to introduce the topic effectively, grounding the lesson in a relatable and visual context.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geography Discipline",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[7.4 -> 128.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Integrative Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.4 -> 128.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Regional Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.4 -> 128.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Authentic-Context Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[7.4 -> 128.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Core Geographic Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.4 -> 128.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Urbanization Process",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 3.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Cityscape Image",
+        "type": "Visual",
+        "original_text": "Cityscape image of a dense urban area displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Urban Environment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 3.78]"
+      },
+      {
+        "id": "c9",
+        "label": "Geographic Environment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.4 -> 128.18]"
+      },
+      {
+        "id": "c10",
+        "label": "Build Inquiry",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains the integrative characteristic of geography as an academic discipline."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains the regional characteristic of geography as an academic discipline."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Authentic-context teaching develops core geographic competencies."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The cityscape image serves as a visual representation of urbanization."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "The urban environment is a specific example of the geographic environment."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Authentic-context teaching involves understanding complex geographic environments."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "The visual representation of the cityscape engages students in thinking about urbanization."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

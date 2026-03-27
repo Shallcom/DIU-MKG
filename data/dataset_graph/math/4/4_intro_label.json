@@ -1,0 +1,142 @@
+{
+  "video_name": "4_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "- Understand the role of function models in solving real‑world problems.  \n- Master the basic methods of solving equations by applying function properties.  \n- Be able to use functions to describe the changing patterns of objective phenomena.",
+  "transcript": "并应该从以下三方面进行连接首先是大单元教学模式我们知道高考的数学并不是单独的考察其中一个知识点而是相关联的知识点相互融合的考察因此要求高中教师要在教学过程中实现大单元教学模式所谓大单元教学模式它不仅仅是简单的知识叠加而更应该到其内在的关联前后知识的关联注重知识的迁移学习方法的迁移的作为老师要深挖教材发现其中编排中的体现实现大单元教学二跨学科融合教学高考的内容近些年体现在题干越来越长描述性的问题越来越多其中啊不单单包括数学的知识可能还会融合其他理科性或者文科性的知识这就需要高中数学教师不仅仅只钻研其中我所教的一门数学而应该广泛地学习博学树立终身学习的教学理念其三是数学学科素养在教育教学中的贯彻落实数学核心素养在高考中体现的是非常重要的因此教师在备课课中课后都要对其进行贯彻落实好以上是我的即兴演讲内容下面进入授课环节上课同学们好本章我们要学习的内容本节课我们要学习的内容是函数的应用二那在函数的应用一中我们通过一些实例初步了解建立了函数模型解决解决实际问题的应用学习了用数学描述客观事物变化规律的方法那本节课我们将先学习运用函数的性质的方程来求解方程借字解的基本方法。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide contains text in Chinese, specifically focusing on \"4.5 函数的应用 (二)\" and \"4.5.1 函数的零点与方程的解.\" This sets the context for the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"4.5 函数的应用 (二)\" and \"4.5.1 函数的零点与方程的解.\" The teacher does not physically write this on the board; it is displayed on the digital screen. The teacher gestures towards the screen, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the title and introduction to the topic.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely to emphasize the content displayed.\n- The teacher's hand movements are directed towards the screen, indicating the importance of the digital content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a digital slide visible on the screen. The slide displays \"4.5 函数的应用 (二)\" and \"4.5.1 函数的零点与方程的解.\"\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to stand at the podium, holding papers. The blackboard behind is mostly blank, with some faint chalk marks.\n- The teacher occasionally looks at the papers and then back at the audience, possibly reading or explaining the content.\n\n**End:**\n- The teacher continues to gesture towards the screen, reinforcing the lesson's focus on the functions and equations displayed.\n- The screen remains the primary visual aid, with no additional content written on the blackboard.\n\nThis structured approach ensures that the teacher's actions are directly linked to the visual content, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"4.5 函数的应用 (二)\" and \"4.5.1 函数的零点与方程的解,\" setting the stage for the lesson. To bridge to the topic, the teacher gestures towards the screen, emphasizing the digital content as the primary focus. The teacher holds papers and occasionally looks at them, likely referencing notes to guide the introduction. The blackboard remains mostly blank, directing all visual attention to the screen. Finally, the visual focus stays on the title displayed, establishing the lesson goal of exploring functions and their applications. This introduction links new knowledge to students' existing understanding of functions, preparing them to delve into specific applications and solutions related to equations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Function Models",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0 -> 10]"
+      },
+      {
+        "id": "c2",
+        "label": "Real-World Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 10]"
+      },
+      {
+        "id": "c3",
+        "label": "Solving Equations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0 -> 10]"
+      },
+      {
+        "id": "c4",
+        "label": "Function Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0 -> 10]"
+      },
+      {
+        "id": "c5",
+        "label": "Changing Patterns",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 10]"
+      },
+      {
+        "id": "c6",
+        "label": "Objective Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 10]"
+      },
+      {
+        "id": "v1",
+        "label": "Functions Applications Slide",
+        "type": "Visual",
+        "original_text": "4.5 Applications of Functions and 4.5.1 Zeros of Functions and Equation Solutions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the screen to emphasize content",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0 -> 60]"
+      },
+      {
+        "id": "c7",
+        "label": "Big Unit Teaching Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[20 -> 30]"
+      },
+      {
+        "id": "c8",
+        "label": "Interdisciplinary Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[30 -> 40]"
+      },
+      {
+        "id": "c9",
+        "label": "Math Core Competency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[40 -> 50]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Function models are used to address real-world problems."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Solving equations is based on the properties of functions."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "describes",
+        "intent": "Changing patterns describe objective phenomena."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the application of functions."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The big unit teaching model includes interdisciplinary teaching."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Interdisciplinary teaching supports the development of math core competencies."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gestures prompt student engagement with the content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,164 @@
+{
+  "video_name": "41_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Identify the three characteristics of cell differentiation—universality, persistence, and irreversibility; and understand the significance and function of cell differentiation for the organism.",
+  "transcript": "[495.48 -> 500.56] 那么我们可以得出细胞分化的第一个特点是什么呢\n[506.78 -> 538.78] 具有对普遍性好我们来看第二个它贯穿于生物体的整个生命活动当中能够推出它的第二个特点是什么呢对持久性\n[546.04 -> 561.78] 好我们再来看一已经高度分化了的细胞一般不会回到原来的状态那么这句话我们可以推出它具有什么样的特点呢不可逆性\n[570.04 -> 579.82] 好那么细胞对于我们生物体而言究竟具有什么样的意义呢请同学们找一找答案\n[594.62 -> 613.5799999999999] 好同学们有答案了吗我们请这位同学起来分享一下它分化产生不同的细胞可以执行不同的功能然后维持维持综合细胞的购变其他同学有补充的吗好我们先请这位同学细胞分化使多细胞收集成为细胞取向专文化有利于提高收集各种生物功能的效率好这位同学你也起来补充一下再补充一下它就是细胞进行了封锢间接封锢这样可以提高效率的好请坐好谢谢几位同学的分享",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content on the blackboard and the digital screen. Specifically, the teacher pointed to the section labeled \"6.2 细胞的分化\" (Cell Differentiation) and the diagram on the screen that outlined the process of cell differentiation.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize key points on the blackboard. For instance, she pointed to the term \"基因的遗传信息\" (genetic information) and the diagram on the screen, which showed the transition from \"体细胞\" (somatic cells) to \"特定细胞\" (specific cells). This visual cue helped guide the student's explanation.\n- The teacher also wrote additional notes on the blackboard, such as \"特异性\" (specificity) and \"不可逆性\" (irreversibility), to highlight important concepts as the student spoke.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by circling the key terms \"特异性\" and \"不可逆性\" on the blackboard. This action confirmed the correctness of the student's explanation.\n- The teacher also drew a small diagram on the blackboard to further illustrate the concept of cell differentiation, linking it to the information displayed on the screen. This visual elaboration helped clarify any misunderstandings and reinforced the correct understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher made a sweeping gesture towards the class to initiate interaction.\n  - The focus was on the blackboard content \"6.2 细胞的分化\" and the screen diagram showing cell differentiation processes.\n\n- **Middle:**\n  - While a student responded, the teacher pointed to \"基因的遗传信息\" on the blackboard and the transition diagram on the screen.\n  - The teacher wrote \"特异性\" and \"不可逆性\" on the blackboard to highlight key concepts.\n\n- **End:**\n  - The teacher circled \"特异性\" and \"不可逆性\" to confirm the student's correct input.\n  - A small diagram was drawn on the blackboard to visually explain the concept further, linking it to the screen content.\n\nThis structured visual interaction ensured that the teacher effectively co-constructed knowledge with the students, using both the blackboard and digital screen as focal points for engagement and clarification.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the lesson title \"6.2 细胞的分化\" and key concepts such as \"基因的遗传信息\" and \"特异性.\" The digital screen illustrated the process of cell differentiation, showing transitions from \"体细胞\" to \"特定细胞.\" The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content on the board and screen.\n\nAs the teacher facilitated the discussion, she moved to the blackboard, pointing to \"基因的遗传信息\" and the diagram on the screen. While a student explained their reasoning, the teacher walked over to the board and wrote down key terms like \"特异性\" and \"不可逆性.\" She used hand gestures to emphasize these points, linking them back to the diagram on the screen, which showed the differentiation process.\n\nTo validate the student's input, the teacher circled \"特异性\" and \"不可逆性\" on the blackboard, providing clear visual confirmation. She then drew a small diagram to further illustrate the concept, connecting it to the information displayed on the screen. This visual feedback reinforced the student's correct understanding and clarified any misconceptions.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing arrows on the blackboard, linking the newly written terms to the main concepts of cell differentiation. This visual orchestration helped students move from passively receiving knowledge to actively constructing their own understanding, ensuring they grasped the significance of genetic information in cell differentiation.\n\nThrough these dynamic interactions, the teacher effectively facilitated the application and verification of knowledge, using both the blackboard and digital screen as tools to guide and confirm student learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Universality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[495.48 -> 500.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Persistence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[506.78 -> 538.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Irreversibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[546.04 -> 561.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Cell Differentiation Significance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.04 -> 579.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Genetic Information",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[495.48 -> 561.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Somatic Cells to Specific Cells",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[495.48 -> 561.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Cell Differentiation Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing cell differentiation from somatic cells to specific cells.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Universality and Persistence",
+        "type": "Visual",
+        "original_text": "Key terms 'Universality' and 'Persistence' highlighted on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Genetic Information",
+        "type": "Visual",
+        "original_text": "Genetic information depicted visually on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Feedback Diagram",
+        "type": "Visual",
+        "original_text": "Teacher's diagram on blackboard elaborating cell differentiation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher visualizes 'Universality' and 'Persistence' on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher visualizes 'Persistence' on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Diagram illustrates 'Irreversibility' in the process of cell differentiation."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Genetic information is visually emphasized on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Diagram shows transition from somatic to specific cells."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Feedback diagram further explains the concept of cell differentiation significance."
+      },
+      {
+        "source": "v4",
+        "target": "ss1",
+        "relation": "scaffolds",
+        "intent": "Teacher uses visual feedback to scaffold student's understanding."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Universality builds upon the principle of persistence in cell differentiation."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Irreversibility is a key aspect included in the cell differentiation process."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Understanding the significance of cell differentiation includes knowledge of genetic information."
+      },
+      {
+        "source": "ss1",
+        "target": "ss2",
+        "relation": "prompts_thinking",
+        "intent": "Student answering prompts engagement and thinking among peers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

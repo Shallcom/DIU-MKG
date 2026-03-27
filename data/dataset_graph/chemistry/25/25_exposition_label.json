@@ -1,0 +1,165 @@
+{
+  "video_name": "25_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the properties of ethyl acetate and the source of its odor; master the preparation method and chemical equation for ethyl acetate; be able to correctly write and analyze the esterification reaction equation.",
+  "transcript": "[148.7 -> 232.16] 同学们好上课今天我们来学习乙酸乙脂的制备与性质在上课之前老师想问同学们你们吃过青霉吗青霉就是一种水果酸酸的酸酸的那同学们有没有闻过超市里家长带回家买的青梅酒的味道有没有闻到过是不是有一种香味对不对那为什么青梅酒会有香味呢同学们想一想结合我们之前所学的我们学过乙酸学过乙醇也学过它的止化反应生成的生成了什么生成了乙酸乙酯的那乙酸乙酯有什么味道呢是不是也有香味啊所以青梅酒中它是含有乙酸乙酯的那我们应该如何制备乙酸乙酯呢想要制备乙酸乙酯我们是不是首先要学会书写它的方程式啊在之前的学习中我们学习了它的纸画反应那现在就请同学们我们写一写史画反映的化学方程式来动手写一写。\n[257.0 -> 263.46000000000004] 同学们看一看这位同学书写的正不正确。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"6.1 乙烯的制备与性质\" (Preparation and Properties of Ethylene).\n- The blackboard is initially blank except for some faint chalk marks.\n- The teacher holds papers and a marker, preparing to begin the lecture.\n\n**Middle:**\n- The teacher gestures towards the screen, which shows a thought bubble diagram related to the industrial preparation of ethylene.\n- The screen displays a yellow cylinder labeled \"乙醇\" (Ethanol) and thought bubbles discussing the conversion process.\n- The teacher uses hand gestures to emphasize points, pointing to specific parts of the diagram on the screen.\n\n**End:**\n- The teacher turns to the blackboard and writes \"乙烯\" (Ethylene) followed by \"乙烯的制备方法\" (Methods of Ethylene Preparation).\n- The teacher writes the chemical equation for the preparation of ethylene from ethanol: $\\text{CH}_3\\text{CH}_2\\text{OH} \\xrightarrow{\\text{浓硫酸}, 170^\\circ\\text{C}} \\text{CH}_2=\\text{CH}_2 \\uparrow + \\text{H}_2\\text{O}$.\n- The teacher uses chalk to underline key parts of the equation and writes additional notes related to the reaction conditions.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the chemical equation for the dehydration of ethanol to produce ethylene, displayed on the blackboard.\n- The equation is written in standard chemical notation with reaction conditions specified above the arrow.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"乙烯的制备方法\" on the blackboard, establishing the topic.\n  - The chemical equation is written step-by-step, starting with the reactant ethanol and ending with the products ethylene and water.\n  - Additional notes on reaction conditions (浓硫酸, 170°C) are added above the reaction arrow.\n- **Modifications**: \n  - The teacher underlines \"浓硫酸\" and \"170°C\" to highlight their importance in the reaction.\n- **Deictic Gestures**: \n  - The teacher points to \"乙醇\" on the screen and then to the written equation on the blackboard, linking the visual content.\n  - Specific parts of the equation are pointed out as the teacher explains each component and the reaction mechanism.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses underlining to emphasize the reaction conditions.\n- Red chalk is used to circle the ethylene molecule ($\\text{CH}_2=\\text{CH}_2$) to highlight the product.\n- The teacher gestures towards the screen and blackboard alternately, reinforcing the connection between the visual aids and the written content.",
+  "visual_narrative": "Initially, the bulletin board showed a slide titled \"6.1 乙烯的制备与性质\" with a thought bubble diagram illustrating the industrial preparation of ethylene from ethanol. The teacher began by pointing to the yellow cylinder labeled \"乙醇\" and explaining the thought process behind converting ethanol to ethylene. She then turned to the blackboard and constructed the topic header \"乙烯的制备方法,\" establishing the focus of the lecture. \n\nAs the lecture progressed, the teacher derived the chemical equation step-by-step, starting with the reactant ethanol ($\\text{CH}_3\\text{CH}_2\\text{OH}$) and moving through the reaction conditions (浓硫酸, 170°C) to the products ethylene ($\\text{CH}_2=\\text{CH}_2$) and water ($\\text{H}_2\\text{O}$). She annotated the equation by underlining the critical reaction conditions and used red chalk to circle the ethylene molecule, emphasizing its significance. \n\nThroughout the lecture, the teacher resolved deixis by tracing the conversion process on the screen and linking it to the written equation on the blackboard. She pointed to specific parts of the equation while explaining each component, ensuring clarity. To reduce cognitive load, the visual information on the screen and board worked in tandem, with the screen providing contextual diagrams and the board offering detailed chemical notations. Finally, she summarized the key points, reinforcing the visual highlights to ensure students grasped the preparation method and conditions for ethylene production.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ethylene Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 200.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Ethanol",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[50.0 -> 150.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Ethylene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[150.0 -> 232.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Industrial Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[50.0 -> 150.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[180.0 -> 232.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Sulfuric Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[150.0 -> 232.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Temperature 170°C",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[150.0 -> 232.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[150.0 -> 232.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Preparation Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Preparation and Properties of Ethylene'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Thought Bubble Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating the industrial preparation process of ethylene",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Chemical Equation Display",
+        "type": "Visual",
+        "original_text": "Chemical equation for the preparation of ethylene from ethanol",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Writing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Ethanol as a reactant in the preparation of ethylene."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Ethylene as the product of the preparation process."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The process followed in industrial preparation."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Visual representation of the chemical equation on the board."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Sulfuric acid is used as a catalyst in the preparation of ethylene."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "170°C is the required temperature for the preparation reaction."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Water is one of the products in the ethylene preparation equation."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide displays the industrial preparation of ethylene."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The diagram on the slide represents the preparation process."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "builds_upon",
+        "intent": "Visual aid to help explain the preparation of ethylene."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students actively participate by writing the preparation method."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

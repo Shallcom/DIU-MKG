@@ -1,0 +1,198 @@
+{
+  "video_name": "2_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Analyze the impact of human activities on the carbon cycle; summarize the fundamental principles of material (biogeochemical) cycles.",
+  "transcript": "[633.04 -> 686.12] 好那我们来看看第三个前两个问题我们解决了第三个问题如何看待人类活动对碳循环的影响人类活动有怎样的影响呢人类活动我们来看看课本上有一个与社会的联系大家看一看人类的活动对碳水筷子的影响有化石燃料的燃烧我们日常生活中虽然电车越来越多了还有一部分油车油车它燃烧是化石燃料从而增加了大气中的氨氧化碳还有什么呢我们也可以对它进行有利方面的影响进行植树护林这些燃料来增加来吸收二氧化碳\n[687.54 -> 730.38] 那除了碳元素外我们在之前学了生物体还需要哪些元素碳是最基本的元素对不对还有哪些元素氧氮氢硫磷那这些元素是如何循环的呢哎给大家课下留着一个小问题大家课下去想一想在生活中其他的元素是怎样的去参与物质的循环的并且呢在看的过程中呢想一想物质循环的过程可以结束了好我的收课到此结束谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a diagram with labeled sections. The diagram includes a central box labeled \"生态系统\" (Ecosystem) with arrows pointing to \"生物部分\" (Biological Part) and \"非生物部分\" (Non-biological Part). Each section is further divided into subcategories.\n   - The screen displays a slide with a landscape diagram illustrating ecological interactions, accompanied by text in Chinese.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - 生态系统 (Ecosystem)\n     - 生物部分 (Biological Part)\n     - 非生物部分 (Non-biological Part)\n     - 生产者 (Producers)\n     - 消费者 (Consumers)\n     - 分解者 (Decomposers)\n     - 阳光 (Sunlight)\n     - 空气 (Air)\n     - 水 (Water)\n     - 土壤 (Soil)\n   - Screen:\n     - Diagram of a landscape with labels indicating different ecological components.\n     - Text: \"如何理解人类活动对环境的影响？\" (How to understand the impact of human activities on the environment?)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, likely emphasizing the connections between the ecosystem components. Her hand movements suggest she is explaining the flow or interaction between the biological and non-biological parts.\n   - She occasionally points to the screen, possibly highlighting the landscape diagram and the question about human impact on the environment.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the lesson content through the diagram and slide.",
+  "visual_narrative": "The lesson concludes with a diagram on the blackboard centered on the ecosystem, divided into biological and non-biological components. The teacher visually reviews the content by gesturing towards the labeled sections, emphasizing the interactions between producers, consumers, decomposers, and environmental factors like sunlight, air, water, and soil. She occasionally points to the screen, highlighting the landscape diagram and the question about human impact on the environment. The visual focus remains on summarizing the ecosystem components, reinforcing the connections between them. There is no explicit visual handover to homework or next steps in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ecosystem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Biological Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Non-biological Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Producers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Consumers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Decomposers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Sunlight",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Air",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c9",
+        "label": "Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c10",
+        "label": "Soil",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[633.04 -> 686.12]"
+      },
+      {
+        "id": "c11",
+        "label": "Human Activities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[687.54 -> 730.38]"
+      },
+      {
+        "id": "c12",
+        "label": "Impact on Carbon Cycle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[687.54 -> 730.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Diagram of Landscape",
+        "type": "Visual",
+        "original_text": "Diagram illustrating ecological interactions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Ecosystem Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with ecosystem and its components on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The ecosystem includes biological components."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The ecosystem includes non-biological components."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Biological parts of the ecosystem include producers."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Biological parts of the ecosystem include consumers."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Biological parts of the ecosystem include decomposers."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Non-biological parts of the ecosystem include sunlight."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Non-biological parts of the ecosystem include air."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Non-biological parts of the ecosystem include water."
+      },
+      {
+        "source": "c3",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Non-biological parts of the ecosystem include soil."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "impacts",
+        "intent": "Human activities impact the carbon cycle."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram visually represents the ecosystem."
+      },
+      {
+        "source": "v1",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The landscape diagram on the screen illustrates human environmental impact."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with learning about the ecosystem."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

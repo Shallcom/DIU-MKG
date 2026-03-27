@@ -1,0 +1,151 @@
+{
+  "video_name": "42_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the concepts of random experiments, sample spaces, and random variables; identify the common features of random variables across different experiments; apply knowledge of random variables to analyze simple probability problems.",
+  "transcript": "[348.8 -> 351.82] 下面我们来看一道两道练习题。\n[352.96 -> 360.52] 大家默读一下题目然后我们两人一小组合作讨论一下同桌两个。\n[378.8 -> 526.3] 好了时间到你们先来看试验一这两个随机试验的样本空间各是什么各个样本点与变量的值是如何对应的变量XY有哪些共同特征哪位同学愿意来回答一下试验一呢好你手举得最快你来说试验二中部用零表示合格批用一表示四品的话那我们就可以表示成这样子表示下去哦他说的好不好呀非常正确那你能够在黑板上给我们画出它们的对应关系吗来试着画一下来画到这里这位同学现在黑板上画着那我们的试验二那位同学愿意来回答一下好你来说说试验二的样本空间是制动力可能出现的各种情况例如我设正面朝向为世界海去反面朝向为地那么靠这一次试验可能得到的试验是H或T大家同意她的看法吗我看同学们都在点头请坐那我们先来看一下这位女生在写的试验一好回去吧对于试验一我们都用零来表示原件为合格品用一来表示原件为四品因此可以用二零和一构成的长度为三的字符表示样本点样本空间欧米克一就是一大家可以和老师一起来说零一零零一一一零零一零一一一零和一一一非常好它们对应的就是零一一。\n[528.8 -> 644.84] 二一二二三这位同学和老师的结果呀是一样的那刚才那个同学说了实验二我们再来看一下用H表示正面朝上T表示反面朝上比如说第三次出现正面朝上就是TTH要本空间我们的二就是HTHTHTTH和TTTH等等老师想请问大家Omega二中的样本点是有限个还是无限个呢你来说我说的是无限个说得非常正确为什么呀因为它可以做好多次对它可以治无数次太棒了我们来看一下实验二中样本点与变量外的对应关系我们观察了这两幅图它们是不是一个样本点唯一的对应几个Y几个大点人几个Y对非常正确对应一个Y和一个X因此我们知道在上面的两个随机试验中每个样本点都有唯一确定的一个时数与之对应变量X和Y由下面这些共同点首先它的取值是依赖于样本点其次所有可能的取值是明确的大家都理解吗我看到同学们都在点头所以我们可以给出随机变量的概念大家一起来读一下。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She also pointed directly to a student, indicating that she was inviting a response or participation.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the practice problem displayed on the digital screen, specifically the section discussing the probability of drawing a ball of a certain color from a box. The blackboard also featured a table with values and a variable $X$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the table on the blackboard, highlighting the values and the variable $X$. She also gestured towards the digital screen, emphasizing the problem statement and the probability calculations.\n- The teacher wrote additional values on the blackboard, aligning them with the student's responses to visually scaffold the understanding of the probability distribution.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled the correct values on the blackboard, visually validating the student's input. She also drew lines connecting the values to the variable $X$, reinforcing the relationship between the data points and the probability outcomes.\n- She used hand gestures to emphasize key points, such as nodding and smiling to encourage the student, and pointing to the relevant sections on the digital screen to hint at the correct approach.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher made a sweeping gesture towards the class and pointed to a student, inviting participation.\n  - The digital screen displayed the problem about drawing balls from a box, and the blackboard showed a table with values and $X$.\n\n- **Middle:**\n  - The teacher pointed to the table on the blackboard, highlighting the values and $X$.\n  - She wrote additional values on the blackboard, aligning them with the student's responses.\n  - The teacher circled correct values and drew lines connecting them to $X$, reinforcing the probability distribution.\n\n- **End:**\n  - The teacher used hand gestures to emphasize key points, nodding and smiling to encourage the student.\n  - She pointed to the digital screen, hinting at the correct approach and visually confirming the student's understanding.\n\nThis structured visual interaction helped co-construct knowledge by linking the teacher's gestures and board content changes to guide and validate student understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a probability problem involving drawing balls from a box, with a table of values and a variable $X$ displayed prominently. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem. She pointed directly to a student, signaling the start of the interaction.\n\nAs the student began to explain their reasoning, the teacher walked over to the blackboard and pointed to the table, highlighting the values and $X$. She wrote additional values on the board, aligning them with the student's responses to visually scaffold their understanding. The teacher circled the correct values and drew lines connecting them to $X$, reinforcing the relationship between the data points and the probability outcomes.\n\nTo validate the student's answer, the teacher gave a distinct nod and circled the final number on the screen. She then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, linking their response to the core lesson content.\n\nThroughout the interaction, the teacher's gestures and visual cues helped students move from passively receiving knowledge to actively constructing their own understanding. By highlighting key elements, providing real-time scaffolding, and visually confirming correct answers, the teacher facilitated a dynamic and interactive learning environment. This process not only reinforced the lesson content but also encouraged students to engage deeply with the material, fostering a deeper comprehension of probability concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Random Experiment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[348.8 -> 351.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Sample Space",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[378.8 -> 526.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[378.8 -> 526.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Probability Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[528.8 -> 644.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Experiment 1",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[378.8 -> 526.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Experiment 2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[528.8 -> 644.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Binary Variables",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[528.8 -> 644.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Probability Problem Display",
+        "type": "Visual",
+        "original_text": "Probability problem on drawing balls and variable X",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Board Table of Values",
+        "type": "Visual",
+        "original_text": "Table of values with variable X and corresponding probability",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Interactive Problem Solving",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "A random experiment includes a defined sample space."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Sample space is used to define random variables."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Random variable's values lead to a probability distribution."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Experiment 1 includes examples of random variables."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Experiment 2 deals with random variables of binary nature."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Binary variables form a special case of random variables discussed."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The digital screen illustrates the overall probability problem."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "The board table provides scaffolding for understanding probability."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The board visually assists students in engaging with the task."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "encourages",
+        "intent": "Experiment 1 encourages student engagement through interaction."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "encourages",
+        "intent": "Experiment 2 furthers student interactive learning and engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,139 @@
+{
+  "video_name": "31_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the application of chemical reactions in daily life; master the basic principles of acid‑base neutralization reactions; explain the differences in properties between baking soda and soda ash and their practical uses.",
+  "transcript": "[0.0 -> 86.58] 生活体现化学我们可以通过化学教学与社会相结合比如说我们在我们生活中有很多例子我们在吃火锅的时候为如果食品太辣为什么我们可以加入一些醋来进行减少辣度呢诶这个时候我们可以体现出我们化学当中的酸碱综合反应同时以及我们在进行制造面点的时候为什么我们可以使用小苏打而不用纯碱呢这是由于小苏打它的可以产生的二氧化碳气体更多第二我认为实验带动化学我们的化学教学可以与实验相结合比如说我们在进行社会环保性实验的教学的时候我们可以通过实验探究的方式发展学生的科学探究与创新意识等科学素养。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide titled \"化学品的合理使用\" (The Rational Use of Chemicals). This slide is displayed on the screen at the beginning of the lesson.\n\n#### 2. **The Title Event**\n- The title \"化学品的合理使用\" is prominently displayed on the screen. The teacher does not physically write it but points towards it, ensuring it is the focal point of the introduction.\n\n#### 3. **The Objectives**\n- The slide includes a list of learning objectives on the left side, though the exact text is not fully legible. The objectives are presented in bullet points, likely outlining the key topics to be covered.\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the screen, emphasizing the title and objectives.\n- The teacher holds papers, possibly notes or a lesson plan, and occasionally looks at them while speaking.\n- Hand movements include pointing and open-handed gestures, likely to engage the audience and emphasize key points.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a presentation slide titled \"化学品的合理使用\" displayed on the screen.\n- The teacher gestures towards the screen, highlighting the title and objectives.\n- The teacher holds papers, occasionally glancing at them while speaking.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, emphasizing the importance of the objectives listed.\n- The teacher uses open-handed gestures to engage the audience, maintaining eye contact with the students.\n\n**End:**\n- The teacher points directly at the title on the screen, reinforcing the lesson's focus.\n- The teacher concludes the introduction by summarizing the objectives, using hand gestures to underscore key points.\n\n### Summary\nThe introduction phase of the lesson is visually anchored by the presentation slide titled \"化学品的合理使用.\" The teacher uses deliberate gestures to highlight the title and objectives, ensuring students focus on the key topics. The visual elements, including the slide layout and teacher's movements, create a structured and engaging start to the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, with the presentation slide titled \"化学品的合理使用\" prominently displayed on the screen, serving as the hook to capture the students' attention. The teacher gestures towards the screen, emphasizing the title and the list of objectives on the left side. Holding papers, the teacher occasionally glances at them while speaking, using open-handed gestures to engage the audience. The visual focus remains on the slide as the teacher points directly at the title, reinforcing its importance. The transition from the hook to the main topic is seamless, with the teacher's deliberate gestures guiding the students' attention to the key points on the slide. This structured approach ensures that the introduction connects new knowledge to the students' existing understanding, setting a clear foundation for the lesson on the rational use of chemicals. The teacher's visual engagement and emphasis on the objectives create a cohesive link to future learning, preparing students for the detailed exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chemical Reactions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Daily Life Applications",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Acid-Base Neutralization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Baking Soda",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Soda Ash",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Baking Soda vs Soda Ash",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Rational Use of Chemicals",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 86.58]"
+      },
+      {
+        "id": "c8",
+        "label": "Visual Slide on Chemicals",
+        "type": "Visual",
+        "original_text": "Slide titled 'Rational Use of Chemicals'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Gesture Highlighting Slide",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards 'Rational Use of Chemicals' slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Connects chemical reactions to their real-world applications."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Acid-base neutralization is a type of chemical reaction."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Soda characteristics that distinguish it from soda ash."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Properties of soda ash as compared to baking soda."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The slide displays the rational use of chemicals as a core principle."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the slide content through gestures."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students think critically about properties of baking soda."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students analyze the differences with soda ash."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Illustrates how neutralization is applied in daily contexts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

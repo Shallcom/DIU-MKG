@@ -1,0 +1,101 @@
+{
+  "video_name": "26_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Improve students' English listening and observation abilities; understand linking phenomena in spoken English.",
+  "transcript": "[0.0 -> 163.44] 斯林斯比尼安迪迦斯里斯在西约斯艾特斯西比迪萨尔斯拉尼安安斯特迪拉波斯这些课程可以让学生练习他们的听力和观察能力和�所以这时候学生们可以进行讨论和讨论来分享自己的理解关于读书的价值给予我们的思维。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the slide titled \"Assessing Your Progress\" displayed on the screen. It is a blue rectangular box with white text.\n\n#### 2. **The Title Event**\n- The title \"Assessing Your Progress\" is displayed on the screen. The teacher stands in front of the screen, holding papers, and appears to be presenting or discussing this content. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and occasionally gesturing with them, likely emphasizing points related to the content on the screen. No specific gestures like pointing or circling are observed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the slide titled \"Assessing Your Progress\" in a blue rectangular box.\n\n**Middle:**\n- The teacher continues to hold the papers, occasionally gesturing with them.\n- The screen remains unchanged, showing the same slide.\n\n**End:**\n- The teacher maintains a similar position, still holding the papers.\n- The screen continues to display the \"Assessing Your Progress\" slide without any changes.\n\n### Summary\nThe lesson introduction phase centers around the slide titled \"Assessing Your Progress.\" The teacher engages with the class by holding and gesturing with papers, likely discussing the content displayed on the screen. No additional visual elements or changes occur during this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a screen displaying the slide titled \"Assessing Your Progress\" in a blue rectangular box. This slide serves as the initial visual stimulus, setting the stage for the lesson. Throughout the introduction, the teacher engages with the class by holding and occasionally gesturing with the papers, likely emphasizing key points related to the content on the screen. The visual aid remains consistent, with no transitions or changes observed. The teacher's actions, such as holding the papers and gesturing, help maintain focus on the topic of assessing progress. This approach likely aims to connect the students' existing experiences with the new knowledge, preparing them for a structured discussion on evaluating their own learning progress. The consistent visual emphasis on the slide ensures that the main topic is clearly introduced and anchored in the students' minds from the outset.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Listening Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 163.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Observation Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 163.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Linking Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 163.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Speech Progress Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 163.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Assessing Your Progress Slide",
+        "type": "Visual",
+        "original_text": "Blue rectangular box with white text titled 'Assessing Your Progress'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher holding papers and gesturing",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 163.44]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Listening skills involve observation to understand spoken English."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Improving listening skills helps recognize linking phenomena in speech."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide visually presents the method of assessing speech progress."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher's gestures emphasize key points about assessing progress."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages students to engage by discussing linking phenomena."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Visual aid scaffolds student engagement by focusing on progress assessment."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

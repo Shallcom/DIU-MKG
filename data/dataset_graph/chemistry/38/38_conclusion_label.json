@@ -1,0 +1,127 @@
+{
+  "video_name": "38_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the basic principles of the Jiacheng reaction and how it differs from addition reactions; master the structural features of ethylene and the main types of chemical reactions it participates in; recognize the practical applications of ethylene in industrial production and daily life.",
+  "transcript": "[647.707 -> 655.64] 溶液褪色了那老师有个问题现在溶液褪色了它跟我们刚才高冷酸钾反应的反应原理是一样的吗不一样那它这是什么反应原理嘉诚反应这位同学一看就是认真预习过了我们到以西探探栓见他断裂了并且一边留了一个绣圆子这个绣圆子就像是第三者一样插足了探探之间的感情那这个反应我们称为嘉诚反应它是怎样的呢它是由不饱和到他圆子和其他圆子或者圆子团结合修成的新的有机物的反应那通过这个反应啊其实我们在生活中还有其他的反应比如我们的乙烯它还可以跟氢气还有水发生加乘反应那大家试着来说明一下它们的化学反应是。\n[660.38 -> 697.84] 好大家都写得很认真那我们一起来核对一下那通过这个呢我们也发现了氢气它可以与乙烯发生加深反应并且水它也可以和乙烯发生加深反应并且第二个事情呢是我们工业上用乙烯和水可以致美与确灵的反应那从中我们发现乙烯它确实应用十分广泛那乙烯它还能有什么样的实现现象以及反应结论呢请各位学生们继续学习我们稍后再进行分享我的片段教学到此结束感谢郭伟霆老师和大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a structured flowchart with arrows and text boxes, indicating a step-by-step process or concept.\n   - The blackboard on the left contains handwritten notes in Chinese, including a list and some bullet points.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Digital Screen**:\n     - Flowchart with text boxes and arrows.\n     - Main text in Chinese: \"新课程导入，认知性问题导入，进入学习情境，正式授课\" (New course introduction, cognitive question introduction, enter learning context, formal teaching).\n     - Mathematical formula: $\\frac{d}{dx} \\sin(x) = \\cos(x)$.\n   - **Blackboard**:\n     - Main heading: \"“海上保险”构\"\n     - Bullet points: \n       - 一、保险理赔实务\n       - 二、课堂小结\n       - 3.2\n       - 3.15和3.16\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the flowchart on the digital screen, likely emphasizing the steps or process outlined.\n   - She gestures towards the mathematical formula, possibly highlighting its importance or explaining its derivation.\n   - The teacher uses hand movements to summarize the content on the blackboard, possibly indicating the key points listed.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The teacher concludes the session, possibly preparing for the next lesson or activity, but no specific transition details are shown on the screen or board.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a digital screen displaying a flowchart summarizing the lesson's key steps, alongside a mathematical formula. The teacher points to each section of the flowchart in sequence, emphasizing the progression from \"New course introduction\" to \"Formal teaching.\" She briefly pauses on the formula $\\frac{d}{dx} \\sin(x) = \\cos(x)$, highlighting its significance. On the blackboard, handwritten notes list key topics, including \"Insurance claims practice\" and \"Class summary.\" The teacher gestures towards these points, reinforcing the lesson's structure. No explicit homework or next-step instructions are visible, leaving the visual focus on the summarized content and core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Jiacheng Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[647.707 -> 655.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Addition Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[647.707 -> 655.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Ethylene Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[647.707 -> 655.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Ethylene Reactions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[647.707 -> 697.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Industrial Ethylene Use",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[660.38 -> 697.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Daily Ethylene Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[660.38 -> 697.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Screen Flowchart",
+        "type": "Visual",
+        "original_text": "Structured flowchart with step-by-step process including 'New course introduction', 'Cognitive question introduction', 'Enter learning context', 'Formal teaching'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Mathematical Formula",
+        "type": "Visual",
+        "original_text": "Derivative of sine: d/dx sin(x) = cos(x)",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Heading 'Insurance Claims Practice'; Bullet points: 'Insurance claims practice', 'Class summary', '3.2', '3.15 and 3.16'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Compares Jiacheng reaction with addition reactions."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Explains how ethylene participates in various chemical reactions."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Industrial use includes practical applications in daily life."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses flowchart to emphasize the key teaching phases."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Teacher emphasizes the derivative formula on the digital screen."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights main points from blackboard notes."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Ethylene reactions lead to important industrial applications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

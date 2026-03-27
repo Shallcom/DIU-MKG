@@ -1,0 +1,171 @@
+{
+  "video_name": "12_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the definitions of trigonometric functions and their geometric meanings; master the basic properties of the sine, cosine, and tangent functions.",
+  "transcript": "[570.683267 -> 646.62] 横坐标即为cos此时这边的Y即为它PX坐标中的X如果同学们也可以这么记此为角度此为横坐标好那这也就是正行之那于贤侄呢我们定义他的这是于贤侄有同学及时发现老师的错误了啊那这是郑贤侄这是于贤侄那郑贤侄呢我们定义其中的其中的V这个函数Y等于三阿拉法好那现在呢还有一个正切这个时候呢我们定义乘重坐标之比为它的正切值那这就是我们这节课要学习的那这就是我们今天要探究的三角函数的概念同学们是否明晰了它们是怎么来的呢。\n[647.68 -> 661.42] 大家可以发现课本上对于每一个函数其实也定义了它的定义域定义域要怎么来呢我们可以知道阿拉法啊。\n[665.12 -> 690.683267] 此时同学们会发现这里要注意X是不等于的因此阿拉法不等于二分之四帕将K帕K属于整数好那以上呢我们通过了天文学的引路引到了三角函数的概念的学习那么现在老师已经将三角函数的三个概念列出来了我们的在了黑板上同学们看着这三个概念有什么思考呢好这位同学你觉得这三个函数我们应该他们有哪些性质吗。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting students to engage.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the mathematical content on the blackboard, specifically the function $f(x) \\rightarrow y$ and the subsequent equations written in chalk. The teacher also referred to the digital slide displayed on the screen, which contained a problem related to trigonometric functions and their properties.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As the teacher engaged with the students, she used hand gestures to emphasize key points. For instance, she pointed directly to the equation $y = 5\\cos x$ on the blackboard while explaining its significance. \n- Simultaneously, she wrote additional equations on the board, such as $y = 5\\cos x + 2k\\pi$ and $y = 2\\cos x + k\\pi$, to visually scaffold the students' understanding of periodic functions and transformations.\n- The teacher also used the pointer to highlight specific parts of the digital slide, drawing attention to the problem statement and guiding students through the problem-solving process.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student provided an answer, the teacher visually validated the response by nodding and smiling, creating a positive reinforcement.\n- She then elaborated on the student's input by writing the solution on the board, ensuring clarity and correctness. For example, she wrote $y = 2\\cos x + k\\pi$ to confirm the periodic nature of the function.\n- The teacher also used the pointer to circle key elements on the digital slide, such as the graph of the trigonometric function, to visually explain any errors or to highlight correct aspects of the student's response.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Focus shifts to the blackboard where $f(x) \\rightarrow y$ is written.\n  - Teacher points to $y = 5\\cos x$ and writes additional equations.\n\n- **Middle:**\n  - Teacher uses hand gestures to emphasize the periodic nature of the function.\n  - Writes $y = 5\\cos x + 2k\\pi$ and $y = 2\\cos x + k\\pi$ on the board.\n  - Points to the digital slide, highlighting the problem statement and graph.\n\n- **End:**\n  - Nods and smiles to validate a student's response.\n  - Writes the confirmed solution on the board.\n  - Uses the pointer to circle key elements on the digital slide, providing visual feedback and elaboration.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students grasp the concepts through guided engagement and real-time visual feedback.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the function $f(x) \\rightarrow y$ and the equation $y = 5\\cos x$, setting the stage for the lesson on trigonometric functions. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem displayed on both the blackboard and the digital slide. This gesture signaled the start of an interactive session, focusing students' attention on the core concepts of periodicity and transformations in trigonometric functions.\n\nAs the teacher facilitated the discussion, she moved fluidly between the blackboard and the digital screen. While a student explained their reasoning, the teacher walked over to the board and jotted down key terms and intermediate steps, such as $y = 5\\cos x + 2k\\pi$ and $y = 2\\cos x + k\\pi$. These actions visually scaffolded the student's thought process, making the reasoning transparent and accessible to the entire class. The teacher's supportive gestures, including nods and smiles, encouraged the student to continue, creating a positive and engaging learning environment.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the final equation $y = 2\\cos x + k\\pi$ on the board. This visual confirmation was complemented by her use of the pointer to highlight corresponding elements on the digital slide, ensuring that the solution was clearly linked to the problem statement and the graph displayed. The teacher then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, reinforcing the connection between the new knowledge and the foundational concepts.\n\nThroughout the interaction, the teacher's gestures and visual aids helped students move from passively receiving information to actively constructing their own understanding. By linking the student's response to the core lesson content and providing real-time visual feedback, the teacher orchestrated a dynamic and interactive learning experience. This process not only deepened the students' comprehension of trigonometric functions but also empowered them to engage more confidently with complex mathematical concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.68 -> 690.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Sine Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.68 -> 690.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Cosine Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.68 -> 690.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Tangent Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.68 -> 690.68]"
+      },
+      {
+        "id": "c5",
+        "label": "Periodic Nature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[570.68 -> 690.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Function Transformation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[570.68 -> 690.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Equation y = 5cosx",
+        "type": "Visual",
+        "original_text": "Displayed equation y = 5cosx on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Equation y = 5cosx + 2kπ",
+        "type": "Visual",
+        "original_text": "Displayed equation y = 5cosx + 2kπ on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Equation y = 2cosx + kπ",
+        "type": "Visual",
+        "original_text": "Displayed equation y = 2cosx + kπ on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Digital Slide Problem",
+        "type": "Visual",
+        "original_text": "Digital slide containing a problem about trigonometric functions.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Trig Function Graph",
+        "type": "Visual",
+        "original_text": "Graph of the trigonometric function on the digital slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Interactive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The concept of trigonometric functions includes the sine function."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The concept of trigonometric functions includes the cosine function."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The concept of trigonometric functions includes the tangent function."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The periodic nature is visualized through the equation on the board."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Function transformation is visualized through the equation on the board."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Cosine function visualized with the equation y = 5cosx."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "emphasizes",
+        "intent": "Teaching emphasizes periodic nature with graph elements."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Digital slide problem prompts thinking and engagement."
+      },
+      {
+        "source": "s2",
+        "target": "c9",
+        "relation": "praises_response",
+        "intent": "Teacher confirms and praises accurate student answer."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The equation y = 5cosx + 2kπ builds upon y = 5cosx."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The equation y = 2cosx + kπ builds upon y = 5cosx + 2kπ."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

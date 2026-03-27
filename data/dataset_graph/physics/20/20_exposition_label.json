@@ -1,0 +1,178 @@
+{
+  "video_name": "20_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the concept and classification of spectra; master the basic assumptions of Bohr’s theory and the energy‑level structure.",
+  "transcript": "[114.96 -> 152.14] 化学元素这位同学想用化学的知识来解释请坐来这位同学说出你的想法光谱不同请坐想必这位同学已在课前做好了预习准备那接下来我们来看一看什么是光谱呢我们知道用冷静或光晒可以把物质发出的光获得波长和强度分布的记录叫做光谱。\n[153.26 -> 162.62] 其中有些光谱是一条条的亮线叫做谱线那这样的光谱叫做线状谱。\n[164.22 -> 175.98] 好那氢原子也不例外也有属于它的光谱那它的结果是显示出氢原子只能发出一系列特定波长的光。\n[178.98 -> 206.36] 好但代物理学家波尔他认为用经典理论知识来解释原子假说存在着一定的困难于是他绞尽脑汁借用了这个普朗克黑体辐射的量子化发掘了自己属于自己的原子理论的基本架设。\n[207.82 -> 249.82942] 其中我们可以知道量子化的能量值叫做来大家一起说一下叫什么能级很好我们继续原子中这些具有确定能量的稳定状态叫做定态大家勇敢一些啊好我们继续来看那能量能级最低的状态叫做什么基态好那其他状态我们叫什么呢激发很好。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with text in Chinese and a red icon. The slide discusses the importance of light in various contexts.\n- The teacher gestures with her hands, emphasizing the content on the screen.\n- The blackboard shows the number \"20\" and some Chinese characters, indicating the lesson's topic or section.\n\n**Middle:**\n- The screen transitions to a slide with a diagram showing a spectrum of light, including visible, infrared, and ultraviolet regions.\n- The teacher points to different sections of the spectrum, likely explaining the properties and differences between these light types.\n- The teacher then moves to a slide with a circular diagram labeled \"光的粒子性与波动性关系\" (Relationship between the particle and wave nature of light).\n- She gestures towards the center of the diagram, indicating the core concept of light's dual nature.\n\n**End:**\n- The teacher writes \"一能级\" (energy level) on the blackboard, linking it to the concepts discussed on the screen.\n- She continues to gesture towards the diagram on the screen, reinforcing the relationship between energy levels and light properties.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the circular diagram on the screen, illustrating the relationship between the particle and wave nature of light. It features concentric circles with labels indicating different aspects of light behavior.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"一能级\" on the blackboard, connecting it to the concepts displayed on the screen.\n   - **Modifications**: No erasures are observed; the teacher focuses on adding information to the blackboard.\n   - **Deictic Gestures**: The teacher points to specific parts of the circular diagram, such as the center, to highlight key concepts related to light's dual nature.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the central part of the diagram, indicating its importance in understanding light's properties.\n   - The use of the blackboard to write \"一能级\" serves as a visual cue to link theoretical concepts with practical applications in energy levels.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on both the screen and the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide emphasizing the significance of light in various contexts, setting the stage for the lesson. The teacher began by gesturing towards the text, establishing foundational knowledge. Then, the screen transitioned to a spectrum diagram, showcasing visible, infrared, and ultraviolet light. The teacher pointed to each section, tracing the distinctions and properties of these light types to illustrate their unique characteristics.\n\nAs the lesson progressed, the screen presented a circular diagram illustrating the dual nature of light, labeled \"光的粒子性与波动性关系.\" The teacher constructed an understanding by focusing on the center of the diagram, using gestures to highlight the core concept of light's particle and wave duality. She derived connections between these properties, emphasizing their interplay.\n\nFinally, the teacher moved to the blackboard, writing \"一能级\" to link the theoretical concepts to practical energy levels. She annotated the diagram on the screen, reinforcing the relationship between energy levels and light behavior. Throughout, her gestures and annotations served to reduce cognitive load by visually connecting abstract ideas to concrete representations, ensuring a cohesive and structured knowledge delivery process.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Light Spectrum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[152.14 -> 206.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Line Spectrum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[153.26 -> 162.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Hydrogen Spectrum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[164.22 -> 175.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Bohr's Theory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[178.98 -> 206.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Quantum Energy Levels",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.82 -> 249.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Stable Atomic States",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.82 -> 249.82]"
+      },
+      {
+        "id": "c7",
+        "label": "Ground State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.82 -> 249.82]"
+      },
+      {
+        "id": "c8",
+        "label": "Excited State",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.82 -> 249.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Importance of Light Slide",
+        "type": "Visual",
+        "original_text": "Slide discussing the importance of light in various contexts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Spectrum Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing visible, infrared, and ultraviolet spectrum.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Particle-Wave Diagram",
+        "type": "Visual",
+        "original_text": "Circular diagram of light's particle and wave nature.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Energy Level Note",
+        "type": "Visual",
+        "original_text": "Blackboard note: 'Energy Level'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The light spectrum includes line spectra."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Hydrogen spectrum is a part of the light spectrum study."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Bohr's theory explains the hydrogen spectrum."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Quantum energy levels underpin Bohr's theory."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Stable atomic states are fundamental to Bohr's theory."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Ground state is a form of stable atomic state."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Excited state is another form of stable atomic state."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Transition from importance of light to detailed spectrum."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Spectrum diagram visualizes the concept of light spectrum."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The particle-wave diagram illustrates Bohr's theory components."
+      },
+      {
+        "source": "v4",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The note on energy levels aids in understanding quantum concepts."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement with the concept of light spectrum."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

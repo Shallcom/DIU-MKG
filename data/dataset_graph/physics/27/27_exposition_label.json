@@ -1,0 +1,165 @@
+{
+  "video_name": "27_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "- Understand the synthesis and decomposition methods for curvilinear motion.  \n- Master the application of vector addition in motion analysis.  \n- Analyze motion trajectories through experimental observation and logical reasoning.",
+  "transcript": "[175.0 -> 245.58] 好同学们我们开始上课这边是写成的对吧好这节课呢老师希望大家从已知出发到未知去探索一个新的问题那首先我们要知道我们已知的有哪些在学习本节课之前上一节课我们是已经学习了曲线运动大家复习得不够味曲线运动在那节课当中其实是一种我们是只是定性地去了解了它的运动方向能够判断它的方向是怎么样的那好如果你是物理学家你现在只是定性地知道了它那下一步你应该怎样去研究它对物理学一般的研究思路就是从定性到定量所以现在我们要想想想应该怎样去研究它对物理学一般的研究思路就是从定性到定量所以现在我们要应该怎样去研究它怎样去定量描述这个直线运动那好我们一般描述一个运动在之前学习直线运动的时候是从哪几方面。\n[247.46 -> 257.76] 比如描述物体位置的变化是哪个物理量位移那位置变化的快慢呢就是速度。\n[261.72 -> 305.5] 但是上一节课我们也已经知道了做曲线运动的物体它的运动方向是时刻发生改变的所以这给我们的研究带来极大的困难但是在这之前我们是已经学习了描述直线运动的方法所以这节课我们能不能将这个位置的曲线运动转化为我们已知的直线运动呢那么我们走进本期课的课堂运动的合成分解。\n[316.92 -> 318.94] 好那现在我们先来看一个例子。\n[319.94 -> 490.96] 在地铁站当中大家应该见过那种水平的传送带好如果当你不赶时间那么你就会站上去静止不动就任凭传送带把你往前传送所以此时你是只有一个传送带的速度的好那当你非常的着急忙话你要去赶飞机那此时你站在传送带上就还会对向前走那此时当你走起来感觉是什么对剑步如飞或者说轻如飞燕所以这个时候其实人除了参与传宋代给他的一个运动之后他自身还有一个运动所以其实好像最重要的运动可以看成这两种运动的合成叠加那我们之前其实是已经学习过什么把这个词换掉什么的合成与分解力的合成与分解那其实我们现在可以回过头来再思考一下为什么力可以进行合成与分解我听到了那个字对本质上是因为力是一个矢量所以它可以进行矢量的合成与分解那好今天我们的主题是运动而运动的描述其实就是位移和速度这两个量也是也是一个矢量所以它们也可以进行一个合成与分解好那下面我们再来看一个例子好这里有一条河现在你在这个地方要往前游到和的对岸一开始水流是平缓的那这时候我们也想画一下假设这个时候水流没有速度你的头就朝前往前游大家预想一下最终你会到达对岸的哪个地方这叫什么正对面好那现在如果水流非常的湍急好水流的速度我假设是往这边那这时候你依旧头朝前往前游大家可以预想一下此时你的位置还会是在正对面吗会偏向哪一边右边偏向右边这时候人既参与了自己往前游的运动也参与了水流对他的一个传送的运动但是人最终的一个运动只有一个那么他最终这个运动跟我们刚刚说两个运动有什么关系呢。\n[492.44 -> 523.56] 那今天我们就要进行探究但是在此之前呢其实我想让同学们利用生命的器材来感受一下我们桌上是不是有纸好现在我们想以两个人为主一个人负责往上滑一个人负责这样水平地去移动这个纸但是你们两个人都得闭上眼睛对好你们现在分工一下就体验一下吧等一下就好好闭上眼睛你们可以预想一下这个轨迹会是怎样的好其实这个其实不是很严谨只是想让大家体验一下要想更严谨地去探究其实那么我们就应该以一个比较严谨的运动为例我们先来看一个平面运动的实例现在假设我拿着一个伏地管里面是灌染了水的然后呢有一块红蜡块那么我们知道蜡块的密度应该是要小于水的所以当它在底部的时候它就会受到浮力浮力开始是大于重力所以这个蜡块就会向上运动而在运动过程中阻力不断增大最终我们可以看到它是向上的速度怎么样减速最终最终达到平衡的两个地我们可以看到是匀速直线楼我只要对于大家有点抽象因为今天由于器材的限制没办法为大家现场演示好那所以现在它是有一个向上匀速的运动了好那这时候我拿着这个玻璃管我要水平的向右移动好我们可以画一下一开始呢那块是位于底现在我要水平地向右移动的话所以我们可以看到蜡块在向上运动的过程中还会向右运动那好最终我们预想的话可以看到蜡块的运动是这样好像有点像什么运动把它的前后的位置连起来像是一个什么运动就是这个直线运动只是虾但是不确定是不是那我进一步猜想它是否有可能是匀速直线运动呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"运动的合成与分解\" (Composition and Decomposition of Motion) with an image of a swimmer.\n- The blackboard to the right has handwritten text: \"曲线运动\" (Curvilinear Motion) and a diagram with arrows indicating motion.\n- The teacher gestures towards the screen, emphasizing the title and image, likely introducing the topic of motion synthesis and decomposition.\n\n**Middle:**\n- The screen transitions to a new slide with bullet points:\n  1. \"情景一：一个游泳者以2m/s的速度游过河流\" (Scenario 1: A swimmer crosses the river at 2 m/s)\n  2. \"① 游泳者的速度向上游\" (The swimmer's speed is upstream)\n  3. \"② 游泳者的速度和水流的速度合成\" (The swimmer's speed and the water flow speed are synthesized)\n- The teacher points to each bullet point, explaining the scenario and the concept of vector addition in motion.\n- The teacher writes \"运动的合成可以分解\" (Motion synthesis can be decomposed) on the blackboard, reinforcing the concept.\n\n**End:**\n- The screen changes to a new slide titled \"情景二：给作曲线运动的物体\" (Scenario 2: Objects in Curvilinear Motion) with two points:\n  1. \"水平子速度，垂直的加速度\" (Horizontal sub-speed, vertical acceleration)\n  2. \"水平速度，垂直的加速度\" (Horizontal speed, vertical acceleration)\n- The teacher points to the image of a swimmer and explains the components of motion, linking the visual elements to the text.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying scenarios related to motion synthesis and decomposition. The initial state includes:\n  - A title slide with an image of a swimmer.\n  - Subsequent slides with bullet points and images illustrating different motion scenarios.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"运动的合成可以分解\" on the blackboard while explaining the concept of motion synthesis and decomposition.\n- **Modifications**: The teacher transitions between slides, adding new information about different motion scenarios.\n- **Deictic Gestures**: The teacher points to specific bullet points and images on the screen, such as the swimmer's speed and the components of curvilinear motion.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the screen, such as the swimmer's speed and the components of motion.\n- The teacher writes important concepts on the blackboard, using clear handwriting to highlight the synthesis and decomposition of motion.\n\nThis structured visual evolution helps students connect abstract concepts with concrete examples, enhancing understanding through synchronized visual and verbal explanations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a title slide with \"运动的合成与分解\" and an image of a swimmer, establishing the visual anchor for the lesson on motion synthesis and decomposition. The teacher began by gesturing towards the image, introducing the concept of how different motion components interact. \n\nThen, the teacher transitioned to a slide detailing \"Scenario 1,\" where a swimmer crosses a river at 2 m/s. The teacher constructed the explanation by pointing to each bullet point, tracing the swimmer's speed upstream and illustrating the synthesis of the swimmer's speed with the water flow. The teacher annotated the blackboard with \"运动的合成可以分解,\" emphasizing the core concept.\n\nAs the lesson progressed, the screen shifted to \"Scenario 2,\" focusing on objects in curvilinear motion. The teacher derived the components of motion by pointing to the horizontal and vertical elements, tracing the swimmer's path to highlight the separation of speed and acceleration. \n\nFinally, the teacher circled key points on the blackboard and screen, reinforcing the synthesis and decomposition of motion. This structured visual evolution, combined with clear annotations and dynamic gestures, reduced cognitive load by linking abstract concepts to concrete visual examples, ensuring students grasped the principles of motion through synchronized visual and verbal cues.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Curvilinear Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 60]"
+      },
+      {
+        "id": "c2",
+        "label": "Motion Synthesis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60 -> 120]"
+      },
+      {
+        "id": "c3",
+        "label": "Motion Decomposition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60 -> 120]"
+      },
+      {
+        "id": "c4",
+        "label": "Vector Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[120 -> 180]"
+      },
+      {
+        "id": "c5",
+        "label": "Swimmer Speed Upstream",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[180 -> 240]"
+      },
+      {
+        "id": "c6",
+        "label": "Water Flow Speed",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[180 -> 240]"
+      },
+      {
+        "id": "c7",
+        "label": "Horizontal Speed",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240 -> 300]"
+      },
+      {
+        "id": "c8",
+        "label": "Vertical Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240 -> 300]"
+      },
+      {
+        "id": "v1",
+        "label": "Motion Composition Slide",
+        "type": "Visual",
+        "original_text": "Slide showing 'Composition and Decomposition of Motion' with a swimmer image",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Scenario 1 Slide",
+        "type": "Visual",
+        "original_text": "Slide with swimmer crossing river at 2 m/s, detailed bullet points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Scenario 2 Slide",
+        "type": "Visual",
+        "original_text": "Slide with horizontal sub-speed and vertical acceleration points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visual anchor for curvilinear motion presented to students."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Illustrates motion synthesis using a swimmer's real-world scenario."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Illustrates motion decomposition with detailed visual scenarios."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Vector addition principles demonstrated using swimmer's speed."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Learning vector addition by synthesizing swimmer's speed and water flow speed."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Decomposition of horizontal speed as a component in motion."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Decomposition of vertical acceleration as a component in motion."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Understanding curvilinear motion involves synthesizing multiple motion components."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Understanding curvilinear motion also includes decomposing motion into simpler components."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Motion synthesis scenario prompts students to think about real-world applications."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Motion decomposition scenario encourages students to apply logical reasoning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

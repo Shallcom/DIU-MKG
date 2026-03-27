@@ -1,0 +1,134 @@
+{
+  "video_name": "35_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Understand the impact of the Magna Carta on the development of English politics; analyze the formation process of the early parliamentary system in medieval England; recognize the changes in the relationship between the Church and state power.",
+  "transcript": "[657.049667 -> 708.18] 那么我们了解完了大宪章之后知道了大宪章对于国王有这么多的限制你说国王能乐意吗我说国王我也不乐意那为什么他议会还增派了次数这就不得不提到一位聪明的国王爱德华一世他发现他可以通过议会为自己的政策寻求支持而议会通过向国王请任的形式要求国王改善统治因此王权就在这个过程中不断的加强英国的统治也因此而更加的稳定同学们在这个时期的西游还有一个重要的特征是王权和教会的努力国王通过教会去获得政权的合法性就是加冕而教会通过国王扩展基督教维护教会权力那么这个时期有一个重要的事情是法国国王妃第四十与将王的对抗请同学们阅读一下看一下是采取哪种形式进行的对抗。\n[710.86 -> 715.96] 各位评委老师我的展示环节结束谢谢各位老师谢谢各位同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"重要转折：王权和议会并立\" (Important Turning Point: The Coexistence of Monarchy and Parliament).\n   - The slide layout includes two main sections:\n     - A horizontal line labeled \"国王\" (King) and \"议会\" (Parliament).\n     - Text boxes with key points: \"获得政权的合法性\" (Acquire legitimacy of power), \"扩展基督教教难保护议会权威\" (Expand Christian difficulties to protect parliamentary authority), and \"1649年\" (1649).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"重要转折：王权和议会并立\" (Important Turning Point: The Coexistence of Monarchy and Parliament).\n   - Key points:\n     - \"获得政权的合法性\" (Acquire legitimacy of power)\n     - \"扩展基督教教难保护议会权威\" (Expand Christian difficulties to protect parliamentary authority)\n     - \"1649年\" (1649)\n     - \"1649年1月\" (January 1649)\n     - \"处死王权助力与限制君权\" (Execute monarchy to assist and limit royal power)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the horizontal line between \"国王\" (King) and \"议会\" (Parliament), emphasizing the coexistence.\n   - The teacher gestures towards the text \"1649年1月\" (January 1649) and \"处死王权助力与限制君权\" (Execute monarchy to assist and limit royal power), highlighting the historical significance.\n   - The teacher uses hand movements to trace the connection between the legitimacy of power and the expansion of parliamentary authority.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided. The focus remains on summarizing the key points of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"重要转折：王权和议会并立\" (Important Turning Point: The Coexistence of Monarchy and Parliament), featuring a horizontal line dividing \"国王\" (King) and \"议会\" (Parliament). The teacher visually reviews the key points by pointing to the line, emphasizing the coexistence theme. She gestures towards the text \"1649年1月\" (January 1649) and \"处死王权助力与限制君权\" (Execute monarchy to assist and limit royal power), highlighting their historical significance. The teacher traces the connection between acquiring legitimacy of power and expanding parliamentary authority, reinforcing the core takeaway. No visual elements indicate homework or next steps, focusing solely on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Magna Carta",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Monarchy Limits",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Edward I Strategy",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Parliament Support",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Stable Governance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Church Authority",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Legitimate Power",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c8",
+        "label": "French-King Conflict",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[657.05 -> 708.18]"
+      },
+      {
+        "id": "c9",
+        "label": "Monarchy Execution",
+        "type": "Visual",
+        "original_text": "Execute monarchy to assist and limit royal power",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Visual Coexistence",
+        "type": "Visual",
+        "original_text": "Important Turning Point: The Coexistence of Monarchy and Parliament",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Magna Carta establishes foundational limits on monarchy."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Edward I's strategy uses parliamentary support."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Parliamentary support contributes to stable governance."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Church authority enhances legitimate power."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "French-King conflict demonstrates Church-monarchy power dynamics."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "Visual depiction emphasizes the theme of monarchy coexistence."
+      },
+      {
+        "source": "ss1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged, reflecting on parliamentary influence."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

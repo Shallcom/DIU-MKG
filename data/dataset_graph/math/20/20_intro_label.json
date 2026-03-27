@@ -1,0 +1,140 @@
+{
+  "video_name": "20_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand and master the concept of mathematical abstraction; develop logical‑reasoning ability; enhance the use of intuitive imagination and practical modeling.",
+  "transcript": "[0.0 -> 132.78] 核心素养的教学目标这一主题我想说首先数学核心素养分为六个模块主要第一个模块是数学抽象第二个模块是逻辑推理第三个模块是直观想象第四个模块是数学建模第五个模块是数据分析第六个模块是数学运算在数学抽象这一模块中教师应该针对概念定义等抽象的数学问题进行转化由情境等简单的问题来引导学生思考进一步进行抽象在逻辑推理方面数学是一个有严谨推理过程的一个学科所以这个方面是非常重要的教师应该在上课过程中进行设计在直观想象中教师可以针对一些生活实力让学生来想出有关的数学内容在数学建模方面根据实例让学生收集分析数据进而建立数学模型进行解题针对数学分析和数学运算两个模块是要先分析数据再进行通过运算来解决实际问题在数学教学的过程中教师应该针对这六个模块进行融汇贯通在教学过程中让学生能从各个方面进行有所收获进而进而发展。\n[134.4 -> 167.94] 教育是一朵云推动另一朵云一棵树摇动另一棵树一个灵魂换取另一个灵魂的过程所以教师应该以身作则在教学过程中渗透这六个方面的数学核心素养来培养高素质发展人才我的即兴演讲到此结束谢谢接下来开始我的模拟上课不好意思我想问一下教鞭在哪儿。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a teacher standing in front of a green chalkboard. The initial focus is on the teacher holding papers, suggesting the start of a presentation or lesson. There is no specific image or text visible on the board at the beginning.\n\n#### 2. **The Title Event**\n- The chalkboard displays Chinese characters: \"数学班20号选手\" (Math Class Number 20 Contestant). This is likely the title or identifier for the lesson or presentation. The teacher stands in front of this text, but there is no visible action of writing or underlining it.\n\n#### 3. **The Objectives**\n- No specific learning goals or bullet points are visible on the board or screen. The focus remains on the teacher and the initial text.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally looks at them, suggesting reading or referencing notes. There are no significant gestures like pointing or tracing on the board.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at a podium with papers in hand. The chalkboard behind displays \"数学班20号选手\" with colored chalk pieces lined up beside it. The screen to the right shows a document or presentation slide, but details are not clear.\n\n**Middle:**\n- The teacher remains stationary, primarily looking at the papers. No additional writing or changes occur on the board. The colored chalk pieces remain in place, and the text is unchanged.\n\n**End:**\n- The teacher continues to hold the papers, with no further interaction with the board or screen. The visual elements remain consistent throughout, with no new content introduced.\n\n### Summary\nThe introduction phase focuses on the teacher presenting with minimal interaction with the board. The primary visual element is the text \"数学班20号选手\" on the chalkboard, indicating the lesson's context. The teacher's actions are limited to holding and referencing papers, with no additional gestures or changes to the board content.",
+  "visual_narrative": "Initially, the teacher stands at a podium with papers in hand, presenting in front of a green chalkboard. The opening visual stimulus is the text \"数学班20号选手\" prominently displayed on the board, accompanied by a vertical line of colored chalk pieces. The teacher remains stationary, primarily referencing the papers, suggesting a structured start to the lesson. To bridge to the main topic, the teacher maintains focus on the initial text without additional gestures or board interactions. The visual focus remains on the established text, setting the context for the lesson. This introduction links the lesson to the students' existing experience by identifying the presenter and context, preparing them for the forthcoming content without immediate shifts in visual aids. The consistent visual setup establishes a clear starting point, grounding the lesson in the identified theme.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mathematical Abstraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Logical Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Intuitive Imagination",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Practical Modeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Data Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematical Operations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Scenario Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Structured Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 132.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Introduction Text",
+        "type": "Visual",
+        "original_text": "Math Class Number 20 Contestant",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Holding Papers",
+        "type": "Visual",
+        "original_text": "Teacher standing with papers at a podium",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Mathematical abstraction involves transforming scenarios to simplify concepts."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Logical reasoning is foundational for structured problem-solving procedures."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Intuitive imagination enhances practical mathematical modeling."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The introductory text sets the context emphasizing mathematical abstraction."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The teacher references notes to visualize logical reasoning strategies."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Data analysis is necessary for conducting mathematical operations."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Mathematical operations require the foundational understanding of data analysis."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The introductory visual engages students by contextualizing the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

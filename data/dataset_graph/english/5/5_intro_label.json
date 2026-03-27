@@ -1,0 +1,132 @@
+{
+  "video_name": "5_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of vocabulary learning within students’ overall language knowledge; master the integration of the three dimensions—form, meaning, and usage—in vocabulary instruction; apply effective vocabulary learning strategies.",
+  "transcript": "[0.0 -> 82.78] Thank you judges and my fellow students. The title of my impromptu speech is to be a helpful teacher in students' vocabulary learning. As we all know vocabulary learning is an important part of student language knowledge and that's the basic and the foundation of students' English learning. But here is a problem that students learn the vocabulary and over of time and they forget over and over time we teachers teach them over and over again but also face the problem many times so the vocabulary teaching and learning has become a headache for both the students and teachers so what results in this problem I turn to the new English curriculum standards for help as we all know the vocabulary teaching is the combination of form meaning and use so the first problem lies in students lack of understanding of these three dimensions students may not fully understand how a word is formed and how it is used in a proper form secondly students lack some relevant learning strategies so that they have difficulty memorizing the words and help have difficulty using them correctly so To better address this problem,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is a slide titled \"PEPCU1: Reading and Thinking\" with images of architectural structures. The slide also includes the subtitle \"From Problems to Solutions.\"\n\n#### 2. **The Title Event**\n- **Title on Screen**: \"PEPCU1: Reading and Thinking\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher does not physically write it but stands beside the screen, likely emphasizing it through gestures.\n\n#### 3. **The Objectives**\n- **Visible Content**: No specific bullet points or learning goals are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- **Hand Movements**: The teacher uses hand gestures to emphasize points, such as clasping hands together and making open-handed gestures, likely to engage the audience and highlight the content on the screen.\n\n### Structured Chronological Log\n\n#### Beginning\n- **Visual Content**: The screen displays \"PEPCU1: Reading and Thinking\" with images of architectural structures and the subtitle \"From Problems to Solutions.\"\n- **Teacher Action**: The teacher stands beside the screen, using hand gestures to engage the audience. The teacher clasps hands together, possibly to emphasize the importance of the topic.\n\n#### Middle\n- **Visual Content**: The screen remains unchanged, showing the same title and images.\n- **Teacher Action**: The teacher continues to gesture, using open-handed movements to likely explain or highlight aspects of the content on the screen.\n\n#### End\n- **Visual Content**: The screen still displays the same introductory slide.\n- **Teacher Action**: The teacher maintains engagement with the audience through gestures, possibly summarizing the introduction or transitioning to the next part of the lesson.\n\n### Summary\nThe introduction phase of the lesson is initiated with a slide titled \"PEPCU1: Reading and Thinking,\" featuring architectural images and the subtitle \"From Problems to Solutions.\" The teacher uses hand gestures to engage the audience, emphasizing the content displayed on the screen. No specific learning objectives are visible, and the teacher's actions are focused on highlighting the introductory material.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing beside a screen displaying the hook object: a slide titled \"PEPCU1: Reading and Thinking,\" accompanied by images of architectural structures and the subtitle \"From Problems to Solutions.\" The teacher uses hand gestures, such as clasping hands together and making open-handed movements, to engage the audience and emphasize the importance of the topic. Throughout the introduction, the visual aid remains consistent, focusing on the theme of transitioning from problems to solutions. The teacher's gestures, including pointing and gesturing towards the screen, help bridge the hook to the main topic, setting the stage for a discussion on critical thinking and problem-solving. This visual approach connects the architectural imagery to broader concepts, preparing students to link new knowledge with their existing understanding of problem-solving strategies. The introduction effectively establishes a foundation for exploring how to approach and resolve challenges, aligning with the overarching theme of reading and thinking critically.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Vocabulary Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 82.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Meaning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Usage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Learning Strategies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 82.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Memory Difficulties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 82.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'PEPCU1: Reading and Thinking' with images of architectural structures and subtitle 'From Problems to Solutions'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Audience",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "t1",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to emphasize content on the screen.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Integrates the form as a key element of vocabulary learning."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Includes meaning as an essential aspect of vocabulary learning."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Incorporates usage in the context of vocabulary learning."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Uses learning strategies to enhance vocabulary acquisition."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "addresses",
+        "intent": "Identifies memory difficulties as a challenge in vocabulary retention."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlights the introductory slide to draw attention to vocabulary learning."
+      },
+      {
+        "source": "t1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher uses gestures to bring focus to the contents displayed on the introductory slide."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "engages",
+        "intent": "The slide content engages students, promoting attention and readiness to learn."
+      },
+      {
+        "source": "t1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher's gestures encourage student engagement and cognitive engagement with the topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

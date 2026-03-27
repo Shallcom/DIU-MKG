@@ -1,0 +1,180 @@
+{
+  "video_name": "16_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to correctly write the chemical equation for carbon and oxygen forming carbon monoxide; understand how to apply Hess’s law to calculate unknown reaction enthalpies; be capable of analyzing material changes, phase changes, and energy changes based on chemical reactions.",
+  "transcript": "[702.895467 -> 750.34] 大家写出来了吗好就是这样子的碳和二十分之一的氧气生成一氧化碳H三并且在这个过程中我们要标注好物质变化物态变化以及能量变化在这个过程当中我们知道了我们可以根据盖茨定律来利用已知反应来得根据已知反应来计算未知反应的反应热并且同学们也可以看到我们在科学史画中已经提出了这样的观点那这样的过程我们也可以计算当火箭升空的时候我们需要多少的能量通过这样的计算来帮助我们的社会和科学的发展以上就是我的授课谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It is divided into sections with headings and text blocks.\n   - The slide layout includes four main columns: \"研究問題\" (Research Question), \"基本定理\" (Basic Theorem), \"反例\" (Counterexample), and \"名言・開発\" (Quotes/Development).\n   - The section currently focused on is \"価値\" (Value), which contains a block of text and a small portrait image.\n\n2. **Key Knowledge Items (Content View)**:\n   - Headings: \"研究問題\", \"基本定理\", \"反例\", \"名言・開発\", \"価値\"\n   - Text under \"価値\" includes a detailed description and a portrait image.\n   - The blackboard contains handwritten text: \"在野実体\", \"一階小概念\", \"二階小概念\", \"一階層\", \"二階層\".\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the \"価値\" section on the slide, likely emphasizing key points within the text.\n   - The teacher uses hand movements to highlight different parts of the text block, possibly underlining or pointing to specific sentences.\n   - The teacher occasionally looks at the blackboard, possibly to reference or summarize the handwritten notes.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or next lesson is visible in the frames provided.\n   - The teacher moves towards the desk at the end, possibly to conclude the session or prepare for the next activity.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying four main sections: \"研究問題,\" \"基本定理,\" \"反例,\" and \"名言・開発.\" The teacher focuses on the \"価値\" section, which includes a block of text and a portrait. He gestures towards this section, emphasizing key points within the text by pointing and possibly underlining specific sentences. The blackboard in the background shows handwritten notes, which the teacher occasionally references. The teacher's movements suggest a review of the main concepts, with particular attention to the detailed text in the \"価値\" section. The lesson concludes with the teacher moving towards the desk, indicating the end of the session, without any visible homework or next-step instructions on the screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Carbon Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Carbon Monoxide Formation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Material Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Phase Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c5",
+        "label": "Energy Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c6",
+        "label": "Hess's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c7",
+        "label": "Reaction Enthalpy Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c8",
+        "label": "Scientific Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.90 -> 750.34]"
+      },
+      {
+        "id": "c9",
+        "label": "Research Question",
+        "type": "Visual",
+        "original_text": "Research Question section on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Basic Theorem",
+        "type": "Visual",
+        "original_text": "Basic Theorem section on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Counterexample",
+        "type": "Visual",
+        "original_text": "Counterexample section on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Quotes/Development",
+        "type": "Visual",
+        "original_text": "Quotes/Development section on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Value Section",
+        "type": "Visual",
+        "original_text": "Value section with portrait image",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c14",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Handwritten notes: Simple Entity, First-order Concept, Second-order Concept",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The equation includes the process of forming carbon monoxide."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Material changes occur during the formation of carbon monoxide."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Phase changes accompany the formation of carbon monoxide."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Energy changes are involved in the formation of carbon monoxide."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Hess's Law is used to perform reaction enthalpy calculations."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Hess's Law contributes to scientific development."
+      },
+      {
+        "source": "c13",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "The Value section summarizes the concept of scientific development."
+      },
+      {
+        "source": "c14",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Notes on the blackboard visualize reaction enthalpy calculations."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "The formation of carbon monoxide is used to engage students in discussion."
+      },
+      {
+        "source": "c13",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The Value section emphasizes understanding the carbon equation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,143 @@
+{
+  "video_name": "30_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "chemistry",
+  "teaching_goal": "Master the calculation methods for hydrogen ion and hydroxide ion concentrations in pure water; understand the ion product constant of water and its applications; be able to analyze changes in ion concentrations when acids or bases are added to a solution.",
+  "transcript": "[390.0 -> 451.38] 好老师看大家都讨论差不多了请这位女生你来说一说在纯水当中氢离子浓度是多少十的负七次方对非常好是十的负七次方文二美生那么氢要跟离子浓度呢也是十的有七次方非常好那你是通过什么计算出来的因为是纯水所以那个负大于零十的负十次方然后二分之一因为在纯水当中我们知道氢离子浓度和氢氧根离子浓度是非常好是相等的所以我们最终得出氢离子浓度和氢氧根离子浓度均为十到负七次方瓦尔美申那么通过这样的判断我们也可以得出这样一个结论常温下水的离子基常数为一乘十到负十四次方并且我们知道了氢离子浓度就可以得出氢氧根离子浓度那它们的关系是之一之球衣对不对。\n[480.0 -> 510.0] 好那么我们知道了吃一求一之后接下来我们再来看一看像纯水当中加入少量盐酸之后氢离子气氧跟离子浓度以及它们的关系又会发生怎样的变化呢请同学们再来讨论讨论同学们可以依据平衡原理哦不要忘记好老师看这位男生应该是有答案的请你来说再说一说加入银酸以后氢离子能增大氢离子浓度增大可以解释一下为什么吗因为加入了银酸是强酸会进入产生氢离子同时我们氢氧钢离子的浓度减小非常好也就减小了那么我们也同样可以通过刚刚的水的溢水场非常好可以通过这个来计算得出那么根据就我们刚刚的判断也得出来了氢离子浓度是大于氢氧根离子的浓度的那么接下来我们再来看一看像纯水当中加入少量氢氧化钠之后会发生怎样的变化呢。",
+  "visual_facts": "**Chronological Log of Visual Events**\n\n**Beginning:**\n\n1. **Initial Presentation:**\n   - The teacher stands in front of the blackboard and the digital screen.\n   - The blackboard displays the formula: $p = \\rho gh$ and the phrase \"水的电导和溶液的pH值\".\n   - The digital screen shows a table with pH values and related data.\n\n2. **Invitation Gesture (Elicitation):**\n   - The teacher points to the digital screen, specifically to the table with pH values.\n   - She gestures towards the class, signaling the start of interaction.\n\n3. **Visual Focus Point:**\n   - The focus is on the table displayed on the digital screen, highlighting pH values and related data.\n\n**Middle:**\n\n4. **Teacher's Explanation:**\n   - The teacher writes additional content on the blackboard: \"溶液的电导率与pH值的关系\".\n   - She writes the formula: $10^{(-14 + pH)} = 10^{pH} \\times 10^{-14}$.\n\n5. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While explaining, the teacher gestures towards the blackboard, emphasizing the newly written formula.\n   - She occasionally points to the digital screen to correlate the written content with the table data.\n\n6. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher circles the formula on the blackboard to highlight its importance.\n   - She nods and smiles, indicating approval of student engagement.\n\n**End:**\n\n7. **Final Interaction:**\n   - The teacher stands in front of the blackboard, summarizing the key points.\n   - She gestures towards both the blackboard and the digital screen, reinforcing the connection between the written formula and the table data.\n\n8. **Visual Recap:**\n   - The blackboard now contains the complete formula and explanation.\n   - The digital screen remains focused on the pH table, serving as a reference point.\n\n**Summary:**\n\n- The teacher effectively uses both the blackboard and digital screen to guide the lesson.\n- Visual cues, such as pointing and circling, are used to emphasize key concepts and encourage student participation.\n- The interaction is structured around the pH table and the derived formula, ensuring a clear visual connection between theory and data.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the formula $p = \\rho gh$ and the phrase \"水的电导和溶液的pH值,\" alongside a digital screen displaying a table of pH values. The teacher began by gesturally inviting students to participate, pointing to the table on the screen and sweeping her hand towards the class to signal engagement.\n\nAs the lesson progressed, the teacher wrote \"溶液的电导率与pH值的关系\" and the formula $10^{(-14 + pH)} = 10^{pH} \\times 10^{-14}$ on the blackboard. While a student explained their reasoning, the teacher walked over to the board, jotting down key terms and occasionally pointing to the digital screen to highlight relevant data, providing real-time scaffolding.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the formula on the blackboard, emphasizing its importance. She then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, reinforcing the relationship between the written formula and the table data.\n\nThroughout the interaction, the teacher's gestures linked the student's response to the core lesson content, helping students move from passively receiving knowledge to actively constructing their own understanding. This dynamic process ensured that students engaged deeply with the material, fostering a collaborative learning environment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Hydrogen Ion Concentration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.0 -> 451.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Hydroxide Ion Concentration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.0 -> 451.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Ion Product Constant of Water",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[390.0 -> 451.38]"
+      },
+      {
+        "id": "c4",
+        "label": "pH Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 480.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Sulfuric Acid Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[480.0 -> 510.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Sodium Hydroxide Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[510.0 -> 510.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Conductivity and pH Relation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 480.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Formula: p = rho gh",
+        "type": "Visual",
+        "original_text": "Formula displayed on the board",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 480.0]"
+      },
+      {
+        "id": "v2",
+        "label": "pH Table",
+        "type": "Visual",
+        "original_text": "Table with pH values displayed on digital screen",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 480.0]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[390.0 -> 451.38]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[480.0 -> 510.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains the relationship between hydrogen ion concentration and the ion product constant of water."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Demonstrates the correlation between hydroxide ion concentration and the ion product constant of water."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "addresses_misconception",
+        "intent": "Clarifies the calculation method of hydrogen ion concentration in pure water."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Shows adjustments to ion concentrations when sulfuric acid and sodium hydroxide are added."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the relationship between conductivity and pH on the board."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Showcases various pH values and data on the digital screen."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Guides students to connect their answers to visual data from the pH table."
+      },
+      {
+        "source": "s2",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Facilitates thorough discussion using visual data on screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

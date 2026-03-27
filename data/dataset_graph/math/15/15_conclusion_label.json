@@ -1,0 +1,152 @@
+{
+  "video_name": "15_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "- Be able to identify and fill in the various data entries in a contingency table.  \n- Correctly apply percentage calculation formulas for data conversion.  \n- Master the use of the conditional probability formula to solve practical problems.",
+  "transcript": "[715.36 -> 775.76] 我看到同学们都填写得差不多了那跟黑板上来比对一下首先五百二十三名女生所以女生的人数是五百二十三在女生中有三百三十一名同学是经常锻炼的因此三百三十一女生中三百三十一是经常锻炼的那么我们也就可以算出女生中不经常锻炼的人数是五百二十三减去了三百三十一也就是一百九十二个女生是不经常锻炼的同样男生的总人数是六百零一然后有四百七十三名同学是经常锻炼的可以计算出不经常锻炼的男生有一百二十八个人那么我们可以进一步完善这个表格那么无论是男生和女生不经常锻炼的人数就有三百二十个人经常锻炼的总人数有八百零四个人啊我们发现最最后这个数据它就可以是男生的人数加上女生的人数可以算出全校的人数是一千一百二十四个人同样也可以是不经常锻炼和经常锻炼的总人数加起来也是一千一百二十四个人因此我们可以计算一下这个比率那同学们上节课我们学习了条件概率的一个计算公式那么它该如何计算呢我们知道根据条件概率的计算公式它的分子上就是要两个条件同时满足的一个样本数它的分母上是在要后面一个条件满足的一个样本数因此我们可以把公式写出来最后计算出女生经常锻炼的比率是零点六三三男生是零点七八七同样根据这两个数据的比较跟我们上一种方法得出来的结论也是相同的也是到了男生更加经常而我们把这样子的表格就叫做列联表这是我们今天第二个重点学习内容以上是我的实时课过程好谢谢老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a table and mathematical expressions related to probability.\n   - The slide layout includes a table with rows and columns, and two probability formulas below it.\n\n2. **Key Knowledge Items (Content View)**:\n   - The table on the slide contains data with headings in Chinese, likely representing different categories or conditions.\n   - The formulas below the table are:\n     - $P(A|B) = \\frac{P(AB)}{P(B)} = \\frac{100}{150} = \\frac{2}{3}$\n     - $P(A|\\overline{B}) = \\frac{P(A\\overline{B})}{P(\\overline{B})} = \\frac{150}{250} = \\frac{3}{5}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the table on the slide, likely highlighting specific data entries or rows.\n   - She gestures towards the formulas, possibly emphasizing the calculations or results.\n   - The teacher uses hand movements to connect the table data with the formulas, indicating relationships or steps in the solution.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide or blackboard.\n   - The blackboard contains handwritten notes, including variables $X$ and $Y$ with conditions, but no explicit next steps are shown.\n\nThis structured visual summary focuses on the probability calculations and data interpretation, with the teacher's gestures reinforcing the connections between the table and formulas.",
+  "visual_narrative": "The lesson concludes with a slide displaying a table and two probability formulas, summarizing the key calculations. The teacher visually reviews the content by pointing to the table entries and then moving to the formulas, emphasizing the results. She gestures between the data and calculations, reinforcing their connection. The visual focus remains on the slide, with no explicit homework or next-step instructions visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Contingency Table",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Conditional Probability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Percentage Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Female Students",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Male Students",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Exercise Frequency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Probability Formula P(A|B)",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c8",
+        "label": "Probability Formula P(A|¬B)",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.36 -> 775.76]"
+      },
+      {
+        "id": "c9",
+        "label": "Digital Slide with Table",
+        "type": "Visual",
+        "original_text": "The slide displays a table with data and probability formulas.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher points to table and formulas, connecting data with calculations.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The contingency table is used to explain conditional probability."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The table data is used for percentage calculations."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Female students are categorized by exercise frequency."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Male students are categorized by exercise frequency."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The formula P(A|B) is a specific application of conditional probability."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The formula P(A|¬B) is another application of conditional probability."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The digital slide visually represents the contingency table."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the probability formula P(A|B)."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the probability formula P(A|¬B)."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged with the contingency table data."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

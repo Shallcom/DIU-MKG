@@ -1,0 +1,160 @@
+{
+  "video_name": "10_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic concepts of momentum and its directionality; master the vector properties of momentum and its units; analyze the state nature and relativity of momentum.",
+  "transcript": "[645.36 -> 693.44] 没错它的视角是P等于V动量我们也把它叫做字母P同学们想一下它有没有方向呢它是矢样还是标样呢没错是大多说是矢样它的方向与速度方向相同那它的单位呢质量单位是什么所以它的单位是很棒那么它是一个状态呀还是过程呀呢为什么状态对它是它与运动状态有没有关系它与它的运动的位移有没有关系它描述的是物体的状态所以是一个状态呀动量是相对的还是绝对的呢为什么啊因为它有速度速度是相对于叉烤系而言的叉烤系变化了动量是不是也就变化了所以动量是一个相对量。\n[694.48 -> 732.98] 同学们二零二四年四月神舟十八号火箭飞船成功在九泉发射中心成功发射并且于十一月五日成功返回任务完成了圆满成功让我们为宇宙航天员们一起鼓掌那在发射过程中火箭的动量其实是非常大的科学家们在对神舟十八号的设计和测算中动量及其性质的知识起到了非常大的作用。\n[734.26 -> 748.46] 在这个科技不断进步的时代我们的知识不学就如同逆水行舟不进则退希望同学们都能够多多地学习物语知识在未来能够用自己的知识做到科技强国。\n[749.48 -> 754.68] 以上就是我讲课的全部内容感谢各位评委老师和学生。\n[757.96 -> 761.24] 好可以可以把你的菜单做下来。\n[779.48 -> 784.46] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It contains a list of key points and a diagram illustrating a concept.\n   - The slide layout includes a title at the top, a list of bullet points on the left, and a diagram with figures on the right.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes the following visible elements:\n     - Title: \"总结\" (Summary)\n     - Bullet points: \n       - 过程：GMP\n       - 人、文、物、外\n       - 内容进度与外在指标\n       - 项目管理\n       - 完成目标\n       - 核心性\n     - Diagram: Illustrates a person with a backpack and another figure, likely representing a concept related to the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the digital slide, pointing at the bullet points and the diagram to emphasize key concepts.\n   - She uses hand movements to highlight the bullet points, likely indicating each item in sequence.\n   - The teacher occasionally looks at the blackboard, which contains a list of terms, possibly to reinforce connections between the slide content and the board notes.\n\n4. **Transition to Next Step**:\n   - The blackboard includes a list of terms such as \"动量\" (Momentum) and \"矢量\" (Vector), which may indicate topics for further study or review.\n   - There is no explicit visual element indicating homework or next lesson steps, but the presence of these terms suggests potential areas for continued learning.",
+  "visual_narrative": "The lesson concludes with a digital slide centered on the core topic of project management and goal completion. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing key concepts such as GMP and project management. She briefly pauses on the diagram, highlighting the interaction between figures. The visual focus remains on the slide, with no explicit homework instructions visible, but the blackboard's terms suggest areas for further exploration, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[645.36 -> 693.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Directionality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[645.36 -> 693.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Vector Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[645.36 -> 693.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Units of Momentum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[645.36 -> 693.44]"
+      },
+      {
+        "id": "c5",
+        "label": "State Nature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[645.36 -> 693.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Relativity of Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[645.36 -> 693.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Shenzhou 18 Launch",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[694.48 -> 732.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Rocket Momentum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[694.48 -> 732.98]"
+      },
+      {
+        "id": "c9",
+        "label": "Scientific Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[694.48 -> 732.98]"
+      },
+      {
+        "id": "c10",
+        "label": "Technological Advancement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[734.26 -> 748.46]"
+      },
+      {
+        "id": "c11",
+        "label": "Slide Summary",
+        "type": "Visual",
+        "original_text": "Digital slide presenting summary points and a diagram.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Blackboard Terms",
+        "type": "Visual",
+        "original_text": "List of terms like 'Momentum' and 'Vector' for further study.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Momentum's directionality is an integral property determining its application."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Momentum's vector properties expand upon basic definitions."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Momentum is defined with specific units highlighting its scale."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Momentum's relativity is linked to its state nature."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "The Shenzhou 18 launch exemplifies high rocket momentum."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Scientific collaboration is crucial in calculating rocket momentum."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Technological advancement requires scientific cooperation knowledge application."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The digital slide summarizes the concept of momentum."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "The slide highlights the concept of momentum's state nature."
+      },
+      {
+        "source": "c12",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The blackboard terms provide support and detail on momentum's properties."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

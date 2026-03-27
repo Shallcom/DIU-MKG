@@ -1,0 +1,152 @@
+{
+  "video_name": "41_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Analyze how experimental design can develop students’ inquiry abilities; apply information technology to environmental monitoring and research.",
+  "transcript": "[90.94 -> 154.82] 比如说在我的本堂课当中我的本节课是二氧化碳和一氧化碳的性质那么我将会以融洞为情境让学生发现融洞中与二氧化碳有关的知识从以此为切入点来进行下面的学习那么第二我认为还要提升学生设计实验的能力传统的教学往往是给实验方案给到了学生们的手上那么我认为要培养他们的探究能力还要学会自己主动的设计实验第三还要培养学生的创新思维那么如果能做到以上我相信我们一定能迎来教育事业的春天一定能够让我们一起投入到教育改革的浪潮当中以长风破浪汇有实力的教育训练直挂云帆济沧海的勇气和信念为教育事业添砖加瓦。\n[157.34 -> 162.56] 那么以上是我的演讲部分下面开始我的模拟授课。\n[169.36 -> 210.94] 好上课同学们好同学们美丽的溶洞千姿多彩大家有没有听说过贵州的织金洞呀那么大家知道溶洞是如何形成的吗传说呀是一种神奇的酸水将其雕刻而形成那么你们知道酸水的成分是什么吗大家可以阅读老师课前给大家准备的资料卡片还有图片老师课前之前也有给大家发放视频那么我们从资料卡片中可以得出在溶洞当中二氧化碳的含量往往都偏高。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Teacher's Actions**: The teacher stands in front of the class, gesturing with both hands while speaking.\n- **Visual Content**: \n  - The screen displays a slide titled \"溶洞中的二氧化碳\" (Carbon Dioxide in Caves) with a subtitle \"二氧化碳和一氧化碳 (第一课时) 人教版\" (Carbon Dioxide and Carbon Monoxide, Lesson 1, People's Education Edition).\n  - The blackboard is mostly blank with some faint chalk marks.\n\n#### Middle\n- **Teacher's Actions**: The teacher continues to gesture, emphasizing points with hand movements.\n- **Visual Content**: \n  - The slide changes to a new one titled \"情景讨论\" (Scenario Discussion).\n  - The slide contains text: \"溶洞是一种神奇的自然景观，你是否到过溶洞呢？\" (Caves are a magical natural landscape, have you been to a cave?) and a list of scientific questions related to cave formation and $\\text{CaCO}_3$.\n\n#### End\n- **Teacher's Actions**: The teacher points towards the screen, likely emphasizing the questions listed.\n- **Visual Content**: \n  - The screen remains on the \"情景讨论\" slide, highlighting the questions about cave formation and chemical processes.\n\n### Knowledge Flow Tracking\n\n#### The Core Artifact (Static)\n- **Main Visual Anchor**: The screen displaying the \"情景讨论\" slide with questions about cave formation and $\\text{CaCO}_3$.\n\n#### The Derivation Process (Dynamic)\n- **Additions**: \n  - The teacher likely adds verbal explanations to the questions displayed on the screen.\n- **Modifications**: \n  - No visible modifications to the slide or blackboard during the video.\n- **Deictic Gestures**: \n  - The teacher points to the screen, specifically towards the questions about cave formation and $\\text{CaCO}_3$.\n\n#### The Highlighting Strategy (Emphasis)\n- **Visual Cues**: \n  - The teacher uses hand gestures to emphasize the importance of the questions on the screen.\n  - The green and white color scheme of the slide draws attention to the text.\n\n### Chronological Log of Visual Events\n\n1. **Initial Slide**: \"溶洞中的二氧化碳\" with subtitle displayed.\n2. **Teacher Gestures**: Explains the topic while gesturing.\n3. **Slide Change**: Transition to \"情景讨论\" with questions about caves and $\\text{CaCO}_3$.\n4. **Pointing Gesture**: Teacher points to the questions on the screen.\n5. **Emphasis**: Use of hand gestures to highlight key points on the slide.",
+  "visual_narrative": "Initially, the bulletin board displayed a slide titled \"溶洞中的二氧化碳\" (Carbon Dioxide in Caves), setting the stage for the lesson. The teacher began by gesturing broadly, introducing the topic with dynamic hand movements to engage the audience. As the lecture progressed, the slide transitioned to \"情景讨论\" (Scenario Discussion), presenting questions about cave formation and $\\text{CaCO}_3$. The teacher constructed a narrative around these questions, using hand gestures to emphasize key points. Specifically, the teacher pointed to the text on the screen, tracing the questions to guide the students' focus. The visual emphasis on the green and white slide design helped maintain attention. Finally, the teacher circled back to the core concepts, ensuring students understood the connection between cave formation and chemical processes. The strategic use of slides and gestures reduced cognitive load by visually segmenting information, making complex concepts more digestible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Carbon Dioxide Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[90.94 -> 154.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Carbon Monoxide Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[90.94 -> 154.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Cave Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[169.36 -> 210.94]"
+      },
+      {
+        "id": "c4",
+        "label": "CaCO3",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.36 -> 210.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[90.94 -> 154.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Inquiry Abilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[90.94 -> 154.82]"
+      },
+      {
+        "id": "c7",
+        "label": "Innovative Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[90.94 -> 154.82]"
+      },
+      {
+        "id": "c8",
+        "label": "Education Reform",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[90.94 -> 154.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Carbon Dioxide in Caves",
+        "type": "Visual",
+        "original_text": "Slide with title 'Carbon Dioxide in Caves' and subtitle 'Carbon Dioxide and Carbon Monoxide, Lesson 1, People's Education Edition'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Scenario Discussion",
+        "type": "Visual",
+        "original_text": "Slide titled 'Scenario Discussion' with questions about cave formation and CaCO3.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide outlines the topic of carbon dioxide in caves."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide presents carbon monoxide alongside carbon dioxide as lesson content."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide is used to discuss cave formation."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide introduces CaCO3 in the context of cave-related questions."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Experimental design enhances students' inquiry abilities."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Inquiry abilities foster innovative thinking."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Innovative thinking contributes to education reform."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher's discussion on experimental design engages students."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Cave formation involves CaCO3 as a chemical component."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Discussion on carbon dioxide properties draws student attention."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

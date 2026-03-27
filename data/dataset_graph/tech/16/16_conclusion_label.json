@@ -1,0 +1,145 @@
+{
+  "video_name": "16_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Be able to explain the cause of sound generation; analyze the relationship between vibration and sound production; apply the principles of sound generation to real-world cases.",
+  "transcript": "[569.64 -> 573.32] 在同学们刚刚的实验探究过程中我们可以发现。\n[575.12 -> 586.96] 声音可以由物体的振动进行产生那请同学们利用声音产生的原因解释我们刚才提出的生活中的发声现象。\n[588.26 -> 590.2] 那请这位同学来回答一下。\n[591.56 -> 638.76] 像动物能够发出声音是因为它们也有相应的发声器官产生了振动打击乐器的话像我们说的鼓针也是因为我在弹动的过程中它发生了振动所以我们听到它的声音很好非常好请坐那在这部分的学习过程中同学们通过实验探究探究了声音是由振动产生并由我们得到的结论来解释了生活中的现象我们知道声音会由振动产生那声音的停止又是如何非常好阻止它震动所以声音就会进行停止。\n[639.9 -> 676.14] 下面我们一起来讲解声音产生的应用这是早期机械唱片的表面放大图同学们观察这张图片可以发现有什么样的特征呢在这个机械唱片可以实现声音的记录功能同学们观察这张图片你们可以发现什么呢对在这个唱片上面有许多不规则的钩槽。\n[677.42 -> 748.66] 那它又是如何通过声音的产生原理来进行工作的呢同学们可以猜测一下请这位同学来回答当那个针在设备滑动的时候会发生震动所以发出了声音吗这位同学回答得非常正确它是通过声音是通过震动而产生了凹槽所以到达了记录声音声音的功能我们之前学习过声音的产生的声音又是如何进行传播的呢请同学们在课后进行思考时间到好那我我的我的讲座上有很多问题想问您的问题有什么问题想问您的问题完课到此结束谢谢老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with sections for \"情景导入\" (Situation Introduction), \"新知探究\" (New Knowledge Exploration), \"课堂小结\" (Class Summary), and \"当堂检测\" (Immediate Assessment).\n   - The slide includes bullet points and images related to the lesson's content, such as diagrams and text explanations.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide prominently displays the title \"声音的产生——课堂小结\" (Sound Production – Class Summary).\n   - Key phrases include:\n     - \"声音的产生——振动产生\"\n     - \"列举生活中的声音产生与传播的实例并解释其原理\"\n     - \"声音的传播——介质\"\n     - \"真空不能传播声音\"\n     - \"声音的传播需要介质\"\n   - The slide also contains an image of a vibrating object with accompanying text explaining sound transmission.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title \"声音的产生——课堂小结\" to emphasize the summary section.\n   - She gestures towards the bullet points under \"课堂小结\" to review the main concepts discussed, such as sound production through vibration and the necessity of a medium for sound transmission.\n   - The teacher uses hand movements to highlight the image of the vibrating object, reinforcing the explanation of sound waves and their propagation.\n\n4. **Transition to Next Step**:\n   - The teacher holds up a yellow fan, possibly indicating a transition or a visual cue for the next activity or homework.\n   - There is no explicit slide or board section visible indicating homework or further reading, but the teacher's gesture with the fan suggests a shift to the next part of the lesson or an interactive activity.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displaying the title \"声音的产生——课堂小结\" at the top, structuring the summary into key sections. The teacher begins by pointing to the title, signaling the start of the review. She then moves through the bullet points under \"课堂小结,\" using deliberate gestures to highlight each concept, such as sound production through vibration and the necessity of a medium for sound transmission. The teacher emphasizes the image of the vibrating object, reinforcing the visual explanation of sound waves. To mark the core takeaway, she focuses on the phrase \"声音的传播需要介质,\" ensuring it stands out as a critical point. As the lesson concludes, the teacher holds up a yellow fan, suggesting a transition to the next activity or homework, though no explicit homework instructions are visible on the slide. This visual cue indicates a shift in focus, wrapping up the lesson effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sound Generation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[569.64 -> 590.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Vibration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[569.64 -> 590.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Sound Transmission",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[588.26 -> 590.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Medium Required",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.56 -> 638.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Sound in Vacuum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.56 -> 638.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Vibrating Object Image",
+        "type": "Visual",
+        "original_text": "Image showing a vibrating object explaining sound transmission.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Yellow Fan Gesture",
+        "type": "Visual",
+        "original_text": "Teacher holds up a yellow fan, indicating transition.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c9",
+        "label": "Explaining Sound Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[639.9 -> 748.66]"
+      },
+      {
+        "id": "c10",
+        "label": "Mechanical Record Player",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[639.9 -> 748.66]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Sound generation is based on vibration."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Sound transmission evolves from the principle of requiring a medium."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Sound cannot travel in a vacuum, an essential component of transmission."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The image visualizes the concept of sound generation through vibration."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Image of a vibrating object scaffolds understanding of vibration as a principle."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "contradicts",
+        "intent": "Medium is necessary for sound, whereas vacuum represents absence of medium."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "The gesture with the fan scaffolds the transition to the next topic or task."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Student answers question about sound generation, guiding classroom discussion."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Explanation includes how a mechanical record player functions."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Record player's sound mechanism builds upon the principle of vibration."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

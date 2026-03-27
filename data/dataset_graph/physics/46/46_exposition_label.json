@@ -1,0 +1,172 @@
+{
+  "video_name": "46_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic principles of charged‑particle motion in an electric field; master the quantitative relationship between electrostatic force and acceleration.",
+  "transcript": "[233.28 -> 352.02] 在学习本堂课前同学们已经接触过有关电场的知识那老师想请问在电场中电子它的方向会有哪些呢如果它的出速的方向与电场方向相同就会有这样的情形为了解决刚刚复杂的问题我们不妨建立一个最简单的物理模型这是一个云墙磁场它的电场强度大小为E我们使一个带正电的粒子处于A位置上让它运动到B位置那老师想请问带正电的粒子在云速电场中它的运动是什么样子的呢做的是什么运动没错是云加速运动那既然它运动起来了必然会在电场中转受到一个力的作用这个力叫什么呢没错同学对知识的把握很清晰它会受到静电力的作用那通过静电力和云加速直线运动同学们能不能探讨出它们之间存在着怎样的定量关系呢我们可以知道电子在其中运动了它一定会受到一个力的作用刚刚我们已经知道是受到静电力的作用那么根据我们之前所学过的牛顿第二定律可以列出F等于FA那老师想请问这个静电力它的大小是多少呢同学们还记得之前学过的知识吗这位同学很好F等于PE那么结合这两个公式同学们能不能算出带电离子它在电场当中的加速度呢。\n[353.08 -> 356.12] 来请同学们动笔计算一下。\n[377.24 -> 425.84] 好看大家都算完了非常的简单就是把这两个等式点立我们就可以计算出带电粒子在电场中它的加速度为QU比上MD很好那可以观察到我们这个公式它的得来是应用了牛顿第二定律以及我们在本章前面所学习的知识静电力的大小那现在老师又有一个疑问如果刚刚同学们已经说这个粒子它在云墙电制行中是在做啊云加速运动那么加速度我们已经求出来了根据之前我们所学习过的云加速运动它的微率能够求出位移和时间呢。\n[429.92 -> 448.0] 这是我们之前学习的云变速直线运动它的速度公式和位移公式我们再接着把公式进行点力请同学们动物笔计算一下它的时间为多少位移又为多少呢。\n[457.36 -> 463.88] 这里要注意一个问题啊带电粒子放入电场时它的出速度的大小是多少呢。\n[465.72 -> 571.98] 是它的出速度它是按静止的刚刚放进去的由于受到力的作用才运动起来才具有了速度好算出来了吗看同学们都有答案了所以通过纽顿第二定律和运动学的相关知识以及它在电场中受到了力的作用我们可以通过这些公式算出时间T和位移X那如果我们遇到这样的提醒如果他想求时间梯和位移问代电粒子在云墙电场中他经历的时间为多少他运动的位移为多少我们就可以通过以上公式的连列求得而出那接下来我们能不能从另一种角度来分析一下这个问题呢我们在学习重力施能的时候研究了重力做工学习电施能的时候研究了静电力做工学习动能的时候研究了格力做工那这个模型我们能不能从功能关系上来分析一下它大家跟着老师一起来进行我们知道带电粒子在电场中它由于运动而具有了动能那根据能量的转移和转化它的动能增加了势必会有另一种能在减小那么是哪种能减小的呢带电粒子在电场中会受到电视能它的作用那谁提供了电视能没错回答得很好静电力做工提供了电视能在这个过程中电视能减小提供了物体带电粒子的动能那静电力做工的公式大家还记得吗W等于Q其中Q是它带的电视量而U是电视叉好接着看五我们分析完了功的关系再看能的关系那他由A位置运动到B位置时同学们能否列出他经历的动能定理呢应该是二分之一MV二方减去二分之一MV一方刚刚经过我们进行的动能定理的时候我们看到了从简单的分析我们知道了静电力做工提供了动能所以现在我们依然可以把两个式子联力起来。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher writes on the blackboard: \"带电粒子在电场中的运动\" (Motion of Charged Particles in an Electric Field).\n- The screen displays a diagram with an electric field $E$ and a charged particle trajectory.\n- The teacher points to the diagram, indicating the direction of the electric field and the particle's path.\n\n**Middle:**\n- The teacher writes the equation $F = ma$ on the blackboard.\n- The screen updates to show the force equation $F = qE$.\n- The teacher points to the screen, linking $F = ma$ with $F = qE$.\n- The teacher writes the derived equation $a = \\frac{qE}{m}$ on the blackboard.\n- The teacher gestures towards the screen, emphasizing the acceleration formula.\n\n**End:**\n- The teacher writes additional equations on the blackboard, including $v = v_0 + at$ and $x = v_0t + \\frac{1}{2}at^2$.\n- The screen shows the final derived equation $y = \\frac{qE}{2mv_0^2}x^2$.\n- The teacher points to the final equation, highlighting its components.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the diagram on the screen showing an electric field $E$ and a charged particle's trajectory.\n   - Initial state: The diagram includes horizontal and vertical components, with labels for $E$ and the particle's path.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:**\n     - The teacher writes $F = ma$ on the blackboard while explaining Newton's second law.\n     - The screen updates to show $F = qE$, linking force to charge and electric field.\n     - The teacher writes $a = \\frac{qE}{m}$, deriving acceleration from the force equations.\n     - Additional kinematic equations $v = v_0 + at$ and $x = v_0t + \\frac{1}{2}at^2$ are added to the blackboard.\n   - **Modifications:**\n     - The teacher updates the screen to include the final derived equation $y = \\frac{qE}{2mv_0^2}x^2$.\n   - **Deictic Gestures:**\n     - The teacher points to the electric field $E$ on the screen while explaining its role.\n     - The teacher gestures towards the acceleration formula $a = \\frac{qE}{m}$ during its derivation.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses the pointer to highlight the final equation $y = \\frac{qE}{2mv_0^2}x^2$ on the screen.\n   - Important variables like $q$, $E$, and $m$ are emphasized through gestures and verbal explanation.\n   - The teacher circles key parts of the equations on the blackboard to mark their significance.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a diagram illustrating an electric field $E$ and the trajectory of a charged particle, establishing the visual anchor for the lesson. The teacher began by writing \"带电粒子在电场中的运动\" on the blackboard, setting the topic. The screen showed the initial setup with the electric field and particle path.\n\nThen, the teacher constructed the foundational equations by writing $F = ma$ on the blackboard, linking it to Newton's second law. The screen updated to show $F = qE$, connecting force to the electric field and charge. The teacher derived the acceleration formula, writing $a = \\frac{qE}{m}$ on the blackboard, and gestured towards the screen to emphasize the relationship between these equations.\n\nAs the lesson progressed, the teacher annotated the screen with kinematic equations, adding $v = v_0 + at$ and $x = v_0t + \\frac{1}{2}at^2$ to the blackboard. The teacher traced the particle's trajectory on the screen, illustrating how these equations applied to the motion in the electric field.\n\nFinally, the teacher resolved the concept by deriving the final equation $y = \\frac{qE}{2mv_0^2}x^2$ and displayed it prominently on the screen. The teacher circled this equation to highlight its importance, ensuring students focused on the culmination of the derivation process. Throughout, the teacher's gestures and annotations on both the screen and blackboard worked in tandem, reducing cognitive load by visually reinforcing each step of the explanation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Motion Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of electric field and particle trajectory",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "F = ma",
+        "type": "Visual",
+        "original_text": "Equation written on the blackboard: F = ma",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "F = qE",
+        "type": "Visual",
+        "original_text": "Equation displayed on the screen: F = qE",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "a = qE/m",
+        "type": "Visual",
+        "original_text": "Derived acceleration equation on the blackboard: a = qE/m",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v5",
+        "label": "y = qE/2mv0^2*x^2",
+        "type": "Visual",
+        "original_text": "Final derived equation on the screen: y = qE/2mv0^2*x^2",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Electric Field",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[233.28 -> 352.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Charged Particle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[233.28 -> 352.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Electrostatic Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[353.08 -> 356.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Newton's Second Law",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[377.24 -> 425.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Kinematic Equations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[429.92 -> 448.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[353.08 -> 356.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Time and Displacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[465.72 -> 571.98]"
+      },
+      {
+        "id": "s1",
+        "label": "Calculating Acceleration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Illustrates the principle of motion in an electric field."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Demonstrates the motion of a charged particle within the electric field."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Provides foundational equation for understanding motion principles."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Links electrostatic force with electric field and charge."
+      },
+      {
+        "source": "v4",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Clarifies the derivation of acceleration from force equations."
+      },
+      {
+        "source": "v5",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Shows the relationship between displacement and derived acceleration components."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Utilizes Newton's second law to derive acceleration."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Connects acceleration with kinematic equations for time and displacement."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Calculates time and displacement using kinematic equations."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Acceleration is derived from understanding electrostatic force."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "engaged_with",
+        "intent": "Students actively participate in calculating acceleration."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,165 @@
+{
+  "video_name": "48_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Be able to observe and describe the structural features of an earthworm’s body; understand the structure and function of earthworm segments.",
+  "transcript": "[236.74 -> 251.08] 来仔细地看一看它的身体构造。\n[252.6 -> 257.6] 仔细地观察一下蚯蚓的身体构造。\n[266.74 -> 294.12] 好这一组同学观察完了吗其他组呢都观察完了对吧那么我们来看一看蚯蚓的前端蚯蚓的身体呈现一个什么样的形状长圆短形。\n[296.74 -> 352.52] 那有什么构成有许多相似的环形体节构成那么蚯蚓的前部的体节怎么样界限是不明显的那么颜色呢颜色也是不同的对吧那它的颜色是偏什么呀偏深一点那么比其它的体节呢在触感上是透的对吧那么如同蚯蚓的身体被带上了一个环那么同学们我们来想一下这个环叫什么环带那么这个环带它又有什么样的作用呢我们接着来看邱韵的体节有什么样的意义请同学们自行地阅读教材我们稍后找一位同学来进行回答。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a diagram of an earthworm.\n- The chalkboard has the title \"§12.2 环节动物\" (Segmented Animals) and \"蚯蚓\" (Earthworm) written on it.\n- The digital screen shows an image of an earthworm with text in Chinese, including labels and descriptions.\n\n**Middle:**\n- The teacher interacts with students, possibly answering questions or providing explanations.\n- The teacher points to the digital screen, specifically at the earthworm diagram, while holding papers.\n- The teacher writes \"圆筒形\" (Cylindrical shape) on the chalkboard, linking it to the earthworm's characteristics.\n\n**End:**\n- The teacher continues to gesture towards the digital screen, emphasizing points about the earthworm's anatomy.\n- The chalkboard now includes the term \"圆筒形\" under the earthworm section.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the earthworm diagram with accompanying text.\n- The chalkboard initially shows the title \"§12.2 环节动物\" and \"蚯蚓.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"圆筒形\" on the chalkboard, indicating the earthworm's cylindrical shape.\n- **Modifications**: No erasures or modifications are observed; the teacher adds information to the existing content.\n- **Deictic Gestures**: The teacher points to the earthworm diagram on the screen, likely highlighting specific anatomical features as discussed.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses gestures to emphasize the earthworm diagram on the screen.\n- The term \"圆筒形\" is written in white chalk, visually linking it to the earthworm's description.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the educational content.",
+  "visual_narrative": "Initially, the bulletin board displayed the title \"§12.2 环节动物\" and \"蚯蚓,\" establishing the focus on segmented animals, specifically earthworms. The digital screen presented an earthworm diagram with descriptive text, serving as the primary visual anchor. The teacher began by interacting with students, likely addressing questions and providing foundational explanations. He then constructed the concept of the earthworm's anatomy by pointing to the diagram, tracing its cylindrical shape to emphasize its structure. The teacher annotated the chalkboard by writing \"圆筒形,\" directly linking it to the earthworm's characteristics. Throughout the lecture, he derived further details, using gestures to highlight specific features on the screen, such as the earthworm's body segments. Finally, he reinforced key points by circling important terms and features, reducing cognitive load by visually aligning explanations with the diagram. This structured approach ensured a clear and cohesive delivery of knowledge, enhancing student understanding through synchronized visual and verbal cues.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Segmented Animals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[236.74 -> 294.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Earthworm",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[236.74 -> 294.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Cylindrical Shape",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[266.74 -> 294.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Body Segments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[266.74 -> 294.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Anterior Segments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[296.74 -> 352.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Uniform Color",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[296.74 -> 352.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Clitellum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[296.74 -> 352.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Clitellum Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[296.74 -> 352.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Earthworm Diagram",
+        "type": "Visual",
+        "original_text": "An image of an earthworm with labels and descriptions in Chinese.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Title",
+        "type": "Visual",
+        "original_text": "Segmented Animals and Earthworm",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Cylindrical Shape Note",
+        "type": "Visual",
+        "original_text": "The term 'Cylindrical Shape' written in white chalk under the earthworm section.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Specifically categorizes the earthworm as a type of segmented animal."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes one of the defining physical features of the earthworm."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Highlights the primary anatomical structure of an earthworm."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Discusses the specific features of the anterior segments of the earthworm."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Describes the uniform color characteristic of the anterior segments."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Introduces the concept of the clitellum on the anterior segments."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Explains the functional importance of the clitellum."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Provides a visual representation of the earthworm and its anatomy."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Introduces the broader category of animals being discussed."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Highlights the cylindrical shape of the earthworm on the chalkboard."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The presentation and explanation of the earthworm prompt student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,107 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Be able to describe the basic principles of radio wave transmission and reception; use model‑building methods to analyze the transmission process of radio signals; understand how abstract physical concepts can be transformed into visualized knowledge through concretization.",
+  "transcript": "[0.0 -> 133.8] 知识可视化按照我的理解就是将书本上的书面文字知识转向转成学生肉眼中可以看到的具象知识我认为主要有以下几个优点首先高中物理知识多为抽象知识对于抽象思维发展不太完善的同学呢理解这些知识可能不太有利将抽象转为具象有利于学生对知识的理解第二点我将从物理学科核心素养的角度来分析优点首先对于物理观念的建立抽具象的可视化知识可以有利于学生对利于质量观念能量观念等的建立能利于他们对于自然知识自然现象的解释和解决实际问题接下来并且对可视化模型的构建能够让学生有构建模型的意识和能力有利于学生设计探究问题的方案和获取信息的能力最后是科学最后是社科学科学态度与责任将可视化膜将将知识可视化有利于学生联系科学技术以及科学技术社会与环境四者之间的关系有利于学生对于嗯有利于学生对于知识的知识的知识的并且促进他们对环境以及资源可再生的责任感好我的演讲到此结束接下来是我的模拟授课环节。\n[142.02 -> 148.04] 上课同学们大家好这节课我们来讲无线电波的发射和接收。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The text on the slide is in Chinese, reading \"无线电波的发射和接收\" (Transmission and Reception of Radio Waves).\n\n#### 2. **The Title Event**\n- The title \"无线电波的发射和接收\" is prominently displayed on the digital screen. The teacher does not physically write this title but stands next to it, indicating its importance by holding papers and gesturing towards the screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with his hands, likely emphasizing points related to the title on the screen.\n- The teacher occasionally looks at the papers and then back at the students, suggesting he is reading or explaining from the notes.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the title \"无线电波的发射和接收.\"\n- The teacher holds papers and gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to gesture with his hands, emphasizing the content on the screen.\n- He occasionally looks down at the papers, possibly referring to notes or a script.\n\n**End:**\n- The teacher remains standing in front of the screen, maintaining eye contact with the students.\n- The digital screen remains unchanged, keeping the focus on the title throughout the introduction phase.\n\nThis structured visual analysis captures the teacher's actions and their direct link to the visual content, providing a clear narrative of the introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"无线电波的发射和接收\" as the opening visual stimulus, setting the stage for the lesson. To bridge to the topic, the teacher stands beside the screen, holding papers and gesturing towards the title, emphasizing its significance. The visual focus remains on the digital screen throughout, with the teacher occasionally looking down at his notes, suggesting a structured approach to the introduction. Finally, the consistent display of the title on the screen establishes the lesson goal, linking the new knowledge of radio wave transmission and reception to the students' existing understanding of electromagnetic concepts. This visual setup prepares students for a detailed exploration of the topic, ensuring a clear and focused introduction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Radio Wave Transmission",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[142.02 -> 148.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Radio Wave Reception",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[142.02 -> 148.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Visualization of Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Abstract to Concrete",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Physics Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 133.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher holds papers and gestures at screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Digital Slide Title",
+        "type": "Visual",
+        "original_text": "Transmission and Reception of Radio Waves",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Introduction Phase Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The concept of radio wave reception builds upon understanding radio wave transmission."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The visualization of knowledge evolves from transforming abstract concepts into concrete forms."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Physics concepts are included in the visualization of knowledge."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the importance of the title on the digital slide."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The digital slide title visualizes the main topic of the lesson for students' engagement."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Explaining radio wave transmission prompts students to think about the underlying principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

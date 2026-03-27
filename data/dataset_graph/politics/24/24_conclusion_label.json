@@ -1,0 +1,141 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand conjunction propositions and their truth‑value conditions; master methods for determining the truth or falsity of complex propositions.",
+  "transcript": "[515.5 -> 612.54] 好那我们再来看当她的连言命题为真的时候那么她的连言之是真是假呢当他的连言命题为真所以成功需要天赋也需要努力那么他的连言枝应该是什么是真的成功需要努力也需要天赋好那我们再来看一个例子那么前几个前三个这都是连言枝对吧实现中国梦需要天赋我的努力实现中国梦需要你的努力实现中国梦需要他的努力同学们在书上这个书上的一个例子那么最后的连言命题就是实现中国梦需要我你他的共同努力这是这个连言命题是真是假是真的对吧那么当他的连言命题为真的他连言之都是为真的我们来再来看一下再来验证一下我们刚才所得的结论是否正确那么当它的连言之为真它的连言命题是不是是为真的对吧那么当它的一个命题为假那么实现中国梦不需要我的努力那它的连言命题还是真的吗不是的对不是真的那么第三个当它的连言命题为真它的连言连言之是真的很好。\n[613.76 -> 623.14] 那么这就是我们刚才所得出的三个结论那么如果所有的连言之为真连言判断为真。\n[624.54 -> 634.74] 那么如果有一个连言之为假那么连言判断是假的那如果一个连言判断是真的它的连言之就都是真的。\n[637.76 -> 655.04] 那么这是我们本节课的一个小练习得复修学之不讲文之不能懂无善能改等等那么请同学问课后判断并且分析这个命题好我们本节课就到这里下课。\n[667.76 -> 682.54] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen titled \"一節授業の整理と実行\" (Organization and Execution of a Lesson).\n   - The slide contains a list of bullet points and a diagram with text boxes.\n   - The blackboard features a mind map with various branches, including terms like \"目標\" (goal), \"評価\" (evaluation), and \"授業の展開\" (lesson development).\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide:\n     - Title: 一節授業の整理と実行\n     - Bullet points: \n       - 教科書の内容を理解する\n       - 教科書の内容を活用する\n       - 教科書の内容を評価する\n     - Diagram with text boxes:\n       - ① 教科書の内容を理解する\n       - ② 教科書の内容を活用する\n       - ③ 教科書の内容を評価する\n   - Blackboard:\n     - Branches of the mind map: \n       - 目標 (goal)\n       - 評価 (evaluation)\n       - 授業の展開 (lesson development)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the slide, emphasizing the sequence of actions.\n   - She gestures towards the mind map on the blackboard, highlighting the connections between different branches.\n   - The teacher circles and underlines key terms on the blackboard, such as \"目標\" and \"評価,\" to reinforce their importance.\n\n4. **Transition to Next Step**:\n   - The teacher transitions to a new slide titled \"二節授業の整理と実行\" (Organization and Execution of Two Lessons).\n   - The slide contains a detailed text section, indicating further content or next steps.\n   - No explicit homework or assignment details are visible, but the new slide suggests continuation of the topic in the next session.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"一節授業の整理と実行,\" featuring three bullet points and a diagram with text boxes. The teacher points to each bullet point in sequence, emphasizing the steps: understanding, utilizing, and evaluating textbook content. She then gestures towards the mind map on the blackboard, highlighting key branches such as \"目標\" and \"評価.\" To reinforce these concepts, she circles and underlines these terms on the board. The session transitions to a new slide titled \"二節授業の整理と実行,\" indicating a continuation of the topic, though no specific homework details are visible. This visual flow effectively consolidates the lesson's core elements, preparing students for the next steps.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Conjunction Proposition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[515.5 -> 612.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Truth Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[515.5 -> 612.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Successful Outcomes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[515.5 -> 612.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Effort Requirement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[515.5 -> 612.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Dream Realization",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[515.5 -> 612.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Evaluation Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[624.54 -> 634.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Fake Proposition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.54 -> 634.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Organization Slide",
+        "type": "Visual",
+        "original_text": "Organization and Execution of a Lesson",
+        "timestamp": "[515.5 -> 612.54]",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Mind Map Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard mind map with branches: goal, evaluation, lesson development",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[515.5 -> 612.54]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how conjunction propositions are evaluated through truth conditions."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Indicates the successful outcomes of conjunction propositions."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes effort as a requirement for success."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Dream realization requires effort."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Evaluates method for determining fake propositions."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visualizes the lesson's organization with connections between concepts."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Summarizes key points about conjunction propositions on the slide."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Prompts students to think about truth conditions of conjunction propositions."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Successfully achieving dream realization visualized on mind map."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

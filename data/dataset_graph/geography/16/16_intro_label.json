@@ -1,0 +1,210 @@
+{
+  "video_name": "16_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the importance of optimizing geography homework design; analyze how homework design affects students’ geographic thinking abilities.",
+  "transcript": "[0.0 -> 87.2] 谈谈你作为地理教师的看法我将以学为中心评价多元化和形式多样化的作业这三方面展开我的论述首先呢我认为设计优化作业呢要以学为中心要能够设计暴露出学生思维的活动作业让学生在真实复杂情境中将所学知识运用到生活中例如我在讲授风尘地貌之后我会让学生思考是否风沙风机地貌只分布在干旱或者半干旱地区从而引发学生让学生在课后查阅各地的数据资料以及真实情况去思考并分析其形成的本质第二部分我认为要设计多样评价多元化的作业包括过程性表现性和终结性评价把学生的思维结构给暴露出来。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. It features the title \"自然资源与人类活动\" (Natural Resources and Human Activities) and the date \"2024年11月30日\" (November 30, 2024).\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"自然资源与人类活动\" (Natural Resources and Human Activities). The teacher stands in front of the screen, holding papers, and does not physically write or underline the title. The title is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the title or content displayed.\n- The teacher's hand movements are subtle, mainly involving holding and possibly reading from the papers.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title slide.\n- The screen shows \"自然资源与人类活动\" and the date \"2024年11月30日\".\n- The teacher holds papers, indicating the start of the lesson.\n\n**Middle:**\n- The teacher gestures towards the screen, possibly emphasizing the title or date.\n- The classroom setup includes a camera above the screen and speakers on the walls, indicating a recorded or broadcasted session.\n\n**End:**\n- The teacher continues to stand in front of the screen, maintaining focus on the title slide.\n- No additional visual content or changes occur on the screen or board during this segment.\n\n### Summary\nThe introduction phase centers around the title slide \"自然资源与人类活动\" displayed prominently. The teacher uses subtle gestures to engage with the content, primarily focusing on the title and date. No additional visual elements or learning objectives are introduced in this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title slide \"自然资源与人类活动\" and the date \"2024年11月30日.\" The teacher holds papers, indicating the start of the lesson. The initial visual stimulus, the title slide, serves as the hook, drawing attention to the main topic. The teacher subtly gestures towards the screen, emphasizing the title and date, which remain static throughout the segment. The classroom setup, including a camera above the screen and speakers on the walls, suggests a recorded session. The transition from the hook to the main topic is seamless, as the title slide remains the focal point, setting the stage for the lesson. The teacher's actions, primarily involving holding papers and gesturing towards the screen, help establish a connection to the topic, preparing students for the exploration of natural resources and human activities. This introduction links the new knowledge to the students' existing understanding by highlighting the relevance of the topic through visual emphasis, setting the foundation for further learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept_1",
+        "label": "Optimize Homework Design",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_2",
+        "label": "Student-Centric Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_3",
+        "label": "Expose Student Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_4",
+        "label": "Real Complex Situations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_5",
+        "label": "Knowledge Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_6",
+        "label": "Aeolian Landforms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_7",
+        "label": "Arid Regions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_8",
+        "label": "Semi-Arid Regions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_9",
+        "label": "Assessment Diversity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_10",
+        "label": "Process Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_11",
+        "label": "Performance Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "concept_12",
+        "label": "Final Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.2]"
+      },
+      {
+        "id": "visual_1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Natural Resources and Human Activities",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual_2",
+        "label": "Slide Date",
+        "type": "Visual",
+        "original_text": "November 30, 2024",
+        "ocr_corrected": false
+      },
+      {
+        "id": "student_state_1",
+        "label": "Listening and Observing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept_1",
+        "target": "concept_2",
+        "relation": "builds_upon",
+        "intent": "Homework design emphasizes student-centric learning principles."
+      },
+      {
+        "source": "concept_2",
+        "target": "concept_3",
+        "relation": "evolves_from",
+        "intent": "Student-centric learning involves exposing student thinking."
+      },
+      {
+        "source": "concept_3",
+        "target": "concept_4",
+        "relation": "includes",
+        "intent": "Exposing student thinking involves real and complex situations."
+      },
+      {
+        "source": "concept_4",
+        "target": "concept_5",
+        "relation": "builds_upon",
+        "intent": "Real situations encourage the application of knowledge."
+      },
+      {
+        "source": "concept_5",
+        "target": "concept_6",
+        "relation": "includes",
+        "intent": "Knowledge application can involve understanding aeolian landforms."
+      },
+      {
+        "source": "concept_6",
+        "target": "concept_7",
+        "relation": "includes",
+        "intent": "Aeolian landforms are related to their distribution in arid regions."
+      },
+      {
+        "source": "concept_7",
+        "target": "concept_8",
+        "relation": "builds_upon",
+        "intent": "Arid regions extend to semi-arid regions in evaluating geographic phenomena."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_9",
+        "relation": "builds_upon",
+        "intent": "Optimizing homework design requires diverse assessments."
+      },
+      {
+        "source": "concept_9",
+        "target": "concept_10",
+        "relation": "includes",
+        "intent": "Assessment diversity includes process evaluations."
+      },
+      {
+        "source": "concept_10",
+        "target": "concept_11",
+        "relation": "includes",
+        "intent": "Process evaluation is part of performance evaluation criteria."
+      },
+      {
+        "source": "concept_11",
+        "target": "concept_12",
+        "relation": "builds_upon",
+        "intent": "Performance evaluation leads to final evaluation measures."
+      },
+      {
+        "source": "visual_1",
+        "target": "visual_2",
+        "relation": "includes",
+        "intent": "The title slide includes the date as an important contextual element."
+      },
+      {
+        "source": "visual_1",
+        "target": "student_state_1",
+        "relation": "visualizes",
+        "intent": "The title slide helps engage students by focusing attention on the topic."
+      },
+      {
+        "source": "visual_1",
+        "target": "concept_3",
+        "relation": "scaffolds",
+        "intent": "The visual emphasis of the title slide assists in exposing student thinking about the topic."
+      },
+      {
+        "source": "concept_1",
+        "target": "student_state_1",
+        "relation": "prompts_thinking",
+        "intent": "The design of the homework prompts student engagement and thinking about the content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

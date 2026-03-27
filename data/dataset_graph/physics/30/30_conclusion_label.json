@@ -1,0 +1,230 @@
+{
+  "video_name": "30_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic concepts of positive and negative charges; master the differences in properties between conductors and insulators and their physical significance; be able to describe the various ways objects become charged.",
+  "transcript": "[674.5338 -> 734.3] 绝人体不导电对吧它的电荷没有办法自由移动呢我们通常我们的导体其实就是大家所熟知的金属金属它之所以能够来进行我们的实验就是因为它内部有自由电荷它为什么叫做自由啊因为它可以自由地移动还值得注意的是自由电荷我们通常说的是电子它带的是什么电啊负电它带的是负电那么遗留下来的那个金属呢它就带上了以振电同学们非常的讲究物理学的对称之美一振一复可不美哉好那失去自由电子的原子失去自由电子有电子的金属金属有原子构成的我们把它叫做离子那讲到这里呢非常依依不舍我们今天的课程也就告一段落了今天我们主要学习了电荷它的种类分为正电荷和负电荷那我们需要描述电荷量的多少我们用一个物理量叫做电荷量来进行描述电荷量它的单位是库仑我们用大写字母C然后我们又通过一个实验探究定性地描述了我们使物体带电的三种方式有摩擦起点感应起点以及接触起点三种方式好那么今天的物理课堂就讲到这里了感谢各位评委老师和同学的聆听嗯。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the lesson's key points written in white chalk.\n   - The layout includes a title at the top: \"§9.1 电荷\" (§9.1 Charge).\n   - Below the title, there are two main sections:\n     1. \"一、电荷的种类和电荷守恒\" (1. Types of Charges and Charge Conservation)\n     2. \"二、库仑定律公式\" (2. Coulomb's Law Formula)\n   - The right side of the board has a section labeled \"物理课代表(C)\" (Physics Class Representative) with a list of colored indicators for student participation.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings:\n     - \"§9.1 电荷\" (§9.1 Charge)\n     - \"一、电荷的种类和电荷守恒\" (1. Types of Charges and Charge Conservation)\n     - \"二、库仑定律公式\" (2. Coulomb's Law Formula)\n   - Under \"二、库仑定律公式\" (2. Coulomb's Law Formula), there is a formula: $F = k \\frac{q_1 q_2}{r^2}$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the title \"§9.1 电荷\" (§9.1 Charge) to emphasize the lesson's focus.\n   - She circles the formula $F = k \\frac{q_1 q_2}{r^2}$ under \"二、库仑定律公式\" (2. Coulomb's Law Formula) to highlight its importance.\n   - The teacher gestures towards the section \"物理课代表(C)\" (Physics Class Representative) to indicate student engagement and participation.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the board.\n   - The screen displays a slide with the text \"感谢聆听!\" (Thank you for listening!), suggesting the end of the lesson without additional assignments visible.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on \"§9.1 电荷\" (§9.1 Charge). The teacher visually reviews the content by pointing to the title and circling the Coulomb's Law formula, $F = k \\frac{q_1 q_2}{r^2}$, to emphasize its significance. She also gestures towards the \"物理课代表(C)\" (Physics Class Representative) section, highlighting student participation. The screen displays \"感谢聆听!\" (Thank you for listening!), marking the end of the session without additional visual homework instructions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Types of Charges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Charge Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Positive Charge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Negative Charge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Coulomb's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c6",
+        "label": "F = k (q1 q2) / r^2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Conductors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c8",
+        "label": "Insulators",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c9",
+        "label": "Free Charge Movement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c10",
+        "label": "Metal as Conductor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c11",
+        "label": "Charging Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c12",
+        "label": "Friction Charging",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c13",
+        "label": "Induction Charging",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "c14",
+        "label": "Contact Charging",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[674.5338 -> 734.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The main visual carrier of the summary is the blackboard, which contains the lesson's key points written in white chalk with the title '§9.1 Charge', sections on 'Types of Charges and Charge Conservation' and 'Coulomb's Law Formula'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Thank You Slide",
+        "type": "Visual",
+        "original_text": "The screen displays a slide with the text 'Thank you for listening!', marking the end of the session.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Coulomb's Law includes the formula F = k (q1 q2) / r^2."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Types of Charges include Positive Charge."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Types of Charges include Negative Charge."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Free Charge Movement builds upon the principle that metal acts as a conductor."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Charging Methods include Friction Charging."
+      },
+      {
+        "source": "c11",
+        "target": "c13",
+        "relation": "includes",
+        "intent": "Charging Methods include Induction Charging."
+      },
+      {
+        "source": "c11",
+        "target": "c14",
+        "relation": "includes",
+        "intent": "Charging Methods include Contact Charging."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes the concept of Types of Charges."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes the concept of Charge Conservation."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes Coulomb's Law."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Blackboard Summary visualizes the formula of Coulomb's Law."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Insulators build upon the concept of Conductors by contrasting their properties."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of Types of Charges."
+      },
+      {
+        "source": "ss1",
+        "target": "c5",
+        "relation": "engages_with",
+        "intent": "Students are engaged with Coulomb's Law."
+      },
+      {
+        "source": "ss1",
+        "target": "c11",
+        "relation": "engages_with",
+        "intent": "Students are engaged with Charging Methods."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Coulomb's Law builds upon the principle of Charge Conservation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

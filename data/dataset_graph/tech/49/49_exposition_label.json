@@ -1,0 +1,133 @@
+{
+  "video_name": "49_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Master the key elements of effective teaching; learn to use heuristic questioning to promote student understanding; understand the importance of comprehensive assessment in teaching.",
+  "transcript": "[108.52 -> 123.44] 再次是对于教学方法的选择可以通过启发式教学和小组合作探究式学习教师通过一些直观式的教具从而帮助学生更好地理解知识。\n[125.38 -> 154.46] 其次进行教学评价不应该只是进行一些知识性的评价而要进行态度情感等多方面的评价综上我认为有效教学应该从教学内容教学过程教学方法教学评价等多方面进行从而为学生达到更好的教学环境助力于学生的全面发展我的集体演讲到此结束接下来开始我的模拟授课环节。\n[160.3 -> 220.1] 同学们好上课这节课我们来学习八年级上册人教版第五节两栖动物和爬行动物老师给它起了一个独特的名字叫做登陆大作战我们一起来学习一下首先大家请看一段视频在视频中我们看到乌龟既可以在陆地上爬行又可以在水中游泳但是青蛙鼠属于两栖动物但是龟呢在只能在陆地上爬行但是龟为什么属于爬行动物呢让我们今天带着这个问题走进今天的生物课堂请大家阅读一下本节课的学习目标。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a large screen displaying a presentation slide. The slide has a green background with white text in Chinese.\n- The teacher holds papers and gestures while speaking, occasionally looking at the screen.\n- The screen shows a slide titled \"登录入行仪式\" (Login Ceremony) with additional text below.\n\n**Middle:**\n- The teacher moves to the podium, interacting with the computer, possibly advancing the slides.\n- The screen transitions to a new slide titled \"登录大作战\" (Login Battle) with similar design elements.\n- The teacher points to the screen, which now displays an image of a fish in a tank, accompanied by text explaining a concept related to the image.\n\n**End:**\n- The teacher continues to gesture towards the screen, which now shows a block of text explaining a process or instructions.\n- The text on the screen details steps or guidelines, likely related to the image shown earlier.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the presentation screen, which transitions through slides with green backgrounds and white text.\n   - Initial slide: \"登录入行仪式\" with a green wave design.\n   - Subsequent slide: \"登录大作战\" with a similar design.\n   - Final content includes an image of a fish in a tank and explanatory text.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds verbal explanations corresponding to the slide transitions, likely elaborating on the text and image.\n   - **Modifications**: The screen content changes as the teacher advances slides, moving from titles to detailed explanations.\n   - **Deictic Gestures**: The teacher points to specific parts of the screen, such as the fish image and accompanying text, to emphasize key points.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to direct attention to the screen content.\n   - Important concepts are likely highlighted through verbal emphasis and pointing, though no specific visual highlighting (e.g., color changes) is observed on the slides.\n\nThis structured visual evolution shows the teacher guiding the class through a presentation, using slides and gestures to convey information effectively.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"登录入行仪式\" with a green wave design, setting the stage for the lesson. The teacher began by explaining the introductory concepts, using hand gestures to emphasize key points. As the lecture progressed, the teacher advanced the slide to \"登录大作战,\" maintaining the green theme. The teacher pointed to the screen, which now featured an image of a fish in a tank, and constructed an explanation around it, likely relating to a biological or technological concept. The teacher's gestures directed attention to specific parts of the image, tracing details to illustrate the process described. Finally, the screen transitioned to a text-heavy slide, where the teacher annotated the content verbally, breaking down the instructions into understandable segments. Throughout, the teacher's dynamic gestures and slide transitions worked in tandem to reduce cognitive load, ensuring complex information was delivered clearly and methodically. The visual emphasis on key slides and image details helped reinforce the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Login Ceremony Slide",
+        "type": "Visual",
+        "original_text": "The first presentation slide titled 'Login Ceremony' with a green wave design.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Effective Teaching Elements",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[108.52 -> 123.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Heuristic Questioning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[108.52 -> 123.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Comprehensive Assessment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.38 -> 154.46]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "v2",
+        "label": "Login Battle Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Login Battle' with a green theme, featuring a fish in a tank.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Amphibians",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[160.3 -> 220.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Reptiles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[160.3 -> 220.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Turtle Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[160.3 -> 220.1]"
+      },
+      {
+        "id": "v3",
+        "label": "Process Explanation Slide",
+        "type": "Visual",
+        "original_text": "A text-heavy slide explaining steps or guidelines related to the lesson.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The concept of effective teaching includes the use of heuristic questioning."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Effective teaching encompasses comprehensive assessment methodologies."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The login ceremony slide visually represents the introduction to effective teaching elements."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The login battle slide emphasises the concept of amphibians by using imagery."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Reptiles are highlighted as a follow-up concept in the presentation."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Discussion on amphibians transitions to reptiles, using turtle characteristics as an example."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Text-heavy slide scaffolds the understanding of effective teaching elements through detailed explanation."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement is encouraged through effective teaching techniques."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

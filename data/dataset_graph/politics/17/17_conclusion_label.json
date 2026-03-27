@@ -1,0 +1,152 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the importance of integrity awareness and its position within the core socialist values; analyze how integrity principles are manifested and applied in everyday life.",
+  "transcript": "[663.1224 -> 674.88] 几百年前古人言诚信乃逆生之本几百年后金人言爱国敬业诚信友善这是社会主义核心价值观对我们每一位公民所提出的要求那么在今天这堂课的最后呢老师希望我们同学能够始终秉持诚信意识坚持诚信原则用诚信书写属于你们的青春篇章那课后呢也请我们同学继续争当诚信第一先锋去采访你们身边的居民叔叔阿姨爷爷奶奶去了解他们在生活中有时实际遇到什么样的合同问题呢在这其中诚信原则拥有着怎样的重要体现和地位呢下节课让老师来听听你们的分享。\n[676.0 -> 686.16] 同时呢我们也将会从卖票分布中学习言而有信违约有责那么今天的资政课堂就上到这里。\n[688.9 -> 723.1] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a slide with key points in Chinese text.\n   - The slide layout includes a title at the top and two sections of text below, separated by a horizontal line.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: \"子路问：‘信’字成‘一言而行’，进向的字\"\n   - Section 1: \n     - 古人云：“诚信乃立身之本”\n   - Section 2:\n     - 今人云：爱国、敬业、诚信、友善\n     - 子以视之：“信”字成“一言而行”\n     - 一定言而有信，诚的实践\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the screen, likely emphasizing the phrases \"诚信乃立身之本\" and \"爱国、敬业、诚信、友善.\"\n   - The teacher uses hand gestures to highlight the connection between the ancient and modern interpretations of \"信.\"\n\n4. **Transition to Next Step**:\n   - The teacher navigates to the desktop view on the screen, indicating the end of the presentation.\n   - No specific homework or next lesson details are visible on the screen or board at this moment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying key points about the concept of \"信.\" The slide is divided into two sections, with the first highlighting an ancient saying, \"诚信乃立身之本,\" and the second presenting modern values, including \"爱国、敬业、诚信、友善.\" The teacher points to each section in sequence, emphasizing the transition from ancient wisdom to contemporary values. She gestures towards the phrase \"一言而行,\" drawing attention to its significance. The teacher then navigates to the desktop view, signaling the conclusion of the presentation. No specific homework or next steps are visually indicated on the screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Integrity Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Core Socialist Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Ancient Integrity Saying",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Contemporary Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Patriotism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Dedication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Integrity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c8",
+        "label": "Friendliness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "c9",
+        "label": "Promoting Integrity",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[663.12 -> 674.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Key Points",
+        "type": "Visual",
+        "original_text": "The slide contains a title and two sections: an ancient saying 'Integrity is the foundation of life' and modern values 'Patriotism, Dedication, Integrity, Friendliness'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engage",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Integrity awareness is a part of the broader core socialist values."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The contemporary principle of integrity evolves from ancient sayings."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Contemporary values include patriotism."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Contemporary values include dedication."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Contemporary values include integrity."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Contemporary values include friendliness."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Promoting integrity builds upon the established principle of integrity."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually presents the concept of integrity awareness."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide visually represents contemporary values."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged and prompted to think about integrity awareness."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

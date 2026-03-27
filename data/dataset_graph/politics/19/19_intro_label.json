@@ -1,0 +1,133 @@
+{
+  "video_name": "19_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the importance of Red Culture in middle school ideological and political education; analyze specific approaches for integrating Red Culture into ideological and political classes.",
+  "transcript": "[0.0 -> 37.44] 支持明镜与点点栏目各位评委老师好今天我集齐演讲的题目是谈谈红色文化融入中学司政课的途径在中华民族长期的发展历史过程中我们创造了各种各样的红色文化它们使我们中华民族的瑰宝我认为将它融入我们私政课是非常有必要的下面我想就两个方面来谈谈红色文化如何融入中学私政课。\n[38.68 -> 143.12] 第一我认为它应该与实践活动相结合在我们私政课当中实践活动也是相当重要的一个方面我认为我们可以带领学生去到一些红色革命基地让他们切身感受一下这种红色文化的传承只有这样他们才能感受到切身地感受到这是一种什么样的文化正所谓百闻不如一见我认为只有切身的感受才能真正地体会同时呢我自身也做过一个调研就是在我学校的当地学生对于红色文化的了解程度我发现还是只有将私政课红色文化融入实践才能让他们真正地体悟到其中的内涵第二我认为我们将红色文化融入私政课可以运用数字化教学最近AI技术发展得非常迅速我认为我们可以运用好数字化的教学手段让学生们能够更加深切地体会到红色文化融入中学私政课的感悟到红色文化的一些内涵经验而且我们还能够提供给他们一个多样化的案例人物事迹让他们通过这些来了解红色文化这就是我所有的演讲谢谢各位下面开始我的模拟课堂。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. The slide contains text in Chinese, which appears to be the title of the lesson.\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"世界音乐娱乐活动\" (World Music and Entertainment Activities). The teacher is standing beside the screen, likely presenting the title, but there is no visible action like underlining or circling.\n\n#### 3. **The Objectives**\n- The slide shows a list of bullet points, but the specific learning goals are not clearly visible in the provided frames.\n\n#### 4. **Key Gestures**\n- The teacher is seen gesturing with hands, possibly emphasizing points related to the content on the screen. No specific gestures like pointing or holding objects are visible.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a presentation slide displayed on the screen.\n- The slide shows the title \"世界音乐娱乐活动\" prominently.\n- The teacher appears to be introducing the topic, likely using hand gestures to engage the students.\n\n**Middle:**\n- The teacher continues to stand at the podium, maintaining eye contact with the students.\n- The slide remains unchanged, indicating the introduction phase is ongoing.\n- Students are seated, some looking at the teacher, others at their notes.\n\n**End:**\n- The teacher continues to gesture, possibly elaborating on the introduction.\n- The slide remains the same, suggesting the focus is on establishing the lesson's context.\n\n### Summary\nThe introduction phase centers around the slide titled \"世界音乐娱乐活动.\" The teacher uses hand gestures to engage with the content, though specific actions like pointing are not visible. The visual focus remains on the title slide, setting the stage for the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, presenting a slide titled \"世界音乐娱乐活动\" as the opening visual stimulus. The teacher uses hand gestures to engage the students, likely emphasizing key points related to the title. The slide remains static throughout, serving as the primary visual aid. The teacher's actions focus on establishing context, possibly linking the topic to broader themes of music and entertainment. The transition from the hook to the main topic is seamless, as the slide consistently displays the title, setting the stage for the lesson. This approach helps connect the new knowledge to students' existing experiences with global cultural activities, preparing them for deeper exploration of the subject. The visual narrative effectively introduces the topic, grounding the students' attention on the central theme of world music and entertainment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "World Music and Entertainment",
+        "type": "Visual",
+        "original_text": "World Music and Entertainment Activities Slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Red Culture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 37.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Chinese National Treasures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 37.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Integrating Red Culture",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 37.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Practical Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[38.68 -> 143.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Revolutionary Bases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[38.68 -> 143.12]"
+      },
+      {
+        "id": "c6",
+        "label": "AI Technology",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[38.68 -> 143.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Digital Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[38.68 -> 143.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Case Studies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[38.68 -> 143.12]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Red Culture is part of Chinese national treasures."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Integrating Red Culture can be achieved through practical activities."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Practical activities include visiting revolutionary bases."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Digital teaching leverages AI technology."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Digital teaching can include diverse case studies."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The theme of the slide indirectly emphasizes Red Culture."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide serves as a visual anchor for integrating concepts."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in thinking about Red Culture."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

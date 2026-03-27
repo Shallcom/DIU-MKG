@@ -1,0 +1,159 @@
+{
+  "video_name": "21_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and applications of random variables; master the differences and classification of discrete versus continuous random variables; cultivate awareness of mathematical modeling and problem‑solving abilities.",
+  "transcript": "[89.68 -> 115.56] 那么同时老师在授课的过程中也要注意学生是否学会应用在应用过程中该如何抽象出他们的模型要增强学生的应用意识提高学生分析问题和解决问题的能力那我相信如果老师循序渐进学生们一定能够增强数学建模思想好我的演讲到此结束谢谢各位评论老师。\n[119.68 -> 190.26] 下面开始我的模拟授课环节上课同学们好在前面的学习中我们曾经学习过这样的一个问题比如在抛硬币的过程中我们可以将硬币抛硬币出现的随机事件也就是正面朝上以及反面朝上分别用数字来进行表示比如我们可以用一表示将硬币的正面朝上用负一表示硬币的反面朝上这样就用数字也就是一个实数表示出了这个样本空间的样本点那么在这一过程中X就存在着这样的一个变量那么我们就称像这样对于一个样本点我们能够唯一地用一个时数X将其对应出来的这个变量X就叫做随机变量这是我们上一节课所学习过的随机变量的概念。\n[191.28 -> 203.82] 那么在随机变量的概念中我们又进一步认识了比如在这个事件中同学们来思考我们抛一枚硬币出现的结果是怎样的呢它有几种可能。\n[205.86 -> 208.6] 很好这位同学回答得非常正确有两种也就是它的结果是有限个的并且我们可以将其一一列举出来那么像这样的随机事件我们就叫做离散型随机事件而进一步一起来考虑如果一个事件我们不能有限地将其表示出来即它在一个充满的区间内甚至在整个时数中都有它的值那么像这样的随机变量我们就称作连续性随机变量。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide with text in Chinese.\n- The slide contains a table with several columns, including \"问题\" (question), \"答案\" (answer), and \"是否正确\" (correct or not).\n- The teacher gestures towards the screen, indicating the table structure.\n\n**Middle:**\n- The teacher points to specific cells within the table, likely discussing the content of each column.\n- The teacher's hand movements trace the rows, emphasizing the relationship between questions and answers.\n- The screen updates to show additional buttons labeled \"下一题\" (next question) and \"提交答案\" (submit answer), indicating an interactive element.\n\n**End:**\n- The teacher continues to gesture towards the screen, possibly explaining the interactive features.\n- The teacher's hand movements suggest highlighting the \"提交答案\" button, emphasizing its importance.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide with a table structure.\n   - Initial state: The table has columns labeled \"问题,\" \"答案,\" and \"是否正确,\" with empty cells for content.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:** The teacher adds content to the table cells while speaking, likely filling in questions and answers.\n   - **Modifications:** The teacher may adjust the content in the cells to demonstrate corrections or updates.\n   - **Deictic Gestures:** The teacher points to specific cells, such as the \"答案\" column, while explaining the answers.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the \"提交答案\" button, possibly by circling or pointing directly at it.\n   - The interactive buttons are highlighted on the screen, drawing attention to their function.\n\nThis structured visual evolution shows how the teacher uses both static and dynamic elements to convey information, linking gestures to specific parts of the digital content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a table with columns labeled \"问题\" (question), \"答案\" (answer), and \"是否正确\" (correct or not), serving as the primary visual anchor. The teacher began by constructing the foundational structure of the table, explaining each column's purpose. As the lecture progressed, the teacher derived content by filling in specific cells, likely adding questions and corresponding answers. The teacher's gestures actively traced the rows, linking questions to their answers, and emphasized the interactive nature of the table by pointing to the \"提交答案\" (submit answer) button. This dynamic interaction was further highlighted by the appearance of additional buttons, \"下一题\" (next question), which the teacher annotated to demonstrate the flow of the exercise. Throughout the session, the teacher resolved deixis by specifically pointing to the \"答案\" column while elaborating on solutions, ensuring clarity. To reduce cognitive load, the visual elements on the screen were kept simple and organized, with clear labels and interactive prompts. The teacher's emphasis on the \"提交答案\" button, through direct pointing and verbal explanation, aligned with the conclusion, reinforcing the importance of student engagement and feedback. Finally, the teacher circled key elements on the screen, visually marking the critical steps and outcomes, ensuring students grasped the core concepts effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[119.68 -> 190.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Discrete Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[205.86 -> 208.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Continuous Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[205.86 -> 208.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Mathematical Modeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[89.68 -> 115.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Problem Solving Abilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[89.68 -> 115.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Application Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[89.68 -> 115.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Question Column",
+        "type": "Visual",
+        "original_text": "Column labeled 'Question' on digital slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Answer Column",
+        "type": "Visual",
+        "original_text": "Column labeled 'Answer' with correct answers",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Correctness Column",
+        "type": "Visual",
+        "original_text": "Column labeled 'Correct or Not'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Submit Answer Button",
+        "type": "Visual",
+        "original_text": "Button labeled 'Submit Answer'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Next Question Button",
+        "type": "Visual",
+        "original_text": "Button labeled 'Next Question'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explains the concept of a random variable with discrete variability."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Explains the concept of a random variable with continuous variability."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Mathematical modeling enhances problem-solving abilities."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Modeling cultivates application awareness."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Teacher points to 'Answer Column' as part of explanation."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Clarifies correctness of answers."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Students are prompted to submit their answers."
+      },
+      {
+        "source": "c11",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Encourages participation by moving to the next question."
+      },
+      {
+        "source": "c6",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Awareness of application engages students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

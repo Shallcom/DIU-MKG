@@ -1,0 +1,151 @@
+{
+  "video_name": "26_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "- Be able to describe the internal environment and its components.  \n- Understand the flow relationships among interstitial fluid, plasma, and lymph.  \n- Be able to analyze the dynamic equilibrium mechanisms of the internal environment.",
+  "transcript": "[350.66 -> 378.96] 我看到同学们大致都有一点思路了我们请这位同学上台来换一下\n[380.66 -> 468.5] 请坐这位同学画得对吗大家看一看好那我们来看一下具体他们是怎么样的组织液可以流向血浆血浆也可以流向组织液而淋巴液呢组织液会流向淋巴液淋巴液又会返回到血浆那我们想一下这三个它就构成了我们的内环境那内环境是不是就是细胞外液那这个由细胞外液构成的液体化学镜就叫做内环境那大家思考一下它们之间它们三者之间有什么动态的有机联系呢\n[475.9 -> 494.16] 想好了吗请你回答一下",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to a student, indicating that she was seeking a response or participation.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the content on the blackboard and the slide. The blackboard displayed the phrase \"加强互动沟通评价\" and a diagram with arrows labeled \"说\" (speak) and \"倾听\" (listen). The slide showed a diagram with interconnected boxes labeled \"内容\" (content), \"说\" (speak), and \"倾听\" (listen).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher walked towards the blackboard and pointed to the diagram, emphasizing the connections between \"说\" (speak) and \"倾听\" (listen). She also gestured towards the slide, highlighting the \"内容\" (content) box to guide the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing visual encouragement. She then pointed to the diagram on the blackboard, circling the \"倾听\" (listen) part to visually validate the student's input. Additionally, she drew a line connecting \"说\" (speak) and \"倾听\" (listen) to reinforce the relationship between the two concepts.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Points directly to a student to elicit a response.\n\n- **Middle:**\n  - Student responds while the teacher walks to the blackboard.\n  - Teacher points to the diagram on the blackboard, emphasizing the arrows between \"说\" (speak) and \"倾听\" (listen).\n  - Gestures towards the slide, highlighting the \"内容\" (content) box.\n\n- **End:**\n  - Teacher nods and smiles to encourage the student.\n  - Circles the \"倾听\" (listen) part on the blackboard.\n  - Draws a line connecting \"说\" (speak) and \"倾听\" (listen) to reinforce the concept.\n\nThis structured interaction visually linked the teacher's gestures to specific elements on the blackboard and slide, facilitating a clear and engaging co-construction of knowledge.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the phrase \"加强互动沟通评价\" along with a diagram illustrating the relationship between \"说\" (speak) and \"倾听\" (listen). The teacher began by making a sweeping gesture towards the class, inviting students to participate actively in the discussion. She pointed directly to a student, signaling the start of an interactive segment.\n\nAs the student began to explain their reasoning, the teacher walked over to the blackboard and pointed to the diagram, emphasizing the connections between \"说\" (speak) and \"倾听\" (listen). She then gestured towards the slide, highlighting the \"内容\" (content) box to guide the student's explanation. While the student spoke, the teacher nodded and smiled, providing visual encouragement and support.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the \"倾听\" (listen) part on the blackboard. She then drew a line connecting \"说\" (speak) and \"倾听\" (listen) to reinforce the relationship between these concepts. This visual action linked the student's response back to the core lesson content, emphasizing the importance of interactive communication.\n\nFinally, the teacher walked around the classroom, engaging with other students and encouraging them to reflect on the discussion. By actively involving students in the process, she helped them move from passively receiving knowledge to actively constructing their own understanding. The teacher's gestures and visual cues throughout the interaction facilitated a dynamic and engaging learning environment, reinforcing the key concepts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internal Environment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[380.66 -> 468.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Interstitial Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[380.66 -> 468.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Plasma",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[380.66 -> 468.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Lymph",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[380.66 -> 468.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Dynamic Equilibrium",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[380.66 -> 468.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Communication Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing 'speak' and 'listen' interactions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "'Content' Box on Slide",
+        "type": "Visual",
+        "original_text": "Slide with a box labeled 'Content'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[475.9 -> 494.16]"
+      },
+      {
+        "id": "s2",
+        "label": "Class Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[350.66 -> 378.96]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines the components of the internal environment."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Defines the components of the internal environment."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Defines the components of the internal environment."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Illustrates the flow relationship between interstitial fluid and plasma."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Illustrates the flow relationship between interstitial fluid and lymph."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Illustrates the flow relationship between lymph and plasma."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Constructs the understanding of dynamic equilibrium mechanisms in the internal environment."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Represents the interactive dynamic within the internal environment."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Highlights the underlying content related to the lesson goal."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student's response triggers further exploration of concepts."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "engaged_with",
+        "intent": "Class shifts focus to actively engage with the internal environment discussion."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "encourages",
+        "intent": "Student response encourages class engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

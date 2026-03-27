@@ -1,0 +1,121 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the role of body language in English teaching; master methods for using body language to stimulate student participation in class; learn to employ body language to express emotions and enhance the students' classroom experience.",
+  "transcript": "[0.0 -> 57.56] is the most importantwe should always push our studentsat the front stageso the body languageis not mean the stageis our teacher's performancethe body languageis to help our studentsto output their own performanceso that is the first approachand the second approachI think that isthe body languageis really a good way。\n[59.0 -> 60.0] 课程比如说为了激励我们的学生的注意力比如说我会在这里发布新的消息比如说我会在这里讨论在一九二一二二二四我们的中国足球队在厦门中确保了两次继续的胜利这种混合感觉他们会发现这种感觉是很真实的我的身体语言和我的表情表情他们也会感觉到这种感觉并发现这种真实的原来的感觉的这部分第三个是身体语言可以帮助我们表达我们的感觉这种情绪可以帮助我们的学生在我们的课堂上更深入了解课程中的课程这是我所有的表达感谢您的评论所以在语言上我将为您制作今天的课程。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of a rescue worker in a red helmet and gear, amidst rubble. The image is part of a slide titled \"Unit 4 - Natural Disaster.\"\n- **Text on Slide**: \"Reviewing game\" is visible below the title.\n\n#### 2. **The Title Event**\n- **Title on Screen**: \"Unit 4 - Natural Disaster\" is displayed prominently on the screen.\n- **Teacher's Action**: The teacher stands in front of the screen, gesturing towards the title, likely emphasizing the topic.\n\n#### 3. **The Objectives**\n- **Visible Content**: No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- **Hand Movements**: The teacher uses hand gestures to emphasize points, such as holding papers and gesturing towards the screen.\n- **Specific Actions**: The teacher occasionally points to the screen, likely to draw attention to the image and title.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Setup**: The screen displays \"Unit 4 - Natural Disaster\" with an image of a rescue worker. The teacher stands in front of the screen.\n- **Teacher Action**: The teacher gestures towards the screen, possibly introducing the topic of natural disasters.\n\n#### Middle\n- **Teacher Interaction**: The teacher continues to gesture, using hand movements to emphasize the content on the screen.\n- **Visual Focus**: The rescue worker image remains the focal point, reinforcing the theme of disaster response.\n\n#### End\n- **Teacher Engagement**: The teacher maintains eye contact with the audience, using expressive hand gestures to engage students.\n- **Screen Content**: The slide remains unchanged, keeping the focus on the introductory image and title.\n\n### Summary\nThe introduction phase centers around the visual of a rescue worker, linking the theme of natural disasters. The teacher uses gestures to engage with the content on the screen, emphasizing the topic without additional objectives displayed. The consistent focus on the rescue image sets the stage for the lesson.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a screen displaying an image of a rescue worker amidst rubble, serving as the hook to capture attention. The teacher gestures towards this image, emphasizing the theme of natural disasters. The slide prominently features the title \"Unit 4 - Natural Disaster,\" with \"Reviewing game\" noted below, setting the stage for the lesson. Throughout the introduction, the teacher uses expressive hand movements to engage the audience, occasionally pointing to the screen to highlight the rescue image. This visual focus transitions smoothly into the main topic, maintaining a consistent emphasis on disaster response. The teacher's gestures and the static slide create a bridge, linking the dramatic imagery of rescue efforts to the broader concept of natural disasters, preparing students to connect new knowledge with real-world scenarios. This approach primes students for deeper exploration of the topic, grounding the lesson in relatable and impactful visuals.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Body Language",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Student Participation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Express Emotions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Natural Disasters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Rescue Worker Image",
+        "type": "Visual",
+        "original_text": "An image of a rescue worker in a red helmet and gear amidst rubble",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "Unit 4 Title",
+        "type": "Visual",
+        "original_text": "Title 'Unit 4 - Natural Disaster'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Reviewing Game",
+        "type": "Visual",
+        "original_text": "Text 'Reviewing game' below the title on the slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Eye Contact",
+        "type": "Visual",
+        "original_text": "Teacher maintains eye contact with students",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Body language techniques aim to boost student participation."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Body language includes expressing emotions to enhance learning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The rescue worker image represents the concept of natural disasters."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The title highlights the overall theme of the lesson."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Hand gestures help communicate the principles of using body language."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Maintains engagement through direct eye contact."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,106 @@
+{
+  "video_name": "33_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Understand the author's emotional attitude in “Record of Ascending Mount Tai”; identify and analyze the role of verbs and adverbs in the text in conveying emotion.",
+  "transcript": "[688.52 -> 742.1] 我认为可以回忆一下登泰山记这篇文章它有体现出作者的情感态度吗比较少是不是那么作为一篇学者的散文我认为他有没有他的情感态度体现动词和副词好同学们那么对于这个问题大家可以圈画出动词和副词展开思考看一看用词中是否有潜藏着作者的情感态度好本堂课那么本次教学展示到此结束感谢几位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a mind map centered around the topic \"记木叶\" (Wood Leaf Note).\n   - The mind map includes branches labeled \"科控性\" (Controllability), \"拟态\" (Mimicry), \"表记\" (Marking), and \"水元怪\" (Water Element Creature).\n   - The layout is organized with the central topic at the top, branching out to related concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - Central topic: 记木叶 (Wood Leaf Note)\n   - Branches:\n     - 科控性 (Controllability)\n     - 拟态 (Mimicry)\n     - 表记 (Marking)\n     - 水元怪 (Water Element Creature)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the blackboard, holding papers, and appears to review the content by looking at different sections of the mind map.\n   - The teacher gestures towards the blackboard, likely emphasizing the connections between the central topic and the branches.\n\n4. **Transition to Next Step**:\n   - The screen to the right displays text in Chinese, which may indicate further instructions or next steps, but specific details are not clearly visible.\n   - No explicit visual elements like homework assignments or page numbers are discernible in the frames provided.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying a mind map centered on \"记木叶\" (Wood Leaf Note), branching out to key concepts such as \"科控性\" (Controllability), \"拟态\" (Mimicry), \"表记\" (Marking), and \"水元怪\" (Water Element Creature). The teacher stands in front of the board, holding papers, and visually reviews the content by gesturing towards different sections of the mind map. She appears to emphasize the connections between the central topic and its branches, likely reinforcing the relationships among the concepts. The screen to the right shows additional text, possibly indicating further instructions or next steps, though specific details are not clearly visible. No explicit visual elements like homework assignments or page numbers are discernible in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Author's Emotional Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.52 -> 742.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Verbs in Text",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.52 -> 742.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Adverbs in Text",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.52 -> 742.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Wood Leaf Note Mind Map",
+        "type": "Visual",
+        "original_text": "Mind map based on Wood Leaf Note showing key concepts like Controllability and Mimicry",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Conclusion Phase",
+        "type": "Visual",
+        "original_text": "Visual consolidation of knowledge during conclusion on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Next Steps Text",
+        "type": "Visual",
+        "original_text": "Display of next instruction or steps in Chinese",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Thought Process",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The emotional attitude conveyed through the use of verbs in the text."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The emotional attitude conveyed through the use of adverbs in the text."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The mind map visually consolidates the understanding of emotional attitude."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The phase conclusion highlights the key concepts and their interconnections."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The text on the screen prompts students to think about further instructions."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to identify and analyze verbs conveying emotion."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to identify and analyze adverbs conveying emotion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

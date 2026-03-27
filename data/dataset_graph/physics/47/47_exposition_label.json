@@ -1,0 +1,159 @@
+{
+  "video_name": "47_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the conditions under which the Ampère force arises and its influencing factors; master experimental design methods for investigating the effect of magnetic fields on moving charges.",
+  "transcript": "[197.36 -> 271.84] 通过学习安培力的过程我们知道通电导线需要通电才能够产生安培力对不对那如果不通电的情况下呢它还有力吗没有力的作用那根据我们以前的学习经验我们能够知道是否能够产生N培力关键在于什么呀关键在于通电那同学们想一想通电在我们导线的一个微观结构上它表现的是什么呢非常好表现为电色的定向移动那假设老师这里有一条是不是因为通电了之后它里面产生了定向移动的电荷我们才能够观察到安培力的存在呀那是不是因为其中的每一个定向移动的电荷都受到了一个力的作用。\n[274.32 -> 280.84] 像这样都受到一个力的作用从而才表现为了我们的安培力呢。\n[284.8 -> 495.8] 那这个就是我们今天的猜想而如何验证猜想我们需要通过实验的手段那怎么设计实验方案来证实我们刚刚的猜想呢我们需要解决以下两个问题首先定向移动的电荷它能够从哪里来呀我们很庆幸今天我们是站在巨人的肩膀上看世界的现在老师为大家介绍一个我们的实验方案也就是阴极射线管这个阴极射线管在两端接通我们的高压之后它的阴极会发射出电子束那主同学们观察这一幅图片我们在没有通电的时候没有受到磁场作用的时候这个电子束是一条什么线是一条直线非常好那这就解决了我们定向移动的电荷从哪来的问题那第二第二个怎么判断运动电荷是否受到力的作用呢我们可以通过在这个阴极射线管上方放置一个磁场这样子我们就可以观察到这个电子树受到磁场力的作用从而它的运动轨迹发生了什么呀发生了改变发生了一个弯曲对不对所以我们就可以通过这个轨迹的弯曲来判断我们电子树受到磁场力的作用那我们先来看到这一幅图首先磁场方向是怎么样的由N级指向S级好那我们就标记为它的磁场方向是由外向里那此时同学们观察到电子树的轨迹向哪里弯曲向下还是向上弯曲向下弯曲那说明它受到了一个什么力的作用受到了一个向什么方向的力的作用向下非常好也就是说它受到了一个向下的力的作用那电子树的方向电子就是这个电荷的移动方向是从左往右的我们就是把这个方向标记为这样那也就是说电子树确实受到了什么磁场力的作用此时它的运动轨迹才可以弯曲那得到一组实验我们的实验就有偶然性对不对那我们就调转一下我们的这个磁场方向来猜一猜电子书的轨迹又会怎么样发生变化呢我们刚刚知道由N级指向S级磁场指向里面的时候我们的运动轨迹是向下弯曲的那此时我们调转B的方向由外指向里的时候请同学们猜一猜它的运动轨迹会向哪里弯曲呢向上向上的方向呢非常好向上弯曲像这样子向上弯曲那说明这个电子树受到了一个向哪个方向的力呢向上方向的力那电子树的移动方向也还是从左往右那通过以上两个结论我们发现电子树确实会受到磁场力的作用那我们把这个磁场力定义为什么呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"洛伦兹力\" (Lorentz Force). The slide includes a diagram of a charged particle in a magnetic field and two questions in Chinese.\n- The teacher points to the diagram on the screen, emphasizing the direction of the magnetic field and the force acting on the particle.\n- On the blackboard, the teacher writes the phrase \"磁场对运动电荷的作用力\" (Force of a magnetic field on a moving charge).\n\n**Middle:**\n- The teacher draws a horizontal line on the blackboard, representing a magnetic field direction.\n- She adds small circles along the line, symbolizing moving charges, and draws arrows above and below the line to indicate force directions.\n- The teacher gestures towards the diagram on the screen, explaining the relationship between the velocity of the charge and the magnetic field.\n- She writes the variables $v$ (velocity) and $B$ (magnetic field) on the blackboard, linking them to the force equation.\n\n**End:**\n- The teacher transitions to a new slide showing a portrait of Hendrik Lorentz and additional questions about the force on charges and its dependence on velocity.\n- She points to the portrait, explaining Lorentz's contribution to the theory.\n- The teacher adds a final arrow on the blackboard, completing the force diagram, and circles the key variables to highlight their importance.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the blackboard diagram showing a horizontal line with circles representing charges and arrows indicating force directions. The variables $v$ and $B$ are written alongside.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher draws the horizontal line, adds circles for charges, and writes arrows for forces. She introduces the variables $v$ and $B$ while explaining their roles.\n- **Modifications**: The teacher adjusts the arrows to clarify the direction of the force relative to the velocity and magnetic field.\n- **Deictic Gestures**: She points to specific circles and arrows, saying \"this charge\" or \"this force,\" linking her verbal explanations to the visual elements.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses a different color chalk to circle the variables $v$ and $B$, emphasizing their significance in the Lorentz force equation.\n- She underlines the phrase \"磁场对运动电荷的作用力\" on the blackboard to stress the main topic.\n- The teacher gestures towards the final force diagram, summarizing the key points of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"洛伦兹力\" (Lorentz Force), featuring a diagram of a charged particle in a magnetic field and two guiding questions. The teacher began by pointing to the diagram, tracing the trajectory of the particle to illustrate the interaction between the magnetic field and the moving charge. She then moved to the blackboard, where she wrote \"磁场对运动电荷的作用力\" (Force of a magnetic field on a moving charge) and constructed a horizontal line representing the magnetic field direction. Along this line, she strategically placed circles to symbolize moving charges and drew arrows above and below to indicate the force directions, carefully aligning her gestures with the visual elements to clarify the concept.\n\nAs the lecture progressed, the teacher derived the relationship between velocity ($v$) and the magnetic field ($B$), writing these variables on the board and linking them to the force equation. She annotated the diagram by adjusting the arrows to demonstrate how the force direction changes with velocity and field orientation. The teacher's deictic gestures were precise; she traced the path of the charges and pointed to specific arrows, saying \"this force\" to emphasize the directionality explained in the slide's questions.\n\nFinally, she transitioned to a new slide featuring Hendrik Lorentz's portrait and additional questions, using this visual cue to discuss his contributions. The teacher completed the blackboard diagram by adding a final force arrow and circled the key variables $v$ and $B$ in a distinct color, highlighting their critical role in the Lorentz force equation. This visual strategy, combined with the structured layout of the slide and the evolving blackboard diagram, effectively reduced cognitive load by providing a clear, step-by-step visual narrative that reinforced the verbal explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ampère Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[197.36 -> 280.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Magnetic Field",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[197.36 -> 280.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Moving Charges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[197.36 -> 280.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[284.8 -> 495.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Velocity ($v$)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[197.36 -> 280.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Lorentz Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[197.36 -> 280.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Hendrik Lorentz",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[284.8 -> 495.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Cathode Ray Tube Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[284.8 -> 495.8]"
+      },
+      {
+        "id": "v1",
+        "label": "Charged Particle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of a charged particle in a magnetic field with guiding questions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Force Diagram",
+        "type": "Visual",
+        "original_text": "Blackboard diagram with horizontal line, circles for charges, and arrows for force directions.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Hendrik Lorentz Portrait Slide",
+        "type": "Visual",
+        "original_text": "Slide showing a portrait of Hendrik Lorentz with related questions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Ampère force is influenced by the presence of a magnetic field."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Ampère force acts on moving charges."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The Cathode Ray Tube experiment is a method for investigating magnetic effects on moving charges."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Velocity is a critical factor in calculating the Lorentz force."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Lorentz force acts on moving charges."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The slide presents Hendrik Lorentz's contributions visually."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "The diagram emphasizes the concept of Lorentz force."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "The blackboard diagram summarizes the force directions in a magnetic field."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "The blackboard diagram illustrates moving charges."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Students engage in designing experiments to validate concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

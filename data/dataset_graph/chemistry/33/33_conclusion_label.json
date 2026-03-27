@@ -1,0 +1,166 @@
+{
+  "video_name": "33_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Infer reaction products based on experimental observations; apply the law of conservation of mass to analyze the formation of organic compounds.",
+  "transcript": "[625.96 -> 682.7] 我们仔细地观察一下再来回顾一下这个视频在这个集气瓶内部我们发现在光照的作用之下页面发生了什么样的变化页面上升与此同时集气瓶内部出现了什么有状液体还有什么黄绿色气体消失变浅除此之外还有没有现象这个白色的是水雾还是爱很好有同学已经回答出来了是我们的氯化氢气体那根据我们的实验现象请同学们猜测一下我们反应之后的产物应该是什么呀一定有我们的氯化氢气体啊一定有我们的氯化�除此之外我们的油状液体会不会是另外的一种生成物啊。\n[684.04 -> 701.08] 是我们在前面也学习过有机化合物的特点大多数有机物都是不溶于水的对不对因此我们合理推断另外一种产物它很有可能是我们的一种有机物对不对。\n[705.96 -> 755.66] 有我们的氯化氢气体我们如果说根据原子守恒的话另外一种物质应该是什么样的有没有同学能够说出它的化学式一氯甲烷那我们书写一下这就是我们的伊犁甲烷那接下来老师将带着他带着大家一块来分析这一个反应的简单的激励力好本节课教学到片段教学到此结束谢谢大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a structured layout of chemical concepts and equations.\n   - The blackboard is divided into sections with key points and chemical formulas written in white chalk.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard features the heading: \"烷烃的结构与性质\" (Structure and Properties of Alkanes).\n   - Key points include:\n     - \"结构 → 性质\" (Structure → Properties)\n     - \"取代反应\" (Substitution Reaction)\n     - The chemical equation: $\\text{CH}_4 + \\text{Cl}_2 \\xrightarrow{\\text{光照}} \\text{HCl} + \\text{CH}_3\\text{Cl}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation $\\text{CH}_4 + \\text{Cl}_2 \\xrightarrow{\\text{光照}} \\text{HCl} + \\text{CH}_3\\text{Cl}$, emphasizing the reaction conditions and products.\n   - The teacher gestures towards the phrase \"取代反应\" (Substitution Reaction), highlighting its importance in the lesson.\n   - The teacher uses a yellow fan to draw attention to the blackboard, possibly indicating the conclusion of the lesson.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen displays a slide with text in Chinese, but no specific instructions for next steps are visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key concepts and a chemical equation summarizing the lesson on alkanes. The teacher visually reviews the content by pointing to the chemical equation $\\text{CH}_4 + \\text{Cl}_2 \\xrightarrow{\\text{光照}} \\text{HCl} + \\text{CH}_3\\text{Cl}$, emphasizing the reaction process and conditions. He then gestures towards the phrase \"取代反应\" (Substitution Reaction), reinforcing its significance. To mark the core takeaway, the teacher uses a yellow fan to draw attention to the blackboard, signaling the conclusion of the lesson. No visual homework or next-step instructions are displayed, focusing solely on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Blackboard Division",
+        "type": "Visual",
+        "original_text": "Blackboard divided into sections with chemical concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemical Equation",
+        "type": "Visual",
+        "original_text": "$\\text{CH}_4 + \\text{Cl}_2 \\xrightarrow{\\text{light}} \\text{HCl} + \\text{CH}_3\\text{Cl}$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Yellow Fan Gesture",
+        "type": "Visual",
+        "original_text": "Teacher uses yellow fan to draw attention.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Alkanes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[625.96 -> 682.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[625.96 -> 682.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[625.96 -> 682.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Substitution Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[625.96 -> 682.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Light Condition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[625.96 -> 682.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Hydrogen Chloride",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[625.96 -> 682.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Organic Compound Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[684.04 -> 701.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Conservation of Mass",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.96 -> 755.66]"
+      },
+      {
+        "id": "c9",
+        "label": "Methyl Chloride",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.96 -> 755.66]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Guessing",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes the relationship between alkane structure and its properties."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Structure leads to understanding properties."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Substitution reaction as an example of alkane chemistry."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Illustrated by chemical equation."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Light condition necessary for reaction."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Product of the chemical reaction."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gesture to highlight importance."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Organic compound formation relies on conservation of mass."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Methyl chloride is a product."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to guess reaction product."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

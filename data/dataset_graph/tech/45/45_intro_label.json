@@ -1,0 +1,135 @@
+{
+  "video_name": "45_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Clarify the basic principles of teaching methods and their importance; understand the application contexts and value of different teaching methods; be able to choose appropriate teaching methods according to actual circumstances.",
+  "transcript": "[0.0 -> 161.08] 理念的深刻理解那么首先我接下来将从三个方面谈一谈我对这句话的理解第一教学有法是指教学有一定的规律可循的方式和方法那么比如我在讲授中学化学实验当中一般会讲实验的目的然后讲原理然后再讲步骤和注意事项再让学生进行实验这样就能够让学生有条不紊进行我们的实验操作那么也保证了我们的课堂合理有效的进行第二教无定法我的理解是是认为教学方法不能够物化和僵化那么比如说我在讲理论上方理论上的化学知识比如说讲质量守恒的时候我可能会先从理论推导然后进行结论再比如说在讲解酸碱综合反应的实验中我可能会比较着重于实验探究式的教学最后呢是贵在德法我的理解是贵在德法是指教学要选择好的教学方式有两个点我想谈一下第一个可能针对不同的同学我们要以有不同的教学方式因材施教第二比如说针对不同的教学内容选择不同的教学方法比如说也是酸碱综合假如学生对实验非常感兴趣的话我会先从酸碱综合里面先提问说酸和碱加在一起会有怎样的实验现象呢进而推导学生猜想然后进行实验最后得出酸碱综合反应的实验那么以上就是我的所有讲演内容这也是我从事化学教育学事业的毕生追求。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"溶液的形成\" (Formation of Solutions).\n\n#### 2. **The Title Event**\n- The title \"溶液的形成\" is displayed on the screen. The teacher stands in front of the screen, holding papers, and appears to be introducing the topic. There is no indication of underlining or additional emphasis on the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points in the introduction.\n- The teacher's hand movements are minimal, primarily involving holding and shifting the papers.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"溶液的形成.\"\n- The blackboard is mostly blank with some faint writing on the left side.\n\n**Middle:**\n- The teacher continues to stand in front of the screen, occasionally looking at the papers and then back at the class.\n- No significant changes occur on the screen or blackboard during this phase.\n\n**End:**\n- The teacher maintains a similar position, with no additional visual content added to the board or screen.\n- The focus remains on the title slide, with the teacher likely providing an overview or introduction to the topic.\n\n### Summary\nThe introduction phase centers around the title \"溶液的形成\" displayed on the screen. The teacher uses minimal gestures, primarily involving holding papers, to engage with the class. No additional visual content or learning objectives are introduced during this segment. The focus is on setting up the topic for further discussion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"溶液的形成\" (Formation of Solutions), serving as the initial visual hook. The teacher holds papers, likely notes or a lesson plan, and maintains a position that directs attention to the screen. The blackboard remains mostly blank, with faint writing visible on the left side, suggesting prior content or notes. Throughout the introduction, the teacher engages with the class by occasionally glancing at the papers and then back at the students, using minimal gestures to emphasize points. The visual focus remains on the title slide, with no transition to additional content or objectives. This setup establishes the topic for the lesson, creating a clear entry point for students to connect with the concept of solution formation. The introduction serves as a bridge, preparing students to delve into the specifics of solutions by highlighting the main topic prominently on the screen, thus linking the new knowledge to their existing understanding of chemical processes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Formation of Solutions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Teaching Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Chemistry Experiment Goals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemistry Experiment Principles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemistry Experiment Steps",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Quality Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Acid-Base Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Mass Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c9",
+        "label": "Experimental Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "c10",
+        "label": "Student Interest in Experiments",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 161.08]"
+      },
+      {
+        "id": "v1",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "Formation of Solutions Slide",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of formation of solutions is introduced visually via the slide."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Teaching methods include the principle of quality teaching approaches."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Chemistry experiment goals encompass experimental steps."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Chemistry experiment principles build upon the concept of mass conservation."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Acid-base reactions build upon experimental inquiry."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Student interest in experiments prompts deeper thinking on acid-base reactions."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The visual slide summarizes the concept of formation of solutions as the lesson's focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

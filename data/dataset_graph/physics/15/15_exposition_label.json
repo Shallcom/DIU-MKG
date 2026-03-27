@@ -1,0 +1,148 @@
+{
+  "video_name": "15_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the definition of amplitude and its role in vibration; be able to analyze the relationship between period and omega.",
+  "transcript": "[227.46 -> 240.6] 在学习这节课之前我相信大家对描述物体的运动还不是很理解那么我们联系一下之前所学的机械运动我们看如何描述的物理量有哪些呢。\n[242.54 -> 252.62] 这位同学你来回答一下位移对位移时间时间速度速度好非常棒请坐还有同学能补充一下吗。\n[254.5 -> 265.58] 其实还有加速度运动学方程那么这节课我们就来讲一下描述减弦运动怎么来描述。\n[284.5 -> 293.8] 首先我们要了解的一个物理量它叫做振幅。\n[294.84 -> 311.5] 我们知道正弦函数它的图像是这个样子实线是一条正弦函数的图像虚线也是一条正弦函数的图像我们知道通过数学我们知道正弦函数它有一个最大值最大值是多少呀。\n[312.5 -> 340.4] 对它的绝对值的大小是小于等于一的那么在减胁运动中因为前面还有一个A所以A是物体离开平衡位置的最大距离这个最大距离我们就给它定义为叫振幅这就是振幅的定义振幅是表示振动幅度大小的物理量通常用字母A来表示。\n[342.5 -> 375.18] 那么接下来我们再看一个屋里的它叫做周期和振动频率还是弹簧镇子的振动我们把球放在这里用手拉动它到这个M的位置松开手那我们再看一个屋里的周期和振动频率还是弹簧镇子的振动我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置松开手那我们把球放在这里用手拉动它到这个M的位置那弹簧小球会在哪里运动呀。\n[376.96 -> 413.14] 对是在M到M片之间运动那小球的运动是不是经历了从O点到M点又回到O点又到M片又回到了O点那这一个过程我们把它叫做全振动的过程完成一次全振动的时间我们就把它定义为叫周期我们知道频率是周期的倒数所以我们频率可以写为几分之一。\n[425.5 -> 474.6] 那大家看这个表达式谁能告诉我频率有什么物理意义吗这位同学你来回答一下没有关系知道了你看它这个一我们可以把它叫做单位时间一个单位时间然后对非常棒请做一我们就可以看成一个单位时间T是完成一次全振动所用的时间那么时间除以一次完成全振动的时间那是不是就是完成全振动的次数这就是频率的意义。\n[476.02 -> 483.9] 接下来老师来给大家推导一下周期和欧米伽之间的关系。\n[485.08 -> 488.66] 我们来看欧米伽和周期T会有怎样的关系呢。\n[489.74 -> 517.24] 大家来进行一下我们知道正弦函数它是一个周期性的函数它的周期是多少呀二拍那么我们如果加上二拍是不是这个函数的大小是不变的呀那让我们来在草包纸上验算一下这个式子我们可以推出来奥米伽和T有什么关系呢。\n[519.74 -> 524.470433] 通过推导我们发现欧米伽是等于二π除以T的我们还知道T是等于F分之一那么T就等于F分之一把它代入关系式我们就可以得出来欧米伽与频率的关系欧米伽就等于二πF接下来啊让我们进行一个小实验测量小球震动的周期下面我请一位同学和我一起来完成这个实验周同学你来首先这是你看这是一个弹簧你上端拿住它然后自然悬挂的小球在这里你把它下挖一个一段距离松手然后自然悬挖的小球在这里你把它下挖一个一段距离松手它是不是小球就会在这两个中间进行振动非常棒请回那我想请问同学们在振动假如这个小球振动发生了全振动的次数是四次我们用秒表来记录整个实验的过程那整个实验过程的时间除以全振动运动的周期次数我们就可以得到一一次拳震动所用的时间我们就可以测出小球震动的周期通过实验我们可以发现弹簧震子的震动周期是与振幅没有关系的不只是在这个运动过程中很多运动过程中它的周期都是与振幅没有关系的。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with Chinese text in blue and yellow bubbles. The blackboard shows the equation $x = A\\sin(\\omega t + \\phi)$.\n- The teacher gestures towards the screen, likely discussing the content related to mechanical vibrations and physical quantities.\n- The teacher writes \"简谐运动描述\" (Simple Harmonic Motion Description) on the blackboard, indicating the topic of discussion.\n\n**Middle:**\n- The screen transitions to a graph labeled \"振幅\" (Amplitude) with a sine wave diagram. The teacher points to the graph, explaining the concept of amplitude.\n- The teacher writes \"1. $x = A\\sin(\\omega t + \\phi)$\" on the blackboard, reinforcing the equation displayed on the screen.\n- The screen changes to show a diagram of a spring-mass system with labels in blue and yellow. The teacher points to the diagram, explaining the components and their roles in simple harmonic motion.\n\n**End:**\n- The teacher writes \"2. 振幅 (A)\" and \"3. 周期 (T)\" on the blackboard, followed by the relationship \"频率 = $\\frac{1}{T}$\".\n- The teacher continues to gesture towards the screen, emphasizing the points about amplitude and period in the context of the spring-mass system.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying diagrams and text related to simple harmonic motion. Initially, it shows a sine wave graph with amplitude annotations, then transitions to a spring-mass system diagram.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the equation $x = A\\sin(\\omega t + \\phi)$, followed by \"振幅 (A)\" and \"周期 (T)\" on the blackboard. The relationship \"频率 = $\\frac{1}{T}$\" is added to explain frequency.\n- **Modifications**: The teacher updates the blackboard content as the lesson progresses, adding new terms and equations to build on the initial equation.\n- **Deictic Gestures**: The teacher points to specific parts of the diagrams on the screen, such as the amplitude on the sine wave and components of the spring-mass system, while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses underlining and spacing on the blackboard to separate and emphasize key terms like \"振幅\" and \"周期\".\n- Gestures towards the screen highlight important elements of the diagrams, such as the amplitude in the sine wave and the spring in the mechanical system.\n- The use of color-coded text on the screen (blue and yellow) helps differentiate between concepts and annotations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide with Chinese text in blue and yellow bubbles, introducing concepts related to mechanical vibrations. The blackboard prominently featured the equation $x = A\\sin(\\omega t + \\phi)$. The teacher began by writing \"简谐运动描述\" (Simple Harmonic Motion Description) on the blackboard, establishing the lesson's focus.\n\nThe teacher then constructed a sine wave graph on the screen, labeled \"振幅\" (Amplitude), and traced the rising and falling slopes to illustrate the oscillatory nature of simple harmonic motion. Simultaneously, the teacher annotated the blackboard with \"1. $x = A\\sin(\\omega t + \\phi)$\", reinforcing the mathematical foundation.\n\nAs the lesson progressed, the screen transitioned to a spring-mass system diagram. The teacher pointed to the spring and mass, explaining their roles in the system. On the blackboard, the teacher derived additional concepts, writing \"2. 振幅 (A)\" and \"3. 周期 (T)\", followed by the relationship \"频率 = $\\frac{1}{T}$\". The teacher emphasized these points by underlining them and spacing them clearly on the board.\n\nThroughout the lecture, the teacher resolved deixis by tracing specific elements on the diagrams, such as the amplitude on the sine wave and the spring in the mechanical system. Visual highlighting on the screen, using color-coded text, complemented the teacher's gestures, reducing cognitive load by aligning visual and verbal cues. The teacher circled key formulas and terms in red on the blackboard, ensuring students focused on critical concepts. Finally, the teacher summarized the core ideas, linking the visual models on the screen with the equations on the board, creating a cohesive understanding of simple harmonic motion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Amplitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[284.5 -> 311.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Simple Harmonic Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[254.5 -> 265.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Period",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[376.96 -> 413.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Frequency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[376.96 -> 413.14]"
+      },
+      {
+        "id": "c5",
+        "label": "$x = A\\sin(\\omega t + \\phi)$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[227.46 -> 240.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Spring-Mass System",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[342.5 -> 375.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Omega",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[485.08 -> 517.24]"
+      },
+      {
+        "id": "c8",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[254.5 -> 265.58]"
+      },
+      {
+        "id": "c9",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[242.54 -> 252.62]"
+      },
+      {
+        "id": "s1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "v1",
+        "label": "Sine Wave Graph",
+        "type": "Visual",
+        "original_text": "Sine wave graph labeled 'Amplitude'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Spring-Mass Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of spring-mass system with labeled components",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "Equation $x = A\\sin(\\omega t + \\phi)$ written on blackboard",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher visualizes amplitude using a sine wave graph."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher visualizes spring-mass system using a diagram."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Equation related to simple harmonic motion shown on blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Period is related to frequency through reciprocal relationship."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Omega is derived from the relationship with period."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Amplitude is a component in the equation of simple harmonic motion."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to think about displacement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,166 @@
+{
+  "video_name": "42_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Be able to explain the basic principles of photosynthesis and its applications in agriculture; learn to analyze the impact of photosynthesis on agricultural production using experimental results; be able to transfer theoretical knowledge of photosynthesis to real‑world production contexts.",
+  "transcript": "[581.18 -> 590.18] 那老师想又想问大家了在知道了光合作用的原理之后你们有没有什么应用呢。\n[591.44 -> 597.72] 同学们可以结合你们的教材再看一看。\n[599.38 -> 682.62] 掌握一个知识点在首先了解它的原理之后他如何应用请你们结合教材看一看有困惑吗可以再仔细看一看如果你们有困惑可以和你的同桌之间讨论一下老师给个提示光合作用其实它最大的利用点在于农业上那农业上我们应该怎样来使用它呢可以结合这两个实验他能够更新空气对不对来你有想法吗成是绿化还有一个就是农业的生产性农业生产那你能不能在农业生产上举一个举具体的例子呢比方说做玉米它不能过锡也不能过密对不对那过锡和过密都会导致农业减产所以我们要学会合理秘制非常好请坐。\n[683.62 -> 705.74] 同学们在学习了它的原理之后也能够掌握它的利用才是我们生物学学习最应该掌握的知识好今天的课就上到这里希望同学们课后再去查阅资料看看还有没有其他的应用好同学们下课我的模拟授课到此结束感谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the digital screen.\n   - The chalkboard contains a chemical equation written in white chalk: \n     \\[\n     \\text{CO}_2 + \\text{H}_2\\text{O} \\xrightarrow{\\text{叶绿体}} \\text{有机物} + \\text{O}_2\n     \\]\n   - The digital screen displays a diagram of a leaf with annotations in Chinese, illustrating the process of photosynthesis.\n\n2. **Key Knowledge Items (Content View)**:\n   - Chalkboard:\n     - Chemical equation: $\\text{CO}_2 + \\text{H}_2\\text{O} \\xrightarrow{\\text{叶绿体}} \\text{有机物} + \\text{O}_2$\n   - Digital Screen:\n     - Diagram of a leaf with labels indicating parts involved in photosynthesis.\n     - Text headings: \"1. 原料, 光能\" and \"2. 光合作用\".\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the chalkboard, emphasizing the reactants and products.\n   - The teacher gestures towards the digital screen, likely highlighting the leaf diagram and its annotations.\n   - The teacher uses hand movements to connect the chalkboard content with the screen content, reinforcing the relationship between the equation and the photosynthesis process.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided.\n   - The focus remains on summarizing the lesson content through the chalkboard and screen visuals.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a chalkboard displaying a chemical equation and a digital screen showing a leaf diagram. The teacher visually wraps up the lesson by pointing to the chemical equation on the chalkboard, emphasizing the transformation of $\\text{CO}_2$ and $\\text{H}_2\\text{O}$ into organic matter and $\\text{O}_2$. She then gestures towards the digital screen, highlighting the leaf diagram and its annotations related to photosynthesis. The teacher uses hand movements to connect the equation with the diagram, reinforcing the process. No specific visual elements indicate homework or next steps, focusing solely on consolidating the lesson's core concepts through these visual aids.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Photosynthesis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[581.18 -> 705.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Carbon Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.18 -> 705.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.18 -> 705.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Chloroplast",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.18 -> 705.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Organic Matter",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.18 -> 705.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Oxygen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.18 -> 705.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Agro-Production",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.44 -> 597.72]"
+      },
+      {
+        "id": "c8",
+        "label": "Light Energy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.44 -> 597.72]"
+      },
+      {
+        "id": "c9",
+        "label": "Corn Spacing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[599.38 -> 682.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard Equation",
+        "type": "Visual",
+        "original_text": "CO2 + H2O converted by Chloroplast to Organic Matter + O2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Leaf Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing photosynthesis process",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Considering Applications",
+        "type": "Student_State",
+        "cognitive_state": "Questioning",
+        "timestamp": "[581.18 -> 705.74]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The chemical equation on the chalkboard illustrates the photosynthesis principle."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Includes Carbon Dioxide as reactant in photosynthesis."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Includes Water as reactant in photosynthesis."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Indicates Chloroplast as a facilitator of photosynthesis."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Indicates Organic Matter as product of photosynthesis."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Indicates Oxygen as product of photosynthesis."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The leaf diagram on the screen illustrates the photosynthesis principle."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Agro-Production utilizes the principle of photosynthesis."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Corn spacing is a procedure influenced by agro-production principles."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Light Energy is integral to the photosynthesis process."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students consider the application of photosynthesis in agriculture."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

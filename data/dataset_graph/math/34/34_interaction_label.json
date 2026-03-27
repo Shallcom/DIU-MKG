@@ -1,0 +1,178 @@
+{
+  "video_name": "34_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the basic concepts of sequences and their forms of expression; understand the definition of a sequence as a function and how it is represented graphically.",
+  "transcript": "[464.04 -> 470.62] 按照它无穷排列的话我们就称它为一个无穷数列那么第一项的话那么第一项我们就称为它为首项。\n[478.64 -> 519.0] 我们再来看一下数列的表现形式是什么样的这就是数列的表达形式我们记地A一其实就是我们刚刚说到的一个手下那么一四排列我们简记为括号然后加写上AN这就是数列的表达形式。\n[537.64 -> 600.18] 我们可以看到根据我们可以观察到由于数列AN中的每一项AN与它的序号N有以下的对立关系序号一对应的就是第一项A一也是我们所说的首项二对应的是第二项A二三对应的是A三那么有这我们可以看到序列AN它是从正整数集到实数集R的一个函数其字变样的序号为N那么对应的函数值是序列DNAM的G为AM等于FN。\n[601.56 -> 603.98] 我们可以把它表示成这样的一列数。\n[606.36 -> 652.578533] 根据这个我们可以看到像数列它可以用函数表示那么数列它也可以利用函数的一个表格和图像来表示回到我们刚刚第一个例子小方一到十七岁的身高把它列成表格我们会得到这样子的一个表格那么根据表格我们来进行表点我们会得到这样的一个图像那么根据这个图像能发现它们之间的一个关系吗它的趋势是一个怎样的趋势呢同学们仔细观察一下是往上的还是往下的用数学的语言怎么表达呢我们来请这个男生说一下是一个单调递增的一个序列回答非常好请坐它就是一个递增的序列那么根据单调性我们又可以得到序列的第三种分类。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the interactive whiteboard, directing students' attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the practice problem displayed on the interactive whiteboard. The slide showed a sequence of numbers and a graph, prompting students to analyze the pattern and predict the next term.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher held a pointer and gestured towards the graph on the whiteboard, emphasizing key points. She also occasionally pointed to specific numbers in the sequence, guiding the student's thought process without interrupting.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student provided an answer, the teacher nodded and smiled, indicating approval. She then used the pointer to circle the correct term in the sequence on the whiteboard, visually confirming the student's response. Additionally, she drew a small arrow on the graph to highlight the trend, reinforcing the correct understanding.\n\n**Narrative Evolution:**\n\n- **Beginning:** The teacher wrote \"回顾数列的表示形式\" (Review the representation of sequences) on the blackboard, linking it to the slide content which displayed the general form of a sequence: $a_1, a_2, \\ldots, a_n, \\ldots$.\n  \n- **Middle:** The teacher transitioned to a slide showing a sequence of numbers and a graph. She used hand gestures to emphasize the pattern in the sequence and the corresponding points on the graph. The teacher's gestures directed students to observe the relationship between the sequence terms and their graphical representation.\n\n- **End:** The teacher invited student participation by pointing to the graph and asking for predictions. She scaffolded the interaction by pointing to specific elements on the graph and sequence, guiding the student to articulate the pattern. Upon receiving the correct answer, she visually confirmed by circling the term and drawing an arrow, ensuring the student's understanding was validated.\n\nThis structured visual interaction ensured that students actively engaged with the content, supported by the teacher's deliberate gestures and real-time visual feedback.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a sequence of numbers and a corresponding graph, prompting students to analyze the pattern and predict the next term. The teacher began by making a sweeping gesture towards the class, inviting participation, and then pointed directly to the sequence on the interactive whiteboard, signaling the start of the interactive segment.\n\nAs the student began to explain their reasoning, the teacher walked over to the board and used a pointer to highlight specific terms in the sequence, guiding the student's thought process. She gestured towards the graph, emphasizing the relationship between the sequence terms and their graphical representation. Her movements were deliberate, ensuring the student's explanation was aligned with the visual content.\n\nTo validate the answer, the teacher gave a distinct nod and circled the final number on the screen. She then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, reinforcing the core lesson content. This visual confirmation not only validated the student's response but also linked it to the overarching concept of sequence representation.\n\nThroughout the interaction, the teacher's gestures transformed passive observation into active engagement. By visually connecting the student's response to the lesson's key elements, she facilitated a deeper understanding, encouraging students to construct their own knowledge through guided exploration and real-time feedback. This dynamic process evolved from initial presentation to active participation, culminating in a reinforced understanding of sequence patterns and their graphical interpretation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sequence Representation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[478.64 -> 519.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Infinite Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[464.04 -> 470.62]"
+      },
+      {
+        "id": "c3",
+        "label": "First Term",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[464.04 -> 470.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Sequence Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[537.64 -> 600.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Positive Integer Set",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[537.64 -> 600.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Real Number Set",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[537.64 -> 600.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Monotonic Increasing Sequence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[606.36 -> 652.578533]"
+      },
+      {
+        "id": "c8",
+        "label": "Graphical Representation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[606.36 -> 652.578533]"
+      },
+      {
+        "id": "c9",
+        "label": "Sequence Table",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[606.36 -> 652.578533]"
+      },
+      {
+        "id": "v1",
+        "label": "Sequence and Graph Slide",
+        "type": "Visual",
+        "original_text": "Slide showing a sequence of numbers and a graph.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Highlighted Graph Points",
+        "type": "Visual",
+        "original_text": "Teacher highlights points on the graph.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Circled Correct Term",
+        "type": "Visual",
+        "original_text": "Teacher circles the correct term in the sequence.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Prediction",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sequence representation includes the concept of an infinite sequence."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "An infinite sequence includes the first term as a fundamental component."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Sequence function builds upon the positive integer set."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Sequence function builds upon the real number set."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Monotonic increasing sequence evolves from graphical representation."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Graphical representation builds upon the sequence table."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the concept of sequence representation."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlighted graph points emphasize the sequence function."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Circled correct term visualizes the first term in the sequence."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Student prediction builds upon understanding of monotonic increasing sequence."
+      },
+      {
+        "source": "s2",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Student engagement is directed towards the sequence and graph slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

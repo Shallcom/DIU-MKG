@@ -1,0 +1,126 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Recognize the concept of acceleration and its physical significance; understand the definition and calculation methods of instantaneous acceleration; analyze the direction of acceleration and its vector properties.",
+  "transcript": "[585.16 -> 610.0] 好那我们刚刚已经有同学提到了可以用单位的位移比单位的时间好那现在呢我们也就试着用这样一个单位的一个速度的变化量比上我们单位的时间也就是来反映我们这样一个速度变化量的快慢而在物理学中我们就把这样一个反映速度变化量快慢的物理量称为加速度。\n[615.16 -> 745.04] 好那我们知道速度是有顺时速度和平均速度啊那加速度呢你们觉得会有顺时和平均这样一个加速度在吗啊是不是可能也会有啊啊我们来看一下啊我们先回忆一下之前我们得出这样一个顺时速度的这样一个过程我们之前是不是用打点计时器啊得到一个小车也斜面下滑的这样一个运动轨迹累计的一系列的这样一个打点对不对我们知道比如说我们要求这样的欧点的速度对不对我们说用平均速度是不是比如说可以是这样的B到E的这段距离以上这样的时间对不对是吧但是这段是不是它的它的这样的拉克时间比较大对不对不能很好地去具体地反映出我们这样的欧点那一刻的这样的速度但是通过我们一步步把这样的就是拉近仅占一个C和B和E的位置比如说来到我们家的C和D或者再把时间继续缩小缩小缩小是不是周围的两个点越来越靠近我们的O点呀当时间很小很小特别特别小的时候那么在那一刹那我们就可以发现此时那段很小的时间内的一段位移比上时间它就几乎是可以看成我们家的O点的瞬时速度对不对那从这种角度我们再去看我们的我们这样一个加速度是不是也可以这样子得到我们这样一个顺时加速度的一个概念对不对啊顺时加速度就是对比这样一个速度好那现在呢我们再继续深入一步我们知道速度它是尺量对不对那么尺量它是有大小和方向那么加速度你们觉得它既然已经有那它会有方向吗你们觉得会有吗我们是不是可以再一步地类别既然速度能有我们加速度是不是也很可能有啊。\n[759.16 -> 772.14] 好那接下来呢我们就来好好的思考一下这样一个加速度方向的问题啊啊好那么接下来啊我们就开始探究好我的模拟授课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a structured layout of key points related to acceleration.\n   - The blackboard is divided into sections with headings and bullet points, alongside a digital slide on the screen.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - Heading: 加速度 (Acceleration)\n     - Key points:\n       - 速度の変化量÷時間 (Change in velocity ÷ time)\n       - 単位: 1秒あたりの速度の変化量 (Unit: Change in velocity per second)\n       - 公式: $a = \\frac{\\Delta v}{\\Delta t}$\n       - 進度変化量÷時間 (Change in progress ÷ time)\n       - 進度変化量→ (Change in progress →)\n   - **Digital Slide**:\n     - Title: 速度の変化量÷時間＝加速度 (Change in velocity ÷ time = acceleration)\n     - Text: 速度の変化量を時間で割った値が加速度 (The value of change in velocity divided by time is acceleration)\n     - Formula: $a = \\frac{\\Delta v}{\\Delta t}$\n     - Additional text: 進度変化量 (Change in progress)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $a = \\frac{\\Delta v}{\\Delta t}$ on the blackboard, emphasizing its significance.\n   - The teacher gestures towards the digital slide, highlighting the phrase \"速度の変化量を時間で割った値が加速度\" (The value of change in velocity divided by time is acceleration).\n   - The teacher circles the key points on the blackboard, such as \"速度の変化量÷時間\" (Change in velocity ÷ time) and \"進度変化量÷時間\" (Change in progress ÷ time), to reinforce their importance.\n\n4. **Transition to Next Step**:\n   - The digital slide includes a question: \"どのように計算するか覚えておく?\" (Remember how to calculate it?), suggesting a focus on memorization and application for future tasks.\n   - No explicit homework or assignment slide is visible, but the emphasis on calculation hints at potential practice exercises for the next lesson.",
+  "visual_narrative": "The lesson concludes with a structured blackboard and digital slide centered on the concept of acceleration. The teacher visually reviews the content by pointing to each key point on the blackboard, including the formula $a = \\frac{\\Delta v}{\\Delta t}$ and the phrase \"速度の変化量÷時間\" (Change in velocity ÷ time). He emphasizes the core takeaway by circling these key points, reinforcing their importance. The digital slide highlights the phrase \"速度の変化量を時間で割った値が加速度\" (The value of change in velocity divided by time is acceleration), with the teacher gesturing towards it to ensure understanding. The final emphasis is placed on the question \"どのように計算するか覚えておく?\" (Remember how to calculate it?), suggesting a focus on application for future tasks.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.16 -> 610.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Instantaneous Velocity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[615.16 -> 745.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Instantaneous Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[615.16 -> 745.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Vector Properties of Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[759.16 -> 772.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Change in Velocity over Time",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[585.16 -> 610.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Layout",
+        "type": "Visual",
+        "original_text": "Structured blackboard layout of key points on acceleration",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Digital Slide Formula",
+        "type": "Visual",
+        "original_text": "Formula a = (Delta v)/(Delta t)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Digital Slide Explanation",
+        "type": "Visual",
+        "original_text": "Explanation of Change in Velocity ÷ Time = Acceleration",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Acceleration involves the procedure of dividing change in velocity by time."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding instantaneous velocity helps in grasping instantaneous acceleration."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Acceleration encompasses vector properties."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Formula is visualized on the digital slide."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Concluding key points about acceleration are summarized on the blackboard."
+      },
+      {
+        "source": "c1",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Explanation of acceleration as change in velocity ÷ time is emphasized on the slide."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Instantaneous acceleration is visually structured on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding vector properties of acceleration."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

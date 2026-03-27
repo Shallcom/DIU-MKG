@@ -1,0 +1,167 @@
+{
+  "video_name": "10_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the student‑centered teaching philosophy and its application in physics instruction; master approaches and implementation strategies for cultivating scientific thinking skills; enhance students' problem‑oriented inquiry, communication, and collaborative abilities.",
+  "transcript": "[0.0 -> 103.6] 并要求教要以教师为中心转化为以学生为中心从教会学生知识再到教会学生学习以人为本的学生观认为学生是独立的个体因此在教学过程中我们要多多地采用互动式教学问答式教学通过情境教学让学生自行构建物理知识发挥学生的主体地位做到以人为本第二充分培养学生的科学思维我将充分培养学生的模型构建思维首先可以通过培养学生从现象到本质从物理规律自行构建出物理模型第二培养学生的科学推理思维让学生通过自主的分析推理归纳总结出物理规律第三培养学生的科学论证思维以小组单位为引力通过自主探究自行构建物理规律第四培养学生的质疑创新精神让学生从多个物理视角审视规律从多个角度思考问题。\n[104.7 -> 144.48] 第三我将充分培养学生从问题到证据到解释到交流的能力问题意识就是让学生能够通过物理现象自己总结出有什么可以探究的问题并且提出合理的猜想证据意识就是让学生通过自己的猜想能够合理设计实验并且通过设计实验找到物理规律找到一些合理的证据解释思维就是学生能够通过证据来总结出物理规律最后用教培养学生的交友意识和反思的意识。\n[145.8 -> 164.32] 最后我认为我们应该做到以上三个充分不辜负习近平总书记对我们的殷切期待做有理想信念有道德勤操有扎实学识有人爱之心的四友好老师践行新时代的教育家精神立德树人点亮未来。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"1.1 动量\" displayed on the screen. This is the initial visual object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"1.1 动量\" is shown on the digital screen. The teacher stands in front of the screen, holding papers, and appears to be presenting the content. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in the provided frames.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the content on the screen. No specific gestures linking to board content are visible.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class with a digital screen displaying \"1.1 动量.\"\n- The teacher holds papers, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to stand in front of the screen, occasionally gesturing with the papers.\n- The green chalkboard remains blank except for some text on the right side, which is not clearly legible.\n\n**End:**\n- The teacher maintains a similar position, focusing on the content displayed on the screen.\n- No additional visual changes or gestures are noted.\n\n### Summary\nThe lesson introduction centers around the digital slide titled \"1.1 动量.\" The teacher uses papers to engage with the content, though no specific gestures or additional visual elements are highlighted. The focus remains on the screen content throughout the introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"1.1 动量,\" serving as the hook to initiate the lesson. The teacher stands in front of the class, holding papers, which suggests the start of the presentation. To bridge to the main topic, the teacher gestures with the papers, likely emphasizing key points related to the content displayed. The visual focus remains on the digital screen throughout, with no additional transitions or changes observed. The teacher's presence and gestures help establish the lesson goal, grounding the introduction in the context of the displayed title. This setup connects the new knowledge to the students' existing understanding by focusing on the fundamental concept of momentum, setting the stage for further exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Momentum Slide",
+        "type": "Visual",
+        "original_text": "Slide titled '1.1 Momentum'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Student-Centered Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Interactive Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Thinking Skills",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 103.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Argumentation Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Inquiry-Based Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[104.7 -> 144.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Evidence-Based Understanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[104.7 -> 144.48]"
+      },
+      {
+        "id": "c9",
+        "label": "Collaboration Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[104.7 -> 144.48]"
+      },
+      {
+        "id": "c10",
+        "label": "Reflective Awareness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[104.7 -> 144.48]"
+      },
+      {
+        "id": "c11",
+        "label": "Physical Phenomena Investigation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[145.8 -> 164.32]"
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 164.32]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Introduces the concept of student-centered teaching."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student-centered teaching incorporates interactive methods."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Interactive teaching fosters scientific thinking skills."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Scientific thinking skills include model construction."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Model construction is necessary for scientific reasoning."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Scientific reasoning encompasses argumentation skills."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Inquiry-based learning leads to evidence-based understanding."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Inquiry-based learning involves developing collaboration skills."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Evidence-based understanding includes reflective awareness."
+      },
+      {
+        "source": "c11",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Investigating physical phenomena engages students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,159 @@
+{
+  "video_name": "42_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Analyze the main measures of the Wuxu (Hundred Days’) Reform and their impact; summarize the reasons for its failure and the lessons learned.",
+  "transcript": "[682.4417 -> 741.72] 这是你三个人的爱人之间的爱人的爱人的爱人的爱好啊我看各位同学呢都一定有了自己的思想跟想法那么我请一位同学来回答一下这位同学因为他变法设计的范围非常广他的材料中说又以圣贤义理治学又须博采西学非常地好我们继续就是对于当时的清朝来说就是在短短的时间内是不可能全部改变的所以它改革措施过于激进吧过于急促对吧范围很广好请坐而且我们刚刚也看到了在上一节当中我们是不是说它涉及的范围是政治经济文化军事等等都涉及到了你说它涉及到这么广的方面而且它又涉及中方又涉及西学那你说它这个深度和广度是不是都会太宽广了它一下子能完成不能对不对好这是一个原因那还有没有其他的原因呢陈伟自学也能回答一下因为它是以圣贤之学之其根本然后以博彩系学的没有根本改革就是腐朽的这个制度然后因为这是一个诏书宣誓它是一个自上而下的没有发动底层广泛的选中对非常的好这里也涉及到了你看它涉及的什么呀中外大小诸臣自王宫以及士庶它是不是涉及了人自上而下的但是他根本就没有究其根本去改变只是改变了其结尾好的那么学习到了这里之后我们对官僚的同志有了一定的了解那么接下来关于农民起义是怎么进行一个反抗的呢下一节课老师再对大家进行分享这节课到这里结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a text passage with a heading in blue, \"评析思路\" (Evaluation Idea).\n   - The layout includes a block of text in Chinese, structured in a paragraph format.\n\n2. **Key Knowledge Items (Content View)**:\n   - The heading \"评析思路\" is prominently displayed at the top of the slide.\n   - The text passage discusses steps or considerations related to evaluating a case, mentioning terms like \"批改\" (grading), \"活动\" (activity), and \"结果\" (result).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the slide, likely emphasizing key phrases or steps within the paragraph.\n   - The teacher uses hand gestures to highlight different sections of the text, possibly indicating the flow or structure of the evaluation process.\n\n4. **Transition to Next Step**:\n   - On the blackboard, there is a list written in chalk, including \"1. 过程\" (Process) and \"3. 结果\" (Result), suggesting these are key points or steps to be reviewed or followed up.\n   - No explicit homework or assignment slide is visible, but the blackboard content implies a focus on these steps for further study or application.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"评析思路\" prominently displayed, featuring a structured paragraph of text. The teacher visually reviews the content by pointing to different sections of the text, guiding the students through the key points. She emphasizes certain phrases within the paragraph, likely highlighting the steps or considerations for evaluation. The blackboard beside the screen shows a list with \"1. 过程\" and \"3. 结果,\" reinforcing these as critical components of the lesson. While no explicit homework slide is shown, the focus on these steps suggests they are essential for further study or application.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wuxu Reform",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Main Measures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Impact of Reform",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Reasons for Failure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Lessons Learned",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Result",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Evaluation Idea Slide",
+        "type": "Visual",
+        "original_text": "Slide shown with heading 'Evaluation Idea' and structured paragraph.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Conclusion Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard with process and result listed.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c8",
+        "label": "Grading",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[682.4417 -> 741.72]"
+      },
+      {
+        "id": "c9",
+        "label": "Activity",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[682.4417 -> 741.72]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Discusses specific measures under the broad framework of the Wuxu Reform."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Considers the effects that arise from the Wuxu Reform measures."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Analyzes reasons originating from specific reform measures."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Lessons learned are drawn from the reasons the reform failed."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide presents the key concepts of evaluation."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The blackboard lists key procedural steps of concluding the lesson."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with and think about the Wuxu Reform."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Understanding of results arises from following the procedural steps."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Teacher points to text discussing grading on the slide."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights activity as a part of the evaluation process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

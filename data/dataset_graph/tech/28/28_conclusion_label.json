@@ -1,0 +1,173 @@
+{
+  "video_name": "28_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the concept of specific heat capacity and its applications in daily life; be able to identify and analyze common real‑world scenarios where substances with high specific heat capacity are used.",
+  "transcript": "[658.951567 -> 716.08] 因为其他的是不变的它吸收的热量也是一样的所以就可以得到它温度的变化水的温度的变化比砂石的温度的变化要小很好请坐那么在我们生活中利用水的比任容的大小有哪一些应用呢大家可以想一下有没有同学有自己联系生活中的一些应用想分享的那我这里就给大家分享一下比如说我们在地窖的时候在冬天的时候会放一桶水在里面防止蔬菜冻伤这是为什么要用水呀为什么不可以用其他的物质呢是因为水的比日温较大当它结冰的时候它所吸收的热量也是比较多的同样的应用呢还有海边比沙漠更适合居住这样子的话海边城市它的城市的日夜昼夜温差就比较小沙漠的昼夜温差就比较大很好还有我们课本上面这个例子就是我们北方楼盘中要用暖气要用水作为煤气是因为它的比热能比较大所以这样子进行那大家还有同学可以说出其他的比热能较大的应用吗那有没有同学想解释一下为什么可以时间到好的谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It has a simple layout with two main sections in blue boxes.\n   - The blackboard contains handwritten mathematical content, including definitions and formulas.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**:\n     - Left Box: \"作図の上注意点を整理し一覧表に\" (Organize the points to be noted in drawing and create a list)\n     - Right Box: \"海の比較分類を整理し一覧表に\" (Organize the classification of seas and create a list)\n   - **Blackboard Content**:\n     - Title: \"11.3 指数関数\" (11.3 Exponential Functions)\n     - Definition: \"1. 定義\" (1. Definition)\n     - Formula: \"2. 公式: $c = \\frac{a - b}{\\ln a - \\ln b}$\"\n     - Additional equations and calculations, including: \n       - $a^x = 10^{x \\log a}$\n       - $\\log a = \\frac{\\log b}{\\log a}$\n       - $a^x = e^{x \\ln a}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the slide content, specifically highlighting the two blue boxes, likely emphasizing the importance of organizing information into lists.\n   - The teacher gestures towards the blackboard, possibly reviewing the definitions and formulas written there.\n   - The teacher uses a yellow paddle to signal or emphasize points, likely directing attention to specific areas on the blackboard or slide.\n\n4. **Transition to Next Step**:\n   - The slide includes a question at the bottom: \"なぜ記述式問題が得意な生徒は数学が苦手なことが多いのでしょうか？\" (Why are students who are good at descriptive questions often not good at math?)\n   - This question may serve as a prompt for further discussion or homework reflection, though no explicit homework instructions are visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying two key tasks in blue boxes, emphasizing the organization of drawing notes and sea classification into lists. The teacher points to each box, reinforcing the importance of these organizational strategies. On the blackboard, the lesson's core content remains visible, including the title \"11.3 Exponential Functions,\" definitions, and the formula $c = \\frac{a - b}{\\ln a - \\ln b}$. The teacher gestures towards these elements, likely reviewing the mathematical concepts covered. A notable action is the use of a yellow paddle to highlight points, possibly directing focus back to the blackboard content. The slide concludes with a thought-provoking question about the correlation between descriptive question skills and math proficiency, suggesting a reflective element for students. No explicit homework instructions are visible, but the question may serve as a prompt for further consideration.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Specific Heat Capacity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Heat Absorption",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Temperature Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c5",
+        "label": "Cellar Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Coastal Climate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Desert Climate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Heating Systems",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c9",
+        "label": "Exponential Functions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "c10",
+        "label": "Formula c = (a-b)/(ln(a)-ln(b))",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[658.951567 -> 716.08]"
+      },
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "Slide with task organization and question about math skills.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Content",
+        "type": "Visual",
+        "original_text": "Handwritten notes on exponential functions and formulas.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Yellow Paddle Gesture",
+        "type": "Visual",
+        "original_text": "Teacher uses paddle for emphasis.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Reflective Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Specific heat capacity featured as a property of water."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Using water's heat capacity in cellar applications."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Influence of specific heat capacity on coastal climates."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Contrast between coastal and desert climates."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Heating systems using water due to its thermal properties."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide summarizes key tasks related to classification."
+      },
+      {
+        "source": "v2",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Blackboard contains mathematical content relevant to the lesson."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Explanation of exponential function properties using the formula."
+      },
+      {
+        "source": "v3",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to highlight blackboard content."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engaging students to reflect on specific heat capacity applications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,126 @@
+{
+  "video_name": "8_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the effects of the Lorentz force on charged particles and the methods for analyzing their trajectories; understand the operating principle of a mass spectrometer and its application in separating isotopes.",
+  "transcript": "[660.4197 -> 702.94] 好那么它到这里之后它就是继续走完这里垂直进入这一个云墙磁场当中那么在这个云墙磁场当中它又会受到诺伦资历的作用那受到诺伦资历作用它会做什么运动呀同学们想一想回顾一下云州运动对元州运动那么如果这个磁场是云墙磁场呢它会做什么运动语速元州运动好它们受洛伦资历的作用那么我们能不能通过这个洛伦资历呀求出它运动的战争的表达式呀可以为多少好那我们来看我们得到了通过诺伦的资历得到了半径它这个任务的表换式那么这一个我们又可以通过这个公式把速度求出来等于多少好得到这个速度老师们同学们这个速度应该为这个时刻的速度吧好那么这个时刻的速度应该为这个时刻的速度好那么这个速度应该为这个速度好那么这个跟这十个速度相同相同吗相同这个要理解一下然后它既然相同也就是说它进入磁场的初速度是什么那么将这个速度带进这个半径公式里面我们就可以得到关于半径这个速度的公式好我们得到的公式我们一起来看一下如果粒子它受到了相同的磁场以及它的电荷量是相同的那速度是不是通过这个我们知道也是相同的那我们是不是就可以通过粒子的质量就可以得到它的半径质量不同那么它的半径不同是不是它的分别分开了呀运动轨迹不同就分开了由此呢我们就可以通过这个质谱仪来将变和量相同的粒子质量不同的粒子将它分开来好这个呢就是质谱仪的工作原理好刚刚老师说到了我们将这些分开要考虑它的还要去研究它的什么去研究它它里面的一些成分怎么去研究它里面的一些成分呢也就是我们需要研究它里面的原质好那怎么样去研究原则呢。\n[704.16 -> 717.64] 好同学们现在仔细的看一下回旋加速器这一节内容等一下啊我们一起来讲解一下好嘞是吗。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a mix of text and mathematical formulas.\n   - The layout includes a heading at the top, followed by bullet points and equations. The heading reads \"质谱仪与回旋加速器\" (Mass Spectrometer and Cyclotron).\n\n2. **Key Knowledge Items (Content View)**:\n   - **Heading**: 质谱仪与回旋加速器 (Mass Spectrometer and Cyclotron)\n   - **Bullet Points**:\n     - 质谱仪 (Mass Spectrometer)\n     - 动能定理: $\\frac{1}{2}mv^2 = qU$ (Kinetic Energy Theorem)\n     - 洛伦兹力: $r = \\frac{mv}{qB}$ (Lorentz Force)\n     - $r = \\sqrt{\\frac{2mU}{qB^2}}$ (Radius Formula)\n   - The number \"08\" is visible in the top right corner, possibly indicating a lesson or section number.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the heading \"质谱仪与回旋加速器\" to emphasize the topic.\n   - The teacher's finger traces the kinetic energy theorem $\\frac{1}{2}mv^2 = qU$, highlighting the relationship between kinetic energy and potential difference.\n   - The teacher circles the radius formula $r = \\sqrt{\\frac{2mU}{qB^2}}$, drawing attention to its derivation and importance.\n   - The teacher gestures towards the bullet point \"质谱仪\" to summarize the key points discussed about mass spectrometers.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The screen to the left displays \"质谱仪工作原理图\" (Mass Spectrometer Working Principle Diagram), suggesting a potential focus for the next lesson or further study.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on \"质谱仪与回旋加速器\" (Mass Spectrometer and Cyclotron). The teacher visually reviews the content by pointing to each bullet point in sequence, briefly pausing on the kinetic energy theorem $\\frac{1}{2}mv^2 = qU$ and the radius formula $r = \\sqrt{\\frac{2mU}{qB^2}}$. The teacher circles the radius formula, emphasizing its significance. The visual focus remains on the core concepts, with no explicit homework or next-step instructions visible. The screen to the left displays \"质谱仪工作原理图\" (Mass Spectrometer Working Principle Diagram), hinting at potential further study.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Lorentz Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[660.42 -> 702.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Mass Spectrometer",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[660.42 -> 702.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Kinetic Energy Theorem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[660.42 -> 702.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Radius Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[660.42 -> 702.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Cyclotron",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[704.16 -> 717.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Particle Trajectory",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[660.42 -> 702.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Blackboard with heading 'Mass Spectrometer and Cyclotron' and equations",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Working Principle Diagram",
+        "type": "Visual",
+        "original_text": "Mass Spectrometer Working Principle Diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Uses Lorentz Force to derive the Radius Formula."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The Blackboard summarizes the principle of the Mass Spectrometer."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher highlights the kinetic energy equation on the Blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher circles the Radius Formula on the Blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The Blackboard visually connects Mass Spectrometer and Cyclotron."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Lorentz Force impacts on the trajectory of particles."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "The diagram scaffolds understanding of the Mass Spectrometer."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages students to think about the Lorentz Force application."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

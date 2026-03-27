@@ -1,0 +1,147 @@
+{
+  "video_name": "32_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master the method for calculating the variance formula; understand and be able to apply the BMI index for health assessment; be capable of classifying and performing statistical analysis of data based on BMI values.",
+  "transcript": "[150.0 -> 173.34] 那么方差公式请坐那么方差公式又有哪位同学记得呢请这位带领进来同学方差公式是最大数的平方减去最小数的平方除以个数很好请坐。\n[180.0 -> 208.54] 看来同学们对上节课的知识掌握都很清楚那么接下来。\n[210.0 -> 213.38] 我们来探讨一个生活中的问题。\n[217.22 -> 230.44] 肥胖其实对于很多人来说都存在困扰比如说像老师在学生时代的时候就经常会担心自己是不是胖了穿裙子会不会变得不漂亮那么在座的同学中有没有人有这个困扰呢。\n[231.7 -> 252.92] 有人的话请举手看来大家都很自信对于自己的身材都没有那么焦虑那么这是一件好事那么接下来我们来看一下我们就来通过刚刚我们复习的内容进入我们今天的课题案例统计我们对公司的员工肥胖情况进行分级调查。\n[269.0 -> 356.62] 好那么在进入详细的学习之前我们先来介绍近年来我国的肥胖人群快速增长那么肥胖人群很大的程度上也许都会存在心血管等疾病问题那么目前国际上我们常用MBTI这个肥胖指数来监测和衡量人类胖瘦安全是否达到健康标准那么这个公式我们就就列在这里好那么中国成年人的肥胖标准指数为如果小于十八点五是偏这个情况那么在十八点五到二十三点九则为正常那么一旦高于二十四就是也就是到二十四到二十七点九为偏肥胖那么如果达到了二十八就为肥胖了那么在这两个数值情况下同学们就要来监测一下自己的身体健康是否适合危险好那么我们本节课就是根据这个公式来探讨一下某公司它的员工肥胖情况是这样的这公司随机抽样了九十名男员工五十名女员工的身高体重数据那么计算得到他们的NPI值下来两个男员工是九十个数值那么女员工是五十个数值那么我们现在就有了第一个问题。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher writes on the blackboard, starting with the phrase \"平均值\" (average value) and \"总频数\" (total frequency). \n- The teacher draws a fraction bar, indicating the structure of a formula.\n- The digital screen displays a mathematical formula: $a+b+c+\\ldots+m$ (数据总和) divided by the number of data points.\n\n**Middle:**\n- The teacher adds \"频数\" (frequency) to the blackboard, completing the phrase \"总频数\" (total frequency).\n- The screen transitions to a new slide with a cartoon character and the text \"案例统计\" (case statistics) and \"公司员工的肥胖情况调查分析\" (analysis of obesity among company employees).\n- The teacher gestures towards the screen, likely explaining the context of the case study.\n\n**End:**\n- The teacher writes \"平均值的计算\" (calculation of average value) on the blackboard.\n- The screen displays detailed text and a table related to the case study, including a formula for calculating average BMI.\n- The teacher holds papers and gestures towards the screen, explaining the content.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the blackboard with the phrase \"平均值的计算\" and the structure of a formula involving total frequency.\n   - The digital screen serves as a secondary anchor, displaying case study details and formulas.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"平均值的计算\" and completes the phrase \"总频数\" on the blackboard.\n   - **Modifications**: The teacher transitions the screen content from a general formula to a specific case study.\n   - **Deictic Gestures**: The teacher points to the screen when discussing the case study, emphasizing the connection between the blackboard content and the digital display.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses the blackboard to outline the basic structure of average calculation.\n   - The screen uses color and text size to highlight key terms like \"案例统计\" and the BMI formula.\n   - The teacher's gestures and positioning emphasize the transition from general concepts to specific case application.\n\nThis structured approach ensures a clear visual and cognitive link between the teacher's actions and the evolving content on both the blackboard and digital screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the foundational concept of \"平均值\" (average value) and \"总频数\" (total frequency), with a fraction bar indicating the structure of the average formula. The digital screen presented a general formula: $a+b+c+\\ldots+m$ (数据总和) divided by the number of data points. The teacher constructed the phrase \"平均值的计算\" (calculation of average value) on the blackboard, establishing the core concept.\n\nThen, the teacher gave a lecture, transitioning the screen to a case study involving \"案例统计\" (case statistics) and \"公司员工的肥胖情况调查分析\" (analysis of obesity among company employees). The teacher annotated the blackboard with \"频数\" (frequency), completing the total frequency concept. Gesturing towards the screen, the teacher traced the connection between the general formula and the specific case study, emphasizing the application of average calculation in real-world data.\n\nFinally, the teacher elaborated on the case study details displayed on the screen, which included a BMI formula and statistical analysis. The teacher's gestures highlighted key elements on the screen, such as the BMI calculation, aligning with the blackboard's foundational concepts. The visual emphasis on the screen's text and the teacher's annotations on the blackboard worked synergistically to reduce cognitive load, guiding students through the transition from theory to practical application. The teacher circled critical formulas and terms, reinforcing the key takeaways and ensuring a cohesive understanding of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Average Value Formula",
+        "type": "Visual",
+        "original_text": "Fraction bar representing average calculation formula",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Case Study Screen",
+        "type": "Visual",
+        "original_text": "Analysis of obesity among company employees",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Average Value",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 213.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Variance Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[150.0 -> 173.34]"
+      },
+      {
+        "id": "c3",
+        "label": "BMI Index",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[213.38 -> 208.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Statistical Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[252.92 -> 356.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Frequency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 213.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Obesity Survey",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[231.7 -> 252.92]"
+      },
+      {
+        "id": "c7",
+        "label": "Company Employees Health Data",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[231.7 -> 252.92]"
+      },
+      {
+        "id": "c8",
+        "label": "Chinese Adult Obesity Standards",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.0 -> 356.62]"
+      },
+      {
+        "id": "s1",
+        "label": "Confident About Self Image",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[231.7 -> 252.92]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The blackboard displays the foundation of calculating average value."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Variance calculation includes the concept of the average value."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The case study on the screen highlights the importance of BMI for health assessment."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Total frequency is required for average value calculation."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Obesity survey is part of the statistical analysis."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Employee health data is used in the obesity survey."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "BMI Index applies Chinese standards for adult health."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Students consider personal self-image in relation to obesity findings."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The screen condenses statistical analysis findings."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

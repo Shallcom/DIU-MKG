@@ -1,0 +1,191 @@
+{
+  "video_name": "2_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Be able to identify different types of motion and describe their characteristics; learn to use physical methods to comprehensively describe motion phenomena in daily life.",
+  "transcript": "[610.12 -> 621.72] 那老师明确了它并不是匀速直线运动在课后请同学们自行去思考它是什么运动那下节课老师来进行解答。\n[624.16 -> 650.48] 那我们在课前提到的火车它会带着我们向前走那么我们坐车的时候就会有开车然后行驶最后停车在这其中就有加速然后匀速和减速也就是我们本节课学习的运动描述的方法是不是我们经过本节课学习可以更加全面地来描述生活中的运用了。\n[651.9 -> 656.8] 它们的运动都各有不同那老师为大家布置了一个作业。\n[659.4 -> 676.72] 请同学们可以看看课本上具有这样的一道题目那么是他想让同学们来描述火车在行进过程中的速度说减速行驰两分钟的速度是多少呢。\n[678.16 -> 692.7] 好这为本节课归学同学们布置的课后作业那请同学们进行深度思考并且将答案上传至学习通如果有问题可以及时地向老师来询问好本节课到此结束。\n[694.26 -> 700.88] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen displaying a slide titled \"匀变速直线运动的速度与时间的关系\" (Relationship between velocity and time in uniformly accelerated linear motion).\n   - The slide layout is simple, with a heading and no additional diagrams or bullet points visible in the final frames.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main heading on the slide: \"匀变速直线运动的速度与时间的关系\".\n   - The blackboard contains the formula: $a = \\frac{\\Delta v}{\\Delta t}$ and $v = v_0 + at$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, likely emphasizing the formula $v = v_0 + at$.\n   - The teacher's hand movements suggest pointing or indicating the equations written on the board, reinforcing the key formulas.\n\n4. **Transition to Next Step**:\n   - No specific visual elements indicate homework or further reading in the frames provided.\n   - The screen briefly shows a software interface, possibly indicating a transition or preparation for the next activity, but no explicit instructions are visible.",
+  "visual_narrative": "The lesson concludes with a slide titled \"匀变速直线运动的速度与时间的关系\" displayed prominently. The teacher visually reviews the content by gesturing towards the blackboard, emphasizing the key formulas $a = \\frac{\\Delta v}{\\Delta t}$ and $v = v_0 + at$. The teacher's movements suggest pointing to these equations, reinforcing their importance. No specific homework or next-step instructions are visually presented, indicating a focus on consolidating the core concepts of uniformly accelerated linear motion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Uniformly Accelerated Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[610.12 -> 621.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Velocity-Time Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[610.12 -> 621.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Equation: v = v0 + at",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[610.12 -> 621.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Equation: a = Δv/Δt",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[610.12 -> 621.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.16 -> 650.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Constant velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.16 -> 650.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Deceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[624.16 -> 650.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Real-life Applications",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[624.16 -> 650.48]"
+      },
+      {
+        "id": "c9",
+        "label": "Physical Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[624.16 -> 650.48]"
+      },
+      {
+        "id": "c10",
+        "label": "Train Motion Analysis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[659.4 -> 676.72]"
+      },
+      {
+        "id": "c11",
+        "label": "Homework Assignment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.16 -> 692.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Velocity-Time Relationship",
+        "type": "Visual",
+        "original_text": "Slide titled 'Relationship between velocity and time in uniformly accelerated linear motion'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Equations",
+        "type": "Visual",
+        "original_text": "Contains the formulas: a = Δv/Δt and v = v0 + at.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Reflective Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The principle of velocity-time relationship includes the equation v = v0 + at."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The principle of velocity-time relationship includes the equation a = Δv/Δt."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Uniformly accelerated motion involves changes in velocity, hence related to acceleration."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Understanding constant velocity in contrast to accelerated motion."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Deceleration is a component of the broader concept of change in motion."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Application of physical methods to describe motion phenomena in daily life."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Using physical methods enables real-life applications of motion concepts."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Students are tasked to analyze train motion, encouraging application of learned concepts."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide conveys the equation v = v0 + at in the educational material."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The blackboard visually emphasizes the formulas involved in uniformly accelerated motion."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The blackboard visually ties the principle equation to the concept being taught."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The blackboard visually ties the principle equation to the concept being taught."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "engages_with",
+        "intent": "Students engage with real-life applications of motion concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

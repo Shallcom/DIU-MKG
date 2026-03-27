@@ -1,0 +1,171 @@
+{
+  "video_name": "31_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to express personal experiences and problem‑solving methods in English.",
+  "transcript": "[585.14 -> 789.32] 然后你也谈了自己的事所以问题就在这里你记得刚才我们说的艾伦要求帮助对吗他想知道你遇到的挑战是什么样的你如何解决它对吗所以这是你的机会请回答一封信这封信应该包含你作为年轻人遇到的挑战还有你的解决方案和你的态度你说你的情绪改变对不起你会分配你的语言使用对的现在我会给你三分钟和你的伙伴进行讨论然后另外一段时间我会给你策划你的设计好吗好走吧讨论好的女士们请回来我不好意思打扰你了所以现在是你时间交换你的页面与你的页面好吗我给你另外三分钟去查看去找到一些语言错误安桑巴特瑞艾伦斯奥克安奥斯奥特希萨伊尔伊斯好的那么我们今天课程的结尾了我们来做一个简单的批评吧今天我们学到的东西请您给我们做一个简单的批评吧就让他上来我开爱好走爱天堂的好门有看出就拉咱的飞行开呀他拉斯迪斯梅斯安瑞利瑞希瑞尔巴巴梅斯的。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen, titled \"Homework.\"\n   - The slide is structured as a list with three main tasks, each accompanied by an image illustrating the activity.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide lists the following homework tasks:\n     1. Finish exercise book pp.20-24.\n     2. Polish your writing and share next class.\n     3. Watch a documentary and take some notes.\n   - The blackboard retains the diagram titled \"The freshman challenge,\" showing a path with labels \"more confident,\" \"confusing,\" and \"unhappy.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each homework task on the slide, likely emphasizing the importance of each item.\n   - She gestures towards the blackboard diagram, possibly summarizing the lesson's key points about overcoming challenges.\n\n4. **Transition to Next Step**:\n   - The homework slide indicates the next steps for students, with specific tasks such as completing pages in the exercise book, polishing writing, and watching a documentary.\n   - The slide visually separates each task with images, aiding in comprehension and retention.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Homework,\" displaying three tasks: finishing exercise book pages 20-24, polishing writing for next class, and watching a documentary with notes. The teacher points to each task in sequence, emphasizing their importance. The blackboard retains the \"freshman challenge\" diagram, highlighting the journey from confusion to confidence. The teacher gestures towards this diagram, reinforcing the lesson's core message. The homework tasks are clearly listed, guiding students to the next steps, with images accompanying each task for visual clarity.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Homework",
+        "type": "Visual",
+        "original_text": "The digital slide titled 'Homework'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c2",
+        "label": "Exercise Book pp.20-24",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c3",
+        "label": "Polish Writing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c4",
+        "label": "Watch Documentary",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Take Notes",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c6",
+        "label": "Freshman Challenge Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing path with labels 'more confident', 'confusing', and 'unhappy'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "More Confident",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Confusing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c9",
+        "label": "Unhappy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c10",
+        "label": "Overcoming Challenges",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "c11",
+        "label": "Express Experiences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[585.14 -> 789.32]"
+      },
+      {
+        "id": "s1",
+        "label": "Class Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Homework slide lists specific tasks including Exercise Book pages."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Homework slide lists specific tasks including polishing writing."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Homework slide lists specific tasks including watching a documentary."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Watching documentary involves taking notes."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Diagram contains the concept of 'More Confident'."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Diagram contains the concept of 'Confusing'."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Diagram contains the concept of 'Unhappy'."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Confidence evolves from overcoming challenges."
+      },
+      {
+        "source": "c11",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Expressing experiences builds upon polishing writing skills."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompt_student",
+        "intent": "Exercise Book tasks designed to prompt student engagement."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Handling confusion is part of overcoming challenges."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Turning unhappiness into a learning experience is part of overcoming challenges."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

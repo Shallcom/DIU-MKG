@@ -1,0 +1,144 @@
+{
+  "video_name": "22_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "- Be able to analyze the force situation in circular motion.  \n- Identify and calculate the centripetal force and its origin.  \n- Understand how the support (normal) force varies under different motion conditions.",
+  "transcript": "[452.98 -> 457.24] 此时我们进行收力分析可以发现它受到重力与支持力对吧。\n[465.64 -> 520.58] 在水平方向有圆轴运动那么在竖直方向它也有圆轴运动对不对那在做拱金桥的时候我们是不是可以把这个拱形也能近似地看成为一个圆对吧这个地方它的圆形可能会在这个地方对吧所以说它既然做圆的运动它就会可能受到什么力的作用也会受到向心力那这个情况中它的向心力会是怎么样的呢我们知道向心力可能是怎么样使向圆心那这个地方的向心力大多是什么样的呢当然它的大多可能是两个力的合力对吧。\n[522.64 -> 619.32] 是等于什么等于重力减去那么小车如果要经过这个斜面肯定会有速度对吧那这样会产生速度那么就会产生什么向前行对吧那下面我们学过F应该等于什么是等于M二分之微方那么我们将两个车子带入我们就能够算出什么乔对车的支持力对吧等于什么是不是等于重力减去这个力对吧同学们发现什么规律了吗如果说在前面我们学直线运动的时候它在体面上进行运动我们对它进行社会分析它的重力和它的支持力是怎么样的与问题相等的对不对自然二力平衡是不是重力等于支持力但是这个地方我们发现了有一个问题为什么支持力和重力并不相等对吧为什么正是由于它受到了它是在做原子运动对吧这个是圆周运动和直线运动一个比较大的区域它的支持力它的重力并不影响的对吧。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact under discussion was the diagram on the blackboard, which included a mechanical system with forces labeled $F_N$, $G$, and $F_{\\text{反}}$. The teacher pointed directly to this diagram, emphasizing the forces and their relationships.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher simultaneously wrote the student's spoken words on the blackboard. Specifically, the teacher added the equation $F_N = G - F_{\\text{反}}$ to the diagram, visually linking the student's explanation to the existing content. The teacher also used hand gestures to trace the path of forces, reinforcing the student's verbal explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by circling the newly written equation $F_N = G - F_{\\text{反}}$ on the blackboard. The teacher then drew a small arrow next to the equation, indicating the direction of the net force, and nodded affirmatively to the student. This visual feedback confirmed the correctness of the student's input and provided additional clarification.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher made a sweeping gesture towards the class, signaling the start of interaction.\n  - The teacher pointed to the mechanical system diagram on the blackboard, highlighting the forces $F_N$, $G$, and $F_{\\text{反}}$.\n\n- **Middle:**\n  - While a student was explaining, the teacher wrote the equation $F_N = G - F_{\\text{反}}$ on the blackboard.\n  - The teacher used hand gestures to trace the forces, reinforcing the student's explanation.\n\n- **End:**\n  - The teacher circled the equation $F_N = G - F_{\\text{反}}$ to validate the student's input.\n  - The teacher drew a small arrow next to the equation, indicating the direction of the net force, and nodded affirmatively.\n\nThis structured visual interaction ensured that the teacher's actions were closely tied to the evolving content on the blackboard, facilitating effective knowledge co-construction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed a mechanical system diagram with forces labeled $F_N$, $G$, and $F_{\\text{反}}$, alongside the title \"生活中的圆周运动\" (Circular Motion in Life). The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem. This broad gesture signaled the start of an interactive segment, focusing attention on the diagram.\n\nAs a student began to explain their reasoning, the teacher walked over to the blackboard and wrote the equation $F_N = G - F_{\\text{反}}$ in real-time, capturing the student's key points. The teacher used hand gestures to trace the path of the forces, reinforcing the student's explanation and visually linking the components of the diagram. This supportive movement helped guide the student's verbal explanation, ensuring clarity and understanding.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the newly written equation $F_N = G - F_{\\text{反}}$ on the blackboard. Additionally, the teacher drew a small arrow next to the equation, indicating the direction of the net force. This visual feedback confirmed the correctness of the student's response and provided further clarification.\n\nFinally, the teacher connected the student's answer back to the core lesson content by drawing an arrow from the equation to the main diagram, illustrating how the forces interact in circular motion. This gesture reinforced the relationship between the student's explanation and the broader principles of circular motion discussed earlier.\n\nThrough these visual strategies, the teacher facilitated the application and verification of knowledge, moving students from passive reception to active construction of their understanding. The teacher's gestures and real-time additions to the blackboard created a dynamic and interactive learning environment, ensuring that students could see the connections between their ideas and the core lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Circular Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[452.98 -> 457.24]"
+      },
+      {
+        "id": "c2",
+        "label": "Force Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[452.98 -> 457.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Gravity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[452.98 -> 457.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Normal Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[452.98 -> 457.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Centripetal Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[465.64 -> 520.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Vector Addition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[465.64 -> 520.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Equation: F_N = G - F_反",
+        "type": "Visual",
+        "original_text": "Equation representing force balance",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Interactive Diagram",
+        "type": "Visual",
+        "original_text": "Mechanical system with forces labeled",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Explains",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Validates",
+        "type": "Student_State",
+        "cognitive_state": "Praises_response"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Circular motion includes centripetal force as key component."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Force analysis includes evaluation of gravity."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Force analysis includes evaluation of normal force."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Equation on the board visualizes normal force."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Centripetal force builds upon vector addition principles."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Equation visualizes vector addition in force balance."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Student explanation visualizes through equation on board."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Diagram emphasizes the role of centripetal force."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Validation visualizes correct student input."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "praises_response",
+        "intent": "Teacher praises student for accurate explanation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

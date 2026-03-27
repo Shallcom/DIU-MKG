@@ -1,0 +1,146 @@
+{
+  "video_name": "19_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the phenomenon of electromagnetic induction and its conditions; recognize the relationship between changes in magnetic flux and the generation of current; analyze the conditions under which an induced current arises in a circuit.",
+  "transcript": "[605.998667 -> 609.54] 有这样一个线圈儿其中其他的一个动作表现在我们将它向右侧进行运动那么会出现几种状态这三种那么现在有一个问题在这个位置的时候你们认为它会不会发生偏转它的电流表会不会发生偏转呢我们刚才知道了齐合的时候会产生改变模式对不对那它是不是会发生偏转那如果它完全进来那为什么呢。\n[611.78 -> 622.2] 没有自动量的变化那此时呢那现在的问题就是此时它有电流对不对那这个导体棒相当于什么呢。\n[623.72 -> 662.06] 电源那在这里呢也是电源对不对但是是谁充当的电源此时是谁是这一段这不是这一段是切割瓷杆线的这个脑体充当电源的现在有一个问题了留作我们刻下的道分它的磁动量没有变化所以没有变质其他小孩认为也能说明它没有变动好我的授课到此结束谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key formulas and diagrams discussed during the lesson.\n   - The layout includes:\n     - A central formula: $E = \\frac{d\\Phi}{dt}$\n     - Derived equations: $E = \\frac{\\Delta \\Phi}{\\Delta t} = B \\cdot S \\cdot \\frac{\\Delta S}{\\Delta t} = B \\cdot V \\cdot L$\n     - A circuit diagram with labels: \"power\" and \"free.\"\n     - A graph with axes labeled, showing a relationship between variables.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main formulas:\n     - $E = \\frac{d\\Phi}{dt}$\n     - $E = \\frac{\\Delta \\Phi}{\\Delta t}$\n     - $E = B \\cdot S \\cdot \\frac{\\Delta S}{\\Delta t}$\n     - $E = B \\cdot V \\cdot L$\n   - Diagram elements:\n     - Circuit diagram with \"power\" and \"free\" labels.\n   - Graph with axes indicating a variable relationship.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the central formula $E = \\frac{d\\Phi}{dt}$, emphasizing its importance.\n   - The teacher traces the derivation steps, moving from $E = \\frac{\\Delta \\Phi}{\\Delta t}$ to $E = B \\cdot V \\cdot L$, highlighting the logical progression.\n   - The teacher gestures towards the circuit diagram, explaining the components labeled \"power\" and \"free.\"\n   - The teacher points to the graph, discussing the relationship depicted.\n\n4. **Transition to Next Step**:\n   - The screen displays the text \"谢谢观看\" (Thank you for watching), indicating the end of the lesson.\n   - No specific homework or further reading is visible on the board or screen.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on electromagnetic induction. The teacher visually reviews the content by pointing to the central formula $E = \\frac{d\\Phi}{dt}$, then tracing the derivation steps from $E = \\frac{\\Delta \\Phi}{\\Delta t}$ to $E = B \\cdot V \\cdot L$. He emphasizes the circuit diagram, highlighting the \"power\" and \"free\" labels. The screen displays \"谢谢观看,\" marking the end of the session. No homework or next-step instructions are visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Magnetic Flux Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Induced Current Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c4",
+        "label": "E = dΦ/dt",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c5",
+        "label": "E = ΔΦ/Δt",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c6",
+        "label": "E = B⋅S⋅ΔS/Δt",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c7",
+        "label": "E = B⋅V⋅L",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.998667 -> 662.06]"
+      },
+      {
+        "id": "c8",
+        "label": "Circuit Diagram: Power and Free",
+        "type": "Visual",
+        "original_text": "Diagram with components labeled 'power' and 'free'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Variable Relationship Graph",
+        "type": "Visual",
+        "original_text": "Graph showing relationship between variables.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Thank You for Watching",
+        "type": "Visual",
+        "original_text": "Screen text: 'Thank you for watching'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Central formula related to electromagnetic induction."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Electromagnetic induction requires a change in magnetic flux."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Exploring when induced current arises."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Derived equation from the central formula."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Demonstrates the relationship between variables in magnetic flux change."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Further derivation showing specific instance of induced EMF."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Illustrates components and conditions for induced current."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Shows graphically the variable changes affecting magnetic flux."
+      },
+      {
+        "source": "c10",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "Marks the conclusion of the engaged learning session."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

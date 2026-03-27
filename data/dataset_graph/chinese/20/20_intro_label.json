@@ -1,0 +1,152 @@
+{
+  "video_name": "20_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Analyze specific methods of moral integration in Chinese language classes; use examples to demonstrate how to embody moral education in teaching.",
+  "transcript": "[0.0 -> 4.74] 字幕由 Amara.org 社群提供。\n[9.12 -> 12.28] 同学们好上课好的请坐。\n[13.52 -> 61.42] 今天我即兴演讲的题目是语文老师如何在语文课堂中进行道德渗透语文课堂是语文老师最好的表现地方那我们要坚持以文化人立德树人教育不是往一桶水里注满水而是点燃一把火首先语文老师就应该以身作则做一位好似有老师用自己的德育来感染学生的德育有扎实的学识有自己的理想信念用自己的道德修养并且有人爱之心用自己的爱用自己的道德来感染学生的爱这是最好的方法其次我们要注重师生的关系。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a title slide featuring the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-College Students). The slide is predominantly yellow with colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"以法治税 以德为先\" (Governance by Law, Virtue First). The teacher stands in front of the screen, which displays this title. There is no indication of the teacher writing it; it is part of the presentation slide.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, occasionally pointing towards the screen. Specific gestures include:\n  - Holding a pointer or pen while speaking.\n  - Using open hand gestures to engage with the audience.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title slide introducing the 10th National Contest of Teaching Skills for Teacher-College Students. The slide is visually vibrant with a yellow background and colorful icons.\n\n**Middle:**\n- The scene transitions to a classroom setting. The teacher stands in front of a large screen displaying the title \"以法治税 以德为先\" (Governance by Law, Virtue First).\n- The teacher uses hand gestures to engage with the audience, pointing towards the screen and using open hand movements to emphasize points.\n\n**End:**\n- The teacher continues to interact with the students, maintaining focus on the content displayed on the screen. No additional visual elements or changes occur on the board or screen during this segment.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, focusing on the teacher's actions and the visual content displayed.",
+  "visual_narrative": "The introduction phase begins with a vibrant title slide for the 10th National Contest of Teaching Skills for Teacher-College Students, setting the stage with a visually engaging hook. The scene transitions to a classroom where the teacher stands before a screen displaying the title \"以法治税 以德为先\" (Governance by Law, Virtue First). The teacher actively engages with the audience, using hand gestures to emphasize key points, occasionally pointing towards the screen. The visual aid remains consistent, focusing on the main topic without additional changes. This structured approach bridges the hook to the main topic, grounding the lesson in a clear and focused visual context. The teacher's gestures and the static presentation create a link to the students' existing understanding, preparing them for the exploration of governance principles in the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Governance by Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.12 -> 12.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Virtue First",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.12 -> 12.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Moral Integration in Education",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[13.52 -> 61.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Role of Chinese Language Teachers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[13.52 -> 61.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Inspire Through Culture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[13.52 -> 61.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Lead by Example",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[13.52 -> 61.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Student-Teacher Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[13.52 -> 61.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Moral Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[13.52 -> 61.42]"
+      },
+      {
+        "id": "v1",
+        "label": "10th National Teaching Contest Slide",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Governance by Law Slide",
+        "type": "Visual",
+        "original_text": "Governance by Law, Virtue First",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Audience Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide displays the principle of governance by law."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide displays the principle of virtue first."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Moral integration is detailed under the role of language teachers."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Teachers inspire students through cultural literacy."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Inspiration includes leading by example."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The role of teachers includes leading by example."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Establishing a positive relationship is part of a teacher's role."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Leading by example includes moral influence on students."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The vibrant slide captures the audience's attention."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The slide content emphasizes the main teaching point, engaging students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

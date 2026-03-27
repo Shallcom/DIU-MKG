@@ -1,0 +1,211 @@
+{
+  "video_name": "25_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "- Be able to identify the primary functions of the five hormones.  \n- Be able to understand the synergistic and antagonistic relationships among hormones.  \n- Be able to apply the principles of hormone interactions to analyze real‑world problems.",
+  "transcript": "[655.881833 -> 694.36] 好捅出二人之间讨论一下这五种激素是不是估计得起作用谁来举一个例子你来说说嗯比如说细胞分裂素啊细胞就比如说在生长速度高到一定值时会促进萎息的细胞然后乙烯的能度成高会反过来一直升的非常好请坐那我们再来看比如说生长素它可以促进细胞核的分裂那细胞分裂素刚刚我们说过它可以促进细胞质的分裂另外赤霉素促进萌发脱落酸一直萌发那同学们想一想啊生长素和赤霉素之间是什么作用是解抗还是协同作用非常好是血糖作用\n[697.96 -> 705.64] 那赤霉素和吐露酸之间呢是结抗还是血糖是结抗啊结抗非常棒\n[709.56 -> 713.78] 时间到我的模拟书课到你了谢谢你了",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard. It features a structured layout with bullet points and a diagram.\n   - The board is divided into sections with headings and subheadings written in white chalk.\n\n2. **Key Knowledge Items (Content View)**:\n   - The board contains the following visible items:\n     - **Heading**: \"其他植物的向光性\" (Other Plants' Phototropism)\n     - **Subheadings**:\n       - \"6. 向光性\" (Phototropism)\n       - \"1. 生长素\" (Auxin)\n       - \"2. 生理作用\" (Physiological Effects)\n     - **Diagram**: A visual representation of plant growth responses, including terms like \"背光侧\" (Shaded Side), \"向光侧\" (Light Side), and \"生长素分布不均\" (Uneven Auxin Distribution).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the board, emphasizing the terms \"背光侧\" and \"向光侧\" to highlight the uneven distribution of auxin.\n   - The teacher gestures towards the subheadings \"生长素\" and \"生理作用\" to summarize their importance in phototropism.\n   - The teacher uses a pointer to trace the growth direction indicated in the diagram, reinforcing the concept of how auxin affects plant growth.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with text, likely indicating further reading or next lesson content, though specific details are not fully visible.\n   - The teacher briefly gestures towards the screen, possibly directing attention to the next steps or assignments.\n\nThis structured visual summary consolidates the lesson's key points, with the teacher's gestures reinforcing the main concepts displayed on the board and screen.",
+  "visual_narrative": "The lesson concludes with a chalkboard summary centered on \"其他植物的向光性\" (Other Plants' Phototropism). The teacher visually reviews the content by pointing to the diagram, emphasizing the terms \"背光侧\" (Shaded Side) and \"向光侧\" (Light Side) to highlight auxin distribution. She gestures towards the subheadings \"生长素\" (Auxin) and \"生理作用\" (Physiological Effects), reinforcing their significance. The teacher traces the growth direction in the diagram, solidifying the concept of auxin's impact on plant growth. Finally, the visual focus shifts to the screen, indicating further reading or next steps, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Auxin",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Cytokinin",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Ethylene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Gibberellin",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Abscisic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Phototropism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c7",
+        "label": "Synergistic Interaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c8",
+        "label": "Antagonistic Interaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[655.881833 -> 705.64]"
+      },
+      {
+        "id": "c9",
+        "label": "Hormone Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[697.96 -> 713.78]"
+      },
+      {
+        "id": "c10",
+        "label": "Shaded Side",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 694.36]"
+      },
+      {
+        "id": "c11",
+        "label": "Light Side",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[655.881833 -> 694.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Chalkboard",
+        "type": "Visual",
+        "original_text": "The green chalkboard with headings and diagram.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Diagrams of Plant Growth",
+        "type": "Visual",
+        "original_text": "Visual representation of plant growth responses with terms like Shaded Side and Light Side.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Subheadings for Phototropism",
+        "type": "Visual",
+        "original_text": "Subheadings including Auxin and Physiological Effects.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Transition Slide",
+        "type": "Visual",
+        "original_text": "Slide indicating further reading or next steps.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Conceptual Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Relates auxin's role in phototropism."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Describes uneven auxin distribution on the shaded side."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Describes uneven auxin distribution on the light side."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Involves synergistic interaction between hormones."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Involves antagonistic interaction between hormones."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Depicts shaded side as part of phototropism."
+      },
+      {
+        "source": "v1",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Depicts light side as part of phototropism."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Visualizes concepts of plant phototropism."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Visualizes hormone interactions during growth."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Visualizes hormone interactions during growth."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Highlights the importance of auxin."
+      },
+      {
+        "source": "v3",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Highlights physiological effects of hormones."
+      },
+      {
+        "source": "v4",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Supports the transition to further learning."
+      },
+      {
+        "source": "s1",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in understanding hormone roles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

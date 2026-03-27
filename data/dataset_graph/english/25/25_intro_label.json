@@ -1,0 +1,140 @@
+{
+  "video_name": "25_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of classroom assessment in English teaching; explore how classroom assessment can promote the development of students' core competencies; apply activity‑based teaching methods to integrate the six elements of the curriculum.",
+  "transcript": "[0.0 -> 11.96] Good afternoon dear professors, I'm contestant number 25,\n[11.96 -> 19.44] I'm so glad to discuss the topic how to make meaningful evaluation during class teaching.。\n[20.68 -> 33.7] In the process of education the classroom evaluation is of great importance. So why the apply of class evaluation is so important during the English class?\n[34.34 -> 36.9] According to the English curriculum standard,\n[36.9 -> 55.78] we should cultivate students' core competencies. So we need to integrate six components of the curriculum into class by adopting activity based approach to English learning. And also the teaching learning assessment alignment should be provided into class. So as an English teacher,\n[55.78 -> 59.14] what will I do in a real class?\n[59.52 -> 60.0] First, change the teacher's role. I will change my role from a knowledge deliverer to a guide,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen displaying the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-Trainee College Students). The screen also includes a colorful logo and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title \"Unit 2 Morals and virtues\" is displayed on a large screen behind the teacher. The teacher stands in front of the screen, holding papers, and appears to be introducing the topic. The title is in a blue box on a yellow background.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the lesson introduction.\n- The teacher's body language suggests engagement with the audience, possibly making eye contact and using hand movements to emphasize the lesson's importance.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring the competition's name and the number \"10\".\n- Transition to the classroom setting where the teacher stands in front of a screen displaying \"Unit 2 Morals and virtues\".\n\n**Middle:**\n- The teacher remains stationary, holding papers, and appears to be speaking to the class.\n- The screen behind the teacher consistently displays the lesson title without additional changes or annotations.\n\n**End:**\n- The teacher continues to engage with the class, maintaining focus on the displayed title.\n- No additional visual elements or changes occur on the screen or board.\n\n### Summary\nThe introduction phase of the lesson centers around the title \"Unit 2 Morals and virtues\" displayed prominently on the screen. The teacher uses physical presence and gestures to engage the class, though no additional visual content or objectives are introduced during this segment. The consistent display of the title emphasizes the lesson's focus, setting the stage for further discussion.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen featuring the competition's name and the number \"10\", setting the stage for the lesson. Transitioning to the classroom, the teacher stands confidently in front of a screen displaying \"Unit 2 Morals and virtues\" in a blue box on a yellow background. Holding papers, the teacher engages the class through gestures and eye contact, emphasizing the lesson's focus. The consistent display of the title on the screen serves as a visual anchor, guiding the students' attention to the main topic. This approach creates a clear link between the competition context and the lesson content, preparing students for an exploration of morals and virtues by establishing a focused and structured introduction. The visual consistency and teacher's engagement help bridge the students' existing knowledge with the upcoming discussion, ensuring a smooth transition into the lesson's core themes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Competition Title Screen",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-Trainee College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title Screen",
+        "type": "Visual",
+        "original_text": "Unit 2 Morals and virtues",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Classroom Assessment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[11.96 -> 19.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Importance of Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[20.68 -> 33.7]"
+      },
+      {
+        "id": "c3",
+        "label": "English Curriculum Standard",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[34.34 -> 36.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.9 -> 55.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Six Curriculum Components",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[36.9 -> 55.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Activity-Based Approach",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[36.9 -> 55.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Teaching-Learning Assessment Alignment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.9 -> 55.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Teacher's Role Change",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[59.52 -> 60.0]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Discusses the significance of classroom assessment in teaching."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Screens helps to introduce the topic of morals and virtues."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Curriculum standards lead to cultivating core competencies."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Core competencies integration involves six curriculum components."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Activity-based teaching integrates curriculum components."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Emphasizes the alignment of assessment with teaching and learning."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Guides the shift from traditional teaching to a facilitator role."
+      },
+      {
+        "source": "c2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Importance of evaluation encourages student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

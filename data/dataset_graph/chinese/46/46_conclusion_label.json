@@ -1,0 +1,159 @@
+{
+  "video_name": "46_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "- Master the primary images and emotional expression in Cao Cao’s poem “Short Song Style.”  \n- Experience the variation and unity of the complex emotions conveyed in Cao Cao’s poetry.  \n- Cultivate the ability to evaluate historical figures from multiple dimensions.",
+  "transcript": "[678.78 -> 699.44] 月明星兮乌雀南飞绕树散杂何知可依山不厌高海不厌真周公图谷天下归心。\n[700.78 -> 734.22] 好同学们我们今天啊通过对文本的朗诵和解读我们看到了许多不一样的曹操那么课下呢请同学们结合当今的时代背景以青年的身份给曹操写一封信对他的当年之宏愿和慨叹作出我们盛世青年的今日之答同学们下课谢谢老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a table with three columns: \"图示形式\" (Diagram Form), \"科学术语\" (Scientific Terms), and \"确定文心\" (Determine Core Idea).\n   - The overall layout is structured with rows of text under each column, providing definitions and examples.\n\n2. **Key Knowledge Items (Content View)**:\n   - **图示形式**: Contains phrases like \"图示法\" (Diagram Method) and \"图示表达\" (Diagram Expression).\n   - **科学术语**: Includes terms such as \"科学方法\" (Scientific Method) and \"科学探究\" (Scientific Inquiry).\n   - **确定文心**: Features phrases like \"核心概念\" (Core Concept) and \"确定主题\" (Determine Theme).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the screen, likely pointing to each column in turn to emphasize the connections between diagram forms, scientific terms, and core ideas.\n   - She uses hand movements to highlight specific rows, possibly tracing along the text to ensure students follow the summary points.\n\n4. **Transition to Next Step**:\n   - The teacher turns to the blackboard, which contains a diagram with Chinese characters and arrows, possibly indicating a flow or process.\n   - There is no explicit visual element indicating homework or further reading, but the teacher's gestures suggest a review of the blackboard content as part of the conclusion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing a table divided into three columns: \"图示形式,\" \"科学术语,\" and \"确定文心.\" Each column contains key phrases and terms that summarize the lesson's content. The teacher points to each column in sequence, using hand gestures to emphasize the connections between diagram forms, scientific terms, and core ideas. She traces along the rows, ensuring students follow the summarized points. The teacher then turns to the blackboard, which displays a diagram with Chinese characters and arrows, reinforcing the lesson's concepts. No explicit homework or next-step instructions are visible, but the teacher's focus on the blackboard suggests a review of the diagram as a key takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Poem Slide",
+        "type": "Visual",
+        "original_text": "Slide with three columns: Diagram Form, Scientific Terms, Determine Core Idea.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Diagram Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Diagram Expression",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Core Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Determine Theme",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with Chinese characters and arrows indicating a flow or process.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c7",
+        "label": "Historical Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[700.78 -> 734.22]"
+      },
+      {
+        "id": "c8",
+        "label": "Emotional Variation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.78 -> 699.44]"
+      },
+      {
+        "id": "c9",
+        "label": "Poetic Unity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.78 -> 699.44]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Highlighting Diagram Methods in the Poem Slide."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Summarizing Scientific Method in the Poem Slide."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Emphasizing Core Concept in the Poem Slide."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encouraging students to evaluate historical figures like Cao Cao from multiple dimensions."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Connecting Emotional Variation to Poetic Unity for a comprehensive understanding."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Scaffolding Diagram Expression in the Poem Slide."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Including Scientific Inquiry in the Poem Slide."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The Blackboard Diagram reinforces concepts displayed on the Poem Slide."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Poetic Unity emerging from Emotional Variation."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Summarizing Determine Theme in the Poem Slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

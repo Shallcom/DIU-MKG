@@ -1,0 +1,169 @@
+{
+  "video_name": "1_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the application of structured textbook‑content strategies in chemistry teaching; master the basic cognitive pathway linking atomic structure to substance properties.",
+  "transcript": "[0.0 -> 200.66] 先到底是进行素质教育以及落实核心素养的生成那么对教材内容落实核心素养的生成关键因素应该决定于教材内容的结构化那么如何形成教材内容结构化的处理也就是我即将讲演的一个策略首先对它知识内容知识观念的一个结构化就比如在化学键中我们首先是通过化学键讲解到了离子键和共价键再从共价键中讲解极性共价键和非极性共价键这样从宽到窄的一个过程第二点认识思路的结构化在我们学习化学时一般是通过原子结构决定性质这一观念认识的结构化物质的思路形成以及一些我们认识到的钠原子氯原子等都是通过实验然后通过实验来观察现象通过现象再决定它有什么性质再通过性质决定用途这一基本思路来认识物质第三点核心素养的结构化通过我们都知道通过未构性认知模型可以知道结构决定性质性质反应结构这一基本的观念而这一基本观念差好反映了宏观辨识与微观探析这一核心素养的生成而这三个结构而这三点正是我要说的教材内容结构化对二次考验开发有关的策略以上是我的即席演讲题目即席演讲谢谢大家接下来是我的教学片段展示是好上课同学们好请坐在上节课中在上个片段中我们已经了解到了原则原子是由哪两部分组成的是由原子核和核外电子构成。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual object on the screen is a diagram labeled \"原子構造\" (Atomic Structure). It features two overlapping circles, one blue and one lighter blue, representing atomic components.\n\n#### 2. **The Title Event**\n- The title \"原子構造\" (Atomic Structure) is displayed on the screen. The teacher does not physically write this title but presents it on the digital screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing points related to the atomic structure diagram.\n- The teacher moves to the digital podium, interacting with the screen, possibly to change slides or highlight content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the atomic structure diagram with the title \"原子構造.\"\n- The teacher gestures towards the screen, likely explaining the diagram.\n\n**Middle:**\n- The teacher moves to the digital podium, interacting with the screen.\n- The screen transitions to a text slide with detailed information about atomic structure, including a colorful circular diagram.\n- The teacher points to the screen, emphasizing specific parts of the text and diagram.\n\n**End:**\n- The teacher turns to the green chalkboard and writes using chalk.\n- The screen changes to a blank white slide, possibly for the teacher to focus on the chalkboard content.\n- The teacher writes on the board, though the exact content is not visible in the frames provided.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, linking the teacher's actions to specific visual elements on the screen and board.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of the class, holding papers, and presenting a digital screen displaying a diagram labeled \"原子構造\" (Atomic Structure). This diagram, featuring overlapping blue circles, serves as the initial visual hook, capturing the students' attention with a graphical representation of atomic components. The teacher gestures towards the screen, likely emphasizing key aspects of the diagram. Transitioning to the main topic, the teacher moves to the digital podium, interacting with the screen to reveal a text slide with detailed information and a colorful circular diagram, further elaborating on atomic structure. The teacher points to specific sections of the text and diagram, guiding the students through the content. Finally, the teacher turns to the green chalkboard, beginning to write, while the screen switches to a blank white slide, indicating a shift towards more detailed board work. This structured introduction connects the visual elements of atomic structure to foundational concepts, preparing students for deeper exploration of the topic by linking graphical representations to textual explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Atomic Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Ion Bond",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Covalent Bond",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Polar Covalent Bond",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Non-Polar Covalent Bond",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Chemical Properties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Sodium Atom",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c8",
+        "label": "Chlorine Atom",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c9",
+        "label": "Experiment Phenomenon",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "c10",
+        "label": "Usage Determination",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Atomic Structure Diagram",
+        "type": "Visual",
+        "original_text": "The diagram labeled 'Atomic Structure' shows overlapping circles representing atomic components.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 200.66]"
+      },
+      {
+        "id": "v2",
+        "label": "Text Slide on Atomic Structure",
+        "type": "Visual",
+        "original_text": "Detailed text about atomic structure with a colorful circular diagram is displayed.",
+        "ocr_corrected": true,
+        "timestamp": "[100.0 -> 200.0]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 200.66]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Atomic structure includes the concept of ion bonds."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Atomic structure includes the concept of covalent bonds."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Polar covalent bonds are a specific type of covalent bond."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Non-polar covalent bonds are a specific type of covalent bond."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Chemical properties evolve from the atomic structure of sodium atoms."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Chemical properties evolve from the atomic structure of chlorine atoms."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Usage determination is based on experimental phenomena."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The atomic structure diagram visually represents the concept of atomic structure."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The text slide emphasizes details about atomic structure."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "The students' engagement is prompted by discussions on atomic structure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

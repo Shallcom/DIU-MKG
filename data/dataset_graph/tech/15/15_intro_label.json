@@ -1,0 +1,152 @@
+{
+  "video_name": "15_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the importance of scientific thinking in information technology education; master methods for enhancing students' reasoning abilities through experimental design and inquiry activities; identify and improve assessment mechanisms to better reflect the development of students' scientific thinking.",
+  "transcript": "[0.0 -> 153.66] 科学思维水平高而有些教师并不这样认为他认为科学考试考高分并不能很好地反映学生的科学思维水平对此你怎么看培养学生的科学思维是科学教育的重要目标之一我认为对于以上问题我认为有以下三点首先科学思维应该将应该在平时的教学苦动中逐渐渗透不只是拿最后考核高分比如说在本节课呼吸作用中我们可以引导学生对动植物的呼吸作用进行探究引导学生利用老师所提供的实验材料设计实验并在实验过程中吸取科学资增长科学思维培养学生的创新意识以及实验探究的精神学生通过实验材料实验设计探究得到结论在该过程中学生的综合素质能够得到提升提升学生的推理水平推理验证水平以及假说实验的水平第二点我希望在今后的考核中我们应该对提升对实验内容的考核不只是对实验知识的考核在此过程中能够在科学的考试中提升学生的科学思维并让学生在日常生活中形成正确的思维模式通过实验探究题以及考试具体的实验操作题提升学生的科学思维方式第三对于科学观念我们应该培养学生不只是看重成绩我们应该在平时的学习生活中培养学习思维提高学生的综合素质在学习中加强自主探究与小组合作的能力最后科学思维是科学目标科学教育的重要目标之一我们老师应该正确引领学生提升学生的科学思维我的即兴演讲到此结束下面开始模拟授课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features a title in Chinese: \"呼吸作用\" (Respiration). The slide includes a diagram with a circular element and several smaller images or icons, likely related to the topic of respiration.\n\n#### 2. **The Title Event**\n- The title \"呼吸作用\" is prominently displayed on the digital slide. The teacher does not physically write this on the board but presents it on the screen. The title is part of the slide design, with no additional underlining or emphasis by the teacher.\n\n#### 3. **The Objectives**\n- The slide includes a list of bullet points or sections, but the specific learning goals are not clearly visible in the provided frames. The layout suggests a structured presentation, but the exact text of the objectives is not readable.\n\n#### 4. **Key Gestures**\n- The teacher stands at the podium, holding papers, and appears to be reading or presenting from them. There are no specific gestures like pointing or circling visible in the frames provided. The teacher's focus is on delivering the content from the papers.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is initially seen writing or marking something on the green chalkboard. The digital slide with the title \"呼吸作用\" is already displayed on the screen.\n- The teacher moves away from the board and stands at the podium, holding papers.\n\n**Middle:**\n- The teacher begins presenting, likely reading from the papers. The digital slide remains static, showing the title and related images.\n- The students are seated, facing the teacher and the screen, indicating the start of the lesson content.\n\n**End:**\n- The teacher continues to present from the podium, maintaining focus on the papers. The digital slide remains unchanged, serving as a visual anchor for the lesson introduction.\n- No additional gestures or board interactions are observed, suggesting a transition into the main content delivery.\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the static visual content of the slide and the initial setup of the lesson.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the green chalkboard, initially engaged in writing or marking. The digital slide serves as the opening visual stimulus, prominently featuring the title \"呼吸作用\" alongside a diagram and related icons, setting the hook for the lesson. Transitioning to the podium, the teacher holds papers, indicating a shift from board interaction to content delivery. The slide remains static, providing a consistent visual anchor as the teacher begins presenting. Although no specific gestures are observed, the teacher's focus on the papers suggests a structured approach to introducing the topic. The introduction effectively bridges the hook to the main topic by maintaining the slide's visual elements, which likely connect to foundational concepts of respiration, preparing students for deeper exploration. This setup primes the students for understanding new knowledge within the context of biological processes, linking it to their existing scientific framework.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Scientific Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 153.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Information Technology Education",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 0.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 153.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Inquiry Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 153.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Assessment Mechanisms",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 153.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Respiration Topic",
+        "type": "Visual",
+        "original_text": "Digital slide showing Respiration",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Teacher at Podium",
+        "type": "Visual",
+        "original_text": "Teacher presenting at podium holding papers",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Students Seated",
+        "type": "Visual",
+        "original_text": "Students facing the teacher and screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Research Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 153.66]"
+      },
+      {
+        "id": "c10",
+        "label": "Reasoning Abilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 153.66]"
+      },
+      {
+        "id": "c11",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Scientific thinking is crucial in the context of IT education."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Developing scientific thought through experimental design."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Expanding scientific thinking through inquiry activities."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Assessing the growth of scientific thinking with diverse mechanisms."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Slide serves as a visual reference for experimental design discussion."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Visual aid supporting the teacher's presentation from the podium."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Students' seating arrangement indicating engagement with the lesson."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Scientific thinking involves developing research skills."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Enhancing reasoning abilities as part of scientific development."
+      },
+      {
+        "source": "c7",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's presentation engages students cognitively."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

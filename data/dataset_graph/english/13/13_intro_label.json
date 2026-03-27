@@ -1,0 +1,107 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Recognize and analyze the structure of English texts; enhance understanding of intercultural communication.",
+  "transcript": "[0.0 -> 95.9] 从我的角度来看它可以分为三个部分首先为了做一个完整的文章分析我们需要通过整个组织去研究主要的概念或广泛主题的内容和内容包括整个组织上的内容我们需要帮助他们发挥文化知识认识学习能力和语言能力。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a digital slide displayed on the screen. It features the title \"UNIT 7 TRAVELLING ABROAD\" and the instruction \"Write to a friend about a travel plan.\" The slide also includes a background image of a mountainous landscape and a sidebar with smaller images and text.\n\n#### 2. The Title Event\n- **Title**: \"Write to a friend about a travel plan\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher does not physically write it but stands beside the screen, likely emphasizing it through gestures.\n\n#### 3. The Objectives\n- **Visible Content**: The slide includes the phrase \"Ready for writing,\" suggesting a focus on writing skills. Specific bullet points or learning goals are not visible in the provided frames.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher holds papers and uses hand gestures to emphasize points. She occasionally points towards the screen, likely to draw attention to the title and instructions displayed.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays the slide with the title \"UNIT 7 TRAVELLING ABROAD\" and \"Write to a friend about a travel plan.\" The background shows a mountainous landscape.\n- **Teacher Action**: The teacher stands in front of the screen, holding papers. She gestures with her hands, possibly introducing the topic and directing students' attention to the slide.\n\n#### Middle\n- **Visual Content**: The slide remains the same, with the title and background unchanged.\n- **Teacher Action**: The teacher continues to gesture, likely elaborating on the task. She points towards the screen, emphasizing the writing task.\n\n#### End\n- **Visual Content**: The slide still displays the same content, maintaining focus on the writing task.\n- **Teacher Action**: The teacher uses hand gestures to reinforce key points, possibly summarizing the task or providing additional instructions.\n\n### Summary\nThe lesson introduction centers around the digital slide titled \"Write to a friend about a travel plan.\" The teacher uses hand gestures and points to the screen to engage students and emphasize the task. The consistent visual content on the slide, combined with the teacher's gestures, guides the students into the writing activity.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a digital screen displaying a slide titled \"UNIT 7 TRAVELLING ABROAD\" and the instruction \"Write to a friend about a travel plan.\" The background features a mountainous landscape, serving as the initial visual stimulus to engage students. The teacher holds papers and uses hand gestures to emphasize the task, occasionally pointing to the screen to draw attention to the title and instructions. The slide remains consistent throughout, maintaining focus on the writing activity. The teacher's gestures and positioning beside the screen create a bridge from the hook to the main topic, guiding students into the writing task. This visual setup connects the theme of travel to practical writing skills, preparing students to apply their knowledge in a real-world context. The consistent emphasis on the screen content ensures students understand the lesson's objective, linking the engaging hook to the structured task ahead.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Written Communication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 95.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Intercultural Communication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 95.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Text Structure Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 95.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Cultural Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 95.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Language Ability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 95.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Writing Activity",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 95.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Travel Plan Slide",
+        "type": "Visual",
+        "original_text": "UNIT 7 TRAVELLING ABROAD. Write to a friend about a travel plan. Mountainous landscape background.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Use knowledge of text structure to enhance written communication skills."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Effective intercultural communication includes understanding cultural knowledge."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Applying language ability in practical writing activity."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The slide sets the context for the writing activity."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The visual slide captures students' attention and keeps them engaged."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Text structure analysis is part of the writing activity requirement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

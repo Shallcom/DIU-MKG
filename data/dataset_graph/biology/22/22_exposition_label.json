@@ -1,0 +1,146 @@
+{
+  "video_name": "22_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the basic concepts and types of community succession; be able to distinguish secondary succession from primary succession; master the process of secondary succession on a bare site.",
+  "transcript": "[153.84 -> 210.74] 上课同学们好请坐那同学们看在一八八三年的八月印度尼西亚卡拉卡托火山爆发了于是岩浆滚滚而出所到之处生物都全部死亡了这里成了一片裸地但几年之后呢地面上开始长出了小草还出现了一种蜘蛛又过了很久到一九零九年有二百零二种动物开始在这片新的土地上生活一九一九年呢动物居然增加到了六百二十一种一九三四年后还增加到了八百八十种那在此期间从一片裸地到植物逐渐地繁茂起来出现了小树林那同学们思考在这样的裸地上生物是如何的呢一步一步地定居的又是如何一步步从裸地变成了有小树林的呢\n[212.94 -> 223.8] 其实要回到这个问题在我们今天的新课学习中可以找到答案那就让我们带着这些疑问走进今天的新课学习群落的掩地\n[234.96 -> 273.84000000000003] 像这样在一片裸地上随着时间的不断推移我发现开始有小草开始有不同的动物最后长成了森林一个群落被另一个群落逐渐代替的这样一个过程就叫做群落的掩替那全裸的掩涕呢大致有两种类型一个是出生掩涕还有一个是次生掩涕那我们前面所讲到的一个在裸地上的这样的一个掩涕的过程呢其实就是我们第一种类型出生掩涕那现在就请同学们阅读教材的三十八到三十九页的裸在裸联上的这样的一个掩涕的示意图简要的回答裸言的演练经历了哪几个基本阶段呢大家仔细来阅读一下",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with an image of a volcano and accompanying text in Japanese. The slide is titled \"火山\" (Volcano).\n- The teacher gestures towards the volcano image, likely explaining its features or significance.\n- The blackboard to the left has the phrase \"生物と地球の学習\" (Study of Biology and Earth) written vertically.\n\n**Middle:**\n- The teacher continues to gesture towards the volcano image, emphasizing specific parts of the slide, possibly discussing volcanic activity or formation.\n- The teacher then turns to the blackboard and writes \"火山の噴火の影響\" (Effects of Volcanic Eruptions) in white chalk.\n- The digital screen transitions to a new slide titled \"第2節 群落の変遷\" (Section 2: Changes in Communities), showing an image of a forest landscape.\n\n**End:**\n- The teacher points to the new slide, likely introducing the topic of ecological changes.\n- The teacher returns to the volcano slide, reinforcing the connection between volcanic activity and ecological impact.\n- The teacher continues to gesture and explain, linking the visual content of the slides to the written notes on the blackboard.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide with the volcano image and Japanese text. The slide includes a title \"火山\" and descriptive text about volcanic activity.\n   - The blackboard initially displays \"生物と地球の学習\" and later \"火山の噴火の影響.\"\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:** The teacher writes \"火山の噴火の影響\" on the blackboard while discussing the volcano slide, linking the visual content to written notes.\n   - **Modifications:** The teacher transitions between slides, moving from the volcano image to the forest landscape, indicating a shift in topic from volcanic activity to ecological changes.\n   - **Deictic Gestures:** The teacher points to specific parts of the volcano image, likely highlighting eruption features, and later to the forest image, indicating ecological aspects.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key points on the volcano image, such as eruption areas.\n   - The transition to the forest slide is highlighted by the teacher's gestures, marking the shift in topic.\n   - The written notes on the blackboard serve as a visual anchor, reinforcing the lecture's focus on volcanic effects and ecological changes.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a vivid image of a volcano with the title \"火山\" and descriptive text about volcanic activity. The blackboard featured the phrase \"生物と地球の学習\" vertically. The teacher began by gesturing towards the volcano image, tracing the eruption plume to illustrate volcanic processes. She then turned to the blackboard and constructed the phrase \"火山の噴火の影響,\" linking the visual content to written notes. \n\nAs the lecture progressed, the teacher transitioned to a new slide titled \"第2節 群落の変遷,\" showing a forest landscape. She pointed to various elements of the forest image, likely discussing ecological changes. Returning to the volcano slide, she reinforced the connection between volcanic activity and ecological impact, using hand gestures to emphasize key points.\n\nFinally, the teacher circled important sections of the text on the volcano slide, highlighting critical information. The visual transition between slides and the annotations on the blackboard worked synergistically to reduce cognitive load, allowing students to follow the flow from volcanic effects to ecological changes seamlessly. The teacher's strategic use of visual aids and gestures ensured a coherent and engaging delivery of complex concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Volcano Slide",
+        "type": "Visual",
+        "original_text": "A slide with an image of a volcano and Japanese text 'Volcano'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Volcano Eruption Effects",
+        "type": "Visual",
+        "original_text": "Blackboard text 'Effects of Volcanic Eruptions'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Community Changes Slide",
+        "type": "Visual",
+        "original_text": "A slide titled 'Section 2: Changes in Communities' with a forest image.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "t1",
+        "label": "Volcanic Eruption",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[153.84 -> 210.74]"
+      },
+      {
+        "id": "t2",
+        "label": "Ecological Impact of Volcanos",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[153.84 -> 210.74]"
+      },
+      {
+        "id": "t3",
+        "label": "Bare Site Colonization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[153.84 -> 210.74]"
+      },
+      {
+        "id": "t4",
+        "label": "Primary Succession",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.96 -> 273.84]"
+      },
+      {
+        "id": "t5",
+        "label": "Secondary Succession",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[234.96 -> 273.84]"
+      },
+      {
+        "id": "t6",
+        "label": "Community Succession Types",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[234.96 -> 273.84]"
+      },
+      {
+        "id": "t7",
+        "label": "Community Dynamics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[220.72 -> 273.84]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "t1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The volcano slide visualizes the concept of volcanic eruption."
+      },
+      {
+        "source": "t2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The text on the blackboard illustrates the ecological impact of volcanoes."
+      },
+      {
+        "source": "t7",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The community changes slide visualizes the dynamics of ecological succession."
+      },
+      {
+        "source": "t3",
+        "target": "t4",
+        "relation": "builds_upon",
+        "intent": "Bare site colonization is a process integral to primary succession."
+      },
+      {
+        "source": "t3",
+        "target": "t5",
+        "relation": "builds_upon",
+        "intent": "Bare site colonization sets the stage for secondary succession after disturbances."
+      },
+      {
+        "source": "t6",
+        "target": "t4",
+        "relation": "includes",
+        "intent": "Community succession types include primary succession as a category."
+      },
+      {
+        "source": "t6",
+        "target": "t5",
+        "relation": "includes",
+        "intent": "Community succession types include secondary succession as a category."
+      },
+      {
+        "source": "t7",
+        "target": "t6",
+        "relation": "builds_upon",
+        "intent": "Community dynamics principles are foundational to understanding succession types."
+      },
+      {
+        "source": "s1",
+        "target": "t2",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement is prompted by thinking about the ecological impact of volcanic eruptions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

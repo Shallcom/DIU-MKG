@@ -1,0 +1,147 @@
+{
+  "video_name": "32_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Recognize the basic components of a circuit and their functions; understand the importance of the power source in a circuit; master the analogy between voltage and a height difference.",
+  "transcript": "[170.0 -> 248.42] 接下来开始我的模拟授课环节上课同学们好今天啊老师给大家带来了一个神奇的灯泡我们一起来看老师将灯泡拿在手里当老师用两个手指接触灯泡下灯的接触点时它发光了在之前的学习中我们已经学过了简单辨路我们先请一位同学来说一说简单辨路包包括哪些组成部分呢来说说你的记录电源导线开关用电器嗯那么在这个神奇灯泡中你认为它与我们的简单电路有什么不同呢没有电源嗯那你认为我们人的手指在这个过程中承担的是哪一个结构导线对很好没有电源电路中的灯泡还能亮吗答案显然是否定的既然灯泡电源如此重要它在我们的电路中承担的是怎样的作用呢带着这个问题我们一起进入今天的学习电压的测量。\n[260.0 -> 288.16] 我们知道电流产生的原因是因为电荷的定向移动而生活中我们的水流同样是这样定向的结果想一想下流的水流它移动的动力来自于哪里呢。\n[290.0 -> 366.16] 来你来尝试一下下游的河流动力来自于上游的那个呃推下来的那个力嗯推下来的那个力那我想再提问一个问题如果下游的河流不再拥有这个力长此一往下去河流还会移动吗不会移动了变蝙蝠了啊好这个也就是说啊我们认为是上流像瀑布这样的高度长它为我们的水流提供了推动作用同样的既然我们的电流与水流如此之像那么电流的动力来自于哪里呢是谁在给它源源不断的提供电动力呢没错就是我们课前提到的重要的电源在电源中啊就存存在着这样一个神奇的高度差为我们的电流提供着动力而它就是我们今天学习的主题电压电压像高度差一样为水流提供推动作用而电压则是为我们的电流提供推动作用。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide with Chinese text. The slide reads: \"预备补习：认识摩擦力和电流的形成机制\" (Preparatory Review: Understanding Friction and the Formation of Electric Current).\n- The teacher gestures with her hands, likely introducing the topic. She points to the screen, emphasizing the title.\n\n**Middle:**\n- The teacher writes \"电压的形成\" (Formation of Voltage) on the chalkboard.\n- The digital screen updates to show a diagram with boxes labeled \"水位差\" (Water Level Difference), \"水流\" (Water Flow), and \"水轮机转动\" (Water Turbine Rotation), connected to \"电流\" (Electric Current).\n- The teacher uses hand gestures to explain the analogy between water flow and electric current, pointing to each part of the diagram on the screen.\n\n**End:**\n- The teacher adds more details to the chalkboard, writing \"高水位\" (High Water Level) and \"低水位\" (Low Water Level).\n- The screen updates to include \"电位差\" (Voltage Difference) and an arrow indicating the flow from high to low water level, paralleling electric current flow.\n- The teacher circles key terms on the board and screen, reinforcing the connection between water and electrical systems.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital diagram illustrating the analogy between water flow and electric current. It includes:\n  - \"水位差\" (Water Level Difference)\n  - \"水流\" (Water Flow)\n  - \"水轮机转动\" (Water Turbine Rotation)\n  - \"电流\" (Electric Current)\n  - Additional terms: \"高水位\" (High Water Level), \"低水位\" (Low Water Level), and \"电位差\" (Voltage Difference)\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"电压的形成\" on the chalkboard.\n  - Adds \"高水位\" and \"低水位\" to illustrate potential difference.\n- **Modifications**: \n  - The teacher updates the digital slide to include \"电位差\" and directional arrows.\n- **Deictic Gestures**: \n  - Points to \"水位差\" while explaining water level differences.\n  - Indicates the flow direction from \"高水位\" to \"低水位\" to parallel electric current flow.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher circles \"电压的形成\" on the chalkboard.\n- Uses arrows on the digital slide to emphasize the flow direction.\n- Highlights \"电位差\" to stress its role in current formation.\n\nThis structured approach ensures a clear visual and conceptual link between water flow analogies and electric current principles.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a foundational slide titled \"预备补习：认识摩擦力和电流的形成机制,\" establishing the dual focus on friction and electric current formation. The teacher began by constructing a conceptual bridge between water flow and electric current, using the screen's diagram as the primary visual anchor. This diagram featured labeled components: \"水位差\" (Water Level Difference), \"水流\" (Water Flow), \"水轮机转动\" (Water Turbine Rotation), and \"电流\" (Electric Current).\n\nAs the lecture progressed, the teacher derived the analogy step-by-step. She annotated the chalkboard with \"电压的形成\" (Formation of Voltage), constructing a parallel between water systems and electrical principles. The teacher pointed to \"水位差\" and traced the flow path from \"高水位\" (High Water Level) to \"低水位\" (Low Water Level), illustrating potential energy differences. This dynamic gesture directly linked water flow to electric current generation.\n\nFurther into the session, the teacher updated the digital slide to include \"电位差\" (Voltage Difference) and directional arrows, visually reinforcing the flow from high to low potential. She resolved deixis by tracing these arrows, emphasizing the movement analogous to electron flow in circuits. The teacher circled key terms like \"电位差\" on both the board and screen, highlighting their critical role in current formation.\n\nTo reduce cognitive load, the teacher employed a dual-coding strategy, using both visual diagrams and verbal explanations. The consistent use of color-coded labels and directional cues on the screen, paired with physical gestures on the chalkboard, created a cohesive learning environment. By visually aligning water flow mechanics with electrical concepts, the teacher effectively scaffolded understanding, ensuring students could grasp the abstract principles through concrete analogies. The session concluded with a clear, emphasized visual model, solidifying the connection between water systems and electric current formation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Formation of Voltage",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[170.0 -> 248.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Electric Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.0 -> 248.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Friction and Electric Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.0 -> 248.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Water Flow Analogy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[260.0 -> 288.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Water Level Difference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[260.0 -> 288.16]"
+      },
+      {
+        "id": "c6",
+        "label": "High Water Level",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[260.0 -> 288.16]"
+      },
+      {
+        "id": "c7",
+        "label": "Low Water Level",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[260.0 -> 288.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Voltage Difference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[260.0 -> 288.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Water Flow Diagram",
+        "type": "Visual",
+        "original_text": "Slide displaying Water Flow analogy with Water Level Difference and Electric Current",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard with Voltage Formation",
+        "type": "Visual",
+        "original_text": "Chalkboard with text 'Formation of Voltage'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Updated Slide with Voltage Difference",
+        "type": "Visual",
+        "original_text": "Slide showing Voltage Difference and directional arrows",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide uses a water flow diagram to visualize the analogy with electric current."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The chalkboard text provides a visual representation of the concept of voltage formation."
+      },
+      {
+        "source": "v3",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The slide updates to visually reinforce the concept of Voltage Difference."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Water Level Difference is a fundamental part of the water flow analogy."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "High Water Level is a component of Water Level Difference."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Low Water Level is a component of Water Level Difference."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Formation of Voltage leads to the generation of Electric Current."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Voltage Difference conceptually progresses from the general idea of voltage formation."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Understanding friction leads to the development of concepts related to voltage formation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

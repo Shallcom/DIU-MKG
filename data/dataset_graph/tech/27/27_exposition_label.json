@@ -1,0 +1,229 @@
+{
+  "video_name": "27_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Understand the rules of current and voltage in series and parallel circuits; master Ohm’s law and its application in circuit analysis.",
+  "transcript": "[238.0 -> 298.76] 下面我们先来以一个小游戏抢答的环节我们来看一看我们来复习一下在串联电路当中我们的电流和电压的规律是什么好现在请同学们紧急准备老师要开始提问了同学们看这是一个什么电路串联非常好那在串联电路中我们的电流和电压的特点是什么好这位同学来说说串联电路中电流处处相等电压呢。\n[303.0 -> 423.18] 请坐这位同学分析了根据组织的比例也就是应用到了我们的欧姆定律看来这位同学已经走在了我们的思维的前面也就是说此时串联电路中我们的电流是处处相等电压是等于总电压等于各分各电阻的和各电阻电压之和好下一个听清楚这是一并联电路它的电流和电压特定什么这位同学越来越顺了说说电流是等于分质性和电压是高端的紧坐好这位同学回答得非常正确那同学们发现没有穿并联电路中我们的电流和电压它们是一个相反的大概是相反的对不对那同学们我们学习了欧姆电路刚刚探究出来了电流和电压那前面我们的科学家欧姆探究出来的欧姆定律式的内容是什么你来说说U等于IR好你请说有没有不同的意见我们书上给的公式是也是I等于UR它的内容表述为导体的电流与导体两端的电压是成正比于导体电阻成反比所以根据这一个我们写出的公式应该是I等于UR没有关系所以同学们在解题的过程中一定要记住我们的欧姆定律是I等于UR非常不错在运用欧姆定律解题的过程中我们要注意三个性质同学们还记得吗既然是对于一段电路而言那么我们就省点心思给大家几分钟的时间思考一下我尝一下。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes on the blackboard, starting with the title \"欧姆定律在串联电路中的应用\" (Application of Ohm's Law in Series Circuits).\n- The screen displays a slide with icons representing a house, a computer, and a server, accompanied by the question: \"电冰箱和洗衣机在家庭电路中是串联还是并联？为什么？\" (Are the refrigerator and washing machine connected in series or parallel in household circuits? Why?).\n- The teacher gestures towards the screen, emphasizing the question.\n\n**Middle:**\n- The teacher points to a circuit diagram on the screen, explaining the components and their connections.\n- The slide changes to show a series circuit with labeled components: $R_1$, $R_2$, and a battery.\n- The teacher writes equations on the blackboard: $I = I_1 = I_2$ and $U = U_1 + U_2$.\n- The teacher uses hand gestures to illustrate the flow of current through the series circuit.\n\n**End:**\n- The teacher points to a new slide with a parallel circuit diagram labeled \"并联电路\" (Parallel Circuit).\n- The teacher writes the equation $I = I_1 + I_2$ on the blackboard.\n- The teacher emphasizes the differences between series and parallel circuits, using the screen and blackboard to highlight key points.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the series circuit diagram on the screen, showing resistors $R_1$ and $R_2$ connected in series with a battery.\n- The blackboard initially displays the title and later includes equations related to current and voltage in series circuits.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the equations $I = I_1 = I_2$ and $U = U_1 + U_2$ on the blackboard while explaining the series circuit.\n- **Modifications**: The teacher transitions from the series circuit to a parallel circuit diagram on the screen, writing $I = I_1 + I_2$ for the parallel configuration.\n- **Deictic Gestures**: The teacher points to specific parts of the circuit diagrams on the screen, such as the resistors and battery, while explaining their roles.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the flow of current and the equality of current in series circuits.\n- The teacher circles key equations on the blackboard to highlight their importance.\n- The screen displays a blue box around the text explaining the characteristics of parallel circuits, drawing attention to the differences from series circuits.",
+  "visual_narrative": "Initially, the bulletin board displayed the title \"欧姆定律在串联电路中的应用\" alongside a slide featuring icons of household appliances and a question about series and parallel connections. The teacher began by writing key equations on the blackboard, establishing the foundation for understanding current and voltage relationships in circuits. \n\nThen, the teacher constructed a series circuit diagram on the screen, labeling components $R_1$ and $R_2$. She derived the equations $I = I_1 = I_2$ and $U = U_1 + U_2$, using hand gestures to trace the path of current through the resistors, emphasizing the uniform current flow. The teacher annotated the diagram, pointing to each resistor to illustrate voltage division.\n\nFinally, she transitioned to a parallel circuit diagram, writing $I = I_1 + I_2$ on the board. She highlighted the differences by circling the parallel configuration on the screen and using contrasting gestures to show current distribution. The teacher resolved deixis by pointing to specific circuit elements, ensuring clarity. Visual aids like color-coded text and boxed summaries reduced cognitive load, aligning explanations with visual cues to reinforce learning outcomes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0 -> 423.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Series Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0 -> 423.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Parallel Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0 -> 423.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Current in Series",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Voltage in Series",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Current in Parallel",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Voltage in Parallel",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "c8",
+        "label": "Household Circuit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 423.18]"
+      },
+      {
+        "id": "c9",
+        "label": "Current Equation Series",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "c10",
+        "label": "Voltage Equation Series",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "c11",
+        "label": "Current Equation Parallel",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[303.0 -> 423.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Series Circuit Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing resistors R1 and R2 in series with a battery.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Parallel Circuit Diagram",
+        "type": "Visual",
+        "original_text": "Diagram labeled 'Parallel Circuit'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Equations on BlackBoard",
+        "type": "Visual",
+        "original_text": "Equations I = I1 = I2, U = U1 + U2 on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Household Circuit Slide",
+        "type": "Visual",
+        "original_text": "Slide with icons of a house, computer, server, and question about circuits.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Game",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Answering Questions",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Ohm's Law is applied to derive the current equation for series circuits."
+      },
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Ohm's Law is applied to derive the voltage equation for series circuits."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Ohm's Law is applied to derive the current equation for parallel circuits."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Defines current characteristics in series circuits."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Defines voltage characteristics in series circuits."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Defines current characteristics in parallel circuits."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Defines voltage characteristics in parallel circuits."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Household circuits are explained using the concept of series connection."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Household circuits are explained using the concept of parallel connection."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The Series Circuit Diagram depicts the series configuration discussed."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The Parallel Circuit Diagram depicts the parallel configuration discussed."
+      },
+      {
+        "source": "v3",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Equations for current in series circuit visualized on the blackboard."
+      },
+      {
+        "source": "v3",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Equations for voltage in series circuit visualized on the blackboard."
+      },
+      {
+        "source": "v4",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Slide illustrating the concept of household circuits."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "engagement",
+        "intent": "Students prepare to answer a question about household circuits."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "engagement",
+        "intent": "Students answer questions about voltage characteristics in series circuits."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,132 @@
+{
+  "video_name": "18_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Be able to distinguish the concepts of time interval and moment; learn to apply time intervals and moments in problem analysis.",
+  "transcript": "[163.22 -> 198.78] 上课同学们好同学们我们先来回顾一下上一节课学习了什么知识质点那质点它在运动学当中属于的是谁在运动的问题那今天我们这节课就来学习一下物体在什么时候运动它在哪里运动它运动了多远的问题需要学习这几个问题我们就需要通过今天时间会议的学习请同学们把课本打开到第十八页。\n[213.12 -> 226.42] 好同学们我们先来看一个问题如果要准确描述一辆行驶在北京长安街上车所处的位置你认为可以有什么方法吗。\n[230.42 -> 236.68] 我听到有同学说我们可以看它在汽车在长安街上哪一棵树附近还有吗。\n[238.76 -> 245.64] 对建立坐标系那还有一个问题你对时间是怎样认识的。\n[247.9 -> 251.42] 说到时间可能有的同学会想到时刻。\n[252.82 -> 257.38] 时间与时刻它们有什么区别和联系呢大家思考一下。\n[270.88 -> 435.12] 好同学们回到课堂我们来看时间我们可以怎样理解从语文的角度来说我们可以把时间分成两个字就是时间间呢间我们可以认为是间隔也就是时间间隔在这里可能有的同学会有疑惑我们日常生活中说的时间跟物理中说的时间是不一样的呀请同学们注意在物理学中我们所说的时间指的是时间间隔那时刻呢我们可以非常理解就是一瞬间好现在老师给一个例子大家来看一下八十上课八十四十五分下课一节课四十五分钟在这里什么是时刻什么是时间呢对八十和八十四十五分这是时刻而一节课四十五分钟它指的是一时间间隔也就是时间好那在时间坐标系当中我们可以这样表示用点来表示时刻用线段来表示时间间隔在这里八十这一点这一刻这一瞬间我们上课了在八十四十五分钟经过了这么长时间间隔我们在八十四十五分这一刻这一瞬间好那这是时间和时刻的知识下面我们再回到课前的问题如果我们想要描述一辆汽车在长安街上它所处的位置刚刚有同学说到了两种方法首先是有同学说我们可以看它在哪一棵树附近还有的同学说我们可以利用建立坐标系的方法来看那哪一个方法更好呢四对建立坐标系我们看汽车在树上在哪一棵树附近这只是一个定性的分析而如果我们需要定量的分析我们就需要采用建立坐标系的方法来判断那坐标系大家想一下在数学当中大家学过哪几种坐标系平面直角坐标系以及一纬的坐标系那这两个坐标系我们应该如何选择正确的坐标系来描述这个问题呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with Chinese text and a diagram. The blackboard shows the phrase \"引入时间 位移\" (Introducing Time and Displacement).\n- The teacher gestures towards the screen, which initially displays a question about the position of a car on a highway.\n- The teacher writes \"时间？\" (Time?) and \"时刻？\" (Moment?) on the blackboard, linking these concepts to the slide content.\n\n**Middle:**\n- The teacher points to a timeline diagram on the screen, which shows a car's movement from 8:00 AM to 8:05 AM, covering 400 meters.\n- The teacher explains the difference between a moment and a time interval, writing \"一时刻和时间间隔\" (A moment and time interval) on the blackboard.\n- The teacher uses hand gestures to emphasize the timeline, pointing to specific segments and explaining their significance.\n\n**End:**\n- The teacher transitions to a slide showing an image of a landmark, discussing the concept of a reference system.\n- The teacher continues to gesture towards the screen, linking the visual content to the blackboard notes.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the timeline diagram on the screen, showing a car's movement with labeled time points and distances.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:** The teacher writes \"一时刻和时间间隔\" on the blackboard while explaining the timeline.\n   - **Modifications:** The teacher points to different parts of the timeline, emphasizing the start and end points.\n   - **Deictic Gestures:** The teacher points to the timeline's start (8:00 AM) and end (8:05 AM), explaining the time interval.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to highlight the timeline's segments, drawing attention to the 400-meter distance.\n   - The teacher emphasizes the blackboard notes by pointing to them while discussing moments and intervals.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing understanding of time and displacement concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a timeline diagram illustrating a car's movement from 8:00 AM to 8:05 AM, covering 400 meters. The teacher began by constructing the concept of time and displacement, writing \"引入时间 位移\" on the blackboard. She then derived the distinction between moments and time intervals, adding \"一时刻和时间间隔\" to the board. The teacher annotated the timeline, pointing to the start and end points to illustrate the 5-minute interval and 400-meter distance. She traced the timeline's segments, emphasizing the car's movement over time. Finally, she transitioned to a slide featuring a landmark, discussing reference systems. Throughout, she used hand gestures to highlight key points, reducing cognitive load by linking visual elements on the screen and board, ensuring a cohesive understanding of the concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Time",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[270.88 -> 435.12]"
+      },
+      {
+        "id": "concept2",
+        "label": "Moment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.82 -> 257.38]"
+      },
+      {
+        "id": "concept3",
+        "label": "Time Interval",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[270.88 -> 435.12]"
+      },
+      {
+        "id": "concept4",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[163.22 -> 198.78]"
+      },
+      {
+        "id": "concept5",
+        "label": "Reference System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[230.42 -> 236.68]"
+      },
+      {
+        "id": "concept6",
+        "label": "Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[238.76 -> 245.64]"
+      },
+      {
+        "id": "visual1",
+        "label": "Timeline Diagram",
+        "type": "Visual",
+        "original_text": "Timeline diagram showing car's movement from 8:00 AM to 8:05 AM, covering 400 meters.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual2",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Notes on blackboard showing 'Time?' and 'Moment?' and 'A moment and time interval'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_state1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "includes",
+        "intent": "Time includes moments as instants."
+      },
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "includes",
+        "intent": "Time includes intervals as durations."
+      },
+      {
+        "source": "concept4",
+        "target": "concept5",
+        "relation": "builds_upon",
+        "intent": "Displacement is explained using reference systems."
+      },
+      {
+        "source": "concept5",
+        "target": "concept6",
+        "relation": "evolves_from",
+        "intent": "The reference system is built using coordinates."
+      },
+      {
+        "source": "visual1",
+        "target": "concept3",
+        "relation": "visualizes",
+        "intent": "The timeline diagram illustrates the concept of a time interval."
+      },
+      {
+        "source": "visual2",
+        "target": "concept1",
+        "relation": "scaffolds",
+        "intent": "The notes help scaffold the understanding of time and moments."
+      },
+      {
+        "source": "concept2",
+        "target": "concept3",
+        "relation": "distinguishes",
+        "intent": "The distinction between a moment and a time interval."
+      },
+      {
+        "source": "concept6",
+        "target": "visual2",
+        "relation": "emphasizes",
+        "intent": "Coordinates are emphasized through blackboard notes."
+      },
+      {
+        "source": "visual1",
+        "target": "student_state1",
+        "relation": "emphasizes",
+        "intent": "The timeline diagram facilitates student engagement with time interval concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

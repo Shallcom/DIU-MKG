@@ -1,0 +1,146 @@
+{
+  "video_name": "3_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Understand the dual nature of internet usage and its impact on personal safety.",
+  "transcript": "[150.0 -> 373.0] 我现在想开始我的微语教学了早上好我的亲爱的学生们欢迎来到我的课堂前我们来玩一场选择游戏吧这里我想给你们画一个图片请看吧这个是一个钥匙和这个是一个键盘这个项目是由一个鼻子接触的这是什么呢我们说起来吧机器人是机器人对的在机器上我们可以探索一个神奇的语言叫做变化所以今天在我们的学校里学生的声音是为您分享您的经验和建议关于互联网是一种双层的思维所以您想要试试吗是的很高兴现在我想邀请我的朋友与您分享一些事情请您快速地读这篇文章第一遍并回答两个问题我给您两分钟让我们开始吧是的他告诉你他的身份证吧对吗是的那第二个呢你喜欢为它做一个名称吗请你读吧你可以尝试找一些主题吧如何在网上保持安全和避免悲伤的经历是的谢谢您的分享去他的博物馆一起探索一下这里有两个问题请你快点读第一个题目一分钟给你们看来来吧那么这个问题曾经被问过几遍了所以他要想办法去回答这个问题和问题的问题所以他会做什么呢他会提出建议是的建议和规则现在让我们进入下一个文章试着找到我朋友提供的三个规则现在我给你们三分钟我们开始吧。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"Reading and writing: Write a blog post.\"\n- The teacher gestures towards the screen, indicating the topic of the lesson.\n- On the chalkboard, the teacher draws a simple laptop with the word \"Internet\" written on its screen, accompanied by a mouse icon.\n\n**Middle:**\n- The teacher writes \"Write a blog post\" on the chalkboard, emphasizing the lesson's objective.\n- The digital screen changes to show a passage with the heading \"Students' Voice\" and the quote, \"Internet is a double-edged sword.\"\n- The teacher points to the passage on the screen while explaining the content.\n- The screen then displays a set of questions: \n  1. \"What is the form of this passage? A. Newspaper B. Blog C. Magazine\"\n  2. \"Read the passage and make a title for 4-5 words.\"\n- The teacher writes \"Write a blog post\" on the chalkboard, reinforcing the task.\n\n**End:**\n- The screen updates to show additional questions related to the passage:\n  - \"Why has this question been asked several times?\"\n  - \"What can you do to use the internet safely and avoid bad experiences in the internet?\"\n  - \"What will be written in the following passage?\"\n- The teacher gestures towards these questions, explaining their relevance and prompting discussion.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the lesson content, including the passage and questions.\n- The chalkboard features a simple drawing of a laptop with \"Internet\" and the phrase \"Write a blog post.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions:**\n  - The teacher writes \"Write a blog post\" on the chalkboard while explaining the task.\n  - The teacher adds the phrase \"Write a blog post\" next to the laptop drawing.\n- **Modifications:**\n  - No erasures or modifications are observed; the teacher primarily adds content.\n- **Deictic Gestures:**\n  - The teacher points to the laptop drawing on the chalkboard while discussing the internet.\n  - The teacher gestures towards the questions on the digital screen, emphasizing key points.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight the laptop drawing and the phrase \"Write a blog post\" on the chalkboard.\n- The teacher emphasizes the questions on the digital screen by pointing directly at them, ensuring students focus on the task requirements.\n\nThis structured visual evolution ensures students understand the lesson's objectives and the specific tasks related to reading and writing a blog post.",
+  "visual_narrative": "Initially, the digital screen displayed a slide titled \"Reading and writing: Write a blog post,\" establishing the lesson's focus. The teacher constructed a simple laptop drawing on the chalkboard, labeling it \"Internet\" and adding a mouse icon to visually represent the topic. As the lecture progressed, the screen transitioned to a passage under \"Students' Voice,\" accompanied by the quote, \"Internet is a double-edged sword.\" The teacher annotated the chalkboard by writing \"Write a blog post,\" reinforcing the task. The screen then presented questions about the passage's form and title creation. The teacher derived further understanding by pointing to these questions, ensuring students grasped the requirements. Finally, the screen updated with additional questions about internet safety and subsequent content. The teacher resolved deixis by tracing the laptop drawing and gesturing towards specific questions, emphasizing key points. Visual highlighting was achieved by circling important phrases on the board, aligning with the lesson's conclusion. This structured visual flow, combined with strategic gestures and annotations, effectively reduced cognitive load by providing clear, step-by-step guidance throughout the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internet Safety",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 373.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Blog Post Writing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[150.0 -> 373.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Double-edged Sword",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 373.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Internet Usage Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 373.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Creating Safe Titles",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[150.0 -> 373.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Avoiding Bad Experiences",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[150.0 -> 373.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Laptops on Chalkboard",
+        "type": "Visual",
+        "original_text": "Simple laptop drawing with 'Internet' on chalkboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Students' Voice Passage",
+        "type": "Visual",
+        "original_text": "Passage with quote 'Internet is a double-edged sword'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Question Slide",
+        "type": "Visual",
+        "original_text": "Screen with questions: Form type and title creation for passage.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Safety Questions Slide",
+        "type": "Visual",
+        "original_text": "Screen with questions on internet safety and content writing.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Reading Passage",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Discuss Internet Safety",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Understanding safe internet usage impacts personal safety."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Connects writing concept with chalkboard visual."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Links principle of dual nature with passage visual."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students with questions related to passage form."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Focuses students on creating relevant passage titles."
+      },
+      {
+        "source": "v4",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Leads student interaction on safety measures."
+      },
+      {
+        "source": "c6",
+        "target": "v4",
+        "relation": "scaffolds",
+        "intent": "Highlights procedures for safe internet practices."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Develops understanding of internet impact into actionable safety."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

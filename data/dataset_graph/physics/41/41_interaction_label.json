@@ -1,0 +1,164 @@
+{
+  "video_name": "41_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the phenomenon of wave superposition and its characteristics; understand the invariance of amplitude, frequency, and wavelength during superposition; be able to analyze the formation of stable regions through experimental observation and theoretical derivation.",
+  "transcript": "[342.62 -> 466.26] 那这几列波在相遇时能够保持刚才各自的运动状态这位同学提到的是他们的高度高度实际上就是波的振幅对是振幅那除此之外波还有什么样的特点呢频率波长啊频率对所以这里的保持各自的运动状态就是指振幅频率的物理量是不变的在重叠的区域里致电的同时参与几列波引起的震动出现矢量核的叠加我们把这种现象称为波的叠加好那我们看一下我们重点一下问题二它们相遇的时候好像出现了水量核但是刚刚的现象是我们通过绳子要震动一次才能看到一次现象好像不大方便老师这儿给大家带来了一个装置是这样子的它有一个水槽里面装满了水同时这里有一个振动片它和水槽中有两个系杆连接这两个是系杆老师只要让震动片与震源进行连接让它发生周期性的震动那由于细杆与它相连所以两个细杆的震动就和震动片的震动是一致的了。\n[467.6 -> 521.52] 那请大家注意观察老师这打开机关使用投屏的技术把这个现象投到了屏幕上我来思考一下老师把某时刻和某时间段进行了截图呈现我们研究问题发现它是一个动态的重现从某个特殊的时刻研究你看到了什么有出现波分的还有出现波谷的那如果是在某时间段呢又有什么样的现象大家刚才有认真观察实验吗在某时间段的时候你看到有怎样的现象呢。\n[523.96 -> 580.4] 请你来回答一下随着动态的变化你注意观察某一个位置它是怎么样的变化呢名单那它是固定的吗还是变化的是动态的吗有没有同学观察到不一样的现象稳定不变的这位同学说是稳定不变的其他同学同意吗同意是吗对哦那说明你在观察时间的时候需要进一步地认真地去观察我们还不如说大家可以多看一下这个动态的图片我们发现水面上出现了一条条相对平静的区域和震动剧烈的区域那它们的位置是稳定不变的。\n[582.56 -> 590.66] 但是刚刚是我们通过实验所观察到的现象眼见已定为实吗。\n[592.64 -> 607.72] 实际上我们的眼睛有的时候会欺骗我们哦那我们就需要用理论去推导一下我们能不能尝试着使用我们之前学过的波的情况来分析一下呢。\n[610.14 -> 625.44] 请各位同学先自主地去推理论阵随后以小组的形式一起来分析一下然后我会请小组派代表上台为我们演示一下。\n[634.52 -> 642.12] 你可以尝试通过公式的方法或者通过过程的推导。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the interactive whiteboard, directing attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the practice problem displayed on the interactive whiteboard, specifically the diagram labeled \"波的干渉\" (Wave Interference) and the accompanying text.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher nodded and smiled to encourage participation. She also pointed to the diagram on the whiteboard, highlighting specific elements of the wave interference pattern to guide the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled key parts of the wave interference diagram on the whiteboard to visually validate the student's correct input. She also drew additional lines on the blackboard to further illustrate the concept, ensuring clarity and reinforcing the student's understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes \"一尺形的波源\" on the blackboard, establishing the initial visual context.\n  - She points to the interactive whiteboard displaying the text \"問二：古典的波動理論的什麼樣?\" (Question 2: What is classical wave theory like?).\n\n- **Middle:**\n  - The teacher transitions to a slide showing a wave interference pattern, labeled \"波的干渉\" (Wave Interference).\n  - She gestures towards the diagram, explaining the concept while the students observe.\n\n- **End:**\n  - The teacher uses the blackboard to draw a detailed diagram of wave interference, enhancing the visual explanation.\n  - She circles and highlights specific areas on the whiteboard diagram, confirming the student's correct understanding and elaborating on key points.\n\nThis structured approach ensures that visual elements are effectively used to co-construct knowledge, with clear links between teacher actions and visual content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a wave interference diagram labeled \"波的干渉\" (Wave Interference), setting the stage for the lesson. The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly to the interactive whiteboard to focus their attention on the practice problem.\n\nAs the student began explaining their reasoning, the teacher walked over to the board and jotted down key terms related to wave interference, using supportive gestures like nodding and smiling to encourage the student. She pointed to specific elements of the diagram, guiding the student's explanation and ensuring clarity.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the correct parts of the wave interference diagram on the whiteboard. She then drew additional lines on the blackboard to further illustrate the concept, reinforcing the student's understanding.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing arrows on the board, linking the correct answer to the main principles of wave interference discussed earlier. This visual orchestration helped students move from passively receiving knowledge to actively constructing their own understanding, solidifying the concepts through interactive engagement and visual reinforcement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wave Interference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[342.62 -> 607.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Amplitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[342.62 -> 466.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Frequency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[342.62 -> 466.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Wavelength",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[342.62 -> 466.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Stable Regions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[467.6 -> 590.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Wave Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[610.14 -> 642.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Diagram on Whiteboard",
+        "type": "Visual",
+        "original_text": "Wave Interference Diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gesture",
+        "type": "Visual",
+        "original_text": "Sweeping gesture towards students",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Interactive Segment Start",
+        "type": "Visual",
+        "original_text": "Teacher invites student interaction",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Student Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c11",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c12",
+        "label": "Concept Validation",
+        "type": "Visual",
+        "original_text": "Teacher circles correct parts of the diagram",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Wave interference is explained through amplitude."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Wave interference is explained through frequency."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Wave interference is explained through wavelength."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Stable regions are formed through wave interference."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Wave equation used to theoretically explain interference."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Diagram helps visualize wave interference concept."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gesture engages students."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Interactive segment start encourages student response."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Amplitude includes frequency considerations."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Frequency includes wavelength considerations."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "praises_response",
+        "intent": "Teacher visually validates student's correct input."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

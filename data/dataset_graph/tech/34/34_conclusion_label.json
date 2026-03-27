@@ -1,0 +1,134 @@
+{
+  "video_name": "34_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic methods of measuring resistance; develop the ability to extract information from experimental data.",
+  "transcript": "[627.053033 -> 627.58] 好这位同学请来说非常好请坐那么我们再来看一道课堂的小例题我们说如图所示闭合开关后电压表的室数为六伏电流表的室数为零点三伏这时我们要求电阻R的阻值是多大大家一起动手来做做看。\n[632.02 -> 653.38] 同学们都做出来了吗那么其实这道题我们也是用了欧姆定律的这样一个表达式来算的那么哪位同学来说一下这道题的计算结果是什么。\n[655.02 -> 685.14] 好这位同学请你来说非常好请坐那么其实通过这道题目我们得出了电阻测量的另外一个办法它不是用一个测量电阻的仪器来测量它其实是用欧姆定律来测量的那么本节课到这里就结束了同学们和客户思考一下欧姆定律在我们生活中的应用有哪些呢好下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard on the left side of the classroom. It contains handwritten notes and diagrams.\n   - The layout includes a circuit diagram with labeled components and mathematical expressions.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key elements:\n     - A circuit diagram with components labeled as $R_1$, $R_2$, and $R_3$.\n     - Mathematical expressions: $V_1 = I \\cdot R_1$, $V_2 = I \\cdot R_2$, $V_3 = I \\cdot R_3$.\n     - A total voltage expression: $V = V_1 + V_2 + V_3$.\n     - A heading or title in Chinese characters, likely indicating the topic of the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the circuit diagram on the blackboard, likely explaining the connections between components.\n   - The teacher gestures towards the mathematical expressions, possibly reviewing the relationships between voltage, current, and resistance.\n   - The teacher occasionally looks at the screen, possibly to reference or summarize the content displayed.\n\n4. **Transition to Next Step**:\n   - The screen displays a blue box with Chinese text, which might indicate a summary or next steps, but specific details are not clear from the image.\n   - There is no visible homework or assignment slide, but the screen content suggests a potential transition to further material or review.\n\nThis structured visual summary highlights the teacher's focus on reinforcing the key concepts displayed on the blackboard, using gestures to connect the visual elements and ensure student understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying a circuit diagram and key mathematical expressions. The teacher visually wraps up the lesson by pointing to the circuit diagram, emphasizing the connections between the labeled components $R_1$, $R_2$, and $R_3$. She then gestures towards the mathematical expressions, highlighting the relationships $V_1 = I \\cdot R_1$, $V_2 = I \\cdot R_2$, and $V_3 = I \\cdot R_3$, as well as the total voltage equation $V = V_1 + V_2 + V_3$. The teacher's movements suggest a review of these core concepts, ensuring students visually connect the diagram with the equations. The screen displays a blue box with text, possibly indicating a summary or next steps, though specific details are not clear. No explicit homework instructions are visible, but the screen content implies a transition to further material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Circuit Diagram",
+        "type": "Visual",
+        "original_text": "The blackboard displays a circuit diagram with labeled components R1, R2, R3.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c2",
+        "label": "Resistance Measurement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[627.05 -> 627.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[632.02 -> 653.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Voltage Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[632.02 -> 653.38]"
+      },
+      {
+        "id": "c5",
+        "label": "V = V1 + V2 + V3",
+        "type": "Visual",
+        "original_text": "The blackboard shows the total voltage expression V = V1 + V2 + V3.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "V1 = I ⋅ R1",
+        "type": "Visual",
+        "original_text": "Mathematical expression for voltage across R1 as V1 = I ⋅ R1.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Experimental Setup",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.05 -> 627.58]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[655.02 -> 685.14]"
+      },
+      {
+        "id": "c9",
+        "label": "Voltage Meter Reading",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.05 -> 627.58]"
+      },
+      {
+        "id": "c10",
+        "label": "Current Meter Reading",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[627.05 -> 627.58]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Illustrates the concept of resistance measurement through diagram components."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes the fundamental principle used to measure resistance."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Expands on Ohm's Law to describe the procedure for calculating voltage."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Depicts the overall voltage in the circuit."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Shows application of Ohm's Law for component R1."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Consists of voltage reading as part of the experiment."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Consists of current reading as part of the experiment."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Encourages the application of experiment knowledge through student answers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

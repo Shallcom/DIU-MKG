@@ -1,0 +1,166 @@
+{
+  "video_name": "37_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the necessity of isolation in speciation; master the distinction and functions of geographic isolation versus reproductive isolation; reflect on changes in evolutionary concepts.",
+  "transcript": "[695.38 -> 707.54] 从地理隔离到生殖隔离其实我们不难发现隔离是我们整个物种形成的必要条件的\n[710.74 -> 745.98] 那么通过今天的学习我们认识到了隔离它在物种形成当中的状性那么在课后呢老师也希望大家能够结合我们所学对自己在进化方面的观念认识产生的变化改成一个新的台阶好我们本节课的学习就到此结束下课",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key terms written in white chalk. The terms are organized vertically, with each line representing a different concept.\n   - The blackboard also features colored markers (green, yellow, and red) on the left side, possibly indicating different categories or levels of importance.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords visible on the blackboard are:\n     - 地中海気候 (Mediterranean climate)\n     - 荒廃と植林 (Desertification and afforestation)\n     - 山 (Mountain)\n     - 蔵庫算計 (Storage calculation)\n     - 植樹 (Afforestation)\n   - The screen to the right displays a diagram with various climate zones and related processes, including arrows and labels in Japanese.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each term on the blackboard, likely explaining or reviewing them in sequence.\n   - The teacher uses hand gestures to emphasize certain points, such as circling or underlining terms on the board.\n   - The teacher occasionally gestures towards the screen, possibly to connect the blackboard content with the diagram displayed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The teacher's gestures suggest a conclusion to the lesson, but no specific next steps are visually indicated in the frames provided.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on key environmental and geographical concepts. The teacher visually reviews the content by pointing to each term in sequence, including Mediterranean climate, desertification and afforestation, mountains, storage calculation, and afforestation. The teacher uses hand gestures to emphasize these points, occasionally circling or underlining terms for clarity. The screen displays a climate zone diagram, which the teacher references to reinforce connections between the blackboard terms and the visual representation. No explicit homework or next-step instructions are visually presented, marking the end of the session with a focus on the summarized concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geographic Isolation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.38 -> 707.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Reproductive Isolation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.38 -> 707.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Isolation Necessity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[695.38 -> 707.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Speciation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[695.38 -> 707.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Evolutionary Concepts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[710.74 -> 745.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Mediterranean Climate",
+        "type": "Visual",
+        "original_text": "Mediterranean climate",
+        "ocr_corrected": true,
+        "timestamp": "[695.38 -> 745.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Desertification",
+        "type": "Visual",
+        "original_text": "Desertification and afforestation",
+        "ocr_corrected": true,
+        "timestamp": "[695.38 -> 745.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Afforestation",
+        "type": "Visual",
+        "original_text": "Afforestation",
+        "ocr_corrected": true,
+        "timestamp": "[695.38 -> 745.98]"
+      },
+      {
+        "id": "c9",
+        "label": "Mountain",
+        "type": "Visual",
+        "original_text": "Mountain",
+        "ocr_corrected": true,
+        "timestamp": "[695.38 -> 745.98]"
+      },
+      {
+        "id": "c10",
+        "label": "Climate Zone Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with various climate zones and related processes",
+        "ocr_corrected": true,
+        "timestamp": "[695.38 -> 745.98]"
+      },
+      {
+        "id": "c11",
+        "label": "Storage Calculation",
+        "type": "Visual",
+        "original_text": "Storage calculation",
+        "ocr_corrected": true,
+        "timestamp": "[695.38 -> 745.98]"
+      },
+      {
+        "id": "c12",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[695.38 -> 745.98]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Illustrates geographic isolation as a necessary principle."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Illustrates reproductive isolation as a necessary principle."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Emphasizes the necessity of isolation in forming new species."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Reflects on changes in understanding the concept of speciation."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Displays the Mediterranean climate within the climate zone diagram."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Connects desertification with afforestation concepts."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Displays afforestation within the climate zone diagram."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Displays mountain related processes within the climate zone diagram."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "summarizes",
+        "intent": "Reinforces key concepts via visual diagram summarization."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "summarizes",
+        "intent": "Consolidates knowledge visually involving storage calculations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

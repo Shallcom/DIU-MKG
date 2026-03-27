@@ -1,0 +1,190 @@
+{
+  "video_name": "47_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Understand and distinguish the concepts of “构成” (structure) and “组成” (composition) of matter; be able to apply this knowledge to solve practical problems.",
+  "transcript": "[170.46 -> 271.02] 好同学们我们现在开始上课在上课之前啊老师想签大奖大家一起回顾一下我们前面所学的内容我们上节课已经学习过了分子是由原子构成的原子呢又由离子构成而原子呢又可以变为离子那么大家看到这三个填空题大家可以试着来填一填嘛我们的水是由什么什么微粒构成的呀水分子是的那么铁呢铁原子是的我们一起来回顾一下我们前面说过铁原子有物质哪些物质很多物质有哪些物质是由原子构成的金属这位同学收到了金属还有呢我们的稀有气体除此之外还有一些固态部分的固态非金属那么铁是由铁银子构成的好的那么氯化钠呢我们上节课是讲到离子的形成的时候讲到了氯化钠它是由钠离子和绿离子形成构成的是的那大家回顾完了这三个填空题之后大家可不可以得出我们微观的角度来看物质是由大胆地说出来分子原子和离子来构成的那这是从微观的角度宏观上呢会不会有这样的疑问宏观上物质有什么组成呢。\n[272.72 -> 336.38] 那这时候可能有同学会一问构成和组成有什么区别呢是不是会有这样的疑问那老师就带着大家一起来咬文稍微我们稍微咬文讲字一下构成是指它是它的的点是物质的排列方式比如说我们的水分子是不是需要我们的水是不是需要通过水分子来进行一定的排列方式而聚集而成的是吗那所以它那我们的组成大家回想像我们第二单元学习空气的时候我们说空气的组成我们会不会去研究我们空气是由氮气和氧气组成我们会不会去研究氮气和氧气是怎么一个排列方式是的大家都知道我们不会去研究它的排列方式我们只它有什么所以我们组成之有什么那我们现在今天我们就带着这个问题宏观上不知有什么组成这个问题来一起学习我们今天的化石课套。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a large screen displaying a slide titled \"元素\" (Elements) with a subtitle in smaller text.\n- The teacher holds papers and gestures while speaking, likely introducing the topic.\n\n**Middle:**\n- The screen transitions to a slide with a table labeled \"元素一覧\" (List of Elements) and three numbered items:\n  1. 水素の原子番号と原子量 (Hydrogen's atomic number and atomic weight)\n  2. 鉄の原子番号と原子量 (Iron's atomic number and atomic weight)\n  3. 水素と酸素からなる化合物の原子量と化学式 (Atomic weight and chemical formula of compounds made from hydrogen and oxygen)\n- The teacher points to the third item, emphasizing the connection between hydrogen and oxygen.\n- A diagram appears below the list, showing a molecule with arrows indicating the relationship between hydrogen and oxygen atoms.\n\n**End:**\n- The teacher continues to gesture towards the diagram, explaining the molecular structure.\n- A question appears at the bottom of the screen: \"水素と酸素からなる化合物は何ですか？\" (What is the compound made from hydrogen and oxygen?).\n- The teacher emphasizes the question, likely prompting student interaction.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the slide with the list of elements and the molecular diagram.\n- The diagram shows a molecule with labeled atoms and arrows indicating bonds.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis to the third item on the list, highlighting the molecular diagram.\n- **Modifications**: The teacher points to different parts of the diagram while explaining, likely indicating the bonds and atomic structure.\n- **Deictic Gestures**: The teacher points to the molecular diagram, specifically the bonds between hydrogen and oxygen, while discussing the compound.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the molecular structure and the question at the bottom of the screen.\n- The diagram is visually central, drawing attention to the chemical bonds and the compound's formation.\n\nThis structured visual evolution helps students connect abstract concepts of elements and compounds to concrete molecular structures.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"元素\" (Elements), setting the stage for the lesson. The teacher began by introducing the topic, holding papers and gesturing to engage the class. The screen then transitioned to a detailed list under \"元素一覧\" (List of Elements), featuring three key items: hydrogen's atomic number and weight, iron's atomic number and weight, and the atomic weight and chemical formula of compounds formed from hydrogen and oxygen.\n\nAs the lecture progressed, the teacher constructed a molecular diagram below the list, visually linking hydrogen and oxygen atoms. The teacher pointed to the third item, emphasizing the formation of compounds. The diagram was annotated with arrows, illustrating the bonds between hydrogen and oxygen atoms, effectively deriving the molecular structure.\n\nThe teacher then traced the molecular bonds, highlighting the interaction between the atoms. A question appeared at the bottom of the screen: \"水素と酸素からなる化合物は何ですか？\" (What is the compound made from hydrogen and oxygen?). The teacher resolved deixis by pointing directly to the molecular diagram, reinforcing the connection between the elements and the compound.\n\nFinally, the teacher circled the molecular structure and the question, drawing attention to the key takeaway. This visual strategy, combined with dynamic gestures and clear annotations, reduced cognitive load by providing a structured and focused narrative, guiding students through the formation of compounds from basic elements.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Structure of Matter",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[170.46 -> 271.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Composition of Matter",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[272.72 -> 336.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Molecule Formation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Atomic Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Hydrogen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Oxygen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c7",
+        "label": "Atomic Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c8",
+        "label": "Atomic Weight",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c9",
+        "label": "Compound Formation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "c10",
+        "label": "Hydrogen and Oxygen Bonds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[170.46 -> 336.38]"
+      },
+      {
+        "id": "v1",
+        "label": "List of Elements Slide",
+        "type": "Visual",
+        "original_text": "Slide with a list of elements, featuring hydrogen, iron, and compounds.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Molecular Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing bonds between hydrogen and oxygen atoms.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Explains how the structure of matter forms the basis for molecule formation."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Links the concept of composition with the formation of compounds."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Highlights the atomic characteristics including atomic number."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Describes the atom's weight as a fundamental characteristic."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Discusses hydrogen's role in bonding with oxygen."
+      },
+      {
+        "source": "c6",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Describes oxygen's role in forming bonds with hydrogen."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Displays atomic numbers for visual reference."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Illustrates atomic weights for students."
+      },
+      {
+        "source": "v2",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Shows the specific bonds between hydrogen and oxygen atoms."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Provides a visual scaffold for understanding compound formation."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Lists hydrogen as a key element."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Displays oxygen as an element connected to compounds."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages consideration of matter's structure."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Stimulates thinking about matter's composition."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

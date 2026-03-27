@@ -1,0 +1,152 @@
+{
+  "video_name": "5_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Be able to design and implement a teaching plan that integrates patriotic education into information technology courses; analyze how to achieve the integration of patriotic education in IT teaching through concrete case studies.",
+  "transcript": "[0.0 -> 142.4] 教学中你将如何把爱国教育融入课堂请举例说明我将从以下几个方面进行举例说明首先我认为爱国教育不仅仅是对国家的更是国家的历史实证和人文精神等多方面的在历史方面我在初中科学水的福利这一章节的教学过程中引入了语文中的语文中庆元春长沙来激励学习们来激励同学们要进行主动来进行主动的学习要知道我们的未来是不可预期的同学们的未来都是光明的其次来科技的发展在水的福利中我提到了我们目前科技的下潜深度火箭的发射和沉船打捞等多方面的技术发展这是同同学们需要的因为我们科学就是涉及到这一方面知识的运用所以同学们应当对科学的科对科技发展有一个正确的认识其次是实证我们能够做些什么当我们的环境污染在加剧时同学们要知道环境污染是什么造成的比如我们我们的过度畜牧排放污水所以我们的同学们在学习了水水这一章节时要知道我们水资源的保护是从多方面进行的我们可以进行退耕还林来我然后从石令来畜牧还有我们的禁渔期的多种多种措施以上是我的几期演讲。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital presentation displayed on a large screen. The hook object is a webpage with a blue box labeled \"视频\" (video). The teacher uses this to initiate the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is not explicitly written on the board but is part of the digital presentation. The teacher does not write anything on the board during this segment. The screen displays text in Chinese, which includes a title or heading related to the lesson content.\n\n#### 3. **The Objectives**\n- No specific learning objectives are listed on the screen or board during this segment. The focus is on the digital content displayed.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely emphasizing points related to the content on the screen.\n- She occasionally points to the screen, directing attention to the blue box labeled \"视频.\"\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front, interacting with the digital screen displaying a webpage.\n- The screen shows a blue box labeled \"视频\" and accompanying text in Chinese.\n- The teacher gestures with her hands, holding papers, and points to the screen to highlight the content.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize points.\n- She occasionally looks at the students, maintaining engagement while referring to the screen content.\n- The digital presentation remains static, focusing on the blue box and surrounding text.\n\n**End:**\n- The teacher continues to gesture and speak, maintaining focus on the screen content.\n- No additional changes occur on the board or screen during this segment.\n- The teacher's gestures remain consistent, linking her explanations to the visual content on the screen.\n\n### Summary\nThe introduction phase centers on a digital presentation with a blue box labeled \"视频.\" The teacher uses hand gestures and pointing to engage with the content, directing student attention to the screen. No specific learning objectives or board writing are observed in this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, facing a digital screen displaying a webpage with a prominent blue box labeled \"视频.\" This visual hook captures the students' attention, setting the stage for the lesson. The teacher holds papers and uses hand gestures to emphasize key points, occasionally pointing to the screen to highlight the blue box and surrounding text. As the lesson progresses, the teacher maintains focus on the digital content, using deliberate gestures to guide student attention. The screen remains static, with the blue box serving as the central visual element. The teacher's actions bridge the hook to the main topic by consistently linking her explanations to the visual content, ensuring students connect the introduction to the forthcoming lesson material. This approach helps establish a foundation for the new knowledge, linking it to the visual stimulus and preparing students for deeper engagement with the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Patriotic Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Historical Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Human Spirit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Technology Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Environmental Pollution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Water Conservation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Reforestation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "c8",
+        "label": "Fishing Ban Period",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 142.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Webpage Blue Box",
+        "type": "Visual",
+        "original_text": "A webpage with a blue box labeled 'Video'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Presentation",
+        "type": "Visual",
+        "original_text": "Screen displaying Chinese text related to lesson content",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The digital presentation visualizes patriotic education principles."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Technology development concepts are visualized in the digital presentation."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Environmental pollution concepts build upon procedures for water conservation."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Patriotic education includes historical context."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Patriotic education includes human spirit elements."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Technology development builds upon understanding environmental pollution."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Water conservation includes reforestation procedures."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Water conservation includes fishing ban period procedures."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The blue box labeled 'Video' emphasizes student engagement."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "The webpage's blue box includes surrounding digital presentation text components."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

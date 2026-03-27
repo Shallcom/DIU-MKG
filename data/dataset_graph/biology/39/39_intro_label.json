@@ -1,0 +1,173 @@
+{
+  "video_name": "39_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Develop students’ critical‑thinking abilities through scientific‑inquiry case studies; understand the application of scientific research methods in biology.",
+  "transcript": "[0.0 -> 88.9] 首先古语有云玉不浊不成器人不学不知道事故古之亡者见过君明教学为先这句话深刻揭示了教学的重要性从我们踏上三尺脚台开始就已经担负起了教育学生的伟大职责那我想从以下两个例子来说说如何在生物课堂中发展学生的科学思维第一我们在学习探究美本质的过程之中从科学家从最初认为发发酵是一个纯化学反应到后来巴斯德认为发酵与活细胞有关尼比希认为发酵与死细胞中的某些物质有关到后来科学家们发现原来酶是蛋白质在他现在我们知道少数的RA也具有催化作用在这个过程中我们不通过一步一步的探究不断的发展学生的批判性思维第二在摩尔根的探究实验之中通过假兽演绎法",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features an image of a green, glowing DNA strand. The text on the slide reads: \"基因通常是具有遗传效应的DNA片段.\"\n\n#### 2. **The Title Event**\n- The title on the screen is \"基因通常是具有遗传效应的DNA片段.\" The teacher does not physically write this; it is part of the digital presentation. The teacher gestures towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are listed on the visible part of the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely emphasizing the content displayed.\n- The teacher uses hand movements to engage with the audience, possibly pointing or indicating the text on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the digital screen displaying the slide with the DNA image and text.\n- The teacher holds papers, possibly notes or a lesson plan, and gestures towards the screen.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, emphasizing the title and image.\n- The teacher's movements suggest explaining the content related to the DNA image and text.\n\n**End:**\n- The teacher maintains focus on the screen, ensuring students' attention is directed towards the visual content.\n- No additional changes to the board or screen are observed in this segment.\n\nThis structured visual analysis captures the teacher's actions and their direct link to the visual content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the screen presents an image of a glowing DNA strand alongside the text \"基因通常是具有遗传效应的DNA片段,\" serving as the hook to capture student attention. To bridge to the topic, the teacher gestures towards the screen, holding papers and emphasizing the visual content. The visual focus remains on the title displayed on the screen, establishing the lesson goal. This introduction connects the new knowledge of genetic effects to students' existing understanding of DNA, setting the stage for deeper exploration of genetic concepts. The teacher's gestures and focus on the screen help direct student attention, ensuring a clear transition into the main topic of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c2",
+        "label": "DNA Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Genetic Effects",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Fermentation Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Chemistry Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Living Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c9",
+        "label": "Enzymes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c10",
+        "label": "Protein Catalysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "c11",
+        "label": "RNA Catalysis",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 88.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Glowing DNA Image",
+        "type": "Visual",
+        "original_text": "Green, glowing DNA strand image.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Text Slide",
+        "type": "Visual",
+        "original_text": "\"Genes are segments of DNA with genetic effects.\"",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the concept of a gene."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The DNA image links to the concept of DNA structure."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "A gene contributes to genetic effects."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Scientific inquiry develops critical thinking."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The fermentation process was initially considered a chemical reaction."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Understanding of fermentation evolved to involve living cells."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Protein catalysis involves enzyme activity."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "RNA can also have catalytic functions, similar to enzymes."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Scientific inquiry helps understand genetic effects."
+      },
+      {
+        "source": "ss1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students are encouraged to develop critical thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,170 @@
+{
+  "video_name": "43_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Understand the mechanism of resting‑potential generation; be able to explain the process of action‑potential generation.",
+  "transcript": "[492.52 -> 644.74] 好那么请大家来看老师在黑板上画的模式图在这个图当中呢我画了四个离子通道我们一起来认识一下首先这个呢是我们的钠甲泵通道它呢可以在ATP的作用下同时向两边一边运输钠离子一边运输钾离子那么第二个通道呢我们叫做钾离子通道也就是在我们的这个通道里面之前所学习的协助扩散当中常见的一种通道那么第三个通道就是我们刚刚所介绍的一种门控通道它是用来运输钠离子的门控通道而第四个呢是钾离子的门控通道大家要注意区分这个呢是不需要门控的这个呢是有门控的那么接下来就让我们一起来探究一下进吸电位和动作电位是如何产生的首先第一步进吸电位刚刚我们在蛙的坐骨神经实验当中发现蛙的神经外侧是什么电位正电位那正电位是如何产生的呢首先在我们的细胞园内甲离子的浓度高还是钠离子的浓度高应该是甲离子的浓度比较高那么在外侧的钠离子的浓度比较高那由于这里有一这个钾离子通道是开放的因此我们的钾离子是不是应该从高浓度向低浓度运输啊所以呢钾离子它就从内侧向外侧运输那么内侧的正电荷变少外侧的正电荷变多就产生了我们外侧显正电荷而内侧是负电荷的情况那么在科学家的研究下呢发现膜内外侧的电位差恰恰是七十毫伏",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the diagram on the blackboard, which depicted a series of interconnected circles labeled with ions: $\\text{Na}^+$, $\\text{K}^+$, and $\\text{Ca}^{2+}$. This diagram was central to the discussion of nerve impulse conduction.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize the flow of ions through the diagram. She pointed sequentially to each ion label, reinforcing the sequence of events in nerve impulse conduction.\n- The teacher also nodded and maintained eye contact with the student, providing non-verbal encouragement and validation of their input.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher drew additional arrows on the blackboard to highlight the direction of ion movement, visually clarifying the process.\n- She circled the $\\text{Na}^+$ and $\\text{K}^+$ labels, indicating their critical role in the process, and added a brief note next to the $\\text{Ca}^{2+}$ label to emphasize its function.\n- The teacher gave a thumbs-up gesture, visually confirming the correctness of the student's explanation.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Focus shifts to the blackboard diagram with $\\text{Na}^+$, $\\text{K}^+$, and $\\text{Ca}^{2+}$.\n\n- **Middle:**\n  - Teacher points to each ion label in sequence while a student speaks.\n  - Nods and maintains eye contact, providing non-verbal cues.\n\n- **End:**\n  - Draws additional arrows to show ion movement direction.\n  - Circles $\\text{Na}^+$ and $\\text{K}^+$, adds note next to $\\text{Ca}^{2+}$.\n  - Gives thumbs-up to confirm correct understanding.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students grasp the nerve impulse conduction process through guided visual cues and real-time feedback.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the blackboard displayed a diagram illustrating nerve impulse conduction, with labeled ions $\\text{Na}^+$, $\\text{K}^+$, and $\\text{Ca}^{2+}$. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content. This broad motion signaled the start of an interactive discussion, focusing attention on the diagram.\n\nAs a student began to explain their understanding, the teacher moved to the blackboard, using deliberate hand gestures to point to each ion in sequence. She traced the path of ions through the diagram, reinforcing the flow of information. While the student spoke, the teacher nodded and maintained eye contact, providing non-verbal encouragement. She also jotted down key terms from the student's explanation next to the diagram, visually linking their thoughts to the lesson content.\n\nTo validate the student's response, the teacher drew additional arrows on the blackboard, clearly indicating the direction of ion movement. She circled the $\\text{Na}^+$ and $\\text{K}^+$ labels and added a note next to $\\text{Ca}^{2+}$, emphasizing their roles. A thumbs-up gesture confirmed the correctness of the student's explanation, serving as a visual affirmation.\n\nFinally, the teacher connected the student's response back to the core lesson by drawing lines from the newly added notes to the main diagram, illustrating how each component contributes to nerve impulse conduction. This visual linkage helped students see the broader context and actively construct their understanding, moving from passive reception to active engagement with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Resting Potential",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Action Potential",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Na+ Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c4",
+        "label": "K+ Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Ca2+ Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c6",
+        "label": "ATP",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Ion Channels",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c8",
+        "label": "Sodium-Potassium Pump",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "c9",
+        "label": "Membrane Potential Difference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[492.52 -> 644.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Nerve Impulse Diagram",
+        "type": "Visual",
+        "original_text": "Blackboard diagram with ions Na+, K+, Ca2+.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Resting potential contributes to membrane potential."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Action potential arises from changes in membrane potential."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Resting potential involves Na+ ion distribution."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Resting potential involves K+ ion distribution."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Action potential involves Na+ ion flow."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Action potential involves K+ ion flow."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Sodium-potassium pump requires ATP."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Ion channels include sodium-potassium pump."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Diagram shows Na+ ion part of nerve impulse."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram shows K+ ion part of nerve impulse."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Diagram shows Ca2+ ion part of nerve impulse."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Engagement with action potential concept."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engagement with resting potential concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,134 @@
+{
+  "video_name": "8_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the role of high‑school mathematics in cultivating well‑rounded talent; master the survey methods employed in the national census; recognize the importance of basic statistical knowledge in national governance.",
+  "transcript": "[0.0 -> 3.78] 字幕由 Amara.org 社区提供。\n[11.2 -> 65.0] 中间各位评委老师大家好今天我收到的仔细演讲题目是你对高中数学亦得数人的理解高中数学作为一门基础学科它不仅要求学生对知识的理解还有学生对施政和各种价值观有正确的理解高中数学是培养大学人才的基础那么当学生们进入大学之后如果他都没有德只有才那么无法做到德才兼备我们国家需要的是德才兼备兼备了人才如果你没有德只有才的话那么对于我们国家来说你是没有用处的所以说我们国家需要培养德才兼备了人才才能够使我们的国家更加繁荣昌盛我的即兴演讲题目我的即兴演讲到此结束。\n[66.16 -> 68.1] 下面开始我的模拟收购环节。\n[76.32 -> 100.82] 同学们好上课在上课之前请同学们将教材翻到一百七十三页同学们知道我们国家隔几年就会进行全国人口的普查那么对全国人口的普查同学们觉得会采用什么样的调查方法呢。\n[106.32 -> 137.6] 我们知道对于人口普查它的调查方法有全民调查法那么全民调查法是什么样的呢就是将调查对象的全体称为总体对调查对象的调查对象称为个体对一部分调查的个体来估计总体这样的方法能够节省我国的人力和财力这种方法对于我们国家的财产安排有一定的保障。\n[140.6 -> 145.1] 那么在上这一课之前请同学们观察一下这样一个问题。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher interacting with a digital screen displaying the text \"9.1.1 简单随机抽样\" in red and blue. This is the initial visual object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"9.1.1 简单随机抽样.\" The teacher does not write this on the board but points to it on the screen, emphasizing the title with a gesture.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title.\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the digital screen, pointing at the title \"9.1.1 简单随机抽样.\"\n- The teacher holds papers and occasionally gestures with them, possibly to emphasize points or transition between topics.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying \"9.1.1 简单随机抽样.\"\n- The teacher points to the title on the screen, drawing attention to the lesson's focus.\n\n**Middle:**\n- The teacher moves slightly, maintaining eye contact with the audience while holding papers.\n- The teacher gestures with the papers, possibly indicating the start of an explanation or introduction to the topic.\n\n**End:**\n- The teacher continues to stand in front of the screen, occasionally looking at the audience and gesturing with the papers.\n- The screen remains static, displaying the title throughout the segment.\n\n### Summary\nThe introduction phase centers around the digital screen displaying \"9.1.1 简单随机抽样.\" The teacher uses gestures to emphasize the title and engage the audience, setting the stage for the lesson on simple random sampling. No additional visual content or objectives are introduced during this segment.",
+  "visual_narrative": "Initially, the screen presents the title \"9.1.1 简单随机抽样\" in red and blue, serving as the hook to capture attention. To bridge to the topic, the teacher points directly at the title on the screen, emphasizing its importance. The teacher holds papers and gestures with them, possibly to introduce the concept or outline the lesson structure. The visual focus remains on the title throughout, establishing the lesson goal of understanding simple random sampling. This introduction connects the new knowledge by highlighting the title prominently, preparing students for a structured exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Random Sampling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[76.32 -> 100.82]"
+      },
+      {
+        "id": "c2",
+        "label": "National Census",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[76.32 -> 100.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Complete Enumeration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[106.32 -> 137.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Population",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[106.32 -> 137.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Census Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[76.32 -> 100.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Resource Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[106.32 -> 137.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Governance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 3.78]"
+      },
+      {
+        "id": "c8",
+        "label": "High-School Mathematics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[11.2 -> 65.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Well-Rounded Talent",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[11.2 -> 65.0]"
+      },
+      {
+        "id": "c10",
+        "label": "Digital Screen Title",
+        "type": "Visual",
+        "original_text": "9.1.1 Simple Random Sampling",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Introductory Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Explains the importance of high-school mathematics in developing well-rounded talent."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The digital title visually emphasizes the focus on simple random sampling."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Details the census methods used in national population studies."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Complete enumeration method is a specific method within census techniques."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Shows how complete enumeration ensures efficient use of resources."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Relates the role of statistical knowledge in governance to the use of census methods."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The introduction to simple random sampling encourages student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

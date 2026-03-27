@@ -1,0 +1,140 @@
+{
+  "video_name": "35_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Master the formation and usage of English past tense; be able to correctly apply past‑tense structures to complete sentence exercises.",
+  "transcript": "[540.0 -> 625.06] 您好您好您好认为很棒的好吗第三个是请给她一个掌声很棒的你能知道过去的结构和第二个练习是这六个句子的答案我会给你三十秒钟找到正确的答案好吗。\n[626.94 -> 753.88] 纸巾包裹上的纸巾包裹包裹上的纸�OKIbelieveyouhavegottherightanswerOKsothefirstonewhowanttotryhowaboutyouPleasechecktheanswerIt'sgreatOKsodon'tpleaseandthesecondhowaboutyou第五个是I believeyou haveknowthiscontentOKthisisthelastpracticeandwewillpracticethispartOKnowthat'sallformypresentationthankyouforthis。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard displaying a slide titled \"Consolidation.\"\n   - The slide is structured with three main sections: \"Consolidation,\" \"Production,\" and \"Evaluation,\" with the \"Consolidation\" section highlighted.\n   - The slide contains a bulleted list of key points related to wildlife protection strategies.\n\n2. **Key Knowledge Items (Content View)**:\n   - The visible key points on the slide include:\n     1. \"The hunting of wild animals should be strictly controlled.\"\n     2. \"The number of wild animals should be monitored.\"\n     3. \"The habitats of wild animals should be protected.\"\n     4. \"The breeding of wild animals should be encouraged.\"\n     5. \"The public should be educated to protect wild animals.\"\n   - The blackboard has the heading \"Wildlife Program\" and the phrase \"to bring done preserve present conditions.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the slide in sequence, emphasizing the strategies listed.\n   - She uses her finger to trace along the text, ensuring each point is highlighted as she explains.\n   - The teacher occasionally turns to the blackboard, pointing at the phrase \"to bring done preserve present conditions,\" linking it to the slide content.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the current slide or blackboard.\n   - The focus remains on reviewing the consolidation points, suggesting a wrap-up rather than transitioning to new tasks.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Consolidation,\" prominently displaying a bulleted list of key wildlife protection strategies. The teacher systematically points to each bullet point, moving through the list in sequence to ensure each strategy is highlighted. She emphasizes the importance of each point by pausing briefly as she gestures toward the text. The blackboard, with the heading \"Wildlife Program\" and the phrase \"to bring done preserve present conditions,\" remains visible, reinforcing the lesson's theme. The teacher occasionally turns to the blackboard, linking the slide content with the written phrase, underscoring the core takeaway. No visual elements indicate homework or next steps, focusing solely on the review of the consolidation points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Consolidation Slide",
+        "type": "Visual",
+        "original_text": "The slide titled 'Consolidation' features bulleted points on wildlife protection strategies.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Wildlife Program Blackboard",
+        "type": "Visual",
+        "original_text": "The blackboard displays the heading 'Wildlife Program' and the phrase 'to bring done preserve present conditions.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Hunting Control",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.0 -> 625.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Animal Monitoring",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.0 -> 625.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Habitat Protection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.0 -> 625.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Breeding Encouragement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.0 -> 625.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Public Education",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.0 -> 625.06]"
+      },
+      {
+        "id": "s1",
+        "label": "Response Validation",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[626.94 -> 753.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Past Tense Usage",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.0 -> 753.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Sentence Completion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.0 -> 753.88]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually presents each bullet point related to wildlife protection."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide visually presents each bullet point related to wildlife protection."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The slide visually presents each bullet point related to wildlife protection."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide visually presents each bullet point related to wildlife protection."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The slide visually presents each bullet point related to wildlife protection."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "links",
+        "intent": "Connects the Wildlife Program theme with past tense usage facilitated by the teacher."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "links",
+        "intent": "Connects the theme with sentence completion exercises demonstrated by the teacher."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "answers",
+        "intent": "Students engage in completion exercises to validate their knowledge of past tense structures."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Utilizing the principle of past tense knowledge for practical sentence completion tasks."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

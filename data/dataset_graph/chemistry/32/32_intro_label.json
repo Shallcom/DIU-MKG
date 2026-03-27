@@ -1,0 +1,141 @@
+{
+  "video_name": "32_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Master the fundamental principle that the structure of a substance determines its properties; enhance abilities in evidence‑based reasoning and model cognition; understand the application of the concepts of change and balance in chemistry.",
+  "transcript": "[0.0 -> 69.8] 用到实际教学之中首先我认为对于宏观辨识与微观探析的化学学科核心素养可以在物质的结构决定性质这一类型的课程当中进行深入的探究例如我们在必修第一册学习碱金属元素性质时可以让学生进行分析碱金属元素最外层电子数均为一那么由此可以推测出碱金属元素具有易失去电子的性质从而得到碱金属元素具有较高的还原性的特点。\n[71.54 -> 90.0] 对于证据推理与模型认知这一核心素养我认为可以在探讨原电池的这一节课中进行推测构建同性原电池时产生的现象是铜片上产生气泡那么这与学生的认知是存在着一定矛盾的那么通过推理铜片上产生的气泡是什么气体得到是氢气后那么进一步推测氢离子得到的电子是由谁提供的那么最后就可以得到电子的转移途径是从芯片经过导线到铜片表面那么发展学生证据推理与模型认知的化学学科核心素养对于变化观念与平衡思想的化学学科核心素养我认为对于变化观念还可以在学习元素的性质这一节课中进行深入探究例如我们可以通过探究碱金属元素河外电子层的变化那么得到由河外电子层的变化那么就能得到结构的变化递变性那么能得到碱金属元素性质的递变性那么以上就是我即席演讲的全部内容下面准备开始我的模拟授课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide contains text in Chinese, with a prominent blue box labeled \"1.1.1 反应热.\"\n\n#### 2. **The Title Event**\n- The title on the screen is \"1.1.1 反应热.\" The teacher does not physically write this; it is part of the digital presentation. The teacher stands next to the screen, emphasizing the title by positioning themselves near it.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment. The focus is on the title and introductory content.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely to emphasize the content displayed. There are no specific gestures like pointing or underlining observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays a slide with the title \"1.1.1 反应热\" in a blue box.\n- The teacher's initial position is slightly to the left of the screen, directing attention to the slide.\n\n**Middle:**\n- The teacher remains stationary, occasionally glancing at the papers and then back at the class.\n- The screen content does not change, maintaining focus on the title.\n- The teacher's gestures are minimal, primarily involving slight movements to engage with the audience.\n\n**End:**\n- The teacher continues to stand near the screen, reinforcing the introductory title.\n- No additional visual elements or changes occur on the board or screen.\n- The teacher's posture and position remain consistent, emphasizing the slide content.\n\n### Summary\nThe introduction phase centers on the digital slide titled \"1.1.1 反应热.\" The teacher uses their position and subtle gestures to direct attention to the screen, maintaining focus on the introductory content without additional visual changes or objectives displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a digital screen displaying the hook object: a slide titled \"1.1.1 反应热\" in a prominent blue box. The teacher's initial position to the left of the screen directs attention to the slide, establishing the visual focus. Throughout the introduction, the teacher maintains a stationary posture, occasionally glancing at the papers and then back at the class, reinforcing the content displayed. The screen remains unchanged, keeping the focus on the introductory title. The teacher's subtle gestures, such as slight movements and positioning near the screen, emphasize the importance of the topic without additional visual transitions. This approach creates a clear link to the main topic, grounding the students' attention on the concept of reaction heat. By maintaining focus on the title and using minimal gestures, the teacher effectively bridges the hook to the main topic, preparing students for the subsequent exploration of the subject matter. This method ensures that the introduction connects to the students' existing knowledge framework, setting the stage for deeper understanding and engagement with the new content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Substance Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Properties Determination",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Evidence-Based Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Model Cognition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Change Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Balance in Chemistry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Reaction Heat",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Core Competence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[71.54 -> 90.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Macroscopic Identification",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "c10",
+        "label": "Microscopic Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 69.8]"
+      },
+      {
+        "id": "v1",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "The digital slide with the title '1.1.1 Reaction Heat' in a prominent blue box.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Focus on Introductory Slide",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding that the structure of a substance determines its properties."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Developing modeling cognition through evidence-based reasoning."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Linking macroscopic identification with microscopic analysis."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Visual representation of the concept of reaction heat."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The core competence includes understanding of balance in chemistry."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of reaction heat as presented in the slide."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Application of change leads to understanding balance in chemistry."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,180 @@
+{
+  "video_name": "43_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the propagation modes of electromagnetic waves and their capture methods; master the formula for calculating the speed of electromagnetic waves in vacuum; be able to construct a model relating electromagnetic waves to water waves.",
+  "transcript": "[450.58 -> 459.98] 那么由此呢他还提出了电的光的电磁理论光是以波动形式传播的一种电磁振动。\n[462.1 -> 540.08] 那么接下来请同学们看书本的一百二十页做一做既然我们了解了一定的电磁波那么电磁波应该怎么捕捉呢我们通过这个实验仪器进行如图我们可以看到在高压发射器系上可以安装两根约一米带有效带有带有放电电极的铜管A和A和B那么两极的间隙大概都在零点五厘米铜管铜管构成了发射的天线绝缘架上固定同样的两根铜管C和DC和D作为接收天线两管形成了一个直线中间连接了一个电流表那么B和高压发生器G的电源在两个电极中就可以产生放电火花让接收天线与发射天线平行改变两个天线的距离观察电流表的时速变化同学们以小组为单位我们一起来看一下电流表述数究竟有着怎样的变化。\n[543.68 -> 560.853567] 那么电磁波在水波中我们将凸起的最高处称为波峰凹下的最低处叫为波谷那么同样在水波中有波速波长与频率之间的关系C等于F那么在电磁波中我们可以类比水波也可以得到其在真空中的速度并且其在真空中的速度等于三乘以十的八次方米每秒那么我们根据公式知道它一定的知道在真空中的波速然后知道一定的就可以求另一个值这是我们在数学这是我们在物理应用中的一些。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content displayed on the interactive whiteboard, specifically the section titled \"学习新知\" (Learning New Knowledge) and the diagram labeled \"电能表的构造\" (Structure of an Electric Meter). The teacher pointed directly at the diagram, highlighting specific components of the electric meter.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and nodded to encourage the student. The teacher also pointed to the relevant parts of the diagram on the whiteboard, such as the \"电能表的构造\" section, to guide the student's explanation. This visual cue helped the student connect their verbal response to the visual content.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by pointing to the correct components on the diagram. The teacher also used hand gestures to emphasize key points, such as tracing the flow of electricity through the meter. Additionally, the teacher wrote key terms and annotations on the whiteboard, reinforcing the student's correct understanding and providing further clarification where necessary.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher made a sweeping gesture towards the class, signaling the start of the interaction.\n  - The teacher pointed to the \"电能表的构造\" diagram on the whiteboard, highlighting specific components.\n\n- **Middle:**\n  - While a student was responding, the teacher nodded and maintained eye contact to encourage the student.\n  - The teacher pointed to relevant parts of the diagram, such as the flow of electricity, to guide the student's explanation.\n\n- **End:**\n  - The teacher visually validated the student's input by pointing to the correct components on the diagram.\n  - The teacher wrote key terms and annotations on the whiteboard, reinforcing the student's correct understanding.\n  - The teacher used hand gestures to emphasize key points and provide further clarification.\n\nThis structured visual interaction ensured that the teacher effectively managed the dialogue, guiding students through the co-construction of knowledge with clear visual cues and feedback.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the \"学习新知\" (Learning New Knowledge) section, featuring a detailed diagram of an electric meter's structure. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content. This broad gesture signaled the start of an interactive segment, focusing attention on the diagram labeled \"电能表的构造\" (Structure of an Electric Meter).\n\nAs the teacher initiated the discussion, they pointed directly at specific components of the diagram, highlighting key elements such as the flow of electricity through the meter. This visual cue set the stage for student participation, encouraging them to think critically about the electric meter's functionality.\n\nWhile a student explained their reasoning, the teacher walked over to the interactive whiteboard and used a pointer to trace the trajectory of the electrical flow depicted in the diagram. The teacher's movements were deliberate, emphasizing the path electricity takes through the meter. Simultaneously, the teacher nodded and maintained eye contact, providing non-verbal encouragement and support. To further scaffold the student's explanation, the teacher jotted down key terms and annotations on the whiteboard, linking the student's verbal response to the visual content.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the correct components on the diagram, reinforcing the accuracy of the student's understanding. The teacher then drew arrows connecting the student's correct answer back to the main principles of electric meter operation discussed earlier, visually linking the new knowledge to the core lesson content.\n\nFinally, the teacher summarized the key points by pointing to the annotations and the diagram, ensuring that the visual elements on the board reinforced the concepts being taught. This dynamic interaction helped students move from passively receiving knowledge to actively constructing their own understanding, as they visually connected their responses to the lesson's core principles. Through the teacher's strategic use of gestures, annotations, and visual feedback, the students were guided to internalize and apply the knowledge effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Waves",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.58 -> 459.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Propagation Mode",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.58 -> 459.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Capture Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[450.58 -> 459.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Speed in Vacuum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[543.68 -> 560.85]"
+      },
+      {
+        "id": "c5",
+        "label": "Electric Meter Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[459.98 -> 462.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Electric Meter Diagram",
+        "type": "Visual",
+        "original_text": "Diagram titled Structure of an Electric Meter",
+        "ocr_corrected": true,
+        "timestamp": "[459.98 -> 462.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Electricity Flow",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[459.98 -> 462.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Water Wave Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[543.68 -> 560.85]"
+      },
+      {
+        "id": "c8",
+        "label": "Wave Crest",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[543.68 -> 560.85]"
+      },
+      {
+        "id": "c9",
+        "label": "Wave Trough",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[543.68 -> 560.85]"
+      },
+      {
+        "id": "c10",
+        "label": "Frequency Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[543.68 -> 560.85]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[462.1 -> 540.08]"
+      },
+      {
+        "id": "s2",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[462.1 -> 540.08]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Illustrates the structure of the electric meter."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Depicts the flow of electricity through the meter."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Describes a way in which electromagnetic waves propagate."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Provides methods to capture electromagnetic waves."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Discusses the speed at which electromagnetic waves travel in a vacuum."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Modeling electromagnetic waves using water wave analogy."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Defines crest as part of the wave model relating to electromagnetic waves."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Defines trough as part of the wave model relating to electromagnetic waves."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Relates wave speed, wavelength, and frequency in the water wave model."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "engages_with",
+        "intent": "Engaged with understanding the electric meter structure."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "engages_with",
+        "intent": "Provides response tied to the flow of electricity through the meter."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Facilitates understanding of the electromagnetic wave model."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

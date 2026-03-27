@@ -1,0 +1,158 @@
+{
+  "video_name": "39_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand how to foster the concept of holistic student development in the classroom; master methods for appropriately responding to students’ inappropriate behavior; reflect on the teacher’s guiding responsibilities within the educational process.",
+  "transcript": "[0.0 -> 124.86] 大家要怎么做首先我认为我们在培养学生的理念应该是要培养应该是要立得树人培养全面发展的学生意思是学生不仅在学业上要有优异的成绩在生活上在身心的健康方面也是教师需要注意的那么学生做出这样的行为作为教师在课堂上我会以善意的方式来回应这位同学尽量让他的话不要掉到地上让他不要在课堂上面引起别的同学的注意尽快地结束这一场闹剧那么在课后我会尽快地约谈这位同学与这位同学进行身心上面的一个与这位同学进行心理上的一个交流同时要告诉他在课堂上面对教师做出这样的行为影响了课堂的秩序是不正确的我要他课后在教学在学习方面有什么样的需求尽可能的鼓励他回应他那么我认为学生在课堂上面做出这样的行为主要是想要引起老师的注意也想要表现自己那么我就会鼓励他回应他去发掘他更多的一些优点那么教师也要以身作则将来我走上教育岗位的时候也会引力得数的这一个理念做好我教育的工作那么我的集体讲演就到此结束下面开始我的模拟授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the slide displayed on the screen at the beginning of the lesson. It contains Chinese text: \"青春的价值，请说的珍贵\" which translates to \"The value of youth, please speak of its preciousness.\"\n\n#### 2. **The Title Event**\n- The title on the screen is \"青春的价值，请说的珍贵\" (The value of youth, please speak of its preciousness). The teacher stands in front of the screen, presenting the slide without additional writing on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with her hands while speaking, but no specific gestures are linked to the board content in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class with a presentation slide visible on the screen.\n- The slide displays the title \"青春的价值，请说的珍贵\" (The value of youth, please speak of its preciousness).\n- The teacher holds papers and begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to speak, occasionally gesturing with her hands to emphasize points.\n- The blackboard remains blank except for a few small markings on the left side.\n- The screen remains static, displaying the same title slide throughout this part of the introduction.\n\n**End:**\n- The teacher maintains her position in front of the screen, continuing to engage with the students.\n- No additional visual content is added to the board or screen during this segment.\n\n### Summary\nThe introduction phase focuses on the slide titled \"青春的价值，请说的珍贵\" (The value of youth, please speak of its preciousness). The teacher uses hand gestures and speaks to engage the students, with no additional visual elements introduced on the board or screen during this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, presenting a slide titled \"青春的价值，请说的珍贵\" (The value of youth, please speak of its preciousness) as the opening visual stimulus. The teacher holds papers and engages with the students, using hand gestures to emphasize her points. The blackboard remains largely blank, with only a few small markings visible on the left side, ensuring the focus stays on the screen. Throughout the introduction, the slide remains static, serving as a consistent visual anchor. The teacher's gestures and positioning in front of the screen create a bridge between the hook and the main topic, subtly guiding students to reflect on the value of youth. This setup likely aims to connect the students' existing experiences with the broader theme of appreciating youth, setting the stage for deeper exploration of the topic in subsequent lessons.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Holistic Student Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Inappropriate Behavior Response",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Teacher’s Guiding Responsibilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Academic Achievement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Mental Health",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Physical Well-being",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Attention Seeking Behavior",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Psychological Interaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Teacher’s Encouragement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Value of Youth Slide",
+        "type": "Visual",
+        "original_text": "The value of youth, please speak of its preciousness",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Teacher’s guiding responsibilities enhance holistic student development."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Holistic development includes academic achievement."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Holistic development includes mental health."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Holistic development includes physical well-being."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Teacher’s guides help manage student behavior."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Responding to inappropriate behavior involves psychological interaction."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "addresses_misconception",
+        "intent": "Attention seeking is addressed through behavior management."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Guiding responsibilities involve teacher encouragement."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Encouragement includes addressing attention-seeking behavior."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide emphasizes the importance of youth, linking to development."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Slides engage students to reflect on the theme presented."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

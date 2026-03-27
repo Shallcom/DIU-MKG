@@ -1,0 +1,171 @@
+{
+  "video_name": "31_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the application of vectors in geometric proofs; master the concept of basis vectors and their operations; be able to solve geometric problems using vector methods.",
+  "transcript": "[383.83345 -> 468.34] 它一定会有产生一个焦点O那现在我们要证的是A大过这个焦点O现在我们就要连接AO以及O大好准备开启我们的证明同学们既然是用向量法进行证明我们之前说过了向量具有它可以用基底它可以帮助我们去更好地进行运算那现在我们要证明我们要用向量法进行证明我们之前说过了向量具有它可以用基底它可以帮助我们去更好地进行运算那现在我们要证明我们现在是用向量法进行证明我们之前说过了向量具有它可以用基底它可以帮助我们去更好地进行运算那现在我们是用向量法进行证明我们之前说过了向量具哦它可以用基底它可以帮助我们去更好地进行运算那现在我们设OBOC为基底并设EO等于T一倍的OBFO等于T二倍的OC这个好理解吧因为它们两个是贡献的对好那现在同学们可以尝试着用EO和FO来表示我们的BF以及EC像样吗同学们动起手来试着坐一坐好时间差不多了这位同学你说一下EC项目如何表示。\n[471.44 -> 502.22] 因为一级向量可以写成EO向量加OC向量而EO向量又是T一倍的OB向量所以一级向量是T一的OB向量加上OC向量很好请坐那根据同样的思路我们可以得到FB向量等于T二倍的OC向量加上OB向量那接下来同学们可以尝试着用EC向量和FB向量去表示我们的底边ABC像样吗。\n[521.66 -> 566.92] 好时间到来这位同学BC向量等于AC向量减AB向量然后AC向量又是两倍的BC向量然后AB向量等于两倍的XB向量然后带进去就好了很好这位同学是用向量的减法请坐这位同学用向量的减法表示了我们的BC向量那同学们如果把BC向量放在三角形OBC中他又应该如何表示呢还是请同学们用向量的减法来进行表示。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She also pointed directly at the digital screen, drawing attention to the problem displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the geometric problem displayed on the digital screen, specifically the triangle labeled $ABC$ with points $D$ and $E$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student is responding, the teacher points to specific parts of the triangle on the screen, highlighting the relationships between the segments. She uses hand gestures to emphasize the connections between the equations shown on the screen.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher nods and smiles to encourage the student. She then points to the equations on the screen, specifically to the terms $\\overrightarrow{AD} = \\frac{1}{2}\\overrightarrow{AB} + \\frac{1}{2}\\overrightarrow{AC}$, to validate the student's input. She also writes additional notes on the blackboard, reinforcing the correct approach to solving the problem.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the blackboard and digital screen, which displays a geometric problem involving triangle $ABC$.\n  - She uses a sweeping gesture to engage the class and points to the problem on the screen.\n\n- **Middle:**\n  - The teacher points to the triangle on the screen, emphasizing the points $D$ and $E$.\n  - She writes additional notes on the blackboard, including the equation $\\overrightarrow{AD} = \\frac{1}{2}\\overrightarrow{AB} + \\frac{1}{2}\\overrightarrow{AC}$, while listening to a student's response.\n\n- **End:**\n  - The teacher nods and smiles, providing visual encouragement.\n  - She circles the correct equation on the screen and writes a summary of the solution on the blackboard, visually confirming the student's understanding.\n\nThis structured approach ensures that the teacher's visual strategies effectively guide the co-construction of knowledge, linking gestures and board content changes seamlessly.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a geometric problem involving triangle $ABC$ with points $D$ and $E$, accompanied by the question about the centroid. The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly at the digital screen to focus attention on the problem.\n\nAs the student began explaining their reasoning, the teacher walked over to the board and jotted down key terms from the student's response, such as $\\overrightarrow{AD} = \\frac{1}{2}\\overrightarrow{AB} + \\frac{1}{2}\\overrightarrow{AC}$. She used hand gestures to highlight the relationships between the segments, pointing to the triangle on the screen and the equations on the blackboard to guide the student's explanation.\n\nTo validate the answer, the teacher gave a distinct nod and circled the final equation on the screen. She then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, reinforcing the connection between the student's response and the core lesson content.\n\nThroughout the interaction, the teacher's gestures linked the student's response to the geometric principles, helping students move from passively receiving knowledge to actively constructing their own understanding. By visually reinforcing key concepts and providing real-time feedback, the teacher facilitated a dynamic and interactive learning environment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Centroid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[383.83 -> 468.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[383.83 -> 468.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Basis Vectors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[383.83 -> 468.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Triangle $OBC$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[471.44 -> 502.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Point $E$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[471.44 -> 502.22]"
+      },
+      {
+        "id": "c6",
+        "label": "$\rightarrow EC$",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.66 -> 566.92]"
+      },
+      {
+        "id": "c7",
+        "label": "$\rightarrow FB$",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.66 -> 566.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Triangle $ABC$",
+        "type": "Visual",
+        "original_text": "Geometric problem: triangle $ABC$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Equation $AD$",
+        "type": "Visual",
+        "original_text": "$\rightarrow AD = \frac{1}{2}\rightarrow AB + \frac{1}{2}\rightarrow AC$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen Highlight",
+        "type": "Visual",
+        "original_text": "Teacher points to triangle",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "Equation written: $\rightarrow AD = \frac{1}{2}\rightarrow AB + \frac{1}{2}\rightarrow AC$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Active Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Vector Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s3",
+        "label": "Graphical Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Using vector method to explain lines $EC$."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Applying vector method to line $FB$."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Point $E$ being part of triangle $ABC$."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Visualization of vector equation for line $AD$."
+      },
+      {
+        "source": "v4",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Emphasizing basis vectors through board content."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Encouraging student engagement using vector method."
+      },
+      {
+        "source": "s2",
+        "target": "v3",
+        "relation": "guides_discussion",
+        "intent": "Student's response directed towards highlighted visual focus."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to think about basis vectors."
+      },
+      {
+        "source": "s3",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Using visuals to help students understand triangle properties."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Centroid concept includes vector method explanation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

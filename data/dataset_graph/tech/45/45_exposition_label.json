@@ -1,0 +1,172 @@
+{
+  "video_name": "45_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic concepts and composition of solutions; comprehend the dissolution process of solutes and how they are distributed within a solution; master methods for determining whether a substance forms a solution.",
+  "transcript": "[176.78 -> 195.02] 好上课同学们好在之前呢我们都遇到过过氧化氢溶液和硫酸铜溶液那么溶液到底是个什么呢那我们这节课就来学一下溶液的形成。\n[212.4 -> 241.24] 好老师呢老师准备了一杯水然后在酱里边撒一些糖我搅拌搅拌我们发现糖不见了溶解了老师尝了一口甜甜的那糖到底去哪了呢其实是热糖分子溶解在水中。\n[242.4 -> 327.14] 那么老师再向里边发一把盐搅拌搅拌诶神奇的事也发生了诶盐也不见了诶老师喝一口诶这味道难以形容那么我们的盐又跑到哪去了呢诶是因为钠离子我们的盐是主要成分是氯化钠那么我们把它加在水中呢钠离子和氯离子也会溶解在水分子中好那么我们把我们把这一杯溶液其实这就这就是溶液了哈那么如果我们在这杯溶液当中随便取一点我们会发现它们的味道都是一样的不会说这一块是甜的啊这一块是咸的这一块又甜又咸的哦不是对吧它整一杯的味道都是一样的说明它的它的味道是一样的说明它的味道是一样的浙塘分子和氯离子和钠离子都均匀地分布在这杯水中那由此我们就得出溶液的定义像这样的一种或几种物质分散到另一种物质里形成均一的稳定的注意了这是混合物我们把它叫做溶液。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the title \"溶液的形成\" (Formation of Solutions).\n- The screen transitions to show \"一、新课导入\" (Introduction to New Lesson) with bullet points: \"过氧化氢溶液\" (Hydrogen Peroxide Solution) and \"硫酸铜溶液\" (Copper Sulfate Solution).\n- The teacher gestures towards the screen, indicating the introduction of these solutions.\n\n**Middle:**\n- The screen changes to \"二、学习新知\" (Learning New Knowledge) with \"1. 溶液\" (Solution) and a diagram showing a funnel and container.\n- The teacher points to the diagram, explaining the process of solution formation.\n- The teacher uses hand gestures to emphasize the flow from the funnel to the container, likely illustrating dissolution.\n\n**End:**\n- Additional text appears on the screen: \"通过一种物质均匀分散到另一种物质里，形成均一、稳定的混合物，叫做溶液\" (When one substance is uniformly dispersed into another, forming a uniform and stable mixture, it is called a solution).\n- The teacher points to this text, reinforcing the definition of a solution.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying diagrams and text related to solutions.\n   - Initial state: The screen shows a funnel and container diagram under the heading \"1. 溶液\" (Solution).\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds explanations verbally while pointing to the funnel and container, likely describing the dissolution process.\n   - **Modifications**: No erasures or changes to the diagram are observed; the focus remains on the existing visual.\n   - **Deictic Gestures**: The teacher points to the funnel and container, emphasizing the flow and mixing process.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to highlight the funnel and container, drawing attention to the solution formation process.\n   - The final text on the screen is emphasized through pointing, underscoring the definition of a solution.\n\nThis structured visual evolution links the teacher's actions to the content, providing a clear narrative of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"溶液的形成\" (Formation of Solutions), establishing the lesson's focus. The teacher began by introducing the concept with the screen showing \"一、新课导入\" (Introduction to New Lesson), highlighting \"过氧化氢溶液\" (Hydrogen Peroxide Solution) and \"硫酸铜溶液\" (Copper Sulfate Solution). The teacher gestured towards these terms, setting the stage for understanding different solutions.\n\nThen, the teacher transitioned to \"二、学习新知\" (Learning New Knowledge), where the screen presented a diagram of a funnel and container under the heading \"1. 溶液\" (Solution). The teacher constructed the concept of solution formation by pointing to the funnel, illustrating how substances are dispersed. The teacher derived the process by tracing the flow from the funnel to the container, emphasizing uniform mixing.\n\nFinally, the teacher annotated the screen with additional text: \"通过一种物质均匀分散到另一种物质里，形成均一、稳定的混合物，叫做溶液\" (When one substance is uniformly dispersed into another, forming a uniform and stable mixture, it is called a solution). The teacher resolved deixis by pointing to this definition, reinforcing the key takeaway. The visual emphasis on the text helped align the conclusion, reducing cognitive load by clearly linking gestures to the final explanation. This structured approach ensured students visually followed the concept's development from introduction to definition.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Hydrogen Peroxide Solution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.78 -> 195.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Copper Sulfate Solution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.78 -> 195.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Solution Formation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[176.78 -> 195.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Salt Dissolution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[242.4 -> 327.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Sugar Dissolution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[212.4 -> 241.24]"
+      },
+      {
+        "id": "c6",
+        "label": "Uniform Mixture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[242.4 -> 327.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Molecular Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[242.4 -> 327.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Definition of Solution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[242.4 -> 327.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Formation of Solutions Slide",
+        "type": "Visual",
+        "original_text": "Formation of Solutions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "New Lesson Introduction Slide",
+        "type": "Visual",
+        "original_text": "Introduction to New Lesson with Hydrogen Peroxide and Copper Sulfate Solutions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Funnel and Container Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of Funnel and Container illustrating solution formation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Solution Definition Slide",
+        "type": "Visual",
+        "original_text": "Definition of solution as a uniform, stable mixture",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide displays Hydrogen Peroxide Solution."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide displays Copper Sulfate Solution."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of solution formation."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Explains the distribution of sugar molecules in water."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Explains the distribution of salt molecules in water."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Uniform mixture principle supports the definition of a solution."
+      },
+      {
+        "source": "c8",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "The slide presents the definition of a solution."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The diagram illustrates molecular distribution."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Incorporates sugar dissolution as a step in solution formation."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Incorporates salt dissolution as a step in solution formation."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's explanation encourages student engagement in understanding solution formation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

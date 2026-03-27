@@ -1,0 +1,179 @@
+{
+  "video_name": "5_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Master the basic steps of writing chemical equations; correctly use state symbols to represent reaction products; proficiently apply balancing techniques to balance chemical equations.",
+  "transcript": "[586.66 -> 626.88] 像下面的二氧化碳和这个物质然后它这里生成了一个固体所以说我们要在固体后面打向下的符号表示沉淀出那么我们现在来做一个例题请同学们拿出你们的草稿纸听老师仔细说请同学们以铝在氧气中燃烧生成三氧化二铝的反应为例说明书写方程式的具体步骤啊这个题呢给同学们先给同学们一分钟的时间写一写。\n[630.66 -> 685.62] 好我看同学们现在很多同学都停笔了我们一起来看一看我们首先通过老师刚才的描述我们知道了我们这次要写的是铝在氧气中点燃生成了我们的三氧化二铝。\n[686.9 -> 797.84] 现在首先满足我们的第一条我们根据客观事实写出了我们的反应物和生成物那接下来呢我们先用我们的化学式来表述我们这个式子有哪个同学先来说一说这个步骤用我们的化学式来表示我们现在的文字描述好各位同学上来写一好谢谢可以看出来这位同学他其实写的是很正确的那我们现在来说一说这里说的我们来配平我们的数目是要相等的我们的生成物这边呢它是有两个铝所以我们这边呢应该在铝的前面加上二来表示我们有两个铝原子那后面呢我们这里有三个氧气原子这里这里呢有两个氧原子那两个氧原子要怎样才能变三个氧原子呢我们应该在前面加加上系数二分之三现在我们将我们的原子数目一已经配平了说明两边是相等了所以我们此时要用上等号所以我们要进行等号最后加上我们的条件就写完了我的模拟授课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which displays a chemical equation: $\\text{H}_2 + \\text{O}_2 \\rightarrow \\text{Al}_2\\text{O}_3$.\n   - The layout is simple, with the equation written in white chalk on the left side of the blackboard.\n\n2. **Key Knowledge Items (Content View)**:\n   - The chemical equation: $\\text{H}_2 + \\text{O}_2 \\rightarrow \\text{Al}_2\\text{O}_3$.\n   - The title on the screen: \"二、化学反应式\" (Chemical Reaction Formula).\n   - Key points on the screen include steps and explanations related to balancing chemical equations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, specifically highlighting the reactants $\\text{H}_2$ and $\\text{O}_2$.\n   - She uses a pointer to emphasize the product $\\text{Al}_2\\text{O}_3$.\n   - The teacher gestures towards the screen, likely summarizing the key points listed there.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on the chemical equation and the screen content, suggesting a review of the lesson's main concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying the chemical equation $\\text{H}_2 + \\text{O}_2 \\rightarrow \\text{Al}_2\\text{O}_3$. The teacher visually wraps up the lesson by pointing to the reactants $\\text{H}_2$ and $\\text{O}_2$, emphasizing their roles in the reaction. She then uses a pointer to highlight the product $\\text{Al}_2\\text{O}_3$, ensuring students focus on the outcome of the reaction. The screen beside the blackboard shows key points related to balancing chemical equations, which the teacher gestures towards, summarizing the steps discussed. No specific homework or next-step instructions are visually presented, keeping the focus on the core chemical equation and the principles outlined on the screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chemical Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[586.66 -> 685.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Reactants",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[586.66 -> 685.62]"
+      },
+      {
+        "id": "c3",
+        "label": "H2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[586.66 -> 685.62]"
+      },
+      {
+        "id": "c4",
+        "label": "O2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[586.66 -> 797.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Products",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[586.66 -> 685.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Al2O3",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[586.66 -> 797.84]"
+      },
+      {
+        "id": "c7",
+        "label": "State Symbols",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[586.66 -> 685.62]"
+      },
+      {
+        "id": "c8",
+        "label": "Balancing Equations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[586.66 -> 797.84]"
+      },
+      {
+        "id": "c9",
+        "label": "Reaction Steps",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[586.66 -> 685.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "H2 + O2 → Al2O3",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Screen Key Points",
+        "type": "Visual",
+        "original_text": "Chemical Reaction Formula with balancing steps",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher points to reactants and products on the blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Writing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[630.66 -> 797.84]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Reactants include H2."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Reactants include O2."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Products include Al2O3."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Screen displays steps for balancing equations."
+      },
+      {
+        "source": "c9",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Teacher uses gestures to summarize reaction steps."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Blackboard displays the chemical equation."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Balancing techniques applied to Al2O3."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "State symbols are used in the product analysis."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights H2 with gestures."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights O2 with gestures."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights Al2O3 with a pointer."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage in writing after hearing reaction steps."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

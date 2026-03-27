@@ -1,0 +1,157 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the Boyle’s law formula PV = C and its physical meaning; be able to apply Boyle’s law to analyze simple gas state‑change problems.",
+  "transcript": "[600.76 -> 623.16] 但是我观察到这名女生这个小组她们组得到的图像却是一条近似于直线的PV分之一的图像其实通过大量的实验英国科学家郭伊尔他们得出一定质量的气体在温度不变的情况下压强P与体积V成反比这个实验结论也就印证着刚刚同学们所做的实验数据都是类似准确的例如第一小组的双曲线图像以及第二小组的直线过远点的直线图像这就是著名的波伊尔定律公式显为PVC。\n[628.28 -> 642.02] 我们同时也要注意这个C它是一个敞亮当温度质量以及气体的种类不相同时它的数值都不相同。\n[644.06 -> 663.0] 同时PV等于C这个公式我们也可以写成PEVE等于PRVR这里的P一V一和P二V二都代表着在不同时期它的加强值与体积值。\n[665.96 -> 669.3] 好以上是我的模拟授课全部内容。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which prominently displays the key concepts of the lesson.\n   - The blackboard layout includes:\n     - The title: \"§3.2 气体的等温变化\" (Isothermal Changes of Gases).\n     - Two main sections:\n       1. \"一、等温变化\" (Isothermal Changes)\n       2. \"二、实验探究\" (Experimental Investigation)\n     - Two graphs depicting pressure-volume relationships.\n     - The formula: $PV = C$ and $P_1V_1 = P_2V_2$.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"§3.2 气体的等温变化\", \"一、等温变化\", \"二、实验探究\".\n   - Key formula: $PV = C$ and $P_1V_1 = P_2V_2$.\n   - Graphs illustrating pressure-volume relationships.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $PV = C$ on the blackboard, emphasizing its importance.\n   - She gestures towards the graphs, likely explaining the relationship between pressure and volume.\n   - The teacher circles the formula $P_1V_1 = P_2V_2$ to highlight its significance.\n   - She uses hand movements to trace the curves on the graphs, reinforcing the concepts visually.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition to next steps visible.\n\nThis structured visual summary consolidates the key concepts of isothermal changes in gases, with the teacher's gestures reinforcing the critical formulas and graphical representations.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on isothermal changes in gases. The teacher visually reviews the content by pointing to the formula $PV = C$ and tracing the pressure-volume graphs, reinforcing the relationship between pressure and volume. She circles the formula $P_1V_1 = P_2V_2$ to emphasize its importance. The visual focus remains on the core concepts, with no explicit transition to homework or next steps visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Isothermal Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.76 -> 663.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Boyle's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.76 -> 663.0]"
+      },
+      {
+        "id": "c3",
+        "label": "PV = C",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.76 -> 663.0]"
+      },
+      {
+        "id": "c4",
+        "label": "P1V1 = P2V2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.76 -> 663.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Pressure-Volume Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.76 -> 663.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Pressure and Volume are Inversely Related",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.76 -> 663.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Isothermal Changes of Gases, Experimental Investigation, Graphs, PV=C, P1V1=P2V2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Pressure-Volume Graph 1",
+        "type": "Visual",
+        "original_text": "Graph depicting inverse relationship between pressure and volume",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Pressure-Volume Graph 2",
+        "type": "Visual",
+        "original_text": "Graph depicting pressure-volume relationship",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Boyle's Law underpins the concept of isothermal changes."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The formula PV = C is fundamental to Boyle's Law."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The formula P1V1 = P2V2 is another expression of Boyle's Law."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The pressure-volume relationship explains Boyle's Law."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Inverse relation of pressure and volume is a principle of the pressure-volume relationship."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The blackboard visually summarizes the concept of isothermal changes."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "The blackboard includes the formula PV = C as a summary."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "The blackboard includes the formula P1V1 = P2V2 as a summary."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Graph 1 visually represents the pressure-volume relationship."
+      },
+      {
+        "source": "v3",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Graph 2 visually represents the pressure-volume relationship."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the formula P1V1 = P2V2 through visual aids."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Students engage with understanding Boyle's Law."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,152 @@
+{
+  "video_name": "12_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Participate in the knowledge‑creation process through group discussions and experimental activities; stimulate students' interest in learning and establish connections with their environment; cultivate students' creativity and expressive abilities.",
+  "transcript": "[0.0 -> 70.66] 创新型人才具有重要的力量在初中科学课堂上教师应该以学生为中心在知识的讲解中要让学生亲自参与整个知识的产生过程正如我今天的课程在课堂上我设置了小组讨论和学生亲自动手实验让学生在多种学习环节之中激发他们的学习兴趣同时我也引导着学生以自身出发多多自己身边的科学环境建立与环境的联系更好地去帮助学生适应课堂来体现他们的主体地位。\n[71.82 -> 101.8] 在课堂上学生们应该在课堂上我会让学生们紧跟着老师的步伐同时我会积极地向学生们去传达一个积极的信号让孩子们可以表达他们自己内心之中对于我们科学的想法在科学中我们应该让孩子们去主动表达自己让他们勇于展示自己来培养他们的创造力与表现力。\n[102.98 -> 129.86] 最终我想用我们习近平总书记的一句话来结尾要以教育之力厚植人民幸福之本以教育之强夯实国家富强之机科学教育对于我们整个国家的教育发展战略都具有重要的意义所以学生们所以老师应该去配合学生积极地去帮助学生促进学生的成人成才好。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. It features a blue gradient background with Chinese text. The slide is part of a larger presentation, indicated by the slide navigation on the left.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"第三章 第四节 二氧化硫\" (Chapter 3, Section 4: Sulfur Dioxide).\n- The teacher is standing beside the screen, holding papers, and appears to be introducing the topic. There is no indication of writing on the board at this moment.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and appears to be reading or presenting from them.\n- There are no specific gestures directed at the board or screen in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers.\n- The screen displays the title slide: \"第三章 第四节 二氧化硫\" (Chapter 3, Section 4: Sulfur Dioxide).\n- The blackboard is mostly blank, with some writing on the left side, possibly previous lesson content.\n\n**Middle:**\n- The teacher continues to stand beside the screen, maintaining focus on the papers.\n- The screen remains on the title slide, indicating the start of the lesson.\n- Students are seated, facing the teacher and the screen.\n\n**End:**\n- The teacher maintains a static position, likely transitioning into the lesson content.\n- No changes occur on the screen or board during this segment.\n\n### Summary\nThe introduction phase centers on the title slide, \"第三章 第四节 二氧化硫,\" setting the topic for the lesson. The teacher's actions are primarily focused on presenting from papers, with no additional gestures or board interactions observed. The visual setup emphasizes the start of a new section, with the screen serving as the primary visual anchor.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, holding papers, and facing the students. The opening visual stimulus is the presentation slide on the screen, displaying the title \"第三章 第四节 二氧化硫\" (Chapter 3, Section 4: Sulfur Dioxide) against a blue gradient background. This slide serves as the hook, immediately signaling the start of a new section. The teacher remains stationary, likely preparing to transition into the lesson content. The blackboard is mostly blank, with some residual writing on the left, suggesting continuity from a previous lesson. The visual focus remains on the screen throughout, with no additional gestures or board interactions observed. This setup establishes a clear entry point for the topic, grounding the students' attention on sulfur dioxide as the main subject. The introduction effectively bridges the new topic to the students' existing knowledge framework, setting the stage for a structured exploration of sulfur dioxide's properties and significance.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Classroom Dynamics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 70.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Student Engagement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 70.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Group Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 70.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Experimental Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 70.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Interest in Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 70.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Creative Expression",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[71.82 -> 101.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Express Ideas",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[71.82 -> 101.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Sulfur Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Chapter 3, Section 4: Sulfur Dioxide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "t1",
+        "label": "Teacher Presentation",
+        "type": "Visual",
+        "original_text": "Teacher holding papers and reading",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Focus",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Classroom setup includes engaging students actively."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Student engagement is fostered through group discussions."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Student engagement is fostered through experimental activities."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Discussions help cultivate interest in learning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Experiments help cultivate interest in learning."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Interest in learning drives creative expression."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Creative expression includes students expressing their ideas."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Title slide emphasizes the focus on Sulfur Dioxide."
+      },
+      {
+        "source": "t1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Teacher presentation introduces the topic of Sulfur Dioxide."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engagement prompts students to focus on the topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

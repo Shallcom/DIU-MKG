@@ -1,0 +1,164 @@
+{
+  "video_name": "11_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the relationship between velocity and displacement in horizontal projectile motion; master the method for calculating the deflection angle.",
+  "transcript": "[581.907933 -> 641.9] 我们在应用时也要千万注意应该是偏转角的正切值不能是偏转角这一半那通过刚刚的分析呀我们得出了平抛利用的速度位移以及它们之间的角度关系这就是平抛利用的一些规律那同学们在生活中呢我们可可我们发现过其他的一些抛体运动呢这位同学我刚说了丢一根粉笔没错像丢一根粉笔也是一个跑体运动像生活中也有很多常见的斜跑运动例如像谷中斜向上喷出的水和净迹也可以看成一条斜跑运动好本节课就到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key formulas and concepts related to projectile motion.\n   - The layout includes:\n     - A heading: \"3.4 抛体运动的规律\" (Projectile Motion Rules).\n     - A list of key points:\n       - \"平抛运动的速度\" (Velocity of Projectile Motion).\n       - \"水平方向: 速度不变, $v_x = v_0$\".\n       - \"竖直方向: $v_y = gt$\".\n       - \"合速度: $v = \\sqrt{v_x^2 + v_y^2}$\".\n       - \"tan\\theta = \\frac{v_y}{v_x}$\".\n       - \"cos\\theta = \\frac{v_x}{v}$\".\n     - A concluding statement: \"平抛运动的位移都遵循这种规律\" (The displacement of projectile motion follows this rule).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas:\n     - $v_x = v_0$\n     - $v_y = gt$\n     - $v = \\sqrt{v_x^2 + v_y^2}$\n     - $\\tan\\theta = \\frac{v_y}{v_x}$\n     - $\\cos\\theta = \\frac{v_x}{v}$\n     - \"平抛运动的位移都遵循这种规律\" (The displacement of projectile motion follows this rule).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing to each formula and key point in sequence.\n   - The teacher's hand movements emphasize the relationships between the horizontal and vertical components of velocity.\n   - The teacher traces the final conclusion statement, reinforcing the rule of displacement in projectile motion.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with an image of a fountain, possibly indicating a real-world application of projectile motion.\n   - There is no explicit visual element indicating homework or further reading, but the slide suggests a transition to practical examples or the next lesson's content.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on projectile motion rules. The teacher visually reviews the content by pointing to each formula in sequence, emphasizing the relationships between horizontal and vertical velocity components. He traces the final conclusion statement, reinforcing the rule of displacement in projectile motion. The visual focus then shifts to a slide displaying a fountain image, suggesting a real-world application and signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Summary of projectile motion rules on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Image: Fountain",
+        "type": "Visual",
+        "original_text": "Image of a fountain on slide suggesting real-world application of projectile motion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Velocity of Projectile Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Horizontal Velocity Constant",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Vertical Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Resultant Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Deflection Angle Tangent",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Deflection Angle Cosine",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Displacement Rule",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[581.907933 -> 641.9]"
+      },
+      {
+        "id": "c8",
+        "label": "Real-world Applications",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[641.9]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Blackboard summarizes velocity of projectile motion."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Velocity concept includes horizontal constant velocity."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Velocity concept includes vertical velocity component."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Resultant velocity builds upon constant horizontal velocity."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Resultant velocity builds upon vertical velocity."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Resultant velocity includes calculation of deflection angle tangent."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Resultant velocity includes calculation of deflection angle cosine."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Blackboard reinforces displacement rule."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Image of the fountain visualizes real-world applications."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Real-world applications build upon displacement rule."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "engaged_with",
+        "intent": "Students are engaged with the displacement rule discussion."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "engaged_with",
+        "intent": "Students engaged with the real-world application slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

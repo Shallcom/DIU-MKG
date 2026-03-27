@@ -1,0 +1,121 @@
+{
+  "video_name": "8_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Master the effect of the Lorentz force on the motion of charged particles; learn to calculate a charged particle’s velocity using formulas; understand the operating principle of a mass spectrometer.",
+  "transcript": "[540.4197 -> 660.4197] 好那么它到这里之后它就是继续走完这里垂直进入这一个云墙磁场当中那么在这个云墙磁场当中它又会受到诺伦资历的作用那受到诺伦资历作用它会做什么运动呀同学们想一想回顾一下云州运动对元州运动那么如果这个磁场是云墙磁场呢它会做什么运动语速元州运动好它们受洛伦资历的作用那么我们能不能通过这个洛伦资历呀求出它运动的战争的表达式呀可以为多少好那我们来看我们得到了通过诺伦的资历得到了半径它这个任务的表换式那么这一个我们又可以通过这个公式把速度求出来等于多少好得到这个速度老师们同学们这个速度应该为这个时刻的速度吧好那么这个时刻的速度应该为这个时刻的速度好那么这个速度应该为这个速度好那么这个跟这十个速度相同相同吗相同这个要理解一下然后它既然相同也就是说它进入磁场的初速度是什么那么将这个速度带进这个半径公式里面我们就可以得到关于半径这个速度的公式好我们得到的公式我们一起来看一下如果粒子它受到了相同的磁场以及它的电荷量是相同的那速度是不是通过这个我们知道也是相同的那我们是不是就可以通过粒子的质量就可以得到它的半径质量不同那么它的半径不同是不是它的分别分开了呀运动轨迹不同就分开了由此呢我们就可以通过这个质谱仪来将变和量相同的粒子质量不同的粒子将它分开来好这个呢就是质谱仪的工作原理好刚刚老师说到了我们将这些分开要考虑它的还要去研究它的什么去研究它它里面的一些成分怎么去研究它里面的一些成分呢也就是我们需要研究它里面的原质好那怎么样去研究原则呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher turned towards the students, holding papers, and gestured with her hand, likely signaling the start of a question or discussion. This gesture directed attention to the class, inviting participation.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the blackboard, specifically the equations related to the cyclotron and its principles. The key visual artifact was the equation for velocity, $v = \\sqrt{\\frac{2qU}{m}}$, and the radius equation, $r = \\frac{mv}{qB}$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher pointed directly to the equation $v = \\sqrt{\\frac{2qU}{m}}$ and then to the radius equation $r = \\frac{mv}{qB}$. She used her finger to trace the substitution process, showing how $v$ is incorporated into the radius formula, visually guiding the students through the derivation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After explaining the substitution, the teacher wrote the final form of the radius equation on the board: $r = \\sqrt{\\frac{2mU}{qB^2}}$. She circled this final equation, emphasizing its importance and confirming the correct derivation process. This visual action validated the correct understanding of the concept.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands at the blackboard, pointing to the initial equations: $v = \\sqrt{\\frac{2qU}{m}}$ and $r = \\frac{mv}{qB}$.\n  - She gestures towards the class, inviting questions or participation.\n\n- **Middle:**\n  - The teacher traces the substitution of $v$ into the radius equation, visually guiding the students through each step.\n  - She writes the intermediate steps on the board, showing the integration of the velocity equation into the radius formula.\n\n- **End:**\n  - The teacher writes the final equation $r = \\sqrt{\\frac{2mU}{qB^2}}$ and circles it.\n  - She nods and gestures towards the circled equation, confirming its correctness and reinforcing the concept visually.\n\nThis structured visual approach ensures students follow the derivation process and understand the relationship between the equations, enhancing their comprehension through guided visual cues.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the fundamental equations of a cyclotron, including the velocity equation $v = \\sqrt{\\frac{2qU}{m}}$ and the radius equation $r = \\frac{mv}{qB}$. The teacher stood at the board, holding papers, and gestured towards the class, signaling the start of an interactive session. She pointed to the equations, inviting students to engage with the problem of deriving the radius formula.\n\nAs the discussion began, the teacher actively facilitated the process by moving to the board. While a student explained their reasoning, she walked over and used her finger to trace the substitution of $v$ into the radius equation, visually guiding the steps. She wrote intermediate steps on the board, ensuring clarity and reinforcing the connection between the equations.\n\nTo validate the student's understanding, the teacher wrote the final form of the radius equation, $r = \\sqrt{\\frac{2mU}{qB^2}}$, and circled it emphatically. This visual action confirmed the correct derivation and highlighted its significance.\n\nThe teacher then drew an arrow connecting the final equation back to the initial velocity equation, linking the student's response to the core lesson content. This gesture reinforced the relationship between the concepts, helping students see the cohesive structure of the principles.\n\nThrough these visual strategies, the teacher transformed passive reception into active construction. By guiding the derivation process and linking concepts visually, students were encouraged to engage deeply, fostering a dynamic environment where they could construct and verify their own understanding of the cyclotron principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Lorentz Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.42 -> 660.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Charged Particle Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.42 -> 660.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Velocity Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.42 -> 660.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Mass Spectrometer",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[540.42 -> 660.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Equation: v = sqrt(2qU/m)",
+        "type": "Visual",
+        "original_text": "Velocity equation on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Radius Equation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.42 -> 660.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Equation: r = mv/qB",
+        "type": "Visual",
+        "original_text": "Radius equation on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Final Radius Equation",
+        "type": "Visual",
+        "original_text": "r = sqrt(2mU/qB^2) circled on the board",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[540.42 -> 660.42]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how Lorentz Force affects particle motion."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Particle motion is fundamental to the operation of a mass spectrometer."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The velocity equation is written on the board for derivation guidance."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Radius formula is presented visually to facilitate understanding."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "The final radius equation is highlighted and confirmed as correct."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Velocity formula is used in the derivation of the radius equation."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement is encouraged to explore the impact of Lorentz Force."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

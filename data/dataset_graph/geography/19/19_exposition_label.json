@@ -1,0 +1,179 @@
+{
+  "video_name": "19_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "geography",
+  "teaching_goal": "Understand the definition and functions of nature reserves; analyze the ecological characteristics and significance of the Sanjiangyuan National Nature Reserve; evaluate the role of nature reserves in maintaining ecological security.",
+  "transcript": "[69.9 -> 82.84] 第四点对于占用时间这一个点老师可以提前录制视频而让学生课后模仿重做这个实验的方式以上就是我的机器演讲。\n[86.38 -> 126.06] 现在开始我的模拟上课同学们大家好又到了我们的地理时间那么今天我们一起来学习自然保护区与生态安全在上课之前老师先给大家看一个视频同学们在看视频的时候注意观察三江源国家级自然保护区保护区的自然环境当然这个视频就是描述三江里原国家级自然保护区的环境的视频同学们请看。\n[146.38 -> 168.92] 好看完视频了哪个同学可以跟大家分享一下在这个视频中你看到了什么呢。\n[170.8 -> 174.4] 好这位同学你来梳一梳。\n[176.38 -> 219.5] 三江文化毕竟比较平坦当地的职位比较茂盛好这位同学提出了自己的看法那么老师啊在这个视频中看到了三江园地区它有湿地湖泊草甸森林以及野生动物那么今天我们就以三江园国家级自然保护区为例学习自然保护区与生态排队既然要学习自然保护区我们就要了解它的定义请同学们自行阅读课本找到自然保护区的定义并发表待会儿老师请大家分享一下。\n[224.76 -> 233.18] 好前面同学们都已经找到了在课本的第九十三页哪位同学来跟我们说一说它自然保护区的定义是什么。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a large screen displaying a green slide with white text in Chinese. The text reads \"自然保护区与生态安全\" (Nature Reserves and Ecological Safety) and mentions a specific location.\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n- The blackboard to the left is initially empty.\n\n**Middle:**\n- The screen transitions to a slide with a green rectangle and a blue shape, accompanied by text about the natural environment of a specific nature reserve.\n- The teacher writes on the blackboard with white chalk, adding the phrase \"自然保护区的定义及生态\" (Definition and Ecology of Nature Reserves) and \"除...措施\" (Excluding... measures).\n- The teacher points to the green rectangle on the screen, emphasizing its significance in the context of the nature reserve.\n\n**End:**\n- The screen changes to a white slide with the question \"什么是自然保护区？\" (What is a nature reserve?).\n- The teacher continues to speak, likely elaborating on the definition, while holding the papers.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the screen displaying slides related to nature reserves. The initial slide is green with white text, transitioning to a slide with a green rectangle and blue shape, and finally to a white slide with a question.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes on the blackboard, adding key terms related to the definition and ecological aspects of nature reserves.\n   - **Modifications**: The teacher transitions between slides, updating the visual content to focus on different aspects of nature reserves.\n   - **Deictic Gestures**: The teacher points to the green rectangle on the screen, indicating its relevance to the discussion about the natural environment of the reserve.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses the blackboard to emphasize key terms by writing them in white chalk.\n   - The transition to a slide with a question highlights the focus on understanding the definition of nature reserves.\n\nThis structured visual evolution helps in understanding the teacher's method of linking physical actions to specific content, enhancing the learning experience through visual and verbal synchronization.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a green slide with the title \"自然保护区与生态安全\" (Nature Reserves and Ecological Safety), setting the stage for the lecture. The teacher began by introducing the topic, gesturing towards the screen to emphasize the importance of nature reserves. The slide then transitioned to a diagram featuring a green rectangle and a blue shape, representing the natural environment of a specific reserve. The teacher constructed the foundational concept by writing \"自然保护区的定义及生态\" (Definition and Ecology of Nature Reserves) on the blackboard, alongside \"除...措施\" (Excluding... measures), establishing key terms for discussion.\n\nAs the lecture progressed, the teacher derived further insights by pointing to the green rectangle, tracing its boundaries to illustrate the reserve's ecological significance. This visual cue aligned with the explanation of the reserve's environmental context. The teacher then shifted focus to a white slide posing the question \"什么是自然保护区？\" (What is a nature reserve?), prompting deeper exploration of the definition.\n\nThroughout the session, the teacher annotated the blackboard, adding layers of information that complemented the evolving slides. By resolving deixis, the teacher traced specific elements on the screen, ensuring clarity. For emphasis, the transition to a question slide highlighted the need for understanding, reducing cognitive load by breaking down complex ideas into digestible visual segments. The strategic use of the board and slides worked in tandem, guiding students through the concept with clear, synchronized visual and verbal cues.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Nature Reserves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[86.38 -> 126.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Ecological Safety",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[86.38 -> 126.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Sanjiangyuan National Nature Reserve",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[86.38 -> 126.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Definition of Nature Reserves",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Exclusion Measures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Wetlands",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Lakes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Meadows",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "c9",
+        "label": "Forests",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "c10",
+        "label": "Wildlife",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.38 -> 219.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Slide: Nature Reserves and Ecological Safety",
+        "type": "Visual",
+        "original_text": "Nature Reserves and Ecological Safety",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide with Green Rectangle",
+        "type": "Visual",
+        "original_text": "Natural environment representation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "White Slide: What is a Nature Reserve?",
+        "type": "Visual",
+        "original_text": "What is a Nature Reserve?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Observation",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "s2",
+        "label": "Student Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Links concept of nature reserves to visual slide context."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Defines nature reserves using visual slide question."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Example of ecological features within the Sanjiangyuan reserve."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Example of ecological features within the Sanjiangyuan reserve."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Example of ecological features within the Sanjiangyuan reserve."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Example of ecological features within the Sanjiangyuan reserve."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Example of ecological features within the Sanjiangyuan reserve."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Discusses additional aspects of nature reserve management including exclusions."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think about specific features of the reserve."
+      },
+      {
+        "source": "s2",
+        "target": "c3",
+        "relation": "praises_response",
+        "intent": "Acknowledges student's observations as insight about the reserve."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

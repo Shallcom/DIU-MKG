@@ -1,0 +1,134 @@
+{
+  "video_name": "37_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of correlation and its distinction from functional relationships; master methods for judging whether a correlation exists between two variables; be able to analyze real-life examples and identify correlations between variables.",
+  "transcript": "[141.56 -> 244.64] 上课同学们好我们今天开启新的一章第八章成对数据的统计分析同学们回顾一下在必修一的学习过程当中我们从单变量的统计分析用样本来估计总体那现在我们要来研究成对的数据样本统计我们应该如何用样本来估计总体呢这就是我们本章要学习的内容那今天我们就来先来学习变量的相关关系请同学们思考我们变量Y是变量X的函数能说明什么我们在函数之间是不是集合与集合之间的对应关系那也就是说可以由X确定唯一的Y但是我们知道现实世界中有着许多的例子不能它们之间有关系但是不能用函数进而来紧密刻画例如人的身高与体重之间存在着存在怎样的关系呢我们发现不好用函数式子来进行表达那我们应该如何刻画这两个变量之间的关系呢这就是我们今天要探讨的内容现在请同学们继续思考一个人的身高与他的体重之间一个人的体重与他的身高之间应该是怎么样的关系呢如果我长得高那我的体重应该相对于矮的人来说更重那如果我长得矮就相对于高的人来说更轻那也就是说我们身高是唯一决定体重的因素吗那还有什么因素呢你来说一下。\n[246.28 -> 320.26] 饮食习惯还有吗对遗传因素还有可能根据父母亲的身高非常感谢这位同学的分享那也就是说我们无法用身高来精准地确定体重那么请同学们思考我们应该在这个背景下身高与体重之间是不能进行精准刻画的那么在数学上如果两个变量有关系但是呢它又没有办法由其中一个去精准地确定另一个变量那么我们就称这种关系为相关关系那么接下来我们是否就要去探讨一下相关关系之间有着怎样的联系呢那么请同学们思考我们观察以下的几个例子生活中两个变量具有相关关系的例子思考变量Y能否由X值为一确定我们来看第一个例子子女的身高Y与父亲的身高X之间的关系那么请同学们思考三分钟的时间待会儿老师请代表进行分享。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a blue background with Chinese text.\n- The screen shows the title \"一、问题思考\" (Problem Thinking) and two bullet points: \"复习与预习的关系\" (Relationship between Review and Preview) and \"自主学习与统一行动\" (Self-study and Unified Action).\n- The teacher gestures towards the screen, indicating the importance of the relationship between review and preview.\n\n**Middle:**\n- The screen transitions to \"二、课题研究\" (Research Topic) with a question: \"一个人的自学与合作学习的关系是什么样的？\" (What is the relationship between individual self-study and collaborative learning?).\n- The teacher points to the question, emphasizing its significance.\n- Two sub-points appear: \n  - \"【问题1】合作学习一定比自主学习好吗？\" (Is collaborative learning always better than self-study?)\n  - \"【问题2】合作学习与自主学习之间有什么关系？\" (What is the relationship between collaborative and self-study?)\n- The teacher gestures towards these points, highlighting the inquiry into the effectiveness and relationship of learning methods.\n\n**End:**\n- Additional text appears: \"两个方面有关系，而且这种关系对任何一个学生来说都是一个过程，这种关系称为关系发展。\" (There is a relationship between the two aspects, and this relationship is a process for any student, referred to as relational development).\n- The teacher continues to gesture towards the screen, reinforcing the concept of relational development in learning.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying the research topic and questions in Chinese text.\n   - Initial state: The screen shows the title \"二、课题研究\" with the central question about the relationship between individual self-study and collaborative learning.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds sub-questions to the screen while speaking, focusing on the comparative analysis of learning methods.\n   - **Modifications**: No erasures or modifications are observed; the content evolves through additions.\n   - **Deictic Gestures**: The teacher points to specific parts of the text, such as the central question and sub-questions, while explaining their significance.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key points, such as the central question and the concept of relational development.\n   - No specific color coding or visual highlighting is observed; emphasis is primarily through gestures and verbal explanation.\n\nThis structured visual evolution illustrates the teacher's method of introducing and elaborating on the research topic, using the digital screen as the primary visual anchor.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"一、问题思考\" with two bullet points about the relationship between review and preview, and self-study versus unified action. The teacher gestured towards these points, setting the stage for the discussion. Then, the screen transitioned to \"二、课题研究,\" introducing the central question about the relationship between individual self-study and collaborative learning. The teacher constructed the inquiry by pointing to the question, emphasizing its importance. Subsequently, two sub-questions appeared on the screen, and the teacher derived further discussion by highlighting them, tracing the text to illustrate the comparative analysis of learning methods. Finally, additional text about relational development was introduced, and the teacher annotated the concept, reinforcing it through gestures. The visual emphasis on key points, such as the central question and relational development, aligned with the lecture's conclusion, effectively reducing cognitive load by clearly structuring the information flow.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Correlation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[141.56 -> 244.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Functional Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[141.56 -> 244.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Height vs. Weight",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.56 -> 244.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Self-study vs. Collaboration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[141.56 -> 244.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Statistical Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[141.56 -> 244.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Review vs. Preview",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[141.56 -> 244.64]"
+      },
+      {
+        "id": "v1",
+        "label": "Problem Thinking Slide",
+        "type": "Visual",
+        "original_text": "Title: Problem Thinking; Bullets: Relationship between Review and Preview, Self-study vs Unified Action",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Research Topic Slide",
+        "type": "Visual",
+        "original_text": "Title: Research Topic; Question: Relationship between individual self-study and collaborative learning",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Sub-questions Slide",
+        "type": "Visual",
+        "original_text": "Sub-questions: Is collaborative learning better than self-study? What is the relationship between collaborative and self-study?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Relational Development Text",
+        "type": "Visual",
+        "original_text": "Text: Relationship between aspects is a process called relational development",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Distinguishes correlation from functional relationships."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Provides a real-life example illustrating correlation."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Illustrates the teaching focus on learning methods comparison."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explores statistical methods for analyzing correlations."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Sets the context for discussing the importance of review and preview."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Uses height vs weight example to explain correlation."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlights inquiry into effectiveness and relationships of learning methods."
+      },
+      {
+        "source": "v4",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Concludes with the concept of relational development."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

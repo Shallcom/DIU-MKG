@@ -1,0 +1,120 @@
+{
+  "video_name": "42_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Be able to describe the changes that occur in the final stage of cell division; be able to recall the process of chromosome formation.",
+  "transcript": "[669.26 -> 709.12] 请这位同学没错很好请坐它形成了两条新的染色体那同学们再观察一下末期我们可以看到它出现了什么新的物质呢时间到谢谢陈岩老师和学生",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains handwritten text. The layout includes a title and several bullet points or key phrases written in white chalk.\n\n2. **Key Knowledge Items (Content View)**:\n   - The title on the blackboard reads: \"细胞的大小与物质运输的关系\" (The relationship between cell size and material transport).\n   - Below the title, there are several bullet points or key phrases, though specific details are not fully visible. The word \"中\" (middle) is prominently displayed, likely referring to a key concept or section.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher moves towards the blackboard, indicating a review of the content written there. She gestures towards the text, likely emphasizing the key points or summarizing the lesson.\n   - The teacher's movement suggests she is pointing or highlighting the title and the bullet points, ensuring students focus on the main concepts discussed.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the blackboard or screen in this segment. The focus remains on summarizing the current lesson content.\n\nThis structured visual summary helps consolidate the key knowledge points about cell size and material transport, with the teacher's gestures reinforcing the main ideas presented.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the relationship between cell size and material transport. The teacher visually reviews the content by moving towards the blackboard and gesturing towards the title and bullet points, emphasizing the key concepts. She likely points to each phrase in sequence, ensuring students focus on the main ideas. The visual emphasis remains on the core topic, with no additional homework or next-step instructions visible in this segment, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chromosome Formation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[669.26 -> 709.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Cell Division Final Stage",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[669.26 -> 709.12]"
+      },
+      {
+        "id": "c3",
+        "label": "New Substance Observation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.26 -> 709.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Cell Size",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.26 -> 709.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Material Transport",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[669.26 -> 709.12]"
+      },
+      {
+        "id": "v1",
+        "label": "Cell Size Relationship Title",
+        "type": "Visual",
+        "original_text": "The relationship between cell size and material transport",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points Review",
+        "type": "Visual",
+        "original_text": "Bullet points about cell size and transport",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[669.26 -> 709.12]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Chromosome formation is part of the final stage of cell division."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Observation of new substances is part of the final stage of cell division."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visual representation of key concepts related to cell size and transport."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding the principle that cell size affects material transport."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Visual emphasis on cell size relationship."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Bullet points summarize material transport."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Student engagement with the concept of chromosome formation."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Student observation and engagement with cell division."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

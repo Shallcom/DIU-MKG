@@ -1,0 +1,164 @@
+{
+  "video_name": "19_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "- Be able to distinguish positive angles, negative angles, and their rotation directions;  \n- Master the criteria for judging whether two angles are equal;  \n- Learn to apply the concept of angles to analyze specific problems.",
+  "transcript": "[390.7368335 -> 418.6] 同学们能成功区分我们的正脚副脚邻脚了吗接着来看。\n[420.54 -> 475.86] 如果时速有相等的关系那么类比时速的相等我们能设角R由射线OA绕端点O旋转而成角贝塔由射线OA绕端点O旋转而成如何定义两个角相同呢这里我们要注意旋转方向和旋转角都要考虑到我们来看看他说如果他们的旋转方向相同且旋转量相等我们就称阿尔法等于贝塔这里我们要考虑到旋转方向和旋转角都要相等那么随着今天的学习你能判断出下面的角是什么角呢自己动手做一做。\n[480.54 -> 506.92] 好你来试试第一题它是一个正角因为它的所以它是正角那它的旋转角是请坐第二题呢谁来试试好这位男生。\n[510.54 -> 510.7368335] 第二题有三个角那我们一个一个来说那么阿尔法角的话是一个韧角它的度数是二百一十度贝塔角是一个负角它是负一百五十度好还有一个角也是负角负六百六十度伽马是负六百六十度好请坐本节课我们学习了本节课我们在知识上学习了韧一角的概念我们由书中的紧紧的角度而扩展到了又要考虑旋转方向也要考虑旋转角其次我们用到了类比与竖形结合的数学方法请同学们在课下思考实数有加减乘除等运算那么我们的角是否也可以进行类似的运算呢请同学们在课后思考我们后面再接着学习好下课嗯。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the interactive whiteboard, directing attention to the practice problems displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the practice problem on the interactive whiteboard, which asked students to identify the rotation angle of given figures. The specific visual artifact included two diagrams labeled \"正角\" (positive angle) and \"负角\" (negative angle).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the diagram labeled \"正角\" and nodded to encourage the student. She also gestured towards the angle measurement tool on the whiteboard, hinting at the method to determine the angle.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student responded, the teacher visually confirmed the answer by writing \"正角 70°\" next to the corresponding diagram on the whiteboard. She circled the correct answer and gave an emphatic thumbs-up to validate the student's input.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes on the blackboard, listing terms related to rotation angles: \"旋转角\" (rotation angle), \"旋转方向\" (rotation direction), \"正角\" (positive angle), \"负角\" (negative angle), and \"零角\" (zero angle).\n  - The interactive whiteboard displays a slide titled \"新知探究\" (Exploring New Knowledge) with text explaining the extension of rotation angles to negative angles.\n\n- **Middle:**\n  - The teacher transitions to a slide titled \"随堂练习\" (Class Practice) showing two diagrams for angle identification.\n  - She uses a sweeping gesture to invite class participation and points to the diagrams, focusing on the \"正角\" diagram.\n\n- **End:**\n  - The teacher writes \"正角 70°\" next to the first diagram on the whiteboard, confirming the student's answer.\n  - She circles the correct answer and provides visual feedback through gestures and facial expressions, reinforcing the correct understanding of the concept.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed two diagrams labeled \"正角\" (positive angle) and \"负角\" (negative angle) for a class practice problem, asking students to identify the rotation angles. The teacher began by gesturing towards the diagrams, making a sweeping motion to invite the class to participate actively. She pointed directly at the \"正角\" diagram, signaling the focus of the exercise.\n\nAs a student began to respond, the teacher moved closer to the interactive whiteboard, nodding and smiling to encourage the student. She simultaneously pointed to the angle measurement tool on the whiteboard, subtly guiding the student towards the correct method of determining the angle. Her supportive gestures and attentive posture created an environment conducive to open discussion and exploration.\n\nTo validate the student's answer, the teacher wrote \"正角 70°\" next to the corresponding diagram and circled it, providing clear visual confirmation. She gave an emphatic thumbs-up, reinforcing the correctness of the response. This action not only affirmed the student's understanding but also visually linked the answer back to the core lesson content on rotation angles discussed earlier.\n\nBy actively engaging with the student's response and using visual cues to guide and confirm understanding, the teacher facilitated a dynamic interaction that moved students from passive reception to active construction of knowledge. This process encouraged students to think critically and apply concepts independently, fostering a deeper comprehension of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Rotation Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.7368335 -> 418.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Rotation Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.7368335 -> 418.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Positive Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.7368335 -> 418.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Negative Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.7368335 -> 418.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Zero Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[390.7368335 -> 418.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Angle Equality Criteria",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[420.54 -> 475.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Angle Measurement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[480.54 -> 506.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Positive Angle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram labeled 'Positive Angle'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Negative Angle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram labeled 'Negative Angle'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Angle Measurement Tool",
+        "type": "Visual",
+        "original_text": "Tool for measuring angles on the whiteboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Defines positive angles as a subset of rotation angles."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Defines negative angles as a subset of rotation angles."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Defines zero angles as a subset of rotation angles."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Establishes criteria for angle equality based on rotation angles."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Uses the angle measurement tool to demonstrate angle measurement."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to identify the positive angle in the diagram."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to identify the negative angle in the diagram."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Student answers lead to further engagement and discussion."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Student answers demonstrate understanding of angle measurement procedure."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents the concept of positive angles."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram visually represents the concept of negative angles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,140 @@
+{
+  "video_name": "29_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand teachers’ responsibilities and obligations in instruction; analyze the impact of student participation in question design on learning outcomes; reflect on effective mathematics teaching strategies.",
+  "transcript": "[0.0 -> 3.78] 支持明镜与点点栏目。\n[7.26 -> 151.06] 大家好我是数学组的二十九号选手今天我抽到的集体演讲题目是有一次单元测试中该年轻教师出发旗下让一位学生最优秀的选手来出题这位学生很兴奋但是呢由于没有经验但是全班同学都考得一塌糊涂同学们都唉声怨气那针对这位老师的奇葩做法呢你有什么看法对此我将从以下三个方面来问述我的观点首先我认为因为这位老师的做法是不正确的一是这位老师的出发点可能是对的为了锻炼学生来以此达到学生对数学和对数学的理解那他但是由于学生对教学的这种难点和教学的目标已把握不清楚让学生来出卷子这是一种非常不恰当的行为第二点是该年轻教师的教育经验是不足的因为这种教师他想的是让学生多锻炼多参与到这种教学活动中但是他的做法是为了让自己轻松但是他没有考虑到学生没有掌握教学目标教学重难点他可以多向年轻教育多向有经验的教师进行自己的讨论或者是看法第三点呢是该教室没有注重对教学的反思和研讨没有加强对教学素养提升教学技能等方面的锻炼该教师只注重对同学让同学来注重对这次教学的对这次活动的探究这是一种非常不正确的做法那同学们那作为老师呢我们不仅要在培养学生学科思量的同时更要加强自己的示范技能和教育技能为国育人为党育才贯彻国家的教育方针在教学岗位上不懈地奋斗努力以上就是我的观点接下来我将开始博弈授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher holding a stack of papers, likely a lesson plan or notes. The screen displays a digital interface, possibly a learning management system or presentation software, with various menu options and text in Chinese.\n\n#### 2. **The Title Event**\n- The green chalkboard has Chinese text written on the left side, which appears to be the lesson title or topic. The text reads \"教學相長選手\" (translated as \"Teaching and Learning Together\"). The teacher does not physically write this during the video; it is already present on the board.\n\n#### 3. **The Objectives**\n- The screen displays a list of bullet points, likely learning objectives or agenda items, written in Chinese. Specific details are not fully legible, but they are organized in a structured format typical of lesson plans.\n\n#### 4. **Key Gestures**\n- The teacher frequently gestures with her hands while holding the papers, emphasizing points as she speaks. She occasionally points towards the screen, likely referencing the content displayed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the chalkboard and screen, holding papers. The screen shows a digital interface with menu options and text in Chinese.\n- The chalkboard has the text \"教學相長選手\" written on the left side.\n\n**Middle:**\n- The teacher gestures with her hands, emphasizing points while speaking. She occasionally looks at the papers and then back at the class.\n- She points towards the screen, likely referencing the bullet points or menu options displayed.\n\n**End:**\n- The teacher continues to gesture and speak, maintaining engagement with the class. The screen content remains visible, providing context for her discussion.\n\n### Summary\nThe introduction phase of the lesson is initiated with a digital interface on the screen and a pre-written title on the chalkboard. The teacher uses hand gestures to emphasize key points and references the screen content throughout her introduction. The learning objectives are displayed as bullet points, guiding the structure of the lesson.",
+  "visual_narrative": "Initially, the teacher stands in front of a green chalkboard and a digital screen, holding a stack of papers. The screen displays a digital interface with menu options and text in Chinese, serving as the opening visual stimulus. To bridge to the main topic, the teacher gestures with her hands, occasionally pointing towards the screen to reference the displayed content. The chalkboard already features the text \"教學相長選手,\" which remains a constant visual anchor throughout the introduction. The teacher's gestures and references to the screen help transition the focus from the digital interface to the lesson's overarching theme. Finally, the visual focus remains on the pre-written title on the chalkboard, establishing the lesson goal and connecting the introduction to the students' existing experiences through structured engagement and reference to the displayed objectives. This approach sets the stage for integrating new knowledge with familiar concepts, guiding students into the lesson's core content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Teaching Responsibilties",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.26 -> 151.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Student Participation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.26 -> 151.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Learning Outcomes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[7.26 -> 151.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Mathematics Teaching Strategies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[7.26 -> 151.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Lack of Experience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[7.26 -> 151.06]"
+      },
+      {
+        "id": "c6",
+        "label": "Impact of Student-Designed Tests",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[7.26 -> 51.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Teaching Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[7.26 -> 151.06]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Interface Display",
+        "type": "Visual",
+        "original_text": "A digital interface, likely a learning management system, displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title on Chalkboard",
+        "type": "Visual",
+        "original_text": "Teaching and Learning Together",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Points on Screen",
+        "type": "Visual",
+        "original_text": "Bullet points, likely learning objectives, displayed in a structured format.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explores how teacher responsibilities can shape student participation."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "influences",
+        "intent": "Analyzes how increased student participation affects learning outcomes."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "contributes_to",
+        "intent": "Discusses how lack of teacher experience can impact student-designed tests."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "requires",
+        "intent": "Effective strategies require constant reflection from the teacher."
+      },
+      {
+        "source": "c2",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Visual representation of student participation topics achieved through screen bullet points."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The digital interface assists teacher responsibility through structured presentation."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Title 'Teaching and Learning Together' emphasizes collaborative strategies in mathematics teaching."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "guided_by",
+        "intent": "Student engagement influenced by discussions on the implications of student-designed tests."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

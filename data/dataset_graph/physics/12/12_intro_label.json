@@ -1,0 +1,127 @@
+{
+  "video_name": "12_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the significance and connotation of physics core competencies; master the requirements for the physics subject as outlined in the curriculum standards.",
+  "transcript": "[0.0 -> 120.76] 习近平总书记曾强调立德树人立德立的是大德守私德严公德三方面所以作为教师我将从立大德严私德守公德三方面来切实落实立德树人的根本任务首先立大德在课标中也强调物理学的核心素养其实也就是一个培养人才的过程因此在教师教学过程中我们要积极落实课标任务同样也是积极落实立德树仁的过程其次言思德作为教师又有基本的教师师德如认真完成教学任务并且在课后不进行收礼补课等行为这些都是做到了言思德的身正而行言传身教才能真正地做到立德树仁最后是守功德那守功德其实也就是一些基本作为老师要遵守一些基本的社会道德基本的社会功德同时在课堂上我们也可以融入课程司政就作为教师做到以上三点我们就能全面地落实立德树人的根本任务以上是我即兴演讲的全部内容下面开始我的模拟教学片段展示上课同学们好好请坐。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen titled \"气体的等温变化\" (Isothermal Changes of Gases). The slide features a graphic of a sphere with a blue gradient, likely representing a gas molecule or pressure concept.\n\n#### 2. **The Title Event**\n- The title \"气体的等温变化\" is prominently displayed on the screen. The teacher stands in front of the screen, holding papers, and appears to reference the title during the introduction. There is no indication of the teacher writing this title; it is part of the pre-prepared slide.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing the title and content of the slide.\n- The teacher moves to the blackboard, possibly to write or point out something, though the exact content is not visible in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom and approaches the front.\n- The screen displays the title slide \"气体的等温变化\" with a graphic of a sphere.\n- The teacher stands in front of the screen, holding papers, and begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to reference the slide, occasionally gesturing towards it.\n- The students are seated, facing the teacher and the screen, indicating engagement with the introduction.\n\n**End:**\n- The teacher moves towards the blackboard, suggesting a transition to further explanation or writing additional content.\n- The screen remains on the title slide throughout, maintaining focus on the lesson's introduction.\n\nThis structured visual analysis captures the evolution of the classroom environment, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "Initially, the screen presents a graphic of a sphere with a blue gradient, representing a gas molecule or pressure concept, serving as the hook for the lesson. To bridge to the topic, the teacher stands in front of the screen, holding papers and gesturing towards the slide, emphasizing the visual content. Finally, the visual focus remains on the title \"气体的等温变化\" displayed prominently on the screen, establishing the lesson goal. The teacher's movement towards the blackboard suggests a transition to further elaboration, linking the introduction to the students' existing knowledge of gas behavior and preparing them for an in-depth exploration of isothermal processes. This structured approach ensures a clear connection between the visual stimuli and the lesson's objectives, setting the stage for effective learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Core Competencies in Physics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 120.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Isothermal Changes of Gases",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Sphere Graphic",
+        "type": "Visual",
+        "original_text": "A sphere with a blue gradient, likely representing a gas molecule or pressure concept.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c4",
+        "label": "Lesson Introduction",
+        "type": "Visual",
+        "original_text": "Teacher standing in front of the screen, holding papers, starting the lesson.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Gas Behavior",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Isothermal Processes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher gesturing towards the screen to emphasize slide content.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Educator Moral Standards",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 120.76]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Lecture Transition",
+        "type": "Visual",
+        "original_text": "Teacher moves towards the blackboard, suggesting transition.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The teacher highlights the topic of isothermal changes in the introduction."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The concept of isothermal changes is connected to understanding gas behavior."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Gas behavior includes understanding specific processes like isothermal changes."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Gesturing is used to emphasize the visual representation of gas molecules."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Educator moral standards reinforce core competencies by setting ethical teaching practices."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement is prompted by the introduction of the isothermal changes topic."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The move towards the blackboard scaffolds further understanding of core competencies."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

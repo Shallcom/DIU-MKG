@@ -1,0 +1,134 @@
+{
+  "video_name": "22_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Understand the basic tenets of Protestantism and their impact on European society; be able to analyze the connections and differences between the Reformation and medieval Christian thought; apply a historical perspective to evaluate the dual impact of the Protestant Reformation on notions of individual liberty.",
+  "transcript": "[603.05244975 -> 609.38] 好那接下来呢请同学们结合我们教材的第五十三到五十四页那归纳出我们新教它所持的基本的主张是什么呢。\n[620.44 -> 802.96] 词曲李宗盛我们可以找到维吾尼主动的举手告诉老师你找到哪些这位女生她的基本主张包括反对教皇权跟主张公共参议还提倡节俭和积极入世的态度鼓励人们发财致富好她找到了两点她是她的基本主张很准确那给我们看一看你是如何理解在史诺贝尔的部分你是如何理解马克思的最后一句话他把肉体从锁链中解放出来是因为他给人的心灵套上了枷锁你你是如何理解这句话的你马克思他对于我们新疆人的信仰是如何理解的的影响它是一个无论的看法好那位女生我认为因为新教它其实实际上还是坚持着基督教的基本教义它其实束缚着人们的行为嘛就是人们的思想它虽然强调的是反对教会的一些比如说说的那种十一税但它实际上还是都忽过基督教的基本思想束缚着人家人们的思维所以他们只是给他的心灵套上了锁链这是你的理解好您请这边去那你来评价一下刚刚这女生你觉得她的回答或者说你有什么进一步补充对对下肢前面就是为她把肉体从这个锁链中解放出来其实是我们要在下肢前面那个心窍之前就是一个审判的一个打击就是说你是不能够在这个逻辑现实中去处置这个规则所以他就从这方面进行一个继续解放然后的话是新教审刑这方面开始被吸引逃向这个锁面因为他虽然说进行一定改革但他还是坚持他自己的教育好请坐那如果你生活在基督教盛行的中古欧洲那请你用选省时间进行教育好好那对同学本节课时间就上到这里好各位同学下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains a diagram with arrows and text, including a circular flow diagram with labels.\n   - The presentation slide displays text in Chinese, with a highlighted section on the right side.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - Diagram with labels: \"三学段的衔接\" (Connection of three learning stages), \"电化学\" (Electrochemistry), \"学段\" (Learning stage).\n   - Slide:\n     - Title: \"教学的逻辑化\" (Logical Teaching).\n     - Text sections with headings and paragraphs in Chinese.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard diagram, emphasizing the connections between \"电化学\" and \"学段.\"\n   - The teacher gestures towards the slide, likely highlighting key points in the text.\n   - The teacher moves between the blackboard and the slide, reinforcing the relationship between the visual elements.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on summarizing the current content without transitioning to next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying key text in Chinese, accompanied by a blackboard diagram illustrating the connection between learning stages and electrochemistry. The teacher points to the blackboard diagram, emphasizing the flow between \"电化学\" and \"学段.\" They gesture towards the slide, highlighting the text sections. The teacher moves between the blackboard and slide, reinforcing the visual connections. No explicit homework or next-step instructions are visible, focusing solely on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Protestantism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[603.05244975 -> 609.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Individual Liberty",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[603.05244975 -> 609.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Reformation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[603.05244975 -> 609.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Medieval Christian Thought",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[603.05244975 -> 609.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Electrochemistry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[620.44 -> 802.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Educational Stages",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[620.44 -> 802.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing connection between educational stages and electrochemistry.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide Text Section",
+        "type": "Visual",
+        "original_text": "Highlighted section of text discussing logical teaching methods.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[620.44 -> 802.96]"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[620.44 -> 802.96]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Exploring how Protestantism influences the concept of individual liberty."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "compares_to",
+        "intent": "Analyzing similarities and differences between Reformation and medieval Christian thought."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Connecting electrochemistry to different educational stages."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram illustrates the concept of electrochemistry."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Blackboard diagram highlights connection between educational stages."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide text section outlines the principles of Protestantism."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students answer questions related to Protestantism principles."
+      },
+      {
+        "source": "ss2",
+        "target": "c6",
+        "relation": "engages_with",
+        "intent": "Students engage with concepts related to educational stages."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

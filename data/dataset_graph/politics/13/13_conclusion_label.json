@@ -1,0 +1,133 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Be able to summarize the long-standing and profound characteristics of China’s outstanding traditional culture; understand the importance and contemporary value of China’s outstanding traditional culture; learn to analyze how to inherit and develop China’s outstanding traditional culture.",
+  "transcript": "[568.9 -> 657.0] 我们的源远流长主要是从时间角度来进行比较的比如说从视频中我们发现中国是四大文明古国之中唯一一个留存至今的那么这告诉我们从时间来讲我们的中华优秀生动文化是源远流长的第二个从我们内容来讲我们不仅包含着艺术也包括哲学也包括各种各样的科学技术如四大发明等从这里我们就可以探究出我们的中华优秀传统画的内容是博大精深的最后我引用了习近平总局的一句话同学们我们一起来读一下他说中华民族一二中华民族文艺创造力是如此强大创造的成就是如此辉煌中华民族素有文化自信的气度我们应该为此感到无比自豪也应该为此感到无比自信同学们读的其实我们今天学了中华优秀传统娃的内容和中华优秀传统娃的特点其实它就像一个蝴蝶的两个翅膀一样蕴含着中华优秀传统文化的秘密。\n[665.72 -> 707.58] 今天老师带你们带领同学们学习中华优秀传统文化的目的是什么呢其实就是为了让同学们以后更好地继承发扬我们的中华优秀传统文化此外说好中国故事讲好中国声音那么接下来我们还要探究中华优秀传统文化的当代价值这个部分我们接着看各位评委老师我的模拟授课片段到此结束感谢各位评委老师的耐心倾听也感谢各位志愿者们的积极配合谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a diagram with interconnected circles labeled \"情感\" (emotion) and \"纯真\" (innocence). \n   - The layout includes a central title \"乡土味浓情传统文化\" (Rich in Local Flavor, Traditional Culture) and additional text on the left side.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords on the blackboard: \"乡土味浓情传统文化\" (Rich in Local Flavor, Traditional Culture), \"情感\" (emotion), \"纯真\" (innocence).\n   - The presentation screen displays a slide with a video thumbnail and text discussing the characteristics of excellent traditional Chinese culture, including \"时间维度：贯通古今\" (Time Dimension: Connecting Past and Present) and \"空间维度：博大精深\" (Space Dimension: Profound and Extensive).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, specifically tracing the connections between \"情感\" (emotion) and \"纯真\" (innocence).\n   - The teacher gestures towards the text on the left side of the blackboard, likely summarizing key points related to the lesson's theme.\n   - The teacher occasionally looks at the presentation screen, possibly to emphasize points related to the slide content.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary content displayed on the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard diagram featuring interconnected circles labeled \"情感\" (emotion) and \"纯真\" (innocence), centered around the theme \"乡土味浓情传统文化\" (Rich in Local Flavor, Traditional Culture). The teacher visually reviews the key points by pointing to the connections between the circles, emphasizing their interrelation. He gestures towards the text on the left side of the blackboard, reinforcing the lesson's main ideas. The presentation screen displays a slide with a video thumbnail and text discussing the characteristics of traditional Chinese culture, which the teacher references to highlight the time and space dimensions. No explicit visual handover to homework or next steps is shown, keeping the focus on the summary content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Excellent Traditional Culture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[568.9 -> 707.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Time Dimension",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[568.9 -> 657.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Space Dimension",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[568.9 -> 657.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Connection of Past and Present",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[568.9 -> 657.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Profound and Extensive",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[568.9 -> 657.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Emotion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.72 -> 707.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Innocence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[665.72 -> 707.58]"
+      },
+      {
+        "id": "v1",
+        "label": "Rich in Local Flavor Diagram",
+        "type": "Visual",
+        "original_text": "A diagram featuring interconnected circles labeled 'Emotion' and 'Innocence'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Video Thumbnail Slide",
+        "type": "Visual",
+        "original_text": "A slide with a video thumbnail and text discussing traditional Chinese culture's characteristics, including time and space dimensions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Excellent Traditional Culture includes Time Dimension."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Excellent Traditional Culture includes Space Dimension."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Time Dimension builds upon the Connection of Past and Present."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Space Dimension builds upon being Profound and Extensive."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Diagram visualizes Emotion as part of the lesson content."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Diagram visualizes Innocence as part of the lesson content."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes the characteristics of Excellent Traditional Culture."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's presentation prompts students' engaged listening."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,134 @@
+{
+  "video_name": "5_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Be able to identify and apply the connections between mathematics and real life; learn to design mathematics teaching activities based on core competencies; master methods for using information technology to enhance understanding of the essence of mathematics.",
+  "transcript": "[9.32 -> 138.02] 最近的各位课程老师大家上上午好我抽到的提醒讲一讲就是在数学教学中如何体现数学本质之我认为在新课程改革背景下下数学是能使人人都能得到的大不同的数学发展学习使人人都能得到的大不同等的数学发展因此我应该我认为应该从以下三点来在数学教学中体现数学的本质首先第一点采用真实的问题进进我们数学是来源于生活并且扎根于生活的一个学科科因此我认为应该采用真实的问题进进来进行教学进行提问落实数学的本质比如我在实践的相互例行教学中我会采用我国国奥运健儿射击运动的长场景来引入本学的学习体现数学的本质第二点我认为在数学的教学中应该落实核心素养基于大大量的教学背景下完整的数学知识链有助于学生更好地理解数学的本质数学的教学第三点在信息技术飞速发展下在数学教学中如何体现数学的本质就成一个难题我认为在数学的教学中合理的利用信息技术有助于学生更好地理解数学的本质比如我在双曲线的教学中我会利用几何跨板GGB的软件件构造出双曲线的形成过程使得学生更好地理解双曲线的概念由此我基于此我认为应该先从以上三点来体现数学的本质我的提醒到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital presentation slide displayed on the screen. It contains Chinese text, which appears to be a question or problem statement. The text is framed in a green box, and there is a section labeled \"答案\" (answer) at the bottom.\n\n#### 2. **The Title Event**\n- The title or main heading on the slide is not explicitly stated as a separate title but is part of the problem statement. The teacher does not physically write or underline anything on the board; the content is pre-displayed on the screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives are listed as bullet points on the screen or board. The focus is on the problem statement displayed.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the screen. There are no specific gestures like pointing or underlining observed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers. The screen displays a slide with a problem statement in Chinese, framed in a green box. The teacher appears to be reading or presenting from the papers.\n\n**Middle:**\n- The teacher continues to hold the papers, occasionally looking at them and then back at the class. The screen content remains unchanged, focusing on the problem statement.\n\n**End:**\n- The teacher maintains a similar posture, emphasizing the content on the screen through verbal presentation, as indicated by their engagement with the papers and the class.\n\n### Summary\nThe lesson introduction phase centers around a digital problem statement displayed on the screen. The teacher uses papers to guide their presentation, linking verbal content to the visual problem on the screen. No additional gestures or board writing are observed, keeping the focus on the pre-displayed content.",
+  "visual_narrative": "Initially, the screen presents a problem statement in Chinese, framed in a green box, serving as the hook to engage students. The teacher stands at the front, holding papers, and uses them to guide the presentation, maintaining focus on the digital content. To bridge to the topic, the teacher occasionally gestures with the papers, emphasizing key points related to the problem displayed. The visual focus remains on the problem statement throughout, establishing the lesson goal without transitioning to additional content. This approach connects the introduction to the students' existing problem-solving skills, setting the stage for deeper exploration of the topic through the presented question.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mathematics and Real Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Information Technology in Math",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Real Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Olympic Shooting Scenario",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematics Essence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Hyperbola Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Geogebra Software",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[9.32 -> 138.02]"
+      },
+      {
+        "id": "c9",
+        "label": "Digital Presentation Slide",
+        "type": "Visual",
+        "original_text": "A slide with a problem statement in Chinese, framed in a green box.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gestures with Papers",
+        "type": "Visual",
+        "original_text": "Teacher holds papers and gestures occasionally.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Connects mathematics to real-life problem-solving."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Core competencies include understanding the essence of mathematics."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Using information technology like Geogebra to enhance math understanding."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Real problem-solving includes scenarios like Olympic shooting."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Understanding the essence of mathematics includes concepts like hyperbolas."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the problem statement the teacher is discussing."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures with papers prompt student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

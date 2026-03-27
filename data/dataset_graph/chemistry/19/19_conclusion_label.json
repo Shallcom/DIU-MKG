@@ -1,0 +1,185 @@
+{
+  "video_name": "19_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the influence of concentration and temperature on chemical reaction rates; master the role of catalysts in accelerating chemical reactions; be able to explain the importance of controlling reaction rates in industrial production.",
+  "transcript": "[594.0 -> 677.52] 好接下来我们再一起回顾一下浓度变大化学反应速率变快温度升高化学反应速率那催化器我们说分为正强催化器和负催化器正气化机会使反应速率加快那么负的可能就会使反应速率减快同学们化学反应速率在快慢在日常生活中工业生产中都扮演着非常重要的角色比如刚才我们课前所提到的工业生产中合成安合理的控制反应条件即可以达到最高的生产效益那科学家们也在不断地探索高效催化剂的摄影合成比如李亚纵院士及其团队在单原子催化方面即取得了突破性的进展相关工作已经发表在国际著名期刊Nature上好了本节课就上到这里接下来请同学们课后仔细回顾本节所学下课同学们再见感谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a slide with two blue boxes labeled \"电子子平衡\" (Electronic Equilibrium) and \"化学动力学阶段\" (Chemical Kinetics Stage).\n   - The slide also contains a header with a flowchart structure, indicating a progression from \"化学反应速率\" (Chemical Reaction Rate) to \"化学平衡\" (Chemical Equilibrium) and finally to \"化学动力学\" (Chemical Kinetics).\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes a detailed text section under the header, discussing the relationship between reaction rates and equilibrium.\n   - The chemical equation $\\text{N}_2\\text{O}_4 \\leftrightarrow 2\\text{NO}_2$ is visible, along with a graph showing concentration changes over time.\n   - The blackboard contains the heading \"化学反应速率的影响因素\" (Factors Affecting Chemical Reaction Rates) with a diagram showing a curve labeled \"浓度\" (Concentration).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing to the diagram and the heading, likely summarizing the factors affecting reaction rates.\n   - The teacher then turns to the digital screen, pointing at the two blue boxes, possibly highlighting the transition from electronic equilibrium to chemical kinetics.\n   - The teacher uses hand movements to emphasize the flowchart progression on the slide, indicating the logical sequence of topics covered.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the current slide or blackboard.\n   - The focus remains on summarizing the key concepts discussed, with no additional assignments visible in the frames provided.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying two blue boxes labeled \"电子子平衡\" (Electronic Equilibrium) and \"化学动力学阶段\" (Chemical Kinetics Stage), framed by a flowchart header indicating progression from reaction rates to equilibrium and kinetics. The teacher begins the review by pointing to the blackboard, where the heading \"化学反应速率的影响因素\" (Factors Affecting Chemical Reaction Rates) and a concentration curve diagram are visible. She gestures towards the diagram, summarizing key points about concentration changes. Turning to the digital screen, she points sequentially at the blue boxes, emphasizing the transition between concepts. Her gestures trace the flowchart progression, highlighting the logical sequence of topics. The teacher uses deliberate hand movements to underscore the core takeaway, linking the blackboard content with the slide's structure. No homework or next-step instructions are visually presented, focusing solely on consolidating the lesson's key concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chemical Reaction Rate",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemical Equilibrium",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Chemical Kinetics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Concentration Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Temperature Effect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Catalysts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Positive Catalyst",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Negative Catalyst",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c9",
+        "label": "Industrial Production Control",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "c10",
+        "label": "N2O4 and NO2 Equilibrium Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[594.0 -> 677.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Electronic Equilibrium Slide",
+        "type": "Visual",
+        "original_text": "Slide labeled 'Electronic Equilibrium'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemical Kinetics Stage Slide",
+        "type": "Visual",
+        "original_text": "Slide labeled 'Chemical Kinetics Stage'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Concentration Curve Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing concentration effect on reaction rates.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The concept of chemical reaction rate leads to an understanding of chemical equilibrium."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Chemical equilibrium concepts progress into chemical kinetics understanding."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Factors influencing chemical reaction rates include concentration."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Factors influencing chemical reaction rates include temperature."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Catalysts are a critical factor affecting chemical reaction rates."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Positive catalysts accelerate reaction rates."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Negative catalysts slow down reaction rates."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Understanding reaction rates is fundamental for controlling industrial production conditions."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The equilibrium reaction of N2O4 and NO2 is an example of reaction rate concepts."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Slide transition emphasizes progression from electronic equilibrium to kinetics."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram on blackboard visualizes concentration's effect on reaction rates."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engaged_with",
+        "intent": "Students engage with the concept of chemical reaction rates."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

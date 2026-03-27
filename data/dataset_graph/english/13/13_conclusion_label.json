@@ -1,0 +1,153 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Summarize the key points about design types covered in this section; analyze the challenges of different designs and their solutions.",
+  "transcript": "[731.0 -> 780.48] IAMAMAZED这边我们还有什么设计是使用的设计是包括IMG的设计和PE设计的设计和如何是第二个设计的设计吗你想要什么设计是困难的对吗是的困难的是一个不可思议的故事你有更多的选择吗。\n[784.54 -> 806.48] 接下来是沙文的讨论方案然后我们今天有马斯蒂的工作和欧士诺的工作是在做文件谢谢您的听众。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard displaying a slide titled \"Optional: search more information about N.V and make a brochure.\"\n   - The slide features two green upward arrows with the text \"Must-decide posts your writing\" next to them.\n   - The blackboard retains the \"Travel plan\" mind map with branches labeled \"time,\" \"transportation,\" \"attraction,\" \"food,\" and \"way time.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide: \"Optional: search more information about N.V and make a brochure,\" \"Must-decide posts your writing.\"\n   - Blackboard: \"Travel plan\" with branches \"time,\" \"transportation,\" \"attraction,\" \"food,\" \"way time.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text \"Optional: search more information about N.V and make a brochure\" on the slide.\n   - The teacher gestures towards the \"Must-decide posts your writing\" text, emphasizing the upward arrows.\n   - The teacher occasionally looks at the blackboard, likely referencing the \"Travel plan\" mind map.\n\n4. **Transition to Next Step**:\n   - The slide indicates a homework or next step with the text \"Optional: search more information about N.V and make a brochure.\"\n   - The teacher's gestures towards this text suggest it is an assignment for further action.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying two green upward arrows and the text \"Must-decide posts your writing,\" alongside the instruction \"Optional: search more information about N.V and make a brochure.\" The teacher points to the optional task, emphasizing the upward arrows to highlight the importance of posting writing. The blackboard retains the \"Travel plan\" mind map with branches labeled \"time,\" \"transportation,\" \"attraction,\" \"food,\" and \"way time.\" The teacher gestures towards the slide, reinforcing the next steps for the students. The visual emphasis on the upward arrows and the optional task suggests a focus on further engagement and application of the lesson's content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard Slide",
+        "type": "Visual",
+        "original_text": "Optional: search more information about N.V and make a brochure",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Upward Arrows on Slide",
+        "type": "Visual",
+        "original_text": "Must-decide posts your writing",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Travel Plan Mind Map",
+        "type": "Visual",
+        "original_text": "Travel plan with branches time, transportation, attraction, food, way time",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Design Types",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[731.0 -> 780.48]"
+      },
+      {
+        "id": "c2",
+        "label": "IMG Design",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[731.0 -> 780.48]"
+      },
+      {
+        "id": "c3",
+        "label": "PE Design",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[731.0 -> 780.48]"
+      },
+      {
+        "id": "c4",
+        "label": "Design Challenges",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[731.0 -> 780.48]"
+      },
+      {
+        "id": "c5",
+        "label": "Possible Solutions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[731.0 -> 780.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Brochure Creation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[784.54 -> 806.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Shao Wen Discussion Plan",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[784.54 -> 806.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Must-Decide Posts",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[784.54 -> 806.48]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The slide encourages student engagement with further tasks."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Design Types include IMG Design as a specific example."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Design Types include PE Design as a specific example."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Design Challenges lead to exploring Possible Solutions."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "The task on the slide guides students in Brochure Creation."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "The upward arrows emphasize the importance of Must-Decide Posts."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The Travel Plan Mind Map reflects key concepts from the lesson."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Discussion Plan includes Must-Decide Posts as a key activity."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Possible Solutions encourage students to think critically about design challenges."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

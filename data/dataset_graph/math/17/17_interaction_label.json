@@ -1,0 +1,144 @@
+{
+  "video_name": "17_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the standard equation of an ellipse and its range of values; analyze the ellipse’s vertices and focus coordinates; understand the ellipse’s symmetry and eccentricity.",
+  "transcript": "[284.33405 -> 312.66] 根据我们现在不妨将这个椭圆用一个矩形给它框起来我们知道它的标准方程这样表示那如何得到X和Y的矩直范围呢我们可以将它进行转化的对不对我们这样我们就可以得到X大于等于负A小于等于A那Y呢应该是得到这边写错了应该是Y大于等于负B小于等于B那由此我们可以得到它的取值范围。\n[320.32 -> 426.501075] 那好现在我们再来想一想那你觉得椭圆会具有哪些顶点呢来后面那位同学来请你回答一下有与X轴的焦点与Y轴的焦点它有分别关于X轴和Y轴的焦点对吧那它的四个顶点应该是A顶对还有复A零B还有零复B非常好请坐那现在通过定义的角度我们得出了以下两个结论那现在我们再想一想椭圆还会具有哪些性质呢它可能还会具有对称性和离心率现在我们再来从几何的角度来看呢我们再来从几何的角度来看那现在我们再想一想椭圆还会具有哪些性质呢它可能还会具有对称性和离心率现在我们再来从几何的角度来看那现在我们再想一想一想椭圆还会具有哪些性质呢它可能还会具有对称性和离心率进行分析同样还是这一个模型你觉得椭圆它怎样才能证明出它具有对称性呢那现在如果我将沿着X轴切割垂直的方向画几条竖箭你能得出什么结论呢它可能椭圆关于X轴对称那同样的道理如果我沿着平行对称于X轴方向再画几条直线呢那你觉得椭圆关于外轴对称非常好请坐椭圆关于外轴对称那关于X轴和关于外轴对称呢还可以通过什么进行对称呢那好我们现在再来画几条直线你能够发现此时椭圆关于圆点对称那通过以上这三种情况我们能够得到椭圆具有对称性。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the digital screen, drawing attention to the specific content being discussed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the digital screen displaying an ellipse diagram with the equation $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ and the range $-a \\leq x \\leq a$, $-b \\leq y \\leq b$. The teacher also referred to the blackboard where she had written the inequality $-a \\leq x \\leq a$, $-b \\leq y \\leq b$ and the points $(a,0)$, $(-a,0)$, $(0,b)$, $(0,-b)$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the ellipse diagram on the screen, emphasizing the axes and the range of $x$ and $y$. She also gestured towards the blackboard, highlighting the written inequalities and points to guide the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually validated the student's input by nodding and maintaining eye contact. She then proceeded to draw additional lines on the digital screen, illustrating the symmetry of the ellipse and reinforcing the concept of the range of $x$ and $y$. She also circled the key points on the blackboard to emphasize their importance.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher points to the ellipse diagram on the screen, highlighting the equation $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$.\n  - She writes the inequality $-a \\leq x \\leq a$, $-b \\leq y \\leq b$ on the blackboard.\n\n- **Middle:**\n  - The teacher makes a sweeping gesture towards the class, inviting interaction.\n  - She points directly at the digital screen, focusing on the ellipse diagram.\n  - While a student responds, she gestures towards the blackboard, emphasizing the written inequalities and points.\n\n- **End:**\n  - The teacher nods and maintains eye contact, validating the student's input.\n  - She draws additional lines on the digital screen to illustrate the symmetry of the ellipse.\n  - She circles the key points on the blackboard, reinforcing the concept.\n\nThis structured visual interaction effectively guides the students through the understanding of the ellipse's properties and their graphical representation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the ellipse diagram with the equation $\\frac{x^2}{a^2} + \\frac{y^2}{b^2} = 1$ and the range $-a \\leq x \\leq a$, $-b \\leq y \\leq b$. The teacher began by pointing to the diagram, emphasizing the axes and the range of $x$ and $y$. She then made a sweeping gesture towards the class, inviting students to participate in the discussion.\n\nAs the student began to explain their reasoning, the teacher walked over to the blackboard and wrote the inequality $-a \\leq x \\leq a$, $-b \\leq y \\leq b$, along with the points $(a,0)$, $(-a,0)$, $(0,b)$, and $(0,-b)$. She gestured towards these points, reinforcing their significance in the context of the ellipse. While the student continued, the teacher pointed to the digital screen, highlighting the symmetry of the ellipse and the corresponding ranges.\n\nTo validate the student's explanation, the teacher gave a distinct nod and circled the key points on the blackboard. She then drew additional lines on the digital screen, illustrating the symmetry and reinforcing the concept of the ellipse's properties. This visual confirmation helped solidify the student's understanding.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing arrows from the circled points on the blackboard to the ellipse diagram on the screen. This visual linkage emphasized how the points and ranges relate to the overall equation of the ellipse, helping students move from passively receiving knowledge to actively constructing their own understanding through guided interaction and visual reinforcement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ellipse Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[284.33405 -> 312.66]"
+      },
+      {
+        "id": "c2",
+        "label": "X Range",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[284.33405 -> 312.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Y Range",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[284.33405 -> 312.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Ellipse Vertices",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[320.32 -> 426.501075]"
+      },
+      {
+        "id": "c5",
+        "label": "Ellipse Symmetry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[320.32 -> 426.501075]"
+      },
+      {
+        "id": "c6",
+        "label": "Ellipse Eccentricity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[320.32 -> 426.501075]"
+      },
+      {
+        "id": "v1",
+        "label": "Ellipse Diagram",
+        "type": "Visual",
+        "original_text": "Digital screen displaying ellipse diagram with equation x^2/a^2 + y^2/b^2 = 1 and ranges -a ≤ x ≤ a, -b ≤ y ≤ b.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Inequalities",
+        "type": "Visual",
+        "original_text": "Blackboard showing inequalities -a ≤ x ≤ a, -b ≤ y ≤ b and points (a,0), (-a,0), (0,b), (0,-b)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher uses the diagram on the screen to explain the ellipse equation."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher points to blackboard to show X range of ellipse."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher points to blackboard to show Y range of ellipse."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Teacher reinforces ellipse vertices by showing them on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher draws additional lines on the screen to illustrate symmetry."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher elaborates on ellipse properties including eccentricity."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "prompts_thinking",
+        "intent": "Student answers and teacher guides using blackboard points."
+      },
+      {
+        "source": "s2",
+        "target": "v1",
+        "relation": "engages",
+        "intent": "Students are engaged visually with the screen content."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding vertices builds upon understanding ellipse symmetry."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Ellipse symmetry concept evolves into understanding eccentricity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

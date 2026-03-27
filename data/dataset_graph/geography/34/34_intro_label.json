@@ -1,0 +1,140 @@
+{
+  "video_name": "34_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Master teaching methods for flexibly handling classroom multimedia failures; enhance geography teachers’ map and board‑drawing abilities.",
+  "transcript": "[0.0 -> 66.2] 我的计息演讲题目是灵活应对课堂多媒体故障重视版图版画能力如今多媒体教学已经深入到我们的课堂之中那么当多媒体出现故障的时候我们应该如何应对呢举个例子当一位地理教师在教授地质地貌的环节的时候突然多媒体不能够进行正常使用那么这个时候我们应该怎么做呢仓皇地结束这堂课是否显得不妥呢。\n[70.08 -> 76.98] 如果我们如此仓促地结束这堂课就会表现得我们不够专业。\n[78.0 -> 97.28] 所以能够完美地结束这堂课才是我们应该做到的然后我们应该怎么做呢首先作为一名地理教师在多媒体进行出现故障的时候我们应该重视自己的版图和版画能力这些应该是我们在日常生活中在日常教学中就应该所练习所练习到的完美的捷克需要我们具备比较专业的知识以及我们有良好的心态那么这些依据都来自于教师的基本素养我们不仅要有专业的知识还要有稳定的情绪。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displaying the title \"区域联系与区域协调发展\" (Regional Connections and Regional Coordinated Development). This is the initial visual object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"区域联系与区域协调发展\" is displayed on the screen. The teacher does not physically write it but presents it on the slide. The title is centered and prominently displayed.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher stands at the podium and gestures towards the world map displayed on the screen. The map is a blue and white representation of the world, highlighting continents and oceans.\n- The teacher occasionally points to different regions on the map, likely emphasizing specific areas relevant to the topic of regional connections and development.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays the title \"区域联系与区域协调发展.\"\n- The teacher stands at the podium, facing the audience, and begins the presentation.\n\n**Middle:**\n- The screen transitions to a world map.\n- The teacher gestures towards the map, pointing to various regions. This action links the visual content of the map to the topic of regional development.\n\n**End:**\n- The teacher continues to engage with the map, possibly discussing specific examples or case studies related to regional coordination.\n- The audience remains focused on the teacher and the visual content displayed.\n\n### Summary\nThe lesson introduction phase centers around the title slide and a world map. The teacher uses gestures to connect the visual content of the map to the topic of regional connections and development. The visual elements evolve from a title slide to a detailed map, with the teacher actively linking these visuals through gestures.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, presenting the title slide \"区域联系与区域协调发展\" as the initial visual stimulus. The scene transitions smoothly to a world map displayed on the screen, serving as the main visual aid. The teacher actively engages with the map, pointing to various regions to emphasize key areas relevant to the topic. This transition from the title slide to the detailed map effectively bridges the hook to the main topic, grounding the discussion in a global context. The teacher's gestures towards specific regions on the map help connect the abstract concept of regional coordination to tangible geographical examples, facilitating a link between the students' existing knowledge of geography and the new topic. This visual approach sets the stage for a deeper exploration of regional development, preparing students to understand how different areas interact and develop in coordination.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Regional Connections and Development",
+        "type": "Visual",
+        "original_text": "Title slide displaying 'Regional Connections and Regional Coordinated Development'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "World Map Visualization",
+        "type": "Visual",
+        "original_text": "World map displayed with continents and oceans",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Multimedia Failures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Teaching Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Map Drawing Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Geography Instruction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Professionalism in Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[70.08 -> 76.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Pre-Class Preparation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[78.0 -> 97.28]"
+      },
+      {
+        "id": "c7",
+        "label": "Emotional Stability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[78.0 -> 97.28]"
+      },
+      {
+        "id": "c8",
+        "label": "Regional Coordination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "ss1",
+        "label": "Focused Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "evolves_from",
+        "intent": "Transition from title slide to world map for deeper exploration."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Teaching methods include handling multimedia failures."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Map drawing skills are a component of effective geography instruction."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Geography instruction techniques evolve from map drawing skills."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Professionalism in teaching requires mastery of methods for classroom challenges."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Effective pre-class preparation includes maintaining emotional stability."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Regional coordination is visualized through world map interactions."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Discussion on regional coordination prompts student focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,172 @@
+{
+  "video_name": "3_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Be able to identify and describe the characteristics of common curved surfaces and planar figures; learn to inductively summarize the common features of the surfaces of different geometric solids.",
+  "transcript": "[708.5678 -> 734.74] 剩下这些图形像是篮球泥球这些它是纸由曲面的吗它是围成它们的面都有些面是曲面吧比如说纸杯它的侧面是曲面吧它的上下面是平面吧。\n[735.94 -> 768.54] 也就是说维持他们的面不全是平面图形有一些是曲面图形但是球呢球的话完全是完全是有曲面好同学请坐同学们的表达都非常的有逻辑也就是说我们尝试的归纳出了第二类的他们的共同特点时间到放入鸡肉丝和葱丝和葱丝和葱丝和。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the presentation slide on the screen. It features a list of geometric shapes with labels and images, alongside a text box with a question.\n   - The slide is titled \"直观特征 - 形状特征\" (Intuitive Features - Shape Features).\n   - The layout includes images of various 3D shapes (e.g., cylinder, cone, pyramid) with corresponding labels in Chinese.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes the following key items:\n     - \"圆柱\" (Cylinder)\n     - \"长方体\" (Rectangular Prism)\n     - \"圆锥\" (Cone)\n     - \"球\" (Sphere)\n     - \"正方体\" (Cube)\n     - \"棱柱\" (Prism)\n   - The text box contains a question: \"【尝试二】你能找到圆柱、棱柱、圆锥、球体、足球、铅笔的相同特点吗？\" (Attempt 2: Can you find the common features of cylinders, prisms, cones, spheres, footballs, and pencils?)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely emphasizing the shapes and the question.\n   - The teacher points to different sections of the slide, possibly highlighting each shape and the question to guide student attention.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on the current slide, suggesting a review or discussion of the shapes and their features.\n\nThis structured visual summary consolidates the lesson's focus on identifying and understanding the features of basic 3D shapes.",
+  "visual_narrative": "The lesson concludes with a slide centered on the core topic of \"Intuitive Features - Shape Features.\" The teacher visually reviews the content by pointing to each shape and the accompanying question, guiding students to consider their common features. The slide displays images of various 3D shapes, such as cylinders, prisms, and spheres, alongside descriptive labels. The teacher emphasizes the question at the center, encouraging students to reflect on the similarities among the shapes. There is no visible homework or next-step instruction, focusing the conclusion solely on reinforcing the understanding of geometric features.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cylinder",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Rectangular Prism",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Cone",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Sphere",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Cube",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Prism",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Curved Surfaces",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[735.94 -> 768.54]"
+      },
+      {
+        "id": "c8",
+        "label": "Planar Surfaces",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[735.94 -> 768.54]"
+      },
+      {
+        "id": "c9",
+        "label": "Geometric Solids",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[735.94 -> 768.54]"
+      },
+      {
+        "id": "c10",
+        "label": "Shape Features",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[708.5678 -> 734.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Geometric Shapes Slide",
+        "type": "Visual",
+        "original_text": "A slide containing images of various geometric solids with labels.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Reflective Question",
+        "type": "Visual",
+        "original_text": "Question: Can you find the common features of cylinders, prisms, cones, spheres, footballs, and pencils?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Curved surfaces are a component of geometric solids."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Planar surfaces are a component of geometric solids."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Cylinder is an example of a geometric solid."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Rectangular Prism is an example of a geometric solid."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Cone is an example of a geometric solid."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Sphere is an example of a geometric solid."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Cube is an example of a geometric solid."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Prism is an example of a geometric solid."
+      },
+      {
+        "source": "c10",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents shape features."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The slide encourages students to reflect on shape features."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The reflective question engages students in considering common features."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,140 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand Lu Xun’s critical perspective in “Take‑for‑Use” and its real‑world significance.",
+  "transcript": "[0.0 -> 225.06] 字幕志愿者杨茜茜读者杨茜茜杨茜杨茜杨杨茜杨杨茜�走过来都没有发现那么作为一名语文教师我将采取以下三点措施第一点我会及时地提醒但是尽量不惊动其他的同学我会在课堂上通过用手清点学生的桌子进行提醒并小声跟他说不要再看了在课堂上我会增加在讨论时下来询查的次数多次检查提醒第二点我会调整上课活动拿来主义它作为一篇博论文有些难懂像诗课堂中一些梳理文章做思维导图的一些环节可能有些枯燥我会去挖掘本文中的一些趣味性比如拿来主义它的语言是生动是幽默的我会增加一些趣味性的活动比如让学生展开想象或者请学生扮演灿头混蛋的再让这一个在课堂上看虎侠小说的同学参与活动使同学们增加讨论生生不平环节让这个学生能够参与到课堂中来感受到课堂的趣味性第三点我会在课后请学生来到办公室我来询问他在课堂上的一些疑问是否是对于课堂活动进行有些枯燥的原因使他想要去看虎侠小说并且我会和他进行一些询问说最近这段时间对于语文学习的兴趣是否有所下降我会跟他扩心在课堂上看武侠小说等是对教师不尊重的行为那么这样一种行为我希望他下次不要再犯好那么对于最后一点我想让我想在我想就本文刻意去让在课堂上去进行一个小小的班会比如说在课前的时候我就会提醒那么本文我本堂课的学习是具有趣味性的请同学们不要在课上进行其他活动的学习好那么这就是我的词性讲面环节下面开始我的课堂展示好同学们在之前的学习中我们通过勾画零起句绘制了思维导图已经初步地梳理了本文的写作思路那么同学们作为一篇学者散文它有怎样的特别之处呢现在请同学们以课文的第二段为例我们先来梳理一下梳理的逻辑与层次好老师提醒一下大家梳理的逻辑与层次我们可以通过什么东西进行把握呀进行梳理看看第二段中有什么出现的特别多对问句出现的特别多所以我们可以抓住问句来展开思考好先来开始。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen features the phrase \"说‘木’字\" (Discuss the character \"木\"). This is likely the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"说‘木’字\" (Discuss the character \"木\"). The teacher stands in front of the screen, presenting the content without additional emphasis like underlining.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the initial slides. The focus is on the character \"木\" and related content.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures towards the screen, likely emphasizing points related to the character \"木\".\n- There is no specific pointing or circling observed in the initial frames.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays \"说‘木’字\" with additional text below, likely providing context or instructions.\n- The teacher appears to be reading or explaining the content on the screen.\n\n**Middle:**\n- The teacher continues to present, occasionally looking at the screen and then back at the students.\n- The screen transitions to a slide with dense text, possibly providing detailed explanations or examples related to the character \"木\".\n- The teacher gestures towards the screen, indicating specific sections of the text.\n\n**End:**\n- The teacher moves closer to the screen, possibly to highlight or read specific parts of the text.\n- The students are engaged, with some looking at their notes or the screen.\n\n### Summary\nThe lesson introduction focuses on the character \"木,\" with the teacher using slides to guide the discussion. The visual elements include the initial hook phrase and subsequent detailed text, with the teacher linking their gestures to the content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and presenting the initial visual stimulus: the phrase \"说‘木’字\" displayed prominently on the screen. This hook captures the students' attention, setting the stage for the lesson. The teacher engages with the content, occasionally glancing at the screen and then back at the students, suggesting an interactive start. As the lesson progresses, the slide transitions to a more detailed text, indicating a shift from the hook to the main topic. The teacher gestures towards the screen, likely emphasizing key sections of the text, which provides context and depth to the discussion of the character \"木.\" This transition smoothly bridges the hook to the main content, linking the character to broader linguistic or cultural concepts. The teacher's actions, such as pointing to specific parts of the text, help connect the new knowledge to the students' existing understanding, preparing them for further exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Character '木'",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 225.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "Slide showing 'Discuss the character 木'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Gestures to Screen",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards the screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c4",
+        "label": "Dense Text Slide",
+        "type": "Visual",
+        "original_text": "Slide with dense text explanation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c6",
+        "label": "Lu Xun's Perspective",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 225.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Real-world Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 225.06]"
+      },
+      {
+        "id": "c8",
+        "label": "Teacher's Inquiry",
+        "type": "Visual",
+        "original_text": "Teacher asks questions about text logic",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Critical Thinking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 225.06]"
+      },
+      {
+        "id": "c10",
+        "label": "Use of Humor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 225.06]"
+      },
+      {
+        "id": "c11",
+        "label": "Use of Questions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 225.06]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the character '木' to engage students in the lesson."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures to draw attention to Lu Xun's critical perspective."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The dense text slide provides a summary of Lu Xun's perspective."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with Lu Xun's perspective critically."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Real-world significance is explored as an extension of Lu Xun's perspective."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "guides_discussion",
+        "intent": "Teacher uses questions to cultivate critical thinking among students."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Humor in the text supports the use of questions for broader engagement."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The character '木' is contextualized within broader real-world applications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

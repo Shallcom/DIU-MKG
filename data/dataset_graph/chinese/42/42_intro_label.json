@@ -1,0 +1,146 @@
+{
+  "video_name": "42_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "- Help students correctly understand the phenomenon of early romantic relationships and their impacts.  \n- Enhance teachers' ability to communicate effectively with parents and students.  \n- Foster sound perspectives on marriage, relationships, and life values.",
+  "transcript": "[0.0 -> 23.36] 字幕志愿者杨栋梁尊敬的各位评委老师大家上午好我抽到的这样一则材料。\n[24.46 -> 97.96] 你的学生是高中生把他早恋的事情告诉了你希望你保密当家长问起孩子早恋时你如何回答针对这则材料我拟定的即席讲演题目是以成化人用心感悟好我将从以下两点来进行讲演第一首先我要考虑到具体问题应该具体分析我首先要去找该学生去了解他的具体情况分析该学生的早恋行为是有利的双向互赢的还是不利的如果该学生的早恋行为是两名学生异性之间的有利向上积极向上的一种状态我会有效地和家长沟通把学生早恋积极向上的这样一种好的表现行为如实地反映给家长但是如果我了解到该学生的早恋行为是不利的是沉溺的是耽误于高中生的身心健康发展的我会先和该学生进行有效沟通去告诉他给他传达早恋以及婚姻的各种婚恋的一种观念如果该学生是无法自拔的话我会试我会采取适当的方式去找家长进行沟通。\n[99.22 -> 150.42] 第二点我认为身为教师应该践行教育家精神以教书育人为目的如果自己的学生在精神方面或者是在生活当中其他方面也出现了问题自己也应该及时到我们教育是为了培养得志提美劳全面发展的人而不应该只学生的成绩如果生活当中自己的学生发生了这样的行为也要践行好一个教师他应有的职责和担当去把自己的职责去把自己的一成化人去感动他用自己的教师的良心去带动他让他在生活当中了解一个人积极向上健康成长的表现行为是积极正向的状态好的以上是我集体讲演的全部题目感谢各位评委老师。\n[151.74 -> 170.18] 下面开始我的模拟授课环节在上课之前。\n[181.34 -> 184.06] 请允许我将我的教制教具放置一下。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide on the screen displaying text in Chinese. The hook object is the slide with a red star and the following text:\n  ```\n  追寻红色记忆，传承红色精神\n  ——《红星照耀中国》读书分享会\n  ```\n\n#### 2. **The Title Event**\n- The title on the screen is:\n  ```\n  追寻红色记忆，传承红色精神\n  ——《红星照耀中国》读书分享会\n  ```\n- The teacher stands in front of the screen, gesturing towards it, likely emphasizing the title.\n\n#### 3. **The Objectives**\n- The slide includes a list of bullet points on the left side, which are partially visible:\n  - 任务一：默读课文\n  - 任务二：浏览课文，记录感动话语\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their hands, likely emphasizing points related to the slide content.\n- The teacher occasionally points towards the screen, directing attention to specific parts of the slide.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- The teacher stands near the blackboard, which is empty except for some colored markers on the side.\n- The screen displays the initial slide with the red star and title text.\n- The teacher gestures towards the screen, likely introducing the topic.\n\n#### Middle\n- The teacher moves closer to the screen, holding papers, and continues to gesture, emphasizing the objectives listed on the slide.\n- The teacher points to the bullet points, possibly explaining the tasks to the students.\n\n#### End\n- The teacher stands in front of the screen, summarizing the introduction.\n- The screen transitions to a new slide with the text:\n  ```\n  任务一：默读课文\n  下面请同学们借助文章的小标题快速阅读文章，读的过程中记录下使你感动的话语。\n  ```\n- The teacher gestures towards this new slide, explaining the first task.\n\n### Summary\nThe lesson introduction is visually anchored by the slide with a red star and thematic title. The teacher uses hand gestures to emphasize key points and objectives, directing student attention to the screen content. The transition to the task slide marks the shift from introduction to activity instructions.",
+  "visual_narrative": "The introduction phase begins with the teacher standing near an empty blackboard, with a slide displayed prominently on the screen featuring a red star and the thematic title, \"追寻红色记忆，传承红色精神——《红星照耀中国》读书分享会.\" This visual hook sets the tone for the lesson. The teacher holds papers and gestures towards the screen, emphasizing the significance of the title. As the lesson progresses, the teacher points to the bullet points on the left side of the slide, which outline the learning objectives, including tasks like \"默读课文\" and \"浏览课文，记录感动话语.\" The teacher's gestures direct student attention to these objectives, creating a bridge between the thematic introduction and the specific activities. The visual transition occurs as the slide changes to detail the first task, \"任务一：默读课文,\" where the teacher further gestures towards the new content, explaining the upcoming activity. This structured introduction links the overarching theme to actionable tasks, grounding the new knowledge in a clear, step-by-step approach that connects to the students' reading experience and future engagement with the text.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Early Romantic Relationships",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[24.46 -> 170.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Positive Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[24.46 -> 97.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Negative Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[24.46 -> 170.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Teacher-Student Communication",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[99.22 -> 170.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Parental Communication",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[24.46 -> 150.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Life Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[99.22 -> 170.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Cognitive Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[99.22 -> 150.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Thematic Slide",
+        "type": "Visual",
+        "original_text": "Pursue Red Memory, Inherit Red Spirit - Book Sharing of 'Red Star Over China'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Objectives Slide",
+        "type": "Visual",
+        "original_text": "Task One: Silently Read the Text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Task Slide",
+        "type": "Visual",
+        "original_text": "Task One: Silently Read the Text and Record Touching Sentences",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Listening to Instructions",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links positive impacts of relationships on students."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Highlights potential negative impacts of relationships."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Discusses communication strategies with students."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Expands on communication strategies with parents."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Discusses how life values underpin cognitive development."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes the theme of early romantic relationships."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Visual aid for students during instruction."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Slide details the first task, focusing on understanding relationships."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts students to think about relationships."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,132 @@
+{
+  "video_name": "47_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the distributive law of multiplication in algebra and its geometric interpretation; master the application of polynomial multiplication using the rectangle‑area model; cultivate students’ geometric intuition and mathematical abstraction abilities.",
+  "transcript": "[0.0 -> 179.7] 并行时少直观行无术时少思考那么数学抽象思维是我们的数学核心素养之一这个数学直观和数学抽象是两个相辅相成的东西就拿我们的具体实力来说以我们的建武功等式来说我们知道它是代数中的一个非常重要的应用部分那它既可以从我们的代数上去证明也可以从我们的几何上去解释因为我们原圆中的这个定理来以它的这个做相似三角形去解释以及我们的多项式的乘法法则我们知道括号A加M乘括号A加B它是我们的多项式乘法那怎么样引导学生去理解这个乘法呢此时我们通过可以通过借助矩形的面积来去帮助理解我们可以将它分为四个小矩形的面积最后得出四个小矩形的面积等于大矩形的面积之和四个小矩形的面积之和等于大矩形的面积来得到这个诗字好以及行无数识少珍少思考我们知道椭圆是我们高中中的特别重要的一个学习内容我们椭圆的概念是如何得出呢是通过它的具体的几何关系来抽象到我们的代数关系从而来到我们的直角坐标系中去研究那么接下来如何去培养学生的几何直观与数学抽象能力呢我会告诉学生一定要多思考多研究我们知道生活中不缺少美只是缺少发现美的眼睛同样的生活中不缺少数学只是缺少一种善于观察数学的眼睛那么同学们一定要多思考勤体练接下来是如何去培养呢我们要通过我们的一般观念一般理念这样的思想去研究研究它确定我们的研究对象以及研究方法通过它的几何本质要素将我们将其与我们的代数相比联系集合时间到了请进入下一阶段。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen to the right of the teacher. The slide contains a large text box with the number \"4.1\" prominently displayed. The teacher uses this as a starting point for the lesson.\n\n#### 2. **The Title Event**\n- The title on the blackboard is written in Korean characters. The teacher does not appear to write or underline it during this segment. The text is located on the left side of the blackboard.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the blackboard or screen during this segment. The focus is on the initial slide with \"4.1.\"\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the slide.\n- The teacher's hands are visible, but no specific gestures like pointing or underlining are observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the blackboard and screen, holding papers.\n- The digital slide with \"4.1\" is displayed prominently on the screen.\n- The blackboard shows Korean text on the left side, which remains static.\n\n**Middle:**\n- The teacher continues to hold the papers, occasionally shifting their position slightly.\n- The digital slide remains unchanged, maintaining focus on \"4.1.\"\n- No additional writing or gestures are observed on the blackboard.\n\n**End:**\n- The teacher maintains a similar stance, with no significant changes to the visual elements.\n- The screen and blackboard content remain consistent throughout the segment.\n\nThis structured visual analysis captures the initial setup and static elements of the lesson introduction, focusing on the digital slide and blackboard content.",
+  "visual_narrative": "Initially, the screen presents a digital slide with the number \"4.1\" prominently displayed, serving as the hook to initiate the lesson. The teacher stands in front of the blackboard, holding papers, and maintains a steady presence, subtly shifting their position. To bridge to the topic, the teacher uses the static slide as a focal point, ensuring students' attention is directed toward the initial content. The blackboard, featuring Korean text on the left, remains unchanged, providing a consistent visual backdrop. Finally, the visual focus stays on the \"4.1\" slide, establishing the lesson's starting point and setting the stage for the introduction of new knowledge. This approach connects the students' existing understanding to the forthcoming content, preparing them for the structured exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Distributive Law of Multiplication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 179.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Algebraic Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 179.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Geometric Interpretation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 179.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Rectangle-Area Model",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 179.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Geometric Intuition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 179.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematical Abstraction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 179.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Slide '4.1'",
+        "type": "Visual",
+        "original_text": "Digital slide displaying the number '4.1' as a lesson starter.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Korean Text",
+        "type": "Visual",
+        "original_text": "Korean text written on the left side of the blackboard, remaining static throughout.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Applies the distributive law fundamentally in algebra."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Demonstrates the geometric aspect of the distributive law."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Illustrates distributive law using a geometric method."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Links geometric understanding to intuition development."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Integrates abstract mathematical thinking into algebraic procedures."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "promotes",
+        "intent": "Improves intuitive geometric understanding through practical model application."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Uses the digital slide to help students visualize the rectangle-area model."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students actively participate in understanding the distributive law."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students focus on the content displayed on the digital slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

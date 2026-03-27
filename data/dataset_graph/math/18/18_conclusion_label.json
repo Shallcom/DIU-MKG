@@ -1,0 +1,119 @@
+{
+  "video_name": "18_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "- Be able to identify and evaluate single-variable quadratic inequalities;  \n- Understand the relationship between single-variable quadratic inequalities and the graphs of quadratic functions;  \n- Master the method of solving single-variable quadratic inequalities by analyzing quadratic function graphs.",
+  "transcript": "[659.585533 -> 710.78] 它不是一元二次不等式为什么因为它首先最高次数不是二的可以解开的也不是不等式它是一个等式所以它肯定就不是一元二次不等式所以它是错的那你还能说一下第三个吗第三个它也不是一元二次不等式为什么因为它是一个等式所以很明显就可以看到它不是一个不等式而且它也不是一个一元二次不等式其他同学你们听清楚它的分析了吗我们把掌声送给这位男同学好那同学们我们在初中已经学习了从一次函数的视角去看一元一还有一元一次不等式的思想方法那同学们能不能配比一下我们从二次函数的观点去看一下一元二次不等式进而对这个一元二次不等式进行求解它的方法是什么好我们先来分析一下一具体的一元二次不等式和二次函数我们首先在平面直角坐标系中画出了这个图像是二次函数的图像对不对那我们通过图像分析就可以知道它焦点的横坐标就是这个方程的实数根那它的坐标是多少它得数的实数根是多少是不是。\n[712.64 -> 718.22] X您的您的好我的讲课到此结束谢谢各位评论老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom. It displays a completed mathematical problem involving quadratic inequalities.\n   - The layout includes a heading in green, \"二、授業内容・まとめ\" (Summary of the Lesson), followed by the quadratic inequality $x^2 + 12x + 20 < 0$ and its transformation into $(x + 10)(x + 2) < 0$.\n   - A graph is shown, depicting the parabola $y = x^2 + 12x + 20$ with its intersection points at $x = -10$ and $x = -2$.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main formulas: $x^2 + 12x + 20 < 0$, $(x + 10)(x + 2) < 0$\n   - Graphical representation: Parabola with roots at $x = -10$ and $x = -2$\n   - Key points: Intersection points and the inequality solution range\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the inequality $(x + 10)(x + 2) < 0$ on the blackboard, emphasizing the factorization process.\n   - She gestures towards the graph on the screen, highlighting the intersection points and the region where the inequality holds true.\n   - The teacher uses a pointer to trace along the parabola, illustrating the solution range visually.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided. The focus remains on summarizing the lesson content visually.",
+  "visual_narrative": "The lesson concludes with a digital slide centered on the quadratic inequality $x^2 + 12x + 20 < 0$. The teacher visually reviews the content by pointing to the factorized form $(x + 10)(x + 2) < 0$ on the blackboard, then gestures towards the graph on the screen, highlighting the intersection points at $x = -10$ and $x = -2$. She traces along the parabola, emphasizing the solution range. The visual focus remains on the summary content, with no explicit homework or next-step instructions displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Quadratic Inequality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[659.585533 -> 710.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Factorization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[659.585533 -> 710.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Intersection Points",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[659.585533 -> 710.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Quadratic Function Graph",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[659.585533 -> 710.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Solution Range",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[659.585533 -> 710.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Screen with Parabola",
+        "type": "Visual",
+        "original_text": "The digital screen displays the parabola of the equation y = x^2 + 12x + 20 with intersection points at x = -10 and x = -2.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Transformed Inequality",
+        "type": "Visual",
+        "original_text": "The inequality (x + 10)(x + 2) < 0 is displayed on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Demonstrates the process to simplify quadratic inequalities."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Illustrates how the intersection points are critical to understanding the inequality."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Shows that the graph of the quadratic function includes points of intersection."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Explains the methodology to determine the range where the inequality holds."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Uses the graph to determine the solution range visually."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The screen graphically demonstrates the quadratic function for better understanding."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The display on the board clarifies the factorization process."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students process and engage with determining the solution range."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

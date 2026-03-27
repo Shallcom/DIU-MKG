@@ -1,0 +1,153 @@
+{
+  "video_name": "6_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the definition and geometric meaning of complex-number addition; understand the commutative and associative laws of complex addition; be able to analyze complex addition using vector addition.",
+  "transcript": "[312.28 -> 447.06] 我是这么定义的现在我有一个符数Z一等于A一加一IZ二等于A二加一二I现在我想请同学们思考一下Z一加Z二你们会怎么去计算呢请你来回答一下我会把它的时步和时路分别相加非常好请坐他会把时步与时步虚部与虚部相加也就是A一加上A二那B一加上B二十部与十部相加虚部与虚部相加大家想一下这个跟我们之前所学的多项式是不是很像呢对我们就是类比了多项式的加法运算所以我们符数的加法加法运算就是这么定义的它的时步与时步相加需步与需步相加那现在同学们请思考一下我们的符数有平面的几何意义那符数的加法有吗现在好那不好意思符数的加法我们知道时数的加法满足交换率和结合率它的交换A加B等于B加A吧很好那它的结合率呢A加B加C等于A加B加C非常好那我们的符数是否也有交换率和结合率呢我们看看怎么书写符数的ZE加C吧加上Z二我们可以等于Z二加上Z一。\n[448.4 -> 464.14] 那Z一加上Z二加上Z三我们可以等于Z一加上Z二加上Z三。\n[465.68 -> 493.82] 我们的符数有了平面的几何意义那我们符数的加法是否也有平面的几何意义呢现在我们给定了Z一A一加B一IZ二A二加B二I那么你们该如何找出它们的平面几何意义呢现在请同学们思考一下回顾一下当时我们学习符数的概念的时候怎么找出它的几何意义的呢。\n[495.68 -> 547.24] 请你来回答一万他就是希望你在浮屏面上把C一C二的两条项链把它平移过去是他的首位相机好的谢谢请坐我们在学习浮数的概念的时候我们是建立了浮屏面然后找到了一个有序数对首先A是我们的十步B是我们的虚部然后建立了浮平面在上面找到了一条以原点为起点的项链就确定了唯一的一个项链那么现在我们浮数的加法是不是也可以通过这样一个方式来找到呢现在请同学们在草稿纸上试一下。\n[555.68 -> 596.62] 好现在我请一位同学来说一下AZ一这个符数它在平面内上我们找到了一个什么样的有序数对呢请你来说一下Z一Z一就是AA一B一那Z二呢在哪平面内上我们找到了A二B二A二B二非常好。\n[600.06 -> 650.64] 那现在我们根据向量的加法法则OZ一加上OZ二我们等于多少呢OZ一加上OZ二向量等于多少呢请你来说应该等于A一加A二做好B一加B二非常好请做等于A一加A二B一加B二那现在我们是不是找到了关于符数加法所对应的向量的有序数对那那我们现在可以做出她的图案了吗同学们再做一下图试试看。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly to the digital screen displaying the question about the meaning of complex number operations, inviting students to engage.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the digital screen displaying the question: \"複素数の法則を交換律や結合律で証明できるか?\" (Can the laws of complex numbers be proven by commutative and associative laws?). This question was the focal point for student responses.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher listened attentively and occasionally nodded to encourage participation. She also pointed to the relevant equations on the blackboard, such as $z_1 + z_2 = (a_1 + a_2) + (b_1 + b_2)i$, to hint at the connection between the student's response and the previously discussed content.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After a student provided an answer, the teacher visually validated the input by writing the student's explanation on the blackboard. She also drew a small diagram to illustrate the concept further, ensuring clarity. Additionally, she circled key parts of the equations to emphasize important points and gave a thumbs-up gesture to acknowledge correct responses.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes the equations $z_1 = a_1 + b_1i$, $z_2 = a_2 + b_2i$, and $z = a + bi (a, b \\in \\mathbb{R})$ on the blackboard.\n  - She then writes $z_1 + z_2 = (a_1 + a_2) + (b_1 + b_2)i$ and $z_1 + z_2 = z_2 + z_1$ to demonstrate addition and commutative properties.\n\n- **Middle:**\n  - The teacher points to the digital screen with the question about proving complex number laws.\n  - She invites a student to answer by making a sweeping gesture and pointing to the screen.\n  - While listening, she points to the equations on the board, specifically highlighting $a_1 + b_1i$ and $a_2 + b_2i$.\n\n- **End:**\n  - The teacher writes the student's explanation next to the equations, such as $z_1 + z_2 = (a_1, b_1) + (a_2, b_2)$.\n  - She draws a small diagram to visually explain the concept and circles key parts of the equations.\n  - She gives a thumbs-up to confirm the student's correct understanding.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students grasp the concepts through guided engagement and visual reinforcement.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the complex number equations $z_1 = a_1 + b_1i$, $z_2 = a_2 + b_2i$, and $z = a + bi (a, b \\in \\mathbb{R})$, along with the addition properties $z_1 + z_2 = (a_1 + a_2) + (b_1 + b_2)i$ and $z_1 + z_2 = z_2 + z_1$. The digital screen posed the question about proving complex number laws using commutative and associative properties. The teacher gesturally invited students to participate by making a sweeping gesture toward the class and pointing directly to the question on the screen, signaling the start of an interactive discussion.\n\nAs a student began to explain their reasoning, the teacher walked over to the board and jotted down key terms from the student's response, such as $z_1 + z_2 = (a_1, b_1) + (a_2, b_2)$. She listened attentively, nodding to encourage the student and occasionally pointing to the relevant equations on the board to highlight connections. Her movements between the board and the digital screen helped maintain focus on the core concepts being discussed.\n\nTo validate the student's answer, the teacher gave a distinct nod and circled the final equation on the board, emphasizing its correctness. She then drew a small diagram to visually reinforce the concept, ensuring clarity for all students. This visual confirmation was followed by a thumbs-up gesture, signaling approval and understanding.\n\nThe teacher's gestures linked the student's response back to the core lesson content by drawing arrows connecting the newly written terms to the original equations. This visual linkage reinforced the relationship between the student's explanation and the fundamental properties of complex numbers discussed earlier.\n\nThrough these orchestrated visual strategies, the teacher facilitated a transition from passive reception to active construction of knowledge. By inviting participation, providing real-time scaffolding, and offering clear visual feedback, students were encouraged to engage deeply with the material, fostering a collaborative environment where they could construct and verify their own understanding of complex number operations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Complex Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[312.28 -> 447.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Real Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[312.28 -> 447.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Imaginary Part",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[312.28 -> 447.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Complex Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[312.28 -> 596.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Commutative Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[312.28 -> 493.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Associative Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[448.4 -> 493.82]"
+      },
+      {
+        "id": "c7",
+        "label": "Geometric Meaning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[495.68 -> 547.24]"
+      },
+      {
+        "id": "c8",
+        "label": "Vector Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[600.06 -> 650.64]"
+      },
+      {
+        "id": "v1",
+        "label": "Equation Displayed",
+        "type": "Visual",
+        "original_text": "The digital screen displayed equations and asked about proof of complex number laws using commutative and associative properties.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Board Equations",
+        "type": "Visual",
+        "original_text": "Equations: z1 = a1 + b1i, z2 = a2 + b2i, z1 + z2 = (a1 + a2) + (b1 + b2)i",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[312.28 -> 650.64]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The digital screen supports classroom discussion by showing equations."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Complex addition involves operations on complex numbers."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Complex addition adheres to the commutative law properties."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Complex addition adheres to the associative law properties."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Geometric understanding of addition explained using vector addition."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Complex addition can be analyzed through the lens of vector addition."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Complex numbers consist of a real part."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Complex numbers consist of an imaginary part."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Teacher scaffolding by pointing to equations to engage students."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Student contributions lead to better understanding of complex addition."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

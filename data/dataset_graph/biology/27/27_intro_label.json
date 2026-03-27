@@ -1,0 +1,134 @@
+{
+  "video_name": "27_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the role of biological knowledge in career planning; develop the ability to design teaching methods that are matched to the diverse characteristics of students.",
+  "transcript": "[0.0 -> 112.5] 作为一名人民教师我们就要尊重学生的独立性这些要求我们应该以学生为主体了解学生的真实需求从而制定教学计划并注重学生心理发展的特点根据不同的阶段来制定相应的教学其次学生是独特的人老师应正确认识到这一点与此同时我们要根据不同学生的特点来制定教学计划实施因才施教例如有的学生动手能力强那么我们在课堂中就可以多多创造一些实践性的环节那么有的同学对概念的理解能力比较强我们就可以在课程开始时打造一个问题框架让学生对本节课的概念进行基本的研究从以上两个方面实现教术育人与生物学课的融合那么生物学能够帮助学生做好学习未来的职业规划是因为生物学在社会中有很多的职业并且在我们的课本中会有与生物相关的职业介绍那么同学们可以利用这一职业介绍来发现自己的兴趣并找到自己未来的职业规划以上为我的即兴讲演环节",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital screen displaying a webpage. The webpage contains text and an image of a book cover. The text is in Chinese, and the book cover features a nature scene.\n\n#### 2. **The Title Event**\n- The title on the screen is not explicitly highlighted or underlined by the teacher. However, the main heading on the screen is in Chinese, likely indicating the topic of the lesson.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board. The content on the screen appears to be a webpage with text and a book cover, but no bullet points or objectives are listed.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and appears to be reading from them. There are no specific gestures like pointing or underlining observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays a webpage with Chinese text and a book cover image.\n- The teacher begins reading from the papers, likely introducing the lesson content.\n\n**Middle:**\n- The teacher continues to read from the papers, maintaining a focus on the content displayed on the screen.\n- The green chalkboard to the left remains blank, with no additional writing or diagrams.\n\n**End:**\n- The teacher continues to engage with the class, still reading from the papers.\n- The screen content remains unchanged, showing the same webpage with text and the book cover.\n\n### Summary\nThe introduction phase of the lesson is primarily driven by the teacher reading from papers, with the digital screen displaying a webpage as the hook object. The webpage includes Chinese text and a book cover image, setting the context for the lesson. No specific objectives or additional gestures are observed, keeping the focus on the initial content displayed.",
+  "visual_narrative": "Initially, the screen presents a webpage featuring Chinese text and a book cover image, serving as the hook to capture the students' attention. The teacher stands at the front, holding papers and reading from them, which suggests an introduction to the lesson content. To bridge to the topic, the teacher maintains focus on the screen, using the displayed webpage as a visual anchor. The visual focus remains on the screen throughout, with no additional gestures or transitions observed. This setup establishes the lesson's context, likely connecting the book cover and text to the broader subject matter, preparing students for the upcoming content. The introduction links the visual elements to the students' existing knowledge by presenting a familiar format (a webpage) and gradually guiding them into the lesson's main topic through the teacher's narrative.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student Independence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Teaching Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Student Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Handwriting Ability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Conceptual Understanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Lesson Plan",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Biological Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Career Planning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 112.5]"
+      },
+      {
+        "id": "c9",
+        "label": "Chinese Text",
+        "type": "Visual",
+        "original_text": "Text displayed on the screen featuring a nature book cover.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Nature Book Cover",
+        "type": "Visual",
+        "original_text": "Nature scene displayed on a book cover on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Teaching methods are built upon respecting student independence."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Lesson plans are tailored to diverse student characteristics."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Different student capabilities are included in teaching focus."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Career planning builds upon understanding biological knowledge."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The Chinese text and book cover on the screen visualize the lesson topic."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher prompts student thinking by focusing on independence."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Career planning evolves from understanding biological careers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

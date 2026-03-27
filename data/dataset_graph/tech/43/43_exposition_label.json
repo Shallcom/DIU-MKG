@@ -1,0 +1,211 @@
+{
+  "video_name": "43_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Describe the three lines of defense of the human immune system and their functions; develop collaborative analytical skills through group discussion.",
+  "transcript": "[149.76 -> 155.08] 这是你们本部需要完成的一项作业请你收好用的。\n[179.76 -> 248.92] 莎克同学们好请坐同学们你们有没有想象过穿越回古诞会发生什么可以和你白一起共赏黄河之水天上来奔流到海不复回的浪漫壮阔还可以和你青照一起共赏海棠花的知否知是否是因女肥红瘦但是老师要告诉大家如果你们穿越回古代呀是个行走的生化武器你们相信吗有同学点头有同学摇头那其实是因为我们身上携带着大量的病菌那同学要好奇了老师你说我们有这么多的病菌为什么我们能够健健康康地坐在教室里面上课呢为什么同学们因为人体免疫很棒。\n[250.28 -> 317.6] 我们刚刚了解过了人体免疫的一二道防线是皮肤黏膜以及杀菌物质和吞噬细胞我们还有一位特种兵没有出场他就是我们的第三道防线那么请大家开书本看下教材我们人体的免疫器官包括哪些呢这是淋巴结这是胸腺和皮皮免疫器官有怎样的功能呀能够产生免疫细胞那我们想一想第三道防线到底是怎样发挥它的免疫作用的你看我们每次感冒的时候就是感冒病毒这个病原体抗原刺激到了我们的免疫器官它产生了免疫细胞那免疫细胞到底是如何进行免疫的大家可以结合教材小组讨论说一说。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a presentation titled \"免疫与计划免疫\" (Immunity and Planned Immunization).\n- The teacher gestures towards the screen, which shows a black ink blot with text \"假如穿越回古代...\" (If we traveled back to ancient times...).\n- The teacher uses hand gestures to emphasize the content on the screen, pointing to the ink blot and the accompanying text.\n\n**Middle:**\n- The teacher moves to the chalkboard, using a pointer to indicate specific areas, though no writing is visible.\n- The screen transitions to a diagram of the human body, highlighting the immune system with labels in Chinese.\n- The teacher gestures towards the diagram, pointing to specific parts of the body to explain immune functions.\n\n**End:**\n- The screen displays a flowchart with boxes labeled \"免疫系统\" (Immune System) and \"免疫\" (Immunity).\n- The teacher uses hand gestures to trace the flow of information in the chart, emphasizing connections between concepts.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying various educational diagrams and text related to immunology.\n- Initial state includes a black ink blot with text, a human body diagram with immune system labels, and a flowchart with boxes.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis by pointing to specific parts of the diagrams and text on the screen while explaining.\n- **Modifications**: No erasures or modifications are observed; the teacher focuses on existing content.\n- **Deictic Gestures**: The teacher points to the ink blot, body diagram, and flowchart boxes while speaking, linking verbal explanations to visual elements.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight key areas of the diagrams and text.\n- The screen zooms in on important sections, such as the immune system labels and flowchart connections, to draw attention.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing understanding of the lesson's flow.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a black ink blot with the text \"假如穿越回古代...\" (If we traveled back to ancient times...), setting the stage for a historical perspective on immunity. The teacher constructed a narrative by pointing to the ink blot, illustrating ancient concepts of disease and immunity. Then, the teacher transitioned to a detailed diagram of the human body, highlighting the immune system with labels in Chinese. The teacher derived key points by tracing specific body parts, such as the spleen and lymph nodes, to explain their roles in immunity. Finally, the teacher moved to a flowchart on the screen, constructing a visual representation of the immune system's functions. The teacher annotated the flowchart, emphasizing connections between \"免疫系统\" (Immune System) and \"免疫\" (Immunity). Throughout, the teacher resolved deixis by tracing the flowchart's pathways and circling critical nodes, aligning visual emphasis with verbal conclusions. This structured visual approach reduced cognitive load by linking abstract concepts to concrete diagrams, ensuring students could follow the lesson's progression seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Historical Immunity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.76 -> 248.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Pathogens",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[179.76 -> 248.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Immune System Defense",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Skin and Mucous",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Antimicrobial Substances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Phagocytic Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Adaptive Immunity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Lymph Nodes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c9",
+        "label": "Thymus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c10",
+        "label": "Spleen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c11",
+        "label": "Immune Response",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[250.28 -> 317.6]"
+      },
+      {
+        "id": "c12",
+        "label": "Digital Presentation",
+        "type": "Visual",
+        "original_text": "Presentation titled 'Immunity and Planned Immunization'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Ink Blot Image",
+        "type": "Visual",
+        "original_text": "Image with text 'If we traveled back to ancient times...'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c14",
+        "label": "Human Body Diagram",
+        "type": "Visual",
+        "original_text": "Diagram highlighting the immune system",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c15",
+        "label": "Immune System Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart showing connections between immune system components",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c16",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c13",
+        "relation": "visualizes",
+        "intent": "Illustrates the historical perspective on immunity."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Connects historical immunity to the understanding of pathogens."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes the first line of defense in the immune system."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Details the antimicrobial substances as part of the immune defense."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Lists phagocytic cells as a critical component of the immune response."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Introduces the concept of adaptive immunity."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Discusses the lymph nodes' role in the immune response."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Covers the thymus' involvement in immune function."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Explains the spleen's contribution to immunity."
+      },
+      {
+        "source": "c11",
+        "target": "c15",
+        "relation": "visualizes",
+        "intent": "Depicts the immune response process using a flowchart."
+      },
+      {
+        "source": "c12",
+        "target": "c13",
+        "relation": "summarizes",
+        "intent": "The presentation summarizing past perspectives on immunity."
+      },
+      {
+        "source": "c14",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Diagram supporting the explanation of adaptive immunity."
+      },
+      {
+        "source": "c8",
+        "target": "c14",
+        "relation": "visualizes",
+        "intent": "Lymph nodes depicted in the human body diagram."
+      },
+      {
+        "source": "c16",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Group discussion enhancing understanding of the immune system."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

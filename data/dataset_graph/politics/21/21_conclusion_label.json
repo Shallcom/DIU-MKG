@@ -1,0 +1,159 @@
+{
+  "video_name": "21_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "- Be able to describe the basic characteristics of an intelligent, high‑efficiency government.  \n- Understand the role of technologies such as the Internet and big data in governmental governance.  \n- Be able to summarize the impact of the intelligent, high‑efficiency government model on social governance.",
+  "transcript": "[666.859467 -> 668.5] 很好请坐这个我们建设的就是一个公开公正的政府接下来老师在老师的这个政理的政府里发现了这样一件事情在老师进了这个大厅之后看到了一个小机器人他就过来了然后老师仔细观察了一下这个机器人是就业服务的机器人你在这个机器人里头只要输入自己的就业需求机器人就会为你筛选出来可以符合你就业的岗位在这里我们其实就体现了政府的一个智能高效政府运用互联网大数据人工智能等技术手段促进了依法行政优化革新政府治理流程和方式不断提高了政务的服务效能同学们在书上把这个知识点画下来。\n[688.58 -> 701.86] 那么内容我们就先了解这么多一会儿让我们继续来了解下面的内容我的试讲结束。\n[718.58 -> 726.84] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in Chinese characters.\n   - The layout is a simple vertical list with bullet points, organized in a column.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key points:\n     - 法治政府\n     - 1. 职能科学\n     - 2. 权责法定\n     - 3. 执法严明\n     - 4. 公正公开\n     - 5. 廉洁高效\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point on the blackboard, likely reviewing the content with the students.\n   - She moves from the top to the bottom of the list, ensuring each point is highlighted.\n   - After reviewing, she erases the blackboard, indicating the conclusion of the lesson.\n\n4. **Transition to Next Step**:\n   - The screen transitions to a desktop view, suggesting the end of the presentation or a shift to another activity.\n   - No specific homework or next lesson details are visible on the screen or board in this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a vertical list of key points summarizing the lesson on 法治政府. The teacher points to each bullet point in sequence, moving from the top to the bottom of the list, ensuring each concept is visually reviewed. She briefly pauses at each point, likely emphasizing their importance. After the review, she erases the blackboard, signaling the conclusion of the lesson. The screen transitions to a desktop view, indicating a shift away from the presentation content. No specific homework or next-step instructions are visible, marking the end of the visual lesson summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard displays a vertical list of key points: rule of law government with scientific functions, legal responsibilities, strict enforcement, fairness and transparency, and clean efficiency.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Rule of Law Government",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Scientific Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Legal Responsibilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Strict Enforcement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Fairness and Transparency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Clean Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Intelligent High-Efficiency Government",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Role of Internet",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c9",
+        "label": "Role of Big Data",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "c10",
+        "label": "Social Governance Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[666.86 -> 668.5]"
+      },
+      {
+        "id": "s1",
+        "label": "Visual Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard visually represents the concept of rule of law government."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Rule of law government includes scientific functions."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Rule of law government includes legal responsibilities."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Rule of law government includes strict enforcement."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Rule of law government includes fairness and transparency."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Rule of law government includes clean efficiency."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Intelligent government builds upon the role of the Internet."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Intelligent government builds upon the role of big data."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Social governance impact evolves from the intelligent government model."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Students engage with the visual review of blackboard content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

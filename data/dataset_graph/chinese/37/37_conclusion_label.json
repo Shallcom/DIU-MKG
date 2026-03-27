@@ -1,0 +1,153 @@
+{
+  "video_name": "37_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Analyze characters’ behavior and mannerisms to infer their personality traits; understand how detailed description contributes to the construction of character images.",
+  "transcript": "[621.96 -> 675.36] 二德子一位打手下好魏一峰的总结你为什么填这样的不太熟悉的读的非常细读出了这个其他人物口中的二德对吧很威风好像趾刚气扬地从门里就闯了进来抢了进来而且你看他进来之后就十分挑衅呀凑到长四也向前说你这是对谁甩行花呢非常挑衅就像一个流氓打手来看形象我们同学补充一个威风那第二处呢一个怎样的流麻子我们现在不补充康柳我们就来说说流麻子请你来分享。\n[683.28 -> 757.28] 还没想好没关系我们再思考一下请你来补充产妹的为什么呀因为后面他一进来就给常四爷闹音说您试试这个任务说您试试我们看到前面的二德子也是他跟常四爷说话用的是你但是呢当他看到了地位更高的杨教士以后他马上就说您对吗也让你服用彩像那我们说这是谄媚的还有梁路学注意到他这个时候是领着康六进来要买他的女儿要买卖他的女儿他已经想好了怎么去跟康六讨价还价怎么去说服康六这个时候他应该是充满算计的同学们觉得算计合适吗机敏显示出机敏神色来说得非常好那我们再来看看秦仲义他是怎样往外走的他上朝的时候是满面冲锋那你觉得下场的时候还是怎样时间到好谢谢各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It contains a list of activities or instructions.\n   - The slide is titled \"活动二 - 演员视角\" (Activity Two - Actor's Perspective).\n   - The layout includes three numbered points, each with a brief instruction.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings on the slide are:\n     1. \"从演员的角度，尝试分析下列情境\" (From the actor's perspective, try to analyze the following situations)\n     2. \"（二）想一想 - 一边听音乐，一边看书（时间：5分钟）\" (Think - Listen to music while reading a book (Time: 5 minutes))\n     3. \"（三）试一试 - （）（时间：5分钟）\" (Try - ( ) (Time: 5 minutes))\n     4. \"（四）比一比 - （）（时间：5分钟）\" (Compare - ( ) (Time: 5 minutes))\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, pointing to each numbered point in sequence.\n   - She holds papers and occasionally looks at them, possibly referring to notes or a script.\n   - The teacher uses hand movements to emphasize the instructions, such as holding up fingers to indicate the sequence of activities.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on the current activity instructions, suggesting the next steps are likely related to the listed activities on the slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing three bullet points summarizing the activities for the actor's perspective. The teacher points to each bullet in sequence, using hand gestures to emphasize the instructions. She briefly pauses on each point, ensuring students understand the sequence of tasks. The slide remains static, with no additional visual elements like underlining or highlighting. There is no explicit visual handover to homework or next steps, as the focus stays on the current activity instructions displayed on the screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Character Analyzing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Actor Perspective",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Personality Traits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Descriptive Imagery",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Character Dialogue",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[683.28 -> 757.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Challenging Authority",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Visual",
+        "original_text": "The main visual carrier is a slide titled 'Activity Two - Actor's Perspective', including instructions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Listening to Music",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c9",
+        "label": "Provocative Behavior",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[621.96 -> 675.36]"
+      },
+      {
+        "id": "c10",
+        "label": "Slide Instruction",
+        "type": "Visual",
+        "original_text": "The slide consists of three numbered points for activities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c12",
+        "label": "Comparing Situations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[621.96 -> 675.36]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Character analysis includes understanding the actor's perspective."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Character analysis builds upon identifying personality traits."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Descriptive imagery helps infer personality traits."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Character dialogue shows how one challenges authority."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "Slide summarizes activity instructions for actor's perspective."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Listening to music is an activity for personality observation."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Provocative behavior is shown through character dialogue."
+      },
+      {
+        "source": "c11",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Students are engaged when visual concepts consolidate knowledge."
+      },
+      {
+        "source": "c1",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Character analysis includes comparing different situations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

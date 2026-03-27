@@ -1,0 +1,165 @@
+{
+  "video_name": "5_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic components and notation of chemical equations; master the skills of correctly writing and reading chemical equations; analyze the significance of chemical equations in representing chemical reactions.",
+  "transcript": "[150.0 -> 269.26] 好同学们我们刚才已经知道了质量守恒和化学反应的特点那么我们现在要怎样规范地表示我们的化学反应呢这呢就涉及到我们的化学方程式我们首先来看如果是我们的碳在氧气中燃烧生成二氧化碳这个式子现在呢我们进行的是文字的表述如果我们要用化学式来表示我们现在提到的这几种物质你要怎样书写才是一个正确的化学方程式呢好那么我们先来一起来写一写从这里我们可以看到我们用符号来表示我们的物质就是碳加我们的氧气点燃条件下生成了我们的二氧化碳这样我们用化学式来表示化学反应的方程式叫做化学方程式我们这样表示之后我们要怎样读这个方程式呢有没有同学说一说。\n[271.48 -> 317.44] 我们要怎样用我们的语文表达来读出我们这个方程式啊这位同学我觉得它就是跟上面一样它就不做碳加氧气点燃生成二氧化碳好请坐这位同学将我们的方程式简单的读了一遍那我们要怎样正确的呢正确的读呢我们来看我们应该是碳在氧气中点燃生成二氧化碳我们这里不能简单的读我们要说碳在氧气中燃烧生成了我们的二氧化碳。\n[321.8 -> 345.38] 那么我们知道化学式有很多的意义那化学方程式还有哪些意义呢我们这里是我们的原子的图原子和分子的图和我们的化学方程式同学们两相结合给同学们一分钟的时间你们思考一下它有什么样的含义。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing a large screen displaying a slide titled \"化学反应方程式\" (Chemical Equation).\n- The slide initially shows a blank area under the title.\n- The teacher gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The teacher points to the text on the slide, which now includes a description of chemical equations and their significance.\n- The teacher uses hand gestures to emphasize key points in the text, such as the definition of chemical equations and their role in representing chemical reactions.\n- The teacher writes the chemical equation $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ on the screen, explaining each component.\n- The teacher points to the equation, highlighting the reactants (C and O₂) and the product (CO₂).\n\n**End:**\n- The teacher adds a diagram illustrating the reaction process, showing the combination of carbon and oxygen molecules.\n- The teacher circles the equation $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ to emphasize its importance.\n- The teacher uses color coding to differentiate between reactants and products, enhancing visual clarity.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the chemical equation $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ displayed on the screen.\n- The equation is initially presented without additional annotations.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes the chemical equation $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ on the screen.\n  - The teacher adds a diagram showing the molecular interaction between carbon and oxygen.\n- **Modifications**: \n  - The teacher circles the equation to highlight its significance.\n  - The teacher uses color coding to differentiate between reactants and products.\n- **Deictic Gestures**: \n  - The teacher points to the reactants (C and O₂) while explaining their roles.\n  - The teacher gestures towards the product (CO₂) to illustrate the outcome of the reaction.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher circles the final equation $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ to mark its importance.\n- The teacher uses color coding to visually distinguish between different parts of the equation.\n- The teacher zooms in on the diagram to emphasize the molecular interaction process.",
+  "visual_narrative": "Initially, the bulletin board showed a blank slide titled \"化学反应方程式\" (Chemical Equation). The teacher began by constructing the foundational concept of chemical equations, explaining their role in representing chemical reactions. As the lecture progressed, the teacher derived the chemical equation $\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$, writing it on the screen and annotating each component to clarify the reactants and product. The teacher then traced the molecular interaction, illustrating the combination of carbon and oxygen molecules through a diagram. Deictic gestures were resolved by pointing to specific parts of the equation, such as circling the reactants (C and O₂) and tracing the arrow to highlight the formation of CO₂. To emphasize the final outcome, the teacher circled the entire equation and used color coding to differentiate between elements, reducing cognitive load by visually segmenting the information. Finally, the teacher zoomed in on the diagram, reinforcing the molecular process and ensuring the students' understanding of the chemical reaction's visual representation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mass Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 169.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemical Reaction Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 169.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Chemical Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[169.0 -> 269.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Carbon",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.26 -> 317.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Oxygen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.26 -> 317.44]"
+      },
+      {
+        "id": "c6",
+        "label": "Carbon Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.26 -> 317.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Chemical Symbol",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[269.26 -> 317.44]"
+      },
+      {
+        "id": "c8",
+        "label": "Writing Chemical Equations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[169.0 -> 317.44]"
+      },
+      {
+        "id": "c9",
+        "label": "Reading Chemical Equations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[317.44 -> 345.38]"
+      },
+      {
+        "id": "c10",
+        "label": "Atomic Model Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating molecular interaction in chemical reactions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Chemical Equation Diagram",
+        "type": "Visual",
+        "original_text": "$\\text{C} + \\text{O}_2 \\rightarrow \\text{CO}_2$ equation on screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Analyzing Significance",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Expressing Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The chemical equation is displayed on screen for demonstration."
+      },
+      {
+        "source": "c4",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Carbon is a reactant in the chemical equation."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Oxygen is a reactant in the chemical equation."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Carbon Dioxide is the product in the equation."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Understanding chemical equations is foundational for learning to write them."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Writing chemical equations logically leads to reading them accurately."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The atomic model illustrates the role of carbon in chemical reactions."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Atomic models help explain characteristics of chemical reactions."
+      },
+      {
+        "source": "c9",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Students actively express how they understand chemical equation reading."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "guides_discussion",
+        "intent": "Students engage with the significance of chemical equations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

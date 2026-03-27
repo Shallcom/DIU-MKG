@@ -1,0 +1,158 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Understand the definition and formation process of cold winds; master the impact of air masses on agriculture.",
+  "transcript": "[671.94 -> 713.7] 找到了吗我们现在还说说离我们最近的南方地区可能会出现怎么样的状况农作物可能会出现冻害对不对很狂那么如果在我们的北方地区也是农作物对不对在我国南方是经济作物这些东西可能会出现冻害而在我们的北方也是由于我们的农作物比如说冬小麦它也会受到一个灾害。\n[721.94 -> 752.64] 好那在我们牧草地区呢牧草叫做白斋白斋很好啊好我们今天呢学习了冷风它是如何形成的给好给同学们布置一个课后作业请根据冷风的含义我们来推测暖风的概念是怎么样的以及绘制出它的示意图来老师先展示一张图大家仔细思考一下。\n[755.3 -> 770.42] 今天的课呢我们一同学习了什么是气团进入了我们的概念博物馆然后知道了我们的冷风它的封面整体的过程静机过程是如何的好今天的课呢我们也就上到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"硬转\" (Cold Front).\n   - The slide includes a diagram illustrating the concept of a cold front, showing the interaction between cold and warm air masses.\n   - The layout consists of a textual explanation at the top and two diagrams at the bottom, depicting the movement and interaction of air masses.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main heading: \"硬转\" (Cold Front).\n   - Text: \"体现实例与冷锋的天气预报相联系，并绘制其示意图\" (Relate examples to cold front weather forecasts and draw a diagram).\n   - Diagram labels: \"冷气团\" (Cold air mass), \"暖气团\" (Warm air mass), and arrows indicating movement.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the heading \"硬转\" (Cold Front) to emphasize the topic.\n   - The teacher gestures towards the diagrams, explaining the interaction between the cold and warm air masses.\n   - The teacher traces the arrows in the diagrams to illustrate the movement of air masses and the formation of the cold front.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the cold front concept, with no transition to next steps shown.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"硬转\" (Cold Front), featuring a diagram illustrating the interaction between cold and warm air masses. The teacher begins the review by pointing to the heading, emphasizing the topic. She then gestures towards the diagrams, tracing the arrows to demonstrate the movement of air masses and the formation of the cold front. The teacher pauses briefly on the diagrams, ensuring the visual interaction between the air masses is clear. No additional visual elements, such as homework instructions, are present, focusing solely on reinforcing the core concept of the cold front through the diagrams and gestures.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cold Front",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[671.94 -> 770.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Cold Air Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[671.94 -> 770.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Warm Air Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[671.94 -> 770.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Weather Forecast",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[671.94 -> 752.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Frost Damage",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[671.94 -> 713.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Economic Crops",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[671.94 -> 713.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Winter Wheat",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[671.94 -> 713.7]"
+      },
+      {
+        "id": "c8",
+        "label": "Cold Front Slide",
+        "type": "Visual",
+        "original_text": "Slide showing interaction of cold and warm air masses",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Air Mass Movement Diagram",
+        "type": "Visual",
+        "original_text": "Diagrams illustrating movement and interaction of air masses",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c11",
+        "label": "Homework Task",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[721.94 -> 752.64]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Cold Front consists of the interaction with a Cold Air Mass."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Cold Front involves the interaction with a Warm Air Mass."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "The interaction between Cold and Warm Air Masses leads to Cold Front formation."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding Cold Front helps in making accurate weather forecasts."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The principle of Frost Damage is linked to Cold Front formation."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Economic Crops are affected by Frost Damage from cold fronts."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Winter Wheat is vulnerable to Frost Damage associated with cold fronts."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The slide visually represents Cold Front interaction."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Diagrams illustrate the movement and interaction of air masses forming cold fronts."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Homework task involves exploring concepts related to cold fronts."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged with the Cold Front concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

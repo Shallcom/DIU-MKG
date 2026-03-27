@@ -1,0 +1,159 @@
+{
+  "video_name": "21_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the significance and function of issue‑based teaching in ideological and political education; master the method of analyzing social problems through issue contexts; be able to combine theory and practice to analyze the value of issue‑based teaching.",
+  "transcript": "[0.0 -> 93.5] 是病得治你认为呢我将从以下方面进行展开描述我认为议题式教学不是病而是药我将从以下两点进行首先社会药议题式教学中的医学情境可以让学生置身于情境之中而我们现在正是处于社会中让学生在情境中学习可以更好地感知社会感受知识运用于实践当中其次实践要议题是教学中的艺学活动可以帮助我们学生在议题情境中更好地进行活动我们现在的思想政治教育课是活动型综合型和综合型的课程正式应该将理论运用于实践当中而艺学活动可以帮助我们更好地在议题情境中将理论运用于实践让学生在实践中感受成长成为一全面发展的人我的即兴讲演到此结束了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a red slide displayed on the screen with the text \"EMERGENCY SITUATIONS\" in yellow. This slide is the first visual element presented to the students.\n\n#### 2. **The Title Event**\n- The title on the blackboard is written in Chinese characters. The teacher did not write it during the video; it was already present. The text is located on the left side of the blackboard.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or blackboard during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely emphasizing points related to the content on the screen.\n- She occasionally looks at the students, indicating engagement with the audience.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The classroom is set up with a green chalkboard and a digital screen displaying a red slide titled \"EMERGENCY SITUATIONS.\"\n- The blackboard has Chinese text written on the left side, which remains static throughout the video.\n\n**Middle:**\n- The teacher enters the frame, holding papers, and begins speaking.\n- She gestures with her hands, possibly emphasizing key points related to the content on the screen.\n- The teacher occasionally looks at the students, maintaining eye contact to engage them.\n\n**End:**\n- The teacher continues to speak and gesture, maintaining focus on the content displayed on the screen.\n- No additional visual elements or changes occur on the blackboard or screen during this segment.\n\n### Summary\nThe introduction phase of the lesson begins with a red slide titled \"EMERGENCY SITUATIONS\" displayed on the screen. The blackboard features pre-written Chinese text. The teacher engages with the students through gestures and eye contact while discussing the content on the screen. No new visual elements or learning objectives are introduced during this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a classroom, where a red slide titled \"EMERGENCY SITUATIONS\" serves as the initial visual stimulus. The blackboard to the left displays pre-written Chinese text, setting the stage for the lesson. The teacher, holding papers, engages with the students through deliberate gestures and eye contact, emphasizing key points related to the content on the screen. Throughout the introduction, the visual focus remains on the red slide, with no transition to a new topic or additional visual aids. The teacher's actions, such as gesturing and maintaining eye contact, help bridge the hook to the main topic, subtly preparing students for the discussion on emergency situations. This approach likely connects new knowledge to students' existing experiences by using clear, focused visuals and active engagement, laying the groundwork for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Issue-based Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Social Context Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Theory-Practice Integration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Medical Context in Education",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Social Situations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Experiential Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Artistic Activity in Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Comprehensive Courses",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c9",
+        "label": "Growth through Practice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 93.5]"
+      },
+      {
+        "id": "c10",
+        "label": "Blackboard Chinese Text",
+        "type": "Visual",
+        "original_text": "Pre-written Chinese text on the blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Emergency Situations Slide",
+        "type": "Visual",
+        "original_text": "Red slide with 'EMERGENCY SITUATIONS' text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The teaching principle involves analyzing social contexts."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Issue-based teaching emphasizes the integration of theory with practice."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Medical contexts in education can evolve from social situations."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Integrating theory and practice can lead to experiential learning."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Artistic activities help apply theory in practice."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Comprehensive courses incorporate theory-practice integration."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Growth is achieved through experiential learning practices."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "The slide introduces emergency situations to scaffold issue-based teaching."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The blackboard text supports social context analysis."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in thinking about issue-based teaching."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

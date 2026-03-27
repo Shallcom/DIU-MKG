@@ -1,0 +1,197 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Be able to identify the main characteristics of diploid and polyploid plants; understand how changes in chromosome number affect plant morphology and yield.",
+  "transcript": "[656.882833 -> 713.12] 同学们有答案了吗好同学们你们的答案准备得怎么样呢好这位同学来回答一下好不好二胃体二胃体的脂肪常常是精感粗壮阴或是种子都比较大胃的买汁含量都增加了都增加还有吗还有三维生素C的含量也增多了还有吗好没了请坐好让我们来看一下二二辈体与多辈体的区别来这里是一张四辈体的植物的图片这里呢是二二辈体植物的图片同学们来观察一下很明显它的外观上来看一下外观是金刚会更茁壮那叶片的大小也会更大那果实这里没有果实但是我们可以看一下它的花朵会更大多一点对吧所以对应其成果实也会大一点那么果实很大对应里面的种子种子也会增多是吧那它对应的糖类和蛋白质数量是不是也会比二类体的要多要增加非常好所以看维生素这些也会增加是不是好同学们那么以上就是我们讲染色体树木的变异上所有内容以上就是我的模拟授课请各位老师听听指正",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a detailed diagram and text. The diagram is structured with arrows and boxes, indicating relationships between concepts.\n   - The blackboard is divided into sections with different colors of chalk, highlighting various parts of the diagram and text.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard features a diagram with the following key elements:\n     - \"染色体变异\" (Chromosomal Variation)\n     - \"数目\" (Number)\n     - \"结构\" (Structure)\n     - \"缺失\" (Deletion)\n     - \"重复\" (Duplication)\n     - \"倒位\" (Inversion)\n     - \"易位\" (Translocation)\n   - There are also mathematical expressions and annotations, such as:\n     - $2n$ and $n$ indicating chromosome numbers.\n     - A box labeled \"二倍体\" (Diploid) and \"单倍体\" (Haploid).\n   - The interactive whiteboard displays a slide with text and a diagram of a plant, likely summarizing the lesson's content.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to different sections of the blackboard diagram, specifically tracing the arrows and highlighting the boxes labeled \"缺失\" (Deletion) and \"重复\" (Duplication).\n   - She gestures towards the interactive whiteboard, emphasizing the plant diagram and the accompanying text.\n   - The teacher uses a red paddle to draw attention to specific areas on the blackboard, reinforcing key points.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The teacher concludes the session by summarizing the content visually presented, suggesting a transition to the next lesson might be implied but not explicitly shown.\n\nThis structured visual summary highlights the teacher's method of consolidating knowledge through detailed diagrams and interactive gestures, ensuring key concepts are visually reinforced.",
+  "visual_narrative": "The lesson concludes with a detailed diagram on the blackboard centered on chromosomal variation. The teacher visually reviews the content by pointing to each section of the diagram, tracing the arrows that connect concepts like deletion and duplication. She emphasizes key points by using a red paddle to highlight specific areas, reinforcing the relationships between different types of chromosomal changes. The interactive whiteboard displays a plant diagram, which she references to summarize the lesson's application. There is no explicit visual indication of homework or next steps, marking the end of the session with a focus on the core concepts displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chromosomal Variation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Deletion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Duplication",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Inversion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Translocation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Diploid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c9",
+        "label": "Haploid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c10",
+        "label": "Plant Morphology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "c11",
+        "label": "Plant Yield",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.88 -> 713.12]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with arrows and boxes indicating chromosomal variation concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Slide with plant diagram summarizing lesson content.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Chromosomal variation includes changes in number."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Chromosomal variation includes changes in structure."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Structural changes include deletion."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Structural changes include duplication."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Structural changes include inversion."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Structural changes include translocation."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Chromosome number concept builds upon diploid understanding."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Chromosome number concept builds upon haploid understanding."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Diploid plants evolve from specific morphological traits."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Diploid plants evolve from specific yield characteristics."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram visualizes chromosomal variation concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "Interactive whiteboard summarizes plant morphology."
+      },
+      {
+        "source": "v2",
+        "target": "c11",
+        "relation": "summarizes",
+        "intent": "Interactive whiteboard summarizes plant yield."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Student answering prompts thinking about diploid characteristics."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

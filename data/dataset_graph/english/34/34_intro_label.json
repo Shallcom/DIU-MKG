@@ -1,0 +1,87 @@
+{
+  "video_name": "34_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Increase students' classroom participation and feedback awareness; help students understand course evaluation and feedback strategies; promote learning communication in a cross‑cultural context.",
+  "transcript": "[0.0 -> 177.91940825] 这个的帮的帮的帮的�拉尼斯拉爵斯安德尔巴尼欧迪逊安尼门的�对于学生的学习教育和考验的批评来说这意味着学生应该作为自己的研究者不仅是为了学生的学习过程中而是为了学生的课堂课程的评论所以学生应该给学生对他们的课程中提供正确的课程询问分析问题和考虑他们的课程所以我认为从这四个角度上学生应该比较清楚学习策略and they will be more awareof their evaluationsand their feedbackso from thethreeperspectivestheteachercouldbethemselvesasaresearcherandtheywillintegrateevaluationintotheirlearningandhereisalmosttheendofmyspeechthanksforyourattention我来自云南我听说过那是个美丽的地方你呢你很棒请问一下我来自浙江所以你们是来自不同的地方我相信我们的课程是混合不同的文化是一个混合不同的文化的组织吗您想知道更多吗好的让我们开始吧首先在课前我们来做一个游戏吧您想知道更多吗好的如果您知道了请告诉我准备好吗好的首先什么是这个角色的意义呢是的非常好你做了很好的工作了好我们继续吧注意第二个谁把三个大的国家组成成为一个联合国的啊我喜欢你的速度非常好那是艾佩琴而最后的可能会有点困难但是我认为你能做到的哪个有其他回答吗哪个是谁的对的我喜欢你的回答实际上是上帝帝国的问题所以有些人可能对这个问题有点混乱所以为什么不来读一篇关于中国的写字系统的故事好吗好那我们走吧所以这篇课题我会给你们两分钟的时间快速地计算这篇课题之后你们快速地读完请把文章配合字笔上的字笔我给你们两分钟请稍息一会儿。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"The Chinese Writing System: Connecting the Past and the Present.\" This slide serves as the hook object, introducing the topic of the lesson.\n\n#### 2. **The Title Event**\n- The title \"The Chinese Writing System: Connecting the Past and the Present\" is displayed on the screen. The teacher stands beside the screen, holding papers, and gestures towards the title, likely emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the initial slide. The focus is on the title and introductory content.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely explaining the significance of the title.\n- The teacher occasionally looks at the students, engaging with them while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the slide \"The Chinese Writing System: Connecting the Past and the Present\" displayed on the screen.\n- The teacher gestures towards the title, emphasizing the lesson's focus.\n\n**Middle:**\n- The teacher continues to speak, occasionally looking at the students to maintain engagement.\n- The teacher's gestures remain directed towards the screen, reinforcing the introductory content.\n\n**End:**\n- The slide changes to a diagram labeled \"Forms and meanings,\" showing abstract shapes.\n- The teacher points to the diagram, likely explaining the connection between forms and meanings in the Chinese writing system.\n- The teacher uses hand gestures to trace or highlight parts of the diagram, linking visual elements to verbal explanations.\n\n### Summary\nThe lesson introduction phase centers around the slide titled \"The Chinese Writing System: Connecting the Past and the Present.\" The teacher uses gestures to emphasize the title and engage the students. As the lesson progresses, a diagram illustrating \"Forms and meanings\" is introduced, with the teacher using hand movements to explain the visual content, linking abstract shapes to their meanings in the Chinese writing system.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of the class, presenting the slide titled \"The Chinese Writing System: Connecting the Past and the Present\" as the hook. The teacher gestures towards the title, emphasizing its significance and setting the stage for the lesson. As the teacher speaks, they occasionally look at the students, maintaining engagement through eye contact and body language. The visual narrative transitions smoothly as the slide changes to a diagram labeled \"Forms and meanings,\" featuring abstract shapes. The teacher points to this diagram, using hand gestures to trace and highlight specific elements, linking the visual forms to their meanings in the Chinese writing system. This transition from the introductory title to the detailed diagram serves as a bridge, connecting the overarching theme to specific examples. The teacher's gestures and the shift in visual aids help students link the abstract concepts to tangible representations, facilitating an understanding of how historical and modern elements of the Chinese writing system interconnect. This structured introduction not only grounds the new knowledge in visual context but also prepares students for deeper exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chinese Writing System",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 177.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Connecting Past and Present",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 177.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Forms and Meanings",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 177.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Title: Chinese Writing System",
+        "type": "Visual",
+        "original_text": "The Chinese Writing System: Connecting the Past and the Present",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram: Forms and Meanings",
+        "type": "Visual",
+        "original_text": "Diagram showing forms and meanings",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Connects the concept of Chinese writing as a historical evolution."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher uses the title slide to present the main topic."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "A diagram is used to explain the concept of forms and meanings."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The teacher points to the title to engage students."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "The teacher uses the diagram to support understanding of visual concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,153 @@
+{
+  "video_name": "27_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Be able to set unit price and quantity variables to express total sales revenue; learn to establish inequality models through quantity relationships; master basic methods for solving complex inequalities.",
+  "transcript": "[402.98 -> 419.54] 好时间到我们一起来看一下我们是不是要表示销售总收入不低于二十万元呀那我们先应该表示出来销售总收入对不对。\n[420.58 -> 422.72] 那销售总收入该如何表示呢。\n[424.76 -> 428.66] 是不是单价乘数量非常好。\n[430.12 -> 434.76] 我们要确定的就是单价是不是可以设单价为X呀。\n[435.82 -> 439.76] 那现在我们就是通过单价该怎么表示出数量呢。\n[441.16 -> 444.82] 是不是要根据前面这一句数量关系呀。\n[448.46 -> 606.04] 来这位同学你有想到吗首先要确定X是大于二点五还是小于二点五在这里我们可以看假设X是大于二点五的那是不是就需要用X减去二点五算出它提高了多少元对然后每提高零点一元就会减少零点二万本所以说再除以零点一算出它提高了几个零点一元对算出它提高了提高了几个零点一然后再对乘以零点二万本这时计算出的就是减少了对很好请坐那这里呢是我们算出的它减少的再用八减去它是不是就是数量呀用数量成我们的定价可以得到这样的一个式子那我们该如何列不等式呢不低于所以说这个应该对大于等于二十那这个不等式是不是与我们刚才的那三个相比就非常复杂了呀那我们如何求解这种复杂的不等式呢下面我们一起来通过学习不等式的性质来求解复杂的不等式在学习不等式性质之前我们一起来看一下实数的大学大小关系是不是如果老师给出了一个实数大家都能够在竖轴上找到唯一的一个点与之对应呀那现在老师在竖轴上给出了两个点A和B以及它们对应的竖小A小B那如果小A是小于小B的话是不是竖轴上的点点A就在点B的左侧那反过来呢如果小B是小于小A的那谁在谁的左侧对B在A的左侧还有一种特殊的情况就是A等于B这时两点重合很好那其实对于这种关系呢我们可以说当A减B是正数时A是大于B的当A减B等于零时A是等于B的。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She also pointed directly at the interactive whiteboard, directing students' attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the mathematical problem displayed on the interactive whiteboard. The problem involves calculating the cost of a taxi ride, with specific details about the fare structure and distance traveled.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student is responding, the teacher points to specific parts of the problem on the whiteboard, such as the distance markers (0.5 km, 1.5 km, 2.5 km) and the corresponding fare calculations. She uses hand gestures to emphasize key points and guide the student's thought process.\n- The teacher writes intermediate calculations on the whiteboard, such as the formula $1.8 \\times 2 = 3.6$ and the total fare calculation, to visually support the student's explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circles the correct parts of the student's solution on the whiteboard, such as the final fare calculation, to validate their input.\n- She draws a number line on the whiteboard to visually represent the distance intervals and corresponding fares, helping to clarify the solution.\n- The teacher uses hand gestures to confirm correct answers, such as nodding and pointing to the correct sections of the problem, providing visual affirmation of the student's understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher points to the problem on the whiteboard, highlighting the question about the taxi fare.\n  - She makes a sweeping gesture to invite class participation.\n\n- **Middle:**\n  - The teacher writes intermediate calculations on the whiteboard, such as $1.8 \\times 2 = 3.6$, while a student explains their thought process.\n  - She points to the distance markers on the number line (0.5 km, 1.5 km, 2.5 km) to guide the student's explanation.\n\n- **End:**\n  - The teacher circles the correct final fare calculation on the whiteboard.\n  - She draws a number line to visually represent the fare structure, confirming the student's solution.\n  - The teacher uses hand gestures to provide visual affirmation, such as nodding and pointing to the correct sections of the problem.\n\nThis structured visual interaction helps co-construct knowledge by linking the teacher's gestures and board content changes to guide and validate student understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a problem involving calculating the cost of a taxi ride, with specific details about the fare structure and distance traveled. The teacher began by pointing to the problem, highlighting the question about the taxi fare, and made a sweeping gesture to invite the class to participate. She directed their attention to the key elements of the problem, such as the distance markers (0.5 km, 1.5 km, 2.5 km) and the corresponding fare calculations.\n\nAs the student began to explain their reasoning, the teacher walked over to the interactive whiteboard and wrote down intermediate calculations, such as $1.8 \\times 2 = 3.6$, to visually support the student's explanation. She used hand gestures to emphasize important points, pointing to the distance intervals on the number line and the fare calculations, guiding the student through the problem-solving process. The teacher's movements around the board and her supportive gestures helped scaffold the student's understanding, making the problem-solving steps clear and accessible.\n\nTo validate the student's solution, the teacher gave a distinct nod and circled the final fare calculation on the whiteboard. She then drew a number line to visually represent the fare structure, confirming the student's answer and providing a clear visual summary of the solution. This action not only affirmed the student's correct response but also reinforced the core lesson content by linking the solution back to the fare structure discussed earlier.\n\nThroughout the interaction, the teacher's gestures and visual aids transformed the student's passive reception of knowledge into an active construction of understanding. By writing key calculations, using the number line, and providing visual feedback, the teacher facilitated a dynamic and interactive learning environment. This approach helped students move from merely receiving information to actively engaging with the material, constructing their own understanding of the fare calculation process and its underlying principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Unit Price Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[402.98 -> 419.54]"
+      },
+      {
+        "id": "concept2",
+        "label": "Quantity Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[402.98 -> 419.54]"
+      },
+      {
+        "id": "concept3",
+        "label": "Sales Revenue Expression",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[420.58 -> 422.72]"
+      },
+      {
+        "id": "concept4",
+        "label": "Inequality Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[441.16 -> 444.82]"
+      },
+      {
+        "id": "concept5",
+        "label": "Complex Inequality Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[448.46 -> 606.04]"
+      },
+      {
+        "id": "visual1",
+        "label": "Taxi Fare Problem",
+        "type": "Visual",
+        "original_text": "Problem about calculating taxi fare involving distance and fare structure.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual2",
+        "label": "Distance Markers",
+        "type": "Visual",
+        "original_text": "Number line showing distance intervals: 0.5 km, 1.5 km, 2.5 km.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual3",
+        "label": "Intermediate Calculation",
+        "type": "Visual",
+        "original_text": "Writes calculation $1.8 \\times 2 = 3.6$ on the whiteboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual4",
+        "label": "Final Fare Calculation",
+        "type": "Visual",
+        "original_text": "Circles the correct final fare calculation on the whiteboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[420.58 -> 422.72]"
+      },
+      {
+        "id": "student2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[448.46 -> 606.04]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "builds_upon",
+        "intent": "The unit price variable is a component of the sales revenue expression."
+      },
+      {
+        "source": "concept2",
+        "target": "concept3",
+        "relation": "builds_upon",
+        "intent": "The quantity variable is a component of the sales revenue expression."
+      },
+      {
+        "source": "concept3",
+        "target": "concept4",
+        "relation": "evolves_from",
+        "intent": "Forms the basis to establish inequality models based on quantity relationships."
+      },
+      {
+        "source": "concept4",
+        "target": "concept5",
+        "relation": "includes",
+        "intent": "Inequality models include solving complex inequalities."
+      },
+      {
+        "source": "visual1",
+        "target": "student1",
+        "relation": "emphasizes",
+        "intent": "Taxi fare problem emphasizes the engagement of students."
+      },
+      {
+        "source": "visual2",
+        "target": "student2",
+        "relation": "scaffolds",
+        "intent": "Distance markers scaffold the student's explanation process."
+      },
+      {
+        "source": "visual3",
+        "target": "student2",
+        "relation": "scaffolds",
+        "intent": "The teacher writes intermediate calculations to scaffold student understanding."
+      },
+      {
+        "source": "visual4",
+        "target": "student1",
+        "relation": "emphasizes",
+        "intent": "Visual confirmation of correct fare calculation emphasizes student engagement."
+      },
+      {
+        "source": "concept4",
+        "target": "visual4",
+        "relation": "visualizes",
+        "intent": "The inequality model is visually confirmed through the correct fare calculation."
+      },
+      {
+        "source": "concept5",
+        "target": "visual3",
+        "relation": "visualizes",
+        "intent": "Intermediate calculations visualized to clarify complex inequality solving."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,126 @@
+{
+  "video_name": "22_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Be able to understand and use first‑person statements to express personal plans; master the correct use of common verb phrases in everyday communication.",
+  "transcript": "[147.0 -> 272.46] 欢迎来到我的课程里所以从最开始我给你们一个问题今天是星期天所以你们的星期天的计划是什么你可以和你的伙伴们谈谈之后好吗两分钟好的所以汤姆萨你负责吗你觉得怎么样我会和朋友一起看电影你喜欢看电影吗我喜欢看电影你会去看电影与朋友好吗好吗你呢我会去准备我的演示好吗所以你们都用了这种模式对吧那我呢你猜猜我参加了这周的比赛所以我想问问你为什么我们不使用绘图模式来描述未来的战略所以今天我们学会了更多关于这件事的内容所以现在我们来看看这篇文章你认为这篇文章的词词是什么可以一起读出来吗我在约翰斯和我舅舅舅在约翰所以你觉得这句话想表达什么样的意思呢。\n[274.2 -> 281.4] 未来的计划呢是的所以这里也使用了这个模式对吧。\n[284.04 -> 301.1] 所以现在可以来谈谈这个模式的使用吧那我们来看看这个聊天的内容吧请大家注意一下这个聊天的时间和词汇如何使用在这个聊天中好吗。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying \"Activity I: Free talk\" with the prompt: \"Suppose today is Friday, what's your plan in this weekend?\"\n- The teacher gestures towards the screen, emphasizing the activity prompt.\n- The blackboard is initially blank except for the title \"UNIT1 Traveling Around\" written in white chalk.\n\n**Middle:**\n- The teacher turns to the blackboard and draws a notebook outline, labeling it \"Future Plan.\"\n- The screen updates to show example sentences: \n  - \"I am going to work as the volunteer for the competition.\"\n  - \"I am participating in the competition in this weekend.\"\n- The teacher points to these sentences, explaining their usage and structure.\n\n**End:**\n- The screen transitions to \"Activity 2: Before the meaning\" with sentences:\n  - \"I am travelling around Europe for two weeks with my aunt and uncle.\"\n  - \"I am renting a car and going hiking.\"\n  - \"My parents are leaving me in Hong Kong during the October holiday.\"\n- The teacher discusses the tense usage, pointing to each sentence.\n- The screen then shows \"Activity 3: Discuss the usage of these verbs\" with a dialogue example. The teacher points to specific verbs and phrases, explaining their application.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying various activity prompts and sentences related to future plans and verb usage.\n- The blackboard features a simple notebook drawing labeled \"Future Plan.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions:**\n  - The teacher draws the notebook outline on the blackboard and writes \"Future Plan.\"\n  - The screen updates with example sentences and dialogue, which the teacher points to while explaining.\n- **Modifications:**\n  - No erasures or modifications are observed; the teacher primarily adds content through gestures and screen updates.\n- **Deictic Gestures:**\n  - The teacher points to specific sentences on the screen, such as \"I am going to work as the volunteer for the competition,\" while explaining their structure.\n  - During the discussion of verb usage, the teacher points to verbs in the dialogue example.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points, such as underlining sentences on the screen with a pointer.\n- The notebook drawing on the blackboard visually emphasizes the theme of planning.\n- The teacher's gestures towards specific verbs in the dialogue highlight their importance in context.",
+  "visual_narrative": "Initially, the digital screen displayed \"Activity I: Free Talk,\" prompting students to consider weekend plans. The teacher gestured towards this prompt, setting the stage for discussion. Then, the teacher turned to the blackboard, constructing a notebook outline labeled \"Future Plan,\" visually anchoring the theme of planning. The screen updated with example sentences, and the teacher pointed to phrases like \"I am going to work as the volunteer,\" tracing the structure to highlight future tense usage. As the lesson progressed, the screen transitioned to \"Activity 2,\" presenting sentences about travel plans. The teacher annotated these, emphasizing verb tenses by pointing to specific words. Finally, the screen showed a dialogue for \"Activity 3,\" where the teacher derived verb usage by tracing key verbs in the conversation. Throughout, the teacher's gestures and screen updates worked in tandem, reducing cognitive load by visually segmenting complex concepts into digestible parts, ensuring students followed the logical flow from simple prompts to detailed verb analysis.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "First-Person Statements",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[147.0 -> 272.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Future Tense",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[147.0 -> 272.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Verb Phrases",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[284.04 -> 301.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Digital Screen Activity",
+        "type": "Visual",
+        "original_text": "Activity prompts and future plan sentences",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Blank Blackboard",
+        "type": "Visual",
+        "original_text": "Initially blank with 'UNIT1 Traveling Around'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "Notebook Drawing",
+        "type": "Visual",
+        "original_text": "Outline labeled 'Future Plan'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Example Sentences",
+        "type": "Visual",
+        "original_text": "Sentences like 'I am going to work as the volunteer'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Dialogue Example",
+        "type": "Visual",
+        "original_text": "Sample dialogue for verb usage",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Displays first-person statement prompts to students."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Displays examples of future tense sentences."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Shows verb usage within conversational context."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "Summarizes activity prompts next to 'UNIT1' title."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Highlights future plans using notebook drawing."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider personal weekend plans."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Facilitates understanding of sentence structure."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Illustrates how verb phrases are used effectively."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

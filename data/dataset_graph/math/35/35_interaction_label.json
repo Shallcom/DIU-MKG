@@ -1,0 +1,163 @@
+{
+  "video_name": "35_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the coordinate representation of points P and A on the unit circle; understand the relationship between rotation angles and trigonometric functions; be able to use the distance formula to establish identities.",
+  "transcript": "[330.3 -> 625.38] 接下来我们在单位元当中表示出阿发贝塔以及阿发减贝塔首先我们以OA为始边旋转角度阿发形成了以阿发为中边的角我们记此时阿发为中边的角与原O的焦点为点PE一同样我们做出以贝塔为中间的角度我们计为点A一那么阿尔法减贝他应该是哪一段呢我们一起来看阿凡减肥特就等于阿凡加上北特的相反角这是阿凡减肥特的中链接下来请同学们根据三角函数的定义表示出点P一A一以及点P的坐标两位同学来说一下来这位同学知道P一的坐标是口塞牙法塞牙根据三角函数的定义啊我们知道P一是啊口塞牙法塞牙A一呢A一是口塞一贝塔三一贝口塞云贝塔阿发减肥它口塞云阿发减肥它很好请坐那么接下来请同学们思考在这幅图当中我们有哪些相等的量我们可以建立怎样的恒等关系呢找出其中的等量关系来这位同学你来说一下比如AEPAPE等于AP很好请坐我们呀根据旋转角的姿势将扇形O将扇形POAE旋转可以与POAE相重合所以说这两个弧是相等的弧相等那么我们连接这两个弧是相等的那么我们连接这两个弧相等PEA一元PEA就有PEA一等于PEA接下来我们可以利用距离公式找出它们列出它们的等量关系那么两点间的距离公式是什么呢来对我来回答一下红坐标的差的平方加上红坐标差的平方哎很好请坐是啊P一P二就等于调号下X二减XC的平方加Y二减Y一的平方很好那么接下来我们就来代入点的坐标来表示这一式子P一就等于口塞延R发减口塞延贝塔块外的平方再加塞延R发减塞延贝塔块外的平方它等于口塞呀阿发减肥汤再减一跨外的平方加塞呀阿发减肥汤再减跨外的平方。\n[628.38 -> 633.98] 请同学们拎练习纸画剪一下这个式子看看你能得出怎样的等式。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the diagram on the blackboard, indicating where students should focus their attention.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the diagram on the blackboard, specifically the circle with labeled points $A_1$, $A_2$, $A_3$, and $A_4$, along with the equations written beside it.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher simultaneously wrote additional equations on the blackboard, such as $P_1 = (\\cos\\frac{\\pi}{4}, \\sin\\frac{\\pi}{4})$ and $A_1 = (\\cos\\frac{3\\pi}{4}, \\sin\\frac{3\\pi}{4})$. She also pointed to these new equations as they were being written, linking them to the existing diagram to provide context and guidance.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually validated the student's input by circling key parts of the equations and the diagram. She also drew lines connecting different points on the circle to illustrate relationships between them. Additionally, she used hand gestures to emphasize certain angles and their corresponding coordinates, ensuring students understood the connections being made.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher starts by pointing to the circle diagram on the blackboard, highlighting the points $A_1$, $A_2$, $A_3$, and $A_4$.\n  - She writes the equation $P_1 = (\\cos\\frac{\\pi}{4}, \\sin\\frac{\\pi}{4})$ next to the diagram.\n\n- **Middle:**\n  - The teacher continues to write additional equations, such as $A_1 = (\\cos\\frac{3\\pi}{4}, \\sin\\frac{3\\pi}{4})$, while gesturing towards the corresponding points on the circle.\n  - She draws lines connecting $P_1$ and $A_1$ to illustrate the relationship between these points.\n\n- **End:**\n  - The teacher circles the newly written equations and points to specific parts of the diagram to reinforce the concepts.\n  - She uses hand gestures to emphasize the angles and their significance, ensuring students grasp the visual and mathematical connections.\n\nThis structured approach ensures that the teacher's visual strategies effectively guide the co-construction of knowledge, linking gestures and board content seamlessly.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a circle diagram with labeled points $A_1$, $A_2$, $A_3$, and $A_4$, accompanied by initial equations. The teacher began by gesturally inviting students to participate, pointing to the diagram and sweeping her hand across the class to signal the start of an interactive segment.\n\nAs the student explained their reasoning, the teacher walked over to the board and began jotting down key terms and equations, such as $P_1 = (\\cos\\frac{\\pi}{4}, \\sin\\frac{\\pi}{4})$ and $A_1 = (\\cos\\frac{3\\pi}{4}, \\sin\\frac{3\\pi}{4})$. She used her pointer to highlight these new additions, linking them visually to the existing diagram by drawing lines between corresponding points on the circle. Her movements were deliberate, ensuring each new piece of information was clearly connected to the visual aids already present.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the final equations on the board. She then drew arrows connecting these equations back to the main points on the circle, reinforcing the relationships between angles and their coordinates. This visual feedback confirmed the correctness of the student's input while tying it back to the core lesson content.\n\nThroughout the interaction, the teacher's gestures and board work helped students move from passively receiving knowledge to actively constructing their own understanding. By visually linking new information to the existing diagram and equations, she facilitated a deeper comprehension of the material, encouraging students to see the connections and apply the concepts independently.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Unit Circle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[330.3 -> 333.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Point P Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[333.5 -> 336.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Point A Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[336.7 -> 339.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Rotation Angles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[339.0 -> 341.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[341.5 -> 343.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Distance Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[343.8 -> 350.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Circle Diagram with Points",
+        "type": "Visual",
+        "original_text": "Circle diagram with labeled points A1, A2, A3, A4 and equations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Equation P1",
+        "type": "Visual",
+        "original_text": "Equation P1 = (cos(pi/4), sin(pi/4)).",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Equation A1",
+        "type": "Visual",
+        "original_text": "Equation A1 = (cos(3pi/4), sin(3pi/4)).",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Unit circle includes coordinates of point P."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Unit circle includes coordinates of point A."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding rotation angles builds upon knowledge of trigonometric functions."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Trigonometric functions explain the coordinates of point P."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Trigonometric functions explain the coordinates of point A."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "uses",
+        "intent": "Distance formula is applied to find identities in the unit circle."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Circle diagram provides a visual context for Equation P1."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Circle diagram provides a visual context for Equation A1."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Equation P1 on the board scaffolds understanding of point P's coordinates."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Equation A1 on the board scaffolds understanding of point A's coordinates."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Student answering engages with point P's coordinates."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "engages_with",
+        "intent": "Student engagement with rotation angles concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

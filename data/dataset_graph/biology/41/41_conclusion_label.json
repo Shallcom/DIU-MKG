@@ -1,0 +1,137 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Be able to define cell differentiation and describe its basic features; understand the role and significance of cell differentiation in individual development; be able to transfer the concept of cell differentiation to an analogous analysis of social division of labor.",
+  "transcript": "[613.5799999999999 -> 638.8] 好同学们有答案了吗我们请这位同学起来分享一下它分化产生不同的细胞可以执行不同的功能然后维持维持综合细胞的购变其他同学有补充的吗好我们先请这位同学细胞分化使多细胞收集成为细胞取向专文化有利于提高收集各种生物功能的效率好这位同学你也起来补充一下再补充一下它就是细胞进行了封锢间接封锢这样可以提高效率的好请坐好谢谢几位同学的分享\n[639.84 -> 664.88] 是的细胞的分化呢它是个体发育的基础同时使得多细胞生物体中的细胞趋向于专能化有利于提高生物体各种生理活动的效率那么接下来请同学们思考一下这个问题现代社会如果没有职业分工社会的运转状况会是怎样的呢\n[668.74 -> 671.22] 好我们请这位同学再来分享一下\n[673.78 -> 683.04] 没有效率好其他同学有补充吗好请这位同学\n[688.04 -> 702.7] 这位同学说是有效的既有分工也有合作\n[703.92 -> 721.52] 好以上我们就学习了细胞分化的概念实质特点和意义请同学们课后完成基础题和拓展题的练习本节课就上到这里下课",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a structured layout with two main sections: \"基础题\" (Basic Questions) and \"拓展题\" (Extension Questions). Each section is contained within a colored box, with \"基础题\" in a red box and \"拓展题\" in a blue box.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following key items:\n     - 基础题 (Basic Questions)\n     - 拓展题 (Extension Questions)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, pointing to the \"基础题\" section first, then moving to the \"拓展题\" section. These gestures emphasize the division between basic and extension questions, guiding the students' attention to each category.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary slide, suggesting a review or preparation for subsequent activities related to the lesson content.",
+  "visual_narrative": "The lesson concludes with a slide divided into two sections: \"基础题\" (Basic Questions) and \"拓展题\" (Extension Questions). The teacher visually reviews the content by pointing to each section in sequence, emphasizing the distinction between basic and extension questions. There is no additional visual emphasis or marking on the slide, such as underlining or boxing, to highlight a core takeaway. The visual focus remains on the slide, with no explicit indication of homework or next steps presented in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cell Differentiation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[613.58 -> 702.70]"
+      },
+      {
+        "id": "c2",
+        "label": "Individual Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[639.84 -> 702.70]"
+      },
+      {
+        "id": "c3",
+        "label": "Specialization",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[639.84 -> 683.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[673.78 -> 683.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Social Division of Labor",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[639.84 -> 702.70]"
+      },
+      {
+        "id": "c6",
+        "label": "Basic Questions",
+        "type": "Visual",
+        "original_text": "Basic questions section on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Extension Questions",
+        "type": "Visual",
+        "original_text": "Extension questions section on slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Describes cell differentiation as fundamental to development."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Cell differentiation leads to specialization."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Specialization enhances efficiency of organism functions."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "analogous_to",
+        "intent": "Efficiency in biological systems compared to social division of labor."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide reviews basic concepts of the lesson."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Encourages deeper thinking on the concept of social division of labor."
+      },
+      {
+        "source": "t1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The teacher points at basic questions to guide the students."
+      },
+      {
+        "source": "t1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The teacher points at extension questions to prompt further thinking."
+      },
+      {
+        "source": "t1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages students to think about the concepts."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "evolves_from",
+        "intent": "Engaged state leads to students answering questions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

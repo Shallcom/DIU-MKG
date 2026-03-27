@@ -1,0 +1,140 @@
+{
+  "video_name": "38_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Learn to analyze the knowledge connection points between high school and university mathematics; master how to design moderately difficult problems that foster students' divergent thinking; be able to design tiered assignments that achieve knowledge expansion.",
+  "transcript": "[0.0 -> 136.34] 下面是我的演讲环节我演讲的题目是谈谈高中数学教师如何促使高中与大学数学更好的协接我认为主要从以下几方面入手首先在知识传授的过程中我们要对学生进行适当的渗透比如说在高中学习数列极限的时候高中只是对这个简单知识进行讲解让学生掌握这个基础知识和基本技能但是在大学中我们还会用到适当的数列极限那么在大学学习的过程中数列极限就会适当的较难那么教师就应该在讲解的过程中进行适当的拓展然后促使学生发散这个数学思维还有在上课提出问题的过程中对学生进行问题的设置那么此时我们就不能设计较为简单的问题要适当设置较难的问题但是这个难易程度要适中要让学生掌握这个基础知识的情况下发散思维那么如果设置太难的问题学生就会丧失学习数学的自信心因此设置问题要适中其次在习题设置的过程中教师要适当的拓展比如说设置基础题拓展题选座题根据学生的素质差异来布置这个分层作业让学生不仅掌握高中的数学知识还能进行适当的拓展有利于与大学数学的这个知识更好的协接因此我们作为教师不仅要教会学生当下的基础知识还要给学生做到适当的前页拓展这就是掌握前沿动态那么这就要求教师要有扎实的专业基础和广博的文化修养也就是在之前我们说要有一桶水然后才能授给学生一碗水但是现在我们要有一潭源源不断的活水才能授给学生更多的知识以上就是我演讲的内容。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual object is a presentation slide on the screen. The text on the slide is in Chinese, with the main title being \"建立数学模型解决实际问题\" (Establishing Mathematical Models to Solve Practical Problems). This slide serves as the hook to initiate the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is prominently displayed in a red-bordered box. The teacher does not physically write this title but presents it on the screen. The title is underlined by the slide design itself, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The slide includes a list of bullet points on the left side, likely outlining the learning objectives or steps involved in the lesson. These are not fully legible, but they appear to be structured as a list, possibly detailing steps or goals for establishing mathematical models.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and uses hand gestures to emphasize points. She occasionally points to the screen, likely referencing the content displayed. Her gestures include:\n  - Holding papers and looking at them, possibly reading or referring to notes.\n  - Using hand movements to emphasize key points, such as raising a hand or making a fist to highlight importance.\n  - Pointing towards the screen to direct attention to the slide content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers. The initial slide is displayed, featuring the title \"建立数学模型解决实际问题\" in a red-bordered box. The teacher likely introduces the topic, using the slide as a visual anchor.\n\n**Middle:**\n- The teacher continues to reference the papers, occasionally looking at them and then back at the class. She uses hand gestures to emphasize the importance of the content on the slide. The blackboard behind her is mostly blank, with some faint chalk marks and colored magnets on the side, indicating potential future use.\n\n**End:**\n- The teacher maintains engagement with the class, using gestures to reinforce key points. She points to the screen, ensuring students focus on the objectives or steps outlined in the slide. The visual emphasis remains on the initial slide throughout this phase.\n\nThis structured approach ensures that the teacher's actions are visually linked to the content, guiding students through the introduction of the lesson effectively.",
+  "visual_narrative": "Initially, the screen presents the title \"建立数学模型解决实际问题\" in a red-bordered box, serving as the hook to capture the students' attention. To bridge to the topic, the teacher holds papers and uses hand gestures to emphasize key points, occasionally pointing to the slide to direct focus. The visual aid remains consistent, with the teacher referencing the bullet points on the left side of the slide, likely outlining steps or objectives. Finally, the visual focus stays on the title and objectives displayed, establishing the lesson goal of exploring mathematical modeling. This introduction connects new knowledge by highlighting practical applications, preparing students to link theoretical concepts with real-world problem-solving.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mathematical Models",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Real-world Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Series Limit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Problem Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c5",
+        "label": "Divergent Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c6",
+        "label": "Tiered Assignments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c7",
+        "label": "Basic Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "c8",
+        "label": "Knowledge Expansion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 136.34]"
+      },
+      {
+        "id": "v1",
+        "label": "Presentation Slide with Title",
+        "type": "Visual",
+        "original_text": "Establishing Mathematical Models to Solve Practical Problems",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points on Slide",
+        "type": "Visual",
+        "original_text": "Outlined learning objectives or steps",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Focused Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Mathematical models are applied to solve real-world problems."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The concept of series limit is included in mathematical models."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "promotes",
+        "intent": "Designing problems fosters divergent thinking among students."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "supports",
+        "intent": "Tiered assignments support the expansion of knowledge."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Knowledge expansion evolves from learning basic knowledge."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the concept of establishing mathematical models."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Bullet points visualize the problem design process."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Introduction to mathematical models engages students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

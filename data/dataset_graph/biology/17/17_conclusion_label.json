@@ -1,0 +1,139 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the historical impact of biological weapons and their harm to human society; analyze the differences between biological weapons and conventional weapons and the related ethical issues.",
+  "transcript": "[680.8401 -> 737.54] 好那在课前呢老师让大家去搜集了一些关于生物关于细菌战给我们带来的这一些苦难那请同学们来现在讨论一下我们来辩论一下生物武器的杀伤力是否一定大于常规武器呢那为什么这些许多的国家他们还禁止研发生物武器而不禁止研发常规武器呢这个问题作为我们小组辩论之间的一个问题我们下节课来进行讨论好那课后呢请大家去了解一下我们可以去参观一下博物馆去了解一下关于生物武器这方面给我们人类给我们中国人民或者是其他国家的人民所带来的这一些伤害好我们下节课一起来进行展示一下我的片段教学到此结束",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the digital presentation screen.\n   - The chalkboard contains handwritten notes in Chinese, organized in a list format with bullet points.\n   - The digital screen displays a slide with a green header and structured text content, divided into sections.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Chalkboard**:\n     - \"五环发展和乡村振兴的关系\"\n     - \"1. 因素：提升国家，而主要是生态的制度\"\n     - \"4. 战略功能性，点选示范推广\"\n   - **Digital Screen**:\n     - Header: \"模块导入、模块解析、模块合作、模块评价\"\n     - Sections with bullet points and sub-points, including questions and explanations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the chalkboard, likely emphasizing the bullet points written there.\n   - The teacher occasionally looks at the digital screen, possibly to reference or highlight key points displayed.\n   - The teacher's hand movements suggest pointing or indicating specific areas on the chalkboard, aligning with the listed items.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The screen and board focus on summarizing the current lesson content without visible references to future tasks or assignments.",
+  "visual_narrative": "The lesson concludes with a dual summary artifact, featuring both a chalkboard and a digital slide. The chalkboard displays key points in a list format, while the digital screen presents structured sections with headers and bullet points. The teacher visually reviews the content by gesturing towards the chalkboard, emphasizing the bullet points, and occasionally referencing the digital screen. There is no strong emphasis action like underlining or boxing observed. The visual focus remains on the summary content, with no explicit indication of homework or next steps visible in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Biological Weapons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Conventional Weapons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Ethical Issues",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Damage to Society",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Prohibition of Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Group Debate",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "c8",
+        "label": "Museum Visit",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[680.84 -> 737.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Chalkboard",
+        "type": "Visual",
+        "original_text": "Handwritten notes on development and rural revitalization relationship.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Presentation Screen",
+        "type": "Visual",
+        "original_text": "Slide with modules introduction, analysis, cooperation, evaluation.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Discusses the historical context of biological weapons."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Explains the damage biological weapons have caused to society."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Differentiates between biological and conventional weapons."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Considers the ethical issues related to biological weapons."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explains why many nations prohibit the development of biological weapons."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Museum visits to understand the societal impact of biological weapons."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to discuss ethical issues in group debate."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "Visual representation of prohibition and development strategies."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Highlights ethical issues as part of the module evaluation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

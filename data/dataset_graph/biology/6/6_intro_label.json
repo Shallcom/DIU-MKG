@@ -1,0 +1,121 @@
+{
+  "video_name": "6_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the multiple roles of teachers in student development; identify the key aspects that promote student growth; articulate how to achieve students’ comprehensive development.",
+  "transcript": "[0.0 -> 135.3] 尊敬的各位老师好我抽到的即兴演讲的题目是谈谈我对叶盛桃的读书教书教师不是教书而是教学生的理解首先我认为教师的本职工作是逆得数人给国家培育良好的栋梁之材所以只有青年有梦想民族才会有希望国家才会有未来所以我对叶盛涛先生的这句话是表示支持和理解的那么首先教师在我看来是学生学习的促进者教师不能够一味地只给学生教授学习的方法更要帮助学生掌握学习的本质是什么其次教师是学生的发展者不能够在学生学习的过程中采取满堂冠等系列的模式应该教授学生良好的学习方法其次在我看来教师应该培育学生良好的品德学生不仅仅只能够拥有良好的学习成绩其次也应该拥有良好的道德品质那么在教师教书育人的这个过程中也要给学生灌输良好的道德品质教学生如何做人和一个要成为什么样的人其次要给学生树立正确的价值观教学生在现实生活中怎样做才是对的怎样做才是对社会有用的人对国家有用的人最后我认为教师应该是培养学生使学生成为德智体美劳全面发展只有让学生成为一个全面发展的人才能够成为一个对社会对民族对国家有用的人所以在我看来作为一名教师不能够只教书也要多方面的来培养学生让学生培养成德智体美劳全面发展的社会主义建设者和接邦人共同助力我们国家越来越好走向繁荣昌盛谢谢各位评论老师我的答辩到此结束",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a presentation slide displayed on the screen. The slide contains a title and some bullet points, likely introducing the topic of the lesson.\n\n#### 2. **The Title Event**\n- **Title on Screen**: The title on the screen reads \"基礎工学の応用\" (Applications of Basic Engineering). \n- **Teacher's Action**: The teacher stands behind the podium, facing the screen, likely introducing the topic. No specific action like underlining is observed.\n\n#### 3. **The Objectives**\n- **Visible Content**: The slide includes bullet points, but specific learning goals are not clearly visible in the provided frames.\n\n#### 4. **Key Gestures**\n- **Teacher's Gestures**: The teacher is seen standing still, possibly reading from notes or preparing to speak. No specific gestures like pointing or holding objects are observed.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands behind the podium, facing the screen.\n- The screen displays the title \"基礎工学の応用\" with some bullet points.\n- The blackboard has text written in green chalk, though it is not fully legible.\n\n**Middle**\n- The teacher remains stationary, likely preparing to begin the lecture.\n- The screen content remains unchanged, focusing on the introduction slide.\n\n**End**\n- The teacher continues to stand behind the podium, maintaining a position ready to engage with the students.\n- No changes in the visual content on the screen or blackboard are observed.\n\n### Summary\nThe introduction phase of the lesson centers around the slide titled \"基礎工学の応用.\" The teacher's actions are minimal, primarily involving standing behind the podium and preparing to deliver the lecture. The visual focus remains on the introductory slide, setting the stage for the lesson's content.",
+  "visual_narrative": "Initially, the screen presents the title \"基礎工学の応用\" as the opening visual stimulus, setting the stage for the lesson. The teacher stands behind the podium, preparing to engage with the students. To bridge to the topic, the teacher remains stationary, likely reading from notes or preparing to elaborate on the introductory content. The visual focus remains on the slide, which includes bullet points that hint at the lesson's objectives. The blackboard displays some text in green chalk, though it is not fully legible, suggesting a connection to the lesson's theme. Finally, the visual focus stays on the title and introductory points, establishing the lesson goal and preparing students for the exploration of basic engineering applications. This structured introduction links foundational concepts to practical applications, priming students for deeper engagement with the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Teacher Roles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Student Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Learning Facilitator",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Development Promoter",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Moral Educator",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Value Instiller",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Comprehensive Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 135.3]"
+      },
+      {
+        "id": "c8",
+        "label": "Engineering Applications",
+        "type": "Visual",
+        "original_text": "Applications of Basic Engineering",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "The presentation slide titled 'Applications of Basic Engineering'",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The role of teachers is foundational to student growth."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Being a learning facilitator is part of the teacher's role."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Teachers promote student development."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Moral education is a responsibility of teachers."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Instilling values is part of moral education."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student development aims for comprehensive growth."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide introduces the topic of engineering applications."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

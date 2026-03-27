@@ -1,0 +1,124 @@
+{
+  "video_name": "21_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "- Be able to describe the basic properties of oxygen’s combustion‑supporting (oxidizing) nature.  \n- Be able to identify and analyze examples of oxygen’s applications in aerospace.  \n- Be able to design a simple experiment to verify oxygen’s oxidizing (combustion‑supporting) property.",
+  "transcript": "[170.84 -> 286.26] 好上课同学们好请坐今年随着神舟十八号上天我国的航天领域又进入了新的高峰那同学们知道航天火箭是如何飞上太空的吗其实火箭它自身就有燃料和助燃剂我们可以通过燃料的燃烧产生高温气体从尾部喷出提供推力从而使火箭升空那在这里我们使用到的助燃剂就是我们的液氧那在这个过程中同学们觉得它是运用到了氧气的哪一个性质呀没错那今天我们就一起来探究氧气的助燃性首先呀我们来进行一个演示实验老师这里有一机器瓶它里面装满了氧气现在老师将带有火星的木条深入充满氧气的机器瓶中同学们观察到了什么现象没错木条复燃了那由此我们可以得出什么样的结论了没错氧气它是支持燃烧的具有助燃性那现在我们再换一种物质刚刚我们使用的木条现在我们用木炭来试一试那现在请同学们看到桌面上老师为大家准备的试验用品现在请同学们将木炭木炭伸入空气和氧气中看看它们燃烧会分别有什么样的现象那现在同学们可以开始试验了注意要用火安全哦。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes on the blackboard, starting with the phrase \"我们的地球\" (Our Earth).\n- The screen displays a slide titled \"基于‘地球的科学’大概念 研究氧气的性质\" (Based on the \"Science of Earth\" Big Concept, Researching the Properties of Oxygen).\n- The teacher gestures towards the screen, indicating the topic of discussion.\n\n**Middle:**\n- The teacher continues writing on the blackboard, adding \"我们的地球\" (Our Earth) and \"大气的组成\" (Composition of the Atmosphere).\n- The screen transitions to a world map with the question \"火箭能飞上太空吗?\" (Can rockets fly into space?).\n- The teacher explains the map, pointing to different regions, and discusses the atmosphere's role in space travel.\n\n**End:**\n- The teacher writes \"氧气的性质\" (Properties of Oxygen) on the blackboard.\n- The screen shows a diagram of a jar with a burning splint, illustrating an experiment.\n- The teacher explains the experiment, pointing to the diagram and emphasizing key points.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the diagram on the screen showing a jar with a burning splint, labeled with steps for an experiment on oxygen properties.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"氧气的性质\" (Properties of Oxygen) on the blackboard while explaining the experiment.\n- **Modifications**: The teacher points to different parts of the diagram, explaining each step of the experiment.\n- **Deictic Gestures**: The teacher points to the burning splint in the diagram, emphasizing the reaction with oxygen.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight the burning splint and the jar, drawing attention to the experiment's key elements.\n- The screen uses diagrams to visually emphasize the experimental setup and results.\n\nThis structured visual evolution helps students connect abstract concepts with concrete experiments, enhancing understanding of oxygen's properties.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a world map with the question \"火箭能飞上太空吗?\" (Can rockets fly into space?), setting the stage for a discussion on atmospheric properties. The teacher began by writing \"我们的地球\" (Our Earth) and \"大气的组成\" (Composition of the Atmosphere) on the blackboard, establishing the foundational context. The screen then transitioned to a diagram illustrating an experiment involving a burning splint in a jar, labeled with steps to demonstrate oxygen's properties.\n\nThe teacher constructed the concept of oxygen's role in combustion by pointing to the burning splint, tracing its interaction with the oxygen inside the jar. She annotated the diagram, explaining each step of the experiment, and emphasized the importance of oxygen in sustaining the flame. As the lecture progressed, she derived the conclusion by highlighting the experimental results, showing how the flame extinguishes when oxygen is depleted.\n\nFinally, she circled key elements of the diagram, such as the jar and the burning splint, to reinforce the concept. The visual strategy of using diagrams and annotations on the screen, combined with dynamic gestures and board writing, effectively reduced cognitive load by providing clear, step-by-step visual cues that aligned with the verbal explanations, ensuring a comprehensive understanding of oxygen's properties.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Our Earth",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "c2",
+        "label": "Atmosphere Composition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> Middle]"
+      },
+      {
+        "id": "c3",
+        "label": "Oxygen Combustion Property",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Middle -> End]"
+      },
+      {
+        "id": "c4",
+        "label": "Rocket Space Travel",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "c5",
+        "label": "Burning Splint Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[End]"
+      },
+      {
+        "id": "c6",
+        "label": "World Map Slide",
+        "type": "Visual",
+        "original_text": "Can rockets fly into space?",
+        "ocr_corrected": true,
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "c7",
+        "label": "Diagram of Burning Splint and Jar",
+        "type": "Visual",
+        "original_text": "Experiment to demonstrate oxygen's properties",
+        "ocr_corrected": true,
+        "timestamp": "[End]"
+      },
+      {
+        "id": "c8",
+        "label": "Properties of Oxygen",
+        "type": "Visual",
+        "original_text": "Blackboard content: Properties of Oxygen",
+        "ocr_corrected": true,
+        "timestamp": "[End]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Experiment Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[End]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes the Earth and its atmosphere composition."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The role of atmospheric elements in rocket propulsion."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Utilizes the principle of oxygen's support in combustive reactions."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Shows geographical context for rocket travel discussions."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Highlights the experiment demonstrating oxygen's properties."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Summarizes the discussed oxygen properties."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to participate in the experiment setup."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

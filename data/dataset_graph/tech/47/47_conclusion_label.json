@@ -1,0 +1,139 @@
+{
+  "video_name": "47_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the relationship between proton number and the definition of an element; master the basic definition of elements and their applications.",
+  "transcript": "[674.66 -> 783.88] 那大家观察钠原子和钠离子的微观示意图它们的质子处是否相同相同那符不符合我们元素的定义那它钠离子钠氯化钠中的钠还是不是钠元素是是所以我们说那所以我们说电子数和我们的元素种类是无关的那么再看到第二个问题质子数相同的粒子是同种元素吗诶注意看这里说的是粒子有没有说原子啊没有那你能举出什么反例吗我们粒子思考一下我们粒子有哪些微管粒子除了原子还有诶分子那大家想不讨论一下你认为水和氨气它的质子数分别是多少大家可以在草稿纸上写一写水大家思考一下分子是有原子构成的那我们的分子的质子数是不是就是原子的质子数相加那我们这个问题就留到大家课后去讨论和回答那我们一起来回顾一下本节课所学的内容我们本节课这节课先从回顾了我们上节课学过的知识然后呢就想知道物质是由微观构成的那么它的宏观组成是什么呢接着呢我们学习了元素的定义那么下节课我们再对元素在化学变化中是如何变化的变还是不变来进一步讨论时间到好以上就是我的感谢各位评委老师感谢各位同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It contains a list of key points in Chinese, structured as a bullet list.\n   - The blackboard also contains handwritten notes and diagrams, including chemical formulas and diagrams.\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Content:\n     - \"元素\" (Elements)\n     - \"1. 原子量是原子的相对质量\"\n     - \"2. 原子量的计算方法\"\n     - \"3. 一个元素的原子量是所有同位素的平均值吗？\"\n   - Blackboard Content:\n     - Chemical formulas: $\\text{H}_2\\text{O}$, $\\text{NaCl}$\n     - Diagrams illustrating atomic structures and relationships.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the bullet points on the slide, likely emphasizing each key point in sequence.\n   - The teacher gestures towards the blackboard, possibly highlighting the chemical formulas and diagrams.\n   - The teacher uses hand movements to underline or circle important sections on the blackboard, reinforcing key concepts.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition slides or board sections visible for next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing three bullet points summarizing key concepts about elements and atomic mass. The teacher points to each bullet in sequence, emphasizing the calculation methods and questions about atomic averages. On the blackboard, chemical formulas like $\\text{H}_2\\text{O}$ and $\\text{NaCl}$ are visible, along with diagrams illustrating atomic structures. The teacher gestures towards these diagrams, reinforcing their connection to the slide content. A strong emphasis is placed on the final bullet point, with the teacher possibly circling or underlining it to highlight its importance. No visual homework or next-step instructions are present, focusing solely on the lesson's core takeaways.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Proton Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.66 -> 783.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Element Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[674.66 -> 783.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Atomic Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.66 -> 783.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Isotope Average",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.66 -> 783.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Water Molecular Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.66 -> 783.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Ammonia Proton Count",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[674.66 -> 783.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Element Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide illustrating key points about elements and atomic mass",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chemical Formulas Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard showing H2O and NaCl formulas",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Atomic Structure Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating atomic structures",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Class Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Relates the proton number to defining an element."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes atomic mass as the average of isotopes."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the concept of proton number."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Slide content highlights the significance of atomic mass."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Blackboard displays the molecular structure of water."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Blackboard might include ammonia's proton information."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Diagrams scaffold understanding of proton number in elements."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with the definition of an element."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Engagement with atomic mass calculations is encouraged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

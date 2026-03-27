@@ -1,0 +1,159 @@
+{
+  "video_name": "11_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to compare the operating principles of fuel cells and electrolytic cells; describe how ion movement in a galvanic cell influences the chemical reaction.",
+  "transcript": "[525.4 -> 574.24] 它是为了检验一下溶液的酸碱性会有发生改变通过分态溶液我们可以更加明显地看到我们的实验现象然后在这里呢我们不仅能够通过阴阳离子方面有气泡冒出还可以通过分态溶液更加清楚地看到我们的实验现象对吧好请坐我们的实验现象在刚刚已经描述过了那么开始编辑进行我们的实验现象的描述那么接下来我们通过电解水的这种电解水来进行了电解池的原理那么在我们的燃料电池中氢氧燃料电池又是如何进行设计的呢请同学们思考一下它和电解水的实验有什么不同呢。\n[575.46 -> 589.82] 看再一次进行一个小组讨论看看你们能够设计出怎样的实验方案呢看一下利用同样的实验器材能否做出不一样的实验。\n[599.52 -> 680.22] 好我们来看到同学们讨论的声音一下已经减小了那么我们来请这位同学说一下你的这个实验方案和上一个实验有什么区别呢在这边的话因为之前上一个实验它是一个电解池然后在这边我们要构建一个燃料电池所以在这边的话我想的是把我们的K一给断开然后关闭K二然后实现一个电池对我们在这里就实现了一个人电池的一个违路对那么通过这个实验能够观察到什么样的情况呢在这边的话可以看到左边也就是气粒子比较多的地方产生了氢气右边的话是一个氢氧根粒子然后它产生的是氧气那这里我们氢氧燃料电池请坐我们这里氢氧燃料电池的构建就是利用了我们的原电池的原理那么请同学们进行列表来看我们来比较一下那像燃料电池和电解水的工作差异它的原理最根本的差异在于哪里呢。\n[682.46 -> 686.44] 可以尝试写出它的总反应看看有什么样的区别。\n[690.66 -> 695.32] 看一下在阴极和阳极分别发生了什么样的反应。\n[701.98 -> 766.18] 我看到同学们已经基本正确且迅速地写出了我们的电解池和原电池的工作原理今天呢我们通过了两个实验进行了一个一个对比和比较通过了实验现象从微观的角度离子的移动到了我们发现实验现象存在差异从宏观的视角又再次对我们的实验进行了一个新的认知并且呢同学们都在草稿纸上用我们特有的化学的符号来进行对我们实验的一个具体的描述那么今天呢我们了解了新能源汽车它的主要原理那么在课后呢我想请同学们查阅资料看到化学能够为我们的社会做出什么贡献这也可以上到这里谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a diagram of a galvanic cell with two electrodes and a salt bridge, along with a table summarizing experimental data.\n   - The slide layout includes a diagram on the left and a table on the right, with a red header at the top.\n\n2. **Key Knowledge Items (Content View)**:\n   - Diagram: Shows a galvanic cell with $\\text{Zn}$ and $\\text{Cu}$ electrodes, a salt bridge, and labeled half-reactions.\n   - Table: Contains columns for \"实验次数\" (Experiment Number), \"电压/V\" (Voltage/V), and \"电流/mA\" (Current/mA), with entries for experiments 1 to 3.\n   - Text: Includes a question at the bottom of the slide: \"实验中测得的电压为什么比理论值小？\" (Why is the measured voltage in the experiment smaller than the theoretical value?).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the slide, likely emphasizing the components of the galvanic cell and the flow of electrons.\n   - The teacher gestures towards the table, possibly reviewing the experimental data and drawing attention to the voltage and current values.\n   - The teacher moves to the blackboard, pointing at the chemical equation and circuit diagram written there, reinforcing the connection between the theoretical concepts and the experimental results.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content through the slide and blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing a galvanic cell diagram and a table summarizing experimental data. The teacher points to the diagram, highlighting the $\\text{Zn}$ and $\\text{Cu}$ electrodes and the salt bridge, emphasizing the electron flow. She then gestures towards the table, reviewing the voltage and current values for each experiment. The teacher moves to the blackboard, pointing at the chemical equation and circuit diagram, reinforcing the theoretical concepts. No explicit homework or next-step instructions are visible, focusing solely on consolidating the lesson's core concepts through the slide and blackboard.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Fuel Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[525.4 -> 766.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Electrolytic Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[525.4 -> 766.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Galvanic Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[525.4 -> 766.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Hydrogen-Oxygen Fuel Cell",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[599.52 -> 680.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Reactions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[690.66 -> 695.32]"
+      },
+      {
+        "id": "c6",
+        "label": "Ion Movement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[701.98 -> 766.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Voltage Discrepancy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[525.4 -> 589.82]"
+      },
+      {
+        "id": "c8",
+        "label": "Experiment Data Summary",
+        "type": "Visual",
+        "original_text": "Diagram showing a galvanic cell and a table summarizing experiment data with voltage and current values.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Electrodes and Salt Bridge",
+        "type": "Visual",
+        "original_text": "Diagram displaying Zn and Cu electrodes with a salt bridge.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Voltage and Current Table",
+        "type": "Visual",
+        "original_text": "Table listing experiments with voltage and current measurements.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Discussing Experiment Plans",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[575.46 -> 680.22]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains the construction and function of the hydrogen-oxygen fuel cell."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Visual representation of the galvanic cell structure with electrodes and salt bridge."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Describes how chemical reactions are facilitated within the galvanic cell."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Explores how ion movement impacts chemical reactions in cells."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "scaffolds",
+        "intent": "Facilitates understanding of experimental outcomes and theoretical concepts."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Highlights the differences in operating principles between fuel cells and electrolytic cells."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Supports learning by providing a clear visual diagram of cell components."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Provides quantitative results from experiments for analysis."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Consolidates knowledge about the galvanic cell structure and function."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Develops understanding of voltage discrepancy in relation to ion movement."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to think critically about experimental outcomes and discrepancies."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

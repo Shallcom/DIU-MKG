@@ -1,0 +1,126 @@
+{
+  "video_name": "38_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the perpendicular relationship between electric field lines and equipotential surfaces; master the rule governing how electric potential changes along the direction of the electric field intensity; apply the learned concepts to analyze point charges and their distribution.",
+  "transcript": "[726.719267 -> 748.3] 因为什么它在这个电场强度上是不是有分量呀那说明静电力就做了勾但是我们刚刚说等式面与电场强度是垂直刚刚得的是电场强度不做勾那这两种说法是不是相互矛盾相矛盾也就证明了我们这个说法是正确的我们的等式面与电场线是垂直的明白了吗好最后呢我们总结外扩一下电场线跟等式面垂直并且有等式高的指向等向等式低的等式面在我们的上一节学习电视的时候我们知道电视沿着电场方向方向电视逐渐降低那么等式面也是同样的这个说法是错误的等式面也是同样的。\n[750.36 -> 766.42] 既然电势沿着电场强度的方向降低那等式面是不是也是慢慢地降低呢比如说这个是四伏那这个是几伏三伏还是五伏降低嘛降低是三伏好非常棒。\n[770.66 -> 777.76] 现在老师给出了等量的一种电荷以及点电荷它们的电场线。\n[779.18 -> 784.42] 请同学们试着分析一下我的模拟上课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a diagram with a central circle and a grid layout, labeled \"平面\" (Plane).\n   - The blackboard contains handwritten notes and diagrams, including a set of parallel lines with annotations.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**: \n     - Diagram with a central circle and grid, labeled \"平面\" (Plane).\n     - Text includes \"平行\" (Parallel) and descriptions of geometric properties.\n   - **Blackboard Content**:\n     - Mathematical expressions: $U_{ab} = U_{ac} + U_{cb}$, $U_{ab} = U_{ac} - U_{cb}$.\n     - Diagram of parallel lines with annotations indicating relationships.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the central circle in the diagram on the slide, emphasizing its significance.\n   - The teacher gestures towards the parallel lines on the blackboard, likely reviewing the relationships between the lines and the equations written.\n   - The teacher uses a pointer to highlight specific parts of the diagram and equations, ensuring students focus on key elements.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on summarizing the current lesson content through the slide and blackboard review.",
+  "visual_narrative": "The lesson concludes with a slide displaying a central diagram featuring a circle and grid layout, labeled \"平面\" (Plane). The teacher visually reviews the content by pointing to the central circle, emphasizing its importance. She gestures towards the parallel lines on the blackboard, highlighting the relationships between the lines and the equations written. The teacher uses a pointer to draw attention to specific parts of the diagram and equations, ensuring key concepts are reinforced. The visual focus remains on summarizing the current lesson content, with no explicit indication of homework or next steps visible in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Field Lines",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.719267 -> 748.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Equipotential Surfaces",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.719267 -> 748.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Perpendicular Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.719267 -> 748.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Electric Potential Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[750.36 -> 766.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Point Charges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[770.66 -> 777.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematical Expression Uab",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.719267 -> 748.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Central Circle Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with central circle and grid labeled 'Plane'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Parallel Lines Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of parallel lines with annotations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Teacher's Gesture",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The concept of electric field lines evolves from understanding equipotential surfaces."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Electric field lines concept includes understanding their relationship with equipotential surfaces."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Equipotential surfaces concept includes understanding their perpendicular relationship with electric field lines."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Electric potential change builds upon the principle of electric field lines."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Understanding of point charges builds upon the principle of electric field lines."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Mathematical expression visualizes the relationship between points on parallel lines diagram."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The central circle diagram emphasizes the perpendicular relationship."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Teacher's gesture engages students by pointing to the central circle diagram."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

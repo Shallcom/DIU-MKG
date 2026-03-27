@@ -1,0 +1,146 @@
+{
+  "video_name": "38_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Master the basic structure and usage contexts of the present perfect tense; analyze and optimize sentence structures through group discussions.",
+  "transcript": "[533.0 -> 540.56] 你可以尝试把手指头弄斜了。\n[563.0 -> 586.78] 是的你可不可以改变第一句词词可以试一下吗我的生活已经变得比较便宜了吗MyLifeHasBeenHasRightYouNeedToUseHasSoMyLifeHasBeenMadeMoreConvenientAndTheSecondOneSecondOneThankYou。\n[587.86 -> 632.52] DoesAnybodyWantToHaveATryPleaseMyLearningProblemSanDenGeeSolvedMyLearningProblemSanDenGeeSolved你小心点你必须要更加注意自己的学习问题我学习问题已经解决了谢谢你必须和你的同学们讨论下来的词句你必须把它们改变成现在的完美然后我们要把它做成一块一块的。\n[659.7 -> 743.8] 完结了吗Jilly你先说你只能说你的身份卡被丢了谢谢了这就是第一个问题了您的网络发送率已经被确认了非常好走吧您的网络发送率已经被确认了这就是第一个问题了是的这就是第一个问题了有人在网上发了一些评论有关网上的内容有什么评论有什么。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen displaying a slide titled \"Do the homework.\" \n   - The slide includes a list of tasks under \"Homework\" with checkboxes next to each item.\n   - The overall layout is simple, with a clear heading and bullet points for each task.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide lists the following tasks:\n     - \"Write a short paragraph about your past experiences.\"\n     - \"Complete the exercises on page 34.\"\n     - \"Prepare for the next lesson's presentation.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each task on the screen, likely emphasizing the importance of each homework item.\n   - She gestures towards the checkboxes, possibly indicating that students should mark them as they complete the tasks.\n\n4. **Transition to Next Step**:\n   - The slide explicitly mentions \"Prepare for the next lesson's presentation,\" indicating a preview of the next session's activity.\n   - There is no additional visual element for homework or further reading beyond the listed tasks on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Do the homework,\" displaying three bullet points summarizing the tasks. The teacher points to each task in sequence, emphasizing the importance of each one. She gestures towards the checkboxes, suggesting students should mark them upon completion. The final emphasis is on the preparation for the next lesson's presentation, highlighted by a brief pause on this point. The slide also visually presents the homework instructions clearly, with tasks listed prominently for students to note.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Present Perfect Tense",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[563.0 -> 586.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Life Convenience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[563.0 -> 586.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Learning Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[587.86 -> 632.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Sentence Modification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[587.86 -> 632.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Group Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[587.86 -> 632.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Homework Tasks",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[533.0 -> 540.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Past Experiences",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[533.0 -> 540.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Exercises Page 34",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[533.0 -> 540.56]"
+      },
+      {
+        "id": "c9",
+        "label": "Next Lesson Presentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[533.0 -> 540.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Homework Slide",
+        "type": "Visual",
+        "original_text": "Do the homework: Write a short paragraph about your past experiences, Complete the exercises on page 34, Prepare for the next lesson's presentation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "Present Perfect Tense concepts are included in the homework tasks displayed on the slide."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "The concept of Life Convenience is derived from the use of Present Perfect Tense."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Learning Problems are addressed by modifying sentences using group discussions."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Group Discussion facilitates engagement among students."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Homework tasks are visually summarized on the slide."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Writing about past experiences is one of the homework tasks."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Completing exercises on page 34 is part of the homework tasks."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Preparation for next lesson's presentation is included in the homework tasks."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Preparing for the presentation prompts students to engage in critical thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

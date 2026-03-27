@@ -1,0 +1,128 @@
+{
+  "video_name": "8_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "- Understand the origins and evolution of the Guozijian.  \n- Comprehend the basic functions and characteristics of school education in ancient China.  \n- Analyze the Guozijian’s position and role within the ancient Chinese educational system.",
+  "transcript": "[0.0 -> 62.76] 并学生的初中课当中的更加具有趣味性我将会用视频或者动图还有漫画等方面进行一个解释然后以及通过多维度的史料分析结合多种史料通过选取简单的史料来对复杂的史料进行一个分析由简入深以此来进行一个解释以上就是我的一个主要的演讲内容接下来是我授课的讲解。\n[73.04 -> 113.54] 上课同学们好上课之前呢我们先来看到圣洋人版的一篇北京国子监的流逆牌坊太雪与国子监是中国古代教育的重要版本位于北京的公司国子监是原民清三大国家最高学府兼教育行政机构那么同学们来想一想国子监最早起源于哪呢它又是如何演变而成呢那我们就进入本节课第十四课的中心学校教育的形成。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is an image of a traditional Chinese architectural structure, specifically the entrance gate of the Imperial Academy (Guozijian). The image is accompanied by text that introduces the topic of the lecture.\n\n#### 2. **The Title Event**\n- The title displayed on the screen is \"第14课 文化传播的多种载体及其发展\" (Lesson 14: Various Carriers of Cultural Transmission and Their Development). The teacher does not physically write this; it is shown on the screen at the beginning of the lesson.\n\n#### 3. **The Objectives**\n- No specific learning objectives are listed as bullet points in the visible frames. The focus is on the introduction of the topic through the image and accompanying text.\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the screen, likely emphasizing the title and the image of the Imperial Academy.\n- The teacher points to the text on the screen, possibly highlighting key phrases or questions related to the image.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays the title \"第14课 文化传播的多种载体及其发展\" (Lesson 14: Various Carriers of Cultural Transmission and Their Development).\n- The teacher stands behind the podium, facing the audience, and gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The screen transitions to show an image of the Imperial Academy entrance with accompanying text.\n- The teacher points to the image and text, likely explaining the historical significance of the Imperial Academy as a carrier of cultural transmission.\n- The teacher gestures towards specific parts of the text, possibly emphasizing key points or questions related to the image.\n\n**End:**\n- The teacher continues to engage with the content on the screen, using hand gestures to link the visual elements to the lecture's narrative.\n- The audience remains focused on the teacher and the screen, indicating an interactive discussion about the cultural significance of the Imperial Academy.\n\n### Summary\nThe lesson begins with the title displayed on the screen, setting the context for the discussion on cultural transmission. The teacher uses gestures to highlight the image of the Imperial Academy, linking it to the topic of various cultural carriers. The visual elements, including the architectural image and accompanying text, are central to the teacher's explanations, creating a coherent narrative that guides the audience through the introduction of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing behind the podium, facing the audience, as the screen displays the title \"第14课 文化传播的多种载体及其发展\" (Lesson 14: Various Carriers of Cultural Transmission and Their Development). The initial visual stimulus, or hook, is an image of the Imperial Academy entrance, accompanied by text that sets the historical context. The teacher gestures towards the screen, drawing attention to the architectural image and the accompanying text, which introduces the topic of cultural transmission through historical institutions. As the lesson progresses, the teacher points to specific parts of the text, emphasizing key phrases and questions related to the image. This transition from the hook to the main topic is smooth, with the teacher using deliberate hand movements to link the visual elements to the lecture's narrative. By focusing on the image of the Imperial Academy, the teacher connects the new knowledge of cultural carriers to the students' existing understanding of historical education systems, laying the groundwork for a deeper exploration of how cultural transmission has evolved over time. The visual aids and gestures work together to engage the audience, ensuring a clear and coherent introduction to the lesson's central theme.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Imperial Academy Image",
+        "type": "Visual",
+        "original_text": "The image of the entrance gate of the Imperial Academy, used as a teaching hook.",
+        "ocr_corrected": true,
+        "timestamp": "[73.04 -> 113.54]"
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Lesson 14: Various Carriers of Cultural Transmission and Their Development.",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 62.76]"
+      },
+      {
+        "id": "c1",
+        "label": "Guozijian Origins",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[73.04 -> 113.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Guozijian Evolution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[73.04 -> 113.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Ancient Chinese Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[73.04 -> 113.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Cultural Transmission Carriers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 62.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Imperial Academy Significance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[73.04 -> 113.54]"
+      },
+      {
+        "id": "ss1",
+        "label": "Focused Audience",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 113.54]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The image of the Imperial Academy serves as a visual representation of its origins."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The image illustrates the Imperial Academy's evolution over time."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "The image highlights the Imperial Academy's significance in cultural transmission."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The title slide presents the idea of cultural transmission carriers."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Guozijian's origins are built upon its evolution over time."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Ancient Chinese education concepts build upon the significance of the Imperial Academy."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The carriers of cultural transmission include elements like the Imperial Academy."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding the origins of Guozijian expands knowledge on ancient Chinese educational systems."
+      },
+      {
+        "source": "ss1",
+        "target": "v2",
+        "relation": "engages_with",
+        "intent": "The audience engages with the introductory title, indicating focus and attention."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

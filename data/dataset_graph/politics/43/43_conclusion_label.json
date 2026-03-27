@@ -1,0 +1,151 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "- Understand the fundamental concepts of filing a lawsuit and responding to a lawsuit and their interrelationship.  \n- Master the definitions of plaintiff and defendant and the situations in which each applies.  \n- Be able to analyze the concrete application of filing and responding to lawsuits by using real‑world case examples.",
+  "transcript": "[715.641533 -> 746.14] 那么我们从火波风云来看到了起诉与应诉首先我们来看第一个我们在起诉的时候我们一定要注意在什么情况下我们应该进行一个起诉起诉以及在什么时候或者是向谁来提起这个诉讼那么相应的作为应诉人员同时这个起诉和应诉他们就构成了一个关系我们常说的起诉人我们把它称为原告对不对把他称为原告那么应诉人呢也就是我们刚刚所说的火锅我们把它称为背稿时间到。\n[750.4 -> 752.32] 好今天的课堂就到这儿。\n[772.66 -> 775.62] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a flowchart-like diagram. The diagram is structured with arrows and branching paths, indicating a procedural or decision-making process.\n   - The blackboard also includes Chinese text, which appears to be key terms or steps in the process.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard features the phrase \"严格遵守诉讼程序\" (strictly adhere to litigation procedures).\n   - There are branching paths labeled \"起诉\" (prosecution) and \"应诉\" (defense).\n   - The screen displays a flowchart with green boxes labeled \"起诉\" and \"应诉,\" connected by arrows, with a red cross indicating a decision point.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the phrase \"严格遵守诉讼程序\" on the blackboard, emphasizing the importance of following procedures.\n   - The teacher traces the arrows on the blackboard diagram, highlighting the flow from \"起诉\" to \"应诉.\"\n   - The teacher circles the term \"应诉\" on the blackboard, drawing attention to this key step in the process.\n   - The teacher interacts with the screen, navigating through slides, and points to the flowchart displayed, reinforcing the visual content.\n\n4. **Transition to Next Step**:\n   - The screen transitions to a desktop view, indicating the end of the presentation.\n   - There is no explicit visual element indicating homework or further reading, but the teacher's movement towards the desktop suggests the conclusion of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a flowchart-like diagram summarizing the litigation process, with key terms such as \"严格遵守诉讼程序\" prominently featured. The teacher visually reviews the content by pointing to the central phrase, emphasizing adherence to procedures. She traces the arrows connecting \"起诉\" and \"应诉,\" guiding the students through the procedural flow. To highlight the core takeaway, she circles \"应诉\" on the blackboard, reinforcing its significance. The screen transitions to a desktop view, signaling the conclusion of the lesson, with no explicit visual homework instructions presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Plaintiff",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.64 -> 746.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Defendant",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[715.64 -> 746.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Prosecution",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[715.64 -> 746.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Defense",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[715.64 -> 746.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Litigation Procedures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.64 -> 746.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Strict Adherence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.64 -> 746.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Flowchart Diagram",
+        "type": "Visual",
+        "original_text": "The blackboard contains a flowchart-like diagram with arrows and branching paths, indicating a procedural process.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Phrase on Blackboard",
+        "type": "Visual",
+        "original_text": "Strictly adhere to litigation procedures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Procedural Flowchart",
+        "type": "Visual",
+        "original_text": "Green boxes labeled 'Prosecution' and 'Defense', connected by arrows, with a red cross indicating a decision point.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Prosecution involves the plaintiff initiating legal action."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defense involves the defendant responding to the legal action."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Litigation procedures require strict adherence as a fundamental principle."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Prosecution is a part of the broader litigation procedures."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Defense is a part of the broader litigation procedures."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The phrase on the blackboard emphasizes the importance of strict adherence to procedures."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The flowchart diagram illustrates the procedures of prosecution and defense."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The visual on the blackboard reinforces the principle of strict adherence."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "The procedural flowchart highlights the prosecution process."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "The procedural flowchart highlights the defense process."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "engaged",
+        "intent": "Students are engaged in understanding litigation procedures as part of their learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

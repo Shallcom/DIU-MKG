@@ -1,0 +1,171 @@
+{
+  "video_name": "11_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Understand the application of diversified assessment methods in history teaching; master the significance of formative assessment for student development.",
+  "transcript": "[0.0 -> 87.56] 我们的要求要注明好教学品之间的关系推动教学品议题化那么如何在教学当中体现呢对此我的观点是首先我们要采取多元化的评价方式在传统的教学当中我们是采用了考试为主的评价方式来通过学生的评价方式来评价学生的评价方式来通过学生的评�学生的考试成绩进行研究拼音那么在新课标要求之下我们应当采取更加多元更加综合的方式去评价学生的学业成绩那么对于一个学生来说比如说小明他可能以学习成绩不是那么好但是我们要说学生他是发展的人我们要注重学生的可塑性他可能就是在文体这方面做得比较好比如说他在家庭他在这个比如说他在家务劳动当中表现得好我们应该让他去担任一些单级的生活委员这样的职务能够更好地去帮助他进行一个发展以此来推动多元化的这样一个评价其次我们应该注重形成性评价。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The text reads: \"第1课 中华优秀传统文化的内涵与特点\" (Lesson 1: The Connotation and Characteristics of Excellent Traditional Chinese Culture).\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"第1课 中华优秀传统文化的内涵与特点.\"\n- The teacher is standing in front of the screen, presenting the slide. There is no indication of the teacher writing or underlining the title; it is displayed as part of the presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or blackboard in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and gesturing with their hands, likely emphasizing points related to the title content.\n- The teacher occasionally raises one hand, possibly to highlight or emphasize parts of the presentation.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title slide: \"第1课 中华优秀传统文化的内涵与特点.\"\n- The teacher holds papers and gestures with their hands, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to gesture, possibly explaining or introducing the topic. No additional visual content changes are observed on the screen or blackboard.\n\n**End:**\n- The teacher maintains focus on the title slide, using hand movements to engage the audience. No new visual elements or changes occur in this segment.\n\n### Summary\nThe introduction phase centers around the title slide, with the teacher using hand gestures to engage the audience. The visual focus remains on the slide, with no additional content or objectives displayed. The teacher's actions are linked to emphasizing the lesson's theme without altering the visual elements.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title slide: \"第1课 中华优秀传统文化的内涵与特点.\" This serves as the hook, immediately focusing the students' attention on the lesson's theme. The teacher, holding papers, uses hand gestures to engage the audience, occasionally raising one hand to emphasize key points. Throughout this segment, the visual aid remains consistent, with no transition to additional content or objectives. The teacher's actions are centered around the title, suggesting an emphasis on introducing the topic's significance. This approach likely aims to connect the students' existing cultural knowledge to the forthcoming exploration of traditional Chinese culture, setting the stage for a deeper dive into its connotations and characteristics. The consistent focus on the title slide helps establish a clear framework for the lesson, preparing students for the detailed content to follow.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Diversified Assessment Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Formative Assessment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Traditional Assessment Methods",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Exam-Based Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Student Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Plasticity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Non-Academic Skills",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Household Tasks",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "c9",
+        "label": "Class Committee Roles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 87.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Excellent Traditional Chinese Culture",
+        "type": "Visual",
+        "original_text": "Lesson 1: The Connotation and Characteristics of Excellent Traditional Chinese Culture",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures Emphasizing Title",
+        "type": "Visual",
+        "original_text": "Teacher gestures with hands to emphasize the title slide content.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged with Title Slide",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Diversified assessment methods include formative assessment as a key principle."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Diversified assessment methods evolve from traditional assessment methods."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Traditional assessment methods include exam-based evaluation."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "supports",
+        "intent": "Formative assessment supports student development."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Student development includes fostering student plasticity."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Student plasticity includes non-academic skills."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Non-academic skills include household tasks."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Non-academic skills include class committee roles."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The title slide introduces the concept of diversified assessment methods."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The title slide introduces the concept of formative assessment."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the importance of the title slide content."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gestures prompt students to engage with the title slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

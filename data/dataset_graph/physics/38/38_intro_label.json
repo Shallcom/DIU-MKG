@@ -1,0 +1,126 @@
+{
+  "video_name": "38_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Identify the problems and mistakes that students encounter during problem solving; diagnose students’ misconceptions or deviations in understanding and provide effective feedback.",
+  "transcript": "[0.0 -> 58.68] 点支持明镜与点点栏目尊敬的表演老师亲爱的同学们大家好我是高中物理组三十八号选手今天我即席演讲的题目是在高中物理的习题教学中经常会有一些题目在讲解的时候困难或者是学生在解题的过程当中没问题但是答案存在问题一时间呢难以进一步地讲解和改题目面对这种情况的时候你如何处理首先对于习题教学正是学生巩固知识提升学生解决问题能力的时候。\n[59.86 -> 60.0] 因此在这个过程中学生发现问题的时候正是达到了我们习题教学的目的。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen displaying the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher College Students). The number \"10\" is prominently displayed in red, along with a graphic of a cityscape.\n\n#### 2. **The Title Event**\n- The teacher enters the classroom and approaches the green chalkboard. The board initially has some Chinese text written on the right side, which appears to be \"物理师范选手\" (Physics Normal Candidate). The teacher does not alter this text during the introduction phase.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the board or screen during the introduction phase. The screen displays a presentation slide with a simple diagram, but no bullet points or objectives are shown.\n\n#### 4. **Key Gestures**\n- The teacher stands in front of the chalkboard and screen, holding papers. She gestures with her hands while speaking, occasionally pointing towards the screen displaying a diagram with a central box and a horizontal line.\n- She holds a small round object, possibly a model or prop, and gestures with it while explaining.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring the competition's name and the number \"10\" in red.\n- Transition to the classroom where the teacher enters and walks towards the front.\n\n**Middle:**\n- The teacher stands in front of the chalkboard and screen. The screen shows a slide with a diagram containing a central box labeled with Chinese text and a horizontal line.\n- She holds papers and gestures towards the screen, indicating the diagram's elements.\n- The teacher uses a small round object, possibly to demonstrate a concept, while continuing to gesture and speak.\n\n**End:**\n- The teacher continues to engage with the students, maintaining focus on the diagram displayed on the screen.\n- No additional text or diagrams are added to the board during this phase.\n\nThis structured visual analysis captures the evolution of the classroom's visual elements, linking the teacher's actions to specific content displayed.",
+  "visual_narrative": "Initially, the video presents a vibrant yellow title screen featuring the competition's name and the number \"10\" in bold red, setting the stage for the lesson. Transitioning to the classroom, the teacher enters and approaches the front, where the green chalkboard displays the text \"物理师范选手\" on the right side. To bridge to the main topic, the teacher stands before a screen showing a simple diagram with a central box and a horizontal line. She holds papers and gestures towards the diagram, occasionally pointing to emphasize key elements. The teacher also uses a small round object, likely a model, to aid her explanation. Throughout, her gestures link the visual content on the screen to her verbal introduction, creating a connection between the lesson's theme and the students' existing knowledge. The visual focus remains on the diagram, establishing the foundational concept for the lesson. This structured introduction effectively sets the stage for deeper exploration of the topic, grounding new knowledge in familiar visual and conceptual frameworks.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Introduction Phase",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Physics Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Identifying Student Mistakes",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Providing Feedback",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Science Competition Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 60.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Physics Normal Candidate",
+        "type": "Visual",
+        "original_text": "Text on chalkboard: 'Physics Normal Candidate'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Introductory Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with central box and horizontal line",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Model Demonstration",
+        "type": "Visual",
+        "original_text": "Teacher using a small round object as a prop",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The introduction phase sets the stage for problem-solving in physics."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Problem-solving aims to identify mistakes students make."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Identifying mistakes is crucial for providing effective feedback."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The competition context introduces the lesson."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The text on the chalkboard conveys the candidate's role in physics problem-solving."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The diagram visually represents the structure of the introductory lesson."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The model helps in demonstrating a physical concept during the lesson."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The introduction phase engages students mentally in the lesson."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

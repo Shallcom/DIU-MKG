@@ -1,0 +1,132 @@
+{
+  "video_name": "39_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Understand the purposes and impacts of the formation of NATO and the Warsaw Pact; analyze the geopolitical landscape of the early Cold War and its influence on international relations.",
+  "transcript": "[692.08 -> 694.46] 接下来我们再来看军事上。\n[699.92 -> 751.94] 我们请这位同学来回答一下吧军事上美国和英法等国成立了北大四条公约然后苏联成立的是华沙条约组织很好谢谢所以我们会发现美国和它的这些盟国比如英法就成立了北大西洋公约又称为北约很好那苏联和它的盟国也成立了华沙条约又称为华约很好这就是北约和华约对峙的一个势力图我们将其放置我们的这个时间时空观念之下那在地缘政治上其实也是非常简单的就是发生了第一次的严重对峙然后导致了德国的分裂那这节课我们先上到这儿吧下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a large screen displaying a world map and a smaller regional map.\n   - The layout includes text in Chinese on the right side, with maps on the left. The world map highlights specific regions, while the smaller map shows detailed areas.\n\n2. **Key Knowledge Items (Content View)**:\n   - The text on the screen reads: \"事实上：美苏争霸与美苏冷战是两个不同的概念，不能混为一谈。美苏争霸是冷战的背景\" (Translation: \"In fact: The rivalry between the US and the USSR and the Cold War are two different concepts and should not be confused. The rivalry between the US and the USSR is the background of the Cold War\").\n   - The world map shows highlighted regions, likely indicating areas of US-USSR rivalry.\n   - The smaller map focuses on a specific region, possibly Eastern Europe, with color-coded areas.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the screen, emphasizing the distinction between US-USSR rivalry and the Cold War.\n   - The teacher gestures towards the world map, likely explaining the global context of the rivalry.\n   - The teacher then points to the smaller map, possibly detailing specific events or areas of conflict.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the screen or board in this segment.\n   - The focus remains on summarizing the key points about the US-USSR rivalry and the Cold War.\n\nThis structured visual summary consolidates the lesson's main points, with the teacher's gestures reinforcing the key distinctions and geographical contexts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a world map alongside a smaller regional map, accompanied by key text in Chinese. The teacher begins the visual review by pointing to the text, emphasizing the distinction between US-USSR rivalry and the Cold War. She then gestures towards the world map, highlighting global regions to illustrate the broader context of the rivalry. Moving to the smaller map, she points out specific areas, likely detailing significant conflict zones. Throughout, her gestures reinforce the core takeaway, ensuring students visually grasp the differences and geographical implications. No homework or next-step instructions are visible, focusing solely on consolidating the lesson's main points through the maps and highlighted text.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "US-USSR Rivalry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.92 -> 751.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Cold War",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[699.92 -> 751.94]"
+      },
+      {
+        "id": "c3",
+        "label": "NATO Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.92 -> 751.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Warsaw Pact Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.92 -> 751.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Geopolitical Tension",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[699.92 -> 751.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Division of Germany",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[699.92 -> 751.94]"
+      },
+      {
+        "id": "v1",
+        "label": "World Map Highlighted Regions",
+        "type": "Visual",
+        "original_text": "World map showing highlighted regions indicating areas of US-USSR rivalry.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Regional Map",
+        "type": "Visual",
+        "original_text": "A smaller map focusing on Eastern Europe with color-coded areas.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "US-USSR Rivalry is a background context for the Cold War."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "NATO Formation was a development in the context of US-USSR rivalry."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Warsaw Pact Formation was a development in the context of US-USSR rivalry."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Geopolitical Tension includes the Division of Germany."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The world map visualizes areas affected by US-USSR rivalry."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The regional map visualizes areas pertinent to the Warsaw Pact."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student answers prompt further discussion on NATO Formation."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Regional map visualizes the geopolitical consequences like Germany's division."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher emphasizes Cold War to encourage student engagement and understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

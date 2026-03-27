@@ -1,0 +1,121 @@
+{
+  "video_name": "14_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Cultivate students’ interest in mathematics and their ability to participate in class; guide students into learning the new lesson content.",
+  "transcript": "[0.0 -> 99.94] 有利于吸引学生的注意力激发学生的学习兴趣启发学生思考请你谈谈对情境设置的见解首先我认为良好的开端是至关重要的为本节课的学习会打下一个很好的基础矿民有诗曾经说过教师是太阳底下最光辉的职业作为最光辉的职业的我们应该要注重情境设置首先我们要注重与学生以学生的发展为本情景设置可以来源于生活实际正所谓数学来源于生活又回到于生活本课我的本课的授课是弹数Y等于A三一我们一个X加五在这个学习中我也创设了一个生活情景铜车和南昌之星的那个摩天罗骑士我认为好的情景可以激发学生思考集中学生注意力培养学生数学建模和数学抽象等核心素养以及能力。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing at a podium, facing a digital screen displaying a presentation slide. The initial slide shows the title \"5.6 函数 y = Asin(ωx + φ)\" in a blue box, indicating the topic of the lesson.\n\n#### 2. **The Title Event**\n- The title \"5.6 函数 y = Asin(ωx + φ)\" is prominently displayed on the digital screen. The teacher does not physically write this title but presents it on the screen, likely using a pointer or cursor to emphasize it.\n\n#### 3. **The Objectives**\n- Specific learning objectives are not clearly visible in the provided frames. The focus is on the title slide, with no additional bullet points or objectives shown.\n\n#### 4. **Key Gestures**\n- The teacher is seen holding papers and occasionally looking at them, likely reading or referring to notes. There are no specific gestures like pointing or underlining visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with a digital screen behind her displaying the title \"5.6 函数 y = Asin(ωx + φ)\".\n- The teacher holds papers, possibly reading from them to introduce the lesson.\n\n**Middle:**\n- The teacher continues to refer to the papers, maintaining focus on the content displayed on the screen.\n- The green chalkboard remains blank, with no additional writing or diagrams introduced during this phase.\n\n**End:**\n- The teacher remains at the podium, still holding the papers, indicating the introduction phase is ongoing.\n- The screen consistently displays the title slide, with no changes or additional visual content introduced.\n\n### Summary\nThe introduction phase of the lesson centers around the digital presentation of the title \"5.6 函数 y = Asin(ωx + φ)\". The teacher uses papers, likely notes, to guide the introduction without additional gestures or board writing. The focus remains on the title displayed on the screen, setting the stage for the lesson's content.",
+  "visual_narrative": "Initially, the teacher stands at the podium with a digital screen behind her displaying the title \"5.6 函数 y = Asin(ωx + φ)\" as the opening visual stimulus. To bridge to the main topic, the teacher holds papers, likely reading from notes to introduce the lesson content. The visual focus remains on the title slide throughout the introduction, with no additional gestures or board writing observed. This setup establishes the lesson goal, linking the new knowledge of the sine function to the students' existing mathematical experience. The consistent display of the title slide helps anchor the introduction, preparing students for the exploration of the function's properties and applications in subsequent parts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sine Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 99.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Amplitude A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 99.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Angular Frequency ω",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 99.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Phase Shift φ",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 99.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Mathematical Experience",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 99.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Cognitive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 99.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "5.6 Function y = Asin(ωx + φ)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blank Chalkboard",
+        "type": "Visual",
+        "original_text": "Green chalkboard remains blank",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Notes",
+        "type": "Visual",
+        "original_text": "Teacher holding papers, likely notes",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The digital slide visualizes the sine function to introduce the lesson topic."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sine function includes amplitude as a key component."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Sine function involves angular frequency as a parameter."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Sine function incorporates phase shift as part of its form."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The new lesson content builds upon students' existing mathematical knowledge."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "The consistent display of the title slide aims to maintain student focus and engagement."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Teacher uses notes to scaffold the introduction of the sine function."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

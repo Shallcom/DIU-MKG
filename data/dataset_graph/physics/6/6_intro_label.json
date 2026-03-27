@@ -1,0 +1,185 @@
+{
+  "video_name": "6_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Cultivate students’ ability to think innovatively and practice within physics; guide students to master basic experimental design and data‑processing methods.",
+  "transcript": "[0.0 -> 162.18] 并所要求我们学生必备的能力故教师在讲课时要着重培养学生的创新思维和实践能力首先我们应该了解学生的认知基础学生已经掌握了哪方面的知识并在课堂上向学生提供基本的实验素材引导学生根据实验素材自己动手观察实验通过思维活动对感知到的物理现象进行加工整合和理解由此来培养学生的实践能力其次我们可以引用引入实验数据处理软件比如说Tracker软件LifeLab软件以及Orange软件引导学生自己在课下动手来培养学生处理物以实验数据的能力由此来引导学生进行创新实验最后我们可以布置拓展性作业比如说我们在偷盘偏平那一节可以引导学生去思考如何测量一根头发的质量以及在法兰蒂改变内接我们可以引导学生在课下自主设计发电装置由此来提高学生的创新意识帮助学生形成引颈求实的科学态度和习惯综上我提出了三点第一我们可以引导学生利用教师提供的实验素材进行实验接着我们可以将实验数据处理软件引入课堂当中引导学生对实验数据处理和分析的能力最后我们可以布置拓展作业由此来帮助学生来自主创新进行实验同时巩固课堂上的基本知识以及内容我的即席演讲部分到此结束感谢各位老师和同学的聆听下面是我的正式授课环节同学们上课本次我们学习的内容是基本例子同学们我们知道大家都生活在物质世界中而物质世界中呢充满着各种各样神奇的例子今天老师就带领大家一起继续深入探索粒子物理的秘密。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The text on the slide reads \"5.5 '基本' 粒子\" with additional smaller text below, which appears to be a lesson title or topic introduction.\n\n#### 2. **The Title Event**\n- The title \"5.5 '基本' 粒子\" is prominently displayed on the screen. The teacher does not write this on the board but points to it on the screen, ensuring students focus on the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title and introductory content.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her free hand, likely emphasizing points related to the content on the screen.\n- She occasionally points to the screen, directing attention to the title and any accompanying text.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the green chalkboard and the screen displaying the slide \"5.5 '基本' 粒子.\"\n- She holds papers and gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to stand in front of the screen, maintaining focus on the title.\n- She uses hand gestures to emphasize the content, pointing to the screen to highlight the lesson topic.\n\n**End:**\n- The teacher remains engaged with the students, using her gestures to connect the visual content on the screen with her verbal explanations.\n- The screen consistently displays the title, serving as a focal point throughout the introduction phase.\n\nThis structured approach ensures that the teacher's actions are visually linked to the content, providing a clear introduction to the lesson topic.",
+  "visual_narrative": "Initially, the screen presents the title \"5.5 '基本' 粒子,\" serving as the hook to initiate the lesson. To bridge to the topic, the teacher stands in front of the screen, holding papers and using hand gestures to direct attention to the displayed content. The visual focus remains on the title throughout, as the teacher points to it, ensuring students recognize the lesson's primary subject. Finally, the consistent display of the title on the screen establishes the lesson goal, linking the introduction to the students' existing knowledge and setting the stage for further exploration of the topic. This structured approach visually connects the new content to the overarching theme, preparing students for the upcoming material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Basic Particles Title",
+        "type": "Visual",
+        "original_text": "Title '5.5 Basic Particles'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Basic Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Data-Processing Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Innovative Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Physics Practice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Experimental Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Tracker Software",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c8",
+        "label": "LifeLab Software",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c9",
+        "label": "Orange Software",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c10",
+        "label": "Extension Homework",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c11",
+        "label": "Hair Mass Measurement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "c12",
+        "label": "Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 162.18]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Links experimental design to practical physics skills."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Integrates data-processing skills with innovative thinking."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Uses title to introduce basic experimental design concept."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Connects title to data-processing methods."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Experimental materials are used for observation activities."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Data-processing methods are enhanced by Tracker software."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "LifeLab software is used within data-processing methods."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Orange software complements data-processing learning."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Extension homework fosters innovative thinking."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Hair mass measurement relates to electromagnetic induction principles."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Experimental design encourages student engagement."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Title keeps students engaged with lesson focus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

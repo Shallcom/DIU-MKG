@@ -1,0 +1,166 @@
+{
+  "video_name": "48_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Recognize the current state of energy in daily life and the importance of its protection; understand the second law of thermodynamics and its two formulations.",
+  "transcript": "[595.52 -> 636.48] 那我们生活当中的能源是并不是取之不尽用之不及的在生活当中即使我们的能量发生了损耗天气变冷我们的耗油量增多生活当中为了取暖使用了我们的煤炭等等资源那在生活当中我们还是要保护我们的地球资源的我们要保护我们的油量以及我们的煤炭在生活当中希望同学们以后能够保护我们的生活能源。\n[637.68 -> 642.7] 那本节课我们学习了哪些内容呢好这位同学你来回答。\n[646.32 -> 705.54] 第二定律的两个表述在第一种表述是特朗克休斯的表述是非常好热量不能自发地传到低温物体那第二种呢是不可能从单一热库中吸收能量使之完全变成空非常好不能从单一的热库中吸收能量使之完全变成空而不产生其他的影响老师布置了课后作业分为基础题和提高题等等希望大家在课后认真完成老师布置的作业本节课上到这里就结束了同学们下课好可以了可以了。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in Chinese.\n   - The layout includes three main bullet points, each with a heading and brief description.\n\n2. **Key Knowledge Items (Content View)**:\n   - The headings on the blackboard are:\n     1. **爱因斯坦** (Einstein)\n     2. **开文迪许** (Cavendish)\n     3. **天文学家** (Astronomer)\n   - These headings likely correspond to key figures or concepts discussed in the lesson.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the blackboard, gesturing towards the written points.\n   - She points to each heading in sequence, likely summarizing the content associated with each figure or concept.\n   - The teacher uses hand movements to emphasize the importance of each point, possibly circling or underlining them as she speaks.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the blackboard or screen.\n   - The focus remains on the summary points, suggesting a review or closure of the lesson without immediate transition to next steps.\n\nThis structured visual summary helps consolidate the key knowledge points discussed, with the teacher's gestures reinforcing the importance of each item.",
+  "visual_narrative": "The lesson concludes with a blackboard summary featuring three key bullet points: Einstein, Cavendish, and Astronomer. The teacher visually reviews the content by pointing to each heading in sequence, emphasizing their significance. She uses deliberate gestures to highlight each point, ensuring clarity. The visual focus remains on these core concepts, with no additional homework or next-step instructions visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Energy Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[595.52 -> 636.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Earth Resources",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.52 -> 636.48]"
+      },
+      {
+        "id": "c3",
+        "label": "Second Law of Thermodynamics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.32 -> 705.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Tronkeslaw's Statement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[646.32 -> 705.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Single Heat Reservoir",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[646.32 -> 705.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Einstein",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.68 -> 642.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Cavendish",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.68 -> 642.7]"
+      },
+      {
+        "id": "c8",
+        "label": "Astronomer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[637.68 -> 642.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The main visual carrier of the summary is the blackboard, which contains a list of key points written in Chinese.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Point: Einstein",
+        "type": "Visual",
+        "original_text": "Blackboard entry titled 'Einstein'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Point: Cavendish",
+        "type": "Visual",
+        "original_text": "Blackboard entry titled 'Cavendish'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Bullet Point: Astronomer",
+        "type": "Visual",
+        "original_text": "Blackboard entry titled 'Astronomer'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Homework",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Discusses the relation between conservation of energy and Earth resources."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The second law of thermodynamics contains Tronkeslaw's statement as one formulation."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Explains the implication of the second law in the context of single heat reservoirs."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The blackboard summarizes key figures or concepts with Einstein as an example."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "The blackboard summarizes key figures or concepts with Cavendish as an example."
+      },
+      {
+        "source": "v1",
+        "target": "v4",
+        "relation": "summarizes",
+        "intent": "The blackboard summarizes key figures or concepts with Astronomer as an example."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to answer questions regarding thermodynamics."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "engages",
+        "intent": "Homework emphasizes engagement with energy conservation."
+      },
+      {
+        "source": "s2",
+        "target": "c3",
+        "relation": "engages",
+        "intent": "Homework emphasizes engagement with thermodynamic principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

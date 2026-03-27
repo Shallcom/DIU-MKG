@@ -1,0 +1,146 @@
+{
+  "video_name": "27_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand the teaching methods of collective text reading and their application in Chinese language instruction; master the integration of situational teaching and text analysis within collective text reading.",
+  "transcript": "[0.0 -> 120.7] 以高中语文必修上册第一单元沁园春长沙立在地球边上放好红竹和志云阙群教学美丽来谈一谈这个问题首先我认为教师应该在上课之前布置预习任务让学生了解文章的背景了解作者本身比如去了解信源春长沙立在地球边上放好彭竹和志云雀的写作背景去了解毛泽东郭沫若文一多和雪来这些作者他们的人生经历其次群文阅读顾名思义就是很多文章放在一起读不能把它们去割裂开来本本本单元的人文主题是青春激情所以我们可以举办诗歌朗诵会拍摄微视频等等用这些情境去引领去串联群文阅读第三无论是什么样的教学方法我们都应该去关照文本本身的真实不能说用了群文教学的阅读方法用了情境教学的方法就失去了文本本身的真实性这个是不可取的最后叶盛涛先生曾经说过科文无非就是一个例子我们还是应该在群文阅读的学习中引导学生去学习到那些阅读方法比如说比较比如说批注的阅读方法去举一反三我的即兴讲演到此结束现在开始我的模拟授课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features a traditional Chinese painting of a boat on water, accompanied by Chinese text: \"念奴娇·过涧庭.\"\n\n#### 2. **The Title Event**\n- The title on the screen is \"念奴娇·过涧庭.\" The teacher does not physically write this; it is part of the digital slide. The teacher stands near the screen, possibly indicating or referring to the title during the introduction.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the digital screen, likely emphasizing the title or content displayed.\n- The teacher occasionally points to the blackboard, though no specific content is written there in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front, facing the class.\n- The digital screen displays the title \"念奴娇·过涧庭\" alongside a traditional painting.\n- The teacher gestures towards the screen, possibly introducing the topic.\n\n**Middle:**\n- The teacher continues to reference the screen, maintaining focus on the displayed content.\n- The blackboard remains mostly blank, with no additional writing observed.\n\n**End:**\n- The teacher continues to engage with the class, occasionally pointing to the screen.\n- No new visual elements are added to the board or screen during this phase.\n\n### Summary\nThe introduction phase centers on the digital slide with the title \"念奴娇·过涧庭\" and a traditional painting. The teacher uses gestures to direct attention to the screen, setting the stage for the lesson without additional board content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the front of the classroom, facing the students. The initial visual stimulus is a digital slide featuring a traditional Chinese painting of a boat on water, accompanied by the title \"念奴娇·过涧庭.\" The teacher gestures towards the screen, drawing attention to the artwork and title, setting the cultural and historical context for the lesson. Throughout this phase, the teacher maintains focus on the digital content, occasionally pointing to the screen to emphasize key elements. The blackboard remains blank, ensuring that the students' attention is directed solely towards the visual presentation. This approach serves as a bridge, connecting the students' existing knowledge of traditional Chinese literature and art to the new topic being introduced. By highlighting the painting and title, the teacher effectively introduces the lesson's theme, preparing students for a deeper exploration of the content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Collective Text Reading",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Situational Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Text Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Traditional Chinese Literature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Mao Zedong",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Guo Moruo",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Wen Yiduo",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c8",
+        "label": "Shelley",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "c9",
+        "label": "Youth Passion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 120.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Slide: Boat Painting",
+        "type": "Visual",
+        "original_text": "Digital slide with traditional Chinese painting of a boat on water and title 'Niannu Jiao · Crossing Jian Ting'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Collective text reading integrates situational teaching."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Collective text reading includes text analysis."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The digital slide displays a traditional Chinese painting, representing Chinese literature."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Mao Zedong is part of the authors discussed in collective text reading."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Guo Moruo is part of the authors discussed in collective text reading."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Wen Yiduo is part of the authors discussed in collective text reading."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Shelley is part of the authors discussed in collective text reading."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Youth Passion is the thematic focus within the collective text reading."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The visual display of the boat painting emphasizes student engagement with the cultural context."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

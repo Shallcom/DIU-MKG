@@ -1,0 +1,165 @@
+{
+  "video_name": "39_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the application of trigonometric function models in damped motion; identify and calculate physical quantities such as amplitude and period; construct a mathematical model that describes actual damped motion.",
+  "transcript": "[522.26 -> 537.86] 那由此我们就知道了弹簧正子的运动规律可以用这样一个三角函数的模型来表示其实在我们现实生活中也存在着大量类似于弹簧正子这样的运动比如说钟摆的运动比如说水中浮动水中浮标的上下浮动包括琴弦的震动等等这些都是物体围绕的某一中心位置进行循环往复的这样一个运动那么在物理学中我们就把这样一些物体受到力这样的力是指向平衡位置的力正比于它离开平衡位置的距离称为减斜运动。\n[539.26 -> 553.64] 那减斜运动可以用这样一个三角函数模型Y等于A倍的SineOmegaX加Fine来进行表示那在我们求减函数模型的过程中需要注意函数是有定义的需要把定义给写明白。\n[554.86 -> 593.62] 那么描述减弦运动的一些物理样比如说振幅周期频率包括相位等等其实都是从我们这一个三个函数模型当中可以提炼出来的比如说这里的数学解析式的部分A它表注的就是我们物理中弹簧运动的振幅指的是物体离开平衡位置时的最大距离所以我们如果知道函数的图像的话可以通过最大距离来纠结这样一个A那么台湾的这里的周期七是物体循环往复运动一次所需要的时间借助周期呢我们就可以来求解我们函数解析式当中的Omega。\n[607.36 -> 613.0] 而函数模型当中的Omega根本都没有设计但它其实就是物理中的角速度的概念。\n[620.44 -> 632.66] 在这样一个函数模型中我们还涉及到了一个参数Phi那么对于Phi旁边的这样一个整体OmegaX加Phi物理中也有相关的定义它指的是相位。\n[640.46 -> 714.2] 那么对于这个项位我们取字变为零得到的Phi称之为初像因此对于物理当中的一些概念我们其实可以通过数学的解析式当中的一些参数来进行描述好那下一个我们再来看这样一个问题如图图一是某次实验测得的交变电流随时间梯变化的图像那我们把这样的图像我发现它非常的密集不太好看那我们把它放大得到了图二这样的一个形式那么要我们求解电流I随着时间梯变化的函数解析式那其实交变电流也是类似于弹簧正直一样的有周额复始的变化规律那它也可以用三点函数的模型来进行表示那我们只需要把这个模型写出来因变量是I次变量是TI等于A倍的三纳米感七加倍的形式。\n[715.34 -> 737.1] 观察图像中的最大位移我们可以求解出其中的正负A通过图像我们观察出它这样一个加变电流运动的周期进而求解其中的环数模型当中的奥米达那么借助T等于零就可以求解Five以上就是我们里授课的全部内容谢谢老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which prominently displays the equation $y = A\\sin(\\omega x + \\varphi)$ along with its parameters:\n     - $A = 20$\n     - $T = 0.65$\n     - $\\omega = \\frac{2\\pi}{T}$\n     - $\\varphi = 0$\n     - $y = 20\\sin\\left(\\frac{2\\pi}{0.65}t\\right)$\n   - The right side of the screen shows a slide with a graph depicting the sine wave function, reinforcing the visual representation of the equation.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main equation: $y = A\\sin(\\omega x + \\varphi)$\n   - Parameters:\n     - $A = 20$ (振幅)\n     - $T = 0.65$ (周期)\n     - $\\omega = \\frac{2\\pi}{T}$ (角速度)\n     - $\\varphi = 0$ (初相)\n     - Final form: $y = 20\\sin\\left(\\frac{2\\pi}{0.65}t\\right)$ (相位)\n   - Slide content includes a graph illustrating the sine wave.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each parameter on the blackboard, specifically highlighting $A$, $T$, $\\omega$, and $\\varphi$.\n   - The teacher underlines the final equation $y = 20\\sin\\left(\\frac{2\\pi}{0.65}t\\right)$ to emphasize its importance.\n   - The teacher gestures towards the graph on the screen, likely explaining how the parameters affect the wave's shape and behavior.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the equation $y = A\\sin(\\omega x + \\varphi)$. The teacher visually reviews the content by pointing to each parameter, including $A = 20$, $T = 0.65$, $\\omega = \\frac{2\\pi}{T}$, and $\\varphi = 0$, highlighting their roles in the equation. The final emphasis is placed on the complete form of the equation, $y = 20\\sin\\left(\\frac{2\\pi}{0.65}t\\right)$, which the teacher underlines to mark its significance. The visual focus also includes a graph on the screen, reinforcing the wave's characteristics. No homework or next-step instructions are visually presented in this segment, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Function Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[522.26 -> 537.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Damped Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[522.26 -> 537.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Amplitude (A)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[554.86 -> 593.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Period (T)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[554.86 -> 593.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Angular Velocity (ω)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[607.36 -> 613.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Phase (φ)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[620.44 -> 632.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Spring Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[522.26 -> 537.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Pendulum Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[522.26 -> 537.86]"
+      },
+      {
+        "id": "c9",
+        "label": "String Vibration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[522.26 -> 537.86]"
+      },
+      {
+        "id": "c10",
+        "label": "Sine Wave Graph",
+        "type": "Visual",
+        "original_text": "Graph illustrating the sine wave function",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Physical Quantities Explanation",
+        "type": "Visual",
+        "original_text": "Teacher emphasizes the importance and calculation of parameters A, T, ω, φ.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The trigonometric function model describes damped motion."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Amplitude is a key parameter in the trigonometric function model."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Period is a key parameter in the trigonometric function model."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Angular velocity is derived from the period in the trigonometric function model."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Phase is a critical parameter in the trigonometric function model."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Amplitude characterizes the max displacement in damped motion."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Period determines the cycle time in damped motion."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Graph visually represents the trigonometric function model."
+      },
+      {
+        "source": "c11",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "Visual explanation consolidates understanding of the graph and parameters."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Spring motion can be modeled using a trigonometric function."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Pendulum motion described through trigonometric functions."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "String vibration follows the trigonometric function model."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

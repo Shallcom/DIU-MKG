@@ -1,0 +1,127 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the application and importance of analogical methods in physics; master the ability to construct physical concepts through analogy; develop the capacity to use analogical thinking to solve real‑world problems and foster innovative thinking.",
+  "transcript": "[0.0 -> 150.5] 怎么类比的呢他发现吊灯的摆动遵循一定的规律就是摆动总会到达同一高度然后通过改变摆针的那个位置可以发现它的高度始终是不变的然后通过类比的方法把摆针的运动类比到我们地面上的运动从而出现了理想斜面实验得出力不是维持物体运动的原因第二个类比呢就是库伦定律的得出我们知道库伦定律通过实验发现力和质量力和带电量是成正比的并且和距离是成反比的那物理学家们就可以开始思考我们的万有引力它和物体的质量是成正比和距离的二次方程反比那通过类比的思想得出库伦定律的表达式对吧然后呢当然它这个表达式最终也是通过实验验证得出来的那第二个问题就是谈一谈你在物理教学会有哪些应用类比方法首先第一个加速度概念的得出我们知道加速度它是描述物体运动变化快慢的物理量通过类比速度的概念速度是描述物体位置变化的快慢通过类比我们就可以得出加速度的概念第二个类比比如说圆周运动我们知道它虽然是弧长比长时间然后呢直线运动它是通过位移比上时间通过这种类比的思想来得出圆周运动线速度的大小这也是一种类比的功法最后呢我想说类比方法它是在原有的知识基础上进一步的拓展与应用这方法是非常重要的所以老师在教学中应该尽多地去发掘类比方法在教学中的应用去提高学生应用知识解决问题创新能力的培养以上就是我的三分钟即兴研究。\n[169.76 -> 175.38] 下面开始我的片段教学讲课同学们好上课。\n[176.56 -> 189.02216675] 同学们大家知道民法典一千两百四十五条写的是什么内容吗不知道没关系我们今天就来学习一下这个法律内容就是说我们是禁止从建筑物上抛置物质的大家有没有一个疑问为什么要把这个列入我国的民法典呀为什么呢害怕砸到别人了害怕砸到砸到很危险对不对对那有多危险呢我们来做个实验来模拟一下我们就将尺子来模拟建筑物的高度用重物来模拟投掷的物体并用橡皮泥来模拟人好吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide features a blue rectangular box with the text \"§8.2 重力势能\" and a subtitle \"——人教版高中物理必修第二册\" (Renjiao Edition High School Physics Volume 2).\n\n#### 2. **The Title Event**\n- The title \"§8.2 重力势能\" is prominently displayed on the digital screen. The teacher does not physically write this on the board but points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this introduction phase.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to engage with the audience, occasionally pointing towards the screen to highlight the title.\n- The teacher holds a green pointer, which is used to direct attention to the screen content.\n- The teacher moves slightly to the side, maintaining eye contact with the audience, reinforcing the introduction of the topic.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the digital slide \"§8.2 重力势能\" displayed on the screen.\n- The teacher gestures towards the screen, emphasizing the title and initiating the lesson.\n\n**Middle:**\n- The teacher continues to engage with the audience, using hand gestures to maintain focus on the screen content.\n- The teacher occasionally looks at the students, ensuring their attention is directed towards the introduction material.\n\n**End:**\n- The teacher steps back slightly, still pointing towards the screen, reinforcing the topic introduction.\n- The teacher's gestures remain focused on the screen, ensuring the title and introductory content are the focal points.\n\nThis structured approach ensures the visual elements and teacher actions are clearly linked, providing a coherent narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title \"§8.2 重力势能\" within a blue rectangular box, serving as the hook to capture the students' attention. To bridge to the topic, the teacher gestures towards the screen, emphasizing the title and using a green pointer to direct focus. The visual aid remains consistent, with the teacher occasionally pointing to the subtitle \"——人教版高中物理必修第二册\" to establish context. Finally, the visual focus stays on the title displayed on the screen, establishing the lesson goal and setting the stage for the exploration of gravitational potential energy. This introduction links the new topic to the students' existing physics curriculum, preparing them for a deeper dive into the concept.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gravitational Potential Energy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Analogical Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Pendulum Motion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Coulomb's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Gravity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Gravitational Potential Energy",
+        "type": "Visual",
+        "original_text": "§8.2 Gravitational Potential Energy - Renjiao Edition High School Physics Volume 2",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures to Screen",
+        "type": "Visual",
+        "original_text": "Teacher emphasizes the title using hand gestures and a green pointer",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The screen displays the concept of gravitational potential energy."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Pendulum motion is used as an analogy to introduce analogical methods."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Coulomb's law formulation evolves from the principle of gravity."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The concept of acceleration is linked to the understanding of velocity."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to highlight the title slide on the screen."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Analogical methods support the understanding of gravitational potential energy."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Students are directed to focus on the introductory slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

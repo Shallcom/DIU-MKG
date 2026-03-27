@@ -1,0 +1,173 @@
+{
+  "video_name": "49_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Master the method of drawing the sine function graph; understand and apply the five‑point method to plot the sine curve.",
+  "transcript": "[602.6 -> 647.22] 可以跟旁边同学讨论一下很好看到同学们都已经在自己的纸上操作了是不是都跟老师这样取了这样几个点并描述出来了呢那我们接下来来思考我已经把它描点描出来了那我要怎么绘制它的图像呢像我们之前学习二次函数初中的那些函数过程以及高中学的指数函数对数函数描点过后连线好那这几个点是不是不够啊那其实借助我们的信息工具几个画板老师也取了好几个点当然这几个点还是不够由于时间有限我们同学们回去以后还可以操作一下然后我们连接这个线这几个点是不是就可以得到这样一个光滑起伏的曲线那么我们就做出了它在领到二派上的图像是这样子的但接下来我们是要做出这个正弦函数的图像它的定义域是在二派二上的所以我们接下来要如何画出二上的这个正弦函数的图像呢同学们想想看有没有什么想法刚刚有同学已经提供思路了你来试试就是因为它是具有周期性的所以就是就可以继续往下平行周期就是就是接上去就可以非常好庆祝因为它是有周期性的所以其实我在零到二派上的图像跟我在二K派和二二括号K加一派上这个区间上的图像应该是一模一样的对不对这就利用了我们的诱导公式一三X等于三X加上二K派我们就可以再把它左右平移得出一个完整的正弦函数的图像就是这样一个光滑的图像那我们正弦函数的图像就叫做正弦曲线我先研究了Y的一个YX然后X的属于二但是我们首先先把它分割了那我们得到了它的一个定义就是正弦函数的图像这叫做正弦曲线。\n[654.54 -> 688.12] 它是一个很优美的一条曲线接下来我们来复考一下我观察这张图你发现我要取几个点能绘制出这个图像呢我们应该往往有哪些关键点。\n[691.3 -> 779.88] 你来说说它的最高点这个最高点这里有很多个最高点我们就先把它聚焦于零到二派这个区间可不可以那这个对高点就是你想说的是X等于二分之帕这个时候对不对那还有吗X等于零的时候它的对应值也是零还有吗帕的时候也是零还有吗二分之三帕二帕所以他找出了五个点非常好那这个其实就是我们常常所说的五点法通过这五点其实我们就可以绘制出它在这个区间上的一个大致图像然后呢我们就把它左右平移就可以得到它的一个完整图像接下来同学们可以尝试一下用这个五点法来绘制一下我们就取取的是零二分之八派二分之三派和二派这个时候应该是对应的等于一好的我就模拟说课到此结束感谢各位评委老师和同学。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key points written in white chalk.\n   - The layout includes a list of bullet points on the left side of the blackboard, with a diagram drawn on the right side.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key points:\n     - $y = A \\sin(\\omega x + \\varphi)$\n     - \"正弦函数\" (Sine function)\n     - \"或正弦函数区间到正弦曲线\" (Or the interval of the sine function to the sine curve)\n   - The diagram on the right side of the blackboard shows a sine wave with labeled axes and intervals.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the bullet points on the blackboard, emphasizing each one in sequence.\n   - The teacher gestures towards the sine wave diagram, highlighting specific features such as the amplitude and period.\n   - The teacher uses a yellow pointer to trace along the sine wave, illustrating its trajectory and key characteristics.\n\n4. **Transition to Next Step**:\n   - The screen displays additional text and a graph, which may indicate further reading or the next lesson's content.\n   - There is no explicit visual element indicating homework, but the screen content suggests a continuation of the topic with more detailed analysis or examples.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the sine function. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the formula $y = A \\sin(\\omega x + \\varphi)$ and the transition from the sine function interval to the sine curve. The teacher uses a yellow pointer to trace along the sine wave diagram, highlighting its key features. Finally, the visual focus shifts to the screen, which displays additional content, suggesting a continuation of the topic for further study.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sine Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[602.6 -> 647.22]"
+      },
+      {
+        "id": "c2",
+        "label": "$y = A \\, \\sin(\\omega x + \\varphi)$",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[602.6 -> 647.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Five-Point Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[691.3 -> 779.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Amplitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[602.6 -> 647.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Period",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[602.6 -> 647.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Graph Smoothing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[602.6 -> 647.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Interval $[0, 2\\pi]$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.54 -> 688.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Periodic Extension",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[654.54 -> 688.12]"
+      },
+      {
+        "id": "c9",
+        "label": "Inductive Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[654.54 -> 688.12]"
+      },
+      {
+        "id": "c10",
+        "label": "Key Points: $0$, $\\frac{\\pi}{2}$, $\\pi$, $\\frac{3\\pi}{2}$, $2\\pi$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[691.3 -> 779.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of sine wave with labeled axes and intervals.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points",
+        "type": "Visual",
+        "original_text": "Key points: $y = A \\sin(\\omega x + \\varphi)$; Sine function details; Sine interval to curve.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen Additional Text",
+        "type": "Visual",
+        "original_text": "Additional text suggesting further study.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Discussing With Peers",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The formula is emphasized as a key concept on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The diagram visually represents amplitude."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The diagram visually represents period."
+      },
+      {
+        "source": "c3",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "The five-point method defines the key points for plotting."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Periodic extension knowledge is used in the five-point method to extend the graph."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The inductive formula explains periodic extension."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The interval $[0, 2\\pi]$ is part of the domain of the sine function."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The visual transition suggests a continuation of the topic."
+      },
+      {
+        "source": "s1",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Students discuss the key points needed to plot the sine wave."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Graph smoothing is applied to the points within the interval."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

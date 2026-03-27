@@ -1,0 +1,171 @@
+{
+  "video_name": "27_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the basic methods for analyzing object motion trajectories; be able to use mathematical models to describe an object's motion trajectory.",
+  "transcript": "[749.942467 -> 782.46] 那现在我们没法做实验不知道但我们可以利用已有的规律去进行研究进行一个理论的推导那现在呢进行定量研究的第一步我们要建立一个坐标系好之前我们学习直线运动的时候我们知道一般是沿这个物体的做直线运动的方向为正方向建立一个一维的坐标系好那现在蜡块的运动我并不确定它是不是一个直系运动那对于这类运动在一个平面内我们是要建立什么坐标系平面直角坐标系好这里也有对吧好也就是说我现在要建立一个平面直角坐标系所以我们要确定我们的圆点也就是O可以以蜡块去初始的位置好往哪里建立S轴水它方向滑呢水平向右好建立X好往哪里建Y轴竖直向上好我们就建立一个平面直角坐标系那我们要回顾刚刚我们的一个问题是要确定这个蜡块的轨迹到底是什么那转化回到这个坐标系里面其实我们就是要去确定蜡块在这个坐标系中它的位置随时间的一个变化其实也就是它的坐标随时间的一个变化那好现在我假设它水平往右的运动速度无延期向上竖直竖直方向向上匀速运动的速度为VY那好下面我们该怎么样继续探究呢那么我们继续下一步我的模拟收割到此解释。\n[796.52 -> 809.66] 休息了休息了对对对。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains diagrams and text written in white chalk. The layout includes a series of vertical bars and arrows indicating motion or flow, alongside mathematical notations and labels.\n\n2. **Key Knowledge Items (Content View)**:\n   - Diagram: Vertical bars with arrows indicating movement or flow, labeled with $v_1$ and $v_2$.\n   - Text: Phrases in Chinese, including terms related to motion and force, such as \"运动物体的分解\" (decomposition of moving objects) and \"垂直分力\" (vertical component of force).\n   - Mathematical Notation: Arrows and variables indicating direction and velocity components.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the vertical bars and arrows on the blackboard, likely explaining the relationship between different velocity components.\n   - She gestures towards the text, emphasizing key phrases related to motion and force decomposition.\n   - The teacher uses hand movements to trace the direction of arrows, reinforcing the concept of force components.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content on the blackboard.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the decomposition of moving objects. The teacher visually reviews the content by pointing to vertical bars and arrows, emphasizing the direction and velocity components labeled $v_1$ and $v_2$. She traces the arrows, reinforcing the relationship between force components and motion. The visual focus remains on the core concepts, with no explicit homework or next-step instructions visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Motion Trajectories",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Rectangular Coordinate System",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Velocity Components",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Horizontal Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Vertical Velocity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c7",
+        "label": "Decomposition of Motion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c8",
+        "label": "Origin Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "c9",
+        "label": "Concept of Time",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[749.94 -> 782.46]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagrams with arrows indicating movement, labeled with $v_1$ and $v_2$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gesture",
+        "type": "Visual",
+        "original_text": "Teacher points, traces arrows related to motion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Velocity components include horizontal velocity."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Velocity components include vertical velocity."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding motion trajectories requires establishing a coordinate system."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Establishing a coordinate system involves setting a rectangular coordinate system."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The rectangular coordinate system includes identifying the origin point."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Analyzing motion trajectories builds upon decomposition of motion."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Analyzing motion trajectories involves understanding time as a fundamental concept."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagrams on the blackboard visualize concepts of velocity components."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "Blackboard diagrams summarize the decomposition of motion."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the importance of velocity components."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the method of decomposition of motion."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Engaged students interacting with the blackboard summary."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

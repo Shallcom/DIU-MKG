@@ -1,0 +1,166 @@
+{
+  "video_name": "35_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the conversion between electromagnetic waves and sound waves and its application in telephones; master the mechanism by which high‑frequency electromagnetic waves heat food.",
+  "transcript": "[531.0 -> 549.6] 这个过程我们发现它可以加快信息的传递那我们打电话我们的电话是不是可以通过声波传给电话让电话变成电子波。\n[561.0 -> 675.14] 电磁波又可以转换成声波我们通过前面的学习也知道电磁波和声波的波形非常的相似那么我们通过电话这种技术的发展我们就可以将其进行转化好我们再来看这个就是我们刚刚说的还有一个很特殊的作用它能够加热食物诶同学们我们刚刚说电磁波的和赫兹怎么样它是多大我们看到它甚至千赫甚至是万赫非常大我们前面所学声音的时候我们音调的那个频率是不是就是我们的一个赫兹就是它的一个幅度就是这样子的一个情况那我们为什么该加热食物呢我们继续来分析一下加热食物我们说它这个情况我们当时用一个尺子来说它的振动幅度振动的频率很快对不对振动的频率我们当时只是用了一个一百多的一个赫兹它就已经有振动的幅度了那我们想一下一千多的赫兹会是什么样的现象呢它的振动的频率是不是非常的快呢那我们知道食物中是不是有很多的分子呢那这些分子接收到的这些振动它就会运动得很快很快。\n[681.0 -> 698.72] 运动的快会导致什么样的结果很好它的运动的快我们说分子软运动它运动的快它的内能就会增加。\n[704.0 -> 762.46] 内能增加会导致温度升高非常好温度升高很好所以它就能够加热我们的食物这个应用我们一般用什么来加热食物用微波炉来加热食物好这个就是我们用一个微波炉加热的原理它的作用二继续加热室温好那我们最后进行了小结之后我们来布置一下我们的作业我们找到电子播更多的作用好以上就是我全部的文体生活内容谢谢各位评老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen, which lists key points about the uses of electromagnetic waves.\n   - The slide is structured with two main bullet points, each providing a summary of the lesson's content.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following key points:\n     1. 各种科学小知识，介绍电磁波的使用方法及其特点\n     2. 本节课还有哪些地方介绍了电磁波的相关知识\n   - The blackboard includes a diagram of a sine wave and annotations related to electromagnetic waves.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the sine wave diagram on the blackboard, likely summarizing its significance.\n   - The teacher gestures towards the slide, emphasizing the bullet points as they are discussed.\n   - The teacher writes additional notes on the blackboard, such as \"↑↓\" and \"作用快 留问题快,\" reinforcing key concepts visually.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson's content through the slide and blackboard annotations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing two bullet points summarizing the uses of electromagnetic waves. The teacher points to each bullet in sequence, emphasizing the key points about scientific knowledge and the lesson's content. On the blackboard, a sine wave diagram is visible, along with annotations like \"↑↓\" and \"作用快 留问题快,\" which the teacher highlights to reinforce the concepts. The teacher's gestures focus on both the slide and the blackboard, ensuring the core ideas are visually marked. No explicit homework or next-step instructions are visible in the frames provided, keeping the focus on the lesson's summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.0 -> 675.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Sound Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[531.0 -> 549.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Waveform Similarity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.0 -> 675.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Telephone Technology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[531.0 -> 549.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Electromagnetic Heating",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.0 -> 762.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Microwave Oven",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[704.0 -> 762.46]"
+      },
+      {
+        "id": "c7",
+        "label": "Molecular Vibration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.0 -> 762.46]"
+      },
+      {
+        "id": "c8",
+        "label": "Temperature Increase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[681.0 -> 762.46]"
+      },
+      {
+        "id": "c9",
+        "label": "Informational Transmission",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[531.0 -> 549.6]"
+      },
+      {
+        "id": "c10",
+        "label": "Sine Wave Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of a sine wave on the blackboard with annotations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Electromagnetic Wave Slide",
+        "type": "Visual",
+        "original_text": "Slide with bullet points about electromagnetic waves.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "↑↓ Annotations",
+        "type": "Visual",
+        "original_text": "Annotations on the blackboard: '↑↓', '作用快 留问题快'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Describes the transformation of electromagnetic waves into sound waves."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Notes the similarity in waveforms between electromagnetic and sound waves."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Uses technology to facilitate informational transmission."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Describes how microwaves are used to heat food."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Explains how microwave ovens increase the temperature of food."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Molecular vibration leads to an increase in temperature."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The sine wave diagram represents electromagnetic wave properties on the blackboard."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide summarizes uses of electromagnetic waves."
+      },
+      {
+        "source": "c12",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Annotations emphasize key points about electromagnetic waves."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students engage with the concept of electromagnetic waves."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

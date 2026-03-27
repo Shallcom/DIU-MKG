@@ -1,0 +1,165 @@
+{
+  "video_name": "30_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Be able to describe the diode’s operating principle for determining current direction; master the basic conditions under which current is formed in a circuit; learn to analyze how circuit components and their connection methods affect the overall circuit.",
+  "transcript": "[630.0 -> 635.86] 接下来我想请大家再接着完成实验在这里呢我有一个二极管这个二极管它可以判断电流的方向它是怎么判断的呢当电流从它的正极大家注意看正极是这个二极管较长的一个接口当它从正极流入负极流出时这个二极管它就会发光那么如果电流是从它的负极流入而从正极流出的话那么二极管就不能发光通过这个二极管我们可以怎样来判断电流方向呢。\n[638.1 -> 770.0] 如果将二极管接到电路里它是在发光的那么说明电流方向是从它的是的从它的正极进入从负极流出反之则不是通过这样的方式我们就可以来判断电流的方向通过刚刚的学习大家已经知道了电流是什么它的本质是怎样的以及在电路当中的形成条件以及我们如何去判断电流的方向那么电路当中除了电流这个重要的因素以外我们还有很多别的元件其实在刚刚的实验过程中大家也有使用到我们一起来看看比如说我们最开始所使用的电池它是电源它能够提供电能正是因为有电池我们才能有持续不断的电流除此以外还有除了刚刚我们所看到的电池以外实际上我们在生活当中还有许多的电池比如说我们手机所使用的电池以及一些电池箱这些在之后的学习当中大家也会遇到除了电源以外我们刚刚所使用的小灯泡电动机以及风铭机都是用电器加州所使用的各种电器它们也都是有电器还有我们所熟悉的刚刚所使用的开关有了它我们就可以来判我们可以来控制电路的通还是断接下来我们一起来看看如果说连接方式不同电路的情况是怎么样的我的这段教学到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the slide on the screen, titled \"电路的组成\" (Components of a Circuit).\n   - The slide layout includes a list format with bullet points and accompanying images of circuit components.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings visible on the slide are:\n     - \"电源\" (Power Source)\n     - \"电键\" (Switch)\n     - \"用电器\" (Electrical Appliances)\n     - \"开关\" (Switch)\n   - Images of a battery, switch, and electrical components are displayed next to the text.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text \"电源\" (Power Source) and the corresponding image of a battery, emphasizing its role in the circuit.\n   - The teacher gestures towards \"电键\" (Switch) and the switch image, highlighting its function.\n   - The teacher points to \"用电器\" (Electrical Appliances) and the related images, explaining their role in the circuit.\n   - The teacher emphasizes \"开关\" (Switch) by pointing to it, reinforcing its importance in controlling the circuit.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide or blackboard.\n   - The blackboard contains some handwritten notes, but they are not clearly related to the next lesson or assignments.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"电路的组成\" (Components of a Circuit), displaying a list of key components alongside relevant images. The teacher visually reviews the content by pointing to each item in sequence: first to \"电源\" (Power Source) and the battery image, then to \"电键\" (Switch) and its corresponding image, followed by \"用电器\" (Electrical Appliances) with the related components. The teacher emphasizes \"开关\" (Switch) by pointing to it, reinforcing its significance. No visual indication of homework or next steps is present on the slide or blackboard.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Diode",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.0 -> 635.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Current Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[630.0 -> 635.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Positive Terminal",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.0 -> 635.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Negative Terminal",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[630.0 -> 635.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Electrical Energy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.1 -> 770.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Circuit Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[638.1 -> 770.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.1 -> 770.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Switch",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.1 -> 770.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Electrical Appliances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.1 -> 770.0]"
+      },
+      {
+        "id": "c10",
+        "label": "Circuit Control",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[638.1 -> 770.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Components of a Circuit Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Components of a Circuit' with images of circuit components, battery, and switch.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Shows how the diode helps determine current direction."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Identifies the point where current enters the diode."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Identifies the point where current exits the diode."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Battery as an essential source of electrical energy."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Establishes the necessity of electrical energy for circuit formation."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Role of appliances in the formation of electrical circuits."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "The switch controls the circuit's operational state."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Slide visually presents battery as a power source."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Slide visually presents the switch concept."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Slide visually integrates electrical appliances into the circuit concept."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The concept of circuit control engages students with circuit dynamics."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

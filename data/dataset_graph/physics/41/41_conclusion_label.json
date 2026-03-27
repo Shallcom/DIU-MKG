@@ -1,0 +1,139 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "- Be able to describe the phenomenon of wave crests and troughs meeting.  \n- Understand the interference that occurs when two waves of the same frequency intersect.  \n- Analyze how the encounter of crests and troughs influences the shape of the resulting waveform.",
+  "transcript": "[647.6 -> 704.52] 有没有哪个同学有想法了呢我看这位同学你好像有一定的想法跟你讨论得很激烈是吗你能不能代表你们小组来分享一下呢有出现波峰和波谷我们可以尝试从其中一种来分析就我们小组讨论的就是当两列它们就是频率相同了然后它们可能相遇的时候因为它们的那个初始的相位也是相同的所以它们有可能会比如说它们波谷和波峰每次都是波谷和波峰相遇然后它们可能会出现一个削弱然后会出现那个观察上的波谷非常好那波峰是不是同样也是这样啊好我的片段教学到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains diagrams and text written in white chalk. The screen displays a diagram with concentric circles and lines, labeled in Chinese.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**: \n     - Diagram with a rectangular shape and labeled sections.\n     - Text includes phrases like \"一元二次方程\" (quadratic equation) and \"抛物线\" (parabola).\n   - **Screen**: \n     - Diagram with concentric circles and lines, possibly representing a mathematical or physical concept.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, likely emphasizing the diagram and text related to quadratic equations and parabolas.\n   - The teacher occasionally looks at the screen, possibly to reference the diagram displayed.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.\n\nThis structured visual summary highlights the key elements and the teacher's actions in consolidating the lesson's knowledge points.",
+  "visual_narrative": "The lesson concludes with a blackboard and screen displaying key diagrams and concepts. The teacher visually reviews the content by gesturing towards the blackboard's diagram and text related to quadratic equations and parabolas. The screen shows a diagram with concentric circles, which the teacher references. The core takeaway is emphasized through the teacher's focus on the blackboard's main diagram. No visual homework or next-step instructions are present, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wave Crest and Trough",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[647.6 -> 704.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Wave Interference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[647.6 -> 704.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Same Frequency Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[647.6 -> 704.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Crest and Trough Encounter",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[647.6 -> 704.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Waveform Shape Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[647.6 -> 704.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Quadratic Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[650.0 -> 670.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Parabola",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[650.0 -> 670.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Concentric Circles Diagram",
+        "type": "Visual",
+        "original_text": "Diagram representing wave or mathematical concept",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with rectangular shape, labeled sections",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Idea Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The screen diagram helps students visualize wave interference."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard diagram provides a visual representation of quadratic equations."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard highlights parabolas related to quadratic equations."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Same frequency waves engage in crest and trough encounters."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Encounters influence the resultant waveform's shape."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Wave crest and trough interactions are part of interference."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Students discuss crest and trough encounters during group sessions."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm ideas on how encounters influence waveform shape."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

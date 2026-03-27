@@ -1,0 +1,198 @@
+{
+  "video_name": "28_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Identify the major soil types and their distribution in China; understand the primary factors that drive soil formation.",
+  "transcript": "[592.385067 -> 648.84] 还有什么土壤就是它的形成也与温度有关红壤我们知道的对红壤我们云南的红壤是吧大家把这个留作一个课后作业同学们课后可以搜集一下我们中国的一些主要土质我们不是有什么除了红壤还有什么土对还有呢黄壤黄土高原的黄土还有什么呢墨土这应该也是这个老师不太了解我们下面可以把这个留作一个课后作业下节课你来给我们分享一下等一个小老师还有是不是还有青土白土之类的那下节课同学们根据这些土不同土壤的特点了解一下它们是什么原因形成的它们的形成过程又是怎样的下节课我们就来学习其他成土因素本节课我们就上到这里再见。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a large screen displaying a slide with a flowchart and text boxes.\n   - The layout includes a horizontal flowchart at the top with green arrows and text boxes, indicating a process or sequence.\n   - Below the flowchart, there is a text box with a heading and a paragraph of text, alongside a smaller text box with a title and additional text.\n\n2. **Key Knowledge Items (Content View)**:\n   - The flowchart contains the following text (in Chinese):\n     - 特征 (Features)\n     - 评价 (Evaluation)\n     - 成因 (Causes)\n     - 影响 (Impact)\n     - 治理 (Management)\n   - The main heading below the flowchart reads: \"二、成土因素学说（重点）\" (Soil Formation Factor Theory - Key Point).\n   - The text box on the right is titled: \"刘南垣土壤学说\" (Liu Nanyuan Soil Theory).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the flowchart, likely emphasizing the sequence of soil formation factors.\n   - The teacher points to the heading \"成土因素学说（重点）\" to highlight the key topic of the lesson.\n   - The teacher may gesture towards the text box titled \"刘南垣土壤学说\" to draw attention to specific details or theories discussed.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide.\n   - The blackboard to the left has handwritten text, but it is not clearly visible in the frames provided. It may contain additional notes or assignments, but this cannot be confirmed from the images alone.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a flowchart and text boxes summarizing the key points of the lesson. The flowchart at the top features green arrows connecting boxes labeled \"特征,\" \"评价,\" \"成因,\" \"影响,\" and \"治理,\" indicating a structured sequence of soil formation factors. Below, the heading \"二、成土因素学说（重点）\" is prominently displayed, marking the central topic. The teacher gestures towards the flowchart, emphasizing the logical progression of concepts. She points to the heading to highlight its importance, then directs attention to the text box titled \"刘南垣土壤学说,\" underscoring specific theories discussed. No visual homework or next-step instructions are present on the slide, focusing the conclusion solely on the key concepts reviewed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Flowchart on Soil Formation",
+        "type": "Visual",
+        "original_text": "Flowchart showing sequence of soil formation factors: Features, Evaluation, Causes, Impact, Management.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Heading Soil Formation Theory",
+        "type": "Visual",
+        "original_text": "Heading: Soil Formation Factor Theory - Key Point",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Text Box Liu Nanyuan Theory",
+        "type": "Visual",
+        "original_text": "Text box: Liu Nanyuan Soil Theory",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Visual Knowledge Consolidation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c1",
+        "label": "Soil Features",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Soil Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Soil Formation Causes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Soil Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Soil Management",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Red Soil",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c7",
+        "label": "Yellow Soil",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Loess Soil",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c9",
+        "label": "Black Soil",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c10",
+        "label": "Formation Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[592.38 -> 648.84]"
+      },
+      {
+        "id": "c11",
+        "label": "Liu Nanyuan Soil Theory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[592.38 -> 648.84]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The flowchart summarizes various features of soil formation."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The flowchart summarizes the evaluation process in soil science."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The flowchart details the causes leading to soil formation."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The flowchart shows the impacts of various soil types."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The flowchart illustrates soil management processes."
+      },
+      {
+        "source": "c3",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "The causes of soil formation are connected to its formation processes."
+      },
+      {
+        "source": "c11",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The heading highlights the importance of the Liu Nanyuan Soil Theory."
+      },
+      {
+        "source": "v3",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The text box directly visualizes the Liu Nanyuan Soil Theory."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to think about the characteristics of red soil."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to consider yellow soil in their engagement."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Loess soil is a topic for student engagement and thinking."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to explore black soil characteristics."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The evaluation of soil properties includes red soil analysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

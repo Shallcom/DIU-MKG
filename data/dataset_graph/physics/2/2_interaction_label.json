@@ -1,0 +1,133 @@
+{
+  "video_name": "2_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the definition and characteristics of uniformly accelerated linear motion; apply graphical methods to analyze acceleration changes; compute the velocity‑time relationship through formula derivation.",
+  "transcript": "[478.08 -> 487.58] 有没有看到啊它是一条斜线不是一条直线也就是说在这个运动中它的加速度是保持不变的那这个加速度我们来如何计算的来着我们之前学的是啊对我们加速度是等于微比上等于七那请同学们结合这个公式啊变成一个并且结合图像来运用我们之前学习的一个很玄妙神奇的方法是极限思维我们来取其中的一小段会发现无论在哪一个时刻我们选择怎样的时间间隔它所对应的速度变化量都是比值都是相同的这也就是我们所说的加速度保持不变那么根据这样的一个特点我们就可以得出了今天的定义同学们来看是沿着一条直线运动斜线运动抱歉老师的是一条抱歉老师的运动方向是一条直线而它图像是一条斜线那么在这个运动过程中它的加速度是不变的这种运动就叫做原变速直线运动请同学们着重记忆这个定义然后理解它后面我们会应用到同时这个运动我们还可以来进行分类那么我之前就是单纯的来讲直线匀速运动的时候速度会有上升和下降也就是说加速和减速的过程那么匀变速直线运动中物体速度随时间均匀增加时那就是是什么样平加素质性运动而减小时呢非常正确同学们理解了这个概念那接下来我们还再继续来深入地探究一下我们刚才是来探究的用图像法来理解这个概念我们还可以用什么方法呢是不是公式呀公式也可以进行描述我们已经知道了时间间速度变化量为德尔特V是末速度减去初速度对的我们经过推导来老师先写出来这两个关系是时间间隔是等于T速度变化量是德尔特V减去等于V减去V零同学们看看这两个关系这三个式子之间是不是有一些联系啊在加速的关系式里有的低也有的微那我们将它带入好不好经过推导得到什么样的关系式呢同学们在下面自行推导一下。\n[493.12 -> 504.56] 好会发现啊得出了V等于V零加AT其中可以用出速度加速度和时间来表示此时的速度。\n[507.1 -> 589.82] 这回同学们就可以更加深刻理解这个图像了吧好那接下来老师想引给女学生们来深度思考一个问题啊有个问题在这个图像中看它是呈现一个曲线形而非一个斜直的直线了它更加的神奇了对不对同学们想不想来探究这个图像描述的是什么运动啊好我们先来看看速度变化短尺七和短尺六微域之间的关系并不是固定的了对吧而且在相同的时间间隔内它的速度变化量还总是相等的吗不是了对吧那请同学们来自行地思考一下它速度变化量和时间变化量的比值是什么样的情况呢其中有怎样的变化是有一定难度的对不对我看您可以看到呈现曲线时它相同时间间隔内的变化量。\n[595.12 -> 606.92] 子儿头微比上子儿头七十和子儿头微撇比上子儿头七十这两者是不相同的。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive discussion. She also pointed to the graph on the slide, directing students' attention to the visual content.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction is the graph on the slide, which shows a curve representing motion over time. The slide contains two questions in Chinese:\n  1. 速度怎样变化？ (How does speed change?)\n  2. 在相同时间间隔内，速度变化量总是相等吗？ (Is the change in speed always equal in the same time interval?)\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While discussing the graph, the teacher pointed to specific parts of the curve, highlighting areas where the slope changes. She also gestured towards the blackboard, where the formula $a = \\frac{\\Delta v}{\\Delta t}$ is written, reinforcing the connection between the graph and the formula.\n- The teacher used hand gestures to emphasize the concept of uniform acceleration, moving her hand in a manner that mimics the curve's trajectory.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled the formula $a = \\frac{\\Delta v}{\\Delta t}$ on the blackboard, visually confirming its importance in the context of the graph.\n- She also drew a small arrow on the blackboard next to $\\Delta v = v_t - v_0$, indicating the direction of change in velocity.\n- The teacher nodded and smiled, providing non-verbal affirmation as she listened to student responses, and occasionally pointed to the graph to guide the discussion.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher gestures towards the class and the graph, initiating interaction.\n  - Points to the first question on the slide: 速度怎样变化？ (How does speed change?)\n\n- **Middle:**\n  - Teacher traces the curve on the graph with her finger, illustrating changes in speed.\n  - Points to the blackboard formula $a = \\frac{\\Delta v}{\\Delta t}$, linking it to the graph.\n  - Draws an arrow next to $\\Delta v = v_t - v_0$ to highlight velocity change.\n\n- **End:**\n  - Circles the formula $a = \\frac{\\Delta v}{\\Delta t}$ on the blackboard.\n  - Nods and smiles, providing visual feedback to student responses.\n  - Points to the graph again, summarizing the discussion and reinforcing key concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a graph illustrating motion over time, accompanied by two probing questions: 速度怎样变化？ (How does speed change?) and 在相同时间间隔内，速度变化量总是相等吗？ (Is the change in speed always equal in the same time interval?). The teacher began by making a sweeping gesture towards the class, inviting students to engage with the visual content. She pointed directly to the graph, signaling the start of an interactive discussion.\n\nAs the student began to explain their reasoning, the teacher moved to the blackboard, where the formula $a = \\frac{\\Delta v}{\\Delta t}$ was written. She traced the curve on the graph with her finger, emphasizing areas where the slope changes, and simultaneously pointed to the formula, reinforcing the connection between the visual data and the mathematical expression. The teacher's gestures mimicked the trajectory of the curve, helping students visualize the concept of uniform acceleration.\n\nWhile the student elaborated on their thoughts, the teacher walked over to the board and drew a small arrow next to $\\Delta v = v_t - v_0$, highlighting the direction of velocity change. She nodded and smiled, providing non-verbal encouragement and occasionally pointing to the graph to guide the discussion. The teacher's movements between the slide and the blackboard created a dynamic link between the visual representation and the theoretical concept.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the formula $a = \\frac{\\Delta v}{\\Delta t}$ on the blackboard. She then drew an arrow connecting the circled formula back to the graph, illustrating how the mathematical expression directly relates to the visual data. This visual confirmation helped solidify the student's understanding and reinforced the core lesson content.\n\nFinally, the teacher summarized the discussion by pointing to both the graph and the formula, ensuring that students could see the interconnectedness of the concepts. Through her gestures and visual cues, the teacher facilitated a transition from passive reception of knowledge to active construction, enabling students to internalize the principles of uniform acceleration and apply them to the graphical data presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Uniform Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[478.08 -> 487.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Acceleration Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[478.08 -> 589.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Velocity Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[507.1 -> 589.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Velocity-Time Relation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[493.12 -> 504.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Graphical Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[478.08 -> 606.92]"
+      },
+      {
+        "id": "c6",
+        "label": "Limit Thinking",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[478.08 -> 589.82]"
+      },
+      {
+        "id": "c7",
+        "label": "$a = \\frac{\\Delta v}{\\Delta t}$",
+        "type": "Visual",
+        "original_text": "Acceleration formula on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "$\\Delta v = v_t - v_0$",
+        "type": "Visual",
+        "original_text": "Velocity change formula on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Motion Curve Graph",
+        "type": "Visual",
+        "original_text": "Graph showing motion over time with curve",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Teacher uses the graph to illustrate uniform acceleration."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Teacher reinforces the acceleration formula with visual support."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "scaffolds",
+        "intent": "Teacher highlights the velocity change formula visually."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Discusses how velocity changes relate to the principle of uniform acceleration."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Graphical methods are used to analyze velocity-time relationships."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Limit thinking as a method within graphical analysis."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "The formula summarizes key concepts illustrated on the graph."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Students engage with the motion curve graph during discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

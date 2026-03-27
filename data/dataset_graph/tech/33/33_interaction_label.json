@@ -1,0 +1,152 @@
+{
+  "video_name": "33_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "Understand methods for analyzing tabular data; be able to analyze blood‑type transfusion relationships by integrating information from textbook tables.",
+  "transcript": "[470.66 -> 474.54] 同学们可以结合书本上第七十页的表格。\n[477.36 -> 582.04] 同学们发现了什么可以输同性学是不是每一个人都可以输自己的同性学同学们再发现一下还有没有别的问题可以吧你们两个发现了什么就是他非常的厉害是不是非常好这么仔细好了看来同学们都已经讨论得差不多了我们来找一个小组来汇报一下吧我们来找一个小就像说一下我们来一起来看吧这个A型血可以接受谁的血呢和O型BO型AB那么O型的它只能接受AO型血同学们看一下这个AB它怎么样都可以接受好厉害呀是不是所以我们把这种血型称为万能爱受血型我们再看A型血可以输给谁呢B可以输给AB却只能输给那O呢都可以它太伟大了那谁都能给输血是不是所以我们把这种血型称为万能爱受血型我们再看A型血可以接可以输给谁呢AB可以输给AB却只能输给那O呢都可以它太伟大了那谁都能给输血是不是所以我们把这种血型称为万能爱受血型那O呢都可以它太伟大了那谁都能给输血是不是所以我们把这种血型称为万能爱受血型那O呢都可以它太伟大了那谁都能给输血是不是所以我们把这种血型称为万能爱受血型那O呢都可以它太伟大了那谁都能给输血是不是所以我们把这种血型称为万能爱受血型我把O型血叫做万能输血系那么这个有了这个输血和受血我们就可以随意地去输血了吗是不可以的是不是我们要在一定范围内进行安全的输血。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the blood type classification diagram displayed on the screen. The diagram included the ABO blood types and universal donor/recipient information, with specific areas highlighted in pink.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher pointed directly to the diagram on the screen, emphasizing the relationships between different blood types. She used hand gestures to trace the flow of information, such as indicating the universal donor and recipient types.\n- The teacher also held papers, possibly containing additional information or questions, which she referred to while speaking, providing structured guidance.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher wrote on the blackboard, adding the text \"安全输血\" (safe blood transfusion) and began to list compatible blood types, starting with \"A型\" (Type A). This action visually confirmed the information being discussed and provided a clear reference for students.\n- She used the pointer to highlight specific areas on the screen, ensuring students' attention was directed to key parts of the diagram as she elaborated on the concepts.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands near the blackboard and screen, pointing to the diagram on the screen that shows ABO blood types.\n  - She uses hand gestures to explain the universal donor and recipient, tracing the connections visually.\n\n- **Middle:**\n  - The teacher writes \"安全输血\" on the blackboard, indicating a shift to discussing safe blood transfusion practices.\n  - She begins listing blood types on the board, starting with \"A型,\" visually reinforcing the lecture content.\n\n- **End:**\n  - The teacher continues to write on the blackboard, elaborating on transfusion compatibility.\n  - She uses the pointer to direct attention to specific parts of the diagram, ensuring clarity and engagement.\n\nThis structured approach ensures that visual elements are effectively used to guide and reinforce the learning process, linking gestures and board content seamlessly.",
+  "visual_narrative": "Initially, the bulletin board showed the blood type classification diagram, highlighting ABO types and universal donor/recipient information. The teacher began by gesturing broadly towards the class, inviting participation in the discussion on safe blood transfusions. \n\nThen, the teacher gave a lecture, using hand gestures to trace the relationships between different blood types on the screen. She pointed to the diagram, emphasizing key connections and holding papers to guide the explanation. As she spoke, she moved to the blackboard, writing \"安全输血\" and starting to list compatible blood types, beginning with \"A型.\"\n\nFinally, she went around the classroom, using the pointer to highlight specific areas on the screen while elaborating on transfusion compatibility. To validate the information, she circled key points on the board and screen, ensuring clarity. \n\nThis process helped students move from passively receiving knowledge to actively constructing their own understanding by linking the visual elements on the board and screen to the core lesson content, reinforcing the practical application of blood type compatibility in transfusions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Blood Types",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[470.66 -> 474.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Safe Blood Transfusion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Universal Donor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Universal Recipient",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Type A Blood",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Type O Blood",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Type B Blood",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Type AB Blood",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[477.36 -> 582.04]"
+      },
+      {
+        "id": "c9",
+        "label": "Compatibility Chart",
+        "type": "Visual",
+        "original_text": "Blood type classification diagram with ABO types and universal donor/recipient information",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "安全输血",
+        "type": "Visual",
+        "original_text": "safety in blood transfusion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding different blood types is essential for applying safe transfusion practices."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The diagram highlights the universal donor information for understanding."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The diagram highlights the universal recipient information for understanding."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Type A blood is part of the broader blood type classification."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Type O blood is part of the broader blood type classification."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Type B blood is part of the broader blood type classification."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Type AB blood is part of the broader blood type classification."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "The teacher refers to Type A blood while discussing safe transfusion."
+      },
+      {
+        "source": "c11",
+        "target": "c2",
+        "relation": "guides_discussion",
+        "intent": "Students remain engaged during the explanation of safe blood transfusions."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "The teacher summarizes key points about safe transfusions while writing on the board."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

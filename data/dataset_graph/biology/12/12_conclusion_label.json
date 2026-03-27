@@ -1,0 +1,146 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the phenomenon and patterns of segregation of paired genetic factors during self‑crossing; be able to analyze the reasons for the formation of trait segregation ratios and the underlying genetic mechanisms.",
+  "transcript": "[670.16 -> 680.92] 请同学们仔细阅读十二页十三页首先我们再次回到我们刚才的说法大儿大儿陈姨大儿小儿产生了杂合的高静高静呢在进行自交出现了高静比矮静三比一的性状分离比\n[682.46 -> 691.22] 首先性状分离它们的遗传因子是成对的还是成单的呀成对出现的\n[692.84 -> 742.06] 然后呢它的性状是由遗传因子决定然后在形成生殖细胞配子的过程中分离了没有分离了并且一串分离然后分别进入到不同的配子中然后最后一个问题受精时雌雄配子的结合是你看它又可以和它的大儿结合也可以和小儿结合由此说明受精时雌雄配子的结合是随机的那什么我们已经解释了什么是分离现象那分离现象会给人类带来什么样的影响呢如果它出现在了人类的遗传病中又会有怎样的症状呢\n[743.88 -> 752.74] 请这两个问题留给同学们课后进行思考我们下个片段继续我的教学片段展示结束谢谢大家\n[757.8 -> 761.44]",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with bullet points and diagrams.\n   - The slide is titled \"什么是分子轨道理论？\" (What is Molecular Orbital Theory?).\n   - It includes diagrams of molecular orbitals with labels and bullet points in Chinese.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains several bullet points:\n     1. 分子轨道理论的基本概念。\n     2. 分子轨道的形成过程。\n     3. 分子轨道能级图的绘制。\n     4. 分子轨道理论的应用。\n   - Diagrams illustrate molecular orbital configurations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the diagrams on the slide, likely explaining each molecular orbital configuration.\n   - She points to the bullet points, emphasizing key concepts such as the formation process and applications of molecular orbital theory.\n   - The teacher uses hand movements to trace the layout of the molecular orbitals, highlighting their structure and significance.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition slides visible.\n\nThis structured visual summary consolidates the lesson's key points, with the teacher's gestures reinforcing the content displayed on the slide.",
+  "visual_narrative": "The lesson concludes with a slide titled \"什么是分子轨道理论？\" featuring bullet points and molecular orbital diagrams. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the formation process and applications of molecular orbital theory. She gestures towards the diagrams, highlighting their structure and significance. The visual focus remains on the summary slide, with no explicit transition to homework or next steps visible. This structured review reinforces the core concepts of molecular orbital theory as the session ends.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Paired Genetic Factors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[670.16 -> 680.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Trait Segregation Ratios",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[670.16 -> 680.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Underlying Genetic Mechanisms",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[670.16 -> 680.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Self-Crossing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[670.16 -> 680.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Genetic Factor Pairing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[682.46 -> 691.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Formation of Reproductive Cells",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[692.84 -> 742.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Random Fertilization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[692.84 -> 742.06]"
+      },
+      {
+        "id": "c8",
+        "label": "Effects on Human Genetic Disorders",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[692.84 -> 742.06]"
+      },
+      {
+        "id": "v1",
+        "label": "Molecular Orbital Theory Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'What is Molecular Orbital Theory?' displaying diagrams and bullet points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Molecular Orbital Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams illustrating molecular orbital configurations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Homework Assignment",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "s2",
+        "label": "Lesson Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Paired genetic factors are foundational to understanding trait segregation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Self-crossing involves the pairing of genetic factors."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Trait segregation ratios arise from underlying genetic mechanisms."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Formation of reproductive cells involves pairing and segregation of genetic factors."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Random fertilization occurs during the formation of reproductive cells."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Homework involves questioning the genetic mechanisms that affect human disorders."
+      },
+      {
+        "source": "s2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Engagement with the lesson visuals enhances understanding of molecular orbital theory."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "The slide contains diagrams that explain molecular orbital configurations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

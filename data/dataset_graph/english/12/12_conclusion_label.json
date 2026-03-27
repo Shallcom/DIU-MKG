@@ -1,0 +1,148 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "- Be able to recognize and name different countries and their basic characteristics.  \n- Describe a country's history and cultural features.  \n- Apply the learned knowledge in real‑world contexts to introduce tourist attractions.",
+  "transcript": "[561.43587525 -> 584.04] 我们可以说它在秦兰的城市里面建造了一座秦兰的城堡所以这就是我们今天要学的东西吧我的帕斯特帕迪斯特斯其实我给你我们也可以说他们在秦皇帝国里有秦皇帝国的宫殿宫殿有什么想法艾特比尔和康佩曼对吗我们可以把短变成短的谁想选择好吗那没关系的我们给你举个例子英国和东南岸的国际王国有一个短的名字欧洲的王国是吗你明白吗是的现在我们来到下一个部分你记住了吗是什么状态是的状态所以什么是英国的状态歌曲歌曲歌想介绍一下吗。\n[588.32 -> 606.92] 对想试试吗很困难的问题。\n[616.18 -> 625.5] 你可以看我们想去访问英国的故郷吧是的您想有选择吗请说大声说吧。\n[628.04 -> 748.56] 整个句子吧我们使用这个来介绍很多国家很棒很棒的男孩们女孩们我们已经学会了名字的状态和历史现在请作为旅游指导请介绍英国的旅游旅游者谁想要参与你可以举办奖励一分钟所以男孩们好吗现在这个问题可以用来谈谈后来再次介绍英国。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard screen.\n   - The screen displays a task prompt: \"As a tour guide, please introduce the UK to your tourists (name, status, history)\" on an orange background.\n   - The blackboard behind the teacher contains handwritten notes, including a diagram with \"-ed\" suffix examples and phrases like \"specialized name\" and \"known as...\"\n\n2. **Key Knowledge Items (Content View)**:\n   - On the screen: \"As a tour guide, please introduce the UK to your tourists (name, status, history)\"\n   - On the blackboard: \n     - \"-ed\" suffix examples: \"the most satisfied,\" \"plus satisfied,\" \"complimented\"\n     - Phrases: \"specialized name,\" \"known as...,\" \"head...,\" \"bull\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the screen, emphasizing the task prompt about introducing the UK.\n   - She points to the \"-ed\" suffix examples on the blackboard, likely reviewing their usage in context.\n   - The teacher uses hand movements to highlight the structure of the task, possibly indicating the importance of each component (name, status, history).\n\n4. **Transition to Next Step**:\n   - The screen does not display any explicit homework or next lesson information.\n   - The focus remains on the task prompt, suggesting the next step involves students engaging with the activity described.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the interactive whiteboard displaying a task prompt: \"As a tour guide, please introduce the UK to your tourists (name, status, history)\" on an orange background. The teacher gestures towards this prompt, emphasizing its components. She then turns to the blackboard, pointing to the \"-ed\" suffix examples and related phrases, such as \"the most satisfied\" and \"specialized name.\" Her movements suggest a review of these key points, linking them to the task at hand. The teacher's gestures focus on the structure of the task, highlighting the importance of each element. No explicit homework or next-step instructions are visible, leaving the focus on the task prompt as the primary takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "UK Name",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[628.04 -> 748.56]"
+      },
+      {
+        "id": "c2",
+        "label": "UK Status",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[628.04 -> 748.56]"
+      },
+      {
+        "id": "c3",
+        "label": "UK History",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[616.18 -> 625.5]"
+      },
+      {
+        "id": "c4",
+        "label": "UK Tourist Attractions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[616.18 -> 625.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Specialized Name",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.43 -> 584.04]"
+      },
+      {
+        "id": "c6",
+        "label": "-ed Suffix Examples",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[561.43 -> 584.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Known As",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.43 -> 584.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Head",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.43 -> 584.04]"
+      },
+      {
+        "id": "c9",
+        "label": "Bull",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[561.43 -> 584.04]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard Task Prompt",
+        "type": "Visual",
+        "original_text": "As a tour guide, introduce the UK to your tourists.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard -ed Suffix Examples",
+        "type": "Visual",
+        "original_text": "\"-ed\" suffix examples: \"the most satisfied,\" \"plus satisfied,\" \"complimented.\"",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Task Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[628.04 -> 748.56]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The task prompt is visually displayed, emphasizing the name component."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The task prompt is visually displayed, emphasizing the status component."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The task prompt is visually displayed, emphasizing the history component."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard displays visual examples of suffix usage."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Specialized names include 'known as' examples."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "The concept of 'head' includes various contexts, like 'bull.'"
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The visual task prompt engages students in the task."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding '-ed' suffixes aids in constructing historical descriptions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

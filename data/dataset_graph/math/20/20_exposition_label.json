@@ -1,0 +1,127 @@
+{
+  "video_name": "20_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the basic principle of how points represent a straight line in the Cartesian coordinate system; master the geometric elements involved in determining a line from two points; learn how to calculate the slope of a line based on two points.",
+  "transcript": "[171.0 -> 228.58] 好接下来开始我的模拟上课同学们我们知道点是构成直线的一个基本元素那在平面直角坐标系中我们可以用坐标来表示一个点那我们如何用坐标来表示一条直线呢是吗这位同学有想法吗用方程来表示就是横坐标横坐针对应到就是找出他们的横坐标来表示这个点然后由点来表示这条直线对吗好请坐谢谢那接下来那我们就要来探究这个过程。\n[231.44 -> 235.56] 我们就要来学习第二章第一节的第一课是。\n[242.62 -> 291.0] 傾斜角和斜率那接下来请同学们来思考一下这个问题确定一条直线的几何要素具有什么呢我们请这个同学来回答一下两个点可以确定一条直线非常好两个点可以确定一条直线那一你还你那么老师这里呢标出了两个点A点和B点那这位同学可以利用这两个点来做出一条直线吗请你上台画一下我可以把这两条线连起来然后这样就是一条直线连接两来确定一条直线非常好谢谢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a large screen displaying Chinese text. The screen reads: \"立足教材的编写特点, 立足于学生的认知特点, 可以将例题拓展, 延伸, 例题的变式与拓展.\"\n- The teacher gestures towards the screen, emphasizing the text content.\n- The chalkboard is initially blank except for some colored chalk pieces on the side.\n\n**Middle:**\n- The teacher writes \"2.1.1 倾斜角与斜率\" on the chalkboard, mirroring the text that appears on the screen.\n- The teacher uses hand gestures to explain the concept, pointing to the written text on the board.\n- The screen transitions to a diagram with a coordinate plane and a line, labeled with \"倾斜角\" (angle of inclination) and \"斜率\" (slope).\n\n**End:**\n- The teacher draws a small diagram on the chalkboard, corresponding to the one on the screen.\n- The teacher uses a pointer to highlight specific parts of the diagram on the screen, such as the angle and the line.\n- The teacher writes additional notes on the board, likely explaining the relationship between the angle and slope.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the diagram on the screen, showing a coordinate plane with a line and labeled angles. The initial state includes:\n     - A right-angled triangle formed by the line and the x-axis.\n     - Labels indicating \"倾斜角\" (angle of inclination) and \"斜率\" (slope).\n     - Axes labeled with \"x\" and \"y.\"\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:**\n     - The teacher writes \"2.1.1 倾斜角与斜率\" on the chalkboard.\n     - The teacher draws a similar diagram on the board, replicating the screen's content.\n     - Additional notes are added to explain the concepts, likely including formulas or definitions.\n   - **Modifications:**\n     - The teacher may adjust the diagram on the board to better illustrate points during the explanation.\n   - **Deictic Gestures:**\n     - The teacher points to the angle on the screen diagram while explaining its significance.\n     - The teacher gestures towards the slope of the line, emphasizing its relation to the angle.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses different colors of chalk to distinguish between the angle and slope on the board.\n   - Important terms like \"倾斜角\" and \"斜率\" are written more prominently or circled.\n   - The teacher may use a pointer to highlight specific parts of the screen diagram, drawing attention to key elements.\n\n**Chronological Log of Visual Events:**\n\n1. **Initial Setup:**\n   - Screen displays introductory text.\n   - Chalkboard is mostly blank.\n\n2. **Writing on Chalkboard:**\n   - Teacher writes \"2.1.1 倾斜角与斜率.\"\n   - Screen updates to show the same title.\n\n3. **Diagram Introduction:**\n   - Screen transitions to a coordinate plane diagram.\n   - Teacher draws a similar diagram on the board.\n\n4. **Explanation and Annotations:**\n   - Teacher points to the angle on the screen.\n   - Additional notes are added to the board, possibly including formulas like $m = \\tan(\\theta)$.\n\n5. **Emphasis and Review:**\n   - Teacher uses color coding and circling to highlight key terms.\n   - Final review of the diagram, ensuring all elements are clearly explained.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed introductory text emphasizing the importance of understanding the textbook's structure and students' cognitive features. The screen displayed: \"立足教材的编写特点, 立足于学生的认知特点, 可以将例题拓展, 延伸, 例题的变式与拓展.\" The teacher began by writing \"2.1.1 倾斜角与斜率\" on the chalkboard, mirroring the screen's transition to the same title. \n\nThen, the teacher gave a lecture, constructing a coordinate plane diagram on the board that matched the screen's visual. The teacher derived the relationship between the angle of inclination and slope, drawing a line and labeling the angle as \"倾斜角\" and the slope as \"斜率.\" The teacher traced the rising slope of the line to illustrate the increasing trend and used hand gestures to emphasize key points, such as pointing to the angle to explain its significance.\n\nFinally, the teacher annotated the diagram with additional notes, likely including the formula $m = \\tan(\\theta),$ and used different colors to highlight important terms. The teacher circled the final formula on the board, aligning visual emphasis with the conclusion. Throughout the process, the teacher's use of diagrams and color coding on the board, coupled with the screen's static visual anchor, worked synergistically to reduce cognitive load, making complex concepts more accessible and reinforcing understanding through visual and verbal synchronization.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cartesian Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[171.0 -> 228.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Line Representation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[171.0 -> 228.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Angle of Inclination",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[231.44 -> 235.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Slope",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[242.62 -> 291.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Two Points Form Line",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[242.62 -> 291.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Coordinate Plane Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of plane with line showing angle and slope",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Written Equation m = tan(θ)",
+        "type": "Visual",
+        "original_text": "Equation showing relationship of slope to angle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[242.62 -> 291.0]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Drawing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[242.62 -> 291.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Explains how coordinates can represent linear elements."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The slope is derived from understanding the angle of inclination."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Abstract concept includes determining line from points."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Equation defining slope shown on board."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Student engages with principle by suggesting how points form a line."
+      },
+      {
+        "source": "s2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Student replicates diagram on board, demonstrating engagement."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Diagram highlights angle of inclination."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Diagram highlights slope relationship."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

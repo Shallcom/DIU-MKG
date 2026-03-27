@@ -1,0 +1,133 @@
+{
+  "video_name": "29_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "To recognize the basic concepts of information technology and their applications in daily life; to understand the process of converting everyday examples into abstract concepts.",
+  "transcript": "[0.0 -> 79.6] 并以及有关于物理的一些知识有一些感性认识但是呢还是停留在感性阶段比如物态变化中的融化注意的方向会总是认为纯属于接触面上还有一些对弹力的概念等等这些理解呢会处于感性阶段以及潜概念会有一些影响那第二个就是物理概念有一些过于抽象的这些理解呢比如电学当中的电功率等概念过于抽象我们在教学过程中应该化抽象为具体用生活中的例子来使知识更加的浅显易懂并且落实从生活走向物理从物理走向社会的课程一列以上就是我的机器演讲内容。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen, which reads \"第四节 变阻器\" (Section 4: Variable Resistor).\n\n#### 2. **The Title Event**\n- The title on the screen is \"第四节 变阻器\" (Section 4: Variable Resistor). The teacher stands beside the screen, indicating the title without additional gestures like underlining.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher stands at the podium, facing the students, with no specific gestures noted towards the board or screen in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen indicating the 10th National Contest of Teaching Skills for Teacher College Students.\n- Transition to the classroom setting where the teacher stands at the podium.\n\n**Middle:**\n- The teacher is positioned in front of a green chalkboard and a digital screen displaying the title \"第四节 变阻器\" (Section 4: Variable Resistor).\n- The screen shows a presentation slide with a red header and navigation pane on the left.\n- The teacher remains stationary, facing the students, with no specific gestures towards the content.\n\n**End:**\n- The scene remains consistent with the teacher at the podium, the title slide on the screen, and students seated facing the teacher.\n- No changes in visual content or teacher gestures are observed.\n\nThis structured visual analysis captures the introduction phase, focusing on the static elements and the teacher's presence without dynamic gestures or additional content changes.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the podium in a classroom setting, with a digital screen prominently displaying the title \"第四节 变阻器\" (Section 4: Variable Resistor). This title serves as the hook, immediately focusing the students' attention on the topic of variable resistors. The teacher remains stationary, facing the students, suggesting a moment of anticipation or transition into the lesson. The screen's red header and navigation pane indicate a structured presentation, though no further slides or content changes are observed in this segment. The green chalkboard beside the screen remains blank, emphasizing the digital content as the primary visual aid. The teacher's lack of gestures or movement implies a pause, possibly to allow students to settle or to prepare for the forthcoming explanation. This setup creates a clear visual bridge from the hook to the main topic, establishing the foundation for exploring variable resistors. The introduction effectively links the new concept to the structured format of the presentation, setting the stage for a detailed exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Variable Resistor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Electrical Power",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Melting",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Elastic Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Physics Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Abstract Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Physical to Abstract",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 79.6]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Section 4: Variable Resistor",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Red Header Slide",
+        "type": "Visual",
+        "original_text": "Presentation slide with red header and navigation pane",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The concept of a variable resistor contributes to the understanding of electrical power."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Physics concepts often include abstract concepts that need clarification."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Melting is a specific example that feeds into broader physics concepts."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Elastic force is a specific principle within general physics concepts."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The process of converting physical examples to abstract concepts helps clarify understanding."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The title slide visualizes the concept of variable resistors to focus attention on the topic."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The presentation slide emphasizes the introduction of the concept of variable resistors."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The introduction of variable resistors engages students' observation and thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

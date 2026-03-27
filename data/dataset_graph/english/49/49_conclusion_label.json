@@ -1,0 +1,132 @@
+{
+  "video_name": "49_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Develop students' ability to describe personal items in English.",
+  "transcript": "[702.76 -> 764.1] AndThenYesTheReasonsAndTheLastOneExpressYoursYesOkaySoNowPleaseWorkInYourGroup然后你自己写写信用卡根据你的思维和思想的角度写写一张照片关于他还是她的照片好吗好吗好的非常感激。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which features a diagram labeled \"Use: Symbols and Writing.\" \n   - The diagram includes a central box labeled \"WELCOME\" with arrows pointing to sticky notes and a larger box labeled \"Functions\" with subcategories \"Situational Reason\" and \"Express.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"Use: Symbols and Writing,\" \"WELCOME,\" \"Functions,\" \"Situational Reason,\" \"Express.\"\n   - Sticky notes with various symbols and phrases are attached around the \"WELCOME\" box.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"WELCOME\" box, emphasizing its central role in the diagram.\n   - She gestures towards the sticky notes, likely reviewing their relevance to the \"WELCOME\" function.\n   - The teacher then points to the \"Functions\" box, highlighting the subcategories \"Situational Reason\" and \"Express.\"\n   - She uses hand gestures to connect the sticky notes to the functions, reinforcing their relationship.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide titled \"Writing time (group work)\" with instructions: \"This poster must express thankfulness most clearly. Because (...). (Your name). Express your thankfulness.\"\n   - This slide suggests a group activity related to the lesson content, indicating the next step for students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a diagram titled \"Use: Symbols and Writing,\" featuring a central \"WELCOME\" box connected to various sticky notes and a \"Functions\" box with subcategories \"Situational Reason\" and \"Express.\" The teacher visually reviews the content by pointing to the \"WELCOME\" box, emphasizing its significance, and then gestures towards the surrounding sticky notes, linking them to the central theme. She moves to the \"Functions\" box, highlighting the subcategories, and uses hand gestures to illustrate the connections between the sticky notes and these functions. To mark the core takeaway, she likely emphasizes the central role of the \"WELCOME\" box in the diagram. The screen also shows a slide titled \"Writing time (group work),\" indicating the next task for students, which involves creating a poster to express thankfulness.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "WELCOME Box",
+        "type": "Visual",
+        "original_text": "Central WELCOME box in diagram",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Functions Box",
+        "type": "Visual",
+        "original_text": "Box labeled Functions with subcategories",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Sticky Notes",
+        "type": "Visual",
+        "original_text": "Sticky notes around WELCOME box",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Writing Time Slide",
+        "type": "Visual",
+        "original_text": "Slide titled Writing time (group work)",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Symbols and Writing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.76 -> 764.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Situational Reason",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.76 -> 764.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Express",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[702.76 -> 764.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Express Thankfulness",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[702.76 -> 764.1]"
+      },
+      {
+        "id": "s1",
+        "label": "Group Work",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "s2",
+        "label": "Writing Exercise",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The principle of using symbols and writing is centralized around the WELCOME box."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The Functions box illustrates the principle of symbols and writing."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Sticky notes provide detailed examples of symbols around the central theme."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "WELCOME box encompasses situational reason as a subcategory."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "WELCOME box encompasses express as a subcategory."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Expressing thankfulness is the goal of the writing time group activity."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Group work activity encourages students to think creatively about expressing thankfulness."
+      },
+      {
+        "source": "s1",
+        "target": "s2",
+        "relation": "builds_upon",
+        "intent": "Students transition from brainstorming ideas in group work to actively engaging in writing exercises."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "10_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Understand the different peoples and their impacts in English history; analyze the contributions of the Romans, Anglo‑Saxons, and Norse to England; summarize the key phases of Britain’s historical development.",
+  "transcript": "[635.2 -> 636.62] Yes. Oh, the first。\n[638.16 -> 649.34] Yes. And then the arrived in the first century。\n[652.92 -> 666.66] Yes. And then the And also the names of the.。\n[669.26 -> 680.9] And the last, the Norse conquered England and they built all around England and they changed it to a bigger system.。\n[683.26 -> 689.22] Yes. Very efficient. And how about the last one is?\n[690.54 -> 696.88] And as we all know,\n[696.88 -> 733.12] as we can know that during your effective reading that we can know this information is about a different like this is Viking right the different groups are joined in this content and every many things are changing like the language legal system and buildings infrastructures like this And this is the last paragraph. This is about a conclusion part of our passage today. And it is a conclusion part to what has going on with the United Kingdom. And as we have already finished,\n[733.58 -> 739.68] we are going to have a brainstorming after this class. And if you are interested in this lesson,\n[739.74 -> 747.64] you can find out more interesting places. Looking forward to see you again. Thank you. Thank you.。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the heading \"What's in a Name\" and several subtopics.\n   - The layout includes a list under \"When\" and \"What replaced,\" with names and terms written vertically. There is also a Venn diagram with categories \"Clan,\" \"Job,\" \"English,\" \"Latin,\" and \"Greek.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Heading: \"What's in a Name\"\n   - Subtopics:\n     - \"When\": \"1st,\" \"5th,\" \"Ben\"\n     - \"What replaced\": \"Sarcasm,\" \"Aylor-Kin,\" \"HHL,\" \"Rivers\"\n     - Venn Diagram: \"Clan,\" \"Job,\" \"English,\" \"Latin,\" \"Greek\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the list under \"When\" and \"What replaced,\" highlighting each term as she explains.\n   - She gestures towards the Venn diagram, emphasizing the connections between \"Clan,\" \"Job,\" and the languages \"English,\" \"Latin,\" and \"Greek.\"\n   - The teacher circles the term \"Viking\" on the blackboard, linking it to the discussion of replacements.\n\n4. **Transition to Next Step**:\n   - The screen transitions to a slide titled \"Post-reading thinking\" with the question \"Don't call us 'English man'?\" and a list of names: \"Benjamin,\" \"Christopher,\" \"Elizabeth,\" \"Jonathan,\" \"Victoria.\"\n   - This indicates a shift to a reflective or discussion activity, possibly setting up for further analysis or homework related to name origins and cultural implications.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying the heading \"What's in a Name,\" accompanied by a structured list and a Venn diagram. The teacher visually reviews the content by pointing to each item under \"When\" and \"What replaced,\" ensuring each term like \"1st,\" \"5th,\" \"Ben,\" \"Sarcasm,\" and \"Aylor-Kin\" is highlighted. She then directs attention to the Venn diagram, tracing connections between \"Clan,\" \"Job,\" and the languages \"English,\" \"Latin,\" and \"Greek.\" A particular emphasis is placed on the term \"Viking,\" which she circles to underscore its significance. Transitioning to the next phase, the screen shifts to a slide titled \"Post-reading thinking,\" featuring a list of names for further discussion, indicating the next task for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Roman Arrival",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[638.16 -> 649.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Anglo-Saxon Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.26 -> 680.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Norse Conquest",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.26 -> 680.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Language Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.88 -> 733.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Legal System Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[669.26 -> 680.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Infrastructure Building",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.88 -> 733.12]"
+      },
+      {
+        "id": "c7",
+        "label": "Viking Influence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[696.88 -> 733.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Final Summary",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[733.58 -> 739.68]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Heading 'What's in a Name'; list 'When', 'What replaced'; Venn diagram with 'Clan', 'Job', 'English', 'Latin', 'Greek'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Post-reading Slide",
+        "type": "Visual",
+        "original_text": "Slide 'Post-reading thinking'; list 'Benjamin', 'Christopher', 'Elizabeth', 'Jonathan', 'Victoria'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Brainstorming Session",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The arrival of Romans in England is represented visually on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The impact of Anglo-Saxons is summarized on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The Norse conquest is emphasized through visual elements on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Language changes are highlighted through the Venn diagram on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Legal system development is underlined in the blackboard summary."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Infrastructure building is contextualized in the visual summary."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Viking influence is marked visually on the blackboard."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The final lesson summary is captured on the blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The post-reading slide incites brainstorming for name origins."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

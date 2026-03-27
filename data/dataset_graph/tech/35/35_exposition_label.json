@@ -1,0 +1,139 @@
+{
+  "video_name": "35_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Analyze the relationship between the conditions for sound propagation and the medium.",
+  "transcript": "[118.18 -> 141.66] 那么不仅仅是作为一名科学老师我认为在课堂上不应以科学探究为主要的目的应该让学生在实验中发泄其中的乐趣从而达到要我学到我要学的过程以上就是我的即兴演讲谢谢各位评论老师。\n[143.0 -> 169.78] 下面是我的模拟授课环节同学们好通过前面的学习我们已经掌握了电和磁的相关概念那么今天我们将继续往下看看来探究电磁波的海洋再请同学们翻开到课本。\n[173.0 -> 287.18] 好通过前面的学习我们已经知道了电磁波是什么东西已经分析了电磁波是什么东西好通过前面的学习我们已经知道了电磁波是什么东西已经分析了波的一个相关概念我们知道了波峰波是由波峰波谷波长以及它的一个其中的概念那么继续我们来学习电磁波是怎样产生的好我们来看这是一个能够记录和声音的机器这里有一个真空罩我们把它放入其中好同学们你们能够回忆起我们之前所学习过的这个实验你们觉得会发生什么好你来回答我们播放声音里面能够记录出我们的声音吗不行很好请坐那我们在里面播放声音我们在真空罩的外面能够听到吗很好听不到这个为什么呢是因为声音很好声音传播需要介质我们刚刚也能看到这其中展示的波形变化大吗根本就是一条直线这个发现了其中的一个问题那我们再来进行第二个实验。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"§21.2 电磁波的海洋\" (The Ocean of Electromagnetic Waves).\n- The screen shows an illustration of a boat on waves, indicating a topic related to electromagnetic waves.\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher moves to the chalkboard and writes \"电磁波的海洋\" (The Ocean of Electromagnetic Waves) in white chalk.\n- The teacher then returns to the digital screen, which changes to a new slide with a diagram showing a speaker icon and text boxes.\n- The teacher points to the diagram, explaining the components: \"空间\" (space), \"机器记录混音音频\" (machine records mixed audio), and \"显示投影\" (display projection).\n\n**End:**\n- The teacher continues to gesture towards the diagram, emphasizing the flow of audio from space to machine recording and display projection.\n- The teacher uses hand movements to illustrate the process, pointing at each part of the diagram as they speak.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide with a diagram illustrating the process of audio handling. It includes:\n  - A speaker icon labeled \"播放声音\" (play sound).\n  - A circular area labeled \"空间\" (space).\n  - A box labeled \"机器记录混音音频\" (machine records mixed audio).\n  - A rectangle labeled \"显示投影\" (display projection).\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"电磁波的海洋\" on the chalkboard while explaining the topic.\n- **Modifications**: The digital slide changes to show the audio process diagram as the teacher transitions to explaining this concept.\n- **Deictic Gestures**: The teacher points to:\n  - The \"空间\" (space) area while discussing the environment of electromagnetic waves.\n  - The \"机器记录混音音频\" (machine records mixed audio) box when explaining recording processes.\n  - The \"显示投影\" (display projection) rectangle to discuss how audio is displayed or projected.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the flow from the speaker to the recording and projection processes.\n- The digital slide uses color coding and spatial layout to differentiate between the components of the audio process.\n\nThis structured visual evolution helps students connect the abstract concept of electromagnetic waves to practical applications in audio technology.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a slide titled \"§21.2 电磁波的海洋\" with an illustration of a boat on waves, setting the stage for the topic of electromagnetic waves. The teacher began by standing in front of the chalkboard, writing \"电磁波的海洋\" to establish the core concept. As the lecture progressed, the digital slide transitioned to a diagram featuring a speaker icon, a space area, and boxes for recording and projection processes. The teacher constructed the explanation by pointing to the \"空间\" (space) area, tracing the path of electromagnetic waves. They then derived the process by highlighting the \"机器记录混音音频\" (machine records mixed audio) box, illustrating how audio is captured. Finally, the teacher annotated the \"显示投影\" (display projection) rectangle, emphasizing the final output stage. Throughout, the teacher used deliberate gestures to resolve deixis, such as tracing the flow from the speaker to the recording and projection components. The visual emphasis on each part of the diagram reduced cognitive load by clearly segmenting the process, allowing students to follow the logical progression from waves in space to practical audio applications.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electromagnetic Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[143.0 -> 169.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Wave Crest",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.0 -> 287.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Sound Propagation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.0 -> 287.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Medium Requirement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.0 -> 287.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Recording Audio",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[173.0 -> 287.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Projection Display",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[173.0 -> 287.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Chalkboard",
+        "type": "Visual",
+        "original_text": "Green chalkboard with written text",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Electromagnetic Waves Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'The Ocean of Electromagnetic Waves'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Audio Process Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating audio process with speaker, space, machine recording, and projection",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Electromagnetic waves are explained using wave concepts like wave crest."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Understanding electromagnetic waves involves learning about sound propagation."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Sound requires a medium to propagate, forming part of the sound propagation principle."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The process of recording audio is visually represented in the diagram."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The projection display procedure is illustrated within the diagram."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The chalkboard writing establishes the topic of electromagnetic waves."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The slide introduces and emphasizes the concept of electromagnetic waves."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "The diagram supports understanding of sound propagation and recording."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of electromagnetic waves through the lecture."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

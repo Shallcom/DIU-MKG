@@ -1,0 +1,157 @@
+{
+  "video_name": "38_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Understand and memorize the Internet’s basic functions and uses; learn to express Internet‑related life situations in English; cultivate interest in and ability to learn through the Internet.",
+  "transcript": "[149.0 -> 336.78] 大家好男孩们女孩们好吗今天好吗好我认为你们可能累了因为你们有很多学习对吗所以在课前我会为你们唱一首歌来享受好的我们一起唱一首歌吧如果你们不懂就听听吧TheInternetTheInternetHowUseFullHowUseFullICanShopAtHomeICanReadOnLineHowWonFullWonderFullSoNowCanYouSingWithMeYesOKNowLet'sGoTimeWithMeAndSingWithMeTheInternetTheInternetHowUseForeHowUseForeICanShopAtHomeICanReadOnlineWonderfulWonderfulSoWhatIsThisSongMakingAboutDoYouKnowDoYouHaveAnyIdeasInternetRightSoWhenItComesToTheInternetWhatComesIntoYourMindShopOnlineAnythingElse如果你有学习的问题你可以搜索网上学习专业课专业专业专只有一句关于如何让互联网帮助他们读书仔细地读一句吧。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes \"Unit 3 Discovering Useful Structures\" on the blackboard. \n- The interactive whiteboard displays a slide titled \"Discovering Useful Structures\" with a list of activities.\n- The teacher gestures towards the slide, indicating the start of the lesson.\n\n**Middle:**\n- The slide changes to \"Sing a song\" with bullet points: \"The Internet,\" \"How would you use it?,\" \"I can shop from home,\" \"I can talk to a friend,\" and \"Wonderful! Wonderful!\"\n- The teacher points to each bullet point while explaining, using hand gestures to emphasize the activities related to the internet.\n- The slide transitions to a \"brainstorm\" diagram with \"the Internet\" at the center and surrounding circles for brainstorming ideas.\n- The teacher gestures towards the diagram, asking students to think about what comes to mind when they think of the internet.\n\n**End:**\n- The slide changes to a \"letter\" format with text about the internet's impact on daily life.\n- The teacher points to different parts of the letter, explaining its content and significance.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the interactive whiteboard displaying various slides throughout the lesson.\n- Initial state: The first slide titled \"Discovering Useful Structures\" with a list of activities.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: \n  - The teacher writes \"Unit 3 Discovering Useful Structures\" on the blackboard.\n  - The slide transitions to \"Sing a song\" with bullet points, and the teacher points to each as they speak.\n  - The brainstorm diagram appears, and the teacher gestures towards the central idea of \"the Internet.\"\n  - The letter slide is introduced, and the teacher points to different sections while explaining.\n  \n- **Modifications**: \n  - The teacher does not erase or modify the blackboard content but adds to it by writing the unit title.\n\n- **Deictic Gestures**: \n  - The teacher points to \"the Internet\" on the \"Sing a song\" slide.\n  - The teacher gestures towards the brainstorm diagram, emphasizing the central idea.\n  - The teacher points to various parts of the letter slide while explaining its content.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the slides.\n- The brainstorm diagram visually highlights \"the Internet\" as the central concept.\n- The teacher's pointing gestures draw attention to specific parts of the letter slide, indicating important information.",
+  "visual_narrative": "Initially, the interactive whiteboard displayed a slide titled \"Discovering Useful Structures,\" setting the stage for the lesson. The teacher began by writing \"Unit 3 Discovering Useful Structures\" on the blackboard, establishing the lesson's focus. The slide then transitioned to \"Sing a song,\" listing activities related to the internet. The teacher pointed to each bullet point, such as \"The Internet\" and \"I can shop from home,\" explaining their relevance. \n\nNext, the teacher constructed a brainstorm diagram on the screen, with \"the Internet\" at the center. They gestured towards this central idea, prompting students to think about associated concepts. The teacher's pointing emphasized the brainstorming process, encouraging active participation.\n\nFinally, the slide shifted to a letter format discussing the internet's impact on daily life. The teacher annotated different sections of the letter, tracing specific sentences to highlight key points about the internet's role. By circling important phrases and using hand gestures, the teacher ensured students grasped the significance of each part. This structured visual progression, combined with clear gestures and annotations, reduced cognitive load by breaking down complex ideas into digestible segments, reinforcing understanding through both visual and verbal cues.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internet",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[149.0 -> 336.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Online Shopping",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[149.0 -> 336.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Communication",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[149.0 -> 336.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Online Learning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[149.0 -> 336.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Internet Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[149.0 -> 336.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Discovering Useful Structures Slide",
+        "type": "Visual",
+        "original_text": "Unit 3 Discovering Useful Structures",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Sing a Song Slide",
+        "type": "Visual",
+        "original_text": "The Internet, How would you use it?, I can shop from home, I can talk to a friend, Wonderful! Wonderful!",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Brainstorm Diagram Slide",
+        "type": "Visual",
+        "original_text": "Brainstorm diagram with 'the Internet' at the center",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Letter Format Slide",
+        "type": "Visual",
+        "original_text": "Text about the internet's impact on daily life",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The initial slide introduces the concept of discovering internet structures."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The song slide illustrates ways the internet can be used, specifically online shopping."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The song slide also covers internet-based communication methods."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Brainstorm diagram centers the discussions around the general concept of the internet."
+      },
+      {
+        "source": "v4",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Letter slide highlights principles about the internet's daily impact."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Facts about the internet evolve into discussions about its broad impacts."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Online shopping is an example included in discussions about internet impact."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Communication through the internet is discussed as an impactful example."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Online learning is considered in discussions of internet impact."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with the internet usage examples depicted in the song slide."
+      },
+      {
+        "source": "s2",
+        "target": "v3",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm ideas about the internet inspired by the diagram slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

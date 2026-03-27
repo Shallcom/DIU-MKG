@@ -1,0 +1,166 @@
+{
+  "video_name": "34_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the importance of large‑unit instructional design in physics courses.",
+  "transcript": "[0.0 -> 51.06] 这个大单元教学的概念首先呢我认为单元教学设计就是要求老师在进行教学设计的时候不仅要做到瞻前顾后同时呢也要做到放眼全篇并且通过这个角度不仅仅可能是本章也有可能是整本书跟不同教材它们之间知识点的联系。\n[53.0 -> 119.18] 就是说老师要将知识点像珍珠一样去串联起来在老师的带领下将看似对于学生来说看似是线性的知识实际上它是一个网状的而老师就是扮演了这样的一个角色进而通过以上的进行工作就可以达到培养科学思维的目标进而实现核心素养那么在高中物理的教学中我们认为首先作为一名老师要明白每一堂课能给学生带来什么并且同时在高考改革中这个大单元教学的理念在文献中有提到一个问题链的方式就是通过一个一个问题将所有的知识串联起来进而形成一张网那么教师作为这个知网的人就必须要做到自己能够在教材中的要做到教材的每个知识点要熟悉并且知道每个知识点他们之间的联系并且能够能够做到联想发散我的集习演讲到此结束接下来是我的教学评段展示。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide features a title in Chinese characters, framed within a blue rectangle with diagonal red lines. The text reads: \"微课展示，说课和讲课\" (Micro-lecture demonstration, lesson explanation, and teaching).\n\n#### 2. **The Title Event**\n- The title on the screen is prominently displayed in a blue rectangle with red diagonal lines. The teacher does not physically write this title but points towards it, ensuring it is the focal point of the introduction.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, emphasizing the title content.\n- The teacher occasionally looks at the students, maintaining engagement while referring to the slide.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title slide: \"微课展示，说课和讲课\" within a blue rectangle with red diagonal lines.\n- The teacher gestures towards the screen, directing attention to the title.\n\n**Middle:**\n- The teacher continues to reference the slide, using hand movements to emphasize key points.\n- The teacher occasionally looks at the students, ensuring their attention is maintained on the slide content.\n\n**End:**\n- The teacher moves towards the desk, possibly to transition to the next part of the lesson.\n- The screen remains displaying the title slide throughout the segment.\n\nThis structured visual analysis captures the teacher's actions and their direct linkage to the visual content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the screen presents a title slide with the text \"微课展示，说课和讲课\" within a blue rectangle framed by red diagonal lines, serving as the hook to capture attention. To bridge to the topic, the teacher gestures towards the slide, emphasizing the title and maintaining eye contact with the students to ensure engagement. Finally, the visual focus remains on the title slide, establishing the lesson goal of demonstrating a micro-lecture and explaining teaching methods. This introduction connects the new knowledge to the students' existing understanding of lesson structures, setting the stage for a detailed exploration of teaching techniques and content delivery.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Large-unit Instruction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 51.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Teaching Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 51.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Comprehensive Planning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 51.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Interconnected Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Teacher's Role",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Science Thinking Cultivation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Core Competence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c8",
+        "label": "Physics Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c9",
+        "label": "Classroom Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c10",
+        "label": "Exam Reform",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "c11",
+        "label": "Problem Chain Approach",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[53.0 -> 119.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Micro-lecture Demonstration Title Slide",
+        "type": "Visual",
+        "original_text": "The slide presents: 'Micro-lecture demonstration, lesson explanation, and teaching' in a blue rectangle with red diagonal lines.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide sets the stage for discussing large-unit instruction."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Designing teaching involves comprehensive planning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Teachers connect various knowledge points."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Cultivating scientific thinking helps achieve core competence."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Physics teaching contributes to scientific thinking."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Exam reform impacts classroom teaching methods."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Using a problem chain organizes interconnected knowledge."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The teacher uses the problem chain to guide students."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Introduction to large-unit instruction engages students."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The visual slide emphasizes the lesson's beginning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

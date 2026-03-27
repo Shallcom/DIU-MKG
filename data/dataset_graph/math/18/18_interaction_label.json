@@ -1,0 +1,138 @@
+{
+  "video_name": "18_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand and memorize the definition and standard form of a quadratic inequality in one variable; master the application of the discriminant for quadratic inequalities; be able to use the graphical method to solve simple quadratic inequality problems.",
+  "transcript": "[463.56 -> 475.98] 加二十小于零同学们在我们之前学习的知识当中有学过怎么样去解这个不等式吗有吗没有所以我们就得到了我们今天要学习的第一个知识点如何去解这个不等式那首先这个不等式是什么不等式。\n[477.76 -> 483.68] 诶看来同学们都有预习我们就把形容。\n[491.72 -> 571.32] 我们把只含多少个位置数只含一个位置数并且位置数的最高次数是二等不等式就称为什么啊A就称为一元二次不等式它有这两种表达形式也就是AX平方加BS加C大于零或者是AX平方加EX加C小于零而且我们要注意了ABC干嘛均为常数而且还要注意什么AA不等于零好那同学们我们现在已经学习了什么叫做一元二次不等式那你们呢能不能通过我们刚刚的学习记住了什么叫做一元二次不等式那你们呢能不能通过我们刚刚刚的学习记住了解决一下下面这三个判断题呢。\n[572.56 -> 577.38] 好思考一下它是对的还是错的。\n[580.4 -> 605.78] 第一个谁可以你来试试第一个是一二次不能试为什么因为它只有一个位置数而且最高次数是二而且A都不等于零所以它就是一二次不能试其他同学你们认同吗很好请坐表达得很清楚那第二个呢你来说说。\n[606.96 -> 659.585533] 它不是一元二次不等式为什么因为它首先最高次数不是二的可以解开的也不是不等式它是一个等式所以它肯定就不是一元二次不等式所以它是错的那你还能说一下第三个吗第三个它也不是一元二次不等式为什么因为它是一个等式所以很明显就可以看到它不是一个不等式而且它也不是一个一元二次不等式其他同学你们听清楚它的分析了吗我们把掌声送给这位男同学好那同学们我们在初中已经学习了从一次函数的视角去看一元一还有一元一次不等式的思想方法那同学们能不能配比一下我们从二次函数的观点去看一下一元二次不等式进而对这个一元二次不等式进行求解它的方法是什么好我们先来分析一下一具体的一元二次不等式和二次函数我们首先在平面直角坐标系中画出了这个图像是二次函数的图像对不对那我们通过图像分析就可以知道它焦点的横坐标就是这个方程的实数根那它的坐标是多少它得数的实数根是多少是不是。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the digital screen displaying the practice problem, inviting students to engage with the content.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the practice problem displayed on the digital screen, specifically the quadratic inequality problem: $ax^2 + bx + c > 0$.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize key points in the problem. She pointed to the inequality $ax^2 + bx + c > 0$ on the screen and simultaneously referred to the quadratic formula on the blackboard, $x^2 - 2x + 2m > 0$, to hint at the connection between the two.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student responded, the teacher visually validated the input by nodding and smiling. She then proceeded to write additional notes on the blackboard, reinforcing the correct approach to solving the inequality. She circled the relevant part of the inequality on the screen to highlight the correct solution method.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands next to the blackboard and digital screen, which displays the quadratic inequality problem.\n  - She makes a sweeping gesture towards the class and points to the screen, indicating the start of the interaction.\n\n- **Middle:**\n  - The teacher points to the inequality $ax^2 + bx + c > 0$ on the screen while a student responds.\n  - She gestures towards the quadratic formula on the blackboard, $x^2 - 2x + 2m > 0$, to guide the student's thought process.\n\n- **End:**\n  - The teacher nods and smiles, providing visual confirmation of the student's correct input.\n  - She circles the relevant part of the inequality on the screen and writes additional notes on the blackboard to elaborate on the solution method.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the quadratic inequality problem $ax^2 + bx + c > 0$ alongside the quadratic formula $x^2 - 2x + 2m > 0$. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem displayed on the digital screen. She pointed directly at the inequality, signaling the start of an interactive discussion.\n\nAs a student began to explain their reasoning, the teacher walked over to the blackboard and gestured towards the quadratic formula, reinforcing the connection between the two problems. She used hand gestures to emphasize key points, nodding and smiling to encourage the student's explanation. Simultaneously, she jotted down the student's key terms on the blackboard, visually linking their thoughts to the lesson content.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the relevant part of the inequality on the screen. She then drew an arrow connecting the student's correct approach back to the quadratic formula on the blackboard, highlighting the relationship between the two concepts.\n\nThroughout the interaction, the teacher's gestures and visual cues helped students move from passively receiving knowledge to actively constructing their own understanding. By linking the student's response to the core lesson content and providing immediate visual feedback, the teacher facilitated a dynamic and engaging learning experience.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Quadratic Inequality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[463.56 -> 475.98]"
+      },
+      {
+        "id": "c2",
+        "label": "One Variable Inequality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[463.56 -> 475.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Definition of Quadratic Inequality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[491.72 -> 571.32]"
+      },
+      {
+        "id": "c4",
+        "label": "Standard Form",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[491.72 -> 571.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Discriminant Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[606.96 -> 659.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Graphical Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[606.96 -> 659.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Practice Problem Screen",
+        "type": "Visual",
+        "original_text": "Quadratic inequality $ax^2 + bx + c > 0$ displayed on screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Quadratic Formula Blackboard",
+        "type": "Visual",
+        "original_text": "Quadratic formula $x^2 - 2x + 2m > 0$ on blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Connects quadratic inequality to one variable inequation structure."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Establishes the standard form of quadratic inequality."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Relates definition to graphical solving method."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Includes discriminant for solving quadratic inequalities."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Represents quadratic inequality for students."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "Guides students in discriminant application via formula."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student response influences concept comprehension."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Students interact and engage with the screen content."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Engagement leads to answering state."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

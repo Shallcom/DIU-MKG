@@ -1,0 +1,167 @@
+{
+  "video_name": "26_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the concept and composition of extracellular fluid; distinguish the main differences between intracellular and extracellular fluid; analyze how different living environments affect cells.",
+  "transcript": "[148.64 -> 152.98] 我的授课内容是细胞生活的环境\n[154.1 -> 322.94] 请同学们看看这两张图大家知道这些都是我们在初中生物学中观察到过的细胞这个是什么细胞回想一下是我们血液中的红细胞那这边这个像鞋子一样的呢草履虫是的那它们分别生活在什么样的环境中呀我们知道草履虫是直接生活在是不是在外界它是作为单细胞生物那这些红细胞是生活在我们人体的血液中那它们的环境有什么异同呢相同的部分是不是它们都是生活在类似于液体的环境中那不同的就是一个在体外一个在体内所以那液体环境我们就很容易想到体液体液可以包括什么呢在细胞内的叫细胞内液细胞外的呢细胞外液然后我们本节课学习的呢就是主要学习的就是这个细胞外液就是细胞多细胞生物的细胞主直接生活的环境我们来看一下请大家阅读课本思考来想一下细胞外液包括哪些成分同学们找到答案了吗分别有着细胞胃有着组织液血浆和淋巴液那它们三个之间又有怎么样的关系呢现在请大家分小组讨论一下然后我们请一位同学上台来通过图解试着画一画他们之间的关系",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a large screen displaying a diagram of a cell and a bacterium. The text on the screen reads \"细胞生活的环境\" (Cell Living Environment).\n- The teacher gestures towards the cell diagram, likely explaining the components and their functions. The cell is depicted with a nucleus and other organelles, while the bacterium is simpler in structure.\n- The teacher points to the bacterium, emphasizing its simpler structure compared to the eukaryotic cell.\n\n**Middle:**\n- The screen transitions to a new slide titled \"细胞内环境\" (Cell Internal Environment) with a diagram showing a cycle between \"细胞内液\" (Intracellular Fluid) and \"细胞外液\" (Extracellular Fluid).\n- The teacher uses hand gestures to indicate the flow between these two components, explaining the exchange process.\n- The teacher moves to the blackboard and writes \"细胞内液与细胞外液\" (Intracellular Fluid and Extracellular Fluid), reinforcing the concepts discussed on the screen.\n\n**End:**\n- The teacher continues to explain the content on the screen, using hand gestures to emphasize the cyclical nature of the fluid exchange.\n- The teacher points to specific parts of the diagram on the screen, likely discussing the mechanisms of fluid movement and their significance.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the diagram on the screen showing the cycle between intracellular and extracellular fluids. The diagram includes labeled components and arrows indicating the flow direction.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"细胞内液与细胞外液\" on the blackboard while explaining the concepts from the screen.\n   - **Modifications**: The teacher uses hand gestures to trace the flow direction in the diagram, emphasizing the continuous exchange process.\n   - **Deictic Gestures**: The teacher points to the arrows in the diagram, saying \"here\" to highlight the movement between fluids.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the cyclical nature of the fluid exchange.\n   - The teacher writes key terms on the blackboard to reinforce the concepts visually.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating a comprehensive understanding of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a diagram contrasting a eukaryotic cell and a bacterium, with the title \"细胞生活的环境\" (Cell Living Environment). The teacher began by gesturing towards the cell's nucleus and organelles, explaining their roles, while emphasizing the simpler structure of the bacterium. The scene then transitioned to a new slide titled \"细胞内环境\" (Cell Internal Environment), featuring a cycle between \"细胞内液\" (Intracellular Fluid) and \"细胞外液\" (Extracellular Fluid). The teacher constructed the concept of fluid exchange by tracing the arrows in the diagram, illustrating the continuous movement between these fluids. \n\nAs the lecture progressed, the teacher moved to the blackboard, annotating \"细胞内液与细胞外液\" to reinforce the terminology. Using deliberate hand gestures, the teacher derived the cyclical nature of the exchange, pointing to specific arrows to highlight the dynamic process. The teacher's gestures traced the rising and falling slopes of the cycle, emphasizing the bidirectional flow. \n\nFinally, the teacher circled key terms on the blackboard, aligning visual emphasis with the conclusion of the lesson. This strategic use of visual aids and annotations reduced cognitive load by providing clear, step-by-step visual cues, ensuring students could follow the complex biological processes being explained.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Cell Living Environment Diagram",
+        "type": "Visual",
+        "original_text": "Diagram contrasting eukaryotic cell and bacterium, labeled 'Cell Living Environment'.",
+        "ocr_corrected": true,
+        "timestamp": "[148.64 -> 152.98]"
+      },
+      {
+        "id": "v2",
+        "label": "Cell Internal Environment Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of intracellular and extracellular fluid cycle.",
+        "ocr_corrected": true,
+        "timestamp": "[154.1 -> 322.94]"
+      },
+      {
+        "id": "c1",
+        "label": "Cell Nucleus",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.64 -> 152.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Organelles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.64 -> 152.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Bacterium Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[148.64 -> 152.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Intracellular Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[154.1 -> 322.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Extracellular Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[154.1 -> 322.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Fluid Exchange Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[154.1 -> 322.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Red Blood Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[154.1 -> 322.94]"
+      },
+      {
+        "id": "c8",
+        "label": "Paramecium",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[154.1 -> 322.94]"
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[154.1 -> 322.94]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram provides a visual representation of the cell's nucleus."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates cell organelles."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The diagram highlights the simpler structure of bacterium compared to eukaryotic cell."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The cycle diagram shows intracellular fluid as part of the fluid exchange process."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The cycle diagram shows extracellular fluid as part of the fluid exchange process."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Arrows in the diagram indicate the fluid exchange process."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The relationship between intracellular and extracellular fluid facilitates cellular environment adaptation."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Fluid exchange process includes intracellular fluid."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Fluid exchange process includes extracellular fluid."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Red blood cells rely on intracellular fluid for cellular function."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Paramecium interacts directly with extracellular fluid in its environment."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Student discussion focuses on components of extracellular fluid."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

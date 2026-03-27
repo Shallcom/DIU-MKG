@@ -1,0 +1,159 @@
+{
+  "video_name": "22_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Summarize the physical and chemical properties of ethanol; compare ethanol's reaction characteristics with those of other substances (such as water).",
+  "transcript": "[654.88 -> 718.48] 嗯好同学们看一看同学们写了方程式和老师写的一样吗好美好的时光总是短暂的不知不觉我们本节课就要接近尾声了我们这节课学习了乙醇的物理性质以及新的衍生物还有乙醇的化学性质那课后请同学们想一想将乙醇与钠反应和水与钠的实验现象进行比较你能得出什么呢。\n[720.04 -> 732.08] 患儿生万物学已知无穷希望同学们用发展的眼光观察世界用学科的思维感受世界用无畏的精神探索世界谢谢大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a blue background with white text, organized into bullet points.\n   - The layout includes four main sections, each with a heading and descriptive text.\n\n2. **Key Knowledge Items (Content View)**:\n   - **C6H5OH**: Listed under the first bullet point, likely referring to phenol.\n   - **C6H5ONa**: Listed under the second bullet point, likely referring to sodium phenoxide.\n   - **2C6H5OH + 2Na → 2C6H5ONa + H2↑**: A chemical equation shown under the third bullet point.\n   - **C6H5OH + NaOH → C6H5ONa + H2O**: Another chemical equation under the fourth bullet point.\n   - **Homework**: The final slide mentions homework, indicating further study or practice.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the board, gesturing towards the slide content, likely emphasizing each bullet point in sequence.\n   - The teacher uses hand movements to highlight the chemical equations, possibly pointing to each component of the reactions.\n\n4. **Transition to Next Step**:\n   - The final slide includes a section titled \"Homework,\" suggesting further tasks for students. The text mentions \"Review the content of this section and complete the exercises in the textbook,\" indicating a focus on practice and review.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing four bullet points summarizing key chemical concepts. The teacher stands in front of the board, gesturing towards the slide content. She points to each bullet point in sequence, emphasizing the chemical formulas and reactions listed. The slide includes the compounds $\\text{C6H5OH}$ and $\\text{C6H5ONa}$, along with the reactions $2\\text{C6H5OH} + 2\\text{Na} \\rightarrow 2\\text{C6H5ONa} + \\text{H2}↑$ and $\\text{C6H5OH} + \\text{NaOH} \\rightarrow \\text{C6H5ONa} + \\text{H2O}$. The teacher briefly pauses on these equations, likely highlighting their significance. The final emphasis is on the homework section, which appears on the last slide, indicating further study and practice tasks for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "Slide with blue background and white bullet-point text summarizing chemical concepts.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c1",
+        "label": "Ethanol Physical Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Ethanol Chemical Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c3",
+        "label": "C6H5OH",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c4",
+        "label": "C6H5ONa",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c5",
+        "label": "Reaction: C6H5OH + Na",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Reaction: C6H5OH + NaOH",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Sodium Phenoxide Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Phenol",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c9",
+        "label": "Hydrogen Gas Release",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[654.88 -> 718.48]"
+      },
+      {
+        "id": "c10",
+        "label": "Homework",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[720.04 -> 732.08]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Review Preparation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Summarizes the learning objective of understanding ethanol's physical properties."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Summarizes the learning objective of understanding ethanol's chemical properties."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Emphasizes key compound, C6H5OH."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Emphasizes key compound, C6H5ONa."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Points out the reaction involving C6H5OH with sodium."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Points out the reaction involving C6H5OH with NaOH."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Demonstrates sodium phenoxide formation."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Shows release of hydrogen gas."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Demonstrates sodium phenoxide formation."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to prepare for review and homework."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

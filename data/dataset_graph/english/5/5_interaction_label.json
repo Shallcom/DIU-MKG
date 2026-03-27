@@ -1,0 +1,120 @@
+{
+  "video_name": "5_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Understand the role of timelines in illustrating the cultural preservation process; identify and annotate verbs to enhance textual comprehension; analyze the importance of international solutions in addressing cultural heritage conflicts.",
+  "transcript": "[439.46 -> 445.4] yes if you finished you can exchange your timeline with your partner yes Yes,\n[445.4 -> 446.94] these two, these two,\n[446.94 -> 449.4] and these two. Exchange your timeline.。\n[452.82 -> 458.5] This is a useful tool to help you have a better understanding of the process,\n[458.5 -> 463.5] right? Yes. You can underline some verbs. Verbs.。\n[465.68 -> 467.24] Yes, if you're finished,\n[467.48 -> 469.2] you can exchange your answers.。\n[471.72 -> 473.02] Okay now the whole class,\n[473.1 -> 542.84] let's check the answers together. same as yours yes we have this long period of time of protecting this cultural heritage right okay now the whole class now let's answer the question we have raised at the beginning so from this title can you tell me what is the problem what about you yes what is the problem can you give me some keywords yes destroying it yes that is a specific problem right what can give me a general problem is a conflict between what about you yes mister is a conflict between yes you mean the social progress also we can say social development right and the what what's the other side the。\n[545.74 -> 587.02] protection of cultural sites right so how is this problem solved then what about the solutions does it solve in just one country no so we can say actually this problem is solved through international cooperation yes it's through the international cooperation and to better address this conflict what should we do what's the proposal mentioned in this passage can we read the paragraph one so we have to strike a right balance yes so if I put a draw scale on these two sides the most important thing we have to do is to strike a balance yes but do you think is it easy to solve this problem of course no right and here is a scale so how much effort has been put in solving this problem this time I'd like to underline another another group of numbers apart from the time。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The visual focus was on the blackboard, specifically the phrase \"From Problems to Solutions\" and the timeline drawn by the teacher. The timeline included key years and events, such as \"1969: The first man on the moon\" and \"1971: The first artificial satellite by a non-superpower.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher wrote \"problem\" on the blackboard, linking it to the timeline. He then wrote \"solution\" below it, creating a visual connection between problems and solutions.\n- The teacher used hand gestures to emphasize the flow from problem to solution, pointing to each word as he spoke, reinforcing the concept visually.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher wrote \"solid progress\" next to \"problem\" and \"solutions\" on the blackboard, visually confirming the progression from problem identification to solution implementation.\n- He added \"International cooperation\" to the board, linking it to the solution, and used arrows to show the relationship between these elements.\n- Throughout, the teacher maintained eye contact with students, nodding and gesturing to encourage participation and validate their understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher starts by writing \"From Problems to Solutions\" on the blackboard.\n  - He draws a timeline with key historical events, using the chalk to highlight each point.\n\n- **Middle:**\n  - Writes \"problem\" and \"solution\" on the board, using arrows to show progression.\n  - Adds \"solid progress\" to illustrate the development from problem to solution.\n\n- **End:**\n  - Incorporates \"International cooperation\" into the visual framework, linking it to the solution.\n  - Uses hand gestures and board annotations to guide and confirm student understanding, ensuring the visual elements support the lesson's narrative.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a timeline with key historical events, such as \"1969: The first man on the moon\" and \"1971: The first artificial satellite by a non-superpower.\" The teacher began by gesturally inviting students to participate, making a sweeping gesture across the classroom to signal the start of an interactive discussion.\n\nAs the teacher facilitated the lesson, he moved to the blackboard, writing \"problem\" and \"solution\" to visually frame the discussion. While a student explained their reasoning, the teacher walked over to the board and jotted down their key terms, reinforcing the connection between problems and solutions. He used arrows to illustrate the flow from problem identification to solution implementation, actively engaging with the student's input.\n\nTo validate the student's understanding, the teacher gave a distinct nod and wrote \"solid progress\" next to the terms, emphasizing the development from problem to solution. He then added \"International cooperation\" to the board, linking it visually to the solution with an arrow, ensuring the student's response was connected back to the core lesson content.\n\nFinally, he went around the classroom, using hand gestures and board annotations to guide and confirm student understanding. By circling the key terms and drawing connections back to the timeline, the teacher helped students move from passively receiving knowledge to actively constructing their own understanding, solidifying the concept of progressing from problems to solutions through international cooperation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultural Preservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[439.46 -> 542.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Timeline",
+        "type": "Visual",
+        "original_text": "A timeline illustrating key events, like '1969: The first man on the moon' and '1971: The first artificial satellite by a non-superpower'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c3",
+        "label": "Problem Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[471.72 -> 542.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Solution Implementation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[471.72 -> 542.84]"
+      },
+      {
+        "id": "c5",
+        "label": "International Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.74 -> 587.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Solid Progress",
+        "type": "Visual",
+        "original_text": "Visual confirmation of progress from problem to solution on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Protecting Cultural Heritage",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[545.74 -> 587.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Student Exchange",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Verbs Annotation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[452.82 -> 469.2]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding cultural preservation involves identifying specific problems."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Transitioning from understanding problems to implementing solutions."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Solution implementation includes international cooperation as a key method."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Reinforces understanding of solution implementation with visual confirmation."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Timeline creates a visual correlation with the problem identification process."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "International cooperation is essential for protecting cultural heritage."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to enhance comprehension by annotating verbs."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

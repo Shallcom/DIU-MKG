@@ -1,0 +1,167 @@
+{
+  "video_name": "15_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the concepts of phase and phase difference and their significance in simple harmonic motion; master how to determine the phase difference between two simple harmonic motions.",
+  "transcript": "[644.470433 -> 647.64] 在数学中我们知道这个是一个整形函数的表达式。\n[648.7 -> 669.28] 这是它的一个相位那么在物理减斜振动的过程中我们知道如果这个数值确定的话那么X是不是就是一个确定的值那这样的话我们就可以说当OmegaT加Phi确定的时候它的值也是确定的。\n[673.06 -> 692.6] 这个我们就规定它为向位实际上经常用到两个具有相同频率的减斜运动的向位差如果两个减斜运动的频率相同它们的出向分别是Phi一和Phi二当Phi一大于Phi二时它们的向位差就可以这样来表示。\n[693.74 -> 700.22] 此时我们就说一的相位要比二的相位超前或者说二的相位比一落后。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in white chalk.\n   - The layout includes four main points, each labeled with a number:\n     1. $x = A\\sin(\\omega t + \\varphi_0)$\n     2. 振幅 (Amplitude) $A$\n     3. 周期 (Period) $T$\n     4. 相位 (Phase)\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and formulas visible are:\n     - $x = A\\sin(\\omega t + \\varphi_0)$\n     - 振幅 (Amplitude) $A$\n     - 周期 (Period) $T$\n     - 相位 (Phase)\n   - The screen displays additional text in Chinese, including a blue box labeled \"相位\" (Phase) and a detailed description below.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each item on the blackboard in sequence, likely explaining or summarizing each point:\n     - Points to the equation $x = A\\sin(\\omega t + \\varphi_0)$.\n     - Points to 振幅 (Amplitude) $A$.\n     - Points to 周期 (Period) $T$.\n     - Points to 相位 (Phase).\n   - The teacher also gestures towards the screen, possibly highlighting the blue box labeled \"相位\" (Phase) and the accompanying text.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework, further reading, or the next lesson on the screen or blackboard in the provided frames.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the key aspects of harmonic motion. The teacher visually reviews the content by pointing to each item in sequence: the equation $x = A\\sin(\\omega t + \\varphi_0)$, amplitude $A$, period $T$, and phase. The screen displays additional details about phase, with a blue box highlighting this concept. The teacher emphasizes the phase section by gesturing towards the screen, reinforcing its importance. There is no visible homework or next-step instruction presented in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Harmonic Motion Equation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[644.47 -> 647.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Amplitude A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[647.64 -> 648.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Period T",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[647.64 -> 648.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Phase ϕ",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[647.64 -> 669.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Phase Difference",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[673.06 -> 692.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Ahead Phase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[693.74 -> 700.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Lagging Phase",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[693.74 -> 700.22]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Equation",
+        "type": "Visual",
+        "original_text": "x = A*sin(ωt + ϕ₀)",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Amplitude Blackboard Note",
+        "type": "Visual",
+        "original_text": "Amplitude A",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Period Blackboard Note",
+        "type": "Visual",
+        "original_text": "Period T",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Phase Blackboard Note",
+        "type": "Visual",
+        "original_text": "Phase ϕ",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v5",
+        "label": "Blue Box on Screen",
+        "type": "Visual",
+        "original_text": "Phase and description",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[644.47 -> 700.22]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Links the simple harmonic motion principle to the equation on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Shows the concept of amplitude on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Displays the concept of period on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Represents phase on the blackboard as a key point."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Phase difference concept evolves from the understanding of phase."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Expounds on the notion of phase difference with an ahead phase example."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Illustrates phase difference with a lagging phase example."
+      },
+      {
+        "source": "v5",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlights the importance of phase with additional screen details."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Phase is part of the overall simple harmonic motion equation."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are cognitively engaged with the harmonic motion principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

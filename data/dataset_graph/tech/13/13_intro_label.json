@@ -1,0 +1,113 @@
+{
+  "video_name": "13_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand how scientific core literacy is manifested in information technology teaching; recognize the relationship between the operating principles of household appliances and electric motors.",
+  "transcript": "[0.0 -> 230.86] 各位评论老师同学们大家上午好我是本科科学组十三号参赛选手今天我抽到的教育问答题目是谈谈科学核心素养在你的教学中应当如何体现首先我认为科学核心素养体现在四个方面第一科学树立正确的科学观念在我所从事的科学中我所教的科目是物理那我认为物理的学习需要老师在生活社会中吸取非常多的相关例子解释我们的教材以及相应的编排学生的学情从而进行相应的启发式教学树立学生正确的物理观念那第二点是科学思维在我们物理教学中有一章节叫做物体的思维那同学们常常对于日常生活中的体现是重的物体沉下去轻的物体浮起来的刻板印象那正是因为这种刻板印象导致学生在学习本节内容之前会存在着相应的误区而我们作为老师则需要树立正确的科学科学思维帮助学生进行正确的思考从通过实验以及大量事实来举出相应的例子让学生的科学思维使学生从科学角度去看待客观事物的本质属性那第三个是科学探究在物理这个学科中充满着大量的实验以及知识的排列是非常紧密的那在这个过程中需要充分体现学生的主观能动性发挥学生的主观能动性通过让学生自己设计实验进行实验总结实验规律在老师的相应引导下完成实验以及知识点的输出那这是关于科学探究从而培养学生的逻辑追理能力以及分析总结能力那最后是树立正确的科学态度和价值观那这一点不仅是需要从课本教材中帮助学生树立正确的课本价值观还需要老师自身需要有一定的道德素质水平并且结合我们中国中大量的事实分析的经验从而帮助学生提高学生对科学的学习兴趣以及树立一个正确的科学和形态指挥以上是我接着问的全部环节接下来进入到片段教学好同学们上课那请同学们来看看这几幅图片分别是电视上冰箱以及洗衣机这些家用电器在我们日常生活中是非常的常见的那请问同学们有没有思考过这样一个问题为什么当这些电器在充上电的那一瞬间它就能够开始工作了呢好我听到这位同学他说到了一个非常关键的他说因为这些电器里面都有一个电动机那请问同学们有没有同学们既然这些电正是因为这些电动机它的功能才能使这些电器完成相应的工作那电动机它到底是怎么样进行工作的呢为什么给电动机通电它就能够转动呢这就是我们本节课所要学习的重要内容。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen features a blue and white geometric design with the text \"电动机\" (electric motor) prominently centered. This image initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"电动机\" is shown on the screen. The teacher does not write it on the board but points to it on the screen, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The subsequent slide presents learning objectives with three bullet points:\n  - 电动机 (Electric Motor)\n  - 电磁感应 (Electromagnetic Induction)\n  - 电动机原理 (Principle of Electric Motor)\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the screen, pointing at the title \"电动机\" to highlight the lesson's focus.\n- The teacher uses hand movements to emphasize the bullet points on the objectives slide, directing attention to each item sequentially.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the green chalkboard, which is mostly blank except for some faint writing on the left side.\n- The screen displays the initial slide with \"电动机\" and a blue and white design.\n- The teacher points to the screen, drawing attention to the title \"电动机.\"\n\n**Middle:**\n- The teacher moves closer to the screen, holding papers, and continues to gesture towards the title, reinforcing the lesson's focus.\n- The teacher transitions to the next slide, which lists the learning objectives.\n- The teacher points to each bullet point on the objectives slide, emphasizing \"电动机,\" \"电磁感应,\" and \"电动机原理.\"\n\n**End:**\n- The teacher continues to gesture towards the objectives, ensuring students understand the lesson's structure and goals.\n- The teacher's hand movements guide the students' attention across the screen, linking each objective to the lesson's progression.\n\nThis structured visual approach ensures that the teacher's actions are clearly linked to the evolving content on the screen, providing a coherent narrative for the introduction phase of the lesson.",
+  "visual_narrative": "The introduction phase begins with the teacher standing near a green chalkboard, which remains mostly blank, while the screen displays a blue and white geometric design with the text \"电动机\" prominently centered, serving as the hook to capture attention. The teacher points directly at this title on the screen, emphasizing its significance. As the lesson progresses, the teacher transitions smoothly to the next slide, which lists the learning objectives: \"电动机,\" \"电磁感应,\" and \"电动机原理.\" The teacher actively gestures towards each bullet point, guiding the students' focus across the screen. This visual shift from the hook to the main topic effectively bridges the introduction, linking the overarching theme of electric motors to specific learning goals. The teacher's deliberate hand movements and emphasis on each objective create a clear pathway for students, connecting the new concepts to a structured framework for understanding, thereby setting the stage for deeper exploration of electric motors and their principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Electric Motor Slide",
+        "type": "Visual",
+        "original_text": "Slide with blue and white geometric design and 'Electric Motor' title centered.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Objectives Slide",
+        "type": "Visual",
+        "original_text": "Slide with learning objectives: Electric Motor, Electromagnetic Induction, Principle of Electric Motor.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Electric Motor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 230.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 230.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Principle of Electric Motor",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 230.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Household Appliances",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 230.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Functionality of Appliances",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 230.86]"
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The teacher highlights the importance of the electric motor slide."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The objectives slide introduces the concept of electromagnetic induction."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The objectives slide illustrates the principle of electric motors."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Electric motors are part of the operating principles of household appliances."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Understanding household appliances builds upon the functionality provided by electric motors."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are cognitively engaged with the concept of electric motors."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The study of electric motors builds upon the understanding of electromagnetic induction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

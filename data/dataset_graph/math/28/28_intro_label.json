@@ -1,0 +1,191 @@
+{
+  "video_name": "28_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the impact of individual student differences on teaching; master instructional strategies that tailor teaching to each learner’s needs.",
+  "transcript": "[0.0 -> 79.82] 这个观点需要辩证的看待看待对于学生而言学生是一个独特的人是发展的人他的身心发展都具有一定的独特性不同的同不同的学生对于知识的理解和反应能力都是不一样的对于学习的习惯还有他们的能力都不尽相同我们应该去因材施教的去看待呃其次老师此时的教学是通过大部分的学生的情况而定的那个别的学生比如说他的成绩较好或者是他的成绩或者他的能力较薄弱这种情况下我们要对于他的学习情况来进行个别化的教学。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen featuring the text:\n  - Chinese: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\"\n  - English: \"National Contest of Teaching Skills for Teacher-College Students\"\n  - Additional text: \"学高 为师 立德 树人\"\n  - The number \"10th\" is prominently displayed in red.\n  - The bottom left corner shows \"数学与应用数学 28\" (Mathematics and Applied Mathematics 28).\n\n#### 2. **The Title Event**\n- The teacher stands in front of a green chalkboard with the text \"教学组28号选手\" written vertically on the left side.\n- No specific title is written or shown on the board during the introduction phase.\n\n#### 3. **The Objectives**\n- No learning objectives are explicitly listed or visible on the board or screen during this introduction phase.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with her hands while speaking.\n- She uses her right hand to emphasize points, sometimes pointing or making circular motions.\n- The teacher occasionally looks at the papers and then back at the audience, indicating engagement with the content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen featuring vibrant colors and text about the teaching skills competition.\n- Transition to the classroom setting where the teacher stands in front of a green chalkboard.\n\n**Middle:**\n- The teacher, wearing a beige blazer and a green lanyard with a badge labeled \"28,\" begins speaking.\n- She holds papers and uses hand gestures to emphasize her points.\n- The chalkboard displays \"教学组28号选手\" vertically on the left side, with colored magnets nearby.\n\n**End:**\n- The teacher continues to engage with the audience, using hand gestures to support her verbal communication.\n- No additional content is added to the board during this introduction phase.\n\nThis structured visual analysis captures the evolution of visual elements and links the teacher's actions to specific content, focusing on observable details.",
+  "visual_narrative": "Initially, the video presents a vibrant yellow title screen featuring the text for the \"10th National Contest of Teaching Skills for Teacher-College Students,\" setting the stage for the introduction. Transitioning to the classroom, the teacher stands before a green chalkboard, which displays \"教学组28号选手\" vertically on the left side. She wears a beige blazer and a green lanyard with a badge labeled \"28,\" holding papers as she begins her presentation. To bridge to the main topic, the teacher uses hand gestures, occasionally pointing and making circular motions to emphasize her points, while referencing the papers she holds. The visual focus remains on the teacher and the static text on the board, establishing the context for the lesson. The introduction connects the competitive setting to the teaching demonstration, preparing students for the forthcoming content through engaging gestures and structured presentation.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Student Uniqueness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Mind-Body Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Understanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Reaction Ability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Learning Habit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Capability Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c7",
+        "label": "Individual Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c8",
+        "label": "Majority Student-Centric",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c9",
+        "label": "Strong Student Adaptation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "c10",
+        "label": "Weak Student Support",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 79.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Competition Title Screen",
+        "type": "Visual",
+        "original_text": "10th National Contest of Teaching Skills for Teacher-College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Green Chalkboard",
+        "type": "Visual",
+        "original_text": "Contestant Number 28",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Hand gestures to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explains student uniqueness through their mind and body development."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Different understanding among students supports the principle of student uniqueness."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Different reaction ability emphasizes the uniqueness principle."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Varied learning habits further illustrate student uniqueness."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Capability differences are an aspect of student uniqueness."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Individual teaching methods are based on recognizing student uniqueness."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Teaching adjusted for majority also has roots in student uniqueness."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Adaptation to strong students is part of managing uniqueness."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Supporting weaker students relates directly to their uniqueness."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Competition title contextualizes the concept of uniqueness in teaching skills."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Chalkboard text highlights focus on majority student-centric methods."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures reinforce the emphasis on individual teaching."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Focused individual teaching promotes engaged listening among students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "33_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Be able to describe the basic process of sperm‑egg binding; understand the mechanism of the zona pellucida's role in fertilization.",
+  "transcript": "[640.58 -> 722.06] 赫尔细胞膜会立即发生生理反应根据细胞根子的经能类然后精子力量后尾部脱离血液的荷膜会形成一个新的合绵形成成分比原来精子还大的核酸素重量核然后排出第二季度后会形成磁量核从磁量核充分发育后相互移动比靠近更小时了然后形成质量回答得非常棒请坐其实在刚刚同学描述到的这个过程中我们还有许多细节要进行解释比如透明带在这个过程中起了什么作用呢以及细胞核又会发生怎样的变化我们下节课再继续学习科学家们通过科学技术的一步步的推进从而推动了我们的社会一步步向前发展比如我们刚刚说的实现高产奶牛的培育科学技术其实为我们的社会带来了非常大的便利希望未来呢同学们也能努力学习生物学知识再把它运用到我们的实际生活中去为生命科学的建设做出贡献时间到谢谢各位评委老师",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains diagrams and text written in green chalk. It includes a diagram of a pig with labeled parts and a circular diagram with arrows.\n   - The presentation slide on the screen lists questions in Chinese, likely summarizing key points or discussion topics.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Diagram of a pig with labels: \"头\" (head), \"猪\" (pig), \"尾\" (tail), \"猪精液\" (pig semen).\n     - Text: \"与胚胎移植操作区域\" (Embryo transfer operation area), \"生物组第33号选手\" (Biology Group No. 33 Contestant).\n   - Presentation Slide:\n     - Title: \"胚胎工程专题探究\" (Embryo Engineering Special Topic Investigation).\n     - Questions:\n       1. \"猪的精液是否可以直接用于胚胎移植？\" (Can pig semen be directly used for embryo transfer?)\n       2. \"如何将猪的精液进行处理后用于胚胎移植？\" (How to process pig semen for embryo transfer?)\n       3. \"如何进行EMB的制备和保存工作？\" (How to prepare and store EMB?)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures with her hand, likely pointing to the diagrams on the blackboard to emphasize key points.\n   - She holds papers, possibly referring to notes or a script, while explaining.\n   - The teacher's movements suggest she is summarizing the content on the blackboard and slide, possibly linking the diagrams to the questions on the screen.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on the current content, with no new slides or board sections introduced for next steps.",
+  "visual_narrative": "The lesson concludes with a summary centered on the blackboard and presentation slide. The teacher visually reviews the content by gesturing towards the diagrams on the blackboard, emphasizing the labeled parts of the pig and the circular diagram. She points to the questions on the slide, likely connecting them to the diagrams. The final emphasis is on the key diagrams and questions, reinforcing the concepts of embryo transfer and semen processing. There is no visible homework or next-step instruction presented in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sperm-Egg Binding",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Zona Pellucida Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "c3",
+        "label": "Pig Semen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Embryo Transfer",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Cell Membrane Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "c6",
+        "label": "EMB Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Scientific Advancements",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[640.58 -> 722.06]"
+      },
+      {
+        "id": "v1",
+        "label": "Pig Diagram on Blackboard",
+        "type": "Visual",
+        "original_text": "Diagram of a pig with labels: head, pig, tail, pig semen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Embryo Transfer Area Text",
+        "type": "Visual",
+        "original_text": "Text: Embryo transfer operation area, Biology Group No. 33 Contestant",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Presentation Slide Questions",
+        "type": "Visual",
+        "original_text": "Questions: Can pig semen be directly used for embryo transfer? How to process pig semen for embryo transfer? How to prepare and store EMB?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Describes the specific interaction necessary during fertilization."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains the use of pig semen within the embryo transfer procedure."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Indicates the biological reactions necessary for zona pellucida function."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Details the preparation required for successful embryo transfer."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Highlights scientific advancements that enable EMB preparation."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Displays key elements related to pig semen."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlights the area where embryo transfer is applicable."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "Outlines key questions regarding embryo transfer."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "praises_response",
+        "intent": "Teacher encourages students' understanding of scientific advancements."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

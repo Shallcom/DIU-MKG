@@ -1,0 +1,131 @@
+{
+  "video_name": "24_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the phenomena of the magnetic effect of electric current and its relationship to magnetic fields; master the method of deriving physical conclusions by analyzing experimental observations.",
+  "transcript": "[0.0 -> 233.3] 教学设计能力包括实情分析教材分析以及我们的教学重难点这考验了我们的理事段生对于我们教书教的这一章节的整体内容那么重点呢是在于我们的教学流程的设计就比较综合它是对我们能否把握好低节课节奏的考验包括了我们的教学方法教学手段那么第二个是我们考验我们的PPT设计能力这是考验我们是否熟练地运用各种软件以及让我们学会利用科技手段更好地融入到我们的教学中第三点是我们的版书技能这考验我们的书写技能大家都说字如其人那么我们作为物理师范生自然也是要凛然正气那我们的字迹就能够体现这一点如果我们的字迹太过的潦草那么学生看着也是不是那么的舒服那么综合以上呢我们的教师示范技能大赛是培养我们新一代物理教育工作者的综合能力素质那么这教学示范技能大赛既是培养锻炼其实它也是一个很好的试错的机会它能让我们在踏入实习工作或者真正的就业的时候能有更多的改进空间同时这也是一个非常好的交流会来自各地的教师叫来自各地的师范生伙伴们坐在一起交流我们的从交流我们的授课经验以上就是我的即席演讲内容好接下来会是我的授课环节上课头大家好请坐同学们今天老师带来了一个盲盒那么在这个盲盒里面是什么呢同学们平时有没有抽过盲盒呀对呀那盲盒里面是什么你们知道吗那么现在老师面前还有一个小瓷针那我需要一位同学上来帮助老师完成这个实验这位同学好现在小瓷针在这里老师把盲盒交给你你用这个盲盒靠近这个小磁针你发现了什么小磁针转了对呀小磁针转动了那么现在我就告诉你了有这个现象让你猜想一下盲盒里面有什么呢铁铁普通的铁可以吗磁铁除了磁铁还有没有可能是别的东西呢电流电流可能电流能直接放进去吗不能通电导线对吧好的非常感谢这位同学的配合那么其实老师告诉大家老师在里面放了通电的电流里面有开关电源以及电阻为了保护我们的电路里面是一个完整的电路那么当这位同学靠近小磁针的时候我们发现小磁针转动那同学们想想这是我们之前学过的什么内容啊。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual content on the screen is a slide titled \"电磁感应现象及其应用\" (Electromagnetic Induction Phenomenon and Its Applications). This slide serves as the hook object, introducing the topic of the lesson.\n\n#### 2. **The Title Event**\n- The title \"电磁感应现象及其应用\" is displayed on the screen. The teacher stands in front of the screen, presenting the slide without additional writing on the board at this stage.\n\n#### 3. **The Objectives**\n- The slide transitions to show two learning objectives:\n  - \"通过实验探究电磁感应现象的产生条件\" (Explore the conditions for generating electromagnetic induction through experiments)\n  - \"探究感应电流的方向和大小变化规律\" (Investigate the direction and magnitude change rules of induced current)\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely emphasizing the title and objectives.\n- The teacher interacts with a student in a black coat, possibly demonstrating or discussing a concept related to the objectives.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"电磁感应现象及其应用.\"\n- The teacher holds papers and gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The screen transitions to show the learning objectives.\n- The teacher points to the objectives, likely explaining their significance.\n- The teacher interacts with a student, possibly demonstrating a concept or conducting a brief activity related to electromagnetic induction.\n\n**End:**\n- The teacher continues to engage with the class, using hand gestures to emphasize key points.\n- The screen remains on the objectives, reinforcing the lesson's focus.\n\nThis structured visual analysis links the teacher's actions to the evolving content on the screen, highlighting the introduction and objectives of the lesson.",
+  "visual_narrative": "Initially, the screen presents the title \"电磁感应现象及其应用,\" serving as the hook to introduce the lesson. To bridge to the topic, the teacher stands in front of the screen, holding papers and gesturing towards the title, emphasizing its importance. The visual focus then shifts to the learning objectives displayed on the screen, which outline the exploration of electromagnetic induction conditions and the investigation of induced current characteristics. The teacher points to these objectives, reinforcing their significance. By interacting with a student, the teacher demonstrates a practical aspect of the topic, linking the theoretical content to hands-on experience. This introduction effectively connects new knowledge to potential experimental activities, setting a clear foundation for the lesson's goals.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Magnetic Effect of Electric Current",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 233.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 233.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Induced Current Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 233.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Induced Current Magnitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 233.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Conditions for Electromagnetic Induction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 233.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Electromagnetic Induction Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Electromagnetic Induction Phenomenon and Its Applications'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Learning Objectives Slide",
+        "type": "Visual",
+        "original_text": "Slide with objectives: exploring induction conditions, and current direction and magnitude",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Interacts with Teacher",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Hypothesizes",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The concept of magnetic effect evolves into understanding electromagnetic induction."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Electromagnetic induction includes understanding the necessary conditions."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding conditions helps in exploring the direction of induced current."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding conditions helps in exploring the magnitude of induced current."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of electromagnetic induction."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Objectives slide helps in understanding the direction of induced current."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Objectives slide helps in understanding the magnitude of induced current."
+      },
+      {
+        "source": "ss1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement facilitates understanding of induction conditions."
+      },
+      {
+        "source": "ss2",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Hypothesizing about current magnitude."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

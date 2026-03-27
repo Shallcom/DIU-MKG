@@ -1,0 +1,138 @@
+{
+  "video_name": "42_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Understand the connotation and significance of biology’s core competencies; master the methods of inductive comparison and model construction in scientific thinking.",
+  "transcript": "[0.0 -> 103.7] 今天我所抽取到的即兴即习演讲的题目为高中生物学课程的设计和实践要求以核心素养为目标生物学学科的核心素养的内涵和意义又是什么呢我们都知道生物学科的核心素养包括四个方面为生命观念科学思维科学探究以及社会责任科学生命观念要求我们知道生物学科的核心素养包括四个方面为生命观念科学思维科学探究以及社会责任科学生命观念结构与功能观以及生命的构成和价值在科学探在科学思维中我们需要知道归纳对比总结构建模型等科学思想在科学探究中我们需要知道科学探究的过程包括哪些我们要在科学探我们要引导学呃进行科学探究发现问题提出假说验证假说最终得出结论对在社会责任方面我们需要对社会的热点能够提出自己的看法有自己的理解还可以通过化学式的学习学习科学家的创新思维以及创新精神通过生物学科的四大核心素养我们会可以理解生物学中的大概念还可以构建模型让学生自己探索构建模型的过程并且探索提出假说验证假说最终得出结论的的过程还有利于促进学生的全面发展在知道知识与技能方面的同时促进思维水平的更加提升我的集体演讲完毕接下来开始我的模拟上课环节",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"细胞的增殖\" (Cell Proliferation). This initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"细胞的增殖\" is displayed on the screen. The teacher does not physically write it but presents it as part of the slide. The title is prominently displayed in large font.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the screen.\n- The teacher's hand movements are minimal, primarily involving holding and reading from the papers.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title slide \"细胞的增殖.\"\n- The blackboard shows some text on the left side, possibly related to the lesson content, but it is not the focus of the teacher's actions.\n\n**Middle:**\n- The teacher continues to hold and read from the papers, occasionally looking up, likely addressing the class.\n- The screen remains on the title slide, indicating the introduction phase of the lesson.\n- The teacher's gestures are limited to holding the papers, with no direct pointing or interaction with the board or screen.\n\n**End:**\n- The teacher maintains a similar position, emphasizing the introduction through verbal content rather than visual interaction.\n- The screen and blackboard content remain unchanged, focusing on the title and initial setup for the lesson.\n\nThis structured visual analysis captures the teacher's actions and their linkage to the visual content presented during the introduction phase.",
+  "visual_narrative": "Initially, the screen presents the title slide \"细胞的增殖\" as the opening visual stimulus, setting the stage for the lesson. The teacher stands at the front, holding papers, and begins the introduction. To bridge to the main topic, the teacher maintains focus on the title slide, using minimal gestures, primarily holding and referencing the papers. The visual focus remains on the title throughout, establishing the lesson goal. This approach connects the new knowledge by clearly presenting the topic upfront, allowing students to anchor their existing understanding of cell biology to the forthcoming content on cell proliferation. The consistent visual emphasis on the title slide helps orient students to the lesson's primary focus, preparing them for deeper exploration of the subject.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cell Proliferation",
+        "type": "Visual",
+        "original_text": "The title slide 'Cell Proliferation' displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c2",
+        "label": "Biology Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Inductive Comparison",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Life Concept",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c8",
+        "label": "Social Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.7]"
+      },
+      {
+        "id": "c9",
+        "label": "Cognitive Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c10",
+        "label": "Scientific Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Biology Core Competencies include aspects of scientific thinking."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Scientific Thinking includes methods like inductive comparison."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Scientific Thinking includes methods like model construction."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Core competencies cover the life concept as a principle."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Core competencies emphasize the importance of scientific inquiry."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Core competencies involve understanding social responsibility."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The visual presentation of cell proliferation highlights core biological competencies."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Introduction to scientific thinking activates students' engaged cognitive state."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "guides_discussion",
+        "intent": "Discussion on scientific inquiry engages students in a scientific discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,157 @@
+{
+  "video_name": "38_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "Accurately record and analyze experimental data.",
+  "transcript": "[553.12 -> 621.86] 你们小组的实验过程测量了几个物体了吗已经测量四个了是吧非常好啊。\n[623.7 -> 711.3] 你们小组的实验过程测量了几个物体了吗四个都测量完了是吧好老师看到刚才同学们的实验过程都非常的积极现在老师想请一位小组同学给大家分享一下他们小组所测得的实验结果哪位小组愿意啊好来我老师看到你的实验记录也非常准确那就请这位小组同学代表和大家分享一下他们的实验数据第一个铝块是二十克然后第一个铝块是二十克稍等一下老师帮你记录一下五十里方大概是五十是吗好的第二个呢三十克哦第二个你测得的质量是三十克八十立方厘米第三个呢四十克好一百立方厘米好我们目前先记录这三个好非常感谢你请坐他们小组的实验老师认为是非常可靠的他们发现质量为二十克时体积为五十立方厘米质量为三十克时体积为八十立方厘米质量为四十克时体积为一百立方厘米通过这样的一个表格那大家觉得只从这个表格上我们能发现什么规律。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher turns to face the class, holding a piece of paper, and gestures with her hand, signaling the start of an interaction. She points to the table she has drawn on the blackboard, inviting students to engage with the content.\n\n2. **The Visual Focus Point:**\n   - The focus is on the table drawn on the blackboard, which is labeled with columns for mass (m) and volume (V). The table is initially empty, awaiting student input.\n\n**Middle:**\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - As a student responds, the teacher listens attentively and begins to fill in the table on the blackboard. She writes \"20\" in the mass column and \"30\" in the volume column, corresponding to the student's input. This visual action provides immediate scaffolding by confirming the student's contribution and guiding further discussion.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - After writing the student's input, the teacher gestures towards the table, nodding to indicate correctness. She then proceeds to fill in additional values, writing \"40\" and \"60\" in the next row, visually extending the pattern and reinforcing the concept being discussed.\n\n**End:**\n\n5. **The Invitation Gesture (Elicitation):**\n   - The teacher points to the last row of the table, which remains empty, and looks at the class, inviting further participation. This gesture signals that she is expecting more input to complete the table.\n\n6. **The Visual Focus Point:**\n   - The focus remains on the table, now partially filled with values. The teacher's actions emphasize the relationship between mass and volume, encouraging students to think about the pattern and complete the table.\n\n7. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - As another student provides input, the teacher writes \"60\" in the mass column and \"90\" in the volume column, visually confirming the student's understanding and continuing the pattern.\n\n8. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher circles the completed table, giving a visual confirmation of the correct pattern. She smiles and gestures towards the table, reinforcing the correct relationship between mass and volume.\n\n**Summary of Visual Evolution:**\n\n- **Initial State:** Empty table with headers for mass (m) and volume (V).\n- **Middle State:** Table partially filled with \"20\" and \"30\" in the first row, \"40\" and \"60\" in the second row.\n- **Final State:** Table completed with \"60\" and \"90\" in the last row, circled by the teacher to indicate correctness.\n\nThe teacher's visual strategies effectively guide the co-construction of knowledge, using the table as a central artifact for interaction and confirmation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed an empty table with columns labeled for mass (m) and volume (V), alongside the prompt to explore the relationship between these quantities. The teacher began by gesturing towards the table, inviting students to participate in filling it out. She held a piece of paper and pointed to the table, signaling the start of an interactive session.\n\nAs students responded, the teacher moved to the board, jotting down their inputs. She wrote \"20\" in the mass column and \"30\" in the volume column, then continued with \"40\" and \"60\" in the next row. Her movements were deliberate, ensuring each entry was clear and aligned with the students' contributions. While a student provided the final values, the teacher listened attentively, nodding to encourage their reasoning.\n\nTo validate the answer, the teacher gave a distinct nod and circled the completed table, emphasizing the correct pattern. She then drew arrows connecting the values, highlighting the proportional relationship between mass and volume. This visual action linked the student's response back to the core lesson on density and volume relationships.\n\nFinally, she walked around the classroom, pointing to the table and asking follow-up questions, prompting students to reflect on the pattern they had collectively identified. This process helped students move from passively receiving knowledge to actively constructing their own understanding, reinforcing the lesson's key concepts through visual and interactive engagement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[553.12 -> 621.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Volume",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[553.12 -> 621.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Density",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[623.7 -> 711.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Measurement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[553.12 -> 711.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Mass-Volume Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[623.7 -> 711.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Experiment Data",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[553.12 -> 711.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Table on Blackboard",
+        "type": "Visual",
+        "original_text": "Table drawn on blackboard labeled with columns for mass and volume",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Table Filled",
+        "type": "Visual",
+        "original_text": "Table filled with numeric values, indicating mass and volume",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher's Gesture",
+        "type": "Visual",
+        "original_text": "Teacher inviting participation by pointing at the table",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Group Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Providing Input",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Mass is a component of the mass-volume relationship."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Volume is a component of the mass-volume relationship."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Density concept evolves from understanding mass-volume relationship."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Measurement is the basis for recording experimental data."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding mass-volume relationship aids in grasping density principle."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "evolves_from",
+        "intent": "Initially empty table on blackboard is filled with values during interaction."
+      },
+      {
+        "source": "v3",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "Teacher's gesture engages students by directing focus to the table."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Filled table emphasizes the concept of mass-volume relationship."
+      },
+      {
+        "source": "ss2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Students provide input contributing to the collected experiment data."
+      },
+      {
+        "source": "v2",
+        "target": "ss2",
+        "relation": "scaffolds",
+        "intent": "Table provides visual support for students responding with data."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Visual setup of table guides procedural measurement tasks."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

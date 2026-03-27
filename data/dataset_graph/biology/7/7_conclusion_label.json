@@ -1,0 +1,119 @@
+{
+  "video_name": "7_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "- Be able to select and evaluate suitable microbial strains.  \n- Master the fundamental technical points of microbial cultivation.  \n- Analyze common issues in the inoculation process and propose appropriate solutions.",
+  "transcript": "[560.0 -> 562.58] 还没有动起笔的同学也抓紧时间把你们的笔动起来在纸上写一写\n[585.0 -> 730.16] 好请回头就来看一下这位同学的写得对不对有没有不同的意见呢有没有不同的意见想要进行补充的看有你觉得有吗这种风靡应该还有三个步骤那三个步骤老师等我来进行补充那么这个同学他的基本思路还是非常的清晰吧那我觉得同学们应该给他一下掌声好那么我们一起来看一下基本房间有哪一些这位同学刚才还就说到还有三个部分那么先来看看他写的血郁菌种同学们那我们应该选育什么菌种呢性状有点高产了那我们一般是在哪里获取到我们这种优质的菌种自然健种还能不能通过其他的变异育种没错那有这么多种方法我们的菌种数量是不是比较少那我要让它数量所以我需要扩大培养那扩大培养到接种的时候就来到了我们微食物培养技术了那我们选出菌种之后根据我们这个特殊的菌种它需要的营养物质要来配置培养机那培养机配置完就可以直接去接种吗为什么呢对万一有杂菌污染怎么办比如说我们在培养青霉素的时候要是有杂菌污染那这些杂菌它就分泌出分解青霉素的酶就会导致我们青霉素的产量降价那刚才这位同学说他没写全那还应该还要怎么样呢接种完之后时间到了好那本节课我们就先上到这里我们下课",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard on the left side of the classroom. It contains handwritten notes in white chalk.\n   - The layout includes a list of key points written vertically, with some color coding using green and blue markers for emphasis.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard contains the following main points:\n     - 実験工程 (Experimental Process)\n     - 一覧表 (List)\n     - 3大要素 (Three Major Elements)\n     - 実験計画の目標 (Objective of the Experimental Plan)\n     - 二要素共変 (Two Elements Co-variation)\n     - 進展過程 (Progress Process)\n   - There is a diagram or flowchart on the right side of the blackboard, though details are not fully visible.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the list on the blackboard, specifically highlighting the \"3大要素\" (Three Major Elements) and \"二要素共変\" (Two Elements Co-variation).\n   - She gestures towards the digital screen, indicating a connection between the blackboard notes and the content displayed.\n   - The teacher uses hand movements to emphasize the flow of information from the blackboard to the screen, reinforcing key concepts.\n\n4. **Transition to Next Step**:\n   - The digital screen displays a slide with text and diagrams, likely summarizing the lesson content. It includes sections with headings and bullet points, though specific text is not fully legible.\n   - There is no explicit visual indication of homework or next lesson steps on the screen or blackboard in the provided frames.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the experimental process. The teacher visually reviews the content by pointing to each key point in sequence, emphasizing \"3大要素\" (Three Major Elements) and \"二要素共変\" (Two Elements Co-variation). She gestures towards the digital screen, reinforcing the connection between the blackboard notes and the displayed content. The visual focus remains on the core concepts, with no explicit homework or next-step instructions visible in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Experimental Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[560.0 -> 730.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Three Major Elements",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[560.0 -> 730.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Objective of Experimental Plan",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[560.0 -> 730.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Two Elements Co-variation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[560.0 -> 730.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Progress Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[560.0 -> 730.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard contains key points like 'Experimental Process' and 'Three Major Elements'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Content",
+        "type": "Visual",
+        "original_text": "Slide on the screen summarizes lesson content with headings and bullet points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Active Peer Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Taking Notes",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard visually summarizes 'Three Major Elements'."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard visually summarizes 'Two Elements Co-variation'."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The connection between the blackboard and screen is emphasized by the teacher."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "'Progress Process' is part of the 'Experimental Process'."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "'Experimental Process' originates from the 'Objective of Experimental Plan'."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students engage in active review of 'Three Major Elements'."
+      },
+      {
+        "source": "ss2",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Students take notes influencing their understanding of the 'Experimental Process'."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

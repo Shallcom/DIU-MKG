@@ -1,0 +1,146 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Analyze problems in instructional design and propose solutions; apply problem‑oriented methods to optimize the curriculum plan; reflect on classroom implementation outcomes and adjust strategies.",
+  "transcript": "[0.0 -> 127.74] 并哈哈康英德克拉斯啊拉克的康坦斯的奥特皮斯安德迈斯特斯啊哈哈迈尼的康坦斯这些问题解决了并且进行继续的预备继继续的预备�anddesignthenextclassworkmorelogicalandcomfortrightokaythat'sallmyokayandtheteachinglogweshouldfocusontheproblemsintermsoftheproblemsthatmeanstheteacherscannotonlywritedownthecontentoftheirclass但是专注于发掘问题和创造新的计划在下一课中进行更好的教育计划。\n[130.9 -> 193.22] 教授们也应该专注于课程的位置和学生的状况在教育计划中发生的情况andfocusontheproblemstheteachershouldtodissolveinthenextclassOKthat'sallmytopic好的课程今天怎么样我说大笑在你脸上对吧好的今天课程我想问你一些问题你认识多少中国文化我们学习过中国文化的传统专辑节目中的传统专辑计划吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the text \"TO CHINATOWN!\" displayed on the screen to the left of the teacher. This text is prominently shown and likely initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"TO CHINATOWN!\" is displayed on the screen. The teacher does not physically write this but stands next to it, emphasizing its presence.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points in the presentation.\n- The teacher points towards the screen, likely drawing attention to the \"TO CHINATOWN!\" text.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the class with the screen displaying \"TO CHINATOWN!\".\n- The teacher holds papers, indicating the start of a presentation or speech.\n\n**Middle:**\n- The teacher gestures with the papers, possibly emphasizing key points related to the content on the screen.\n- The teacher points towards the screen, directing attention to the \"TO CHINATOWN!\" text.\n\n**End:**\n- The teacher continues to gesture, maintaining focus on the screen content.\n- The teacher's movements suggest engagement with the audience, possibly summarizing or concluding the introduction.\n\nThis structured log captures the visual evolution and links the teacher's actions to the displayed content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and the screen prominently displaying the hook object, \"TO CHINATOWN!\" This text serves as the initial visual stimulus, capturing the students' attention. The teacher gestures with the papers, likely emphasizing key points related to the content on the screen. As the introduction progresses, the teacher points towards the \"TO CHINATOWN!\" text, reinforcing its significance. The visual aid remains consistent throughout, with no transition to a new topic or slide observed in this segment. The teacher's gestures and focus on the screen content suggest an effort to engage the students and set the stage for the lesson, linking the hook to the forthcoming material. This approach likely aims to connect the students' existing experiences or interests to the new knowledge, creating a bridge for deeper understanding as the lesson advances.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Instructional Design Problems",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 127.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Problem-Oriented Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 127.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Optimize Curriculum Plan",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 127.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Classroom Implementation Outcomes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[130.9 -> 193.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Adjust Strategies",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[130.9 -> 193.22]"
+      },
+      {
+        "id": "c6",
+        "label": "TO CHINATOWN!",
+        "type": "Visual",
+        "original_text": "TO CHINATOWN!",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher gesturing with papers and pointing to screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Connect Existing Experiences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 127.74]"
+      },
+      {
+        "id": "c9",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 193.22]"
+      },
+      {
+        "id": "c10",
+        "label": "Chinese Culture Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[130.9 -> 193.22]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Approaching problems with a systematic method to address instructional design challenges."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Using problem-oriented methods to further optimize curriculum plans."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Implementing optimized plans leads to outcomes that reflect curriculum effectiveness."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Outcomes guide the need to adjust teaching strategies."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The teacher uses gestures to draw attention to the visual hook."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The visual text 'TO CHINATOWN!' engages students at the start of the lesson."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Existing experiences used to introduce new cultural knowledge about China."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement connects their experiences to the new topic."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures encourage student engagement."
+      },
+      {
+        "source": "c10",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Knowledge of culture can inform strategy adjustments."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

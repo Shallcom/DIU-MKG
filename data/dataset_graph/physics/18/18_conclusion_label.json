@@ -1,0 +1,173 @@
+{
+  "video_name": "18_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Distinguish the concepts of displacement and distance; master the difference between vectors and scalars and their applications in physics.",
+  "transcript": "[555.12 -> 665.66] 什么时候在哪里那还有一个问题运动了多远呢这个问题其实也就是物体位置的变化好现在我们就来看一下某人还要从北京去重庆他可以有不同的线路比如说他可以坐飞机还有呢坐高铁或者先坐火车到这儿然后坐船在做火车过去好它有不同的线路也就是说它所走过的路程是不同的路程大家想一想在初中我们所说的路程是什么呀指的是物体运动轨迹的长度那大家想一想这个路程是不同的在这个问题当中有没有使唤量是不变的呢大家思考一下好我刚刚听到有同学说是初位置和末位置的舞殿因为他们都是从北京去重庆好也就是说它们位置的变化是相同的那在这里我们是用一条有象线段从出位置指向末位置的有象线段来表示这个人他位置的变化那我们把这样的位置的变化我们用位移来描述位移来表示位移我们用L来表示好那像位移这样的使样的它是一它是像位移这样的物理量它是叫做矢量它是既有方向又有大小的像温度路程这样的物理量它是标量只有大小没有方向好那在前面我们学习了用一维坐标系来描述物体的位置那么在一维坐标系中位移应该如何表示呢。\n[668.06 -> 744.42] 大家思考一下我们一就是可以利用建立坐标系的方法来描述位移好请同学们看如果我们设X一是出位置设X二是末位置那从出位置到末位置它走过的位移是我们用德尔塔X来表示也就是X二减去X一那如果X二减去X一出来的是一个负数怎么办我们刚才说了位移它是一个矢量它既有大小又有方向那在这里呢我们把位移的方向把这个计算结果为正数的称作是位移的方向指向X轴的正方向如果三是不熟的那么位的方向就指向X轴的不方向好了那我们今天的课程就说到这里请同学们课后再预习下一节课的内容我的书课到此结束感谢各位评论老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the interactive whiteboard.\n   - The blackboard contains the headings: \n     - 一、时刻和时间间隔 (1. Moment and Time Interval)\n     - 二、位置和位移 (2. Position and Displacement)\n   - The interactive whiteboard displays a diagram with a timeline and a formula for displacement.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - 时刻和时间间隔 (Moment and Time Interval)\n     - 位置和位移 (Position and Displacement)\n   - Interactive Whiteboard:\n     - Diagram with timeline: $t_1$, $t_2$, $x_1$, $x_2$\n     - Formula: 位移 $\\Delta x = x_2 - x_1$\n     - Text: 正：位移的方向与坐标轴方向相同 (Positive: Displacement direction is the same as the coordinate axis)\n     - Text: 负：位移的方向与坐标轴方向相反 (Negative: Displacement direction is opposite to the coordinate axis)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the timeline diagram on the interactive whiteboard, highlighting the positions $x_1$ and $x_2$.\n   - The teacher gestures towards the formula $\\Delta x = x_2 - x_1$, emphasizing the calculation of displacement.\n   - The teacher uses hand movements to indicate the positive and negative directions of displacement as described on the whiteboard.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the key concepts of time intervals and displacement.",
+  "visual_narrative": "The lesson concludes with a summary displayed on both the blackboard and the interactive whiteboard. The blackboard features two main headings: \"时刻和时间间隔\" (Moment and Time Interval) and \"位置和位移\" (Position and Displacement). The interactive whiteboard shows a timeline diagram with positions $x_1$ and $x_2$, and the displacement formula $\\Delta x = x_2 - x_1$. The teacher visually reviews the content by pointing to the timeline diagram, highlighting the positions and the formula. She emphasizes the positive and negative directions of displacement as described on the whiteboard. The visual focus remains on these key concepts, reinforcing the core takeaway of displacement calculation and direction. There is no visual indication of homework or next steps in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Moment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Time Interval",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Position",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Scalars",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Coordinate Axis Direction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[555.12 -> 744.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Positive Displacement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[668.06 -> 744.42]"
+      },
+      {
+        "id": "c9",
+        "label": "Negative Displacement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[668.06 -> 744.42]"
+      },
+      {
+        "id": "c10",
+        "label": "Displacement Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[668.06 -> 744.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Timeline Diagram",
+        "type": "Visual",
+        "original_text": "Diagram on interactive whiteboard showing $t_1$, $t_2$, $x_1$, $x_2$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Displacement Formula",
+        "type": "Visual",
+        "original_text": "Interactive whiteboard displays formula: Displacement $\\Delta x = x_2 - x_1$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Positive and Negative Directions",
+        "type": "Visual",
+        "original_text": "Text on interactive whiteboard explaining displacement directions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Individual Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Time intervals help measure changes over moments."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Displacement is derived from changes in position."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Displacement is a type of vector."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Position can be described as a scalar."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Understanding displacement calculation includes evaluating direction."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Understanding displacement calculation involves directional evaluation."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The timeline diagram helps understand the calculation steps."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The formula illustrates how displacement is calculated."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Visual aids help explain the direction of displacement."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Encourages students to focus on individual concepts using diagrams."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

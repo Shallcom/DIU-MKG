@@ -1,0 +1,145 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "- Be able to describe the self‑shaping characteristics of crystal structures and their macroscopic manifestations.  \n- Be able to analyze the differences in microscopic structure between crystals and amorphous solids.  \n- Be able to apply the learned knowledge in experiments to observe and judge crystal formation.",
+  "transcript": "[479.6 -> 579.04] 我听到同学们的讨论声渐渐地小了那么谁呢作为代表起来回答一下呢你第一个举手你可以能感激起来吗我认为晶体它因为有自翻形它就可以自发形成多边形外观所以它在三维空间里它是永续排列非常好那么我们可以通过微观结构来推出它的宏观性接着通过这样一种方式我们看下一个当然非晶体它没有自翻形所以它的原子排列是无序的它就不能形成非常的好看来这个晶体已经掌握了这个知识点那么我们在实验中如何得到晶体呢我们下节课会继续探究这个实验如何得到晶体那么我们来看一下有这么多种多样的晶体说明我们化学物质是多样的在不断的发展过程中那么未来科学家还会发可能还会发现有很多很多样的晶体那么我们后面还会继续进行探究那么通过本节课的学习我想找一个同学起来总结一下我们学习到了什么样的知识点呢好一开始我感觉这个它一开始就是打破我对这几状态的一个认识之前以为只有切入但是它的发挥等于子体还有液晶层然后然后我还学习了固体里面是有晶体的非晶体的两个序面并且学习它在微观结构就从从观到微观的一个认识这个是我之前就学到的非常好请说你善于从两个不同的来解释这个问题这样的学习方法会在你以后的道路上让你越走越远那么我们本节课就上到这下课了。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with a title box and a list of key points or definitions.\n   - The blackboard contains handwritten notes, including a diagram with labels and bullet points.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**: \n     - Title: \"まとめ\" (Summary)\n     - Key points include definitions or descriptions related to the lesson topic, such as \"気体の状態方程式\" (Ideal Gas Law) and \"等圧過程\" (Isothermal Process).\n   - **Blackboard Content**:\n     - Diagram with labels: \"物質の凝集と蒸発及び沸点\" (Condensation and Evaporation of Substances and Boiling Point)\n     - Bullet points: \"気体状態\", \"気液固\", \"等圧過程\", \"等温過程\" (Gas State, Gas-Liquid-Solid, Isothermal Process, Isochoric Process)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the slide content, specifically highlighting the title and key points, likely emphasizing the importance of each term.\n   - The teacher gestures towards the blackboard, possibly indicating the diagram and bullet points, reinforcing the concepts discussed.\n   - The teacher uses hand movements to underline or circle important terms on the blackboard, ensuring students focus on critical information.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the slide or blackboard.\n   - The teacher's gestures suggest a conclusion, possibly preparing students for the next lesson or review session without additional visual cues for assignments.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"まとめ\" prominently displayed, featuring key points such as \"気体の状態方程式\" and \"等圧過程.\" The teacher systematically points to each item on the slide, ensuring students focus on the definitions and concepts. Meanwhile, the blackboard retains a diagram labeled \"物質の凝集と蒸発及び沸点,\" accompanied by bullet points like \"気体状態\" and \"等温過程.\" The teacher gestures towards these elements, reinforcing their significance. A notable emphasis is placed on the central concepts, with the teacher possibly underlining or circling key terms on the blackboard to highlight their importance. No explicit visual cues for homework or next steps are present, suggesting a focus on consolidating the day's material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Self-shaping Crystals",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[479.6 -> 579.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Microscopic Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[479.6 -> 579.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Macroscopic Manifestation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[479.6 -> 579.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Crystal Formation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[479.6 -> 579.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Amorphous Solids",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[479.6 -> 579.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Ideal Gas Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Phase 4 Conclusion]"
+      },
+      {
+        "id": "c7",
+        "label": "Isothermal Process",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[Phase 4 Conclusion]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Summary' with key points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Gas Law Diagram",
+        "type": "Visual",
+        "original_text": "Diagram: Condensation, Evaporation, Boiling Point",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The slide summarizes the Ideal Gas Law from the lesson."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "The slide summarizes the Isothermal Process concepts from the lesson."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding self-shaping crystals helps in analyzing their macroscopic manifestation."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Observing crystal formation informs the macroscopic manifestation of these structures."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "compares_with",
+        "intent": "Analyzing the differences between microscopic structures of crystals and amorphous solids."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram supports understanding of the Ideal Gas Law by illustrating processes."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "The concept of amorphous solids is developed from understanding gas laws."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "A student answers a question about self-shaping characteristics of crystals."
+      },
+      {
+        "source": "s2",
+        "target": "v1",
+        "relation": "focuses_on",
+        "intent": "Students are engaged with the summary slide displaying key concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

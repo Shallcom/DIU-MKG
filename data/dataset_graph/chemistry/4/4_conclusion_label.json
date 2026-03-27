@@ -1,0 +1,142 @@
+{
+  "video_name": "4_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Master the method for preparing solutions of a specific molar concentration; understand the standardized operation of using a volumetric flask.",
+  "transcript": "[678.9382 -> 694.56] 将烧杯中的配好的溶解好的氯化钠溶液注入到一百毫升的容量瓶之后同学们想一想那烧杯中对很好我听到有同学说还有残留的氯化钠溶液那如果这残留的氯化钠溶液不一起注入到容量瓶中就会造成我们的实验操作误差很好所以说我们在这个再用少量的蒸馏水洗涤烧杯的内壁以及玻璃棒两到三次它的洗涤液呢也要一起注入容量瓶中并且轻轻晃动容量瓶使容液混合均匀那刚才我们说容量瓶中显示有刻度我们选取一百毫升的容量瓶这个刻度就表示着这个容量瓶的体积的容量是一百毫升下面呢我们再向容量瓶中加入蒸馏水直到叶面在刻度线以下一到两厘米的时候呢我们再将蒸馏用浇头滴管滴下蒸馏水减小视野误差现在我们已经学习了物质的量浓度的配置。\n[700.84 -> 706.52] 最后我们将配好的溶液放入设计品中贴好标签保存留用。\n[708.08 -> 716.54] 那请同学们哪位同学帮老师来总结一下我们如何来配置一定物质的量浓度的溶液呢。\n[718.8 -> 722.86] 通过我的授课到此结束谢谢。\n[730.84 -> 738.92] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a diagram with the heading \"概念\" (Concept) and a box labeled \"物质的量浓度\" (Molar Concentration).\n   - The layout includes a simple diagram with arrows and text, indicating a conceptual flow or relationship.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard features the term \"物质的量浓度\" (Molar Concentration).\n   - There are additional handwritten notes and arrows, though specific details are not fully visible.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the blackboard, likely emphasizing the concept of molar concentration.\n   - The teacher gestures towards the screen, which displays a slide with text and a cloud shape, possibly summarizing key points or providing additional information.\n\n4. **Transition to Next Step**:\n   - The video concludes with a yellow title screen indicating the competition and subject, suggesting the end of the lesson.\n   - No specific homework or next lesson details are visible on the screen or board in the final frames.\n\nThis structured visual summary highlights the key concept of molar concentration, with the teacher's gestures reinforcing the main points on both the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a diagram centered around the concept of \"物质的量浓度\" (Molar Concentration). The teacher visually wraps up the lesson by pointing to the diagram, emphasizing the key term. Gestures are directed towards both the blackboard and the screen, which shows a slide with text and a cloud shape, likely summarizing the lesson's main points. The teacher's movements suggest a review of the conceptual flow depicted in the diagram. The video concludes with a transition to a yellow title screen, indicating the end of the session without visible homework or next-step instructions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sodium Chloride Solution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Volumetric Flask",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Molar Concentration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Distilled Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Experiment Error",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Glass Rod",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Solution Labeling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[700.84 -> 706.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Stopper Flask Swirl",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "c9",
+        "label": "Surface Tension Line Adjustment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.9382 -> 694.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Concept Diagram on Blackboard",
+        "type": "Visual",
+        "original_text": "Diagram with heading 'Concept' and labeled 'Molar Concentration'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide with Cloud Shape",
+        "type": "Visual",
+        "original_text": "Slide containing text and cloud shape summarizing key points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[708.08 -> 716.54]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sodium Chloride Solution prepared using Volumetric Flask."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Molar Concentration principle applied in solution preparation."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "guides",
+        "intent": "Procedure to minimize experiment error."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Distilled Water added in Stopper Flask Swirl procedure."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Blackboard illustrates Molar Concentration concept."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Slide emphasizes the procedure for preparing Sodium Chloride Solution."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Students actively engaged in discussing Solution Labeling procedure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

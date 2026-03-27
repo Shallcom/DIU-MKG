@@ -1,0 +1,133 @@
+{
+  "video_name": "22_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "chinese",
+  "teaching_goal": "Students will understand the reasons for Li Mi’s petition and his emotional expression; students will be able to analyze how others’ attitudes toward Li Mi’s actions change; students will master techniques for emotional expression in specific contexts.",
+  "transcript": "[236.0 -> 295.56] 在刚才为何陈情的时候啊在刚才陈情合适的时候我们在第一段就可以看到是他要回去照顾他年迈的重病的祖母大家看到了吗都理解了没有所以是陈情合适那么为何陈情有没有同学可以为我们来说一说他的想法请你来陈情主持是祖母留龙岭成都落宫亲抚养那为何陈情呢因为流素因疾病常在床褥沉湿汤尿会流病日赌。\n[297.12 -> 322.44] 流病日赌你找到了关键词就是老师现在已经在屏幕中展现出来的家庭原因对不对因为祖母重病了自己要回家去照顾祖母很好那么其他人是否理解他的做法呢接下来我们来看一下在第几段写了其他人对这件事情的看法呀。\n[324.92 -> 407.34] 第几段有找到吗就在第二自然段的后面对不对太守是怎么说的呀哎同学们找到没有没有啊太守茶臣笑莲那四使又怎么样呢哦他们都他们重用我关照我可是我却没有顺他们的心意我怎么样啊我怎么办呀我要辞官我要回家对吧所以在这个地方啊其他人对于他的做法是理解还是不理解不理解的还有吗还可以用词来形容一下吗后面这一个地方他说急于心火火急火燎的像流星一样形容着一个程度之深想问一下这里是是不是在催促她是吧嗯其他人的态度啊是不理解是催促的。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher made a sweeping gesture towards the class, signaling the start of the interaction. This gesture was broad, encompassing all students, inviting them to participate.\n\n2. **The Visual Focus Point:**\n   - The focus was on the blackboard, where the names \"陈晴柔,\" \"陈晴晴,\" and \"刘研楠\" were written. This served as the primary visual artifact for the interaction.\n\n**Middle:**\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While engaging with students, the teacher maintained eye contact and occasionally pointed to the names on the blackboard. This action visually reinforced the discussion points related to the names listed.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - The teacher nodded and smiled, providing non-verbal validation of student responses. Additionally, she pointed to specific names on the board, highlighting correct answers or relevant points in the discussion.\n\n**End:**\n\n- The teacher continued to use the blackboard as a reference, ensuring students connected their responses to the visual content. She occasionally gestured towards the screen, linking the discussion to the slide content, which included Chinese text and a scenic background.\n\n**Summary:**\n\n- The teacher effectively used the blackboard and screen as visual tools to guide the interaction. Her gestures and focus on specific names facilitated student engagement and understanding, creating a dynamic visual dialogue throughout the session.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the names \"陈晴柔,\" \"陈晴晴,\" and \"刘研楠,\" setting the stage for the lesson. The teacher began by making a sweeping gesture across the classroom, inviting all students to engage with the content. This broad invitation signaled the start of an interactive session focused on these names.\n\nAs the discussion progressed, the teacher actively facilitated the conversation by moving towards the blackboard. While students responded, she pointed to each name, reinforcing their relevance to the topic. Her gestures included nodding and smiling, providing non-verbal encouragement. At times, she wrote key terms related to the students' responses on the board, visually capturing their ideas and linking them to the lesson's core content.\n\nTo validate the students' contributions, the teacher gave distinct nods and occasionally circled important points on the board. This visual feedback confirmed correct answers and guided students in real-time. She also gestured towards the screen, connecting the discussion to the slide content, which included thematic Chinese text and imagery, ensuring a cohesive learning experience.\n\nThroughout the interaction, the teacher's movements and gestures transformed passive listening into active participation. By linking student responses to the names on the board and the content on the screen, she helped students construct their understanding. This dynamic approach encouraged students to engage deeply with the material, moving from mere reception to active knowledge construction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Blackboard Names",
+        "type": "Visual",
+        "original_text": "The names 'Chen Qingrou,' 'Chen Qingqing,' and 'Liu Yannan' written on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Sweeping Gesture",
+        "type": "Visual",
+        "original_text": "Teacher uses a sweeping gesture to invite class participation.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Smile and Nod",
+        "type": "Visual",
+        "original_text": "Teacher's non-verbal encouragement using a smile and nods.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v4",
+        "label": "Screen Content",
+        "type": "Visual",
+        "original_text": "Chinese text with a scenic background on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Li Mi's Petition Reasons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[236.0 -> 295.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Emotional Expression Techniques",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[236.0 -> 407.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Others' Attitudes Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[297.12 -> 322.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Family Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[297.12 -> 322.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Misunderstanding",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[324.92 -> 407.34]"
+      },
+      {
+        "id": "s1",
+        "label": "Analyzing Attitudes",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Expressing Emotions",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Li Mi's reasons are founded on the principle of family responsibility."
+      },
+      {
+        "source": "c2",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to express emotions in context-based discussions."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The blackboard names highlight the key figures in the students' discussion."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher's gesture redirects the focus to the blackboard."
+      },
+      {
+        "source": "v3",
+        "target": "s2",
+        "relation": "praises_response",
+        "intent": "Teacher's smile and nod validate students' emotional expressions."
+      },
+      {
+        "source": "v4",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Screen content aids in understanding how others' attitudes change."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Changes in others' attitudes result from misunderstandings."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

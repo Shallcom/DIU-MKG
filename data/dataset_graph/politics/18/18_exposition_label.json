@@ -1,0 +1,145 @@
+{
+  "video_name": "18_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "politics",
+  "teaching_goal": "Understand the role of the residents’ committee as a grassroots mass self‑governance organization; master the committee’s functions in mediating civil disputes and maintaining public security.",
+  "transcript": "[173.12 -> 241.92] 首先呢让我们进入子怡提议的学习社区纠纷找谁管我们来看这样的一个情境最近呀阳光小区的业主群里起了奔驰业主李女士呢她自己出资购房购买了一套健身器材至于小区的公共活动区内而高三学生小张他某天放学后经过了这个活动区不慎被李女士购买的器材绊倒头部轻微头伤对此他的父母和李女士产生了激烈的争执中方谁也不能说服谁于是他们决定找居委会来评估你那同学们请结合情境思考一下为什么小张他的父母还有李女士最终要决定请找我们的居委会来解决这个问题呢请你谈谈对居民委员会作用的理解下面请大家同桌交流思考两分钟。\n[247.5 -> 297.5] 好老师看到大家已经讨论出了相应的结果来我们请这位同学谈谈你的看法因为居委会它有一个任务是要维护居民的合法权益非常好所以说对于这个社区的纠纷而言居委会它有这样的一个职责非常好请做那么其实我们来总结一下实际上居民委员会就是我国基层群众自治的组织形式之一那么除此之外如果是在村里面发生纠纷就要找村委会来解决刚刚同学也有提到之所以找居委会来解决问题是因为它有调解民间纠纷并且协助维护社会治安的职能非常好那这就是我们今天要学习的第一点内容也就是鸡腾群众自制的组织形式。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the blackboard, drawing a simple rectangular shape resembling an open book. The blackboard is mostly blank except for some text on the left side.\n- The screen displays a title slide in Chinese, indicating the topic of the lecture.\n- The teacher uses a marker to add details to the drawing, dividing the rectangle into two sections.\n\n**Middle:**\n- The teacher moves to the screen, pointing at the text displayed. The screen changes to show a passage of text, which the teacher explains.\n- The teacher gestures towards the text, emphasizing key points. The blackboard drawing remains static, serving as a visual reference.\n- The screen transitions to a slide with a circular diagram labeled \"汉译任务\" (Chinese Translation Task). The teacher points to different parts of the diagram while speaking.\n\n**End:**\n- The teacher holds papers and continues to reference the screen, which now displays a detailed text passage.\n- The teacher points to specific sentences on the screen, explaining their significance.\n- The blackboard drawing remains unchanged, providing a consistent visual anchor throughout the lecture.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the rectangular drawing on the blackboard, resembling an open book. It is divided into two sections, possibly representing pages or different concepts.\n   - The screen serves as a secondary anchor, displaying text passages and diagrams related to the lecture topic.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds lines to the blackboard drawing to create the book shape. No further additions are made during the lecture.\n   - **Modifications**: No erasures or modifications are made to the blackboard drawing.\n   - **Deictic Gestures**: The teacher points to specific sentences on the screen while explaining, such as highlighting key phrases in the text passage.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize points on the screen, such as underlining text with a finger.\n   - The circular diagram on the screen is used to visually organize the translation task steps, with the teacher pointing to different concentric circles to highlight stages or components.\n\nThis structured approach ensures that the teacher's actions are clearly linked to the visual content, providing a coherent narrative of the lecture's visual evolution.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed a simple rectangular shape resembling an open book, divided into two sections. This served as the primary visual anchor throughout the lecture. The screen initially showed a title slide, setting the context for the discussion on autonomous governance.\n\nThen, the teacher constructed the lecture by pointing to the text on the screen, which transitioned to a detailed passage. The teacher derived key points from the text, using hand gestures to trace specific sentences, emphasizing their significance. The blackboard drawing remained static, providing a consistent reference point.\n\nAs the lecture progressed, the screen displayed a circular diagram labeled \"汉译任务\" (Chinese Translation Task). The teacher annotated this diagram, pointing to different concentric circles to highlight stages of the translation process. This visual organization helped in structuring the complex information.\n\nFinally, the teacher resolved deixis by tracing the rising slope of the text passage on the screen, illustrating the flow of ideas. The teacher circled important phrases and used gestures to connect them to the blackboard drawing, reinforcing the concepts.\n\nThroughout the lecture, the visual information on the screen and blackboard worked synergistically. The static drawing on the board reduced cognitive load by providing a constant reference, while the dynamic screen content allowed for detailed exploration of text and diagrams. This combination ensured that students could follow the lecture with minimal cognitive strain, enhancing understanding and retention of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Residents’ Committee",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.12 -> 241.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Civil Dispute Mediation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[173.12 -> 241.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Public Security Maintenance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[247.5 -> 297.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Grassroots Self-Governance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[247.5 -> 297.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Community Dispute Example",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.12 -> 241.92]"
+      },
+      {
+        "id": "c6",
+        "label": "Legal Rights Protection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[247.5 -> 297.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "Title slide indicating autonomous governance.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Open Book Drawing",
+        "type": "Visual",
+        "original_text": "Rectangular shape on blackboard, resembling an open book.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Chinese Translation Task Diagram",
+        "type": "Visual",
+        "original_text": "Circular diagram with translation task steps.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Residents’ Committee includes the function of mediating civil disputes."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Residents’ Committee is responsible for maintaining public security."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Residents’ Committee is a form of grassroots self-governance."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Community dispute example illustrates the role in legal rights protection."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Open Book Drawing provides visual context to the title slide."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Diagram emphasizes the procedure of legal rights protection."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Title slide visualizes the concept of grassroots self-governance."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Group Discussion prompts thinking about the role of the Residents’ Committee."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "guides_discussion",
+        "intent": "Student Response guides discussion on community dispute examples."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

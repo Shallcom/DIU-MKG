@@ -1,0 +1,172 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the importance of integrating classroom and out‑of‑class knowledge; master methods for applying geographic knowledge in real life.",
+  "transcript": "[0.0 -> 176.2] 老师同学们好下面呢开始我的集习演讲著名的教育家陶行之先生说要将课内的文之和书籍的学习与学习与以及课外的轻知相结合之后呢我们才可以取出真知那关于这个问题呢我想谈谈我的看法首先关于课内的文知我们怎样去文知呢我们要去认真地听老师讲课并且呢要有自己的思考然后和老师积极讨论那么说知呢作为学生的我们要将这个课堂中学习学到的知识给表达出来并且有自己的观点那课外的清知也就是我们要去亲身地去感受一下我们身边的一些自然啊人文啊地理这些东西那么将课内的闻之和说之与课外的清知去相结合之后呢我们才能实践去出真知当然实践在这里就非常的关键了那再说说我们的乡土地理呢乡土地理着重于清知真知以及智力生活的策源地那么关于智力生活的策源地要求我们呢去积极地去观察周围身边的自然环境去发现一些问题那么我们作为教师的我们呢也应该去这么去实践并且把它应用于我们的教学中比如说我们的教授夏之芳教授我们地理学的夏之芳教授他就有这么强调课堂的武化我们首先将知识情境化再将情境问题化将问题任务化任务活动化再将活动思维化通过这样武化呢去使我们这样乡土地理的一些案例去呈现给学生们那比如说作为我们西北的地区它的这个这种这个夏季它可能都会降雪那这个就关于我们地理中的冷风的相关的知识那将这些一切身边所感受到的闻之说之亲之我们积极地去思考去实践它然后最终呢就将我们所在课本上学到的地理知识应用于实际的生活中去解决这样的地理问题去服务于我们的日常的生产生活好的我们来看看我的演讲结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a slide titled \"【案例1】\" (Case 1) displayed on the screen. It includes a map of Australia and a 3D topographic model of a landscape. The text on the slide discusses geographical features and their formation.\n\n#### 2. **The Title Event**\n- The title \"【案例1】\" is prominently displayed at the top of the slide. The teacher does not physically write this title but points towards it, emphasizing its importance.\n\n#### 3. **The Objectives**\n- The slide contains two main bullet points:\n  1. **主要从哪些方面分析区域的自然地理特征？** (What are the main aspects for analyzing the natural geographic characteristics of a region?)\n  2. **如何分析区域自然地理特征的形成原因？** (How to analyze the formation reasons of regional natural geographic characteristics?)\n\n#### 4. **Key Gestures**\n- The teacher stands in front of the screen, occasionally pointing towards the text and images on the slide. Specific gestures include:\n  - Pointing to the map of Australia.\n  - Indicating the 3D topographic model.\n  - Gesturing towards the bullet points to highlight the learning objectives.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- The teacher walks towards the front of the classroom.\n- The slide titled \"【案例1】\" is displayed, featuring a map of Australia and a 3D topographic model.\n- The teacher points to the map, drawing attention to geographical features.\n\n#### Middle\n- The teacher gestures towards the 3D topographic model, explaining its relevance to the lesson.\n- The teacher points to the first bullet point, emphasizing the aspects of natural geographic characteristics.\n- The teacher then moves to the second bullet point, discussing the analysis of formation reasons.\n\n#### End\n- The teacher continues to gesture towards the slide, reinforcing key points.\n- The audience remains focused on the teacher and the visual content displayed.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to specific visual elements on the slide.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a slide titled \"【案例1】,\" which serves as the hook, featuring a map of Australia and a 3D topographic model. The teacher points to the map, drawing attention to the geographical features depicted. As the lesson progresses, the teacher gestures towards the 3D model, emphasizing its relevance to the discussion of natural geographic characteristics. The slide transitions smoothly to highlight two key bullet points, with the teacher pointing to each in turn. The first bullet focuses on analyzing regional natural geographic characteristics, while the second addresses the formation reasons. Throughout, the teacher's gestures link the visual content to the learning objectives, creating a bridge from the hook to the main topic. This visual approach connects new knowledge to students' existing understanding of geography, setting the stage for deeper exploration of regional analysis and formation processes.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Regional Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 176.2]"
+      },
+      {
+        "id": "c2",
+        "label": "Natural Geographic Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[20.0 -> 176.2]"
+      },
+      {
+        "id": "c3",
+        "label": "Formation Reasons",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[50.0 -> 176.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Integrating Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 20.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Classroom Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 20.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Out-of-Class Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 20.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Mapping Australia",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[10.0 -> 30.0]"
+      },
+      {
+        "id": "c8",
+        "label": "3D Topographic Model",
+        "type": "Visual",
+        "original_text": "Model demonstrating landscape features",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Case 1 Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Case 1' with map and model",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Pointing Gesture Map",
+        "type": "Visual",
+        "original_text": "Teacher points to map of Australia",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Pointing Gesture Model",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards 3D model",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Pointing Gesture Bullet Points",
+        "type": "Visual",
+        "original_text": "Teacher emphasizes bullet points on slide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Focused Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Regional analysis involves understanding natural geographic characteristics."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Understanding characteristics includes analyzing formation reasons."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Integration of classroom and out-of-class knowledge supports regional analysis."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Part of integrated knowledge is classroom-based learning."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Part of integrated knowledge is out-of-class experiences."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Mapping helps visualize geographic characteristics."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Case 1 slide includes map and model demonstrations."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Pointing gesture highlights importance of map."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Gesturing towards model emphasizes its relevance."
+      },
+      {
+        "source": "c12",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Bullet points guide understanding of regional analysis."
+      },
+      {
+        "source": "s1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Students maintain focus on visual content for learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

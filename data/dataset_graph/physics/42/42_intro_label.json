@@ -1,0 +1,145 @@
+{
+  "video_name": "42_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Analyze the difficulties and underlying causes that students face in high‑school physics learning; develop an effective plan to improve students’ physics learning efficiency.",
+  "transcript": "[0.0 -> 151.62] 好各位评美老师好我是第四十二号选手下面开始我的即兴演讲我抽到的题目是一些学生在刚开始接触高中物理学习的时候会觉得很难接受很难把握明明在上课和写作业的时候都非常认真但是最后的成绩呢却很一般有时他们的家长会说为什么物理总是学不好呢是不是老师就有什么问题呀对于对于这种现象应该如何处理呢我认为这种现象呢首先是家长没有了解到他的初中到高中的一个衔接过程会发生如果我是老师我会首先去和家长进行沟通我会跟他了解一下学生的一个学习情况并且和他进行交流告知家长在学生由初中到高中过程中课程知识会发生变化而且课程的密度也会变多对于这种情况我会告诉家长要有耐心并且要做好学生的活动后备军的一种支持然后对于学生的话我会对他进行沟通了解一下学生的学习情况学生这么努力但是却没有达到想要的预期那可能是他的学习效率比较低下然后他对物理高中物理的一些学习的方法并没有能够很好的把握那对于这种情况呢我会适时的帮他制定一些相应的学习计划并且呢要持他的学习情况那对于老师的本身学生老是学不会那可能本身也有一定的问题那我也会加强我在教学技能方面的方法并且要注意提升比如在课堂导入方面我觉得可以适当的增加一些情景比如可以在课堂导入中加入一些有趣的现象比如在讲解摩擦力这一个课的时候。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital presentation slide displayed on the screen. The slide features a green and white design with Japanese text. The exact text on the slide is not fully legible, but it appears to be the title of the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen reads \"授業変則授業\" (Irregular Class). The teacher does not physically write this title; it is part of the digital presentation. The teacher stands in front of the screen, holding papers, and begins speaking, likely introducing the topic.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the introduction phase.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them while speaking. There are no specific gestures directed at the board or screen content in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom and stands in front of the screen displaying the slide with \"授業変則授業.\"\n- Students are seated, facing the teacher and the screen.\n\n**Middle:**\n- The teacher begins speaking, holding papers, and occasionally gesturing with them. The digital slide remains static, showing the title.\n- The teacher's gestures are general, likely emphasizing points in the introduction without pointing to specific content on the screen.\n\n**End:**\n- A student in the front row raises a red paddle, possibly indicating a question or response.\n- The teacher continues to speak, maintaining focus on the introduction without additional gestures towards the board or screen.\n\nThis structured visual analysis captures the evolution of the introduction phase, linking the teacher's actions to the static visual content of the presentation slide.",
+  "visual_narrative": "Initially, the screen presents a digital slide with a green and white design, featuring the text \"授業変則授業\" as the opening visual stimulus. The teacher enters the classroom and stands in front of this slide, holding papers and beginning to speak. To bridge to the topic, the teacher gestures with the papers, likely emphasizing key points in the introduction without directly interacting with the slide content. The visual focus remains on the title displayed on the screen, establishing the lesson goal. The introduction connects to the students' existing experience by setting the context for an irregular class, preparing them for the upcoming content. The teacher's presence and initial gestures create an engaging start, directing attention to the theme of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "High-School Physics",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Learning Difficulty",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Parental Perspective",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Transition to High School",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Study Plan",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Learning Method",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Teaching Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "c8",
+        "label": "Classroom Introduction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 151.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Digital Presentation Slide",
+        "type": "Visual",
+        "original_text": "The slide shows 'Irregular Class'. Green and white design.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Listening to Teacher",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Raises Paddle",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the theme of the class introduction."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Addressing learning difficulties leads to developing a study plan."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Transition challenges include learning difficulties."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Parental concerns are based on perceived student difficulties."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Teaching skills contribute to formulating effective study plans."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Effective learning methods address underlying difficulties."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The subject of physics is introduced at the start of the class."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The introduction phase engages students as they focus on the teacher."
+      },
+      {
+        "source": "s2",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Student raises a question during the introduction phase."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

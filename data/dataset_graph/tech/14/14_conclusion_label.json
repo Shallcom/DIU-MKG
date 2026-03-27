@@ -1,0 +1,174 @@
+{
+  "video_name": "14_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Describe the structure of sex chromosomes and their relationship to sex determination; explain the roles of the X chromosome and Y chromosome in determining sex.",
+  "transcript": "[672.02 -> 686.6] 那么性染色体决定了人的性别为什么它能够决定人的性别呢它其中应该富含了哪一种结构才导致了它能够决定人的性别呢。\n[688.14 -> 724.3] 要解决这个问题我们要先来分析一下性染色体能决定性别这里的染色体我们先要知道染色体的结构是什么样的对不对染色体究竟是什么样的结构呢通过前面的学习也能知道一个染色体是由哪两个部分组成的丁因和爱蛋白质非常的棒看来同学们的知识非常地扎实啊。\n[731.26 -> 793.92] 那么在丁类当中它应该是有基因的存在所以对于这样一个问题我们就可以把它更改为性染色体是否与性别有关的基因呢对于这个问题其实科学家也有相关的探索来一起来在英国科学家发现啊Y染色体上有决定雄性的基因而后来也发现X染色体上也有相关的基因那么通过这些探究我们就只能能够知道性染色体是有与性别有关的基因所以性染色体就起到了一定的决定作用可以理解了吗可以非常棒那接下来请同学们一起来应用一下我们刚才知道的知识来男女性别也属于人的性状与遗传有关吗有有对不对非常的棒那生男生女是有卵细胞还有性感自己决定吗性感就不是了正如刚才说以上就是我的教学片段展示谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom.\n   - The screen displays a slide titled \"任务活动\" (Task Activity) with bullet points and a list of activities or questions.\n   - The blackboard on the left shows a completed table with genetic information:\n     - XX: 5, 6, 4, total 15\n     - XY: 5, 4, 6, total 15\n   - Additional notes on the blackboard include:\n     - \"2 染色体\" (2 chromosomes)\n     - \"DNA\"\n     - \"蛋白质\" (protein)\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Content:\n     - Title: 任务活动 (Task Activity)\n     - Bullet points with instructions or questions related to genetic activities.\n   - Blackboard Content:\n     - Genetic table with XX and XY chromosomes.\n     - Notes on chromosomes, DNA, and proteins.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the slide on the screen, indicating the bullet points and instructions.\n   - The teacher gestures towards the blackboard, highlighting the completed genetic table and notes.\n   - The teacher underlines or circles key points on the blackboard, such as the totals in the genetic table and the notes on DNA and proteins.\n\n4. **Transition to Next Step**:\n   - The slide on the screen includes a list of activities or questions, which may serve as a transition to the next lesson or homework.\n   - No explicit homework or assignment slide is visible, but the task activity slide suggests further engagement with the material.\n\n**Structured List of Visual Facts**:\n\n- **Slide Summary**:\n  - Title: 任务活动 (Task Activity)\n  - Content: Bullet points with genetic-related activities or questions.\n\n- **Blackboard Summary**:\n  - Genetic table:\n    - XX: 5, 6, 4, total 15\n    - XY: 5, 4, 6, total 15\n  - Notes:\n    - 2 染色体 (2 chromosomes)\n    - DNA\n    - 蛋白质 (protein)\n\n- **Teacher Gestures**:\n  - Points to each bullet point on the slide.\n  - Highlights the genetic table and notes on the blackboard.\n  - Underlines or circles key points such as totals and notes.\n\n- **Next Steps**:\n  - The task activity slide suggests further engagement, possibly indicating homework or next lesson activities.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"任务活动\" (Task Activity) prominently displayed on the digital screen, featuring a list of bullet points outlining further activities or questions related to genetics. The teacher systematically points to each bullet point, guiding the students through the final tasks. On the blackboard, a completed genetic table is visible, showing the distribution of XX and XY chromosomes with totals of 15 each. Additional notes on chromosomes, DNA, and proteins are written below the table. The teacher gestures towards these notes, emphasizing the key concepts by underlining the totals and circling the terms \"DNA\" and \"蛋白质\" (protein). This visual emphasis highlights the core takeaways of the lesson. While no explicit homework slide is shown, the task activity slide suggests continued engagement with the material, indicating a transition to the next steps in learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sex Chromosomes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[672.02 -> 686.6]"
+      },
+      {
+        "id": "c2",
+        "label": "X Chromosome",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[688.14 -> 724.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Y Chromosome",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[731.26 -> 793.92]"
+      },
+      {
+        "id": "c4",
+        "label": "DNA Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.14 -> 724.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Protein Composition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[688.14 -> 724.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Gene on Y Chromosome",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[731.26 -> 793.92]"
+      },
+      {
+        "id": "c7",
+        "label": "Gene on X Chromosome",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[731.26 -> 793.92]"
+      },
+      {
+        "id": "c8",
+        "label": "Sex Determination Mechanism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[731.26 -> 793.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Task Activity Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Task Activity' with bullet points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Genetic Table on Blackboard",
+        "type": "Visual",
+        "original_text": "XX: 5, 6, 4, total 15; XY: 5, 4, 6, total 15.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Notes on Chromosomes, DNA, Protein",
+        "type": "Visual",
+        "original_text": "Notes on chromosomes, DNA, and proteins.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "t1",
+        "label": "Points to Slide Bullet Points",
+        "type": "Teacher_Gesture"
+      },
+      {
+        "id": "t2",
+        "label": "Highlights Genetic Table",
+        "type": "Teacher_Gesture"
+      },
+      {
+        "id": "t3",
+        "label": "Underlines and Circles Key Points",
+        "type": "Teacher_Gesture"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Introduces the X chromosome as part of sex chromosomes."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Introduces the Y chromosome as part of sex chromosomes."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Describes the role of genes on the X chromosome in sex determination."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Describes the role of genes on the Y chromosome in sex determination."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Shows how DNA structure relates to protein composition."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Explains how the structure of DNA contributes to sex determination."
+      },
+      {
+        "source": "v1",
+        "target": "t1",
+        "relation": "emphasizes",
+        "intent": "The teacher uses gestures to emphasize the slide content."
+      },
+      {
+        "source": "v2",
+        "target": "t2",
+        "relation": "emphasizes",
+        "intent": "The teacher highlights the genetic table on the blackboard."
+      },
+      {
+        "source": "v3",
+        "target": "t3",
+        "relation": "emphasizes",
+        "intent": "The teacher underlines and circles key concepts to highlight them."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of sex chromosomes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

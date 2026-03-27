@@ -1,0 +1,157 @@
+{
+  "video_name": "24_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the concept and definition of union; master the principle of distinctness in set operations; be able to describe set operations using Venn diagrams and number‑line representations.",
+  "transcript": "[494.744247 -> 507.56] 谁有答案了好请你来说AB非常好A并B它等于X然后X的元素是在A中或者是属于A非常好它是属于A然后或者属于A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素是A的元素属于第一档声音洪亮总觉得很到位请坐那么除了用符号语言表示出来我们的图形语言可以用我们之前所学习的非常好伟恩图进行表示对不对好现在同学们对集合的病级已经有所了解那我们趁着拿铁来看立题一来看立题好请同学们自作识A并B会等于多少呢来这位同学已经迫不及待了请你来说A并B等于三四六七八A并B等于三四五六七八对不对好也就是说集合A的元素加上集合B的元素就等于A并B了好那在这个过程中我们应该注意什么呢注意集合具有互义性互义性也就是说它的每一个元素都是唯一的也就是说公共元素也只能出现一次非常好请坐其他同学都明白了吗好在这个过程中一定要注意集合是具有互义性的那我们再来看第二题。\n[515.08 -> 556.2] 好哪位同学有答案了来请你来说A顶B是X大于一且X小于三X大于负一负一对不对然后小于三那你是如何得到的呢我是通过画数轴的方式通过画数轴我们可以将集合A在数值数轴中表示出来然后集合B在数值中表示出来那么它们会病疾也就非常直观地展示出来了爱心自为非常活跃请坐好其他同学都理解了吗。\n[557.76 -> 571.22] 好看来同学们掌握得很不错我们来看下面这样一个思考题下列关系中的等式还成立吗接下来请同学们以小组为单位合作交流积极讨论。\n[578.7 -> 591.14] 好同学们的讨论声已经逐渐降低了哪位同学想用最先分享呢。\n[592.28 -> 657.9] 好这位同学眼神充满自信请你来说是陈丽的为什么呢因为他们中间A顶上A他们中间的元素都是相同的A中的元素它并在一块人是A中的元素对不对非常好但是A并上一个空集它所组成的并集人是它的本身好果然是众人试拆火焰高小组合作力量大请坐好那么我们就可以知道当两个相同的集合进行并集的时候它的并集人人是它本身当一个集合与它一个空集进行并集的时候也仍等于它的本身那么由此我们就练一笔了实数的加法法则学习了集合的并集运算法则那么好以上就是我的片段教学谢谢各位学老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with two main sections labeled (1) and (2), each containing mathematical expressions.\n   - The slide is titled in Chinese, indicating a focus on set theory or related mathematical concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following key items:\n     - (1) $A \\cup A$\n     - (2) $A \\cap A$\n   - The blackboard displays the formula: $|A \\cup B| = |A| + |B| - |A \\cap B|$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the digital slide, pointing to the expressions $A \\cup A$ and $A \\cap A$ to emphasize their significance.\n   - She uses hand movements to highlight the relationship between these expressions and the formula on the blackboard.\n   - The teacher occasionally looks at the blackboard, linking the slide content to the written formula.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition slides or board sections visible for next steps.",
+  "visual_narrative": "The lesson concludes with a digital slide centered on set theory operations. The teacher visually reviews the content by pointing to each expression, $A \\cup A$ and $A \\cap A$, emphasizing their significance. She connects these expressions to the formula on the blackboard, reinforcing the relationship between them. The visual focus remains on summarizing the key concepts, with no explicit transition to homework or next steps visible in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Union of Sets",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[494.744247 -> 507.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Intersection of Sets",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[494.744247 -> 507.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Distinctness in Sets",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[515.08 -> 556.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Venn Diagram Representation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[494.744247 -> 507.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Number-Line Representation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[515.08 -> 556.2]"
+      },
+      {
+        "id": "c6",
+        "label": "|A ∪ B| Formula",
+        "type": "Visual",
+        "original_text": "Union size formula as displayed on blackboard: |A ∪ B| = |A| + |B| - |A ∩ B|.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Digital Slide",
+        "type": "Visual",
+        "original_text": "Slide with structured layout displaying A ∪ A and A ∩ A.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c8",
+        "label": "A ∪ A Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[494.744247 -> 507.56]"
+      },
+      {
+        "id": "c9",
+        "label": "A ∩ A Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[494.744247 -> 507.56]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Union of sets visualized via formula on blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Intersection of sets visualized via formula on blackboard."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Students engaging with Venn diagram as visual tool for set operations."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Students utilizing number-line for set representation."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Distinctness principle builds upon A ∪ A concept."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Distinctness principle builds upon A ∩ A concept."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes significance of A ∪ A concept."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes significance of A ∩ A concept."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Students answering based on understanding of union."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Students answering based on understanding of intersection."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Formula includes principle of distinctness in set operations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

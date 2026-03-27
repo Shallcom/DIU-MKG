@@ -1,0 +1,154 @@
+{
+  "video_name": "18_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "math",
+  "teaching_goal": "Understand the importance of the six core competencies in high school mathematics; analyze the interrelationships among the six competencies; be able to observe the real world through a mathematical perspective and solve problems.",
+  "transcript": "[0.0 -> 103.56] 各位同学老师好我抽到的题目是谈谈你对高中数学六大核心素养的关系及其认识首先我对这个问题的理解如下高中六大核心素养包括直观想象国际推理数学运算数据分析数学建模还有数学抽象这六大核心素养首先直观想象是通过直观感受到让学生感受到数学知识逻辑推理主要是形成定理公式法则等数学运算是通过培养学生的运算能力解决问题数据分析主要在统计概率内进行数据建模主要是将抽象的数据问题通过建立模型进行分析数学抽象主要是通过对符号语言的一个理解我认为它们之间的关系是相互依存的首先通过直观想象可以通过直观想象建立对模型的分析也就是数学解决将这个问题转化成建立模型进行分析再次通过逻辑推理形成定理法则公式这样子再进行数学抽象用数学的语言也就是符号语言进行表达它们之间的关系是相互依存相互密不可分的通过培养这六大核心素养有助于学生更好地理解数学知识使学生全面地发展能够用数学的眼光观察现实世界能够用数学的思维去思考现实世界和语言表达现实世界并且能提高他们分析问题解决问题的能力还有培养他们成为全面发展的一个人以上是我对这个问题的理解谢谢各位评委老师。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a green chalkboard. The initial visual focus is on the teacher holding papers, likely a lesson plan or notes, which she refers to throughout the introduction.\n\n#### 2. **The Title Event**\n- The board displays Chinese text: \"数学班R号选手\" (Math Class R Number Contestant). This text is written vertically on the left side of the board. The teacher does not appear to write or underline this text during the video; it is already present.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the board or screen during this introduction phase.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures while speaking, occasionally looking at the papers in her hand. She raises her hand to emphasize points, but no direct pointing to specific content on the board is observed.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the chalkboard, holding papers. The board already has the text \"数学班R号选手\" written on it.\n- The teacher begins speaking, occasionally glancing at her papers.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize her points. She raises her hand, possibly to highlight key ideas or maintain engagement.\n- No additional writing or changes occur on the board during this phase.\n\n**End:**\n- The teacher maintains her position, continuing to refer to her papers and using hand gestures to support her verbal communication.\n- The screen to the right shows some content, but it is not the focus of the teacher's interaction.\n\nThis structured visual analysis captures the teacher's actions and their relation to the static content on the board, focusing on observable details that contribute to the lesson's introduction.",
+  "visual_narrative": "Initially, the teacher stands in front of a green chalkboard, holding papers that serve as the opening visual stimulus. The board already displays the text \"数学班R号选手,\" setting the context for the lesson. To bridge to the main topic, the teacher uses hand gestures while speaking, occasionally looking at her papers to reference notes. Although no additional content is added to the board, her gestures and engagement with the papers help maintain focus. The visual focus remains on the existing text, establishing the lesson's context. This introduction connects the students' existing experience with the upcoming content, preparing them for the lesson's objectives through structured engagement and reference to prepared materials.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Intuitive Imagination",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Logical Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Mathematical Operation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Data Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Mathematical Modeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematical Abstraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Interdependency of Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c8",
+        "label": "Understanding Mathematics",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c9",
+        "label": "Real World Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "c10",
+        "label": "Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Contestant Text on Board",
+        "type": "Visual",
+        "original_text": "Math Class R Number Contestant",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Holding Papers",
+        "type": "Visual",
+        "original_text": "Teacher holding papers, used as notes during lesson",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Listening to Introduction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Intuitive imagination forms the basis for mathematical modeling."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Logical reasoning helps in creating mathematical abstraction."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Mathematical operations lead to data analysis."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Mathematical modeling involves observing the real world."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Mathematical abstraction aids in understanding mathematics comprehensively."
+      },
+      {
+        "source": "c7",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Interdependency of competencies enhances problem solving skills."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Contestant text on board is emphasized through the presence of teacher holding papers."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding mathematics prompts students to engage during the introduction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

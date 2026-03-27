@@ -1,0 +1,126 @@
+{
+  "video_name": "26_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the conditions and scope of applicability of the conservation of momentum; be able to analyze the forces acting on objects during collisions; master the distinction between internal and external forces within a system and their impact on momentum conservation.",
+  "transcript": "[374.620733 -> 375.32] 它说明了什么说明了两个物体碰撞后的动量之和等于碰撞前的动量之和M一V一撇加上M二V二一撇等于M一V一加上M二V二并且该观音室对过程中的任意两时刻的状态都适用因为我们取因为我们前面取的是德塔踢取的是任意时刻的德塔踢接下来请同学们思考碰撞前满足重量制作不变的两个物体的受力情况是怎么样的呢。\n[377.76 -> 380.4] 我们对两个物体进行受力分析。\n[387.4 -> 394.4] 以小车B为例它受到重力以及地板对它向上的支持力。\n[397.22 -> 410.08] 然后在碰撞过程当中还有小车A给它的反向力在数值方向中两个碰撞物体所受的合力为零。\n[411.7 -> 415.24] 这样就遵循动量守恒在这个过程当中。\n[418.06 -> 446.2] 接下来讲述系统的概念我们把两个或多个相互作用的物体构成了一个整体叫做力学系统简称系统内力也就是系统物体间的作用力而外力则是系统外部所受的力而满足动量手份定律的条件是如果一个系统不受外力或者所受外力的矢量和为零这个系统的总动量保持不变。\n[456.56 -> 486.0] 接下来请同学们看到这个装置它是由两辆小车以及中间的一根绳组成的当我们烧断中间的这根细绳之后两辆小车在中间盘黄的作用下分别向左和向右运动那它们的总动量是否增加了呢对这位同学回答得非常正确他们的总通量并没有增加。\n[493.62 -> 494.620733] 而接下来我们从我们学过的内容当中牛顿定律以及通量守存定律我们来比较一下它们在各个或者说比较极端的条件下它们是否还同样适用呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was accompanied by pointing to the chalkboard diagram, inviting students to engage with the visual content.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the diagram drawn on the chalkboard, which depicted intersecting lines and arrows. This diagram was central to the discussion of momentum conservation.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the diagram on the chalkboard, emphasizing key elements of the lines and arrows. This action visually guided the student's explanation, ensuring alignment with the visual content.\n- The teacher also used hand gestures to indicate the direction of forces or movements, reinforcing the student's verbal explanation with visual cues.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled specific parts of the diagram on the chalkboard, visually confirming the correct aspects of the student's explanation.\n- The teacher then drew additional lines and arrows on the chalkboard, elaborating on the student's response to clarify any misconceptions and reinforce the concept of momentum conservation.\n\n**Narrative Evolution:**\n\n- **Beginning:** The teacher introduced the concept of momentum conservation using a slide with text in Chinese, which included a question about the conservation of momentum in a system. The teacher then transitioned to the chalkboard, drawing a diagram with intersecting lines and arrows to visually represent the concept.\n\n- **Middle:** The teacher continued to explain the diagram, using hand gestures to indicate the direction and interaction of forces. The slide content changed to include definitions and explanations of internal and external forces, which the teacher linked back to the chalkboard diagram.\n\n- **End:** The teacher displayed a new slide with an image of two blocks on a track, asking a question about their motion. The teacher pointed to the image, connecting it to the chalkboard diagram, and invited student participation. Through gestures and board annotations, the teacher scaffolded the student's response, providing visual feedback and elaboration to ensure understanding.\n\nThis structured visual interaction ensured that the teacher's actions were closely tied to the evolving visual content, facilitating effective knowledge co-construction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a diagram with intersecting lines and arrows, representing the concept of momentum conservation. The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly to the diagram, signaling the start of an interactive discussion.\n\nAs the student began explaining their reasoning, the teacher walked over to the board and used hand gestures to emphasize key elements of the diagram. While the student spoke, the teacher pointed to specific lines and arrows, reinforcing the student's explanation with visual cues. The teacher also drew additional lines on the board, illustrating the direction of forces and movements, which helped scaffold the student's understanding.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the correct parts of the diagram on the chalkboard. This visual confirmation highlighted the accurate aspects of the student's explanation. The teacher then drew an arrow connecting the student's correct answer back to the main theorem of momentum conservation discussed earlier, linking the response to the core lesson content.\n\nThroughout the interaction, the teacher's gestures and board annotations transformed passive reception of knowledge into active construction. By visually linking the student's response to the lesson's key concepts, the teacher facilitated a deeper understanding, encouraging students to engage actively with the material and construct their own knowledge through guided interaction.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Momentum Conservation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[374.620733 -> 375.32]"
+      },
+      {
+        "id": "c2",
+        "label": "Collision Forces",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[377.76 -> 380.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Internal Forces",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[418.06 -> 446.2]"
+      },
+      {
+        "id": "c4",
+        "label": "External Forces",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[418.06 -> 446.2]"
+      },
+      {
+        "id": "c5",
+        "label": "System Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[418.06 -> 446.2]"
+      },
+      {
+        "id": "c6",
+        "label": "Total Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[456.56 -> 486.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with intersecting lines and arrows showing momentum conservation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Two Blocks Image",
+        "type": "Visual",
+        "original_text": "Image of two blocks on a track.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The chalkboard diagram visually represents momentum conservation."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Momentum conservation principle includes understanding collision forces."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Momentum conservation applies within a defined system concept."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "System concept includes internal forces among objects."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "System concept includes external forces acting upon the system."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Total momentum discussion evolves from the principle of momentum conservation."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The image of two blocks demonstrates the concept of total momentum."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding collision forces prompts student engagement and participation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

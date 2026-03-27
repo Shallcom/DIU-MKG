@@ -1,0 +1,158 @@
+{
+  "video_name": "22_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Be able to define and identify space vectors and their special types; understand the relationships and characteristics of opposite vectors, parallel vectors, and equal vectors; apply the basic properties of vectors to perform simple geometric analysis.",
+  "transcript": "[616.83 -> 710.58] 那么零向量它的长度是零那么还有一种向量它也非常的特殊它的长度是一我们是不是把它称作为单位向量对不对那么这些都是我们平面当中的向量其实在空间当中也是适用的那么我们接下来从长度上面已经定义了那么接下来我们再从方向上开始定义老师画两个向量吧老师大家来看一下它有什么特点这是第一个项链A这是第二个项链B有没有同学发现这个项链和这个项链有没有什么特点呢有没有同学有想法可以告诉老师来这位同学说一下你的想法他们是方向相反应该是大小相等方向相反对不对说得非常好请坐那么我们把这种方向相反但是大小相等的空间向量把它称作为相反向量好接下来我们继续来看老师继续画了一个向量C那么有没有同学可以发现一下象征B和象征C之间的关系呢有没有同学可以告诉老师。\n[713.2 -> 851.02] 来这位同学你来说一下它们两个方向相反但是它们两个的空间象征有相间段所在直线是相互平行的对你发现了B和C两个象征是相互平行的非常好我们把这种互相平行的向量就叫做贡献向量或者叫做平行向量那么接下来我们再来看一个第四个向量老师把它画在这里把它看作向量D那么A和D它的向量的关系有什么特点呢其实大家可以很明显地发现对不对那大家一起说它的大小是相等的方向是对相同的所以我们就把这种方向相同并且模相等的向量就叫做相等向量其实这些在我们平面向量当中我们已经定义过了它在空间当中空间向量当中也是类似的定义好我们知道了这些定义之后我们接下来要干一个事情就是我们来看一下它的一个运算法则那么在平面向量当中我们是如何定义它的运算法则的呢好这个我们留到下节课来进行探究那么我们先来总结一下本节课的知识点本节课我们讲了空间向量的定义大家一起来回顾一下它是在空间当中既有大小又有方向的量就叫做空间向量我们还给了一些特殊的向量比如零向量还有单位向量相反向量贡献向量或平行向量以及我们的相等向量对不对那么下节课我们将来看一下平面向量和空间向量的四则运算有什么相同之处好本节课就上到这里同学们下课好我的模拟上课环节到此结束谢谢各位评论老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a list of key points in Chinese, structured as a bullet list with headings and sub-points.\n   - The blackboard contains a diagram of a parallelepiped with labeled vectors $\\vec{a}$, $\\vec{b}$, and $\\vec{c}$, alongside the heading \"1.1.1 直线与平面及两平面的平行\" and \"一直线与平面的定义.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Content:\n     - \"新课预习\"\n     - \"1. 预习课本中空间向量的坐标表示？\"\n     - \"2. ①定义：空间向量的坐标表示为...\"\n     - \"②理解空间向量的坐标表示...\"\n     - \"③掌握空间向量的坐标表示...\"\n   - Blackboard Content:\n     - \"1.1.1 直线与平面及两平面的平行\"\n     - \"一直线与平面的定义\"\n     - Diagram of a parallelepiped with vectors $\\vec{a}$, $\\vec{b}$, and $\\vec{c}$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the vectors $\\vec{a}$, $\\vec{b}$, and $\\vec{c}$ on the blackboard diagram, likely summarizing their definitions and relationships.\n   - The teacher gestures towards the slide, emphasizing each bullet point in sequence, possibly reviewing the pre-study questions and key concepts.\n   - The teacher uses hand movements to underline or highlight the importance of the coordinate representation of spatial vectors as mentioned on the slide.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary of the current lesson content.",
+  "visual_narrative": "The lesson concludes with a digital slide displaying a bullet-point list summarizing key pre-study questions and concepts related to spatial vectors. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the importance of understanding the coordinate representation of spatial vectors. The blackboard diagram of a parallelepiped with vectors $\\vec{a}$, $\\vec{b}$, and $\\vec{c}$ remains visible, reinforcing the geometric context of the discussion. The teacher gestures towards the vectors, likely highlighting their definitions and relationships as core takeaways. No explicit visual handover to homework or next steps is shown, keeping the focus on the summary of the current lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Zero Vector",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[616.83 -> 710.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Unit Vector",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[616.83 -> 710.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Opposite Vectors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[616.83 -> 710.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Parallel Vectors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[713.2 -> 851.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Equal Vectors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[713.2 -> 851.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Spatial Vectors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[713.2 -> 851.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Vector Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[713.2 -> 851.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Vector Operations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[713.2 -> 851.02]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide Content",
+        "type": "Visual",
+        "original_text": "Preview New Lesson; Vector Coordinate Representation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Parallelepiped with Vectors",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Observation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Analysis",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Zero Vector concept builds understanding of Opposite Vectors."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Unit Vector concept builds understanding of Opposite Vectors."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Opposite Vectors leads to understanding of Parallel Vectors."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Parallel Vectors leads to understanding of Equal Vectors."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Spatial Vectors include Vector Definitions."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Vector Operations build upon Vector Definitions."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Slide content visualizes Spatial Vector concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram visualizes Spatial Vector concepts."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student observation prompts thinking about Opposite Vectors."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Student analysis guides discussion about Parallel Vectors."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,151 @@
+{
+  "video_name": "5_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "- Understand the basic concepts of the Copernican Revolution and the Gai Tian theory and their significance in astronomy;  \n- Analyze the relationship between the disputes in the development of Eastern and Western astronomy and scientific advancement;  \n- Identify and summarize key vocabulary in the text to improve reading comprehension.",
+  "transcript": "[181.64 -> 251.94] 请同学们调整好上课状态上课同学们好好师好今天啊让我们一起来学习一篇科普性的文章天文学上的旷世之争俗话说得好文题善加篇成一半那么这则标题中要告诉我们怎样的天文学真实那么又是怎样的一场争论能够称得上是旷世之争呢接下来我们一起进入文本请同学们听老师伴读第一段结合文章标题抓住其中的关键字在西方人们熟知的是哥白尼日新书与特勒密帝新说旷日持久的争论。\n[252.94 -> 287.9] 正是这场争论推动了天文学的发展以及天文学领域哥白尼革命的发生最终促成了近代科学的建立殊不知在东方的中国在对宇宙结构的认识上也存在着类似的旷世之争这就是中国天文学史上著名的盖世之争你去画出了哪几个关键词啊来请这位同学来说。\n[295.0 -> 304.34] 魂盖之珍也就是提出的一些珍那么老师把这个珍字记录在黑板上。\n[325.0 -> 346.92] 接下来请同学们梳理文章自由朗读梳理这中国古代结构学说的发展过程来请进来。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers. The screen displays a magnifying glass image with the title \"天文学上的旷世之争\" (The Great Astronomical Debate).\n- The teacher gestures towards the screen, likely introducing the topic. The blackboard is initially blank.\n\n**Middle:**\n- The teacher moves to the blackboard and writes \"天文学上的旷世之争\" (The Great Astronomical Debate) in white chalk.\n- The screen transitions to a slide titled \"任务一：阅读材料，归纳为论之战\" (Task 1: Read the material and summarize the debate).\n- The teacher points to the slide, emphasizing the task. The slide includes bullet points about the debate's background and historical context.\n- The teacher continues to explain, using hand gestures to emphasize key points on the slide.\n\n**End:**\n- The teacher writes additional text on the blackboard, including \"张衡\" (Zhang Heng) and \"地心说\" (Geocentric Theory).\n- The screen changes to a table format, likely summarizing different astronomical theories or viewpoints.\n- The teacher gestures towards the table, explaining the content while holding the papers.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the blackboard, initially displaying the title \"天文学上的旷世之争\" (The Great Astronomical Debate).\n   - The screen serves as a secondary anchor, showing slides with text and a table summarizing the debate.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"张衡\" (Zhang Heng) and \"地心说\" (Geocentric Theory) on the blackboard while explaining their significance.\n   - **Modifications**: No erasures are observed; the teacher adds content progressively.\n   - **Deictic Gestures**: The teacher points to specific parts of the slide, such as the bullet points and table, while explaining their relevance.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses white chalk for writing on the blackboard, ensuring clarity.\n   - The screen's text is highlighted in black, with key points possibly emphasized through bullet points and table formatting.\n   - The teacher's gestures and pointing serve as visual cues to direct attention to important concepts on both the blackboard and screen.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"天文学上的旷世之争\" (The Great Astronomical Debate) alongside a magnifying glass image, setting the stage for the discussion. The teacher began by introducing the topic, gesturing towards the screen which outlined \"任务一：阅读材料，归纳为论之战\" (Task 1: Read the material and summarize the debate). As the lecture progressed, the teacher constructed the historical context on the blackboard, writing \"张衡\" (Zhang Heng) and \"地心说\" (Geocentric Theory) to highlight key figures and concepts. The screen evolved to present a detailed table summarizing different astronomical theories, which the teacher annotated by pointing to specific entries, tracing the development of ideas. Throughout, the teacher's gestures directed attention to critical points, such as bullet points and table rows, ensuring clarity. Emphasis was placed on the debate's significance by circling key terms on the blackboard. This structured visual approach, combined with the screen's organized content, reduced cognitive load by providing clear, step-by-step visual cues that aligned with the lecture's progression, facilitating a comprehensive understanding of the astronomical debate.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Copernican Revolution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[181.64 -> 251.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Gai Tian Theory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[252.94 -> 287.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Zhang Heng",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[295.0 -> 304.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Geocentric Theory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[295.0 -> 304.34]"
+      },
+      {
+        "id": "c5",
+        "label": "Astronomical Debate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[181.64 -> 251.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Modern Science Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.94 -> 287.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Astronomical Debate Title Slide",
+        "type": "Visual",
+        "original_text": "The screen displays the title 'The Great Astronomical Debate'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Task 1 Slide",
+        "type": "Visual",
+        "original_text": "Read the material and summarize the debate.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Theories Table",
+        "type": "Visual",
+        "original_text": "Table summarizing different astronomical theories.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reading",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The slide visually introduces the topic of the astronomical debate."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The slide sets up the task for students to engage with the astronomical debate."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The Copernican Revolution is part of the broader astronomical debate."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Gai Tian Theory provides context within the astronomical debate."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Zhang Heng is a key figure associated with Gai Tian Theory."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The Geocentric Theory is a central concept in the astronomical debate."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Modern scientific principles evolved from the Copernican Revolution."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The astronomical debate contributed to the formation of modern science."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the task of reading and summarizing."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Students answer questions about the Gai Tian Theory."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

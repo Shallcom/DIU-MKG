@@ -1,0 +1,136 @@
+{
+  "video_name": "19_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Develop awareness of ideological‑political education within the curriculum and understand the importance of science and technology for national development; strengthen students’ sense of scientific responsibility and national pride; explore the points of intersection between traditional culture and physics knowledge.",
+  "transcript": "[0.0 -> 94.06] 和民族自豪感其根本是培养是立德树人而如何开展课程施政呢以下是我的看法首先我们可以通过引入本节课知识相关的科技前沿来进行科技来进行课程施政让学生意识到科技兴国科技强国的重要性让学生产生科学责任感能够愿意不断努力学习为我国的科学技术发展贡献力量为社会主义发展为社会发展添砖加瓦其次还可以通过物理学史的教学进行课程施政通过引入无数科学家在实验过程中坚韧不挠勇敢探索的精神培养学生实事求是的科学态度之后还可以通过贯穿传统文化进行课程施政比如在进行分析热运动教学的时候我们可以引入唐朝诗人王安石的永媒意识让学生意识到从古至今无数的人类无数的人都在研究物理客观规律让学生意识到学习物理的重要性以上就是我对物理教学过程中如何敞开课程思政的认识。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of a blue jet aircraft displayed on the screen. The image is accompanied by text in Chinese.\n\n#### 2. **The Title Event**\n- **Text on Screen**: The title displayed is \"人教版物理选修一册 14.1 喷气\" (Renjiaoban Physics Elective Volume 1, Chapter 14.1: Jet Propulsion).\n- **Teacher's Action**: The teacher stands in front of the screen, holding papers, and appears to be presenting the content without physically interacting with the title.\n\n#### 3. **The Objectives**\n- **Bullet Points**: No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: The teacher is holding papers and appears to be reading or presenting from them. There are no specific gestures like pointing or underlining observed in this segment.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays the title \"人教版物理选修一册 14.1 喷气\" alongside an image of a blue jet aircraft.\n- **Teacher Action**: The teacher stands at the podium, holding papers, and begins the presentation.\n\n#### Middle\n- **Visual Content**: The screen remains unchanged, showing the same title and image.\n- **Teacher Action**: The teacher continues to present, likely reading from the papers, with no additional gestures or interactions with the board or screen.\n\n#### End\n- **Visual Content**: The screen still displays the same title and image of the jet aircraft.\n- **Teacher Action**: The teacher maintains a similar posture, focusing on delivering the introduction without further gestures.\n\n### Summary\nThe introduction phase of the lesson is initiated with a visual of a blue jet aircraft and the title \"人教版物理选修一册 14.1 喷气\" displayed prominently. The teacher presents from the podium, using papers, without additional gestures or interactions with the visual content. The focus remains on the title and image throughout the segment, setting the stage for the topic of jet propulsion.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing at the podium, holding papers, and facing a classroom where students are seated. The opening visual stimulus is a large screen displaying an image of a blue jet aircraft alongside the title \"人教版物理选修一册 14.1 喷气.\" This image serves as the hook, immediately drawing attention to the topic of jet propulsion. The teacher remains stationary, presenting from the papers without additional gestures, allowing the visual of the jet to anchor the initial focus. The screen remains unchanged throughout the introduction, maintaining the same title and image, which acts as a bridge to the main topic. This consistent visual cue helps establish a clear connection to the subject matter, preparing students for an exploration of jet propulsion principles. The introduction effectively links the visual of the jet to the concept of propulsion, setting the stage for deeper exploration and connecting the new knowledge to real-world applications, thereby enhancing student engagement and comprehension.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ideological-Political Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "c2",
+        "label": "Science and Technology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "c3",
+        "label": "National Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "c5",
+        "label": "National Pride",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "c6",
+        "label": "Traditional Culture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "c7",
+        "label": "Physics Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "v1",
+        "label": "Blue Jet Aircraft Image",
+        "type": "Visual",
+        "original_text": "Image of a blue jet aircraft with Chinese text",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "v2",
+        "label": "Chapter 14.1 Jet Propulsion",
+        "type": "Visual",
+        "original_text": "Renjiaoban Physics Elective Volume 1, Chapter 14.1: Jet Propulsion",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 94.06]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 94.06]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links ideological education to the importance of science and technology."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Science and technology as a foundation for national development."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Emphasizes scientific responsibility through technological progress."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Developing national pride via ideological education."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Explores connections between traditional culture and physics knowledge."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The image and chapter title introduce and anchor the topic of jet propulsion."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Highlights the significance of jet propulsion in science and technology."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "prompts_thinking",
+        "intent": "Engagement is prompted by visualizing jet propulsion principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,152 @@
+{
+  "video_name": "7_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "geography",
+  "teaching_goal": "Understand the basic methods of developing geography curriculum resources; analyze the application value of data models in geography teaching; explain the relationship between marine rights and development strategies.",
+  "transcript": "[111.74 -> 148.66] 结合各种数据对于当地特点进行分析是对课程资源更好的开发利用那么第二点则就是数据模型的建立例如例如课程资源开发之中的自然地理中的部分模型那么第三点则就是数据处理信息的技术在地理中就RSJS的各种地理数据图形的时候可以更好地掌握课堂的效率那么这就是我的讲演到此结束。\n[154.18 -> 175.28] 现在开始我的讲课上课同学们好同学们在生活中有没有海洋权益这个问题大多数同学都不知道海洋权益是什么更不知道海洋权益与我国发展战略有什么关系。\n[176.34 -> 188.88] 但是呢在生活中还是有了解一些如何利用海洋资源发展的势力那么今天我们就一起来学习学习海洋权益与我国海洋发展战略。\n[200.74 -> 252.98] 要使我国更好地发展更好地前进那么要思考我国的资源流呢有陆地资源与海洋资源我国是一个领海国家对于海洋资源呢现在已经形成了非常依赖的经济发展模式那么如何保障我国进行更好的海洋资源的发展应该从哪几个方面来思考呢。\n[254.96 -> 268.74] 要促使我国海洋发展更好那么要首先考虑如何保证我们国家的国家安全问题以及用何种方法促进我国国家发展问题。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a large screen displaying a satellite image of an island with the text \"海洋权益与我国海洋发展战略\" (Marine Rights and China's Marine Development Strategy).\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher turns to the blackboard on the left and writes \"海洋权益\" (Marine Rights) in white chalk.\n- The teacher then writes \"我国海洋发展战略\" (China's Marine Development Strategy) below the first phrase, aligning it with the text on the screen.\n\n**End:**\n- The teacher faces the students, possibly summarizing the points written on the board and displayed on the screen.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the satellite image of an island on the screen, accompanied by the text \"海洋权益与我国海洋发展战略.\"\n- The blackboard initially contains only the phrases \"海洋权益\" and \"我国海洋发展战略\" written in white chalk.\n\n**The Derivation Process (Dynamic):**\n\n1. **Additions:**\n   - The teacher writes \"海洋权益\" on the blackboard while likely explaining the concept of marine rights.\n   - Subsequently, the teacher writes \"我国海洋发展战略\" below the first phrase, connecting it to the broader strategy discussed on the screen.\n\n2. **Modifications:**\n   - No erasures or modifications are observed; the teacher only adds content to the blackboard.\n\n3. **Deictic Gestures:**\n   - The teacher points to the screen when introducing the topic, likely emphasizing the connection between the satellite image and the text.\n   - While writing on the blackboard, the teacher gestures towards the newly written phrases, reinforcing the link between the board content and the screen.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses white chalk for writing, ensuring clarity against the blackboard background.\n- The alignment of the phrases on the blackboard with the text on the screen visually emphasizes the connection between the two elements.\n\n### Chronological Log of Visual Events\n\n1. **Introduction:**\n   - Teacher gestures towards the screen displaying the satellite image and text.\n   - Visual cue: Satellite image and text \"海洋权益与我国海洋发展战略.\"\n\n2. **Writing on Blackboard:**\n   - Teacher writes \"海洋权益\" on the blackboard.\n   - Visual cue: White chalk text on blackboard.\n\n3. **Continuation:**\n   - Teacher writes \"我国海洋发展战略\" below the first phrase.\n   - Visual cue: Additional white chalk text on blackboard.\n\n4. **Summary:**\n   - Teacher faces the students, likely summarizing the points.\n   - Visual cue: Completed phrases on the blackboard and the screen content.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a satellite image of an island with the text \"海洋权益与我国海洋发展战略\" prominently featured, establishing the visual anchor for the lecture. The teacher began by gesturing towards this image, setting the context for the discussion on marine rights and strategic development. \n\nThen, the teacher turned to the blackboard and constructed the foundational concepts by writing \"海洋权益\" in white chalk, visually anchoring the term to the broader topic displayed on the screen. Following this, the teacher derived the next concept by writing \"我国海洋发展战略\" below the first phrase, creating a clear visual linkage between the two ideas. \n\nThroughout the lecture, the teacher resolved deixis by pointing to the screen and tracing the connection between the satellite image and the written phrases, ensuring students understood the spatial and conceptual relationships. The teacher's gestures towards the blackboard emphasized the alignment of the written content with the strategic framework displayed on the screen.\n\nFinally, the teacher circled the phrases on the blackboard, highlighting their importance and reinforcing the connection to the screen's content. This visual strategy reduced cognitive load by providing a clear, step-by-step construction of the topic, allowing students to follow the progression from introduction to elaboration seamlessly. The use of consistent visual elements on both the screen and the blackboard ensured a cohesive learning experience.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Marine Rights",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[154.18 -> 188.88]"
+      },
+      {
+        "id": "c2",
+        "label": "China's Marine Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[154.18 -> 188.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Resource Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[111.74 -> 148.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Data Models",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[111.74 -> 148.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Information Technology",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[111.74 -> 148.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Economic Development Model",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[200.74 -> 252.98]"
+      },
+      {
+        "id": "c7",
+        "label": "National Security",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[254.96 -> 268.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Satellite Image of Island",
+        "type": "Visual",
+        "original_text": "Satellite image of an island with the text 'Marine Rights and China's Marine Development Strategy'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Marine Rights Blackboard",
+        "type": "Visual",
+        "original_text": "Text 'Marine Rights' written in white chalk on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Development Strategy Blackboard",
+        "type": "Visual",
+        "original_text": "Text 'China's Marine Development Strategy' written in white chalk on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Marine Rights are part of China's overall marine development strategy."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Resource analysis builds upon data models for better curriculum development."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "The use of data models can evolve into advanced information technology processes."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The economic development model builds upon national security strategies."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The satellite image visualizes the concept of marine rights."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The satellite image visualizes China's marine development strategy."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The text on the blackboard emphasizes the concept of marine rights."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The text on the blackboard emphasizes China's marine development strategy."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The topic of marine rights prompts student engagement and thinking."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The topic of China's marine development strategy prompts student engagement and thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

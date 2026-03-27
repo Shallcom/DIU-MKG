@@ -1,0 +1,126 @@
+{
+  "video_name": "28_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "- Understand the definitions and functions of underlying concepts and misconception concepts in biology instruction.  \n- Analyze the common misunderstandings students have about respiration and the reasons behind them.  \n- Design instructional interventions that specifically target the underlying concepts related to respiration.",
+  "transcript": "[0.0 -> 111.4] 各位评委老师好我是生物组的二十八号选手我的即兴演讲题目是你在教育实习过程中遇到的关于呼吸作用的潜概念或迷思概念你是怎样看待的下面我将从以下几个方面来开展我的阐述首先什么是潜概念或迷思概念呢在我看来这是学生在之前的学习过程中经验的累积所导致的因此在后续的学习过程中就可能会导致他们在学习知识之前已经造成了错误的认知那怎样才能够解决学生的潜概念的问题呢这是一个不可回避的问题在我看来首先要让他们认识到潜概念的局限性其次也需要让他们认识到现有概念的存在理由那么我在实习的过程中遇到的关于呼吸作用的潜概念有哪些呢主要包括首先认为呼吸作用的存在场所只存在于线粒体中除此之外他们还认为呼吸作用的转化过程中只包括了一个阶段再除此之外呢他们还认为呼吸作用的物质转换是非常简单的那在教学过程中我是怎样解决他们的潜概念的呢首先我在教学的过程中开展了设计实验的活动",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher standing in front of a digital screen displaying a slide. The slide contains text in Chinese, which appears to be the introduction to the lesson. The exact content of the text is not fully legible, but it includes a structured layout with bullet points and a title.\n\n#### 2. **The Title Event**\n- The title on the screen is written in Chinese and is located at the top of the slide. The teacher does not physically write or underline the title but stands next to it, ensuring it is visible to the students. The title is highlighted by its position and larger font size compared to the rest of the text.\n\n#### 3. **The Objectives**\n- The slide includes several bullet points, likely outlining the learning objectives. These are positioned below the title and are formatted in a list. Specific details of the text are not fully discernible, but the structure suggests a list of goals or topics to be covered.\n\n#### 4. **Key Gestures**\n- The teacher holds a piece of paper, possibly notes or a lesson plan, and gestures with her hands while speaking. She occasionally points towards the screen, directing students' attention to the content displayed. Her gestures are open and engaging, suggesting she is explaining or emphasizing points related to the slide content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding a piece of paper. The digital screen displays the introductory slide with a title and bullet points.\n- The teacher gestures with her hands, likely introducing the topic and engaging the students. She points towards the screen, directing attention to the title and objectives.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to emphasize key points. She occasionally looks at the paper in her hand, possibly referring to notes.\n- The slide remains static, with the title and bullet points visible throughout. The teacher's gestures maintain a connection between her verbal explanations and the visual content on the screen.\n\n**End:**\n- The teacher maintains her position in front of the screen, ensuring the introductory content remains the focus. Her gestures and eye contact with the students suggest she is concluding the introduction and preparing to move into the next phase of the lesson.\n\nThis structured visual analysis links the teacher's actions to the specific content displayed, highlighting the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the teacher stands in front of a digital screen displaying an introductory slide with Chinese text, serving as the hook to capture the students' attention. To bridge to the main topic, the teacher gestures with her hands, occasionally pointing towards the screen to emphasize the title and bullet points. The slide remains static, with the title prominently positioned at the top, guiding the students' focus. The teacher's engagement with the paper in her hand suggests she is referencing notes to structure her introduction. Finally, the visual focus remains on the title and objectives displayed on the screen, establishing the lesson's goals and setting the stage for the subsequent content. This introduction effectively links the new knowledge to the students' existing experience by using structured visual aids and deliberate gestures, preparing them for the forthcoming learning objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept_1",
+        "label": "Respiration Misunderstanding",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 111.4]"
+      },
+      {
+        "id": "concept_2",
+        "label": "Respiration Location",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 111.4]"
+      },
+      {
+        "id": "concept_3",
+        "label": "Mitochondria",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 111.4]"
+      },
+      {
+        "id": "concept_4",
+        "label": "Respiration Process",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 111.4]"
+      },
+      {
+        "id": "concept_5",
+        "label": "Stage Misunderstanding",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 111.4]"
+      },
+      {
+        "id": "concept_6",
+        "label": "Substance Conversion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 111.4]"
+      },
+      {
+        "id": "visual_1",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "Slide with title and bullet points introducing respiration concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual_2",
+        "label": "Chinese Slide Text",
+        "type": "Visual",
+        "original_text": "Text in Chinese describing respiration misconceptions and concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student_1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept_1",
+        "target": "concept_2",
+        "relation": "includes",
+        "intent": "Details the misunderstanding that respiration only occurs within mitochondria."
+      },
+      {
+        "source": "concept_2",
+        "target": "concept_3",
+        "relation": "evolves_from",
+        "intent": "Clarifies that the concept of respiration location originates from students' previous learning."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_4",
+        "relation": "includes",
+        "intent": "Addresses misconceptions about the respiration process being a single stage."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_5",
+        "relation": "includes",
+        "intent": "Points out misunderstanding regarding respiration stages."
+      },
+      {
+        "source": "concept_1",
+        "target": "concept_6",
+        "relation": "includes",
+        "intent": "Highlights simplification in students' understanding of substance conversion in respiration."
+      },
+      {
+        "source": "visual_1",
+        "target": "visual_2",
+        "relation": "visualizes",
+        "intent": "The introductory slide visually presents misconceptions and underlying concepts."
+      },
+      {
+        "source": "visual_1",
+        "target": "concept_1",
+        "relation": "summarizes",
+        "intent": "Summarizes the misconceptions and goals for correcting them in the lesson."
+      },
+      {
+        "source": "student_1",
+        "target": "concept_1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to engage with and reflect on their learning process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

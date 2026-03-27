@@ -1,0 +1,133 @@
+{
+  "video_name": "34_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Cultivate students’ “patriotism and love for the nation” as a core competency in history; guide students to comprehend the nation’s destiny through the lens of historical development; and strengthen students’ attention to the country by teaching the deeds of historical figures.",
+  "transcript": "[0.0 -> 67.4] 首先我想说在我们的历史教学中我们要发展历史学科核心素养其中的家国情怀就是其中的一个重要的核心素养之一我们需要通过人文情怀通过历史人物的事件的讲解让学生从历史发展的角度去关心国家命运历史发展从这一角度来说历史人物的一个讲述是非常重要的尽管在教材编写中重视不重人但是做作为教师在讲解的过程中还是要补充历史人物的一些相关的背景和他所做出的事迹。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title slide featuring the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher College Students). The slide includes colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"第3课 统一多民族封建国家的建立\" (Lesson 3: The Establishment of a Unified Multi-Ethnic Feudal State).\n- The teacher stands in front of the screen, holding papers, and appears to be presenting the title without additional gestures like underlining.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the lesson title.\n- No specific gestures like pointing or circling are observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title slide introducing the teaching skills competition.\n- Transition to the classroom setting where the teacher stands in front of a screen displaying the lesson title.\n\n**Middle:**\n- The teacher remains stationary, holding papers, and appears to be speaking or presenting.\n- The screen consistently displays the lesson title without additional visual changes.\n\n**End:**\n- The scene remains focused on the teacher and the screen, with no further visual transitions or gestures noted.\n\n### Summary\nThe introduction phase centers on the lesson title displayed on the screen, with the teacher presenting the content through verbal explanation and minimal gestures. The visual focus remains on the title, setting the stage for the lesson on the establishment of a unified multi-ethnic feudal state.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title slide, setting the stage for the teaching skills competition. The scene transitions to the classroom, where the teacher stands poised in front of a large screen displaying the lesson title, \"第3课 统一多民族封建国家的建立.\" The teacher holds papers, suggesting a prepared presentation, and maintains a steady presence, occasionally gesturing with the papers to emphasize the lesson's focus. The visual narrative smoothly bridges from the competition's introduction to the main topic, grounding the students in the historical context of the establishment of a unified multi-ethnic feudal state. This structured approach connects the lesson to broader historical themes, preparing students to explore the complexities of state formation and ethnic integration, thus linking new knowledge to their existing understanding of historical development.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Patriotism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "c2",
+        "label": "Love for Nation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "c3",
+        "label": "Core Competency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "c5",
+        "label": "Nation's Destiny",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "c6",
+        "label": "Historical Figures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "c7",
+        "label": "Unified Multi-Ethnic Feudal State",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 67.4]"
+      },
+      {
+        "id": "v1",
+        "label": "Teaching Skills Competition Slide",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title Slide",
+        "type": "Visual",
+        "original_text": "Lesson 3: The Establishment of a Unified Multi-Ethnic Feudal State",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Attention on Screen",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Concept of patriotism encompasses love for the nation as an expression."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Patriotism is developed as part of the student's core competency."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "results_in",
+        "intent": "Historical development leads to understanding the nation's destiny."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Stories of historical figures enhance comprehension of historical development."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding the state formation contributes to grasping historical development."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Progression from competition slide to specific lesson title slide."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Lesson title slide focuses students' attention, enhancing engagement."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Visual representation maintains the lesson's focus on state formation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

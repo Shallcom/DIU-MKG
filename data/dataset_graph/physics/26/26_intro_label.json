@@ -1,0 +1,120 @@
+{
+  "video_name": "26_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "- Understand the basic concept of a capacitor and the definition of capacitance.  \n- Master the operating principle of capacitance and its applications in circuits.  \n- Analyze the charge‑storage capability by conducting a self‑made Leyden jar experiment.",
+  "transcript": "[0.0 -> 43.28] 字幕志愿者杨栋梁尊敬的各位评委亲爱的同学们大家好我是今天的二十六号选手我抽到集齐演讲的题目是恩格斯曾说过思维是地球上最美的花朵我认为把学生的思维比作是一朵花而我们老师的职责就是培育这朵花在讲到听容器的电容这一节内容时我们通过自制装垫的瓶子启发学生思维向学生介绍自制的瓶子自制的装垫的瓶子它的前身叫做莱顿瓶。\n[44.7 -> 82.36] 在培育这朵花的过程当中我们老师可以通过在培育这朵花时我们老师可以通过细心培养科学教育等方法在习近平总书记提到的四友好老师当中培养我们新时代四友好老师的素养有道德情操有人爱之心有科学素养有扎实学识。\n[86.0 -> 91.3] 同时我对这句话的看法是非常同意的。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide displayed on the screen. The slide features a title in a prominent orange box, which reads \"動量守恒定律\" (Law of Conservation of Momentum).\n\n#### 2. **The Title Event**\n- The title \"動量守恒定律\" is shown on the digital screen. The teacher does not physically write it but stands in front of the screen, holding papers, indicating the start of the lesson.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment. The focus is on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher stands in front of the screen, holding papers, and appears to be reading or presenting from them. There are no specific gestures noted in this segment that link directly to the board content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher enters the classroom and approaches the front, where a digital screen displays the title slide \"動量守恒定律.\"\n- The teacher stands in front of the screen, holding papers, indicating the start of the lesson.\n\n**Middle:**\n- The teacher remains stationary, reading from the papers. The screen continues to display the title slide without additional content or changes.\n- The blackboard remains blank except for some text written vertically on the right side, which is not the focus of the lesson.\n\n**End:**\n- The teacher continues to present, maintaining focus on the title slide. No further visual changes occur on the screen or board.\n\n### Summary\nThe introduction phase centers on the title slide \"動量守恒定律\" displayed on the digital screen. The teacher's actions involve presenting from papers without additional gestures or changes to the visual content. The blackboard remains largely unused, with only pre-existing text visible.",
+  "visual_narrative": "Initially, the screen presents the title slide \"動量守恒定律\" as the opening visual stimulus. The teacher enters the classroom and stands in front of the screen, holding papers, indicating the start of the lesson. To bridge to the topic, the teacher remains stationary, reading from the papers without additional gestures or changes to the visual content. The blackboard remains largely unused, with only pre-existing text visible on the right side. Finally, the visual focus stays on the title slide, establishing the lesson goal of exploring the Law of Conservation of Momentum. This introduction sets the stage by clearly presenting the main topic, allowing students to connect the concept to their existing knowledge of physics principles and anticipate further exploration of momentum-related phenomena.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Capacitor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Capacitance Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Operating Principle of Capacitance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Capacitance Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Leyden Jar Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Charge-Storage Capability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Conservation of Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 91.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Momentum Conservation Slide",
+        "type": "Visual",
+        "original_text": "Law of Conservation of Momentum",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Anticipating Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide introduces the concept of conservation of momentum."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines the basic concept related to capacitors."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Defines how capacitance operates in practical scenarios."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Describes applications arising from the principle of capacitance."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Experiment conducted to understand charge-storage."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Engages students to explore capacitors through hands-on experiments."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students with the momentum conservation concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

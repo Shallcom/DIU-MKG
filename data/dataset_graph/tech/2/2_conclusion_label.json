@@ -1,0 +1,170 @@
+{
+  "video_name": "2_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Master the correct use of the two cylinders; understand how viewing angle influences measurement results.",
+  "transcript": "[570.795225 -> 759.98] 为什么呢我们难道位置发生了改变我们的树的高度发生改变了吗没有吧我们在同一时间观察没有发生改变那这是为什么呢位置难道会对我们树的高度有影响吗这肯定是不对的那难道是什么问题我说我从二楼看和我从地面上看不一样对不对那是不是说视线对我们看高度是有影响的那我们现在可以看一下如果我们在仰视的时候看这个刻度尺和这个在平视的时候和我们在这个俯视的时候看刻度尺会不会有区别呢同学们可以看一看自己的这个右边的两桶观察一下现在你们面前的两桶的刻度尺是多少记录下来三种不同视线你们都可以试一下怎么样你觉得是仰视看得比较大还是偷视看得比较大应该是偷视看它会偏大然后仰视看的话它就会变小那你认为是这样的是吗好请坐有没有同学有不同的回答有没有同学大胆说出你的猜想答对答错都没有关系其他同学有吗没有是吧老师跟同学们一起来分析一下我们来画一个光路图同学们可以看一下这是一个两筒这个是将这里设为五十一二三二三二三二好深的话假设这里是五十点一号量我们看一下啊如果我从这个角度看这里有个眼睛诶我这样看我什么时候看到水的可能是这样对吧好好现在你看我最先接触到这个两桶的刻度的时候是在什么位置这里对不对这里我用红笔标红线好这个跟我们的水面位置高度一样吗不一样对吧它在下面还是在上面下面对好那我们现在再再假设一下我们仰视一下我们俯视一下这个是仰视我们现在俯视一下此时我们看到的刻度是多少对吧那其实我们观察发现俯视的时候刻度是较大的仰视的时候诶跟这个真实的高度是较小的对不对好那我们今天就先学两统的使用方法到这里好那今天就先使用两统的使用方法到这里嗯明天呢同学们好好地预习一下测量液体和固体的密度我们知道这个两桶是测量体积的我们刚刚说了毫升请进入下一环节好下课我的试掌告辞结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard displays the formula $\\rho = \\frac{m}{V}$ and a diagram illustrating a measurement setup.\n   - The digital screen shows a slide with diagrams of graduated cylinders labeled \"平放\" (horizontal), \"倾斜\" (tilted), and \"倒置\" (inverted).\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Formula: $\\rho = \\frac{m}{V}$\n     - Diagram: A setup with a horizontal line and a vertical line, possibly indicating measurement positions.\n   - Digital Screen:\n     - Title: \"知识回顾 新课讲解 课堂小结\" (Knowledge Review, New Lesson Explanation, Classroom Summary)\n     - Diagrams: Three graduated cylinders showing different orientations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $\\rho = \\frac{m}{V}$ on the blackboard, emphasizing the relationship between mass and volume.\n   - The teacher gestures towards the diagram on the blackboard, likely explaining the measurement setup.\n   - The teacher occasionally looks at the digital screen, possibly to reference the diagrams of the graduated cylinders.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in this segment.\n   - The focus remains on summarizing the current lesson content with the displayed formula and diagrams.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying the formula $\\rho = \\frac{m}{V}$ alongside a diagram illustrating a measurement setup, while the digital screen shows diagrams of graduated cylinders in different orientations. The teacher visually wraps up the lesson by pointing to the formula on the blackboard, emphasizing the mass-to-volume relationship. She gestures towards the diagram, likely explaining the measurement process. The teacher occasionally references the digital screen, highlighting the different cylinder positions. No strong emphasis actions like underlining or boxing are observed, and there is no visual indication of homework or next steps in this segment. The focus remains on consolidating the core concepts displayed on both the blackboard and screen.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Density Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Volume",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Measurement Setup",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "The formula ρ = m/V is displayed on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Cylinder Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams of cylinders in horizontal, tilted, and inverted positions are shown.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Horizontal Viewing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Tilted Viewing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Inverted Viewing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Measurement Accuracy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[570.795225 -> 759.98]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The blackboard displays the density formula to reinforce learning."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Mass is a component of the density formula."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Volume is a component of the density formula."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The measurement setup is illustrated alongside the formula on the blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagrams represent different measurement positions for consolidating knowledge."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "Horizontal viewing is shown as one of the cylinder orientations."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "Tilted viewing is depicted in the cylinder diagrams."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "Inverted viewing is part of the visual explanation of cylinder positions."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Measurement accuracy is influenced by horizontal viewing."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Measurement accuracy is influenced by tilted viewing."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Measurement accuracy is influenced by inverted viewing."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Students focus on the blackboard to understand the density concept."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "engages_with",
+        "intent": "Students observe cylinder diagrams for better conceptual understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

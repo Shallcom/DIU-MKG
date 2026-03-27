@@ -1,0 +1,147 @@
+{
+  "video_name": "19_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Enhance students' English expressive abilities through peer feedback.",
+  "transcript": "[684.66 -> 687.46] 好的你完成了吗。\n[689.1 -> 737.66] 现在请交换你的币票了你只需要在这项目里提出你朋友或同学来帮你检查这五个方面然后你可以邀请同学给你一些证据好吗我带你走大家好吗好现在汉密斯现在是你的工作室文化工作室的工作室已经添加了呃来就就是贝桑的办公室安的奥斯科莫斯福威斯博特博特博斯博斯博斯。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"Homework\" displayed on the screen.\n   - The slide has a simple layout with a light background and an orange rectangular box containing the homework instructions.\n   - The blackboard retains the lesson's structure with sections labeled \"Advice,\" \"Body,\" and \"Conclusion.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**:\n     - Title: \"Homework\"\n     - Instructions:\n       - \"Complete your letter based on your classmate's advice.\"\n       - \"Optional: Write a letter to your classmate to help him/her.\"\n   - **Blackboard Content**:\n     - \"Write a letter of advice\"\n     - Sections:\n       - Advice: \"Point more,\" \"Provide more,\" \"Use GrammarApp\"\n       - Body: \"Background information,\" \"Problem,\" \"Give your inference,\" \"Reasons\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Homework\" slide, emphasizing the two tasks listed.\n   - The teacher gestures towards the blackboard, likely reviewing the structure of the letter-writing process.\n   - The teacher uses hand movements to highlight the optional nature of the second homework task.\n\n4. **Transition to Next Step**:\n   - A slide appears with the text \"Thank you very much!\" indicating the end of the lesson.\n   - The slide includes images of students, suggesting a closing or appreciation message.\n   - No specific homework page numbers or exercise ranges are visible, but the emphasis is on completing the letter-writing tasks as outlined.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Homework,\" prominently displayed on the screen, featuring two key tasks within an orange box. The teacher points to each instruction in sequence, emphasizing the completion of a letter based on classmate advice and the optional task of writing a supportive letter. The blackboard remains visible, showcasing the structured approach to writing a letter of advice, with sections for \"Advice\" and \"Body\" clearly outlined. The teacher gestures towards these sections, reinforcing the lesson's framework. The session concludes with a slide expressing gratitude, accompanied by images of students, marking the end of the lesson. No specific homework pages are listed, but the focus remains on the letter-writing activities as the primary takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Advice",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[684.66 -> 687.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Homework Instructions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Letter Completion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Peer Feedback",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Supportive Letter",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "c6",
+        "label": "GrammarApp",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Body Section",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "c8",
+        "label": "Conclusion Section",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[689.1 -> 737.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide Title Homework",
+        "type": "Visual",
+        "original_text": "Homework",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Orange Box Instructions",
+        "type": "Visual",
+        "original_text": "Complete your letter...",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Structured Blackboard",
+        "type": "Visual",
+        "original_text": "Advice, Body, Conclusion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlighting the importance of homework completion."
+      },
+      {
+        "source": "c1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Illustrating the letter writing structure through blackboard sections."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Completion of letter is based on peer feedback principles."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Supportive letter task involves peer interaction and feedback."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Using GrammarApp to enhance advice given in letters."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Summarizing the components of the letter's body section."
+      },
+      {
+        "source": "c8",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Concluding the lesson structure with visual aid."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Encouraging students to reflect on the instructions given."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

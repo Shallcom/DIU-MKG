@@ -1,0 +1,173 @@
+{
+  "video_name": "24_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the occupancy rules for electron energy levels in atomic orbitals; master the basic content and applications of the Pauli exclusion principle; be able to distinguish electron behavior under different spin states.",
+  "transcript": "[136.52 -> 140.5] 有同学们一起来跟老师分享一下吗这位同学你来尝试一下吧。\n[141.62 -> 334.72] 根据这个浮图我们来看一下第一个是不是应该从这儿开始的这是NS把它绕上来呢这里就是还有谁呢是不是P再往上走你看到什么那再往下走呢是不是SPDF像这样的能级我们就叫做电子数那第二个问题能级分别容纳多少个电子呢请同学们再思考一下有同学愿意一起来跟老师分享一下你们组的答案吗这位同学你来尝试一下这位同学请你来试一下他去带容纳多少个电子呢想一下观察一下这位同学达到了两个其实这里的两个老师想强调一下同学们可以看一下每个能级分别能容纳的电子乘是二乘一二乘三二乘五和我们的二乘七那这里的二是什么意思呢为什么要是有个是二呢其实这里的二就是一个能层最多容纳两个电子而这里的一三五七就分别代表着它是不同的轨道那接下来请同学们跟着老师步伐走向套利第一个问题电子容纳在一个轨道说明什么呢提到电子容纳的一个轨道同学们可以思考一下你和你的好朋友你们相处得特别好说明你们怎么样是不是观念很合那电子它也容纳在一个轨道那就说明什么说明它们的空间形态是相同的那接下来再有一个问题为什么一个轨道最多容纳一两个电子呢就是我们刚刚所提到的二乘一二乘三和二乘五那这里的二就是两个电子我们来看一下其实是有两个荷兰的年轻人他们提出了一个概念名叫做自旋那想必同学们很好奇了这里的自旋到底是什么意思呢老师这里给出了两个钟表请同学们看一下这个钟表是顺时针运转的而这个钟表是逆时针运转的其实我们的电子自旋在空间里也有这样的两个顺序它们分别是顺时针和逆时针两种取向简称为自旋相反它们的符号表达式就是这样两个箭头平行排列同时这个时期还有另一位科学家他的名字叫泡利他又提出了一种泡利原理我们一起来认识一下一九二五年泡利原理正式提出一个原子轨道里最多容纳两个电子且自旋相反那下面同学们就抓住了这个重点我们在学习泡利原理的时候要注意以下两个关键点两个电子代表一个能层最多能容纳两个电子而自旋相反就是老师这个图上所呈现的箭头的方向是相反的。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a grid of circles, with text in Chinese asking about the number of black and white circles.\n- The teacher points to the grid, highlighting specific circles, likely to illustrate a pattern or sequence.\n- The screen shows a sequence of numbers: $-2, -1, 0, 1, 2, 3, 4, 5, 26, 27, \\ldots$.\n\n**Middle:**\n- The teacher transitions to a new slide titled \"标记材料\" (Marking Materials).\n- The slide lists questions about the properties of a material, such as its melting point and the number of atoms in a unit cell.\n- The teacher points to these questions, emphasizing key terms.\n- A diagram appears with labeled sections, including \"材料科学\" (Materials Science) and \"标记材料\" (Marking Materials), with arrows indicating relationships.\n\n**End:**\n- The teacher presents a slide with a historical context about the development of marking materials, mentioning a 1953 patent.\n- The teacher gestures towards the text, likely explaining the significance of the patent and its impact on materials science.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying various slides related to materials science, including grids, sequences, and historical information.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds emphasis to specific parts of the grid and sequence by pointing, likely explaining patterns or mathematical relationships.\n- **Modifications**: The teacher transitions between slides, adding context and depth to the discussion of materials and their properties.\n- **Deictic Gestures**: The teacher points to specific questions and diagrams, such as the melting point and unit cell structure, to guide the students' focus.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses pointing gestures to highlight key elements on the slides, such as important numbers in the sequence and critical questions about material properties.\n- The use of different slide backgrounds and text colors helps distinguish between topics and emphasize important information.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a grid of circles with a sequence of numbers: $-2, -1, 0, 1, 2, 3, 4, 5, 26, 27, \\ldots$. The teacher constructed a visual narrative by tracing specific circles and numbers, illustrating patterns and relationships within the sequence. Then, the teacher transitioned to a slide titled \"标记材料\" (Marking Materials), where questions about material properties, such as melting points and unit cell structures, were presented. The teacher annotated these questions, pointing to key terms and emphasizing their significance. A diagram with labeled sections, including \"材料科学\" (Materials Science) and \"标记材料\" (Marking Materials), was introduced, with arrows indicating relationships. The teacher derived connections between these concepts, using gestures to trace the flow of information. Finally, the teacher presented a historical context about a 1953 patent, highlighting its impact on materials science. The teacher circled critical information and used pointing gestures to emphasize the patent's significance, aligning visual highlights with the conclusion. Throughout, the structured visual flow on the screen reduced cognitive load by clearly segmenting topics and emphasizing key points, ensuring students could follow the progression from patterns to material properties and historical context.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electron Energy Levels",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Pauli Exclusion Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Electron Spin States",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Atomic Orbitals",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Melting Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Unit Cell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Spin Orientation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c8",
+        "label": "Spin Up",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c9",
+        "label": "Spin Down",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "c10",
+        "label": "1953 Patent",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[141.62 -> 334.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Grid Sequence",
+        "type": "Visual",
+        "original_text": "Sequence of numbers on the digital screen: -2, -1, 0, 1, 2, 3, 4, 5, 26, 27...",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Marking Materials Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Marking Materials' listing questions about material properties.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Historical Context Slide",
+        "type": "Visual",
+        "original_text": "Slide with historical context about the development of marking materials and 1953 patent.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Links electron energy levels to the exclusion principle."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Incorporates electron spin states as part of the exclusion principle."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Details spin orientation as part of spin states."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Describes spin up as a type of orientation."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Describes spin down as a type of orientation."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Displays material property of melting point on the slide."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Shows unit cell feature on a dedicated slide."
+      },
+      {
+        "source": "c10",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Represents historical patent information on the final slide."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in understanding electron energy levels."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "scaffolds",
+        "intent": "Uses the grid sequence to introduce atomic orbitals."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

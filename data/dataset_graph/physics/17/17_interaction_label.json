@@ -1,0 +1,183 @@
+{
+  "video_name": "17_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Understand the first law of thermodynamics and its mathematical expression; be able to calculate the change in a system’s internal energy; learn to apply the first law of thermodynamics to analyze real‑world problems.",
+  "transcript": "[448.2609675 -> 461.9] 在刚刚的学习中我们知道做工与热传递是等价的那德泰优不仅等于W德泰优又等于Q那如果外界的系统既做工又传入它的时候根据它们之间可以是等价的这一关系它们之间可以相互替代那是不是就是德泰优就等于Q加W呀。\n[472.38 -> 495.5] 那么这一关系就是我们今天要学习的热力学第一定律那么热力学第一定律的基本内容是什么呢我们一同来看一看你看热力学第一定律指出一个热力学系统的内能增量等于外界向它传递的热量与外界对它所做的公道和。\n[514.38 -> 525.3] 那么它的关系式就是德塔U等于Q加W。\n[544.38 -> 568.260967] 那同学们我们一同学习了热力学第一定律的基本内容接下来我们就通过我们刚刚的学习的内容将目光转移到我们刚开始所提出的这个问题那同学们现在你们可以谈一谈气缸内气体的内能变化量为多少吗我们可以谈一谈气缸内气体的内能变化量为多少吗。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher initially stands near the blackboard, facing the class, and gestures with her hand, likely signaling the start of an interactive segment. She then turns to the blackboard, preparing to write, which visually cues the students to focus on the content being developed.\n\n**2. The Visual Focus Point:**\n- The primary visual artifact is the blackboard, where the teacher writes about the First Law of Thermodynamics. The content includes:\n  - Title: \"热力学第一定律\" (First Law of Thermodynamics)\n  - Analysis points:\n    1. $W$ 为功与热总是我们研究的\n    2. $\\Delta U = Q + W$\n    3. $\\Delta U = \\infty$\n  - The teacher also references the digital screen displaying related equations:\n    - $W = Q + \\Delta U$\n    - $\\Delta U = Q - W$\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As the teacher writes on the blackboard, she frequently turns to face the class, likely listening to student responses or questions. She uses her body language to engage, such as nodding or maintaining eye contact, to encourage participation.\n- She writes additional content on the board, such as \"热力学第一定律\" and \"分析\", indicating she is expanding on the topic based on the discussion flow.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher writes key points and equations on the blackboard, visually confirming the discussed concepts. For example, she writes:\n  - \"热力学第一定律\"\n  - \"分析\"\n  - \"基本内容\"\n  - \"表达式\"\n- She uses the chalk to underline or circle important parts of the equations, such as $\\Delta U = Q + W$, to emphasize key takeaways.\n- The teacher gestures towards the digital screen and the blackboard, linking the two visual aids to reinforce the concepts being discussed.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher stands by the blackboard, gesturing to signal interaction.\n  - Writes \"热力学第一定律\" and begins the analysis section.\n\n- **Middle:**\n  - Writes equations $\\Delta U = Q + W$ and $\\Delta U = \\infty$.\n  - Turns to the class, using gestures to encourage participation.\n  - Adds \"分析\" and further details on the blackboard.\n\n- **End:**\n  - Completes writing key points and expressions.\n  - Uses gestures to connect the blackboard content with the digital screen.\n  - Emphasizes important equations by underlining or circling them.\n\nThis structured approach ensures that the teacher's visual strategies effectively manage the dialogue and co-construct knowledge with the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"热力学第一定律\" (First Law of Thermodynamics) and initial analysis points, setting the stage for the lesson. The teacher began by gesturing broadly towards the class, inviting participation and signaling the start of an interactive segment. She then turned to the blackboard, writing key equations such as $\\Delta U = Q + W$ and $\\Delta U = \\infty$, establishing the foundational concepts for discussion.\n\nAs the lesson progressed, the teacher actively facilitated the students' engagement. While a student explained their reasoning, she moved to the blackboard, jotting down their key terms and ideas. This real-time transcription visually scaffolded the student's thoughts, making their contributions part of the collective learning environment. The teacher's supportive gestures, such as nodding and maintaining eye contact, encouraged the student to elaborate further, fostering a dynamic exchange of ideas.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the final equation on the board, $\\Delta U = Q + W$, emphasizing its importance. She then drew an arrow connecting this equation back to the main theorem discussed earlier, reinforcing the core lesson content and illustrating how the student's response fit into the broader conceptual framework.\n\nFinally, the teacher walked around the classroom, pointing to both the blackboard and the digital screen, which displayed related equations. This movement linked the visual elements, helping students see the connections between different representations of the same concept. By actively involving students in the discussion and visually integrating their contributions, the teacher transformed the classroom into a collaborative space where students moved from passively receiving knowledge to actively constructing their own understanding. This visual orchestration ensured that each student could see their ideas valued and connected to the lesson's central themes, promoting deeper comprehension and engagement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "First Law of Thermodynamics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[472.38 -> 495.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Internal Energy Change",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[514.38 -> 525.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Work",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[448.2609675 -> 461.9]"
+      },
+      {
+        "id": "c4",
+        "label": "Heat Transfer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[448.2609675 -> 461.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Expression ΔU = Q + W",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[514.38 -> 525.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Expression ΔU = ∞",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[472.38 -> 495.5]"
+      },
+      {
+        "id": "c7",
+        "label": "System Interaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[448.2609675 -> 461.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "First Law of Thermodynamics",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Equation ΔU = Q + W",
+        "type": "Visual",
+        "original_text": "Expression ΔU = Q + W",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Equation ΔU = ∞",
+        "type": "Visual",
+        "original_text": "Expression ΔU = ∞",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Digital Screen Equation",
+        "type": "Visual",
+        "original_text": "W = Q + ΔU",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Student Explanation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss3",
+        "label": "Student Inquiry",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The First Law of Thermodynamics involves internal energy change."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Expression ΔU = Q + W is derived from the First Law of Thermodynamics."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The expression ΔU = Q + W helps in calculating the internal energy change."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Heat transfer is an integral part of the expression ΔU = Q + W."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Work is an integral component of the expression ΔU = Q + W."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Equation ΔU = ∞ is illustrated on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Equation ΔU = Q + W is illustrated on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Digital screen equation W = Q + ΔU visually reinforces the concept."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Title 'First Law of Thermodynamics' is displayed on the blackboard."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher encourages engagement with the First Law of Thermodynamics."
+      },
+      {
+        "source": "c4",
+        "target": "ss2",
+        "relation": "guides_discussion",
+        "intent": "Teacher facilitates student explanation on heat transfer."
+      },
+      {
+        "source": "c7",
+        "target": "ss3",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages inquiry about the system's interaction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

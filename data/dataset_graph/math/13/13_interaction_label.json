@@ -1,0 +1,119 @@
+{
+  "video_name": "13_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the principle of addition by classification and its fundamental components; master the determination of classification criteria and the associated calculation methods; be able to apply addition by classification to solve practical problems.",
+  "transcript": "[549.1 -> 569.94] 好我们来看看我们的基本环节我们加法分类加法的原理它的刚刚我们这个问题它的基本的环节是什么啊同学们说我来写第一个它是要好就是要确定分类标准。\n[577.08 -> 591.18] 做第二步是要干什么呢我们要计算出各类号码的计算出个数。\n[607.08 -> 623.54] 好那第三步是要干什么呢我们将我们刚刚得出的个数好各类号码的个数相加。\n[637.08 -> 667.74] 这样我们是不是就给我们的座位给它排好序知道它可以有多少种方法去给它编码对不对好那这个知识呢也就是我们今天所学的学习的内容分类加法技术原理我们说要完成一件事它有两种不同的方案我们刚刚的方案是哪两种呢第一种是对英文字母那第二种是对阿拉伯数字然后在第一内方案中它有M种不同的方法刚刚我们的M就是好第二类方案中它有N种不同的计算方法刚刚我们的N它是好那么完成这件事它总共就有大我们将这个我们将我们的技术员他这个总总的总的分总的方法它叫做大N。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher turned towards the students, holding a piece of paper, and gestured with her hand, signaling the start of an interaction. This gesture invited the students to engage with the content being discussed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content on the digital screen, specifically the section discussing the \"加法原理\" (Addition Principle). The teacher pointed to the text on the screen, highlighting key points about the principle.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher wrote on the blackboard, adding points such as \"2. 计算各分类项的个数\" (Calculate the number of items in each category) and \"3. 各类子项的个数加和\" (Sum the numbers of each sub-item). This provided a visual structure to the explanation, aiding student understanding.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher used the pointer to emphasize specific parts of the text on the screen, ensuring students focused on critical details. She also maintained eye contact with students, nodding to acknowledge their engagement and understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes \"基本环节\" (Basic Steps) on the blackboard, establishing the framework for the lesson.\n  - She then adds \"1. 有确定分类标准\" (1. Have a definite classification standard), linking this to the content on the screen about classification principles.\n\n- **Middle:**\n  - The teacher writes \"2. 计算各分类项的个数\" (2. Calculate the number of items in each category) on the board, aligning it with the screen content.\n  - She gestures towards the screen, pointing to the text about the addition principle, ensuring students connect the board notes with the digital content.\n\n- **End:**\n  - The teacher completes the list on the board with \"3. 各类子项的个数加和\" (3. Sum the numbers of each sub-item).\n  - She points to the screen again, reinforcing the connection between the written steps and the principle being discussed.\n\nThroughout, the teacher's visual strategies, including writing on the board and pointing to the screen, facilitated a structured dialogue, guiding students through the co-construction of knowledge.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"6.4 分类加法计数原理\" (Classification Addition Counting Principle) and the initial steps of the process. The teacher began by writing \"基本环节\" (Basic Steps) on the blackboard, setting the stage for the lesson. She then gesturally invited students to participate by turning towards them and making an open-handed gesture, signaling the start of an interactive segment.\n\nAs the lesson progressed, the teacher wrote \"1. 有确定分类标准\" (1. Have a definite classification standard) on the board, aligning it with the content displayed on the digital screen. She pointed to the screen, emphasizing the importance of classification in the addition principle. While explaining, she moved to the board to add \"2. 计算各分类项的个数\" (2. Calculate the number of items in each category), using hand gestures to illustrate the calculation process.\n\nDuring the student's response, the teacher walked over to the board and wrote \"3. 各类子项的个数加和\" (3. Sum the numbers of each sub-item), capturing the student's explanation visually. She nodded and maintained eye contact, providing non-verbal encouragement and validation.\n\nTo confirm the knowledge, the teacher pointed to the screen, highlighting the key points about the addition principle. She then drew an arrow on the board, connecting the steps written there to the principles displayed on the screen, reinforcing the relationship between the steps and the core concept.\n\nFinally, the teacher summarized the process, linking the student's active participation back to the main theorem. This visual orchestration helped students move from passively receiving information to actively constructing their understanding, ensuring they grasped how each step contributed to the overall principle.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Classification Addition Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[549.1 -> 667.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Definite Classification Standard",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[549.1 -> 577.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Calculate Category Items",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[577.08 -> 591.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Sum Sub-item Numbers",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[607.08 -> 623.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Basic Steps",
+        "type": "Visual",
+        "original_text": "Basic Steps written on the board.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Classification Principle Text",
+        "type": "Visual",
+        "original_text": "Text about addition principle on screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Calculation Points",
+        "type": "Visual",
+        "original_text": "Points about calculation methods written on board.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The Classification Addition Principle requires a definite classification standard."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Establishing a classification standard is necessary to calculate items."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Calculating each category's items leads to summing sub-item numbers."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Basic steps of the Classification Addition Principle are outlined on the board."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The screen content explains the importance of classification."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Board writing highlights steps in calculating category items."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Board visuals engage students in understanding the basic steps."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Screen visuals keep students engaged with the principle."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

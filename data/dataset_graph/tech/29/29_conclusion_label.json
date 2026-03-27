@@ -1,0 +1,208 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the operating principle of the sliding resistor; be able to analyze the resistor’s resistance changes through group discussion and applied exercises.",
+  "transcript": "[597.8 -> 614.44] 老师这里提供了滑动电阻器的一种接法连接了A点和D点同学们想一想向哪个方向移动的时候电阻会变大向哪个方向移动的时候电阻会变小呢现在开始小组讨论。\n[633.94 -> 704.94] 好老师看大家讨论的差不多了现在我们一起来解看滑动电阻器的意义好第一个问题为什么接触的电阻丝居然才会被刮去呢这样子它这个电阻就可以接入到电路当中好好请坐第二个问题移动滑片时哪两个电阻的变动这位同学AB之间的电阻不变观察得很仔细请坐好第三个问题好我们请这位同学CB之间的电阻很小因为AB段才是电阻的滑动区间好那移动滑变的过程当中哪两个接线处的电阻会随之改变呢好这位同学AB之间好这位同学也就是A点到点P的这一段对吗好请坐最后一个问题在哪方向移动时会变大呢这边请。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains the heading \"第4节 变阻器\" and two key points:\n     1. 变阻器：可以改变电路中电阻的大小\n     2. 电路元件符号——变阻器\n   - The presentation slide displays a diagram of a rheostat with a list of steps in Chinese.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Heading: 第4节 变阻器\n     - Key Points:\n       1. 变阻器：可以改变电路中电阻的大小\n       2. 电路元件符号——变阻器\n   - Slide:\n     - Diagram of a rheostat\n     - List of steps related to the rheostat operation\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard, specifically highlighting the key points about the rheostat and its symbol.\n   - The teacher gestures towards the slide, emphasizing the diagram and the steps listed.\n   - The teacher uses hand movements to trace the components of the rheostat diagram on the slide.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the lesson content with the blackboard and slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard and presentation slide prominently displaying key concepts about rheostats. The blackboard features the heading \"第4节 变阻器\" with two main points: the function of a rheostat and its circuit symbol. The slide shows a rheostat diagram alongside a list of operational steps. The teacher visually reviews these elements by pointing to each key point on the blackboard, ensuring students focus on the rheostat's role in altering circuit resistance and its symbol. She gestures towards the slide, emphasizing the diagram and steps, reinforcing the lesson's core concepts. No additional visual elements indicate homework or next steps, keeping the focus on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Rheostat",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[597.8 -> 614.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Resistor Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[597.8 -> 614.44]"
+      },
+      {
+        "id": "c3",
+        "label": "Increase Resistance",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[597.8 -> 614.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Decrease Resistance",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[597.8 -> 614.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Resistance Wire Contact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[633.94 -> 704.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Rheostat Circuit",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[633.94 -> 704.94]"
+      },
+      {
+        "id": "c7",
+        "label": "AB Resistance Constancy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[633.94 -> 704.94]"
+      },
+      {
+        "id": "c8",
+        "label": "CB Resistance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[633.94 -> 704.94]"
+      },
+      {
+        "id": "c9",
+        "label": "A to P Resistance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[633.94 -> 704.94]"
+      },
+      {
+        "id": "c10",
+        "label": "Rheostat Movement Direction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[633.94 -> 704.94]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard with Rheostat Concepts",
+        "type": "Visual",
+        "original_text": "Phase 4: Rheostat, Purpose: Change Resistance, Circuit Element Symbol",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Rheostat Diagram Slide",
+        "type": "Visual",
+        "original_text": "Diagram of a rheostat with operational steps",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "s2",
+        "label": "Answer Validation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Rheostat's function to change circuit resistance."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Blackboard visual supports understanding of rheostat concepts."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Slide visualizes the practical aspects of a rheostat."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Procedure to increase resistance based on principle."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Procedure to decrease resistance based on principle."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Contact points of resistance wire in the rheostat."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "AB resistance remains constant in rheostat circuit."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "CB resistance variability in rheostat circuit."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "A to P resistance is adjustable in the circuit."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Direction of movement increases resistance."
+      },
+      {
+        "source": "c10",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Direction of movement decreases resistance."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Blackboard helps facilitate group discussion."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher encourages students to discuss rheostat operation."
+      },
+      {
+        "source": "s2",
+        "target": "c7",
+        "relation": "praises_response",
+        "intent": "Student correctly identifies constant resistance."
+      },
+      {
+        "source": "s2",
+        "target": "c8",
+        "relation": "praises_response",
+        "intent": "Student notes variability in CB resistance."
+      },
+      {
+        "source": "s2",
+        "target": "c9",
+        "relation": "praises_response",
+        "intent": "Student identifies adjustable A to P resistance."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

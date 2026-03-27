@@ -1,0 +1,153 @@
+{
+  "video_name": "43_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the application of constructivist teaching philosophy and the new curriculum standards in mathematics instruction; master the real‑world context of parabolas within conic sections and methods for analyzing their concepts.",
+  "transcript": "[133.68 -> 164.62] 那最后我认为我们作为未来的人民教师在未来要教学的时候应该充分地结合建构主义和新课标理念进行教学结合习近平总书记在教育家精神提到的教师要勤学笃志求是创新我们要争当学生的未来发展的一个明灯落实立德树人的根本任务我的即兴演讲到此结束恳请各位评委老师和同学们批评指正谢谢。\n[178.72 -> 235.06] 下面开始我的模拟授课同学们上课了这节课我们来学习圆锥曲线的第三个在前面我们学习了圆锥曲线的椭圆和双曲线来回顾一下我们是如何研究它的首先我们从抛物线和双曲线的生活背景出发然后抽象出椭圆和双曲线它的一个概念再利用这一张非常重要的一个方法坐标法结合概念建立了椭圆和双曲线的方程进来去研究它的几个基本性质然后应用概念和方程解决一些实际问题。\n[236.26 -> 325.5] 那在章节起始课的时候我们做了一个实验用一个平面去截圆锥我们得到了三类曲线前面已经研究了椭圆和双曲线那第三类就是抛物线了好的那类比这样的一个研究路径同学们你可以举例一下生活当中有哪些抛物线的实际背景吗请这位同学你详细地说说看生活当中有哪些抛物线的例子比如说那个拱桥拱桥的那个走向是吧还有吗还有平时有没有打球啊对还有羽毛球的那个路线羽毛球的运动轨迹对很好请坐老师还补充一点在我们科技生活当中啊还有这么一个例子我们卫星接收器它的一个曲面和截轴面的交线也是一个抛物线在大家课本当中有对应的例子可以查看一下它的曲线也是一个抛物线的那按照这么一个研究路径我们了解了抛物线的实际背景下一步就要来探究它的概念了那概念请同学们拿出课前事先让大家准备的几个物品把我们的草稿纸纸尺三角板细绳剪刀和一支铅笔给拿出来。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a slide titled \"93.3.1 倾斜线及其标准方程\" (Sloping Lines and Their Standard Equations).\n- The slide shows a coordinate system with axes labeled $x$ and $y$.\n- The teacher holds papers and gestures towards the screen, likely introducing the topic of sloping lines.\n\n**Middle:**\n- The teacher moves closer to the screen, pointing at the coordinate system, emphasizing the axes and their labels.\n- The slide transitions to a new layout with text in Chinese, discussing the concept of slope and its calculation.\n- The teacher uses hand gestures to explain the relationship between the slope and the angle of inclination.\n\n**End:**\n- The screen displays multiple blue boxes with text, possibly representing different cases or examples.\n- The teacher gestures towards these boxes, likely explaining each case in detail.\n- The teacher's gestures include pointing and moving hands to illustrate concepts visually.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide showing a coordinate system with $x$ and $y$ axes.\n- The slide includes text in Chinese, discussing the slope of a line and its standard equation.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher adds explanations verbally, likely corresponding to the text on the slide, such as defining slope and its formula.\n- **Modifications**: The teacher does not modify the slide but uses gestures to highlight different parts of the coordinate system and text.\n- **Deictic Gestures**: The teacher points to specific parts of the coordinate system and text boxes, emphasizing key concepts like the slope formula and examples.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the axes and text boxes.\n- The digital screen uses blue boxes to highlight different sections of text, aiding in visual separation of concepts.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a coordinate system with labeled axes $x$ and $y$, serving as the primary visual anchor for the lesson on sloping lines and their standard equations. The teacher began by constructing the foundational concept of slope, using hand gestures to trace the axes and emphasize their roles in defining line orientation. As the lecture progressed, the teacher derived the slope formula, pointing to specific parts of the coordinate system to illustrate the relationship between rise and run. The screen transitioned to include text in Chinese, discussing slope calculation, and the teacher annotated these concepts verbally, aligning explanations with the visual text. He resolved deixis by tracing the slope's trajectory on the graph, illustrating the increasing trend. Finally, he navigated through multiple blue text boxes on the screen, each representing different cases or examples, using deliberate gestures to highlight key points. The teacher emphasized important conclusions by pointing to specific text sections, ensuring visual alignment with the verbal explanations. This structured approach reduced cognitive load by synchronizing visual cues with spoken content, reinforcing understanding through both dynamic gestures and static visual aids.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Constructivist Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[133.68 -> 164.62]"
+      },
+      {
+        "id": "c2",
+        "label": "New Curriculum Standards",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[133.68 -> 164.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Parabolas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[178.72 -> 235.06]"
+      },
+      {
+        "id": "c4",
+        "label": "Conic Sections",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[178.72 -> 235.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Slope",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Phase 1: Beginning"
+      },
+      {
+        "id": "c6",
+        "label": "Slope Calculation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "Phase 1: Middle"
+      },
+      {
+        "id": "c7",
+        "label": "Standard Equation of Line",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Phase 1: Beginning"
+      },
+      {
+        "id": "c8",
+        "label": "Coordinate System",
+        "type": "Visual",
+        "original_text": "Coordinate system with labeled x and y axes.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Blue Text Boxes",
+        "type": "Visual",
+        "original_text": "Multiple blue boxes with text representing different cases or examples.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c11",
+        "label": "Research Parabolas",
+        "type": "Procedure",
+        "knowledge_type": "Procedure",
+        "timestamp": "[236.26 -> 325.5]"
+      },
+      {
+        "id": "c12",
+        "label": "Real-world Parabolas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[236.26 -> 325.5]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Incorporates new teaching standards with a constructivist approach."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Identifies parabolas as specific examples within conic sections."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Derives the calculation method from the concept of slope."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Calculating slope relates to standard equation of line."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Displays the coordinate system for understanding slope."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Examples for understanding slope and real-world application."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Real-world examples used for exploring parabolas' concept."
+      },
+      {
+        "source": "c3",
+        "target": "c12",
+        "relation": "includes",
+        "intent": "Describes practical instances of parabolas in the real world."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "prompts_thinking",
+        "intent": "Engages students to think about practical examples of parabolas."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

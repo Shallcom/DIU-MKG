@@ -1,0 +1,146 @@
+{
+  "video_name": "0_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of arithmetic sequences and their common difference; be able to identify and derive simple proportional relationships in arithmetic sequences.",
+  "transcript": "[662.86 -> 707.9] 我们知道等差数列它就是一个数列从第二项齐每一项与它的齐一项的差等于同一个常数其实这个常数啊也有一个特殊的名字叫做等差数列的公常。\n[709.0 -> 726.84] 我们常用字母D来解释。\n[727.84 -> 747.42] 现在请同学们看由三个数组成的A大A和B这样的等差数点等差数列就是一个简单的等差数列那么在这样的等差数列中你们可以发现出怎样的一个等量关系吗。\n[752.36 -> 763.46] 这位女生根据等差数列的定义大A减小A等于小B减大A。\n[765.0 -> 802.56] 大A减小A小A等于小B减大A小B减大A那么我们可以将A都放在等式的左边将其他的字母移到等式的右边中应该如何化解二大A大二大A等于B加A小B加小A也就是A加B非常好请坐其实啊具有这样的特征呢我们就可以发现这个A就有这样特征的式子中我们就将A叫做A与B的等差时间到以上就是我模拟上课的全部内容。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a detailed explanation of arithmetic sequences.\n   - The blackboard is divided into sections with mathematical expressions and definitions.\n   - The right side of the screen displays a slide with definitions and examples related to arithmetic sequences.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Blackboard**:\n     - Title: §4.2.1 等差数列的概念 (Concept of Arithmetic Sequences)\n     - Examples of arithmetic sequences: $1, 3, 5, 7, 9, 11, 13, 15$\n     - Differences between terms: $a_2 - a_1 = a_3 - a_2 = \\cdots = a_n - a_{n-1} = d$\n     - General term formula: $a_n = a_1 + (n-1)d$\n     - Derivation steps: \n       - $A = \\frac{(a_1 + a_n)}{2}$\n       - $A = \\frac{(a + b)}{2}$\n       - $2A = a + b$\n   - **Slide**:\n     - Definition of arithmetic sequence.\n     - Example: $1, 3, 5, 7, 9, 11, 13, 15$ is an arithmetic sequence with common difference $d = 2$.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the examples on the blackboard, specifically highlighting the sequence $1, 3, 5, 7, 9, 11, 13, 15$.\n   - The teacher gestures towards the differences between terms, emphasizing $a_2 - a_1 = a_3 - a_2 = \\cdots = a_n - a_{n-1} = d$.\n   - The teacher points to the general term formula $a_n = a_1 + (n-1)d$ and explains its components.\n   - The teacher uses hand movements to trace the derivation steps on the blackboard, particularly focusing on the equation $2A = a + b$.\n\n4. **Transition to Next Step**:\n   - The slide on the screen includes a section that might indicate further examples or homework, but specific details are not visible in the frames provided.\n   - No explicit homework or next lesson details are visible on the blackboard or screen in the provided frames.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the concept of arithmetic sequences. The teacher visually reviews the content by pointing to the sequence examples and differences between terms, emphasizing the common difference $d$. She traces the derivation steps, particularly highlighting the equation $2A = a + b$. The slide on the screen reinforces the definition and provides an example sequence. The teacher's gestures focus on the general term formula $a_n = a_1 + (n-1)d$, ensuring it is the core takeaway. No explicit homework or next-step instructions are visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Arithmetic Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.86 -> 707.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Common Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[662.86 -> 707.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Letter D for Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.0 -> 726.84]"
+      },
+      {
+        "id": "c4",
+        "label": "General Term Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[709.0 -> 747.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Derivation of A",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[752.36 -> 763.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Equation 2A = a + b",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[765.0 -> 802.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Explanation",
+        "type": "Visual",
+        "original_text": "The blackboard contains detailed explanation of arithmetic sequences.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Sequence Example on Blackboard",
+        "type": "Visual",
+        "original_text": "Example sequence $1, 3, 5, 7, 9, 11, 13, 15$ displayed with differences.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "General term formula $a_n = a_1 + (n-1)d$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Slide Definition",
+        "type": "Visual",
+        "original_text": "Slide shows definition and example sequence with common difference.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Discovering Relationship",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard summarizes the concept of arithmetic sequences visually."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the common difference through pointing at visual examples."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Teacher visualizes the general term formula on the board."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "An arithmetic sequence includes a common difference."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The general term formula builds upon the derivation of 'A'."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Blackboard scaffolds the concept of the equation."
+      },
+      {
+        "source": "v4",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide provides a visual definition and examples of arithmetic sequences."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Visual example helps build upon the understanding of common difference."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts thinking about derivation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

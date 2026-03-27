@@ -1,0 +1,186 @@
+{
+  "video_name": "6_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the basic definition of complex numbers and their relationship to real numbers; master the geometric representation of complex numbers; be able to correctly perform addition and subtraction of complex numbers and grasp their geometric meaning.",
+  "transcript": "[192.28 -> 285.02] 上课同学们好同学们上节课我们学习了辅数的概念同学们知道它是怎么定义的吗我们知道形如Z等于A加BI的形式我们可以将是符数我们将实数级扩充到了符数级但是我们要注意这里的B可以等于零吗不可以吧不可以等于零因为如果B等于零的时候我们的就不是符数了吧就是A那就是实数当我们在学习了符数的定义之后我们又学习了符数的几何意义我们是怎么将它扩充到几何意义当中的呢思考一下我们是不是在符屏面内找到了一个项链我们的符数可以有一个有序数的AB在符屏面内建立了一个项链AB也就是有一个唯一的有序数对和唯一的项链那现在同学们请思考一下实数有加减的运算乘除的运算符数当中有吗有吧有加减的运算和乘除的运算那我们现在来看一下符数的四则运算其中的加法运算加减运算以及它的几何能力。\n[293.68 -> 312.28] 我是这么定义的现在我有一个符数Z一等于A一加一IZ二等于A二加一二I现在我想请同学们思考一下Z一加Z二你们会怎么去计算呢请你来回答一下我会把它的时步和时路分别相加非常好请坐他会把时步与时步虚部与虚部相加也就是A一加上A二那B一加上B二十部与十部相加虚部与虚部相加大家想一下这个跟我们之前所学的多项式是不是很像呢对我们就是类比了多项式的加法运算所以我们符数的加法加法运算就是这么定义的它的时步与时步相加需步与需步相加那现在同学们请思考一下我们的符数有平面的几何意义那符数的加法有吗现在好那不好意思符数的加法我们知道时数的加法满足交换率和结合率它的交换A加B等于B加A吧很好那它的结合率呢A加B加C等于A加B加C非常好那我们的符数是否也有交换率和结合率呢我们看看怎么书写符数的ZE加C吧加上Z二我们可以等于Z二加上Z一。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The screen displays a slide titled \"复习导入\" (Review Introduction).\n- The teacher writes the complex number equation $z = a + bi$ ($b \\neq 0$) on the chalkboard.\n- The digital screen shows the question \"复数是怎么定义的?\" (How is a complex number defined?) and the equation $z = a + bi$ ($b \\neq 0$).\n\n**Middle:**\n- The teacher points to the equation on the chalkboard, emphasizing the components $a$ and $bi$.\n- The screen updates to include a graph of a function $f(x)$, with an arrow indicating $f(x) \\rightarrow f(a)$.\n- The teacher gestures towards the graph on the screen, explaining the transformation visually.\n\n**End:**\n- The teacher writes \"7.2 复数的四则运算\" (7.2 Operations of Complex Numbers) on the chalkboard.\n- The screen changes to display \"7.2 复数的四则运算\" with additional text below.\n- The teacher underlines the title on the chalkboard, highlighting the new topic.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the complex number equation $z = a + bi$ ($b \\neq 0$) on the chalkboard.\n   - The digital screen initially displays review content and later transitions to the new topic title.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes the title \"7.2 复数的四则运算\" on the chalkboard while explaining the transition to operations of complex numbers.\n   - **Modifications**: The teacher underlines the new title to emphasize the shift in focus.\n   - **Deictic Gestures**: The teacher points to the equation $z = a + bi$ on the chalkboard and the graph on the screen, linking the visual elements to the spoken explanation.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses underlining on the chalkboard to highlight the new section title.\n   - The digital screen uses blue background color for the new topic title to draw attention.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the complex number equation $z = a + bi$ ($b \\neq 0$), serving as the primary visual anchor. The digital screen complemented this by posing the question \"复数是怎么定义的?\" (How is a complex number defined?) and mirroring the equation. The teacher constructed the foundational concept by writing and emphasizing the components of the complex number on the chalkboard. \n\nThen, the teacher gave a lecture, deriving the concept further by pointing to the equation and explaining its parts. The screen evolved to include a graph of $f(x)$, with an arrow indicating $f(x) \\rightarrow f(a)$. The teacher traced the graph's rising slope to illustrate a transformation, linking the visual elements to the spoken explanation. \n\nFinally, the teacher transitioned to the new topic by writing \"7.2 复数的四则运算\" on the chalkboard. The screen updated to reflect this shift, and the teacher underlined the title to highlight its importance. Throughout, visual strategies such as underlining and color differentiation on the screen reduced cognitive load by clearly segmenting topics and emphasizing key transitions, ensuring a coherent flow of knowledge delivery.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.28 -> 285.02]"
+      },
+      {
+        "id": "concept2",
+        "label": "Real Numbers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.28 -> 285.02]"
+      },
+      {
+        "id": "concept3",
+        "label": "Complex Equation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.28 -> 285.02]"
+      },
+      {
+        "id": "concept4",
+        "label": "Imaginary Unit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[192.28 -> 285.02]"
+      },
+      {
+        "id": "concept5",
+        "label": "Geometric Representation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[192.28 -> 285.02]"
+      },
+      {
+        "id": "concept6",
+        "label": "Addition of Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[293.68 -> 312.28]"
+      },
+      {
+        "id": "concept7",
+        "label": "Subtraction of Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[293.68 -> 312.28]"
+      },
+      {
+        "id": "concept8",
+        "label": "Commutative Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[293.68 -> 312.28]"
+      },
+      {
+        "id": "concept9",
+        "label": "Associative Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[293.68 -> 312.28]"
+      },
+      {
+        "id": "visual1",
+        "label": "Complex Number Equation on Board",
+        "type": "Visual",
+        "original_text": "Equation z = a + bi displayed on chalkboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual2",
+        "label": "Review Introduction Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Review Introduction' on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual3",
+        "label": "Complex Number Definition Slide",
+        "type": "Visual",
+        "original_text": "Slide asking 'How is a complex number defined?'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual4",
+        "label": "Graph of f(x)",
+        "type": "Visual",
+        "original_text": "Screen shows graph of function with transformation arrow",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual5",
+        "label": "Operations of Complex Numbers",
+        "type": "Visual",
+        "original_text": "Slide showing 'Operations on Complex Numbers'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "student1",
+        "label": "Answering Equation Calculation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "builds_upon",
+        "intent": "Establishes the concept of complex numbers relative to real numbers."
+      },
+      {
+        "source": "concept1",
+        "target": "visual1",
+        "relation": "visualizes",
+        "intent": "Displays the complex number equation on the board."
+      },
+      {
+        "source": "concept3",
+        "target": "concept4",
+        "relation": "includes",
+        "intent": "Describes the equation components including the imaginary unit."
+      },
+      {
+        "source": "concept5",
+        "target": "visual4",
+        "relation": "visualizes",
+        "intent": "Illustrates geometric representation with the graph."
+      },
+      {
+        "source": "concept6",
+        "target": "concept7",
+        "relation": "includes",
+        "intent": "Groups operations under addition and subtraction procedures."
+      },
+      {
+        "source": "visual2",
+        "target": "concept1",
+        "relation": "summarizes",
+        "intent": "Provides introductory context to complex numbers."
+      },
+      {
+        "source": "visual3",
+        "target": "concept3",
+        "relation": "emphasizes",
+        "intent": "Focuses attention on defining the complex number equation."
+      },
+      {
+        "source": "concept8",
+        "target": "concept6",
+        "relation": "builds_upon",
+        "intent": "Explains how addition respects commutative law."
+      },
+      {
+        "source": "concept9",
+        "target": "concept6",
+        "relation": "builds_upon",
+        "intent": "Explains how addition respects associative law."
+      },
+      {
+        "source": "visual5",
+        "target": "concept6",
+        "relation": "visualizes",
+        "intent": "Shows transition to operations of complex numbers."
+      },
+      {
+        "source": "student1",
+        "target": "concept6",
+        "relation": "prompts_thinking",
+        "intent": "Encourages thinking about complex number addition."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

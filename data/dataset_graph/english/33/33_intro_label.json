@@ -1,0 +1,146 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Guide students to actively participate in classroom discussions through questioning; encourage students to share their personal viewpoints within contextual situations.",
+  "transcript": "[0.0 -> 149.72] 并所以从我的角度来说首先我觉得我们应该向学生问一个友善的问题因为那么多学生害怕在课上表达自己的想法因为他们缺乏自信所以他们不能表达自己的想法在公司上我们应该让学生们保持笑容并让他们知道我们只是想让他们分享自己的想法没有错与或者是如何回答这个问题呢所以我们需要创造更具体的情况来让他们知道该怎么看的事情和该怎么看的事情还有第三个我想我们的教授应该使用一些情报技术来帮助我们他请进入我的课堂。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"Unit 1 Teenage Life\" displayed on the screen. The slide includes the subtitle \"Speaking for Progress.\"\n\n#### 2. **The Title Event**\n- The title \"Unit 1 Teenage Life\" is prominently displayed on the screen. The teacher does not physically write this title but points towards it, ensuring students focus on the screen content.\n\n#### 3. **The Objectives**\n- The slide lists learning objectives, though they are not fully legible in the video. The visible structure suggests bullet points, likely outlining the lesson's goals.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as:\n  - Pointing towards the screen to highlight the title and objectives.\n  - Using open hand gestures to engage the class and emphasize the importance of the topic.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands near the green chalkboard, which has some text written in a non-Latin script on the right side.\n- The screen displays \"Unit 1 Teenage Life\" with \"Speaking for Progress\" underneath. The teacher points to the screen, directing attention to the title.\n\n**Middle:**\n- The teacher moves closer to the screen, using hand gestures to emphasize the content displayed. She points to the objectives listed on the slide, likely explaining each one.\n- The teacher occasionally looks at the students, engaging them with eye contact and gestures, reinforcing the lesson's focus.\n\n**End:**\n- The teacher continues to gesture towards the screen, maintaining focus on the lesson's introduction. She uses open hand movements to summarize the key points of the introduction phase.\n\n### Summary\nThe introduction phase of the lesson centers around the slide titled \"Unit 1 Teenage Life.\" The teacher uses deliberate gestures to highlight the title and objectives, ensuring students are attentive to the screen content. The visual elements, such as the slide layout and the teacher's gestures, work together to establish the lesson's focus and objectives.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing near the green chalkboard, which features some text in a non-Latin script. The initial visual stimulus is the slide titled \"Unit 1 Teenage Life,\" prominently displayed on the screen with the subtitle \"Speaking for Progress.\" The teacher points directly to the title, ensuring students' attention is drawn to the screen. As the lesson progresses, the teacher uses deliberate hand gestures, such as pointing to the objectives listed on the slide, to emphasize key points. The transition from the hook to the main topic is seamless, with the teacher maintaining focus on the screen content while engaging the class through eye contact and expressive gestures. Throughout the introduction, the teacher's actions, such as gesturing towards the objectives and occasionally looking at the students, create a connection between the new topic and the students' existing knowledge, setting the stage for further exploration of teenage life themes. This structured approach helps bridge the introduction to the main content, preparing students for active participation and deeper understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Actively Participate",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Classroom Discussions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Questioning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Personal Viewpoints",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Contextual Situations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Confidence in Expressing Ideas",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Smile and Encourage",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 149.72]"
+      },
+      {
+        "id": "c8",
+        "label": "Unit 1 Teenage Life Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Unit 1 Teenage Life' with subtitle 'Speaking for Progress'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Learning Objectives",
+        "type": "Visual",
+        "original_text": "Illegible bullet points likely outlining lesson goals",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses gestures to emphasize slide content",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Attentive to Screen",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Promote active participation in classroom discussions."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Questioning as a method to enhance participation."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Share personal viewpoints through questioning."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Contextual situations stimulate personal viewpoints."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "enables",
+        "intent": "Confidence helps students participate actively."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Encouragement builds students' confidence."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Slide attracts students' attention."
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Objectives engage students with lesson goals."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Gestures highlight key points to keep students focused."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

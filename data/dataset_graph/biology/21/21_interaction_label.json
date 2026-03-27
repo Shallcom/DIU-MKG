@@ -1,0 +1,159 @@
+{
+  "video_name": "21_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Describe the process of preparing monoclonal antibodies; analyze the results of fusing B lymphocytes with myeloma cells; summarize the characteristics of monoclonal antibodies.",
+  "transcript": "[369.34 -> 412.74] 好\n[428.34 -> 518.68] 讨论结束我们来看我们请这位同学来根据流程图我们一起来说一下梳理一下我们单克隆抗体的制备过程首先先给小鼠注定特定的抗原让它产生B零八细胞然后再培育骨髓瘤细胞使量骤融合产生杂交瘤细胞好这里老师就要提问一下那么B零八细胞和骨髓瘤细胞融合之后会有多少种结果呢会有哪些结果分别是有可能是如果失败的两种如果失败的B零八细胞和B零八细胞对吧还有呢还有骨髓瘤和骨髓瘤对还有B零八和B零八最后一种是骨髓瘤和B零八嗯很好那么好接下来我们继续这个过程接下来就是要去筛选出我们所需要的抗痕分泌成了抗体的这种蛋糕杂交瘤细胞也就是B零八细胞和骨髓瘤细胞融合的细胞对吧然后接着呢接着我们就是通过抗体检测技术然后获得这个杂交瘤的细胞以后大规模培养\n[520.34 -> 544.0] 然后最后我们就从细胞培养液中获得大量的抗体嗯很好请坐这就是我们丹克隆抗体制备的过程那么在这里呢我第二个问题丹克隆抗体的产物具有什么样的特点呢也就是丹克隆抗体是具有怎样的特性呢同学们思考一下",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n- **The Invitation Gesture (Elicitation)**: The teacher makes a sweeping gesture towards the class, signaling the start of an interaction. She then points directly to a student, inviting them to participate.\n- **The Visual Focus Point**: The focus is on the blackboard where the teacher has written two key points:\n  1. $1. \\text{F} = \\text{ma}$\n  2. $2. \\text{动能定理}$ (Kinetic Energy Theorem)\n\n**Middle:**\n- **Real-time Scaffolding (Teacher's Action-While-Listening)**: As the student approaches the board, the teacher holds a textbook open, pointing to a diagram related to the kinetic energy theorem. She gestures towards the screen, which displays a flowchart with various stages of energy transformation, indicating where the student's input should align.\n- **Visual Confirmation & Elaboration (Feedback)**: The teacher nods and smiles as the student interacts with the content. She points to the relevant section on the screen, hinting at the connection between the textbook diagram and the flowchart.\n\n**End:**\n- **The Invitation Gesture (Elicitation)**: The teacher gestures towards the entire class, encouraging further participation.\n- **The Visual Focus Point**: The screen remains the central artifact, displaying the energy transformation flowchart with key steps highlighted.\n- **Real-time Scaffolding (Teacher's Action-While-Listening)**: While the student continues to engage, the teacher writes additional notes on the blackboard, linking the student's explanation to the points already listed.\n- **Visual Confirmation & Elaboration (Feedback)**: The teacher circles the student's correct input on the blackboard and draws a small diagram to visually reinforce the concept, ensuring clarity.\n\nThis structured interaction visually ties the teacher's gestures and board content changes, facilitating a dynamic co-construction of knowledge.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed two key points: $1. \\text{F} = \\text{ma}$ and $2. \\text{动能定理}$ (Kinetic Energy Theorem), alongside a flowchart on the screen illustrating energy transformation stages. The teacher began by making a sweeping gesture towards the class, inviting participation, and then pointed directly to a student to engage them in the discussion.\n\nAs the student approached the board, the teacher held an open textbook, pointing to a relevant diagram and gesturing towards the screen's flowchart. While the student explained their reasoning, the teacher walked over to the board, jotting down key terms and linking them to the points already listed. She nodded and smiled, providing encouragement and pointing to the flowchart to hint at connections between the student's explanation and the visual content.\n\nTo validate the student's input, the teacher gave a distinct nod and circled the correct elements on the blackboard. She then drew an arrow connecting the student's response back to the kinetic energy theorem, reinforcing the core lesson content.\n\nThroughout the interaction, the teacher's gestures and visual cues transformed passive reception into active construction, guiding students to connect new insights with established knowledge. This dynamic process helped students move from understanding to applying concepts, fostering deeper engagement and comprehension.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "F = ma",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[369.34 -> 412.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Kinetic Energy Theorem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[369.34 -> 412.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Monoclonal Antibody Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[428.34 -> 518.68]"
+      },
+      {
+        "id": "c4",
+        "label": "B Lymphocytes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[428.34 -> 518.68]"
+      },
+      {
+        "id": "c5",
+        "label": "Myeloma Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[428.34 -> 518.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Hybridoma Creation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[428.34 -> 518.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Antibody Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[428.34 -> 518.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Large-scale Antibody Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[520.34 -> 544.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Characteristics of Monoclonal Antibodies",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[520.34 -> 544.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Energy Transformation Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart illustrating various stages of energy transformation",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard with Key Principles",
+        "type": "Visual",
+        "original_text": "Board showing F = ma and Kinetic Energy Theorem",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Monoclonal antibody preparation involves B lymphocytes."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Monoclonal antibody preparation involves myeloma cells."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Hybridoma creation is a step in monoclonal antibody preparation."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Antibody detection follows hybridoma creation."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Large-scale production follows detection in monoclonal antibody preparation."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Characteristics derive from the monoclonal antibody preparation process."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "F = ma is visualized on the blackboard as a key principle."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The kinetic energy theorem is visualized on the blackboard."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Flowchart on screen emphasizes kinetic energy transformations."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Student answers encouraged a deeper understanding of the procedure."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

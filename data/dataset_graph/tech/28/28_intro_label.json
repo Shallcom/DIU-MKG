@@ -1,0 +1,107 @@
+{
+  "video_name": "28_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the basic principles of data processing and information acquisition; master the methods for applying information technology to practical problems.",
+  "transcript": "[0.0 -> 90.0] 我抽到的题目是请你堂堂对郝老师要用爱培育爱的理解我认为一个郝老师他不仅需要具备较专业的知识数字能力同时他也需要具备关爱学生的能力试问一个老师如果他课能教好但是他却不关爱学生学生课后却不敢去找他问问题那学生在这个学科的知识要怎么提升呢第二个点是因为学生具有相似性学高为师身正为棒作为老师关爱学生的同时同时也向学生传递了要在同学中相互关爱提高班级的凝聚力同时我觉得可以从以下方面展开就是通过关爱学生的过程就是进行班级的感恩教育通过就是你在平时的因为学生是一个独立的个体同时他们也是一个发展的人然后你在关爱他们的同时然后创设出一些情境比如说在一些特定的节日表达你对他们的一些感恩然后他们也可以在教室结过提他节日给你一些回馈这些都是学生能够从我们身上学习到的以上是我的是我的即兴讲演的内容下面是我的模拟授课环节同学们好上课在上课之前呢我想起昨天小梅同学问了我一句这样一个问题他说他在今年暑假的时候去游泳在中午的时候他发现沙滩是比较滚烫的但是当他进入到海水里面的时候却发现海水是凉的时间过得非常快一下子知道了太阳落山的时候小明同学从海水里走到沙滩上此时他却惊奇地发现此时沙滩的温度却比海水里的温度还要凉这到底是为什么呢那么就让我们进入今天这节课的学习学习与热融为小明同学解决这道题。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. The slide contains Japanese text: \"第1節 比較\" (Section 1: Comparison).\n\n#### 2. **The Title Event**\n- The title on the screen is \"第1節 比較\" (Section 1: Comparison). The teacher is standing beside the screen, holding papers, and appears to be presenting the content. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or blackboard in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and appears to be reading or presenting from them. There are no specific gestures like pointing or circling visible in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium, holding papers.\n- The screen displays the slide with the title \"第1節 比較\" (Section 1: Comparison).\n- The blackboard is mostly blank, with some writing on the left side, but it is not the focus.\n\n**Middle:**\n- The teacher continues to present, likely reading from the papers.\n- The screen remains unchanged, showing the same title slide.\n- The camera angle and classroom setup remain consistent, with students facing the teacher and screen.\n\n**End:**\n- The teacher maintains a similar position, still holding the papers.\n- No changes occur on the screen or blackboard.\n- The focus remains on the teacher and the displayed slide.\n\n### Summary\nThe introduction phase centers on the slide titled \"第1節 比較\" (Section 1: Comparison). The teacher presents from papers, with no additional gestures or changes to the visual content. The classroom setup and focus remain steady throughout the segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, holding papers, and presenting to the class. The initial visual stimulus is the digital slide on the screen, prominently displaying the title \"第1節 比較\" (Section 1: Comparison). This slide serves as the hook, setting the stage for the lesson. Throughout the introduction, the teacher remains focused on presenting from the papers, with no additional gestures or interactions with the blackboard. The visual aid remains consistent, with the title slide providing a clear focal point. The scene transitions smoothly from the hook to the main topic without additional visual shifts, maintaining a steady emphasis on the theme of comparison. This approach likely aims to establish a foundational understanding of the concept, preparing students to connect it with their existing knowledge and future learning. The consistent visual presentation helps anchor the introduction, ensuring students are oriented towards the key theme of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Data Processing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Information Acquisition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Information Technology Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Comparison",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Beach Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Seawater Temperature",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Section 1: Comparison Slide",
+        "type": "Visual",
+        "original_text": "Section 1: Comparison",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the concept of comparison."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Information technology applications depend on data processing techniques."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Successful information technology applications require understanding information acquisition."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Temperature differences demonstrate principles of comparison."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Seawater's different cooling rates compared to sand support the comparison concept."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The slide helps keep students engaged with the lecture's key theme."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

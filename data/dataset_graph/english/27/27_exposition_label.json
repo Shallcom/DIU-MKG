@@ -1,0 +1,113 @@
+{
+  "video_name": "27_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Identify common occupational types and describe their characteristics; understand how gender expression influences occupational choices.",
+  "transcript": "[144.0 -> 234.0] 是的很好你猜猜这个人的职业是什么职我听你我听你听你听你听好。\n[254.0 -> 328.74] 结束了吗好时间到了两个问题首先你可以猜猜什么是试试的类型吗从详细的资料在开始的课程中可以找到的好吗可以猜猜吗你知道那里有一个人叫约翰瑞他看起来很丑他想要买一件裙子在一家衣服店他去了那里那他怎么回事呢。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes \"Unit 3: The Million Pound Bank Note\" on the green chalkboard.\n- The screen displays a slide titled \"Pre-writing\" with an image of people interacting.\n- The teacher gestures towards the screen, likely introducing the topic related to the image.\n\n**Middle:**\n- The teacher continues to gesture towards the screen, emphasizing the image and possibly discussing its context.\n- The screen transitions to show instructions: \"1. Read and answer the questions. 2. Write a summary of the story. (1) What is the year of the note? (2) How much is the note worth?\"\n- The teacher points to the questions on the screen, likely explaining the task to the students.\n\n**End:**\n- The teacher continues to gesture towards the screen, emphasizing the instructions and questions.\n- The teacher holds papers, possibly distributing or collecting them, while continuing to explain the task.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the screen displaying the \"Pre-writing\" slide with an image and instructions.\n- The initial state includes the image of people and the text instructions for the task.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"Unit 3: The Million Pound Bank Note\" on the chalkboard.\n- **Modifications**: None observed; the teacher focuses on the screen content.\n- **Deictic Gestures**: The teacher points to the image and questions on the screen, emphasizing key elements like the year and value of the note.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight the image and questions on the screen.\n- The text on the screen is clear and legible, with bullet points for easy reading.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "Initially, the bulletin board displayed a \"Pre-writing\" slide featuring an image of people interacting, setting the stage for the lesson on \"The Million Pound Bank Note.\" The teacher began by writing \"Unit 3: The Million Pound Bank Note\" on the chalkboard, establishing the topic. She then gestured towards the screen, emphasizing the image to introduce the story's context. As the slide transitioned to show instructions, the teacher pointed to the questions, specifically highlighting \"What is the year of the note?\" and \"How much is the note worth?\" to guide the students' focus. She constructed a clear task outline by explaining the steps to read, answer, and summarize the story. Throughout, her gestures directed attention to key elements on the screen, reducing cognitive load by visually anchoring the discussion. Finally, she distributed papers, ensuring students were prepared to engage with the material, while continuing to emphasize the instructions displayed, reinforcing the lesson's objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Occupational Types",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[144.0 -> 234.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Gender Expression",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[144.0 -> 234.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Million Pound Bank Note",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "c4",
+        "label": "Year of Note",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "c5",
+        "label": "Value of Note",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "c6",
+        "label": "Pre-writing Slide",
+        "type": "Visual",
+        "original_text": "Slide with an image of people interacting and pre-writing instructions",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Instructions Slide",
+        "type": "Visual",
+        "original_text": "Slide with instructions to read, answer questions, and summarize",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Student Reading",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The screen displays a slide that introduces the story with an image."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The teacher points to the year of the note on the instructions slide."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The teacher points to the value of the note on the instructions slide."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Occupational types are influenced by gender expression."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Students transition from reading to actively answering questions."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Gender expression influences occupational choices."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,140 @@
+{
+  "video_name": "26_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Examine the impact of laboratory operations on students’ learning motivation.",
+  "transcript": "[0.0 -> 78.92] 好亲爱的各位同学尊敬的各位老师大家好我是今天的第二十六号选手本次我已抽到的演讲题目是关于网络微视频操作展开实验形式对此呢我认为可以采用网络为视频形式开展实验但是呢我觉得应该与实际的实际动手操作相结合因为化学是一门基于实验的一门自然科学所以动手实验肯定是能更充分地调动学生的积极性的网络视频的形式固然好但是学生能在实际动手的时候体验到更多的关于化学的知识都能培养其动手操作的能力但是网络实验也有它的优势因为我们在进行许多实验的时候包括像氯气的相关操作二氧化硫的相关实验它们都是对环境有污染的对学生们的身体是有危害的所以说运用网络的微视频的形式也是有一定的优势的。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is an image of a skier on a snowy slope, displayed on the screen. The text accompanying the image is in Chinese, which translates to \"Molecular Structure and Properties of Matter.\"\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"分子的结构与物质的性质\" (Molecular Structure and Properties of Matter). The teacher does not physically write this; it is part of the presentation slide.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the screen.\n- The teacher uses hand movements to engage with the audience, likely pointing or indicating towards the screen content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title slide in Chinese, indicating the 10th National Contest of Teaching Skills for Teacher-College Students, with a focus on Chemistry (26).\n- Transition to the classroom setting where the teacher stands at the podium.\n\n**Middle:**\n- The teacher presents with a slide showing an image of a skier and the title \"分子的结构与物质的性质.\"\n- The teacher holds papers and gestures, likely explaining concepts related to molecular structure and properties.\n- The teacher occasionally looks at the screen, possibly to reference or emphasize points on the slide.\n\n**End:**\n- The teacher continues to engage with the audience, maintaining focus on the content displayed.\n- No additional visual elements or changes to the slide are observed.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the podium, presenting a slide featuring an image of a skier on a snowy slope, serving as the hook to capture attention. This visual is accompanied by the title \"分子的结构与物质的性质\" (Molecular Structure and Properties of Matter), setting the stage for the lesson. The teacher holds papers and uses hand gestures to engage the audience, likely drawing connections between the skier's motion and molecular concepts. The slide remains static, focusing on the hook image and title, which smoothly transitions into the main topic without additional visual changes. The teacher's gestures and references to the screen help bridge the skier's dynamic movement to the molecular properties being introduced, linking new knowledge to familiar experiences of motion and structure. This approach primes students to connect abstract molecular concepts with real-world phenomena, facilitating a smoother transition into the detailed exploration of molecular structures and their properties.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Molecular Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Properties of Matter",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "v1",
+        "label": "Skier Image",
+        "type": "Visual",
+        "original_text": "Image of a skier on a snowy slope used to introduce molecular concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Title",
+        "type": "Visual",
+        "original_text": "Molecular Structure and Properties of Matter.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c3",
+        "label": "Network Video Experiments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "c4",
+        "label": "Hands-on Experiments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "c5",
+        "label": "Learning Motivation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "c6",
+        "label": "Chemical Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "c7",
+        "label": "Environmental Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "c8",
+        "label": "Health Hazards",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 78.92]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The skier image is used to introduce the concept of molecular structure through relatable phenomena."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The presentation title emphasizes the focus on molecular structure and its relevance to the lesson."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Exploring network video experiments as a method to enhance learning motivation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Hands-on experiments are advocated to boost learning motivation alongside theoretical knowledge."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Network video experiments are highlighted as environmentally safer alternatives to hands-on experiments."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Hands-on experiments can pose health hazards, demonstrating a need for safer practices."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Student engagement is visualized through relatable imagery that connects to molecular concepts."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Student engagement as a means to deepen understanding of chemical knowledge."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

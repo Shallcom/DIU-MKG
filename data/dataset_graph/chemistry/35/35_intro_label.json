@@ -1,0 +1,127 @@
+{
+  "video_name": "35_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the basic procedures and methods of chemical experiment design; master the fundamental steps and precautions of experimental operations; enhance students' abilities to observe and analyze experimental phenomena.",
+  "transcript": "[0.0 -> 141.36] 以及一种是比较具有危险性探究的时候学生不可以进行实验操作的那么在学生不可以进行实验操作的话我们进行一个化学探究教学就进行一个逻辑梳理给同学进行一个小组合作式的方便学生去进行一个逻辑的梳理以及了解实验设计的一些流程与方法但是我们同时也有一些相对于学生来说比较简单操作性可强的学生可以进行线下动手实验的那么这类实验老师可以先进行课上的进行讲解与提示方便学生进行课进行课呃另外的进行实验的时候可以比较迅速的进入状态以及了解了相应的一些实验注意事项也方便老师去进行一一个学生的一个管理那么在学生动手实验我认为它是非常重要的因为我们在进行实验探究只是如果只是理论地进行一个学习的话那么学生可能对于一些实验现象我们只是播放视频等那学生可能对实验掌握的不是很清楚很了解那么当通过一个学生自己亲自动手实验就可以去发现自己存在的不足以及了解到自己实际操作过程中不掌握的点从而提高学生的一个动手实验能力以及去完善他们一个设计实验去设计实验的能力从而保证学生在进行中高考那些实验操作流程其实更有心中有数好我的集席讲演结束谢谢。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen. It features the text \"原电池\" (Primary Cell) and \"人教版高中化学选修四化学反应原理第一章第一节\" (People's Education Press High School Chemistry Elective 4 Chemical Reaction Principles Chapter 1 Section 1).\n\n#### 2. **The Title Event**\n- The title \"原电池\" is prominently displayed on the screen. The teacher does not physically write it but presents it as part of the slide. No specific action like underlining is observed.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with her hands, possibly emphasizing points related to the content on the screen. No specific gestures like pointing or circling are observed in this segment.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the class, with the title slide \"原电池\" displayed on the screen.\n- The blackboard is mostly empty except for some text on the left side, which is not clearly legible.\n\n**Middle:**\n- The teacher continues to stand in front of the class, occasionally looking at the papers in her hand.\n- No changes occur on the screen or blackboard during this phase.\n\n**End:**\n- The teacher maintains her position, with no additional visual content changes on the screen or blackboard.\n- The focus remains on the initial title slide throughout the segment.\n\n### Summary\nThe introduction phase centers around the title slide \"原电池\" displayed on the screen. The teacher uses hand gestures to engage with the content, though no specific interactions with the board or detailed gestures are noted. The visual focus remains consistent, emphasizing the lesson's title and introductory context.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, presenting the hook object: the title slide \"原电池\" prominently displayed on the screen. This slide also includes the subtitle \"人教版高中化学选修四化学反应原理第一章第一节,\" setting the context for the lesson. The teacher holds papers, suggesting she is prepared to guide the class through the content. The blackboard remains mostly empty, with some indistinct text on the left side, keeping the focus on the screen. Throughout this phase, the teacher engages with the class, using hand gestures to emphasize points related to the slide content. There are no transitions or changes in visual aids, maintaining a consistent focus on the introductory title. This approach likely serves to anchor the students' attention on the primary topic, preparing them for a deeper exploration of primary cells. By presenting the title clearly and maintaining a steady visual focus, the teacher establishes a foundation that connects to students' existing knowledge of chemical principles, paving the way for a structured exploration of the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chemical Experiment Design",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 141.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Primary Cell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c3",
+        "label": "Experiment Procedures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 141.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Precautions in Experiments",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 141.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Observation and Analysis Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 141.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "The slide features 'Primary Cell' and 'Chemical Reaction Principles' text.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students' Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "v2",
+        "label": "Teacher's Hand Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to emphasize content.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "Hands-On Experiment Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[130.0 -> 141.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Logical Arrangement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 141.36]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The title 'Primary Cell' is shown on the slide to introduce the core topic of the lesson."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Observation and Analysis Skills build upon the foundational knowledge of Chemical Experiment Design."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Experiment Procedures include a Logical Arrangement for clarity in experimental steps."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Teacher's hand gestures emphasize content to engage students cognitively."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Understanding Precautions in Experiments builds upon appreciating the importance of Hands-On Experimentation."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Principles of Primary Cell are explored as part of learning Chemical Experiment Design."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Logical Arrangement guides the discussion towards understanding necessary Precautions in Experiments."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

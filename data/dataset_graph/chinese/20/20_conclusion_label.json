@@ -1,0 +1,152 @@
+{
+  "video_name": "20_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "- Understand the use of the break‑and‑establish technique in argumentative essays.  \n- Analyze Wang Anshi’s argumentative method in “Reply to Sima’s Remonstrance.”  \n- Explore the value orientations of historical figures under different backgrounds and their significance for the present.",
+  "transcript": "[607.06 -> 727.16] 先往的政策然后来镇静于国家处置一些异处非常好谢谢你的翻译那看来大家结合书下的注释自己已经梳理出来了王安石是怎么反驳清官绅士争利拒见的那我们来看到第一部他先是谦卑温和地说以退为进那我们来继续来看学习破例艺术这里王安石运用他的武功方法边破边立运用事实来说其实破例艺术我们在拿来主题当中也有学到鲁迅先生先破后立为了提出拿来主义他先批驳了闭关主义宋式主义和宋来主义对不对然后再提出自己的拿来主义那我们王安石先生他要提出自己的观点就先说了反驳了自己反驳了五个势力本章的学习当中我们学习了不同时代的定律历史呼喊他们以论言至天下为体认那我们要思考一下如果你在宋代你会是支持守旧派呢还是革新派那如果我们在当今呢我们又有怎样的使命相信大家已经有了自己的思考与感悟那本节课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen.\n   - The slide contains a list of key points in bullet format, with a heading in Chinese.\n   - The blackboard also has the phrase \"以退为进\" written in white chalk.\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Heading: \"学习方法，把握重难点\"\n   - Bullet Points:\n     - \"温故知新\"\n     - \"《论语述而》提出的学习方法\"\n     - \"《荀子劝学篇》提出的学习方法\"\n   - Blackboard: \"以退为进\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely pointing to each bullet point as she reviews them.\n   - She occasionally looks at the blackboard, possibly emphasizing the phrase \"以退为进.\"\n\n4. **Transition to Next Step**:\n   - The slide changes to include a concluding statement about the historical context of learning methods.\n   - No explicit homework or assignment slide is visible, but the final slide suggests a reflection on historical learning strategies.\n\nThis structured visual summary helps consolidate the key learning points discussed in the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing three bullet points summarizing key learning methods, under the heading \"学习方法，把握重难点.\" The teacher points to each bullet in sequence, emphasizing the historical references to learning strategies from \"《论语述而》\" and \"《荀子劝学篇》.\" The blackboard prominently displays the phrase \"以退为进,\" which the teacher occasionally references, reinforcing its importance. The final slide transitions to a concluding statement about the historical context of these methods, visually marking the core takeaway. No explicit homework instructions are visible, but the focus on historical learning strategies suggests a reflective end to the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Break-and-Establish Technique",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Wang Anshi Argumentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Sima's Remonstrance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c5",
+        "label": "Value Orientations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c6",
+        "label": "Learning from Confucius",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c7",
+        "label": "Learning from Xunzi",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "c8",
+        "label": "Reflection on Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[607.06 -> 727.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Learning Methods: Grasping Key Points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Phrase",
+        "type": "Visual",
+        "original_text": "'Use Retreat to Advance'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Describes how Wang Anshi uses this method in his argument."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Wang Anshi's argument method involves Sima's work."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Wang Anshi’s argumentative strategy is summarized in the slide."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Reflects on how different eras shape value orientations."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The historical context inspires the conclusion slide."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Confucian learning methods are outlined on the slide."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Xunzi’s learning methods are highlighted on the summary slide."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students are guided to reflect on historical learning."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The blackboard phrase highlights the break-and-establish technique."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes Wang Anshi’s strategy using the blackboard phrase."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

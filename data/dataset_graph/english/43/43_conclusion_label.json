@@ -1,0 +1,139 @@
+{
+  "video_name": "43_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to describe one's favorite thing.",
+  "transcript": "[528.0 -> 727.88] 是的你可以选择其中的四个字体好时间到了所以我们想分享一下你们两个请说吧我记得在大学的时候是因为这个机会让我能够学习的机会吗是的那是对的好最后一个机会你们两个请说吧IadmiremyEnglishteacherinmyhighschool.ThatIsTheReasonWhyIAlwaysGoBackToMyHighSchoolToVisit好的好的现在我们已经分析了矛盾的关系了所以这里是另一个任务给你做的你可以完成这个任务与正确的相关的词句或词句是的这里给你做了一个简单的任务你只需要完成这个任务明白吗好的我们来看好的很简单对吧所以我觉得你们都能够完成这个课程对吧所以想要分享你的答案与我们说说吧你怎么知道的那是哪个国家哪个地方那是哪个国家在我记得那天我突然觉得像是在说德语的那一天是因为有一个地方在那里我终于来到了一个我读的英语语言的地方我达到了我的目的I have been fighting yes orwe can sayI reachedgoalwhichIhavebeenfightingforrightokstoppleaseokhowboutnextonethelastoneiswhybecauseitgivesusexplanationyesthanksa lotstopplease好的现在很简单对吧你还记得这个项目吗描述你最喜欢的东西吧所以我需要你写一个短短的文章用短短的相关语言来描述你最喜欢的东西你可以描述宝贝乳食物之类的是否清楚了不要忘记了测试会帮助你获得更多的成绩你可以学习课程制作相关的文章或词安迪英文这就是今天的课程下见了。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard and the interactive whiteboard.\n   - The chalkboard displays the heading \"Describe your favourite things\" with a structured list:\n     - the day\n     - the place\n     - the weather\n     - the reason\n   - The interactive whiteboard shows a slide titled \"Project: Describe your favourite things\" with instructions and assessment criteria.\n\n2. **Key Knowledge Items (Content View)**:\n   - Chalkboard:\n     - \"Describe your favourite things\"\n     - \"the day\"\n     - \"the place\"\n     - \"the weather\"\n     - \"the reason\"\n     - \"motivational positive Chinese characters\"\n   - Interactive Whiteboard:\n     - \"Project: Describe your favourite things\"\n     - \"Write a short passage (100 words) to describe your favourite thing.\"\n     - \"Assessment\"\n     - \"Completion\"\n     - \"Oral presentation\"\n     - \"Correct use of the restrictive clauses to introduce the Chinese writing system\"\n     - \"Content\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each item on the chalkboard list, emphasizing \"the day,\" \"the place,\" \"the weather,\" and \"the reason.\"\n   - The teacher gestures towards the interactive whiteboard, highlighting the project title and assessment criteria.\n   - The teacher uses hand movements to underline the importance of the restrictive clauses in the project.\n\n4. **Transition to Next Step**:\n   - The interactive whiteboard transitions to a slide titled \"Comprehend your passage,\" indicating the next steps:\n     - \"Optional: Let the students read the passage to introduce the Chinese writing system.\"\n   - This suggests a focus on comprehension and potential reading practice for the next session.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide on the interactive whiteboard titled \"Project: Describe your favourite things,\" alongside a chalkboard list detailing key elements: \"the day,\" \"the place,\" \"the weather,\" and \"the reason.\" The teacher visually reviews the knowledge points by pointing to each item on the chalkboard list, ensuring students focus on these components. He then gestures towards the interactive whiteboard, emphasizing the project's requirements and assessment criteria. A strong emphasis is placed on the use of restrictive clauses, with the teacher highlighting this aspect on the board. The lesson transitions smoothly to the next steps, as the final slide introduces \"Comprehend your passage,\" suggesting a focus on reading practice for the following session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Favorite Thing Description",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[528.0 -> 727.88]"
+      },
+      {
+        "id": "c2",
+        "label": "The Day",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[528.0 -> 727.88]"
+      },
+      {
+        "id": "c3",
+        "label": "The Place",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[528.0 -> 727.88]"
+      },
+      {
+        "id": "c4",
+        "label": "The Weather",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[528.0 -> 727.88]"
+      },
+      {
+        "id": "c5",
+        "label": "The Reason",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[528.0 -> 727.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Restrictive Clauses",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[528.0 -> 727.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard List",
+        "type": "Visual",
+        "original_text": "List of elements to describe favorite things: day, place, weather, reason",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Project Slide",
+        "type": "Visual",
+        "original_text": "Instructions for project: Describe your favorite things",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Assessment Criteria",
+        "type": "Visual",
+        "original_text": "Criteria for project completion, oral presentation, use of restrictive clauses",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Summarizes key elements for describing favorite things on the chalkboard."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the need to correctly use restrictive clauses for the project's presentation."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Visualizes project instructions to keep students engaged."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Description includes information about the day."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Description includes information about the place."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Description includes information about the weather."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Description includes information about the reason."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Description builds upon the use of restrictive clauses."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Chalkboard elements scaffold the instructions on the project slide."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

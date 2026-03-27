@@ -1,0 +1,140 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to summarize the main points of an article; learn to discard unimportant details; write a summary using concise language.",
+  "transcript": "[566.11554975 -> 688.94] 你可以找到一篇五十五篇文章的短说明请你站起来读这些提示给我们吧一篇总结是一篇短说明的主题一篇总结描述主要的想法和最重要的信息的长远的途径你的语言很好谢谢所以总结是一个短短的定义主要的点子什么是主要的点子和最重要的信息这意味着我们应该拒绝不重要的东西对吗所以怎么写写总结怎么写是在五十五页底下的五十五页底下好吧第二个他支持细节所以请你拿点点子点子和第三个你不认识的细节对象对象对象不包括不重要的细节。\n[701.82 -> 710.92] 我们已经清楚了总结的规则了我们现在开始仔细地读解这段课程的总结吧。\n[712.0 -> 718.82] 我们需要一分钟去计算第一项目的关键点和不重要的关键点。\n[742.0 -> 749.48] 所以今天就这么多了我们下课再继续课程。",
+  "visual_facts": "### Phase 4: Conclusion - Visual Knowledge Consolidation\n\n#### 1. Summary Artifact (Static View)\n- **Main Visual Carrier**: The blackboard serves as the primary visual carrier for the summary. It contains a list of key points written in chalk.\n- **Overall Layout**: The blackboard is divided into two sections. The left side has the title \"Use & Natural Disasters\" and the topic \"Tsunami Hits Asia: Over 85m Dead Summary.\" The right side lists key points in a vertical format.\n\n#### 2. Key Knowledge Items (Content View)\n- **Main Keywords/Headings**:\n  - \"Use & Natural Disasters\"\n  - \"Tsunami Hits Asia: Over 85m Dead Summary\"\n  - \"1/3 of the length\"\n  - \"Key supporting points\"\n  - \"Do not include minor details\"\n\n#### 3. Review Gestures (Dynamic View)\n- **Teacher's Gestures**:\n  - **Pointing to Key Points**: The teacher points to each key point on the blackboard as she reviews them, ensuring students focus on the main ideas.\n  - **Reading from Paper**: The teacher holds and refers to a sheet of paper, likely containing notes or a summary script, while explaining the points on the board.\n  - **Writing Additional Notes**: The teacher writes \"minor details\" on the blackboard, emphasizing what should be excluded from a summary.\n\n#### 4. Transition to Next Step\n- **Visual Element for Next Steps**: No explicit visual element indicating homework or further reading is shown in the frames provided. The focus remains on summarizing the lesson content.\n\n### Structured List of Visual Facts\n\n- **Blackboard Content**:\n  - Title: \"Use & Natural Disasters\"\n  - Topic: \"Tsunami Hits Asia: Over 85m Dead Summary\"\n  - Key Points:\n    - \"1/3 of the length\"\n    - \"Key supporting points\"\n    - \"Do not include minor details\"\n\n- **Teacher Actions**:\n  - Points to \"1/3 of the length\" to emphasize brevity in summaries.\n  - Highlights \"Key supporting points\" by pointing and elaborating.\n  - Writes \"minor details\" to clarify what to exclude.\n  - Refers to notes on paper while explaining each point.\n\nThis structured visual summary consolidates the lesson's key takeaways, focusing on effective summary writing techniques.",
+  "visual_narrative": "The class ends with the blackboard displaying key points summarizing effective summary writing techniques. The teacher visually reviews these points by pointing to each one in sequence, starting with \"1/3 of the length\" and moving through \"Key supporting points,\" emphasizing the importance of conciseness and relevance. She writes \"minor details\" on the board, highlighting what should be excluded. The teacher's gestures focus on each point, ensuring students visually grasp the core concepts. No explicit homework or next-step instructions are visible, keeping the conclusion centered on the summary techniques discussed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Summary Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c2",
+        "label": "Main Ideas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c3",
+        "label": "Important Information",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Unimportant Details",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Tsunami Event",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Brevity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Concise Language",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[566.11554975 -> 688.94]"
+      },
+      {
+        "id": "c8",
+        "label": "Use & Natural Disasters",
+        "type": "Visual",
+        "original_text": "Content on the blackboard includes 'Use & Natural Disasters'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Key Supporting Points",
+        "type": "Visual",
+        "original_text": "The blackboard lists 'Key Supporting Points'.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Minor Details Exclusion",
+        "type": "Visual",
+        "original_text": "The teacher writes 'Minor Details' on the blackboard to indicate exclusion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "A summary includes the main ideas."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Summaries encompass the most important information."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "excludes",
+        "intent": "Summaries exclude unimportant details."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes key supporting points of the Tsunami event."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Brevity is achieved through the use of concise language."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "The board summarizes the 'Use & Natural Disasters' event."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "prompts_thinking",
+        "intent": "Key supporting points prompt student engagement."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the exclusion of minor details."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

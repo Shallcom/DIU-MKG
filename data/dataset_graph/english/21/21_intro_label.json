@@ -1,0 +1,133 @@
+{
+  "video_name": "21_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the role of cultural confidence in English education; master methods for integrating traditional Chinese culture with English teaching.",
+  "transcript": "[0.0 -> 66.2] 因为他们的自信在我们自己的文化中可以带来他们的深深的爱惜国家的感受而以这种意识他们可以将中国文化带进世界中那么如何把他们的文化自信在英语教育中提升呢我认为我们必须把传统的中国文化与我们的教育混合在一起。\n[67.4 -> 90.0] 并且为他们建立基础来改善我们的国家和文化的信心第二我们必须进行与文化交流的教育比如说中国语言如何利用世界利益呢这包括很多方面因此我们必须使用英语课中的全文化教育方法。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen: \"Unit 3 Sports and Fitness.\" This initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"Unit 3 Sports and Fitness\" is displayed on the screen. The teacher stands in front of the screen, holding papers, and appears to be presenting the title without additional writing or underlining.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the title.\n- The teacher uses hand movements to engage with the audience, such as gesturing outward, likely to emphasize the topic introduction.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays the title \"Unit 3 Sports and Fitness\" on a green background.\n- The teacher stands to the right of the screen, holding papers, and begins speaking.\n\n**Middle:**\n- The teacher gestures with the papers, possibly emphasizing the introduction of the unit.\n- The teacher occasionally looks at the screen and then back at the students, maintaining engagement.\n\n**End:**\n- The teacher continues to stand in front of the screen, using hand gestures to reinforce the introduction of the topic.\n- No changes occur on the screen or board throughout this segment.\n\n### Summary\nThe introduction phase focuses on the title \"Unit 3 Sports and Fitness\" displayed on the screen. The teacher uses hand gestures and engagement with the students to emphasize the start of the lesson, without additional visual content or objectives displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"Unit 3 Sports and Fitness\" on a green background, serving as the initial visual hook. The teacher holds papers and uses them to gesture, emphasizing the start of the unit. Throughout the introduction, the teacher engages with the students, occasionally looking at the screen and then back at the audience, reinforcing the topic's importance. The visual aid remains static, focusing solely on the title, which acts as a bridge to transition into the main topic. The teacher's gestures and positioning in front of the screen help establish a connection to the students' existing knowledge, setting the stage for further exploration of sports and fitness concepts. This structured introduction effectively links the new unit to the students' prior experiences, preparing them for the upcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultural Confidence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c2",
+        "label": "English Education Role",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 90.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Traditional Chinese Culture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Integrating Culture",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 66.2]"
+      },
+      {
+        "id": "c5",
+        "label": "Global Cultural Exchange",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[67.4 -> 90.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Cultural Foundations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[67.4 -> 90.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Whole Cultural Education Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[67.4 -> 90.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Unit 3 Sports and Fitness Hook",
+        "type": "Visual",
+        "original_text": "Screen displays 'Unit 3 Sports and Fitness'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures with papers to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Cultural confidence enhances the role of English education."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Cultural confidence incorporates elements of traditional Chinese culture."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Integration process builds upon traditional Chinese culture."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Cultural exchange involves methods for integrating culture."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Global exchange develops from cultural foundations."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Educational method enhances cultural foundations."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visual aid supports teacher's gestures emphasizing the unit."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "Screen title emphasizes student engagement with the new topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,134 @@
+{
+  "video_name": "39_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of English as an international communication tool and the motivation for learning it; cultivate interest and participation in English learning; acquire basic techniques for making simple English expressions clear.",
+  "transcript": "[0.0 -> 240.0] 但是英语是最好的教授如果你想学英语的话我认为你应该向英语学习有兴趣的有一个说法就是尝试学习英语第二学习英语是一种模式你可以参与一些情况需要英语来沟通学生们可以创造一个主题的课程来帮助学生们使用英语在现实生活中的课程中用英语第二我们可以进行这些英语课程通过互联的活动学习和理解复习和练习转移和创造那是我的语言今天那所以你们可以读给我们听首先让我给你们介绍一个英语技术它可以让你的表达更加明确和简单让别人更容易理解比如说你有什么想法吗它可以变成其他语言比如说我们可以删除了你因为你有什么想法吗然后我们可以删除了所以意义是否改变了呢不吧那就是粒子我明白吗是的看来你已经知道了什么是粒子让我们做一个练习来帮你更加理解所以请你请你读这个练习尝试看看哪个部分被删除了请问您想要与我们分享一下吗。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a digital slide titled \"Unit 3: Diverse cultures.\" The slide is displayed on a large screen at the front of the classroom. The teacher holds a piece of paper, likely a lesson plan or notes, and begins speaking to the class.\n\n#### 2. **The Title Event**\n- The title \"Unit 3: Diverse cultures\" is prominently displayed on the screen. The teacher does not physically write this title but points to it on the screen, ensuring students focus on the topic.\n\n#### 3. **The Objectives**\n- The slide includes a list of learning objectives on the left side, though they are not fully legible in the video. The teacher gestures towards these objectives, indicating their importance.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing to the screen and moving towards the objectives.\n- The teacher occasionally looks at the students, engaging them while referring back to the screen content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding a piece of paper. The screen displays \"Unit 3: Diverse cultures.\"\n- The teacher points to the title on the screen, ensuring students' attention is directed there.\n\n**Middle:**\n- The teacher moves slightly to the left, gesturing towards the learning objectives on the slide.\n- A student in a gray hoodie stands up, possibly to answer a question or participate in the lesson.\n- The teacher continues to engage with the class, pointing to different parts of the slide as the content changes to a \"WeChat\" interface example.\n\n**End:**\n- The screen transitions to a slide with a \"WeChat\" interface, showing a conversation example.\n- The teacher points to specific parts of the conversation, likely explaining the content or structure.\n- The teacher uses hand gestures to emphasize the flow of the conversation, pointing to text and responses.\n\n### Summary\nThe lesson introduction phase is visually anchored by the digital slide titled \"Unit 3: Diverse cultures.\" The teacher uses deliberate gestures to guide students' attention to the title and learning objectives. As the lesson progresses, the teacher engages with the content on the screen, particularly focusing on a \"WeChat\" conversation example, using hand movements to highlight key elements of the dialogue. This structured approach ensures students are visually and cognitively engaged with the lesson's objectives.",
+  "visual_narrative": "The introduction phase begins with the teacher standing at the front of the classroom, holding a piece of paper, and facing a screen displaying the title \"Unit 3: Diverse cultures.\" This digital slide serves as the initial visual hook, immediately drawing students' attention to the lesson's theme. The teacher points to the title, ensuring clarity and focus. As the lesson progresses, the teacher gestures towards the learning objectives listed on the left side of the slide, bridging the hook to the main topic by highlighting key goals. A student in a gray hoodie stands, indicating active participation. The visual aid then transitions to a \"WeChat\" conversation example, shifting the focus to practical applications of the lesson. The teacher points to specific elements of the conversation, using hand movements to emphasize the flow and structure. This transition from the title slide to the conversation example effectively links the broad theme of diverse cultures to real-world communication, grounding the new knowledge in familiar contexts. The teacher's deliberate gestures and the evolving visual content create a cohesive narrative, preparing students to connect the lesson's objectives with their existing experiences and future learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "English as International Tool",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Motivation for English Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Interest in English Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Basic English Techniques",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Particle Usage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 240.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Unit 3: Diverse Cultures",
+        "type": "Visual",
+        "original_text": "Digital slide with 'Unit 3: Diverse Cultures' title.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Learning Objectives Slide",
+        "type": "Visual",
+        "original_text": "Slide with learning objectives on left side.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "WeChat Interface Example",
+        "type": "Visual",
+        "original_text": "Slide showing WeChat conversation example.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[100.0 -> 200.0]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Asking Question",
+        "type": "Student_State",
+        "cognitive_state": "Questioning",
+        "timestamp": "[100.0 -> 220.0]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Understanding the global role of English drives motivation for learning."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "English's role as a communication tool cultivates interest in learning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Learning basic techniques involves understanding particle usage."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The title slide focuses students' attention on lesson theme."
+      },
+      {
+        "source": "c7",
+        "target": "s2",
+        "relation": "emphasizes",
+        "intent": "Objectives slide emphasized by teacher prompts student questioning."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "WeChat example visualizes real-life application of English communication."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Cultivating interest in English prompts student engagement."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Motivation for learning English builds upon acquiring basic techniques."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

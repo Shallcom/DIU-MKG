@@ -1,0 +1,127 @@
+{
+  "video_name": "33_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Describe the molecular structural features and stability of **Wanti**; analyze the intrinsic reasons for Wanti’s chemical stability; apply the relationship between structure and properties to explain practical problems.",
+  "transcript": "[119.44 -> 161.12] 蜂蜜蜂蜜蜂蜜上课同学们好请坐在刚刚我们已经学习了顽听的物理性质也对于顽听的结构进行了讨论。\n[162.44 -> 218.12] 那接下来我们总结一下顽听的结构顽听它是以S顽听它是顽听分子当中是存在C个码公加件的并且都是以单件的形式相互连接的因此它在结构上是具有稳定性的它在结构上具有稳定性我们在化学当中俗话说得好性质结构决定性那么既然顽钉它在结构上具有这样子的稳定性那么它在化学性质上也是具有稳定性的具体表现如下顽钉的化学性质稳定常温下不能够被酸性高锰酸钾溶液氧化也不与强酸强碱以及锈的丝细化碳溶液发生反应。\n[225.44 -> 256.82] 我们说结构决定性质因此我们可以得出顽听的第一个性质就是强调性质的�就是它的稳定性。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands at a podium with a digital screen displaying a table titled \"物理性質\" (Physical Properties). The table contains various data points and a graph.\n- The teacher interacts with the screen, possibly navigating through the content, while the audience watches attentively.\n\n**Middle:**\n- The screen transitions to a slide titled \"化學性質\" (Chemical Properties) with a section labeled \"1. 酸鹼性\" (Acid-Base Properties).\n- The teacher gestures towards the screen, likely explaining the content related to acid-base properties.\n- The teacher turns to the blackboard and begins writing with white chalk. The initial text written is \"酸的結構與性質\" (Structure and Properties of Acids).\n\n**End:**\n- The teacher continues writing on the blackboard, adding more text related to the structure and properties of acids.\n- The screen remains static, displaying the chemical properties slide.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the slide titled \"化學性質\" with a focus on \"1. 酸鹼性.\" The slide contains text explaining acid-base properties.\n\n**The Derivation Process (Dynamic):**\n\n- **Additions:**\n  - The teacher writes \"酸的結構與性質\" on the blackboard, establishing the topic of discussion.\n  - Further text is added to elaborate on the structure and properties of acids.\n\n- **Modifications:**\n  - No erasures or modifications are observed; the teacher primarily adds content to the blackboard.\n\n- **Deictic Gestures:**\n  - The teacher points to the screen while explaining the acid-base properties, likely emphasizing key points on the slide.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses white chalk for writing on the blackboard, maintaining clarity and focus on the new content.\n- The digital screen remains static, ensuring the audience's attention is split between the evolving blackboard content and the static slide.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on both the blackboard and the digital screen.",
+  "visual_narrative": "Initially, the digital screen displayed a table titled \"物理性質\" (Physical Properties), providing foundational data and a graph for the students to reference. The teacher navigated through this content, setting the stage for the transition to chemical properties. Then, the teacher gave a lecture, shifting focus to a slide titled \"化學性質\" with a section on \"1. 酸鹼性\" (Acid-Base Properties). He gestured towards the screen, emphasizing key points about acid-base characteristics. The teacher then turned to the blackboard, constructing the phrase \"酸的結構與性質\" (Structure and Properties of Acids) to introduce the topic. As he spoke, he derived further explanations, adding details to the blackboard to build on the concept. He resolved deixis by pointing to specific parts of the slide, such as tracing the explanation of acid-base interactions. Finally, he went around the classroom, ensuring students followed along, while the static slide provided a reference point. The teacher's use of the blackboard to incrementally build content alongside the static digital display reduced cognitive load by offering both evolving and stable visual anchors, facilitating comprehension.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Physical Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[119.44 -> 161.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Chemical Stability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[162.44 -> 218.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Acid-Base Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[162.44 -> 218.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Structure of Acids",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[225.44 -> 256.82]"
+      },
+      {
+        "id": "c5",
+        "label": "Properties of Acids",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[225.44 -> 256.82]"
+      },
+      {
+        "id": "c6",
+        "label": "Chemical Properties Slide",
+        "type": "Visual",
+        "original_text": "Slide explaining acid-base properties",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Writing on Blackboard",
+        "type": "Visual",
+        "original_text": "Structure and properties of acids written on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Molecular Structure of Wanti",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[162.44 -> 218.12]"
+      },
+      {
+        "id": "c10",
+        "label": "Chemical Reactions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[162.44 -> 218.12]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Physical properties provide a basis to understand molecular structure."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Wanti's stable molecular structure informs its chemical stability."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Teacher uses the slide to highlight key points of acid-base properties."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Teacher writes a foundational concept of acid structure on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Properties of acids encompass their chemical reactions."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "Slide content enhances student engagement with acid-base concepts."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Chemical stability of Wanti includes acid-base properties."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

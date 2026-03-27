@@ -1,0 +1,147 @@
+{
+  "video_name": "44_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Identify the two main wastewater‑treatment methods: the prohibition‑sedimentation method and the adsorption‑sedimentation method; understand the wastewater‑treatment process and its discharge standards; apply chemical knowledge to real‑life wastewater‑treatment problems.",
+  "transcript": "[636.662633 -> 693.46] 那在现在我们就知道了在生活中进行污水处理的全流程在这里老师就为大家给出了在生活中进行污水处理的排放表在课后呢同学们仔细学习看看在生活中我们的用水是否满足这一标准那通过本节课的学习我们就知道了在生活中进行污水处理的方法有哪些禁止沉降法还有呢吸附沉降法除此之外在工业上我们还将它将放它放在弧性污泥石当中将其中的有机物进行去除那在之后的学习和生活当中啊也希望同学们能够将化学知识与实际生活联系在一起化学其实就在我们的身边那么本节课的学习就在这里结束了同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the screen.\n   - The blackboard contains three key points written in Chinese:\n     1. 人工增雨作业方法 (Artificial Rain Enhancement Methods)\n     2. 云物理作业方法 (Cloud Physics Methods)\n     3. 法律法规和科研可持续发展 (Laws, Regulations, and Sustainable Scientific Development)\n   - The screen displays a slide with the text \"不断探索\" (Continuously Exploring) and an image of the Earth.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - 人工增雨作业方法\n     - 云物理作业方法\n     - 法律法规和科研可持续发展\n   - Screen:\n     - 不断探索\n     - 人类探索自然永无止境 (Human exploration of nature is endless)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, likely emphasizing each of the three points listed.\n   - The teacher points to the screen, highlighting the message about continuous exploration.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The screen focuses on the theme of exploration, suggesting a broader context for future learning.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying the message \"不断探索\" alongside an image of the Earth, emphasizing the theme of continuous exploration. The blackboard lists three key points: 人工增雨作业方法, 云物理作业方法, and 法律法规和科研可持续发展. The teacher gestures towards each point on the blackboard, likely reinforcing their importance. The screen's message about exploration is highlighted, suggesting a broader takeaway for future learning. No specific homework or next-step instructions are visually presented in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Prohibition-Sedimentation Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[636.66 -> 693.46]"
+      },
+      {
+        "id": "c2",
+        "label": "Adsorption-Sedimentation Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[636.66 -> 693.46]"
+      },
+      {
+        "id": "c3",
+        "label": "Wastewater-Treatment Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[636.66 -> 693.46]"
+      },
+      {
+        "id": "c4",
+        "label": "Discharge Standards",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[636.66 -> 693.46]"
+      },
+      {
+        "id": "c5",
+        "label": "Chemical Knowledge Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[636.66 -> 693.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Artificial Rain Enhancement Methods",
+        "type": "Visual",
+        "original_text": "Artificial Rain Enhancement Methods",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Cloud Physics Methods",
+        "type": "Visual",
+        "original_text": "Cloud Physics Methods",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Laws and Sustainable Development",
+        "type": "Visual",
+        "original_text": "Laws, Regulations, and Sustainable Scientific Development",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Continuously Exploring",
+        "type": "Visual",
+        "original_text": "Continuously Exploring",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Human Exploration Is Endless",
+        "type": "Visual",
+        "original_text": "Human exploration of nature is endless",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Final Visual Summary",
+        "type": "Visual",
+        "original_text": "Final Visual Summary",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The Prohibition-Sedimentation Method is part of the Wastewater-Treatment Process."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The Adsorption-Sedimentation Method is part of the Wastewater-Treatment Process."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding the Wastewater-Treatment Process leads to awareness of Discharge Standards."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "applies",
+        "intent": "Chemical Knowledge is applied through the Prohibition-Sedimentation Method."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "applies",
+        "intent": "Chemical Knowledge is applied through the Adsorption-Sedimentation Method."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Artificial Rain Enhancement Methods are part of the final visual summary."
+      },
+      {
+        "source": "c7",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Cloud Physics Methods are part of the final visual summary."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "Laws and Sustainable Development are part of the final visual summary."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "The theme of Continuously Exploring emphasizes that Human Exploration Is Endless."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

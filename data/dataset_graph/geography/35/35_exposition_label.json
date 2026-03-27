@@ -1,0 +1,167 @@
+{
+  "video_name": "35_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "geography",
+  "teaching_goal": "Understand the basic concepts and classifications of agriculture; master the main characteristics of agricultural production; be able to analyze agricultural production differences across regions.",
+  "transcript": "[156.48 -> 172.82] 好上课同学们在之前的学习中呢我们已经了解了农业它的相关的定义什么是农业。\n[176.1 -> 277.52] 以及我们所说农业它主要可以分为哪几类包括它对应的农业生产活动它的特点是哪些好我们可以来总结一下其实不管是我们所说农业不管是种植业林业畜牧业副业还是雨业它们都有一些共同的特点是哪些呢首先第一个农业生产具有非常强的地域性结合例子来说说看比如说我们中国的农业生产分布南方主要的粮食作物是什么知道吗水稻那北方呢小麦为主那为什么会形成这样的呢就是因为我们农业生产有非常大的一个特点就叫地域性南方的它的气候条件等等它并不适宜我们去种植小麦而北方呢相对来说它的气候条件或者说土壤等等各方面的自然地理条件更加适宜我们去种植小麦作为它的粮食作物所以这体现了我们农业的第一个特点叫地域性那么除了地域性之外呢还有一个特点我们的农业生产有一句话是这样说的叫什么叫因时制宜对吧我们农业生产有非常强的季节性你在对应的时间春天夏天要播种夏天秋天烧冬藏这都体现了我们农业生产还具有很强的季节性在对应的时间要做对应的事情。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a large screen displaying a slide titled \"农业的分类\" (Classification of Agriculture) with five blue boxes labeled \"种植业\" (Crop Farming), \"林业\" (Forestry), \"畜牧业\" (Animal Husbandry), \"渔业\" (Fishery), and \"副业\" (Side Business).\n- The teacher writes \"农业\" (Agriculture) on the blackboard to the left of the screen.\n\n**Middle:**\n- The teacher writes \"种植\" (Crop) below \"农业\" on the blackboard.\n- The teacher gestures towards the screen, pointing at the first blue box labeled \"种植业\" (Crop Farming).\n- The teacher continues writing on the blackboard, adding \"林业\" (Forestry) below \"种植\" (Crop).\n\n**End:**\n- The teacher writes \"牧业\" (Animal Husbandry) below \"林业\" (Forestry) on the blackboard.\n- The teacher gestures towards the screen, pointing at the third blue box labeled \"畜牧业\" (Animal Husbandry).\n- The teacher stands in front of the class, gesturing with both hands to emphasize points while speaking.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the slide titled \"农业的分类\" (Classification of Agriculture) with five blue boxes representing different agricultural sectors.\n\n**The Derivation Process (Dynamic):**\n\n1. **Additions:**\n   - The teacher writes \"农业\" (Agriculture) on the blackboard.\n   - The teacher adds \"种植\" (Crop) below \"农业\" (Agriculture).\n   - The teacher writes \"林业\" (Forestry) below \"种植\" (Crop).\n   - The teacher adds \"牧业\" (Animal Husbandry) below \"林业\" (Forestry).\n\n2. **Modifications:**\n   - No erasures or modifications are observed; the teacher only adds content.\n\n3. **Deictic Gestures:**\n   - The teacher points at the first blue box labeled \"种植业\" (Crop Farming) while discussing \"种植\" (Crop).\n   - The teacher points at the third blue box labeled \"畜牧业\" (Animal Husbandry) while discussing \"牧业\" (Animal Husbandry).\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize points while speaking.\n- The teacher points directly at specific sections of the slide to draw attention to them.\n- The teacher writes key terms on the blackboard to reinforce the concepts being discussed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a slide titled \"农业的分类\" (Classification of Agriculture) with five blue boxes representing different sectors: \"种植业\" (Crop Farming), \"林业\" (Forestry), \"畜牧业\" (Animal Husbandry), \"渔业\" (Fishery), and \"副业\" (Side Business). The teacher began by constructing the foundational concept of agriculture, writing \"农业\" (Agriculture) on the blackboard to the left of the screen. As the lecture progressed, the teacher derived the subcategories by sequentially adding \"种植\" (Crop) below \"农业\" (Agriculture), followed by \"林业\" (Forestry), and then \"牧业\" (Animal Husbandry). \n\nThroughout the lecture, the teacher used deictic gestures to emphasize key points, tracing the first blue box labeled \"种植业\" (Crop Farming) to illustrate the concept of crop farming and later pointing to the third blue box labeled \"畜牧业\" (Animal Husbandry) to discuss animal husbandry. These gestures aligned with the written content on the blackboard, reinforcing the visual connection between the terms and their corresponding sectors.\n\nTo highlight important concepts, the teacher employed strategic visual emphasis by writing key terms on the blackboard and using hand gestures to draw attention to specific sections of the slide. This methodical approach reduced cognitive load by providing a clear, step-by-step visual narrative that complemented the verbal explanation, ensuring students could easily follow the progression of ideas from the general concept of agriculture to its specific classifications.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "concept1",
+        "label": "Agriculture",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[156.48 -> 172.82]"
+      },
+      {
+        "id": "concept2",
+        "label": "Crop Farming",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "concept3",
+        "label": "Forestry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "concept4",
+        "label": "Animal Husbandry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "concept5",
+        "label": "Seasonality",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "concept6",
+        "label": "Regional Differences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "concept7",
+        "label": "Rice",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "concept8",
+        "label": "Wheat",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[176.1 -> 277.52]"
+      },
+      {
+        "id": "visual1",
+        "label": "Classification of Agriculture Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying Agriculture with categories Crop Farming, Forestry, Animal Husbandry, Fishery, Side Business",
+        "ocr_corrected": false
+      },
+      {
+        "id": "visual2",
+        "label": "Blackboard - Agriculture",
+        "type": "Visual",
+        "original_text": "Agriculture written on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual3",
+        "label": "Blackboard - Crop",
+        "type": "Visual",
+        "original_text": "Crop written below Agriculture on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual4",
+        "label": "Blackboard - Forestry",
+        "type": "Visual",
+        "original_text": "Forestry written below Crop on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "visual5",
+        "label": "Blackboard - Animal Husbandry",
+        "type": "Visual",
+        "original_text": "Animal Husbandry written below Forestry on blackboard",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "concept1",
+        "target": "concept2",
+        "relation": "includes",
+        "intent": "Agriculture includes the category of Crop Farming."
+      },
+      {
+        "source": "concept1",
+        "target": "concept3",
+        "relation": "includes",
+        "intent": "Agriculture includes the category of Forestry."
+      },
+      {
+        "source": "concept1",
+        "target": "concept4",
+        "relation": "includes",
+        "intent": "Agriculture includes the category of Animal Husbandry."
+      },
+      {
+        "source": "concept2",
+        "target": "visual3",
+        "relation": "emphasizes",
+        "intent": "Crop Farming is visually emphasized on the blackboard."
+      },
+      {
+        "source": "concept3",
+        "target": "visual4",
+        "relation": "emphasizes",
+        "intent": "Forestry is visually emphasized on the blackboard."
+      },
+      {
+        "source": "concept4",
+        "target": "visual5",
+        "relation": "emphasizes",
+        "intent": "Animal Husbandry is visually emphasized on the blackboard."
+      },
+      {
+        "source": "concept6",
+        "target": "concept7",
+        "relation": "builds_upon",
+        "intent": "The concept of regional differences explains why rice is primarily grown in southern regions."
+      },
+      {
+        "source": "concept6",
+        "target": "concept8",
+        "relation": "builds_upon",
+        "intent": "The concept of regional differences explains why wheat is primarily grown in northern regions."
+      },
+      {
+        "source": "concept1",
+        "target": "visual1",
+        "relation": "visualizes",
+        "intent": "The classification of agriculture slide visualizes the overarching concept of Agriculture."
+      },
+      {
+        "source": "concept5",
+        "target": "concept6",
+        "relation": "evolves_from",
+        "intent": "Seasonality principles evolve from understanding regional differences."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

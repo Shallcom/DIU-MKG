@@ -1,0 +1,140 @@
+{
+  "video_name": "15_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Students will be able to observe and describe campus scenes, developing the ability to accumulate writing material; students will learn to improve essay quality through peer review and presentation, thereby boosting their writing confidence.",
+  "transcript": "[0.0 -> 166.12] 支持明镜与点点栏目尊敬的各位评委老师亲爱的同学们大家好我是二十三号参赛选手我即席演讲的材料是学校要具有这样一个写作材料学校要举行六十周年校庆学校网站人生驿站栏目发起真文活动要求以我的校园为话题写一篇文章文体不限这是一门写作课如何让学生得到写作的技巧首先我认为应当分三步走第一个根据新课这边的理念语文课堂应当是教师主导学生主体直接拿上来写肯定是不行的因此教师应该可以安排穿插一些校园的图片以及视频促进学生的思维这是其一然后让学生先将自己的想法说出来以读促写以说促写并且能够让学生在说的过程中进行思维的碰撞使思维发散开来这是第一步第二步也就是强调语文课堂的情境性与实践性让学生当堂写作进行写作之后呢然后再以小组为单位进行互相的批改进行讨论这是课堂之上的内容当然除了课堂之上的内容外还需要在课下下足功夫要强调评价主体的多样性老师学生家长甚至是学校课后教师通过学生之间互评的结果选出几篇较好的作文然后在学校上可以用一个板块进行展示真正地做到了情景的一个再现与此同时呢可以让学生将作文与自己的家长进行分享看看学生眼中的学校和家长眼中的学校又有怎样的不同以此达到评论的由此我们可以看出这一节作文课上应当要强调的是我们新课标的教学理念真正地做到以读促写以评促写而不是单纯的枯燥的写作那么我的集体演讲到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The initial visual content on the screen is a scenic image of mountains and water, with Chinese text overlaid. The text reads: \"平理而得，保境安民\" (Píng lǐ ér dé, bǎo jìng ān mín), which translates to \"Achieve through reason, protect the land and secure the people.\"\n\n#### 2. The Title Event\n- **Title on Screen**: The title \"平理而得，保境安民\" is displayed prominently on the screen.\n- **Teacher's Action**: The teacher does not write anything on the board during this segment. The title remains static on the screen throughout the introduction.\n\n#### 3. The Objectives\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the board or screen during this segment.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the screen. There are no direct gestures pointing to specific elements on the board or screen.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Content**: The screen displays the scenic image with the title \"平理而得，保境安民.\"\n- **Teacher Action**: The teacher stands near the blackboard, holding papers, and begins speaking. No writing occurs on the board.\n\n#### Middle\n- **Visual Content**: The scenic image and title remain unchanged on the screen.\n- **Teacher Action**: The teacher continues to speak, occasionally gesturing with the papers. There are no additional writings or changes on the board.\n\n#### End\n- **Visual Content**: The screen still shows the same scenic image and title.\n- **Teacher Action**: The teacher maintains a position near the front, continuing to speak and gesture with the papers. No new visual elements are introduced on the board or screen.\n\n### Summary\nThe introduction phase of the lesson is anchored by the scenic image and title \"平理而得，保境安民\" displayed on the screen. The teacher uses papers and gestures to engage with the content, but no additional visual elements or objectives are introduced on the board or screen during this segment.",
+  "visual_narrative": "# Final Visual Summary (summary_vis)\n\nThe introduction phase begins with the teacher standing near the blackboard, holding papers, and facing a screen displaying a scenic image of mountains and water with the title \"平理而得，保境安民.\" This visual serves as the hook, setting a thematic tone for the lesson. Throughout the introduction, the teacher engages with the students by speaking and gesturing with the papers, though no additional content is written on the board. The scenic image and title remain static on the screen, providing a consistent visual anchor. The teacher's gestures and positioning suggest an emphasis on the overarching theme presented in the image and title. This approach likely aims to connect the lesson's content to broader concepts, preparing students for a deeper exploration of the topic by establishing a visual and thematic foundation that links new knowledge to existing experiences. The introduction smoothly transitions from the hook to the main topic through the teacher's verbal engagement and the static visual aid, laying the groundwork for subsequent learning activities.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Writing Material",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Peer Review",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Essay Quality Improvement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Campus Scenes Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Writing Confidence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Scenic Image of Mountains and Water",
+        "type": "Visual",
+        "original_text": "A scenic image of mountains and water with text 'Achieve through reason, protect the land and secure the people.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Writing Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gestures with Papers",
+        "type": "Visual",
+        "original_text": "The teacher gestures with papers to emphasize points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Public Sharing of Essays",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c10",
+        "label": "Student Peer Evaluation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 166.12]"
+      },
+      {
+        "id": "c11",
+        "label": "Cognitive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Observing campus scenes provides writing material."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Peer review contributes to essay quality improvement."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Observing scenes is part of the writing process."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Improved essay quality increases writing confidence."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The scenic image and the teacher's gestures help visualize the thematic content."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Public sharing of essays builds writing confidence."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Peer evaluation is an integral part of the peer review process."
+      },
+      {
+        "source": "c6",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The consistent visual anchor maintains cognitive engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

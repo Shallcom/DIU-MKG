@@ -1,0 +1,134 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Summarize the core content of this lesson’s English teaching rules; analyze and understand the argument structure in classroom discussions.",
+  "transcript": "[520.09457475 -> 611.34] 没有其他好吗谢谢非常好好那还有其他吗有其他女生的意见吗。\n[617.84 -> 688.14] 好的那这位女生呢这种感觉我们将再来探讨更多这个论点的内容这就是我的教学规则了谢谢您的观看。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"Brain-filing\" displayed on the screen.\n   - The slide layout includes a green speech bubble with instructions and a text box with a phrase to complete.\n   - The overall structure is organized with clear sections for instructions and an example phrase.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and phrases visible:\n     - \"Complete the phrase in this table and fill them in blanks.\"\n     - \"What can teachers and students do to express our sympathy and support?\"\n     - \"How have you been learning about protecting our culture?\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the green speech bubble, emphasizing the instruction to complete the phrase.\n   - She gestures towards the text box, highlighting the example phrase about protecting culture.\n   - The teacher uses hand movements to underline the importance of the task, directing attention to the key phrases.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or next lesson is visible in the frames provided.\n   - The focus remains on the current task, with no additional slides or board sections indicating further steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Brain-filing\" prominently displayed, featuring a green speech bubble with instructions and a text box for completing a phrase. The teacher visually wraps up the lesson by pointing to the speech bubble, emphasizing the task to complete the phrase. She then gestures towards the text box, highlighting the example about protecting culture. Throughout the review, the teacher uses deliberate hand movements to underscore the importance of the task, ensuring students focus on the key phrases. No additional visual elements indicate homework or next steps, keeping the conclusion centered on the current activity.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "English Teaching Rules",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[617.84 -> 688.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Argument Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[617.84 -> 688.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Summarize Core Content",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[617.84 -> 688.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Express Sympathy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[617.84 -> 688.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Support Expression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[617.84 -> 688.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Cultural Protection",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[617.84 -> 688.14]"
+      },
+      {
+        "id": "v1",
+        "label": "Brain-filing Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Brain-filing' with a green speech bubble and a text box.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Green Speech Bubble",
+        "type": "Visual",
+        "original_text": "Green speech bubble with instructions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Example Phrase",
+        "type": "Visual",
+        "original_text": "Text box with phrase about protecting culture.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[617.84 -> 688.14]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "The slide visuals help in summarizing the core content."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The green speech bubble directs attention to expressing sympathy."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The speech bubble instructs on expressing support."
+      },
+      {
+        "source": "v3",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The text box exemplifies cultural protection."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The English teaching rules encompass understanding the argument structure."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Cultural protection includes expressing sympathy."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Cultural protection includes expressing support."
+      },
+      {
+        "source": "c2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding argument structure engages students in active thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,132 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "To stimulate students' interest in history classes; to cultivate students' proactive thinking and problem‑solving abilities.",
+  "transcript": "[0.0 -> 98.5] 并这就导致了他们会觉得历史课堂枯燥无味所以应该深化三种教学模式第一个是情境式教学创设历史情境使学生沉浸式地体验历史课堂将学生的兴趣重新拉入历史课堂之中第二个实现结构化教学所谓的结构就是结构清晰把高中知识多的难题给解决将碎片化的知识重新组织进行重新组织组合形成知识网络使学生更加地把握课本把握知识之间的内在联系第三个要深化任务驱动式的教学模式所谓的任务驱动就设置任务提出问题这能使学生紧跟老师的思路从而全神贯注以上就是我提出的所有解决办法我对此次做来了的下面开始我的模拟上课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is an image of a black tool, possibly a wrench or similar device, displayed on the screen. The image is accompanied by text in Chinese, which appears to describe the tool's features or usage.\n\n#### 2. The Title Event\n- **Title**: The title on the screen is written in Chinese, \"智能手工具\" (Smart Hand Tools).\n- **Teacher's Action**: The title is displayed on the screen, and the teacher gestures towards it, likely emphasizing its importance.\n\n#### 3. The Objectives\n- **Bullet Points**: The slide includes a list of bullet points in Chinese, which are not fully legible but appear to outline features or instructions related to the tool.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher uses hand gestures to emphasize points, such as pointing towards the image of the tool and the accompanying text. The teacher also holds papers, possibly notes or a script, while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of the screen displaying the title \"智能手工具\" and an image of a black tool.\n- The teacher gestures towards the image, likely introducing the topic of smart hand tools.\n\n**Middle**\n- The teacher continues to gesture towards the screen, pointing at specific parts of the tool's image and the accompanying text.\n- The teacher uses hand movements to emphasize key points, possibly explaining the features or functions listed in the bullet points.\n\n**End**\n- The teacher maintains focus on the screen content, using gestures to link explanations to the visual elements.\n- The teacher's hand movements suggest a detailed explanation of the tool's capabilities or usage instructions.\n\n### Summary\nThe lesson introduction phase centers around the image of a black tool, with the title \"智能手工具\" prominently displayed. The teacher uses gestures to highlight the tool's features and the accompanying text, guiding the audience through the initial understanding of smart hand tools. The visual elements, including the tool image and bullet points, are crucial in setting the lesson's objectives and engaging the audience.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing before a screen displaying an image of a black tool, serving as the hook to capture the audience's attention. The teacher gestures towards this image, emphasizing its significance. The slide prominently features the title \"智能手工具,\" which the teacher points to, establishing the main topic. As the teacher continues, they use hand movements to highlight specific parts of the tool's image and the accompanying bullet points, which likely outline key features or instructions. This transition from the hook image to the title and detailed points creates a clear visual pathway for the lesson. The teacher's gestures towards the screen elements help bridge the introduction to the main topic, linking the visual representation of the tool to the broader concept of smart hand tools. This approach sets the stage for connecting new knowledge to practical applications, preparing students for a deeper exploration of the subject.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Immersive History",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 98.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Structured Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 98.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Task-Driven Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 98.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Historical Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 98.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Knowledge Network",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 98.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Smart Hand Tools Title",
+        "type": "Visual",
+        "original_text": "The title on the screen in Chinese: 'Smart Hand Tools'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Black Tool Image",
+        "type": "Visual",
+        "original_text": "An image of a black tool, possibly a wrench or similar device.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Bullet Points List",
+        "type": "Visual",
+        "original_text": "A list of bullet points in Chinese, outlining features or instructions related to the tool.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Interest",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Immersive history includes creating a historical context for students."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Structured teaching builds upon creating a knowledge network."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Task-driven teaching evolves from the historical context."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the title to stimulate student interest."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The teacher uses the image of the tool to engage students."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The bullet points emphasize key information to maintain student engagement."
+      },
+      {
+        "source": "c1",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "The concept of immersive history prompts proactive thinking among students."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Task-driven teaching prompts students to think critically about the tasks."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

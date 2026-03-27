@@ -1,0 +1,165 @@
+{
+  "video_name": "5_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the importance of geography in life education; master how physical geography and human geography reflect the value of life; through practice, perceive the beauty of nature and cultivate an awareness of respect for life.",
+  "transcript": "[0.0 -> 150.08] 或许有抑郁以及有自杀的倾向而地理它是一门很美的学科以地理业去看世界是至关重要的因此我认为将在两个方面培养地理教育中落实生命教育首先是在自然地理方面我们要以实践以及技术赋能自然地理之美让学生在尊重自然之中感受生命之可贵如何去实践呢以金华当地为例教师可以带领学生走出课堂去喀斯特迪茂的景观现象区看以及调查校园内部的植被以地理的实践让学生直观感受自然之美落实生命的可贵同时地理信息技术的运用也是至关重要的现如今谷歌地球等地心技术融入地理课堂让学生直观感受自然地理之美让学生能够感受自然之可贵征受自然之可贵落实自己的生命而第二方面则是从人文地理的角度让学生理解生命之可贵人文地理它有着城乡农业工业等等要素而这些要素是与学生的生活生命密切相关因此学生要在生活中感受人文地理以精华当地物种古城它则是可以让学生感受到城镇文化与乡村的融合让学生在知乡感乡之中落实生命的可贵我相信通过地理教育自然和人文的相结合学生能够做到尊重自然理解自然并且能够尊爱自己的生命以上便是我即兴讲演的全部内容。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a scenic image of a forest with autumn foliage, displayed on the screen behind the teacher. The image features a mix of green and yellow trees, suggesting a transition between seasons.\n\n#### 2. The Title Event\n- **Text on Screen**: The title displayed is \"生态脆弱区的综合治理\" with a subtitle \"——以我国荒漠化为例\".\n- **Teacher's Action**: The teacher stands beside the screen, holding papers, and appears to be presenting the content. There is no indication of underlining or additional emphasis on the title through gestures.\n\n#### 3. The Objectives\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or board in this segment.\n\n#### 4. Key Gestures\n- **Teacher's Actions**: The teacher is holding papers and occasionally looking at them, likely referring to notes. There are no specific gestures such as pointing or circling observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of a large screen displaying a forest image with autumn colors.\n- The title \"生态脆弱区的综合治理\" and subtitle \"——以我国荒漠化为例\" are prominently shown on the screen.\n\n**Middle**\n- The teacher remains stationary, holding papers, and appears to be speaking or presenting.\n- No changes in the visual content on the screen are observed.\n\n**End**\n- The teacher continues to stand beside the screen, maintaining the same visual setup.\n- No additional gestures or changes in the displayed content occur.\n\n### Summary\nThe introduction phase of the lesson is initiated with a scenic forest image, setting the context for the topic of ecological management in fragile areas, specifically focusing on desertification in China. The teacher's actions are primarily centered around presenting the content, with no additional visual gestures or changes to the displayed material.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing beside a large screen displaying a scenic image of a forest with vibrant autumn foliage, setting a visual hook that captures the essence of ecological diversity. The teacher, holding papers, initiates the lesson by presenting the content without additional gestures, allowing the image to serve as a visual anchor. The slide transitions seamlessly to reveal the title \"生态脆弱区的综合治理\" with the subtitle \"——以我国荒漠化为例,\" establishing the main topic of ecological management in fragile areas, specifically focusing on desertification in China. Throughout this phase, the teacher remains engaged with the content, maintaining a steady presence beside the screen. This visual setup effectively bridges the scenic hook to the main topic, grounding the discussion in a real-world context that connects students' existing knowledge of ecosystems to the complexities of desertification, thereby setting the stage for deeper exploration of the subject matter.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Geography Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Life Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Physical Geography",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Human Geography",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c5",
+        "label": "Importance of Geography",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c6",
+        "label": "Respect for Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Beauty of Nature",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c8",
+        "label": "Desertification",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "c9",
+        "label": "Ecological Diversity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 150.08]"
+      },
+      {
+        "id": "v1",
+        "label": "Forest Scenic Image",
+        "type": "Visual",
+        "original_text": "Image of a forest with autumn foliage showing green and yellow trees.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Ecological Management Slide",
+        "type": "Visual",
+        "original_text": "Screen displaying title 'Ecological management in fragile areas - Example of desertification in China'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Geography education includes understanding the importance of geography."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Geography education builds upon life education principles."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Physical geography helps understand the value of geography."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Human geography reflects the value of geography in human life."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Respect for life includes perceiving the beauty of nature."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Desertification as a concept is relevant in life education."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Ecological diversity includes experiencing the beauty of nature."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The scenic image visualizes ecological diversity."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Slide emphasizes the issue of desertification in China as an example."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide summarizes the theme of ecological management in geography education."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Geography education prompts student engagement with ecological concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

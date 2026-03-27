@@ -1,0 +1,158 @@
+{
+  "video_name": "20_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Understand the relationship between protein structure and function; analyze how the sequence of amino acids affects protein structure.",
+  "transcript": "[450.24 -> 503.68] 请稍息一会儿好这两位同学来构建一下\n[510.24 -> 513.88] 先画出来它的结构方式\n[540.24 -> 565.28] 嗯没错写得非常正确好我们就是通过这种方式将水喝去然后形成了蛋白质那么形成的蛋白质呢它去它是失去了一分子的水我们把这种方式啊就叫做脱水缩河大家把它写在教材上\n[570.24 -> 600.36] 我们前面说蛋白质它有许多的功能针对的是多种蛋白质是不是那么为什么会有多种蛋白质呢大家看一下老师构建的两种蛋白质思考一下这两个蛋白质为什么不同\n[604.86 -> 617.28] 对氨基酸的数量不同这里少过剑了一下那个先问一声\n[619.26 -> 677.9372] 那么再看一下这两个蛋白质有什么不同呢对连接的顺序不同那么大家看一下教材的第三十一页我们刚才呢总结了蛋白质不同的原因有几个刚才总结了几个两个一个是氨基酸的数量一个是氨基酸的排列顺序那现在请同学们看一下教材第三十一页看一下这上面的这个图这个氨基酸组成了蛋白质大家看这个图是不是同一个蛋白质",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the chemical structure of amino acids written on the blackboard. Specifically, the teacher pointed to the general formula of amino acids: $\\text{NH}_2-\\text{CH}(\\text{R})-\\text{COOH}$, and the task displayed on the screen regarding protein structure.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher used hand gestures to emphasize key parts of the formula on the blackboard. For instance, the teacher pointed to the $\\text{R}$ group in the amino acid structure, highlighting its variability.\n- The teacher also referred to the screen content, pointing to the table of amino acids, indicating the relevance of the student's response to the broader context of protein composition.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher visually validated the input by nodding and smiling, creating a positive reinforcement.\n- The teacher then elaborated by drawing a simplified diagram of a polypeptide chain on the blackboard, linking it to the amino acid structure discussed. This visual aid helped clarify the connection between individual amino acids and protein formation.\n- The teacher circled the $\\text{R}$ group in the amino acid formula on the board, emphasizing its importance in determining amino acid properties, thus providing visual feedback on the student's understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Points to the amino acid formula $\\text{NH}_2-\\text{CH}(\\text{R})-\\text{COOH}$ on the blackboard.\n\n- **Middle:**\n  - Student responds; teacher points to the $\\text{R}$ group, highlighting variability.\n  - Teacher gestures towards the screen, linking to the amino acid table.\n\n- **End:**\n  - Teacher nods and smiles, providing visual affirmation.\n  - Draws a polypeptide chain diagram, linking to the amino acid structure.\n  - Circles the $\\text{R}$ group, emphasizing its role in protein diversity.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students connect individual concepts to broader biological principles.",
+  "visual_narrative": "Initially, the bulletin board showed the chemical structure of amino acids, $\\text{NH}_2-\\text{CH}(\\text{R})-\\text{COOH}$, alongside a task about protein structure on the screen. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem at hand. This broad gesture signaled the start of an interactive session, focusing attention on the amino acid formula and the task displayed.\n\nAs a student began to respond, the teacher moved to the blackboard, pointing to the $\\text{R}$ group in the amino acid structure to emphasize its significance. While the student explained their reasoning, the teacher walked over to the board and jotted down key terms related to the student's explanation, visually linking these terms to the existing formula. The teacher also gestured towards the screen, drawing connections between the student's response and the table of amino acids, reinforcing the relevance of the discussion.\n\nTo validate the student's input, the teacher gave a distinct nod and proceeded to draw a simplified diagram of a polypeptide chain on the blackboard. This visual aid directly connected the individual amino acid structure to the formation of proteins, illustrating the broader concept. The teacher then circled the $\\text{R}$ group in the original formula, highlighting its role in determining amino acid diversity and protein function.\n\nFinally, the teacher drew arrows connecting the student's correct points back to the core lesson content on the screen, ensuring that the new understanding was integrated with previously discussed material. This visual orchestration not only confirmed the student's knowledge but also encouraged active construction of understanding, moving students from passive reception to engaged participation in building their comprehension of protein structure and function.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Protein Structure",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[450.24 -> 677.9372]"
+      },
+      {
+        "id": "c2",
+        "label": "Amino Acids",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[450.24 -> 677.9372]"
+      },
+      {
+        "id": "c3",
+        "label": "Polypeptide Chains",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[540.24 -> 600.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Protein Diversity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[570.24 -> 677.9372]"
+      },
+      {
+        "id": "c5",
+        "label": "Dehydration Synthesis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[540.24 -> 565.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Amino Acid Variability",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[619.26 -> 677.9372]"
+      },
+      {
+        "id": "c7",
+        "label": "Amino Acid Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[619.26 -> 677.9372]"
+      },
+      {
+        "id": "v1",
+        "label": "Amino Acid Formula",
+        "type": "Visual",
+        "original_text": "NH2-CH(R)-COOH on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Task Screen",
+        "type": "Visual",
+        "original_text": "Task on protein structure",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Polypeptide Diagram",
+        "type": "Visual",
+        "original_text": "Simplified polypeptide chain diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Protein structure includes amino acids."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Protein structure includes polypeptide chains."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Protein structure leads to diversity based on sequence and composition."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Polypeptide chains form through dehydration synthesis."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Amino acid variability influences protein properties."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Sequence of amino acids determines protein function."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Visual formula highlights R group's variability."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Diagram connects amino acids to protein structure."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Student response directs discussion toward protein structure."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Engagement in thinking about protein diversity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

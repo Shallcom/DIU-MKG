@@ -1,0 +1,173 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the functions and applications of sensors in circuit safety; master the basic components and operating modes of sensors; recognize the practical impact of sensor technology on modern life.",
+  "transcript": "[542.168233 -> 555.54] 这个其实在我们的寝室里面其实也是经常存在的如果某个寝室它电路发生了短路然后导致温度急剧地升高进而产生火灾的话你是可以通过头顶的这个传感器感知气体的浓度而进而能够达到报警的一个作用所以我们传感器真的真的非常的重要也希望大家能够好好地学习为以后我们制造出更先进的传感器而做贡献再比如利用葡萄糖微生物传感器制成的血糖仪你也能够感知人的血糖的变化进而人们的生命健康所以传感器真的是非常重要的。\n[557.82 -> 587.04] 再比如我们既然有了传感器它应用的一般模式对应了一些呢它其实主要有两个元件第一个是敏感的元件第二个是转换元件通过这两个元件组成然后产生电信号然后这个时候信号调整输出最后就会达到自己想要的结果关于传感器的进一步学习呢我们之后再讲本节课到此结束下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a flowchart with several interconnected boxes, likely summarizing key concepts or processes discussed in the lesson.\n   - The layout includes a central box with arrows pointing to surrounding boxes, indicating a structured flow of information.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains several labeled boxes, though specific text is not fully legible. The structure suggests a hierarchical or procedural summary.\n   - The blackboard has handwritten text, possibly a title or key term, written in Chinese characters.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the digital slide, likely pointing to different sections of the flowchart to emphasize key points.\n   - The teacher turns to the blackboard, possibly to highlight or review the handwritten content, using broad gestures to encompass the entire board area.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.\n\nThis structured visual summary helps consolidate the lesson's key points, with the teacher's gestures reinforcing the flow and connections presented in the digital slide.",
+  "visual_narrative": "The lesson concludes with a flowchart displayed on the digital screen, summarizing the key concepts covered. The teacher visually reviews the content by pointing to different sections of the flowchart, emphasizing the connections between the central idea and surrounding points. Although no specific emphasis actions like drawing boxes or underlining are visible, the teacher's gestures guide attention through the structured layout. The visual focus remains on the summary flowchart, with no explicit indication of homework or next steps presented in the frames. This visual wrap-up reinforces the procedural relationships highlighted throughout the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sensors in Circuit Safety",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Temperature Increase Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Gas Concentration Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Fire Alarm Activation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Importance of Sensors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Glucose Sensor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Blood Sugar Monitoring",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[542.168233 -> 555.54]"
+      },
+      {
+        "id": "c8",
+        "label": "Two Components of Sensors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[557.82 -> 587.04]"
+      },
+      {
+        "id": "c9",
+        "label": "Sensitive Component",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[557.82 -> 587.04]"
+      },
+      {
+        "id": "c10",
+        "label": "Conversion Component",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[557.82 -> 587.04]"
+      },
+      {
+        "id": "c11",
+        "label": "Signal Generation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[557.82 -> 587.04]"
+      },
+      {
+        "id": "v1",
+        "label": "Flowchart on Sensors",
+        "type": "Visual",
+        "original_text": "A flowchart with interconnected boxes summarizing key concepts of the lesson displayed on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Writings",
+        "type": "Visual",
+        "original_text": "Handwritten text possibly indicating key terms.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Describes how sensors function by detecting temperature increases."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes how sensors function by detecting gas concentration."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Gas concentration detection leads to fire alarm activation."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Highlights the importance of sensor technology for circuit safety."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Glucose sensor use for monitoring blood sugar levels."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Explain the first component of sensors."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Explain the second component of sensors."
+      },
+      {
+        "source": "c9",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Sensitive component is involved in generating signals."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Conversion component is involved in generating signals."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Flowchart visually represents key concepts of sensors."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Blackboard writings summarize key terms related to sensors."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

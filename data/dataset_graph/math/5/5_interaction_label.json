@@ -1,0 +1,139 @@
+{
+  "video_name": "5_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "- Understand the relationship between the arithmetic mean and the geometric mean.  \n- Master the application of the completing‑the‑square method and its generalization.  \n- Be able to convert specific problems into a general form and analyze them.",
+  "transcript": "[482.28 -> 531.56] 而根靠AB则成为它们的契合平均数请同学们考虑一下他们的算数平均数和几何平均数之间存在怎样的关系呢通过这个设施来看我们发现算术平数始终是大约几何平数的对吧。\n[547.2 -> 579.7] 在上述流程当中我们采用的是完全平平方方公式得到的一种特殊的前行形式那请同学们试考如何将这种特殊情形形一般化创立呢。\n[583.16 -> 587.66] 请同学们小组之间进行探讨。\n[604.2 -> 673.399333] 小组讨论结束这位同学你认为该如何来广大一方的形式呢我觉得需要镇如何镇把它可以先把这个二给两边成一二之后得到一个平等的辨识然后对这个辨识进行辨线形式一项处理非常好然后最后在因为它已经是一个玩完全圈方的形式对不对对我们提出一个号之后可以将形化解成这样的形式我们可以然后将号不能是变号之后我们会发现这个是大于远邻的由此就证明了这个基本不能是在大于远邻的形式里面的形一般的情形当中也是成立的对吧非常好进行的从而我们将这个基本步的事推广到了所有的情形当中接下来到刚开始的那个问题如何为才能使得它的面积等于一百平方米呢请同学们课后去进行探究回顾今天的我们通过真实体系进击抽象出数学尾巴叠叠然后将完成平方公式之后变形得到了基本不能试试在这个过程当中体现了我们数学的状化与化规和特殊到一般单的数学思想请同学们课后探究基本不能试的几何解释是什么样的样的下课下课我都听到听到听到好。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher turned away from the blackboard and faced the class, holding a piece of paper. This gesture signaled the start of an interaction, inviting students to engage with the content.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the digital slide displayed on the screen, which contained a question in Chinese: \"选题：如何基本不等式推广到一般情况呢？\" (Topic: How to generalize the basic inequality to a general case?).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As a student approached the screen, the teacher pointed to the question on the slide, directing the student's attention to the specific content that needed to be addressed.\n- The teacher maintained eye contact with the student, nodding and gesturing towards the slide to encourage elaboration on the topic.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher used hand gestures to affirm the student's input, possibly indicating agreement or prompting further explanation.\n- The teacher then turned back to the blackboard, where mathematical expressions such as $(a-b)^2 \\geq 0$ and $a^2 + b^2 \\geq 2ab$ were written, reinforcing the connection between the student's response and the previously discussed content.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes on the blackboard, detailing mathematical expressions like $\\frac{a+b}{2} \\geq \\sqrt{ab}$ and $(a-b)^2 \\geq 0$.\n  - The digital slide displays the topic question, setting the stage for the interaction.\n\n- **Middle:**\n  - The teacher faces the class, holding a paper, signaling the start of an interaction.\n  - A student approaches the screen, and the teacher points to the question on the slide, focusing the student's attention.\n\n- **End:**\n  - The teacher nods and gestures towards the slide while the student responds.\n  - The teacher turns back to the blackboard, linking the student's input to the written mathematical expressions, providing visual confirmation and elaboration.\n\nThis structured interaction visually connects the teacher's gestures, the content on the blackboard, and the digital slide, facilitating a coherent dialogue and knowledge co-construction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed mathematical expressions such as $\\frac{a+b}{2} \\geq \\sqrt{ab}$ and $(a-b)^2 \\geq 0$, alongside a digital slide posing the question, \"如何基本不等式推广到一般情况呢？\" (How to generalize the basic inequality to a general case?). The teacher gesturally invited students to participate by turning to face the class, holding a piece of paper, and pointing to the slide, signaling the start of an interactive discussion.\n\nAs the student approached the screen, the teacher facilitated the interaction by pointing directly to the question, ensuring the student's focus. While the student explained their reasoning, the teacher walked over to the board and occasionally gestured towards the written expressions, reinforcing the connection between the student's thoughts and the lesson content. The teacher's supportive nods and eye contact encouraged the student to elaborate further.\n\nTo validate the student's input, the teacher gave a distinct nod and pointed to the relevant formula on the blackboard, visually confirming the correctness of the response. This gesture linked the student's explanation back to the core lesson content, drawing a mental connection between the new ideas and previously discussed principles.\n\nFinally, the teacher summarized the interaction by turning back to the blackboard, where he highlighted the key expressions once more. This visual recap helped students move from passively receiving knowledge to actively constructing their own understanding, ensuring that the generalized concept of inequalities was clearly tied to the foundational material. Through these orchestrated gestures and visual cues, the teacher effectively facilitated the application and verification of knowledge, fostering a dynamic and interactive learning environment.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Arithmetic Mean",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.28 -> 531.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Geometric Mean",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.28 -> 531.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Completing the Square",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[547.2 -> 579.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Generalization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[547.2 -> 579.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Basic Inequality",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[547.2 -> 579.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Mathematical Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[604.2 -> 673.399333]"
+      },
+      {
+        "id": "c7",
+        "label": "Visual Confirmation",
+        "type": "Visual",
+        "original_text": "Teacher nods and points to the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Digital Slide Question",
+        "type": "Visual",
+        "original_text": "How to generalize the basic inequality to a general case?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Mathematical Expressions",
+        "type": "Visual",
+        "original_text": "$(a-b)^2 \\geq 0$ and $a^2 + b^2 \\geq 2ab$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "s2",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explores the relationship between arithmetic and geometric means."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Generalizes the completing-the-square method."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Generalizes the basic inequality to broader contexts."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Uses mathematical transformation to prove the inequality."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to brainstorm generalization strategies."
+      },
+      {
+        "source": "c9",
+        "target": "s2",
+        "relation": "visualizes",
+        "intent": "Connects student response to mathematical expressions."
+      },
+      {
+        "source": "c7",
+        "target": "s2",
+        "relation": "praises_response",
+        "intent": "Affirms the student's explanation with visual confirmation."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Highlights the importance of generalizing the basic inequality."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

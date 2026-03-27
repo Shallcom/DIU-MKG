@@ -1,0 +1,170 @@
+{
+  "video_name": "37_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Master the basic methods and practical procedures for detecting reducing sugars, fats, and proteins; understand the general process of scientific inquiry and the importance of teamwork; develop students’ abilities to pose and analyze problems and foster an awareness of autonomous learning.",
+  "transcript": "[0.0 -> 157.28] 我们可以开展多样化的实验教学在实验教学的过程当中我们通过设置学生的小组来完成操作这里我想举一个例子比如说我们在做这个检测还原糖脂肪蛋白质的实验时我们可以将整个班级分成三个不同的小组一个小组来负责还原糖一个小组负责脂肪另一个小组来负责蛋白质当实验结束后三个小组来汇报自己的实验结果交流在操作过程当中遇到的问题以及观察到的具体现象第二是可以开展探究教学我们可以围绕一个科学问题从提出问题到做出假设设计实验最终完成以及分析归纳总结的过程在探究活动进行的过程当中学生会进行密切的交流因此能够构建一个相互成长的共同体第二是可以构建一个师生护学的共同体从教师的角度来说首先我们可以在课堂当中融入一些科学前沿比如最近新公布的这个诺贝尔奖那么有关这个小分子的恩爱干扰涉及到我们表观遗传相部分的知识就可以作为一个课前问题探讨的环节或者是课后让大家去思考的小问题第二呢是我们可以把课堂之进一步的深化适当的拓展比如说我们在讲解PCR或者是讲解遗传信息的转录时都可以做相应拓展从学生角度来说可以通过自主的学习来向教师进行汇报学生对于身边的现象是非常感兴趣的那么他善于发现问题提出问题在查阅资料后会有自己的不解于是就会向教师发出询问在这样师生交流的过程当中就形成了一个相互学习共同成长的共同体以上就是我的集习答辩全部内容谢谢老师",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital presentation slide displayed on the screen. It contains text and images, including a document with Japanese text and a small illustration of a person. The slide appears to be the starting point of the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is written in Japanese: \"科学的根拠に基づく授業の構築とその効果\" (Building Lessons Based on Scientific Evidence and Their Effects). The teacher does not physically write this; it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- The slide includes several bullet points, likely outlining learning objectives or content. These are not fully legible, but they appear to be structured as a list on the left side of the screen.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with their hands, possibly emphasizing points related to the content on the screen.\n- The teacher occasionally points towards the screen, likely to draw attention to specific parts of the slide.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The digital screen displays the title slide with the hook object: a document with Japanese text and an illustration.\n- The teacher gestures with their hands, possibly introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture, pointing towards the screen to emphasize the title and objectives.\n- The teacher's movements suggest they are explaining the content on the slide, linking their gestures to the text and images displayed.\n\n**End:**\n- The teacher maintains focus on the screen, using hand movements to reinforce key points.\n- The slide remains visible, with the teacher occasionally looking at the students to engage them.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content on the screen.",
+  "visual_narrative": "Initially, the screen presents a document with Japanese text and an illustration, serving as the hook to engage the students. To bridge to the topic, the teacher gestures with their hands, occasionally pointing towards the screen to emphasize key elements of the slide. Finally, the visual focus remains on the title \"科学的根拠に基づく授業の構築とその効果\" displayed prominently, establishing the lesson goal. The teacher's deliberate gestures and engagement with the digital content create a connection between the hook and the main topic, setting the stage for exploring how scientific evidence informs lesson design and its impact. This introduction links new knowledge to the students' existing understanding by visually highlighting the importance of evidence-based teaching methods.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Reducing Sugars Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Fats Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Proteins Detection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Inquiry Process",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Teamwork Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Problem Posing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c7",
+        "label": "Autonomous Learning Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "c8",
+        "label": "Scientific Evidence-Based Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Title Slide",
+        "type": "Visual",
+        "original_text": "Building Lessons Based on Scientific Evidence and Their Effects",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "v2",
+        "label": "Objectives Slide",
+        "type": "Visual",
+        "original_text": "Slide with bullet-point objectives",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "s1",
+        "label": "Collaborative Experimentation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "s2",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Questioning",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "s3",
+        "label": "Concept Exploration",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[0.0 -> 157.28]"
+      },
+      {
+        "id": "s4",
+        "label": "Learning Autonomy",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 157.28]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Demonstrates practical application of scientific inquiry in detecting reducing sugars."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Demonstrates practical application of scientific inquiry in detecting fats."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Demonstrates practical application of scientific inquiry in detecting proteins."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Scientific inquiry encompasses the importance of teamwork."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to collaborate during experiments."
+      },
+      {
+        "source": "c6",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Stimulates discussion and questioning about problem posing."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visualizes scientific evidence-based teaching through the lesson title."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Summarizes objectives related to scientific evidence-based teaching."
+      },
+      {
+        "source": "c7",
+        "target": "s4",
+        "relation": "prompts_thinking",
+        "intent": "Promotes awareness and engagement in autonomous learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

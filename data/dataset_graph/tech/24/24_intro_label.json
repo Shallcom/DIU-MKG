@@ -1,0 +1,152 @@
+{
+  "video_name": "24_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "- Understand the fundamentals and importance of scientific concepts.  \n- Master model building, reasoning, and innovative abilities within scientific thinking.  \n- Establish a correct attitude toward life and a sense of social responsibility.",
+  "transcript": "[0.0 -> 46.26] 育人价值观念应该体现在三个方面第一个方面那就是让学生形成正确的科学观念这个科学观念最基础的是生活的常识通过物理的学习学生应该掌握最基本的生活常识。\n[47.36 -> 176.88] 从而让他在生活中面对一些比较基础的问题时能做出正确的判断这是科学观念的最基础的方面再升高一点那就是让学生形成对整个科学世界世界体系从科学到生活到技术到实践形成一个基本的认识形成一个基本的结构框架这是第一点第二点我认为育人观念的价值应该体现在培养学生的多种科学思维这里的科学思维主要分为三类第一类是模型建构能力第二类是推理能力第三类是创新能力我认为科学思维一个学生拥有科学思维是至关重要的不论是在物理的学习中还是在他的现实生活中拥有模型建构的能力和推理能力以及创新能力都是他们解决方法解决实际问题的最佳助手和方法第三点我认为育人观念育人价值观念应该体现在促使学生拥有正确的态度和端正的责任上这里的态度指的是生活态度主要指的是主要包括热爱生活保护环境的态度而这里的责任则指的是社会责任说小一点是保持民族自豪感说大一点则是拥有则是认为意识到自己肩负着为国家为民族做出贡献的义务责任和义务中上所述我认为物理课程的育人观念应该体现在一让学生形成正确的科学观念二培养学生形成多种的科学思维第三是让学生拥有正确的和端正的责任感我的即兴演讲到此结束下面开始我的片段教学。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is a diagram displayed on the screen. It appears to be a technical drawing or illustration, possibly related to machinery or a mechanical process. The text next to the diagram is in Japanese, reading \"洗車\" (car wash).\n\n#### 2. **The Title Event**\n- **Title**: The title on the screen is \"洗車\" (car wash).\n- **Teacher's Action**: The teacher did not write the title on the board; it was already displayed on the screen. The teacher's initial action involved interacting with the blackboard, possibly erasing or writing, before moving to the front to address the class.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly visible in the frames provided. The screen shows a slide with text and a diagram, but specific bullet points for objectives are not discernible.\n\n#### 4. **Key Gestures**\n- **Gestures**: The teacher is holding papers and appears to be reading or presenting from them. There are no specific gestures like pointing or circling visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Teacher's Action**: The teacher interacts with the blackboard, possibly erasing or writing content. The blackboard initially has some text written in red, though it is not fully legible.\n- **Visual Content**: The screen displays a slide with the title \"洗車\" and a diagram. The slide appears to be part of a presentation, with a list of items on the left side, though details are unclear.\n\n#### Middle\n- **Teacher's Action**: The teacher moves to the front of the classroom, holding papers, and begins addressing the class. The teacher's posture suggests they are reading or presenting from the papers.\n- **Visual Content**: The screen remains unchanged, still displaying the \"洗車\" title and diagram. The blackboard now has some text written in red on the left side, though it is partially obscured.\n\n#### End\n- **Teacher's Action**: The teacher continues to stand at the front, maintaining a position that suggests ongoing presentation or explanation. The teacher occasionally looks at the papers and then back at the class.\n- **Visual Content**: The screen continues to display the same slide with the \"洗車\" title and diagram. The blackboard text remains static, with no additional changes observed.\n\n### Summary\nThe lesson introduction phase centers around the \"洗車\" (car wash) theme, visually anchored by the diagram on the screen. The teacher's actions transition from interacting with the blackboard to presenting from papers, maintaining focus on the displayed content. Specific learning objectives and detailed gestures are not visible in the provided frames, but the setup suggests a structured presentation format.",
+  "visual_narrative": "The introduction phase of the lesson begins with the teacher at the blackboard, initially engaged in writing or erasing content. The opening visual stimulus is a slide on the screen displaying a diagram labeled \"洗車\" (car wash), serving as the hook to capture the students' attention. The teacher then transitions to the front of the classroom, holding papers, and begins presenting. The visual focus remains on the slide, which features a technical drawing related to the car wash process, suggesting a practical or mechanical theme. Throughout this phase, the teacher's actions are centered around delivering content from the papers, occasionally glancing at them and addressing the class. The blackboard retains some red text on the left side, though it remains partially obscured and static. The introduction effectively bridges the hook to the main topic by maintaining visual consistency with the slide, grounding the lesson in a real-world application. This approach likely connects new knowledge to students' existing experiences with mechanical processes, setting the stage for a detailed exploration of the car wash system or related concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Scientific Concepts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 46.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Life Common Sense",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 46.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[47.36 -> 176.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Model Building",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[47.36 -> 176.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Reasoning Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[47.36 -> 176.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Innovative Abilities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[47.36 -> 176.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Social Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[47.36 -> 176.88]"
+      },
+      {
+        "id": "c8",
+        "label": "Attitude Towards Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[47.36 -> 176.88]"
+      },
+      {
+        "id": "v1",
+        "label": "Car Wash Diagram",
+        "type": "Visual",
+        "original_text": "A technical drawing labeled 'Car Wash'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Slide",
+        "type": "Visual",
+        "original_text": "Slide with 'Car Wash' title and diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Scientific concepts are built upon understanding common sense in life."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Fundamentals of scientific concepts form part of scientific thinking."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Scientific thinking includes model building."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Scientific thinking includes reasoning abilities."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Scientific thinking includes innovative abilities."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Understanding scientific concepts fosters social responsibility."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Understanding scientific concepts helps cultivate the correct attitude towards life."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram on the slide serves as a visual representation of the concept."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The car wash diagram exemplifies scientific concepts in practice."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The slide maintains student engagement in the lesson's topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

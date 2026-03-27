@@ -1,0 +1,139 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Learn to use details of everyday life to reflect a grand mindset; understand Márquez’s method of portraying historical scenes through daily life; develop a habit of observing and recording life’s details.",
+  "transcript": "[685.84 -> 774.18] 好老师等一下好老师那是老师最后想告诉大家的一句话是什么意思呢是什么意思是什么我们平常用日常生活来写作其实是为了体现我们宏大的心境而马尔克斯也恰恰是用这种方法来展示历史的宏阔场面有一句话不知道大家有没有看过这样一个电影流浪地球因为一开始没有人知道这是一场灾难直到这场灾难与每个人息息相关我们在生活中也是这个样子的我们平常不在意的那些细节往往就会影响我们的历史进程和我们的人生状态就像刚刚老师一进来好像就忘了写版书这样就导致我们的框架无法进行推进所以给大家的讲述也只只能局限在纸面上所以大家以后在生活的过程当中也要注意注意细节用日常生活来展现你自己的历史情态好了这节课就上到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard displays handwritten text: \"百年孤独\" and \"马尔克斯\".\n   - The digital screen shows a slide with a quote: \"一开始，没有人注意到这一切——一道远得几乎与个人意识相抵触的光——《洪池池畔》\".\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - \"百年孤独\" (One Hundred Years of Solitude)\n     - \"马尔克斯\" (Gabriel García Márquez)\n   - Digital Screen:\n     - Quote: \"一开始，没有人注意到这一切——一道远得几乎与个人意识相抵触的光——《洪池池畔》\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing at the text \"百年孤独\" and \"马尔克斯\" to emphasize the title and author.\n   - The teacher turns to the digital screen, pointing at the quote to highlight its significance.\n   - The teacher uses hand movements to underline the importance of the text on the screen, possibly tracing along the quote.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided.\n   - The focus remains on the summary content, with no additional slides or board sections visible for next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying the handwritten text \"百年孤独\" and \"马尔克斯,\" alongside a digital screen showing a quote from \"洪池池畔.\" The teacher visually wraps up the lesson by pointing to the blackboard, emphasizing the title and author. She then turns to the screen, gesturing towards the quote to highlight its significance. The teacher uses deliberate hand movements to underline the text on the screen, reinforcing its importance. No additional visual elements indicate homework or next steps, focusing solely on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "One Hundred Years of Solitude",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Gabriel García Márquez",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Detailed Observation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Daily Life Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Grand Mindset",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "c6",
+        "label": "Historical Scenes Portrayal",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "c7",
+        "label": "Riverbank Quote",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[685.84 -> 774.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Text",
+        "type": "Visual",
+        "original_text": "One Hundred Years of Solitude, Gabriel García Márquez",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Screen Quote",
+        "type": "Visual",
+        "original_text": "At first, no one noticed this — a light so distant it almost contradicted personal consciousness — from 'By the Riverbank'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students' Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The blackboard shows the title of the novel."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The blackboard shows the author's name."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The portrayal of historical scenes is exemplified in the novel."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Daily life reflection is part of the grand narrative of the novel."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "A grand mindset is developed through reflection on daily life."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Detailed observation includes key aspects of quoted text."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The screen shows the quote from 'By the Riverbank'."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students are encouraged to think about the importance of detailed observation."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Portraying historical scenes evolves from detailed observations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

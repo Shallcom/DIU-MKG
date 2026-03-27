@@ -1,0 +1,178 @@
+{
+  "video_name": "46_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Able to analyze and compare the situation in which the direction of a charged particle’s motion coincides with the direction of the electric field.",
+  "transcript": "[726.018567 -> 758.5] 在问题中如果提问了这个带电粒子它的速率问题时我们就可以结合静电力做工以及动能定理对问题求得答案那以上都是我们对带电粒子它的方向与电场方向相同时如果它的方向不相同时垂直时又会发生什么样的情况呢请同学们思考一下大家可以看到此时它仍然是在云墙电场中而带电粒子受到云墙电场的作用发生了偏转此时它的运动轨迹也是一条曲线所以我们看到这个曲线是不是很像我们之前学过的平抛运动啊所以我们可以利用平抛运动的规律来解答它的问题那具体它的问题如何研究如何解决我们下堂课再进行探讨本堂课就到这里那同学们都有什么收获呢你能讲讲吗我们学习了。\n[764.12 -> 777.0] 总结得非常好语言也非常的惊艳那课下请同学们登楼班级小管家完成课后作业并对同组的同学进行课堂评价我的课就到这里感谢评委老师批评指正。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard. It contains handwritten notes in Chinese, structured in a list format.\n   - The layout includes a title at the top, followed by bullet points with explanations and diagrams.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main heading on the board is written in Chinese, likely summarizing the lesson topic.\n   - Bullet points include:\n     - \"一带电粒子在电场中加速\"\n     - \"匀强电场中可看作直线运动\"\n     - \"2. 偏转板\"\n   - There is a diagram on the interactive screen showing a particle trajectory with labeled components.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the screen, emphasizing the trajectory and labeled parts.\n   - She gestures towards the bullet points on the chalkboard, likely reviewing each point in sequence.\n   - The teacher uses hand movements to indicate the flow of information from the screen to the board, reinforcing key concepts.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition slides or board sections visible for next steps.",
+  "visual_narrative": "The lesson concludes with a chalkboard summary centered on the topic of charged particles in electric fields. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the key concepts of particle acceleration and motion in uniform fields. She gestures towards the diagram on the screen, reinforcing the trajectory and labeled components. The final emphasis is placed on the bullet points, with deliberate pauses to highlight important details. There is no visible homework or next-step instruction, marking the end of the session with a focus on the core concepts displayed.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Charged Particle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Electric Field",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Particle Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Uniform Electric Field",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Linear Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Deflection Plate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Parabolic Trajectory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Projectile Motion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c9",
+        "label": "Kinetic Energy Theorem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "c10",
+        "label": "Electric Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.018567 -> 758.5]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Chalkboard Notes",
+        "type": "Visual",
+        "original_text": "The chalkboard contains handwritten notes in Chinese, structured in list format, discussing concepts of charged particles in an electric field.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram of Particle Trajectory",
+        "type": "Visual",
+        "original_text": "A diagram showing a particle trajectory with labeled components on the interactive screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Describes how a charged particle interacts with an electric field."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Describes particle acceleration due to electric field interaction."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Extends particle acceleration into a uniform electric field context."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Uniform fields lead to simplified linear motion of particles."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Deflection plates cause particles to follow a parabolic trajectory."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Parabolic trajectory applies principles of projectile motion."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Kinetic energy theorem includes contributions from electric force."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Electric force underpins the acceleration of charged particles."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Chalkboard notes provide a written summary of charged particle concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates the particle's parabolic trajectory."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of particle acceleration."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Chalkboard notes are supported by visual diagrams on the screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,154 @@
+{
+  "video_name": "10_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Cultivate students' independent thinking and problem‑solving abilities; guide students to comprehend the law of reflection of light and how to apply it.",
+  "transcript": "[0.0 -> 216.64] 也就是在教学过程中渗透物理方法其次就是通过在课堂上讲解习题让学生独立思考以培养解决问题的能力那接下来我将以光的反射为例说一说我在课堂中如何培养学生的这些能力首先在课前我根据学生的一个潜概念也就是知道了光的反射但并不知道光的反射的定律我让学生参与一个激光打靶游戏让学生提出为什么他们通过平面镜不能击中靶心的问题从而在课堂中首先让学生构建一个光的反射模型同学们会发现同时各小组构建的一个光的反射模型大致是有差异的也就是在吸管的插入过程中它与反射面不一定垂直这是学生的一个错误认知那接下来我将通过演示实验以及学生的实验探究小组合作的方式在这个过程当中逐步地引导学生观察反射光线和入射光线的一个位置关系以及让学生进一步探究反射角和入射角的大小关系那从这个过程当中学生可以在这个过程当中可以进一步渗透学习方法也就是实验探究的过程让学生形成严谨的科学态度的物理思维那并且在这个学习了光的反射定律之后再回过头来让学生小组讨论设计有关光的反射的一个射击打靶的方案那从这个射击打靶的方案过程当中学生就可以将光的反射知识应用到实际当中以进一步提高学生的知识应用能力从以上过程当中我将这两种方法结合起来运用到课堂当中以进一步有机化地培养学生的思维能力和应用知识解决问题问题的能力以上是我即席讲演的全部内容下面开始我的片段教学在上课之前老师想问一问同学们在我们日常的生活当中物质有哪几种存在的状态呀有气态固态还有液态那在这里老师呢有也带来了一块冰块我们可以看到这个冰块怎么样有点融化了它变成了水那水如果说我们再加温度升高它会怎么样变成水蒸气那反过来如果说这个温度降低水蒸气是不是也可以变成水甚至是变成冰块那也就是说在同种物质不同的状态下这个属于温度的变化它们这几种状态是可以相互转换的那这样一个物态之间相互转换的一个过程我们叫做物态变化。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial visual object is a line graph displayed on the screen. The graph is labeled \"3.2 比较和图表\" (3.2 Comparison and Charts) and shows a rising trend.\n\n#### 2. **The Title Event**\n- The title \"3.2 比较和图表\" is prominently displayed on the screen. The teacher stands in front of the screen, likely emphasizing the title through her positioning and gestures.\n\n#### 3. **The Objectives**\n- The slide transitions to a new layout with the title \"上：条形统计图\" (Bar Chart) and \"生活常识\" (Common Knowledge). The objectives are not explicitly listed as bullet points but are implied through the flowchart showing \"水\" (water) leading to \"水蒸气\" (water vapor).\n\n#### 4. **Key Gestures**\n- The teacher points to the flowchart on the screen, indicating the transformation process from \"水\" to \"水蒸气.\"\n- She uses hand gestures to emphasize the connections between the elements in the flowchart.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying a line graph titled \"3.2 比较和图表.\"\n- She holds papers and gestures towards the graph, likely explaining the concept of comparison and charts.\n\n**Middle:**\n- The screen transitions to a new slide titled \"上：条形统计图\" with a focus on \"生活常识.\"\n- The teacher points to the flowchart showing the transformation from \"水\" to \"水蒸气.\"\n- She uses hand gestures to highlight the process, possibly explaining the concept of evaporation.\n\n**End:**\n- The teacher continues to engage with the flowchart, ensuring students understand the transformation process.\n- Her gestures remain focused on the visual elements, linking the textual content to the diagram.\n\nThis structured approach ensures that the teacher's actions are directly tied to the visual content, enhancing comprehension of the lesson's introduction phase.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying a line graph titled \"3.2 比较和图表,\" serving as the initial visual hook. She holds papers and gestures towards the graph, likely highlighting key trends or data points. The scene transitions smoothly as the slide shifts to a new layout titled \"上：条形统计图\" with a focus on \"生活常识.\" The teacher points to a flowchart illustrating the transformation from \"水\" to \"水蒸气,\" using hand gestures to emphasize the process. This visual transition bridges the concept of charts to real-world applications, grounding the lesson in familiar phenomena like evaporation. By linking the abstract data representation to tangible examples, the teacher effectively connects new knowledge to students' existing experiences, setting a clear foundation for understanding statistical concepts through everyday observations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Comparison and Charts",
+        "type": "Visual",
+        "original_text": "Line graph titled 'Comparison and Charts' showing a rising trend.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Weapon Comparison Slide",
+        "type": "Visual",
+        "original_text": "Slide featuring Bar Chart with 'Common Knowledge'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Transformation Process Flowchart",
+        "type": "Visual",
+        "original_text": "Flowchart showing transformation from 'Water' to 'Water Vapor'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Law of Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 216.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Evaporation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[216.64 -> 360.00]"
+      },
+      {
+        "id": "c3",
+        "label": "Physical Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 216.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Temperature Effects",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 216.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Water States",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[216.64 -> 360.00]"
+      },
+      {
+        "id": "c6",
+        "label": "Light Reflected Model",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 216.64]"
+      },
+      {
+        "id": "c7",
+        "label": "Incidence and Reflection Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 216.64]"
+      },
+      {
+        "id": "ss1",
+        "label": "Construct Light Reflection Models",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 216.64]"
+      },
+      {
+        "id": "ss2",
+        "label": "Design Shooting Plan",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[0.0 -> 216.64]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The law of reflection is applied in constructing light reflection models."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Physical properties include the effects of temperature on water."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The knowledge of temperature effects leads to understanding water states."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The concept of evaporation is linked to the real-world example in the bar chart."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The line graph serves as an introduction to physical properties and comparison methods."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The flowchart illustrates the evaporation process connecting it with scientific knowledge."
+      },
+      {
+        "source": "ss1",
+        "target": "c7",
+        "relation": "engages_with",
+        "intent": "Students engage with constructing light reflection models focusing on incidence and reflection angles."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Understanding water states evolves from basic physical properties."
+      },
+      {
+        "source": "ss2",
+        "target": "c6",
+        "relation": "brainstorms_about",
+        "intent": "Students brainstorm about designing shooting plans using light reflection models."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

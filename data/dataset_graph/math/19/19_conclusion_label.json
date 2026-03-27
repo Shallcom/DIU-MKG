@@ -1,0 +1,160 @@
+{
+  "video_name": "19_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the meaning of the “tough angle” concept and its extension to positive and negative angles; master the representation and calculation methods for positive and negative angles; and begin to apply analogy and the integration of numerical and geometric approaches to analyze angle problems.",
+  "transcript": "[510.7368335 -> 570.54] 第二题有三个角那我们一个一个来说那么阿尔法角的话是一个韧角它的度数是二百一十度贝塔角是一个负角它是负一百五十度好还有一个角也是负角负六百六十度伽马是负六百六十度好请坐本节课我们学习了本节课我们在知识上学习了韧一角的概念我们由书中的紧紧的角度而扩展到了又要考虑旋转方向也要考虑旋转角其次我们用到了类比与竖形结合的数学方法请同学们在课下思考实数有加减乘除等运算那么我们的角是否也可以进行类似的运算呢请同学们在课后思考我们后面再接着学习好下课嗯。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide titled \"总结归纳\" (Summary).\n   - The slide has a simple layout with two main sections:\n     - A note section labeled \"注意：旋转时的顺时针\" (Note: Clockwise rotation).\n     - A key knowledge section labeled \"重要字眼：顺时针，逆时针旋转\" (Important terms: Clockwise, counterclockwise rotation).\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide includes the following key phrases:\n     - \"注意：旋转时的顺时针\" (Note: Clockwise rotation)\n     - \"重要字眼：顺时针，逆时针旋转\" (Important terms: Clockwise, counterclockwise rotation)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"注意：旋转时的顺时针\" section, emphasizing the importance of clockwise rotation.\n   - She then gestures towards the \"重要字眼：顺时针，逆时针旋转\" section, highlighting the key terms.\n   - The teacher uses hand movements to underline the significance of these terms, ensuring students focus on the critical aspects of rotation direction.\n\n4. **Transition to Next Step**:\n   - The next slide titled \"课后思考\" (Post-class Reflection) appears, indicating a transition to further reflection.\n   - The slide contains a question: \"思考：在旋转图形时要注意什么？比如旋转的度数，角度是否可以进行无限制的旋转？\" (Think: What should be noted when rotating figures? For example, the degree of rotation, can the angle be rotated without limit?).\n   - This suggests a prompt for students to consider additional concepts related to rotation, possibly for homework or further study.",
+  "visual_narrative": "The lesson concludes with a slide titled \"总结归纳\" (Summary), centered on the core topic of rotation direction. The teacher visually reviews the content by pointing to the \"注意：旋转时的顺时针\" (Note: Clockwise rotation) section, emphasizing its importance. She then gestures towards the \"重要字眼：顺时针，逆时针旋转\" (Important terms: Clockwise, counterclockwise rotation) section, highlighting these key terms. The visual focus shifts to the next slide titled \"课后思考\" (Post-class Reflection), which prompts students to consider additional concepts related to rotation, signaling the end of the session and transition to further reflection.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Tough Angle Concept",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Positive Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Negative Angle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Clockwise Rotation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Counterclockwise Rotation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Numerical Approach",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Geometric Approach",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c8",
+        "label": "Analogy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c9",
+        "label": "Rotation Degree",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "c10",
+        "label": "Unlimited Rotation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[510.7368335 -> 570.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Summary Slide",
+        "type": "Visual",
+        "original_text": "Summary slide with sections on clockwise and counterclockwise rotation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Post-class Reflection Slide",
+        "type": "Visual",
+        "original_text": "Slide prompting reflection on rotation concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The tough angle concept includes understanding positive angles."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The tough angle concept includes understanding negative angles."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the importance of clockwise rotation using the summary slide."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The teacher emphasizes the importance of counterclockwise rotation using the summary slide."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The numerical approach builds upon the geometric approach to analyze angles."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Analogy evolves from numerical approach to enhance understanding."
+      },
+      {
+        "source": "c9",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The post-class reflection slide summarizes the concept of rotation degree."
+      },
+      {
+        "source": "c10",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The post-class reflection slide summarizes the concept of unlimited rotation."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The post-class reflection slide prompts students to engage in reflection."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

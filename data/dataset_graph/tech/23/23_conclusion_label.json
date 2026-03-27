@@ -1,0 +1,134 @@
+{
+  "video_name": "23_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Master the basic steps for calculating amounts of substance; be able to use the acquired knowledge to solve real‑world liquid hydrogen and liquid oxygen consumption problems.",
+  "transcript": "[698.8 -> 778.68] 很好捏出了比利时之后我们现在是不是发现它从一个化学问题变成了一个数学问题那么现在大家计算一下它最后的结果是多少我看很多同学都已经提前解出了答案了请这位同学说一下你最后的结果是多少很好请坐那么我们最后计算出了结果计算出结果之后在数学的学习当中我们知道计算出的结果还要进行一个完整的回答问题所以通过我们今天的学习我们了解了了解到我们化学方程式利用化学方程式进行简单的计算要经历六个步骤热血飙烈并且计算还有我们要进行砸那么请大家过后呢利用我们今天所学习的这个步骤来完成我们一开始的问题消耗一百千克的液氢需要多少千克的液氧好这节课就上到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen displaying a slide with a tombstone diagram and a question about the amount of $\\text{CO}_2$ produced.\n   - The blackboard contains handwritten notes, including chemical formulas and a periodic table section.\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide: \n     - Diagram of a tombstone.\n     - Question: \"若燃烧100g煤需要多少氧气？\" (How much oxygen is needed to burn 100g of coal?)\n   - Blackboard:\n     - Chemical formulas: $\\text{C}_{10}\\text{H}_n\\text{O}_m$, $\\text{N}_2$, $\\text{CO}_2$, $\\text{Ra}$.\n     - Periodic table elements with atomic numbers and symbols.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the tombstone diagram on the screen, likely explaining the context of the question.\n   - She gestures towards the chemical formulas on the blackboard, possibly summarizing the reactions discussed.\n   - The teacher uses hand movements to emphasize key points, such as the importance of calculating oxygen requirements.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on the summary slide and blackboard content, suggesting a review of the lesson's main concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a tombstone diagram and a question about calculating the amount of oxygen needed to burn 100g of coal. The teacher points to the tombstone diagram, guiding the students' attention to the visual context of the problem. She then gestures towards the chemical formulas on the blackboard, emphasizing the reactions and elements discussed. The teacher uses deliberate hand movements to highlight the importance of the calculations related to $\\text{CO}_2$ production. No explicit homework or next-step instructions are visible, keeping the focus on the core concepts summarized through the slide and blackboard content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Oxygen Requirement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[698.8 -> 778.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Coal Combustion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[698.8 -> 778.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Chemical Formulas",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.8 -> 778.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemical Equations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[698.8 -> 778.68]"
+      },
+      {
+        "id": "c5",
+        "label": "CO2 Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[698.8 -> 778.68]"
+      },
+      {
+        "id": "c6",
+        "label": "Periodic Table Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.8 -> 778.68]"
+      },
+      {
+        "id": "v1",
+        "label": "Tombstone Diagram Slide",
+        "type": "Visual",
+        "original_text": "Slide with a tombstone diagram and a question on oxygen needed for coal combustion.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Chemical Formulas",
+        "type": "Visual",
+        "original_text": "Handwritten chemical formulas including CO2, C10HnOm, N2, Ra.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Periodic Table Section",
+        "type": "Visual",
+        "original_text": "Section of the periodic table visible on the blackboard.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[698.8 -> 778.68]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the principle of oxygen requirements."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Uses coal combustion to demonstrate the principle."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Consolidates chemical facts using formulas."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Utilizes chemical formulas in equation procedures."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "CO2 production includes knowledge of chemical formulas."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Shows elemental information using the periodic table."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to calculate based on the visual slide."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Student response involves coal combustion understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

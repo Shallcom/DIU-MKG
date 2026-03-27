@@ -1,0 +1,133 @@
+{
+  "video_name": "20_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Master the phenomenon that acetic acid is more acidic than carbonic acid and its experimental verification; understand the products of ethanol combustion and the methods for verifying them; learn to design scientific inquiry activities to verify the properties of substances.",
+  "transcript": "[605.2 -> 608.98] 如果这个反应能进行它会有什么样的现象。\n[610.74 -> 693.24] 会有气泡冒出说明有二氧化碳气体产生那说明酸性呢反过来验证酸性乙酸要大于碳酸好那根据我们的实验我们就可以推知诶我根据我们平常做实验我们实验现象就可以得到乙酸的酸性是大于碳酸的在这个反应中它会产生二氧化碳气体好这就是我们今天所探究的问题诶所以很清楚咱们我们今天探究了什么探究了乙醇和乙酸它的气味好它的气味我们应该是山纹是吧这里注意到山纹这是山纹我们做实验的时候好第二个是乙醇燃烧会生成二氧化碳和水我们通过一个实验验证它正确好还有乙酸乙酸它的酸性我们可以了解了它有两种酸性的我们叫方法一种是用偏制剂一种是强酸是弱酸本节课我们是一个实验活动这就是我们化学中的科学探究在这个科学探究过程中大家会了解我们的实验进程式更能深刻地感受到我们之前学过的乙醇和乙酸的性质更能深刻地理解本节课就到这里谢谢大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key chemical concepts and equations.\n   - The layout includes two main sections: \"乙醇\" (Ethanol) and \"乙酸\" (Acetic Acid), each with subpoints and chemical equations.\n\n2. **Key Knowledge Items (Content View)**:\n   - **乙醇 (Ethanol)**:\n     - 1. 消去反应 (Elimination Reaction)\n     - 2. 氧化反应 (Oxidation Reaction)\n     - $\\text{CH}_3\\text{CH}_2\\text{OH} + \\text{O}_2 \\rightarrow \\text{CH}_3\\text{CHO} + \\text{H}_2\\text{O}$\n   - **乙酸 (Acetic Acid)**:\n     - 1. 酯化反应 (Esterification Reaction)\n     - 2. 酸性 (Acidity)\n     - $\\text{CH}_3\\text{COOH} + \\text{Na}_2\\text{CO}_3$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equations on the blackboard, specifically highlighting the reaction of ethanol with oxygen and the reaction of acetic acid with sodium carbonate.\n   - The teacher gestures towards the subpoints under each main topic, emphasizing the types of reactions associated with ethanol and acetic acid.\n   - The teacher uses a red pointer to draw attention to specific parts of the equations and reactions.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with a magnifying glass icon and the text: \"乙酸和碳酸钠的酸性谁强呢？\" (Which is stronger, the acidity of acetic acid or sodium carbonate?).\n   - This suggests a transition to a discussion or experiment related to comparing the acidity of acetic acid and sodium carbonate, possibly as a follow-up activity or homework.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key chemical concepts and reactions related to ethanol and acetic acid. The teacher visually reviews the content by pointing to each section on the board, starting with the elimination and oxidation reactions of ethanol, and then moving to the esterification and acidity of acetic acid. She emphasizes the chemical equations, particularly the reaction of ethanol with oxygen and acetic acid with sodium carbonate, using a red pointer to draw attention to these areas. The teacher's gestures highlight the main reactions, ensuring students focus on the core processes. The screen beside the board poses a question about comparing the acidity of acetic acid and sodium carbonate, suggesting a transition to further exploration or homework. This visual setup effectively consolidates the lesson's key points and hints at the next steps in understanding acid strength.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ethanol Elimination Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[610.74 -> 693.24]"
+      },
+      {
+        "id": "c2",
+        "label": "Ethanol Oxidation Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[610.74 -> 693.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Acetic Acid Esterification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[610.74 -> 693.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Acetic Acid Acidity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[610.74 -> 693.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Carbon Dioxide Bubbles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[605.2 -> 608.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Ethanol Combustion Products",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[610.74 -> 693.24]"
+      },
+      {
+        "id": "c7",
+        "label": "Ethanol Reaction Equation",
+        "type": "Visual",
+        "original_text": "CH3CH2OH + O2 → CH3CHO + H2O",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Acetic Acid Reaction Equation",
+        "type": "Visual",
+        "original_text": "CH3COOH + Na2CO3",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Acidity Comparison Query",
+        "type": "Visual",
+        "original_text": "Which is stronger, the acidity of acetic acid or sodium carbonate?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Displays the chemical equation of ethanol elimination reaction."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Shows products formed from ethanol oxidation."
+      },
+      {
+        "source": "c3",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Displays the reaction equation of acetic acid with sodium carbonate."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Demonstrates the acidity of acetic acid by producing carbon dioxide bubbles."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "scaffolds",
+        "intent": "Supports the transition to the acidity comparison query."
+      },
+      {
+        "source": "c9",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Provokes student engagement with the query."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "Visualizes the reaction of acetic acid and sodium carbonate."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "summarizes",
+        "intent": "Summarizes acetic acid acidity in preparation for comparison."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

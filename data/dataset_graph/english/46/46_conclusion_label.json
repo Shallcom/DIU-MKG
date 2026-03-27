@@ -1,0 +1,137 @@
+{
+  "video_name": "46_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Summarize the structure and functions of virtual choirs; describe the characteristics of virtual choirs and how they participate; analyze the advantages and impact of virtual choirs.",
+  "transcript": "[626.34 -> 648.68] Okay, I see most of you have finished,\n[648.68 -> 651.3] so let's check the answer together,\n[651.3 -> 654.68] okay? Good. So what is the part one?\n[655.04 -> 657.9] Each paragraph belongs to part one. Yes,\n[657.9 -> 661.66] of course, paragraph one. Then what is the meaning of part one?\n[662.2 -> 664.36] What is virtual choir? Yes,\n[664.36 -> 668.26] it's what. It's what. Yes. What is virtual choir?\n[668.32 -> 671.94] I'm sorry. That's just a little bit mistake. Then what about part two?\n[673.12 -> 675.56] Paragraph two. Yes, part two,\n[675.56 -> 678.06] two, three. So what is it about?\n[678.88 -> 685.56] How did the virtual choir create. Then what about part three?\n[687.4 -> 729.54] Yes of course it's a paragraph four then it tells us influence the virtual choir. Okay boys and girls you got all the answers sorry this slide has done something wrong but all of you have done a wonderful job and after we have a general understanding of the text let's move to details. Now let's read part one and answer the questions below. First is how is the virtual choir different from the other choir and who can take part in it and what are the advantages of the virtual choir,\n[729.54 -> 733.18] clear? So let's do this one minute for you.。\n[760.78 -> 785.56] you can underline the answer it's between the lines okay okay maybe we'll solve this problem next time and thanks for your cooperation and attention see See ya.。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which prominently displays the title \"The Virtual Choir\" with a musical note symbol. \n   - The blackboard also includes the words \"what\" and \"how\" written above the title, indicating key discussion points.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: \"The Virtual Choir\"\n   - Keywords: \"what\", \"how\"\n   - The interactive whiteboard displays a slide titled \"Careful reading\" with the following points:\n     - \"1.1 How is a virtual choir different from other choirs?\"\n     - \"1.2 Who can take part in it?\"\n     - \"1.3 What are the advantages?\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, specifically pointing to the words \"what\" and \"how\" to emphasize the key questions discussed.\n   - The teacher also gestures towards the interactive whiteboard, likely reviewing the questions listed under \"Careful reading.\"\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying the title \"The Virtual Choir\" alongside a musical note symbol, with the words \"what\" and \"how\" positioned above it. The interactive whiteboard shows a slide titled \"Careful reading,\" listing three key questions: \"1.1 How is a virtual choir different from other choirs?\", \"1.2 Who can take part in it?\", and \"1.3 What are the advantages?\" The teacher visually wraps up the lesson by gesturing towards the blackboard, pointing to the words \"what\" and \"how\" to reinforce the main discussion points. She also directs attention to the questions on the whiteboard, likely reviewing each in sequence. No additional visual elements indicate homework or next steps, focusing solely on consolidating the lesson's core concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Virtual Choir",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[626.34 -> 733.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Difference from Other Choirs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.88 -> 685.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Participation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[729.54 -> 733.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Advantages of Virtual Choir",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.88 -> 685.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Blackboard: The Virtual Choir",
+        "type": "Visual",
+        "original_text": "The blackboard displays 'The Virtual Choir' with 'what' and 'how' above it.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Interactive Whiteboard: Careful Reading",
+        "type": "Visual",
+        "original_text": "Whiteboard shows 'Careful reading' with questions about virtual choirs.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Teacher Emphasizing 'What' and 'How'",
+        "type": "Visual",
+        "original_text": "Teacher gestures to 'what' and 'how' on the blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Most Students Finished",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Answering Questions",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes the main topic 'The Virtual Choir'."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes discussion points on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Interactive whiteboard questions illustrate the differences from other choirs."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Questions on the whiteboard clarify participation."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Advantage questions on the whiteboard highlight virtual choir benefits."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The concept of virtual choir includes its differences from other choirs."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The concept of virtual choir includes participation aspects."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The concept of virtual choir includes its advantages."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Answering questions builds upon the students' engagement."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's emphasis prompts students to think about key questions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

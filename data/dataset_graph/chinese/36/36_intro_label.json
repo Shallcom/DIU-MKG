@@ -1,0 +1,139 @@
+{
+  "video_name": "36_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "- Understand key points through text analysis and develop students’ core Chinese language competencies;  \n- Explore the relationship between interdisciplinary content and the discipline‑oriented nature of Chinese language;  \n- Reflect on teaching methods to enhance the professionalism of Chinese language classes.",
+  "transcript": "[0.0 -> 68.84] 抓住了文本的重点分析因为对于马克思的伟大贡献的讲述可以帮助学生理解恩格斯写作的背景或帮助学生走进马克思但是我认为老师这样教授这篇文本一定程度上丢失了语文的学科本位当今我们虽然提倡跨学科教学但是语文课堂的中心应该还在语文上讲授马克思的背景马克思的知识与政治内容虽有相关但如果大量讲授就丢失了语文课堂的语文性和语文味。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features an image of a traditional Chinese landscape with a pagoda and trees, accompanied by the text \"《望岳》\" and the phrase \"会当凌绝顶，一览众山小\".\n\n#### 2. **The Title Event**\n- The title on the screen is \"《望岳》\" with the phrase \"会当凌绝顶，一览众山小\" beneath it. The teacher does not physically write this; it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands, likely emphasizing points related to the content on the screen. She occasionally points towards the screen, directing attention to the displayed text and image.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen indicating the 10th National Contest of Teaching Skills for Teacher College Students, with a focus on Chinese Language and Literature.\n- Transition to the classroom where the teacher stands in front of a digital screen displaying the hook object: a traditional Chinese landscape with the title \"《望岳》\" and the phrase \"会当凌绝顶，一览众山小\".\n\n**Middle:**\n- The teacher holds papers and gestures with her hands, likely explaining the content related to the displayed slide.\n- She points towards the screen, emphasizing the text and image, possibly discussing the poem or its significance.\n\n**End:**\n- The teacher continues to engage with the students, maintaining focus on the content displayed on the screen. No additional visual elements or changes occur on the board or screen during this segment.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a digital screen displaying a traditional Chinese landscape featuring a pagoda and trees, accompanied by the text \"《望岳》\" and the phrase \"会当凌绝顶，一览众山小\". This visual serves as the hook, immediately immersing students in the cultural and historical context of the lesson. The teacher, holding papers, gestures expressively, likely drawing connections between the visual elements and the lesson's content. She points towards the screen, emphasizing the significance of the displayed text and image. The transition from the hook to the main topic is seamless, as the teacher uses the landscape image to introduce the poem, linking it to broader themes of Chinese literature. This approach helps students connect the visual and textual elements, grounding the new knowledge in familiar cultural imagery and preparing them for deeper exploration of the poem's themes and historical context.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Key Points Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 68.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Marx's Contributions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 68.84]"
+      },
+      {
+        "id": "c3",
+        "label": "Engels' Writing Background",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 68.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Cross-Disciplinary Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Chinese Language Focus",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 68.84]"
+      },
+      {
+        "id": "c6",
+        "label": "Visual Introduction Hook",
+        "type": "Visual",
+        "original_text": "Traditional Chinese landscape with '《望岳》' and '会当凌绝顶，一览众山小'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c7",
+        "label": "Gesturing to Slide",
+        "type": "Visual",
+        "original_text": "Teacher gestures to emphasize the slide content.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "Lingering on Visuals",
+        "type": "Visual",
+        "original_text": "Teacher maintains focus on the screen content.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Cultural and Historical Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 68.84]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Key Points Analysis includes analyzing Marx's Contributions."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Key Points Analysis includes understanding Engels' Writing Background."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Key Points Analysis evolves from Cross-Disciplinary Teaching."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Cross-Disciplinary Teaching builds upon the principle of maintaining Chinese Language Focus."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The Visual Introduction Hook visualizes key elements of the lesson."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Gesturing to Slide emphasizes the analysis conducted in the lesson."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Maintaining a Chinese Language Focus builds upon cross-disciplinary vitalities."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Lingering on Visuals visualizes the Cultural and Historical Context."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's engagement with visuals prompts student thinking through a cultural hook."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

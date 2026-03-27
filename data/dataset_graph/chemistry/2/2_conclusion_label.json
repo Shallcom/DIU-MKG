@@ -1,0 +1,152 @@
+{
+  "video_name": "2_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the solubility product constant (Ksp) and its influencing factors; master the use of the Q‑vs‑Ksp relationship for judging precipitation.",
+  "transcript": "[643.74 -> 741.52] 那我们在学习水灵平衡的时候它的它的容度它的平衡常数是受什么影响只受温度的影响是不是其他影响是不能够影响它的我们就以氯化银和我们以氯化银为例它的它的计算方式就是以容就是以银银离子的溶液和绿离子的溶液相乘就生成了KSP这个时候它的KB就等于A的容颜乘以B的那么溶液中蓝溶电解质的沉变和长龙情况就是根据Q和KSP的变化情况如果Q大于KHB那说明有沉淀的溪出如果是相等的话说明这两者处于平衡状态如果是小于则溶液中没有沉淀溪出好那么同学们已经下课了请同学们带着接下来的疑问带着这两个沉淀平衡的疑问我们就来进行下一步的课程学习那么今天课程就到这里同学们下课谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key formulas and points related to the lesson on precipitation-dissolution equilibrium.\n   - The blackboard layout includes:\n     - A title at the top: \"沉淀溶解平衡\" (Precipitation-Dissolution Equilibrium).\n     - Three main points listed:\n       1. $K_{sp} = c(M^{n+}) \\cdot c(\\text{A}^{m-})$\n       2. $\\text{Ag}_2\\text{CrO}_4(s) \\rightleftharpoons 2\\text{Ag}^+ + \\text{CrO}_4^{2-}$\n       3. $\\text{AgI}_{(s)} \\rightleftharpoons \\text{Ag}^+ + \\text{I}^-$\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and formulas:\n     - $K_{sp}$ (Solubility Product Constant)\n     - $\\text{Ag}_2\\text{CrO}_4$ (Silver Chromate)\n     - $\\text{AgI}$ (Silver Iodide)\n     - Equilibrium expressions for dissolution reactions.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the first formula, $K_{sp} = c(M^{n+}) \\cdot c(\\text{A}^{m-})$, likely emphasizing its importance in understanding solubility products.\n   - The teacher writes the third point, $\\text{AgI}_{(s)} \\rightleftharpoons \\text{Ag}^+ + \\text{I}^-$, on the blackboard, indicating a focus on the dissolution of silver iodide.\n   - The teacher gestures towards the screen, possibly summarizing the content displayed there, which includes additional text and equations related to the topic.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary of key points on the blackboard and screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying three key points summarizing the lesson on precipitation-dissolution equilibrium. The teacher begins by pointing to the first formula, $K_{sp} = c(M^{n+}) \\cdot c(\\text{A}^{m-})$, emphasizing its foundational role in the topic. Moving to the second point, $\\text{Ag}_2\\text{CrO}_4(s) \\rightleftharpoons 2\\text{Ag}^+ + \\text{CrO}_4^{2-}$, the teacher likely highlights the equilibrium dynamics of silver chromate. Finally, the teacher writes and points to the third point, $\\text{AgI}_{(s)} \\rightleftharpoons \\text{Ag}^+ + \\text{I}^-$, underscoring the dissolution process of silver iodide. Throughout, the teacher gestures towards the screen, reinforcing the content displayed there. No explicit visual cues for homework or next steps are present, focusing solely on the core concepts summarized on the board.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Solubility Product Constant (Ksp)",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Temperature Influence on Ksp",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Precipitation Judgment (Q vs. Ksp)",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Silver Chromate (Ag2CrO4)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Silver Iodide (AgI)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Equilibrium Expression",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Dissolution of Ag2CrO4",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Dissolution of AgI",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "c9",
+        "label": "Equilibrium Dynamics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[643.74 -> 741.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard with Key Formulas",
+        "type": "Visual",
+        "original_text": "Blackboard showing key formulas on precipitation-dissolution equilibrium.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Contemplation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The understanding of Ksp builds upon the principle of temperature influence."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Ksp is foundational for the procedure of using Q vs. Ksp to judge precipitation."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Silver Chromate is used as an example for its dissolution process."
+      },
+      {
+        "source": "c5",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Silver Iodide is used as an example for its dissolution process."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "The dissolution of Ag2CrO4 is described by its equilibrium expression."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "The dissolution of AgI is described by its equilibrium expression."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "The dissolution of Ag2CrO4 evolves the concept of equilibrium dynamics."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "The dissolution of AgI evolves the concept of equilibrium dynamics."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes the importance of the Ksp formula on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The procedure of judging precipitation prompts student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

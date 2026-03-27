@@ -1,0 +1,146 @@
+{
+  "video_name": "30_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Understand the impact of donor shortage on organ transplantation success rates; master the mechanism of HLA’s role in immune recognition.",
+  "transcript": "[600.02 -> 681.96] 是不是在资料当中我们可以很清晰地看到需要供体的人特别多但是供体特别少呀我们的器官是短缺的那么其实器官移植的这种失败呢不仅有我们的免疫排斥反应还有供体的短缺性器官的短缺和移植的失败呀让人们就把希望寄托到可以利用干细胞来培养我们的组织和器官同时呢也寄希望于唤醒人们心灵深处的爱心让更多的人啊加入到自愿捐赠器官当中来同学们你们看移植器官多难所以是不是我们的生命是非常重要的大家一定要珍爱生命注重自己的生活方式健康生活接下来我们对本节课的内容进行一下课堂小结首先我们是不是学习了免疫系统它是如何识别自己和异己的呀是因为每个人身上有不同的什么对HLA也叫对我们说正常的细胞它的表面上是有特定的组织线路性抗原的对于人体来说我们那个本质就叫做组织线路性抗原而对于病毒来说它叫做抗原解定素好我的内容就讲到这里同学们我们下节课再见",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a structured layout with a heading, a diagram, and a block of text.\n   - The slide includes a diagram with a horizontal bar and labeled sections, alongside a paragraph of text and a list of bullet points.\n\n2. **Key Knowledge Items (Content View)**:\n   - The heading on the slide is in Chinese, likely summarizing the lesson topic.\n   - The diagram includes a horizontal bar with labeled sections, possibly indicating a process or stages.\n   - Bullet points list key items or steps, though specific text is not fully legible.\n   - The blackboard contains a diagram with arrows and symbols, including a triangle and circles, with Chinese text above.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagram on the slide, emphasizing the horizontal bar and its labeled sections.\n   - She gestures towards the bullet points, likely reviewing each item in sequence.\n   - The teacher occasionally turns to the blackboard, pointing at the diagram with arrows, reinforcing the connection between the slide content and the blackboard summary.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on reviewing the current slide and blackboard content, with no transition slides visible.\n\nThis structured visual summary consolidates the lesson's key points through both digital and traditional board elements, with the teacher's gestures reinforcing the connections between them.",
+  "visual_narrative": "The lesson concludes with a slide featuring a diagram and bullet points summarizing the key concepts. The teacher visually reviews the content by pointing to each section of the diagram and the bullet points in sequence, emphasizing the horizontal bar and its labels. She occasionally turns to the blackboard, reinforcing the connection between the slide and the diagram with arrows. The visual focus remains on the summary elements, with no explicit homework or next-step instructions visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Donor Shortage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Organ Transplantation Success",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Immune Rejection",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "c4",
+        "label": "HLA Immune Recognition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Stem Cell Utilization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "c6",
+        "label": "Organ Donation Volunteering",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "c7",
+        "label": "Health Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.02 -> 681.96]"
+      },
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "The slide contains a diagram with labeled sections and bullet points summarizing key lesson concepts.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with arrows and symbols, including triangles and circles, used to reinforce slide content.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Conclusion Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses gestures to emphasize diagram parts and bullet points on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Discusses the impact of donor shortage on organ transplantation success rates."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains how HLA plays a role in immune rejection scenarios during transplantation."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Proposes stem cell cultivation as a solution to donor shortage."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "addresses",
+        "intent": "Encourages organ donation to address donor shortage."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "promotes",
+        "intent": "Highlights health importance to foster organ donation volunteering."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Visual slide summarizes key lesson concepts including donor shortage."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Blackboard diagram visually represents HLA immune recognition."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Teacher’s gestures emphasize the important points on the conclusion slide."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "engaged_with",
+        "intent": "Students are engaged with the teacher's explanation on HLA."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

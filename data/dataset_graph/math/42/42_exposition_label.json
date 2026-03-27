@@ -1,0 +1,120 @@
+{
+  "video_name": "42_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the methods for constructing the sample space in a random experiment; master how to establish the correspondence between random events and real numbers; be able to represent probability problems of random events using the variable X.",
+  "transcript": "[173.3 -> 315.68] 我们可以看到其中大象的体积很大和老鼠的体积也很大这样的个体呢它是骨生的它是骨的大是在群层的群层跟群层的讨论群层这样的生物性的成组织是要到手这种是很大的差异好在求随机事件的概率时我们往往需要为随机事件建立样本空间并且会涉及样本点和随机事件的表示问题类似函数在数集与数集之间建立对应关系我们在讲随机试验的样本空间与实数集之间建立的某种关系将不仅可以为一些随机事件的表示带来方便而且能够更好地利用数学工具研究随机试验那么随机试验的样本点与数值有关系时我们可以直接与实数建立对应关系就比如说你在织一枚骰子时我们可以用实数M的MM等于一二三四五六表示指出的点数为M那么我们有有关系的情况同样的也会存在样本点与数值没有直接关系的情况在生活中我们就有很多检验次品的时候随机抽取一件产品有抽到次品和抽到正品两种可能性它们与数值没有关系如果说我们抽到次品用数字一来表示抽到正品用零来表示那么我们可以给出定义X一就是抽到次品的情况零就是抽到正品的情况。\n[317.44 -> 347.56] 对于任何一个随机事件总可以把它的样本点与一个时数实数相对应即通过引入一个取值依赖于样本点的变量X来刻画样本点与实数的对应关系实现样本点的数量化因此在随机试验中样本点的出现具有随机性变量X的取值也是具有随机性的。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher writes \"7.2 高校型随机变量及其分布列\" on the blackboard, establishing the topic of the lecture.\n- The screen displays a title slide with the same topic, reinforcing the subject matter.\n- The teacher gestures towards the screen, indicating the start of the presentation.\n\n**Middle:**\n- The teacher points to the first bullet point on the screen, which discusses the concept of random variables and their probability distributions.\n- The teacher uses hand gestures to emphasize key phrases in the text, such as \"随机变量\" (random variable) and \"概率分布\" (probability distribution).\n- The teacher writes additional notes on the blackboard, likely expanding on the concepts presented on the screen.\n\n**End:**\n- The teacher continues to reference the screen, pointing to specific sections of the text as they explain.\n- The teacher summarizes the main points, using the blackboard and screen content to reinforce the lecture.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the screen displaying the lecture content, which includes text about random variables and their distributions.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the lecture title on the blackboard and possibly additional notes related to the screen content.\n- **Modifications**: The teacher may erase parts of the blackboard to make space for new information or to highlight specific points.\n- **Deictic Gestures**: The teacher points to specific terms and concepts on the screen, such as \"随机变量\" and \"概率分布,\" while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key concepts on the screen.\n- Important terms and phrases are likely highlighted through repetition and pointing, ensuring students focus on critical information.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"7.2 高校型随机变量及其分布列,\" setting the stage for the lecture on random variables and their distributions. The screen presented a detailed introduction to the topic, with key concepts outlined in text. The teacher began by writing the lecture title on the blackboard, aligning it with the screen content to establish a visual anchor for the students.\n\nAs the lecture progressed, the teacher constructed the foundational concepts by pointing to specific terms on the screen, such as \"随机变量\" and \"概率分布.\" These gestures directed attention to the core ideas, ensuring students focused on the definitions and properties of random variables. The teacher annotated the blackboard with additional notes, likely expanding on the screen content to provide deeper insights and examples.\n\nThroughout the session, the teacher resolved deixis by tracing key phrases and concepts, such as \"概率分布,\" to illustrate their significance in the context of random variables. This methodical approach helped in breaking down complex ideas into manageable parts, reducing cognitive load by visually segmenting the information.\n\nFinally, the teacher summarized the main points, using both the blackboard and screen to reinforce the lecture. Important terms were emphasized through repetition and pointing, ensuring students retained the critical aspects of the topic. The visual strategies employed, such as highlighting key terms and structuring the content on both the board and screen, worked synergistically to enhance understanding and retention, effectively delivering the knowledge on random variables and their distributions.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sample Space",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.3 -> 315.68]"
+      },
+      {
+        "id": "c2",
+        "label": "Random Event",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.3 -> 315.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Random Variable",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.3 -> 347.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Probability Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.3 -> 347.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Variable X",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[317.44 -> 347.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Lecture Title Slide",
+        "type": "Visual",
+        "original_text": "High School Type Random Variables and Their Distributions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "First Bullet Point Slide",
+        "type": "Visual",
+        "original_text": "Concept of random variables and probability distributions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Expanded concepts on random variables",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Focusing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Definition of sample space includes random events."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The probability distribution is a representation of the random variable."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Variable X is used to express random variables in mathematical terms."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The lecture title slide visualizes the topic being discussed on the first bullet point."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Blackboard notes scaffold detailed explanation of random variables."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Screen emphasizes the importance of understanding probability distributions."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "Students focus on understanding random events as part of sample space."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

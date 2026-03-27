@@ -1,0 +1,110 @@
+{
+  "video_name": "44_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "- Cultivate students’ ability to understand and discern cultural viewpoints.  \n- Develop students’ awareness of traditional Chinese cultural knowledge.  \n- Enhance students’ language expression skills in English learning.",
+  "transcript": "[0.0 -> 155.48] 我会把我的言论分为三部分首先我们应该正确学生的文化观点首先我们应该发展学生的正确文化观点因为学生们需要有正确的文化观点是非常重要的如果学生们有错误的文化观点他们可能做错了生命的选择第二我们可以发展学生的文化知识通过教育我们都知道英语教育目标有语言能力文化知识思想能力和学习能力所以我们可以发展学生的文化知识通过教育我当时是高中生我的英语教授经常教我们发展我们的文化知识通过教育当她教我们的节日她会给我们介绍很多中国的节日这样我们可以增加国家信心能够相信中国文化最后我们可以发展学生的文化知识我们可以进行课堂聚会和分享学生的故事和分享给学生的视频来发展学生的文化知识所以这就完结了谢谢您的热情你准备好了吗是的让我们开始吧今天我们继续学习一项课题吧这次我们学习读和写字的部分好吗。\n[156.58 -> 164.94] 你还记得吗你还记得这个图片吗。\n[173.0 -> 237.44] 这边这边今天我们要认识读书的写字部分。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of mooncakes and lanterns, which is part of the slide titled \"Unit 1 My Amazing Nadam Experience Reading for Writing.\"\n\n#### 2. **The Title Event**\n- **Title**: \"Unit 1 My Amazing Nadam Experience Reading for Writing\"\n- **Teacher's Action**: The title is displayed on the screen. The teacher gestures towards the title, emphasizing its importance.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly listed as bullet points in the visible frames.\n\n#### 4. **Key Gestures**\n- **Gestures**: \n  - The teacher points to the title on the screen.\n  - The teacher gestures towards the images of mooncakes and lanterns.\n  - The teacher moves to the next slide titled \"Activity 1 Lead-in\" and points to the images of festival activities.\n\n### Structured Chronological Log\n\n#### Beginning\n- **Visual Content**: The screen displays \"Unit 1 My Amazing Nadam Experience Reading for Writing\" with an image of mooncakes and lanterns.\n- **Teacher Actions**: \n  - The teacher stands in front of the screen, holding papers.\n  - She gestures towards the title, emphasizing the unit's theme.\n  - She points to the image of mooncakes and lanterns, likely connecting it to the lesson's cultural context.\n\n#### Middle\n- **Visual Content**: The screen transitions to \"Activity 1 Lead-in\" with images of festival activities.\n- **Teacher Actions**:\n  - The teacher moves closer to the screen, pointing to the images of festival activities.\n  - She gestures towards the text \"Do you celebrate?\" and \"What do you do during a festival?\" indicating a discussion prompt.\n\n#### End\n- **Visual Content**: The teacher interacts with a student who stands up, possibly to answer a question or participate in the activity.\n- **Teacher Actions**:\n  - The teacher engages with the student, likely facilitating a discussion or activity related to the festival images on the screen.\n\n### Summary\nThe lesson introduction begins with a cultural hook using images of mooncakes and lanterns, setting the theme for \"Unit 1 My Amazing Nadam Experience Reading for Writing.\" The teacher emphasizes the title and images, transitioning to an activity slide with festival images. She engages students by pointing to discussion prompts, fostering interaction and participation.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a screen displaying an image of mooncakes and lanterns, setting a cultural hook for the lesson. She gestures towards this visual, emphasizing its relevance to the unit's theme. The slide transitions to \"Unit 1 My Amazing Nadam Experience Reading for Writing,\" with the teacher pointing to the title to highlight the lesson's focus. As the scene progresses, the slide shifts to \"Activity 1 Lead-in,\" featuring images of festival activities. The teacher actively engages with these visuals, pointing to the images and discussion prompts like \"Do you celebrate?\" and \"What do you do during a festival?\" This transition smoothly bridges the hook to the main topic, encouraging students to connect their personal experiences with cultural celebrations to the lesson content. By prompting interaction, the teacher facilitates a link between familiar festival activities and the new knowledge, preparing students for deeper exploration of the theme.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cultural Viewpoints",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Cultural Knowledge",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "c3",
+        "label": "Language Expression Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "c4",
+        "label": "Festival Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[156.58 -> 237.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Student Cultural Stories",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "v1",
+        "label": "Mooncakes and Lanterns Image",
+        "type": "Visual",
+        "original_text": "Mooncakes and lanterns on slide titled 'Unit 1 My Amazing Nadam Experience Reading for Writing'",
+        "ocr_corrected": true,
+        "timestamp": "[0.0 -> 155.48]"
+      },
+      {
+        "id": "v2",
+        "label": "Activity 1 Lead-in",
+        "type": "Visual",
+        "original_text": "Lead-in slide with images of festival activities",
+        "ocr_corrected": true,
+        "timestamp": "[156.58 -> 237.44]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[173.0 -> 237.44]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Building cultural knowledge from cultural viewpoints."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Emphasizing the cultural aspect using visual images of mooncakes and lanterns."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Transition from cultural hook to activity lead-in."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes festival activities to relate to cultural celebrations."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encouraging students to express themselves through participation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Building student cultural stories from understanding festival activities."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,151 @@
+{
+  "video_name": "10_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand how to calculate the surface area of a regular tetrahedron; master the derivation and application of volume formulas for polyhedra.",
+  "transcript": "[511.7112 -> 582.7] 请同学们看一看如图给你了一个四面体以致它的棱长均为A请你计算它的表面体请同学们拿出草稿纸尝试计算哎我看到大家都有了思路现在告诉我你的思路是什么呢哎请你刚才讲的概念是多面体的表面积析维持它所有面积之所所以这个四面体的表面积析是由四个等边三角形构成的所以我认为只要取出来其中一个面的一个等边三角形的面积就乘以四就可以是它的表面积了哦你说我求得一个面三角形的面积乘以四就得到了这个的表面积那我怎么计算一个三角形的面积啊请你继续因为这个题中给出这个四面体的各棱长均为A然后我将用到求三角形的面积公式它一个等边三角形的面积我求出来为四分之根号三的A方然后最终再乘以四这个四面体的表面积就为根号三A的平方非常好请坐大家答案和他一样吗都一样说明大家计算能力非常强那么对于这样一个多面体它每一个棱长都是A这样的多面体也就是四面体我们叫它正四面体。\n[583.98 -> 600.68] 那么我们知道了棱柱棱椎棱台的表面积我们是不是可以进一步求它的体积了呢一起来看一看我们先来看一看棱柱的体积这个棱柱的体积我们学过哪一种特殊的多面体呀。\n[601.8 -> 604.86] 我们还从刚才的正方体长方体入手怎么样。\n[606.14 -> 611.1] 长方体和正方体的体积共识是什么你还记得吗第二排女生。\n[612.8 -> 680.52] 长方体的体积的话是体面积成以高哦体面积成以高那如果我假设它的长是A宽是B高是C呢它的体积是什么对于ABC很好请坐捅捉正方体的体积如果假设正方体的边长是A的话那就应该是A的三次方A的三次方请坐所以正方体体积是A的三次方长方体体积是ABC那么如果我这样理解A的三次方我把它写成A的平方乘A长方体的体积ABC我把它写成AB乘C这个里面是不是有一些特殊的关系呢这个关系留给大家可后思考那么接下来我们还要研究远住远追远抬的体积以及球的体积那么愉快的一节课很快就结束了我们说会学习的人一定是会总结的人我们来看一看本节课目标你都达成了吗请大家核对。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard displays the topic \"简单几何体的表面积和体积\" (Surface Area and Volume of Simple Geometric Solids) with a diagram showing the transition from a \"特珠\" (Special) to a \"一般\" (General) case, specifically focusing on \"正方体长6分米\" (Cube with 6 decimeters).\n   - The digital screen shows a slide titled \"探究棱柱、棱锥、棱台的表面积和体积计算方法\" (Exploring the Calculation Methods for Surface Area and Volume of Prisms, Pyramids, and Frustums) with a section labeled \"活动二：棱柱、棱锥、棱台的体积\" (Activity Two: Volume of Prisms, Pyramids, and Frustums).\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - \"简单几何体的表面积和体积\" (Surface Area and Volume of Simple Geometric Solids)\n     - Diagram showing transition from special to general cases.\n     - \"正方体长6分米\" (Cube with 6 decimeters)\n   - Digital Screen:\n     - \"棱柱\" (Prism)\n     - Volume formulas: \n       - $V_{\\text{正方体}} = a^3$ (Volume of a Cube)\n       - $V_{\\text{长方体}} = a \\times b \\times c$ (Volume of a Rectangular Prism)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, emphasizing the transition diagram and the cube dimensions.\n   - The teacher points to the digital screen, highlighting the volume formulas for the cube and rectangular prism.\n   - The teacher uses hand movements to underline the key formulas on the screen, ensuring students focus on $a^3$ and $a \\times b \\times c$.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The screen and blackboard focus on summarizing the current lesson content without transitioning to future tasks.",
+  "visual_narrative": "The lesson concludes with a dual summary on both the blackboard and digital screen, centered on the core topic of surface area and volume of simple geometric solids. The teacher visually reviews the content by pointing to the transition diagram on the blackboard, emphasizing the special to general case, and highlighting the cube dimensions. On the digital screen, the teacher gestures towards the volume formulas, pausing to underline $a^3$ and $a \\times b \\times c$, reinforcing their importance. The visual focus remains on these key formulas, marking the core takeaway of the session. No visual handover to homework or next steps is present, keeping the emphasis on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Surface Area of Tetrahedron",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[511.7112 -> 582.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Equilateral Triangle Area",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[511.7112 -> 582.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Volume of Cube",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[601.8 -> 611.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Cube Edge Length",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[601.8 -> 611.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Rectangular Prism Volume",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[612.8 -> 680.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Prism Volume",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[583.98 -> 600.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Surface Area Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[511.7112 -> 582.7]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing transition from special to general cases.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Volume Formulas Slide",
+        "type": "Visual",
+        "original_text": "Slide with formulas for cube and rectangular prism volumes.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Conceptual Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Answering Teacher",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Calculating surface area involves understanding the component triangles."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding cube volume helps in generalizing to rectangular prism volume."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Cube volume calculation requires knowing edge length."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "General formula for prism volume includes the rectangular prism as a special case."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The principle of surface area is applied to calculate tetrahedron surface area."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates the transition to general surface area calculations."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Slide provides a visual reference for cube volume formula."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Student is actively using the concept of triangle area in their answer."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "engages_with",
+        "intent": "Students demonstrate understanding through engagement with the volume concept."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher uses the slide to stress the importance of formulas."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

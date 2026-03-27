@@ -1,0 +1,157 @@
+{
+  "video_name": "45_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master using the definition of the derivative to obtain the derivatives of basic elementary functions; understand the practical meaning of derivatives and their applications; develop the ability to solve mathematical problems.",
+  "transcript": "[207.0 -> 241.04] 这位同学请你来回答一下就是用对是不是通过导数的定义啊对很好请坐也就是我们可以通过导数的定义来求出基本初等函数的导数那么下面我们知道了根据导数的定义求函数Y等于FX导数就是这位同学所说的求出ZX趋于零时ZY比上ZX无间无限趋近于的那个定制下面就让我们一起来求一下几个常用函数的倒数吧首先来看一求解函数Y等于FX等于C的倒数同学们先思考一下。\n[257.02 -> 327.0] 哪个同学有了解题思路好这位同学你来回答一下呃根据导数的定义来做嗯呃德塔外比等于F加分来减比上一个所以呃分总以它的导数作用好说得很好请坐加同学都听明白了吗很好也就是因为德塔Y比上德塔X等于这位同学所说的德塔X分之FX加上德塔X括号减去FX因为在这里面Y等于FX等于C它的分子就变成了C减C等于零所以我们就知道它的倒数就是零那么联系实际的应用我们就可以发现若Y等于C表示路程关于时间的函数则Y片等于零就可以解释为某物体的顺时速度始终为零也就是一直处于静止的状态现在我们已经学习了函数Y等于FX等于C的倒数下面我们就来学习另一种Y等于FX等于X倒数该怎么进行预算呢同学们再次思考一下。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the formula on the blackboard: $y = \\ln x$ (C ≠ 0 的导数). This was the central visual artifact around which the discussion revolved.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As the teacher engaged with students, she pointed directly to the formula $y = \\ln x$ on the blackboard, emphasizing the key elements of the equation. \n- She also used the interactive screen to display the derivative formula $\\frac{d}{dx}(\\ln x) = \\frac{1}{x}$, providing a visual reference for students to connect their thoughts with the correct mathematical representation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually validated correct student responses by nodding and maintaining eye contact, reinforcing their understanding.\n- She elaborated on explanations by writing additional notes on the blackboard, such as underlining the constant $C$ in the formula to highlight its significance.\n- For any misconceptions, she drew a small diagram on the blackboard, illustrating the behavior of the natural logarithm function and its derivative, thus providing a visual correction and clarification.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher starts with a sweeping gesture towards the class, signaling the start of interaction.\n  - The blackboard displays $5.21 基本初等函数的导数$ and $y = \\ln x$ (C ≠ 0 的导数).\n\n- **Middle:**\n  - The teacher points to $y = \\ln x$ on the blackboard, focusing students' attention on the formula.\n  - The interactive screen shows $\\frac{d}{dx}(\\ln x) = \\frac{1}{x}$, providing a visual reference.\n  - She writes additional notes, underlining $C$ to emphasize its role in the derivative.\n\n- **End:**\n  - The teacher nods and maintains eye contact to confirm correct student responses.\n  - She draws a diagram illustrating the natural logarithm function and its derivative, offering visual clarification for any errors.\n\nThis structured visual strategy ensures that the teacher effectively guides the co-construction of knowledge, using both the blackboard and interactive screen to support student understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the formula $y = \\ln x$ (C ≠ 0 的导数), setting the stage for the lesson on derivatives. The teacher began by making a sweeping gesture across the classroom, inviting all students to engage with the problem displayed. This broad gesture signaled the start of an interactive session, encouraging active participation.\n\nAs the discussion progressed, the teacher moved to the blackboard, pointing directly at the formula $y = \\ln x$. While a student explained their reasoning, the teacher walked over to the interactive screen, jotting down key terms and steps of the derivative process. She highlighted the transformation from $y = \\ln x$ to $\\frac{d}{dx}(\\ln x) = \\frac{1}{x}$, ensuring students visually followed the logical flow.\n\nTo validate the student's response, the teacher gave a distinct nod and circled the final derivative $\\frac{1}{x}$ on the screen, providing clear visual confirmation. She then drew an arrow connecting this result back to the original function on the blackboard, reinforcing the relationship between the function and its derivative.\n\nThroughout the interaction, the teacher's gestures linked the student's response to the core lesson content, helping students move from passive reception to active construction of their understanding. By visually connecting new insights to previously discussed concepts, the teacher facilitated a deeper comprehension of derivatives, empowering students to engage more confidently with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Derivative Definition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[207.0 -> 241.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Function y = ln x",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.0 -> 327.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Derivative of ln x",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[257.02 -> 327.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Zero Derivative",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[257.02 -> 327.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Constant Function Derivative",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[257.02 -> 327.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Practical Meaning of Derivative",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[257.02 -> 327.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Student Correct Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c8",
+        "label": "Student Misconception",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "v1",
+        "label": "Logarithm Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "y = ln x (C ≠ 0 derivative)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Derivative Formula on Screen",
+        "type": "Visual",
+        "original_text": "d/dx (ln x) = 1/x",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Diagrams on Blackboard",
+        "type": "Visual",
+        "original_text": "Diagram of logarithm function behavior",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Use the definition of the derivative to address function y = ln x."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Derive y = ln x to find its derivative."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The derivative of a constant function is zero."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The derivative of ln x is integral to solving y = ln x."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The practical application of a zero derivative."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Student correctly answers the derivative of ln x."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "addresses_misconception",
+        "intent": "Corrects misconceptions regarding derivative values."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Formula y = ln x shown on blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Visual comparison of derivatives on interactive screen."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Visual explanation of logarithm function behavior."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights correct derivative formula on screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

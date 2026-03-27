@@ -1,0 +1,151 @@
+{
+  "video_name": "16_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the definition of conditional probability and its formula expression; be able to calculate the probability of event B given that event A has occurred using concrete examples.",
+  "transcript": "[532.72 -> 566.66] 是不是就应该是A与B同时了对不对那么应该是多少呢十六太棒了那么这里其实就是十六同学们后面的约分大家都会的吧好在这里我们便得到了在事件A发生的条件下事件B发生的概率好那这个呢是在具体例子当中得到的对不对大家看我们从一般情况来分析又应该是怎么样的呢你看已经事件A发生那么事件A已经发生了那么刚才我们也说到那么A是不是已经变成了一个新的样本空间大家看此时事件B发生的概率是AB包含的样本点数这上面是不是刚才又是团又是男生的样本点数然后与A包含的样本点数下面即就是包含刚才的那个点数的一个B值有点感觉有点绕对不对你看那这样子是不是就变得清晰了呢那其实这个呢就是我们在A事件发生的条件下B事件发生的条件下的条那么其实这个呢就是我们今天所要学习的条件概率了什么是条件概率呢大家看一下。\n[575.26 -> 652.72] 即就是说在AB为两个随机事件的时候当然PB即就是A事件发生的概率是要大于哪个呢我们称在A事件发生的条件下B事件发生的概率这就是条件概率这样子的一个概率呢我们就叫做条件概率同学们知道条件概率是什么了吗好让我们来看一下下面这个问题大家看A事件发生的概率是零点五AB同时发生的概率是零点三求在事件A发生的条件下事件B发生的概率我看到很多同学应该都能够很快地得到答案那么在这个问题当中是不是我们直接运用我们刚才得到的一个条件概率的公式就可以得到了我们所要求的概率呢好也就是我们将公式给带进去可以发现在事件A发生的条件下事件B发生的概率就可以得到了我们所要求的概率呢好也就是我们将公式给带进去可以发现在事件A发生的条件下事件B发生的概率就可以得到了我们所要求的概率呢好也就是我们将公式给带进去可以发现在事件A发生的条件下事件A发生的条件下发生的概率应该是多少是五分之三好非常好那其实这个呢就是我们今天所要学习的条件概率了同学们条件概率是怎么样的呢好这就是在两个随机事件A和B当中我们知道A事件发生的概率一定是要大于零的那么满足这个这个条件概率公式我们计算出来的概率就叫做条件概率那在刚才呢我们也说到我们要刚才说要求什么在A事件和B事件不是相互独立的时候基事件AB发生的概率是多少这里我们求出来了条件概率之后那接下来的基事件A面AB的概率就简单得多了好同学们那这样的就由我们下节课的知识一起来学习求不是相互独立的AB事件的概率就让我们下节课来进行吧那以上呢便是我模拟授课的全部环节。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. This gesture was accompanied by pointing to the practice problem displayed on the screen, inviting students to engage with the content.\n\n**2. The Visual Focus Point:**\n- The practice problem on the screen: \"小练习\" (Practice) with the question \"P(A)=0.5, P(AB)=0.3, 求在事件A发生的条件下，事件B发生的概率？\" (Given P(A)=0.5, P(AB)=0.3, find the probability of event B occurring given that event A has occurred?).\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the formula on the blackboard: $P(B|A) = \\frac{P(AB)}{P(A)}$. This action visually guided the student to refer back to the conditional probability formula discussed earlier.\n- The teacher also gestured towards the practice problem on the screen, reinforcing the connection between the formula and the problem.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student provided an answer, the teacher nodded and pointed to the correct formula on the blackboard, visually confirming the student's response.\n- The teacher then wrote the solution steps on the blackboard, using the formula $P(B|A) = \\frac{P(AB)}{P(A)}$ to demonstrate the calculation, ensuring clarity and reinforcing the correct approach.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand towards the class and points to the practice problem on the screen.\n  - Focus on the problem: \"P(A)=0.5, P(AB)=0.3, 求在事件A发生的条件下，事件B发生的概率？\"\n\n- **Middle:**\n  - Teacher points to the formula $P(B|A) = \\frac{P(AB)}{P(A)}$ on the blackboard while a student responds.\n  - Teacher gestures to the screen, linking the formula to the problem.\n\n- **End:**\n  - Teacher nods and points to the formula on the blackboard, confirming the student's answer.\n  - Teacher writes the solution steps on the blackboard, using the formula to visually explain the correct approach.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the practice problem: \"P(A)=0.5, P(AB)=0.3, 求在事件A发生的条件下，事件B发生的概率？\" The teacher began by making a sweeping gesture towards the class, inviting students to engage with the problem. This gesture was followed by pointing directly to the question on the screen, signaling the start of the interactive session.\n\nAs a student began to respond, the teacher moved to the blackboard and pointed to the conditional probability formula: $P(B|A) = \\frac{P(AB)}{P(A)}$. While the student explained their reasoning, the teacher walked over to the board and jotted down key terms from the student's explanation, visually linking these terms to the formula. This action helped guide the student's thought process and reinforced the connection between the problem and the previously discussed concepts.\n\nTo validate the student's answer, the teacher gave a distinct nod and circled the final number on the screen, indicating correctness. The teacher then drew an arrow connecting the student's correct answer back to the main theorem discussed earlier, emphasizing the application of the conditional probability formula.\n\nThroughout the interaction, the teacher's gestures and movements facilitated the transition from passive reception to active construction of knowledge. By visually linking the student's response to the core lesson content and providing real-time feedback, the teacher helped students actively engage with the material, fostering a deeper understanding of conditional probability.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Conditional Probability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[532.72 -> 575.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Probability of Event A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.26 -> 652.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Probability of Events A and B",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.26 -> 652.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Conditional Probability Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[575.26 -> 652.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Sample Space",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[532.72 -> 566.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Random Events",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.26 -> 652.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Independence of Events",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[575.26 -> 652.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Practice Problem Slide",
+        "type": "Visual",
+        "original_text": "Given P(A)=0.5, P(AB)=0.3, find the probability of event B given A.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Formula on Blackboard",
+        "type": "Visual",
+        "original_text": "$P(B|A) = \\frac{P(AB)}{P(A)}$",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Connects the concept of conditional probability to its mathematical expression."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Sample space as context for random events."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the probability of event A on the slide."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the probability of events A and B together on the slide."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Shows the conditional probability formula on the board."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Discusses random events in relation to their independence."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to solve the practice problem."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Directs student response to the conditional probability formula."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Student uses the formula during their response."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Student engagement enhances understanding of conditional probability."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

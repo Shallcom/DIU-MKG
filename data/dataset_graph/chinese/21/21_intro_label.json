@@ -1,0 +1,158 @@
+{
+  "video_name": "21_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chinese",
+  "teaching_goal": "Understand the importance of recitation in Chinese language learning; master the core content of language construction and application; analyze the relationships among the four major academic competencies.",
+  "transcript": "[0.0 -> 62.04] 几个方面来分析这个来开始我的即席演讲第一我们都知道语文是工具性与人文性相统一的学科而朗诵就体现在工具性中并且在语文的四大学科素养当中第一点是语言建构与应用第二点是思维发展与提升第三点是审美鉴赏与创造第四点是文化传承与理解那么第一点语文语言建构与应用就是这四大核心的基础。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher-Trainee College Students). The screen includes colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. The Title Event\n- **Title on Screen**: The title displayed on the screen is \"大渡河——我的保姆\" (Dadu River - My Nanny) with the name \"艾青\" (Ai Qing) below it.\n- **Teacher's Action**: The teacher stands in front of the screen, holding papers, and appears to be presenting or explaining the content related to the title.\n\n#### 3. The Objectives\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or board during this segment.\n\n#### 4. Key Gestures\n- **Teacher's Actions**: The teacher holds papers and occasionally gestures with their hands, possibly emphasizing points related to the content on the screen. There is no direct pointing or specific interaction with the board or screen content visible in this segment.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Title Screen**: The video opens with a yellow title screen introducing the 10th National Contest of Teaching Skills for Teacher-Trainee College Students. The screen features colorful circular icons and the number \"10\" prominently displayed.\n- **Transition to Classroom**: The scene shifts to a classroom setting where the teacher stands in front of a screen displaying the title \"大渡河——我的保姆\" (Dadu River - My Nanny) by \"艾青\" (Ai Qing).\n\n#### Middle\n- **Teacher Presentation**: The teacher, dressed in a white shirt and green tie, holds papers and addresses the students. The screen behind them remains static, displaying the title.\n- **Student Engagement**: Students are seated, facing the teacher, and appear attentive.\n\n#### End\n- **Continued Presentation**: The teacher continues to speak, occasionally gesturing with their hands. No additional content changes on the screen or board are observed.\n\n### Summary\nThe introduction phase of the lesson is initiated with a title screen introducing the teaching skills competition. The teacher presents in front of a screen displaying the title \"大渡河——我的保姆\" by Ai Qing. The teacher's gestures and presentation focus on engaging the students with the content, though no specific learning objectives or detailed interactions with the board are visible in this segment.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, which introduces the 10th National Contest of Teaching Skills for Teacher-Trainee College Students. This screen features colorful circular icons and prominently displays the number \"10,\" setting the stage for the competition context. Transitioning to the classroom, the teacher, dressed in a white shirt and green tie, stands before a screen displaying the title \"大渡河——我的保姆\" by Ai Qing. The teacher holds papers and engages with the students, using hand gestures to emphasize points related to the content on the screen. The visual aid remains static, focusing on the title, which serves as the main topic for the lesson. The teacher's actions, such as holding papers and gesturing, create a bridge between the competition context and the literary content, preparing students for an exploration of the text. This introduction links the new knowledge to the students' existing understanding of literary analysis, setting the foundation for a deeper dive into the themes and significance of the work.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chinese Language",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Recitation Importance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Language Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Language Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Academic Competencies",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Cognitive Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Aesthetic Appreciation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Cultural Understanding",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 62.04]"
+      },
+      {
+        "id": "v1",
+        "label": "Teaching Skills Contest Title",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher-Trainee College Students",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title Screen",
+        "type": "Visual",
+        "original_text": "Dadu River - My Nanny by Ai Qing",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Attentive Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Recitation as a component of Chinese language learning."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Language construction as a core academic competency."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Language application derives from language construction."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Academic competencies encompassing aspects of language learning."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Cognitive development as a major academic competency."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Aesthetic appreciation is part of the academic competencies."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Cultural understanding is essential in academic competencies."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The contest title sets the formal educational context for the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The lesson title on screen visualizes the recitation topic."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The lesson title captures and maintains student engagement."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The importance of recitation stimulates student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

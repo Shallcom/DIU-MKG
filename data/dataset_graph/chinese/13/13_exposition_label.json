@@ -1,0 +1,146 @@
+{
+  "video_name": "13_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chinese",
+  "teaching_goal": "Understand the emotional expression of maternal love in “Autumn Remembrance”; analyze the changes in the mother’s portrayal and their symbolic significance; appreciate the author’s reflections on the shift in attitude toward life.",
+  "transcript": "[173.1 -> 264.34] 同学们回顾一下在初中的时候我们学习过一篇文章叫秋天的怀念我相信同学们对于那篇文章当中母亲的形象应该十分的深刻十年前史铁生他不敢出门因为他对生命早已丧失了这样一个生活下去的欲望而母亲面对这样的情况她说北海的菊花开了我推你去看看好不好那这篇文章是写于秋天的怀念十年之后十年的时间作者对于母爱有没有什么新的理解同学们看十年之后母亲她的行为是什么她是怎么做的请同学们读一读她料想起她料想我不会愿意跟她同去所以她从未这样劳苦过所以这个时候母亲不要求跟史铁生同去了那她就心安理得地在家等待吗我们一起来看一看这个时候史铁生他每天都会发了疯似的摇车出门去到地毯而在地毯一个人就是待了一整天回来以后什么也不说如果日子就是这样平静下去的话那是不太可能的所以有一天石铁生他在出了门以后忽然回来了同学们快速找一找母亲的反应是什么。\n[267.14 -> 268.86] 他对我的回来怎么样。\n[270.26 -> 293.1] 同学们开黑吧他对我回来怎么样近一时没有反应这一个镜子当中我们可以体现体验出母亲当时的状态是怎样的石铁生突然回来母亲近一时没有反应呆呆地站在原地母亲此时怎么样了她她的状态是怎么样的她已经失神了对不对她呆呆地望着石铁生离去那个方向用目送的形式寄托着自己对儿子的深情由此我们可以看到他的失神他的不知所措那母亲真的放心儿子一个人待在地毯当中吗他是怎么做的请同学们阅读这一段文字思考老师提出的问题。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with text and an image of green leaves.\n- The slide title is in Chinese, and the content includes bullet points.\n- The teacher gestures with her hands, emphasizing the text on the screen.\n\n**Middle:**\n- The teacher points to the text on the screen, specifically highlighting the bullet points.\n- She uses hand gestures to underline the importance of the text, occasionally looking at the students to engage them.\n- The teacher's movements are focused on directing attention to the slide content.\n\n**End:**\n- The teacher continues to gesture towards the slide, ensuring students follow along with the information presented.\n- She maintains eye contact with the students, reinforcing the key points on the screen.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital slide with Chinese text and an image of green leaves.\n- The slide includes a title and bullet points, with a clear layout that separates text from the image.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher does not add content to the board but emphasizes existing text on the slide.\n- **Modifications**: No erasures or modifications are made; the focus remains on the slide content.\n- **Deictic Gestures**: The teacher points to specific bullet points and the image, using phrases like \"this\" to direct attention.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to highlight key points on the slide.\n- She occasionally points directly at the text, ensuring students focus on important information.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing comprehension.",
+  "visual_narrative": "Initially, the digital screen displayed a slide with a title and bullet points in Chinese, accompanied by an image of green leaves. The teacher began by standing in front of the screen, using hand gestures to emphasize the text. She pointed directly at the bullet points, tracing the key phrases to ensure students followed along. As the lecture progressed, she continued to gesture towards the text, occasionally highlighting specific sections by pointing and maintaining eye contact with the students. Finally, she reinforced the main points by circling back to the image of the leaves, linking the textual content with the visual example. This structured approach, combined with clear gestures and focused attention on the slide, helped reduce cognitive load by aligning visual and verbal cues, making the information more accessible and engaging for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Autumn Remembrance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.1 -> 264.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Maternal Love",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.1 -> 264.34]"
+      },
+      {
+        "id": "c3",
+        "label": "Mother's Portrayal",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.1 -> 264.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Symbolic Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.1 -> 264.34]"
+      },
+      {
+        "id": "c5",
+        "label": "Life Attitude Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[173.1 -> 264.34]"
+      },
+      {
+        "id": "c6",
+        "label": "Emotional Expression",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[173.1 -> 264.34]"
+      },
+      {
+        "id": "c7",
+        "label": "Mother's Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[267.14 -> 268.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Narrative Context",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[270.26 -> 293.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Title and Bullet Points",
+        "type": "Visual",
+        "original_text": "A slide displaying a title and bullet points in Chinese with an image of green leaves.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Image of Green Leaves",
+        "type": "Visual",
+        "original_text": "Image of green leaves on the educational slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The work 'Autumn Remembrance' includes the concept of maternal love."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The understanding of maternal love builds upon the mother's portrayal."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The portrayal of the mother evolves into symbolic significance."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The narrative in 'Autumn Remembrance' builds upon the shift in life attitude."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the emotional expression emphasized in the class."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "Mother's reaction is set within a larger narrative context."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement prompts thinking about emotional expression."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Narrative context includes the mother's reaction."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The visual slide emphasizes the image of green leaves linked to the text's themes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

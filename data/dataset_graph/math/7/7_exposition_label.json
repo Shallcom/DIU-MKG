@@ -1,0 +1,153 @@
+{
+  "video_name": "7_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master the derivation and application of the distance formula between two points; understand the relationship between the vector method and the Pythagorean theorem in distance calculations; be able to use the coordinate method to solve real‑world problems.",
+  "transcript": "[182.857675 -> 226.92] 好那我们来看老师如果想求这一位学生和这一位学生它们两点之间的距离我们有什么办法可以求呢在初中的时候应该有学过或者我们数学的必修二中也有提到过一个方法呢就是我们的平面向量那我们接下来看一下用像样的方法去怎么求这两点之间的距离好我们读题已知如图呢在平面内两点间P一是X一Y一P二呢是S二Y二让我们求两点间的距离用像样的方法我们应该怎么求诶我们首先是要是不是写出连接两点P一和P二然后呢我们呢我们首先是要是不是写出连接两点P一和P二然后呢那么写出用坐标坐标运算写出P一和P二的坐标就是S二减S一纵坐标是Y二减Y一好那么求向量的长度是不是就是求它的膜的长度啊那么求膜长我们就把它先把它平方然后呢再开方这样子就得到了P一和P二的长度那么这一个呢也就是我们今天所要学习的第一个重点两点间的距离公式。\n[252.06 -> 340.38] 那我们要熟记这一个公式它是用两点的坐标相减的平方相加然后最后再开方这就是我们的公式那好我们来看一下这是两点间的公式那么我们一般把其中一点到圆点的距离它这条公式呢据为它们两个横纵坐标的平方在开发那好我们这个是向量的方法那你能否把它放到一个直角三角形里去构造直角三角形从而解除P一和P二间的距离呢好我们知道用直角三角形里面求长度的话最方便的是什么呀用什么方法啊用勾股定理那好我们写通过这一个三边关系写出勾股定理P一P二的平方等于P一O平方加上P二O的平方好那么再通过它们的坐标是不是最后也化解出来的一个这样子两点间距离公式的式子那老师想请你们观察一下用勾股定理需求与向量的方法做比较你觉得你觉得它们之间有什么差别吗。\n[342.44 -> 365.71535] 好这位同学你可以来分享一下吗我觉得好像最后得出的结果都是一样的对结果都是一样的但是它们的思路有点区别那你可以分享一下具体它们有什么区别吗一个是从向量法一个是一个是几格法好请坐那么一个是从向量一个是从几何的角度去分别了写出式子然后最终都得到了这个答案那么它们之间是不是有一个运算或者思维上面的不同呀好那接下来让我们带着这个一起来看我们的例三我们读题已知点A是负一二点B是二根号七让我们求X轴上一点P使得PA的距离等于PB的距离并且求出PA的距离是多少那好那我们读题通过读题我们已知要求的是这一点P好那么我们来写出已知的已知这些条件求证P好那求什么我们是不是就设什么呀我们就可以设设这一点P呢是FB的距离S设这一点P是那我们就可以设这一点P是S零S零然后呢在翻译题目中给出的条件题目是不是给了PA等于PB的距离啊那我们就通过刚刚学习的两点间的距离公式就把它带入坐标表达然后得出来PA等于这个式子PB等于这个式子再令它们从而解出X等于一好那最后解出X等于一了之后是不是还得求PA的值啊我们再把PAP的这一点的值代入进去得出PA呢就是等于二倍根号二的好那这是第三接下来我们看一下第四第四的方法呢让我们我们读题他说的是用坐标法去证明平行四边形的两条对角线的平方和角是等于两铃边的平方和的好那题目说给了用坐标法来去证明那坐标法的第一步我们需要干什么呀。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a mathematical problem involving the distance between two points on a coordinate plane. The screen shows the formula $|PQ| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ and a coordinate diagram with points labeled $P_1$ and $P_2$.\n- The teacher gestures towards the screen, likely explaining the formula and its components.\n\n**Middle:**\n- The teacher turns to the blackboard and writes the title \"两点间距离的公式\" (Formula for the distance between two points) and \"一、公式\" (1. Formula).\n- She writes the formula $|P_1P_2| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$ on the blackboard, mirroring the content on the screen.\n- The teacher points to the formula on the blackboard, emphasizing each part as she explains it.\n\n**End:**\n- The digital screen changes to show a right triangle with points labeled $P_1$, $P_2$, and $P$, along with a thought bubble explaining the distance formula.\n- The teacher gestures towards the triangle on the screen, likely explaining the geometric interpretation of the distance formula.\n- She continues to explain, using hand gestures to emphasize key points, while the blackboard retains the written formula.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying a right triangle with points $P_1$, $P_2$, and $P$. The triangle is labeled with coordinates, and a thought bubble explains the distance formula: $|P_1P| = \\sqrt{(x - x_1)^2 + (y - y_1)^2}$ and $|P_2P| = \\sqrt{(x_2 - x)^2 + (y_2 - y)^2}$.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the formula for the distance between two points on the blackboard while explaining its components.\n- **Modifications**: No erasures or modifications are observed; the teacher focuses on adding information.\n- **Deictic Gestures**: The teacher points to specific parts of the formula on the blackboard and the triangle on the screen, such as the coordinates and the square root symbol, while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the formula components on both the blackboard and the screen.\n- The digital screen uses a thought bubble to highlight the geometric interpretation of the distance formula, reinforcing the explanation.\n\nThis structured visual evolution demonstrates the teacher's method of linking abstract formulas to geometric interpretations, using both static and dynamic visual elements to enhance understanding.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a coordinate plane with points $P_1$ and $P_2$, accompanied by the distance formula $|PQ| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$. The teacher began by pointing to the formula, tracing each component to explain its role in calculating distance. She then turned to the blackboard, where she constructed the title \"两点间距离的公式\" and wrote the formula $|P_1P_2| = \\sqrt{(x_2 - x_1)^2 + (y_2 - y_1)^2}$, mirroring the screen's content. \n\nAs the lecture progressed, the screen transitioned to a right triangle with points $P_1$, $P_2$, and $P$, featuring a thought bubble that derived the distance formula geometrically. The teacher annotated the blackboard formula, emphasizing the square root and coordinate differences. She gestured towards the triangle on the screen, tracing the hypotenuse to illustrate the geometric basis of the formula. \n\nFinally, she circled key elements of the formula on the blackboard and highlighted the thought bubble on the screen, reinforcing the connection between algebraic and geometric interpretations. This visual strategy reduced cognitive load by synchronizing board work with digital illustrations, allowing students to follow the derivation process seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Distance Formula",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[182.857675 -> 226.92]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[182.857675 -> 226.92]"
+      },
+      {
+        "id": "c3",
+        "label": "Coordinate Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[342.44 -> 365.71535]"
+      },
+      {
+        "id": "c4",
+        "label": "Pythagorean Theorem",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[252.06 -> 340.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Triangle Geometry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.06 -> 340.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Point P",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[342.44 -> 365.71535]"
+      },
+      {
+        "id": "c7",
+        "label": "Circle Center",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[342.44 -> 365.71535]"
+      },
+      {
+        "id": "c8",
+        "label": "Geometric Interpretation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[252.06 -> 340.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Distance Formula Screen",
+        "type": "Visual",
+        "original_text": "Digital screen displaying the distance formula: |PQ| = sqrt((x2-x1)^2 + (y2-y1)^2) with a coordinate diagram",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Triangle Screen",
+        "type": "Visual",
+        "original_text": "Right triangle with labeled points P1, P2, P, explaining the distance formula geometrically using a thought bubble",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Writing",
+        "type": "Visual",
+        "original_text": "Blackboard displays the title 'Formula for the distance between two points' and the distance formula",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The screen visualizes the distance formula connecting algebraic expressions to visual concepts."
+      },
+      {
+        "source": "c1",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "The blackboard emphasizes the components of the distance formula as it is written out."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The geometric interpretation of the distance formula includes principles from the Pythagorean theorem."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The vector method builds upon understanding of the distance formula."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "The coordinate method involves identifying Point P to calculate distances using coordinates."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The screen visualizes triangle geometry that helps explain the distance formula."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The thought bubble provides scaffolding for the geometric interpretation of the distance formula."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The blackboard scaffolds detailed explanations of the steps involved in the coordinate method."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged as the teacher guides through problem-solving using the coordinate method."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,168 @@
+{
+  "video_name": "6_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Master the basic rules of complex-number addition; understand the geometric significance of complex-number addition; be able to apply the number‑shape integration approach to solve complex-number operation problems.",
+  "transcript": "[675.68 -> 685.0] 我请一位同学上台来找一下佛术家法的那个项链在哪里请你来吧。\n[705.68 -> 769.5] 其他同学也可以动手试一下看看你们能不能找到呢非常好我们可以看到这位同学将OZ二项链向上平移到了OZ一项链的终点使它终点与起点相连再将O连接到这个项链的终点我们就得到了它符数加法的项链好那么现在我们一起来回顾一下刚刚我们所学的知识我们学习了符数的加法我们将它的实步与实步相加虚步与虚不相加就是我们符数的加法那除了学习到这些知识之外同学们在思想和方法层面有什么样的收获呢对非常好竖形结合还有吗。\n[770.68 -> 795.44] 对类比的思想非常好大家看来对本堂课的认识有所加深我们学习了数学结合和类比的思想那现在请同学们思考一下符数的减法我们该怎么得出来呢符数的减法具有平面的几何意义吗好现在请同学们思考一下好的我的片段教学完毕谢谢老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key formulas and a diagram illustrating complex number operations.\n   - The layout includes:\n     - Formulas written in white chalk on the left side.\n     - A diagram with vectors representing complex numbers on the right side.\n     - A projection screen displaying a slide with additional content.\n\n2. **Key Knowledge Items (Content View)**:\n   - Formulas on the blackboard:\n     - $z_1 = a_1 + b_1i$\n     - $z_2 = a_2 + b_2i$\n     - $z_1 + z_2 = (a_1 + a_2) + (b_1 + b_2)i$\n     - $\\overrightarrow{OZ_1} = (a_1, b_1)$\n     - $\\overrightarrow{OZ_2} = (a_2, b_2)$\n   - Diagram:\n     - Vectors labeled $\\overrightarrow{OZ_1}$ and $\\overrightarrow{OZ_2}$.\n     - Resultant vector $\\overrightarrow{OZ_1} + \\overrightarrow{OZ_2}$.\n   - Slide content:\n     - Mathematical expressions and a graph illustrating complex number addition.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the vectors in the diagram, tracing the addition process visually.\n   - She gestures towards the formulas, emphasizing the addition of real and imaginary parts.\n   - The teacher uses hand movements to connect the diagram with the written formulas, reinforcing the relationship between vector addition and complex number operations.\n\n4. **Transition to Next Step**:\n   - The projection screen briefly displays a slide with the heading \"課題の解答\" (Problem Solutions), indicating a review or homework segment.\n   - No specific homework details are visible, but the slide suggests a transition to problem-solving or review activities.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on complex number operations. The teacher visually reviews the content by pointing to the vectors in the diagram, tracing the addition process, and gesturing towards the formulas to emphasize the addition of real and imaginary parts. She connects the diagram with the written formulas, reinforcing the relationship between vector addition and complex number operations. The visual focus briefly shifts to a slide titled \"課題の解答,\" indicating a transition to problem-solving or review activities, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Complex Number",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[705.68 -> 795.44]"
+      },
+      {
+        "id": "c2",
+        "label": "Addition of Complex Numbers",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[705.68 -> 769.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Real Part Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[705.68 -> 769.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Imaginary Part Addition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[705.68 -> 769.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Vector Addition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[705.68 -> 769.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Number-Shape Integration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[770.68 -> 795.44]"
+      },
+      {
+        "id": "c7",
+        "label": "Geometric Significance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[770.68 -> 795.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with vectors OZ1 and OZ2 representing complex numbers",
+        "ocr_corrected": false,
+        "timestamp": "[705.68 -> 769.5]"
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Formulas",
+        "type": "Visual",
+        "original_text": "Formulas for complex number addition: z1 + z2 = (a1 + a2) + (b1 + b2)i",
+        "ocr_corrected": false,
+        "timestamp": "[705.68 -> 769.5]"
+      },
+      {
+        "id": "v3",
+        "label": "Slide 'Problem Solutions'",
+        "type": "Visual",
+        "original_text": "Slide heading 'Problem Solutions' indicating next steps",
+        "ocr_corrected": true,
+        "timestamp": "[795.44]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engaged in Task",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[675.68 -> 769.5]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Establishes the foundational concept of complex number operations."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes the procedure of adding real parts of complex numbers."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes the procedure of adding imaginary parts of complex numbers."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Develops from the principle of vector addition."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Summarizes complex number addition formulas on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visualizes vector addition with the blackboard diagram."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Utilizes geometric significance in the integration approach."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Highlights real part addition on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Highlights imaginary part addition on the blackboard."
+      },
+      {
+        "source": "ss1",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Student actively participates in understanding complex number addition."
+      },
+      {
+        "source": "ss1",
+        "target": "c6",
+        "relation": "engages_with",
+        "intent": "Student reflects on number-shape integration."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Prepares students for problem-solving activities with geometric concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

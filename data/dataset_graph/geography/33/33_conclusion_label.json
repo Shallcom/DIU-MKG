@@ -1,0 +1,190 @@
+{
+  "video_name": "33_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Understand the impact of solar activity on Earth and human society.",
+  "transcript": "[719.779 -> 777.52] 同学们可以讨论一下好我们一起来看一下首先我们来看一下这个卡林顿事件它是什么它是说一九它是说一八五九年它是历史上发生以来最大的一次磁爆事件因为这是磁爆事件啊它的当时的通讯系统被切断了以及它当时的飞机也停飞了吧所以我们可以看到看出来它对人类的影响是非常大的对不对那么除此之外你们刚刚还讨论出了哪些对地球的影响呢对我们人类活动的影响我们请这个女生你来说一说吧对影响气候怎么影响呢就是在太阳活动的丰年就是有一些激烈的天气会出现一些激烈的天气现象但是身体的奥运我们还没有好我的试讲到此结束谢谢老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard screen.\n   - The layout includes two main sections: a smaller blue box on the left and a larger blue box on the right.\n   - The top of the screen has a navigation bar with tabs labeled: \"课程目标,\" \"基本概念,\" \"水文循环,\" \"影响因素,\" \"学习应用.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - The smaller blue box on the left contains the text: \"分析大循环运动的时空变化.\"\n   - The larger blue box on the right contains the text: \"合作探究.\"\n   - On the blackboard to the left, there is a diagram with the text: \"水文循环与全球\" and \"一成以水循环的.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher stands in front of the screen, occasionally gesturing towards the text on the screen.\n   - The teacher's hand movements suggest pointing or indicating the text in the blue boxes, likely emphasizing the key points of \"分析大循环运动的时空变化\" and \"合作探究.\"\n   - The teacher occasionally looks at the blackboard, possibly referencing the diagram and text written there.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or blackboard in the provided frames.\n   - The focus remains on the summary content displayed on the screen and the diagram on the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the interactive whiteboard displaying a structured summary, featuring two main sections: a smaller blue box on the left labeled \"分析大循环运动的时空变化\" and a larger blue box on the right labeled \"合作探究.\" The top navigation bar includes tabs such as \"课程目标,\" \"基本概念,\" \"水文循环,\" \"影响因素,\" and \"学习应用.\" The teacher stands in front of the screen, using hand gestures to emphasize the content in the blue boxes. She occasionally points to the text, guiding the students' attention through the key points. On the blackboard to the left, a diagram with the text \"水文循环与全球\" and \"一成以水循环的\" is visible, serving as a visual reference. The teacher's gestures suggest a review of both the screen content and the blackboard diagram, reinforcing the lesson's core concepts. No explicit visual elements indicate homework or next steps in the provided frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Carrington Event",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Solar Magnetic Storms",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Communication Disruption",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Aviation Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Global Hydrological Cycle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Solar Activity Effects",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Climate Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "c8",
+        "label": "Extreme Weather",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[719.779 -> 777.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Hydrological Cycle Diagram",
+        "type": "Visual",
+        "original_text": "Hydrological Cycle with Global Perspective",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Screen Left Box",
+        "type": "Visual",
+        "original_text": "Analyze Spatiotemporal Changes",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen Right Box",
+        "type": "Visual",
+        "original_text": "Cooperative Inquiry",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Screen Navigation Bar",
+        "type": "Visual",
+        "original_text": "Course Objectives, Basic Concepts, Hydrological Cycle, Impact Factors, Learning Applications",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Female Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Describes the origin of magnetic storm events."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Includes the disruption of communication systems."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes the stoppage of aviation services due to storms."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Details various impacts on Earth and human activities."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Links the hydrological cycle to solar impacts."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Leads to changes in climate conditions."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Results in extreme weather conditions."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Provides a visual reference for the hydrological cycle."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "Summarizes the changes in the cycle."
+      },
+      {
+        "source": "v3",
+        "target": "s2",
+        "relation": "emphasizes",
+        "intent": "Encourages student inquiry and discussion."
+      },
+      {
+        "source": "v4",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "Organizes and connects various learning topics."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Student discussion leads to understanding climate impacts."
+      },
+      {
+        "source": "s2",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Group brainstorming incites consideration of extreme weather."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

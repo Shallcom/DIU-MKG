@@ -1,0 +1,127 @@
+{
+  "video_name": "23_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Summarize the synthetic steps from ethylene to the target product; analyze the influence of reaction conditions on organic synthesis; reflect on the key factors in designing organic synthesis routes.",
+  "transcript": "[629.22 -> 644.12] 通过同学们的分析讨论我们进一步完善了我们的实验方案即通过最终我们想要的目标原料都是乙烯通过一步一步的中间体锻炼合成化学件从而生成了我们想要的目标产物。\n[649.02 -> 684.5] 那么同学们思考一下我们这是不是一个我们思维的逆过程那么我们要将这个逆过程真正运用于工业实践上我们如何通过以息合成我们所要的中间体呢在这个合成中间体的过程中我们到底需要哪些条件呢现在同学们尝试把我们的思路从逆向正向过去我们一步一步地从米稀来得到我们的合成产物同学们可以在草稿纸上书写一下。\n[686.18 -> 691.12] 在这个过程中要完善一下这个过程的方案及条件到底是什么。\n[703.5 -> 706.52] 各个同学都反应得差不多了。\n[709.02 -> 762.56] 那么看到我们进一步完善我们条件实验方案即从李溪通过水的催化加热加压生成我们的乙醇那么同时通过我们刚刚提到的加成以及取代进一步合成我们的有机产物即将从而完善了我们合成有机物的一般思路那么请同学们在下一个环节中继续思考一下我们在设计我们合成有机思路的时候要考虑哪些因素呢我们可以看到每个同学设计的方案它的步骤是不一样的同时我们要考虑到操作的安全性好请同学们在课后继续思考以上是我模拟上课的所有内容感谢各位评论老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the right side of the classroom.\n   - The screen displays a flowchart with chemical structures and pathways, organized into sections labeled \"合成导入,\" \"构建思路,\" \"合成路线,\" and \"综合实验.\"\n   - The blackboard on the left contains handwritten text in Chinese, including the main topic \"有机合成路线设计\" and subtopics like \"分析设计\" and \"设计路线.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - On the screen:\n     - Chemical structures and reaction pathways.\n     - Text labels such as \"合成导入,\" \"构建思路,\" \"合成路线,\" and \"综合实验.\"\n     - A highlighted question: \"是否满足合成路线设计的要求？\"\n   - On the blackboard:\n     - Main topic: 有机合成路线设计\n     - Subtopics: 分析设计, 设计路线, 倾向反应后\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to specific chemical structures on the screen, likely explaining their significance in the synthesis pathway.\n   - She gestures towards the flowchart, possibly tracing the synthesis route to emphasize the steps involved.\n   - The teacher uses a pointer to highlight the question \"是否满足合成路线设计的要求？\" on the screen, indicating a review of the synthesis criteria.\n\n4. **Transition to Next Step**:\n   - The screen displays a question, suggesting a prompt for further discussion or homework.\n   - No explicit homework or assignment slide is visible, but the question may serve as a basis for subsequent tasks or reflection.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a digital screen displaying a flowchart of chemical structures and pathways, organized into sections labeled \"合成导入,\" \"构建思路,\" \"合成路线,\" and \"综合实验.\" The blackboard on the left features handwritten text, including the main topic \"有机合成路线设计\" and subtopics like \"分析设计\" and \"设计路线.\" The teacher visually wraps up the lesson by pointing to specific chemical structures on the screen, tracing the synthesis route to highlight key steps. She emphasizes the question \"是否满足合成路线设计的要求？\" by using a pointer, drawing attention to the criteria for synthesis design. This visual review consolidates the core concepts, with the flowchart and blackboard text serving as the primary summary artifacts. No explicit homework instructions are visible, but the highlighted question suggests a prompt for further reflection or tasks.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Synthetic Steps",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[629.22 -> 644.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Ethylene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[629.22 -> 644.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Target Product",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[629.22 -> 644.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Reaction Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[649.02 -> 691.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Organic Synthesis Route",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[709.02 -> 762.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Safety Considerations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[709.02 -> 762.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Flowchart on Screen",
+        "type": "Visual",
+        "original_text": "Screen displays flowchart with sections labeled 'Introduction to Synthesis,' 'Construction Idea,' 'Synthesis Route,' and 'Comprehensive Experiment.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard with Topics",
+        "type": "Visual",
+        "original_text": "Main topic: 'Design of Organic Synthesis Route'; Subtopics: 'Analysis and Design,' 'Route Design.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Highlighted Question",
+        "type": "Visual",
+        "original_text": "Question: 'Does it meet the requirements for the synthesis route design?'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Ethylene is transformed to the target product through synthesis steps."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The flowchart on the screen visualizes the synthetic steps."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Reaction conditions impact the design of organic synthesis routes."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The flowchart summarizes the synthesis route."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Safety considerations are a part of designing synthesis routes."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The question on the screen prompts students to reflect on synthesis criteria."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "The blackboard scaffolds the analytical aspect of reaction conditions and synthesis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

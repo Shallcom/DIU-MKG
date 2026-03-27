@@ -1,0 +1,124 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Compare the applicability of Newton’s laws and the conservation of momentum under extreme conditions; understand the scope and limitations of different physical laws.",
+  "transcript": "[494.620733 -> 515.66] 而接下来我们从我们学过的内容当中牛顿定律以及通量守存定律我们来比较一下它们在各个或者说比较极端的条件下它们是否还同样适用呢。\n[517.14 -> 534.86] 比如说爆炸火箭这种内力十分大的一个场景中牛顿运动定律这样就不适用了而我们的动量守恒定律仍然正确。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the presentation slide displayed on the screen. It features a structured layout with two key laws: \"牛頓運動定律\" (Newton's Laws of Motion) and \"動量守恆定律\" (Conservation of Momentum). The slide includes arrows indicating a progression or relationship between these concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following key phrases:\n     - 牛頓運動定律 (Newton's Laws of Motion)\n     - 動量守恆定律 (Conservation of Momentum)\n   - Additional text on the slide provides a brief explanation of these laws, though it is partially obscured.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely emphasizing the connection between Newton's Laws of Motion and the Conservation of Momentum. The teacher's hand movements suggest pointing or indicating the text on the slide.\n   - The teacher also turns to the chalkboard, which has a simple diagram drawn, possibly illustrating a concept related to the lesson. The teacher's movement towards the board indicates a visual review of the diagram.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on the summary of key concepts from the lesson.\n\nThis structured visual summary helps consolidate the main ideas discussed, with the teacher's gestures reinforcing the key points on both the slide and the chalkboard.",
+  "visual_narrative": "The lesson concludes with a slide summarizing key concepts, centered on Newton's Laws of Motion and the Conservation of Momentum. The teacher visually reviews the content by pointing towards the slide, emphasizing the progression between these laws. The chalkboard features a simple diagram, which the teacher references, reinforcing the lesson's core ideas. There is no visible homework or next-step instruction presented in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Newton's Laws",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[494.62 -> 515.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Conservation of Momentum",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[494.62 -> 515.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Extreme Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[494.62 -> 515.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Rocket Explosion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[517.14 -> 534.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Newton's Laws vs Conservation",
+        "type": "Visual",
+        "original_text": "Comparison between Newton's Laws of Motion and Conservation of Momentum is visually represented on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Diagram",
+        "type": "Visual",
+        "original_text": "A simple diagram illustrating related concepts is drawn on the chalkboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Explains how the concept of Conservation of Momentum evolves from Newton's Laws in certain contexts."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Newton's Laws are applied under Extreme Conditions to test their validity and limitations."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Demonstrates the applicability of Conservation of Momentum under Extreme Conditions in rocket explosions."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Rocket Explosion scenario challenges the applicability of Newton's Laws."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Rocket Explosion illustrates Conservation of Momentum maintains validity."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "Slide summarizes Newton's Laws of Motion along with examples for clarity."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Slide summarizes the key points regarding Conservation of Momentum."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Diagram visualizes the concept related to rocket explosion scenario and momentum conservation."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students actively engage with the summary of Newton's Laws."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Students actively engage with the concept of Conservation of Momentum."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

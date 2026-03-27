@@ -1,0 +1,152 @@
+{
+  "video_name": "3_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "To cultivate students’ patriotism and cultural confidence; to stimulate students’ interest in learning through experimental contexts and guide their reflective thinking.",
+  "transcript": "[0.0 -> 184.1] 各位评委老师好我是初中科学组三号选手我抽到的即兴讲演的题目是在化学教学中如何渗透私政教育中华民族是一个团结友善的民族民族邻居力很强在这样的民族大背景下意味着我们的私政教育不能落下那私政教育既包括了我们的爱国教育又包括了要向学生传授做人的道理引导学生养成良好的行为习惯此外立得庶人教书育人也是化学教学中的根本任务那为了做到私政教育我会从几点一我会在课前设置私政的教学目标有意识地在化学的教学中渗透私证来对私证教育目标进行一个合理的规划那么第二点呢化学是以实验为主的科学那么它的情境也是非常重要的因此我会围绕私证的目标来创设真实的教学情境这样既能够激发学生的学习兴趣又能够在情境的故事的发展过程中培养学生的思政行为就比如在燃烧条件的探究中我就会设置赤壁之战的情境那么在此过程中就培养了学生的文化自信那么第三点呢我会在教学过程中设置合理的教学活动就比如在如何合理地利用水资源的这一课时的教学中我会设置小组讨论引导学生去了解国家的节水政策并在此过程中培养学生养成自己的节水习惯这样既做到了爱国的教育又为学生树立了良好的价值观那么在课后呢我也会反思本节课是否真正的做到了教学资政教育那么基于以上认识呢在今后的学习中和教书生涯当中我也会从一从以上的几个方面来进行我的化学教学以达到实证教育的目的以上就是我的即兴演讲内容谢谢接下来是我的片段教学同学们上课中国的古诗蕴含了古人的智慧也表达了古人的思想感激有这样一首诗我们一起来看。\n[185.28 -> 237.26] 春花秋月何时亮往事知多少小楼昨夜又东风故国不堪回首月明中貂蓝玉器因犹在只是朱颜改问君能有几多愁恰似一江春水向东流那这首诗呢就表达了诗人无限的哀愁诗人抚兰远望看到了物是人非的景象那为什么刁蓝玉器依犹在但是它的珠颜却改变了呢那今天我们就一起来探究一下大理石它的反应。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed on the screen features a blue button with Chinese text: \"生活常识判断\" (Common Sense Judgment). This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"生活常识判断\" (Common Sense Judgment). The teacher does not physically write this; it is displayed on the screen. The teacher points to this title during the introduction.\n\n#### 3. **The Objectives**\n- The slide includes several icons and text boxes, but specific learning objectives are not clearly visible in the initial frames. The focus is on the title and the hook object.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her hands while speaking, likely emphasizing points related to the title.\n- She points to the screen, specifically at the title \"生活常识判断\" (Common Sense Judgment).\n- Later, she moves to the screen to point at a new slide titled \"情景导入\" (Situation Introduction), which includes text and an image of a statue.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"生活常识判断\" (Common Sense Judgment) in a blue button.\n- The teacher gestures with her hands, likely explaining the significance of the title.\n\n**Middle:**\n- The teacher points directly at the title on the screen, emphasizing its importance.\n- She transitions to a new slide titled \"情景导入\" (Situation Introduction).\n- The new slide includes text and an image of a statue, which the teacher points to, indicating a shift in the lesson's focus.\n\n**End:**\n- The teacher continues to point at the new slide, explaining the content related to the image and text.\n- Her gestures link the visual elements on the screen to her verbal explanations, maintaining engagement with the material.\n\nThis structured visual analysis captures the evolution of the lesson's introduction, focusing on the teacher's actions and the corresponding visual content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a screen displaying the hook object: a blue button with the text \"生活常识判断\" (Common Sense Judgment). This visual stimulus sets the stage for the lesson. The teacher gestures with her hands, emphasizing the title on the screen, which serves as the initial focal point. As the lesson progresses, the teacher transitions to a new slide titled \"情景导入\" (Situation Introduction), featuring text and an image of a statue. She moves closer to the screen, pointing directly at the new content, which shifts the focus from the hook to the main topic. Throughout this transition, the teacher's gestures link the visual elements on the screen to her explanations, creating a bridge between the hook and the main content. This approach connects the students' existing understanding of common sense to the new situational context, preparing them for deeper exploration of the topic. The visual narrative effectively guides the students from a broad concept to a specific example, facilitating a smooth introduction to the lesson's core ideas.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Common Sense Judgment Slide",
+        "type": "Visual",
+        "original_text": "A blue button with text 'Common Sense Judgment'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Situation Introduction Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Situation Introduction' with a statue image",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Chemistry Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Civic Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Patriotism",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Cultural Confidence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c5",
+        "label": "Behavior Habits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c6",
+        "label": "Burning Conditions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Water Resource Utilization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "c8",
+        "label": "Waste Minimization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 184.1]"
+      },
+      {
+        "id": "ss1",
+        "label": "Reflective Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Discussion Group",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Integrating civic education into chemistry teaching"
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Part of civic education focusing on patriotism"
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Part of civic education promoting cultural confidence"
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Encouraging students to develop positive behavior habits"
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "evolves_from",
+        "intent": "Transitioning from common sense to specific chemical conditions"
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "Encouraging students' reflective thinking through visual prompts"
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "Engaging students in reflective thinking on scenario introduction"
+      },
+      {
+        "source": "c7",
+        "target": "ss2",
+        "relation": "prompts_thinking",
+        "intent": "Stimulating group brainstorming on water resource utilization"
+      },
+      {
+        "source": "c8",
+        "target": "ss2",
+        "relation": "prompts_thinking",
+        "intent": "Encouraging discussion on waste minimization strategies"
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

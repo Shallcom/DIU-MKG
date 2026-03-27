@@ -1,0 +1,146 @@
+{
+  "video_name": "17_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Be able to describe the conditions for lever equilibrium and its applications; be able to identify and calculate the relationship between the effort arm and the resistance arm.",
+  "transcript": "[548.36 -> 623.5] 并且你们完成了吗谁来说一说你们怎么样记录它们两个是平衡处于平衡位置它们四者之间是什么样的状态呢谁来说一说你来。\n[625.36 -> 659.58] 我做的第一组实验是动力是三牛的时候对它的动力臂是两厘米两厘米对阻力是两牛两牛阻力臂是三厘米三厘米好谁还有谁来说一说你来说我做了一组动力是五牛五牛好五牛动力臂是十十厘米阻力是十牛。\n[661.72 -> 767.54] 阻力臂是五厘米好的非常棒那么我们根据这两个实验你们能观察一下它们之间四者之间存在着怎样的关系呢有着怎样的联系呢谁看到了你们可以帮他看一下书谁来说一说它们之间有什么样的联系你来我发现动力乘上它的动力币对动能水币乘以它的阻力币就是你们可以看三乘二零三牛乘两零零等于两牛乘三厘米而当五牛乘十厘米等于十牛乘五厘米是不是当它们的就相当于是它们的再说一遍动力乘以动力币等于阻力乘以阻力币非常棒好是吧我们的书上也是这样说的对吧那么现在我们来看一道题他说在这个过程当中我们有一位物理老师用钢板的原理测出了大象的重量一个长度为十二厘米的槽缸为杠杆如秃椅吊钩固定于槽点的中间这是O是吧我们的支点F一为二百牛测得L为六米L二为四厘米那么我们不计铁轮的质量估算大象的质量那么我们的重力加速度为十牛每千克。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the key formulas and concepts discussed during the lesson.\n   - The layout includes:\n     - The title \"9.2.2 杠杆\" at the top.\n     - A list of formulas and notes written in white chalk.\n     - A table on the screen to the right, titled \"完成的杠杆表\", with columns for different measurements.\n\n2. **Key Knowledge Items (Content View)**:\n   - Formulas and notes on the blackboard:\n     - $-3.8 \\times 5^0$\n     - 动力臂, 阻力臂 (Effort arm, Resistance arm)\n     - $F_1 \\times L_1 = F_2 \\times L_2$\n     - $3 \\text{N}, 2 \\text{m}, 2 \\text{m}, 3 \\text{m}$\n     - $5 \\text{N}, 10 \\text{cm}, 10 \\text{cm}, 5 \\text{m}$\n     - $F_1 \\times L_1 = F_2 \\times L_2$\n   - The screen displays a table with columns for 动力臂 (Effort arm), 阻力臂 (Resistance arm), 动力 (Effort), and 阻力 (Resistance).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formulas on the blackboard, specifically highlighting $F_1 \\times L_1 = F_2 \\times L_2$.\n   - The teacher gestures towards the screen, indicating the table and its columns.\n   - The teacher uses hand movements to emphasize the relationship between the effort and resistance arms.\n\n4. **Transition to Next Step**:\n   - The screen transitions to a slide with text, likely indicating further reading or homework.\n   - The teacher points to the text on the screen, suggesting it contains instructions or additional information for the students to review.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying key formulas and concepts, including the title \"9.2.2 杠杆\" and the equation $F_1 \\times L_1 = F_2 \\times L_2$. The teacher visually reviews these points by pointing to each formula in sequence, emphasizing the relationship between effort and resistance arms. He highlights the equation $F_1 \\times L_1 = F_2 \\times L_2$ with deliberate gestures, ensuring it stands out as a core takeaway. The screen to the right shows a completed table, reinforcing the practical application of these concepts. The teacher then directs attention to the screen, which transitions to a slide with text, likely indicating further instructions or homework. This visual handover suggests students should focus on the additional information presented, wrapping up the lesson with a clear emphasis on both theoretical and practical understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Lever",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[548.36 -> 623.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Effort Arm",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[625.36 -> 659.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Resistance Arm",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[625.36 -> 659.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Lever Equilibrium",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[661.72 -> 767.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Formula F1L1 = F2L2",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[661.72 -> 767.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Experiment Observation",
+        "type": "Student_State",
+        "knowledge_type": "Procedure",
+        "timestamp": "[548.36 -> 623.5]",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Formulas",
+        "type": "Visual",
+        "original_text": "Formulas and notes written in white chalk.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "Slide with further reading or homework.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Completed Lever Table",
+        "type": "Visual",
+        "original_text": "Table with columns for Effort arm, Resistance arm, Effort, and Resistance.",
+        "ocr_corrected": false
+      }
+    ],
+    "edges": [
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explains the condition for lever equilibrium using the formula."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Uses the formula to relate effort arm to effort and resistance arm to resistance."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Uses the formula to relate resistance arm to resistance and effort arm to effort."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Effort arm is a component in the lever equilibrium formula."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Resistance arm is a component in the lever equilibrium formula."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher highlights the key formula on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Blackboard summarizes key concepts discussed."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Table visualizes practical application of the formula."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Students engaged to understand the principle of lever equilibrium."
+      },
+      {
+        "source": "c6",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Students use the visual table to comprehend the experimental data."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "Conclusion slide summarizes what students should review."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

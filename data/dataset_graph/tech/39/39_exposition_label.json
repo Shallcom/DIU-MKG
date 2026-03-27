@@ -1,0 +1,150 @@
+{
+  "video_name": "39_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Identify the physical characteristics of convex and concave lenses; describe how convex and concave lenses affect light rays.",
+  "transcript": "[201.0 -> 262.62] 我们先来看这样一个视频这是野外生存时野外生存人员利用放大镜取火的视频我们观察到他们利用放大镜来将放大镜放到阳光的下面通过调整放大镜的角度让光线到达我们需要让它燃烧的木材上经过一段时间后木材就燃烧了他们顺利取到了火种那么请同学们思考这样两个问题为什么放大镜能够取火呢放大镜对光又有怎样的作用呢我们就带着这个问题开始本节课的学习老师已经给每位同学的桌子上分发了两个不同的透镜首先我们先拿出形状是这样的透镜。\n[263.66 -> 369.38] 同学们准备好了吗我们来用手来摸一下这个透镜摸一下两端并且观察一下它的形状有没有怎样的特点呢我们来感受一下哪位同学愿意分享一下你感受到了什么请你来中间比较厚边缘比较薄这是一个透镜我们再来拿起另外一个透镜它的形状是这样的我们来观察一下它的形状来用手来摸一下它的两端你感受到了什么你来分享一下中间比较薄边缘比较厚在物理学中我们就称中间比较厚边缘比较薄的这样透镜叫做凸透镜中间比较薄边缘比较厚的这种透镜叫做凹透镜那么现在我们了解了透镜的分类那我们再来观察一下这样两幅图有没有什么相同点呢我们来观察一下这个凸透镜它的边缘是弯曲的来看看凸透镜呢凹透镜呢也是弯曲的通过刚才我们的观察发现一般透镜它的两个表面至少有一个表面是球形的我们来看一下凸透镜如果我们将两个球形相互重叠中间的这个部分像不像我们刚才了解的凸透镜呀那我们再将两个圆形两个圆球分开。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a blackboard and a digital screen. The screen displays text in Chinese about survival skills.\n- The teacher gestures with her hands, likely introducing the topic.\n- The blackboard is mostly blank except for some vertical red marks on the left side.\n\n**Middle:**\n- The teacher writes \"551 選択\" on the blackboard, indicating a section or topic number.\n- She holds papers and begins explaining, pointing to the screen.\n- The screen transitions to a slide titled \"一、凸透镜和凹透镜\" (Convex and Concave Lenses) with diagrams of lenses.\n- The teacher points to the diagrams, explaining the differences between convex and concave lenses.\n\n**End:**\n- The teacher continues to gesture towards the screen, which now shows a Venn diagram comparing the lenses.\n- She emphasizes points by pointing at specific areas of the Venn diagram.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying diagrams of convex and concave lenses, along with a Venn diagram for comparison.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"551 選択\" on the blackboard, establishing the topic.\n- **Modifications**: The screen transitions from text to diagrams, aiding visual explanation.\n- **Deictic Gestures**: The teacher points to specific parts of the lens diagrams and the Venn diagram while explaining.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the diagrams.\n- The Venn diagram visually highlights similarities and differences between the lenses.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, enhancing understanding of the lesson on lenses.",
+  "visual_narrative": "Initially, the digital screen displayed introductory text about survival skills, setting the stage for the lesson. The teacher then wrote \"551 選択\" on the blackboard, establishing the topic focus. As the lecture progressed, the screen transitioned to diagrams of convex and concave lenses, with the teacher pointing to specific features to explain their differences. She constructed a visual comparison by tracing the curvature of the lenses, highlighting how light refracts differently. The teacher then introduced a Venn diagram, using gestures to trace overlapping properties, emphasizing key similarities and differences. Finally, she circled critical points on the diagram, reinforcing the concepts. This structured visual approach, combined with clear gestures and annotations, reduced cognitive load by providing a clear, step-by-step visual narrative that aligned with the verbal explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Convex Lens",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[263.66 -> 269.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Concave Lens",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[263.66 -> 269.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Light Refraction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[201.0 -> 262.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Lens Shape",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[263.66 -> 369.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Survival Techniques",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[201.0 -> 262.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Magnifying Glass Use",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[201.0 -> 262.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Lens Diagrams",
+        "type": "Visual",
+        "original_text": "Diagrams of convex and concave lenses",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Venn Diagram Lenses",
+        "type": "Visual",
+        "original_text": "Venn diagram comparing convex and concave lenses",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Exploring Lens Properties",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Shape Inspection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram helps students understand the characteristics of convex lenses."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The diagram helps students understand the characteristics of concave lenses."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The Venn diagram highlights similarities between lenses."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The Venn diagram highlights differences between lenses."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding convex lenses helps explain how they refract light."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding concave lenses helps explain how they refract light."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Lens shape defines whether it is convex."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Lens shape defines whether it is concave."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Survival techniques include using a magnifying glass to start a fire."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with the material by exploring lens properties."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "guides_discussion",
+        "intent": "Students inspect the shape of lenses to understand their classification."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

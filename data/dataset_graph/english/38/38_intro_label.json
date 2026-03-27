@@ -1,0 +1,114 @@
+{
+  "video_name": "38_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the role of incentives and punishments in education; master methods for motivating students' creativity; analyze how teacher adaptability can enhance learning effectiveness.",
+  "transcript": "[0.0 -> 124.6] 今天我来探讨一下教育的诱惑和惩罚我认为诱惑和惩罚在教育上可以鼓励学生去谨慎创造自己的创造性而更加基于教师的适应性在教育上诱惑我们可以诱惑一个学生以美丽西梅斯带门或美桑普格斯或比艾奇斯就维埃克拉斯拜登拜克里斯梅姆维卡普马斯丽德斯比艾奇斯艾斯维奥诺维尼池艾斯维尼所以它不仅可以鼓起学生的信心也能让他们学会解决问题的技巧再加上刑罚我们需要更加那些学生继续做错错的选择或做错错的事情我们可以给他们适当的刑罚我们需要更加他们之后刑罚他们而我们需要给他们更多的反应在时间内我们必须尽最好的努力去正确他们的错误选择之后我们必须在时间内尊重他们在结束之后我认为尊重和尊重是教育的生命法律是教授和学生的课题谢谢接下来我将开始教授的课题。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The slide reads \"Discovering Useful Phrases\" with the subtitle \"Lesson 1\" and the date \"2023.10.10.\"\n\n#### 2. **The Title Event**\n- The exact title on the screen is \"Discovering Useful Phrases.\" The teacher stands in front of the screen, holding papers, and gestures towards the title, likely emphasizing its importance. There is no indication of underlining or additional writing on the screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers in one hand and gestures with the other, possibly emphasizing points related to the title on the screen. There is no direct pointing to specific text or images on the screen.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the class with a presentation slide titled \"Discovering Useful Phrases\" displayed on the screen.\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture, possibly explaining the significance of the lesson title and date shown on the slide.\n- The students are seated, facing the teacher and the screen, indicating engagement with the introduction.\n\n**End:**\n- The teacher maintains focus on the screen content, using hand gestures to emphasize the lesson's introduction without additional visual changes to the slide or board.\n\nThis structured log captures the visual elements and teacher actions during the introduction phase, linking gestures to the displayed content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a screen displaying the hook object: a slide titled \"Discovering Useful Phrases\" with the subtitle \"Lesson 1\" and the date \"2023.10.10.\" The teacher gestures towards the screen, emphasizing the title as the focal point. The classroom setting includes students seated and facing the teacher, indicating their engagement with the visual introduction. Throughout the segment, the teacher uses hand movements to highlight the importance of the lesson title, maintaining focus on the screen content. The transition from the hook to the main topic is seamless, as the slide remains consistent, serving as a visual anchor for the introduction. This setup likely connects the lesson to students' existing language learning experiences, preparing them for the exploration of useful phrases by establishing a clear and focused starting point. The teacher's gestures and the static slide work together to introduce the topic, setting the stage for further exploration and learning.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Incentives",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Punishments",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Student Creativity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Teacher Adaptability",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 124.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Mistake Correction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 124.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Respect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 124.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Discovering Useful Phrases Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Discovering Useful Phrases', Lesson 1, Date: 2023.10.10.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher holds papers and gestures towards the screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "prompts_thinking",
+        "intent": "Using incentives to encourage student creativity."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Using punishments as feedback to correct mistakes."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Teacher adaptability enhances the effectiveness of incentives."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Maintaining respect when correcting mistakes."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the lesson introduction."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures engage students."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

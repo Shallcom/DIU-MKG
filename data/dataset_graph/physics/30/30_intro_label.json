@@ -1,0 +1,153 @@
+{
+  "video_name": "30_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the standards of a good physics lesson and how they develop students’ core competencies; master the components of physics core competencies and how they are manifested in classroom instruction.",
+  "transcript": "[0.0 -> 149.86] 好尊敬的各位评论老师亲爱的同学们大家晚上好今天我抽中的即兴演讲题目是谈谈我对物理好课标准的认识接下来我将从以下三个方面来进行我的阐述首先我认为物理教育应遵循学生的身心发展规律提高学生的核心素养性课程标准中也进行也指出了物理学的核心素养应该是我们物理课堂当中的重中之重它包括物理观念科学思维科学探究科学态度与责任物理观念自然是物理课堂当中的基础假如在讲电荷这一节课当中如果学生对电荷的知识不了解不清楚那么对后续我们电场的认识以及对电荷在电场中的运动是怎样的情况这一个探究也就难以下手了此外我们在物理课堂当中要时时融入私政元素国家对于我们物理课堂的重视是十分关键的比如说国家的航空航天事业发展得十分磅礴所以我认为好的物理课堂应该紧紧地把握住物理学的核心素养此外好的物理课堂还应该把握住课堂当中教师和学生之间的关系我们理想的课堂应该是以教师为主体学生为教师为主导学生为主体来进行课程的讲述教师提出问题学生根据教师的问题来进行思考进行探究主动地参与到知识的发生发展过程主动地搭建起自己的知识框架完善自己的思维逻辑体系最后我认为最重要的一点应该是物理好课应该要看十年之后对这一个学生的影响我们在物理学习当中比如说我今天给在座的同学们上了一节课叫做电荷十年之后同学们可能会忘记今天这节课的物理观念到底讲了些什么但是本节课所涉及到的方法以及科学的思维是学生们十年之后无法忘怀的这样会对学生们在以后遇到困难的时候提供一些解决方案好那么作为一名未来的物理教师我将紧跟时代的脚步做一名研发型创新型的部里教师不持于空想不务于虚身接下来开始我的实操。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features an image of a galvanometer, a device used to detect electric current.\n\n#### 2. **The Title Event**\n- The title on the screen is \"电荷\" (Electric Charge). The teacher stands in front of the screen, presenting the slide without additional writing on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the content on the slide.\n- The teacher's hand movements are directed towards the screen, indicating the galvanometer image.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays a slide with the title \"电荷\" and an image of a galvanometer.\n- The teacher gestures towards the screen, likely introducing the topic of electric charge.\n\n**Middle:**\n- The teacher continues to hold the papers, occasionally looking at them and then back at the class.\n- The teacher's gestures remain focused on the screen, emphasizing the visual content related to electric charge.\n\n**End:**\n- The teacher maintains a position in front of the screen, reinforcing the introduction of the topic.\n- No additional visual content changes occur on the board or screen during this segment.\n\nThis structured visual analysis captures the teacher's actions and their linkage to the visual content, focusing on the introduction phase of the lesson.",
+  "visual_narrative": "Initially, the screen presents an image of a galvanometer, serving as the hook to capture the students' attention. To bridge to the topic, the teacher stands in front of the screen, holding papers and gesturing towards the galvanometer image, likely highlighting its relevance to the lesson. Finally, the visual focus remains on the title \"电荷\" displayed prominently on the screen, establishing the lesson goal of exploring electric charge. This introduction connects the visual stimulus of the galvanometer to the broader concept of electric charge, setting the stage for deeper exploration and linking the observable effects of charge to fundamental principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Physics Education",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Core Competencies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Electric Charge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Galvanometer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Scientific Attitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Physics Concept",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Real-World Applications",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 149.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Electric Charge Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Electric Charge' with galvanometer image",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Gesture to Screen",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards galvanometer image on screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Learning",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of electric charge is visualized through slide content."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes key details of slide content using gestures."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Electric charge concept includes understanding of galvanometer utility."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Core competencies in physics build upon scientific thinking."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Scientific inquiry evolves from scientific thinking principles."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Physics education includes understanding of core competencies."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Physics education builds upon applications in real-world scenarios."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Core competencies encompass scientific attitude and responsibility."
+      },
+      {
+        "source": "c8",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Engagement in exploring physics concepts promotes student thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

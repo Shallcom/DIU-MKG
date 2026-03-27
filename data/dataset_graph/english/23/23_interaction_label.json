@@ -1,0 +1,120 @@
+{
+  "video_name": "23_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Students will be able to understand and express how to adopt an attitude toward challenges in an English context; they will be able to use relevant vocabulary and sentence structures in English dialogues to describe ways of solving problems.",
+  "transcript": "[557.64 -> 561.42] 你能找到吗在最后的两句话中。\n[568.08 -> 573.26] 有参加者吗可以请说说吧。\n[575.92 -> 645.84] 哦一范她曾经遇过很多困难所以她相信她的女孩们会一起从郎平的开始我们可以学到的就是当你遇到你生活中的一些困难时我们可以怎么做呢。\n[647.6 -> 649.14] 你能给我一个答案吗。\n[651.76 -> 677.1364] 是的你永远不放弃你只要短暂地解决挑战吧非常好谢谢你席亚请问一下当我们遇到一些生活中的困难的时候这不代表我们是失败者吧但那不是说我们只是失败了如果我们不跟别人聊天会不会成功呢我们必须一起合作非常好。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of the interaction. She also pointed directly to a student, indicating that she was inviting a response or participation.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact in focus was the \"Whole-Reading\" slide on the screen, particularly the highlighted text and the phrases \"Give up\" and \"We are the winner!\" The blackboard also displayed \"Living Legends\" with sub-points \"Achievements\" and \"People-challenges.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the text on the slide, specifically to the phrases \"Give up\" and \"We are the winner!\" to guide the student's understanding. She also gestured towards the blackboard, emphasizing the connection between the slide content and the notes on \"Living Legends.\"\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually validated the student's input by writing \"We are the winner!\" on the blackboard under \"People-challenges.\" She also nodded and smiled to encourage the student, and pointed to the newly written phrase to highlight its importance.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the class, holding papers and a remote.\n  - The slide titled \"Whole-Reading\" is displayed, with highlighted text and phrases \"Give up\" and \"Captain's heart problems.\"\n  - The blackboard shows \"Living Legends\" with sub-points \"Achievements\" and \"People-challenges.\"\n\n- **Middle:**\n  - The teacher makes a sweeping gesture towards the class, inviting interaction.\n  - She points directly to a student, signaling them to respond.\n  - The student stands and interacts with the teacher.\n  - The teacher points to the phrases \"Give up\" and \"We are the winner!\" on the slide, guiding the student's understanding.\n  - She gestures towards the blackboard, emphasizing the connection between the slide and the notes.\n\n- **End:**\n  - The teacher writes \"We are the winner!\" on the blackboard under \"People-challenges.\"\n  - She nods and smiles to encourage the student.\n  - The teacher points to the newly written phrase on the blackboard, highlighting its importance.\n  - The teacher continues to engage with the class, reinforcing the visual content on both the slide and the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed the \"Living Legends\" notes with sub-points \"Achievements\" and \"People-challenges,\" alongside the \"Whole-Reading\" slide highlighting phrases like \"Give up\" and \"Captain's heart problems.\" The teacher began by making a sweeping gesture towards the class, inviting students to participate actively in the discussion. She pointed directly to a student, signaling them to share their thoughts.\n\nAs the student responded, the teacher moved to the front of the class, holding papers and a remote. She pointed to the phrases \"Give up\" and \"We are the winner!\" on the slide, guiding the student's explanation. While the student elaborated, the teacher walked over to the blackboard and wrote \"We are the winner!\" under \"People-challenges,\" visually linking the student's input to the lesson content. She nodded and smiled, providing encouragement and validation.\n\nTo confirm the student's understanding, the teacher gave a distinct nod and pointed emphatically to the newly written phrase on the blackboard. This action highlighted the importance of the student's contribution and connected it back to the core lesson on overcoming challenges, as discussed in the \"Whole-Reading\" material.\n\nFinally, the teacher drew an arrow on the blackboard, connecting \"We are the winner!\" to the \"People-challenges\" section, reinforcing the theme of perseverance. This visual strategy helped students move from passively receiving knowledge to actively constructing their own understanding by seeing the direct application of the lesson's concepts in real-time. Through these gestures and visual cues, the teacher facilitated a dynamic interaction that deepened the students' comprehension and engagement with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Overcoming Challenges",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[575.92 -> 645.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Not Giving Up",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[651.76 -> 677.1364]"
+      },
+      {
+        "id": "c3",
+        "label": "Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[651.76 -> 677.1364]"
+      },
+      {
+        "id": "c4",
+        "label": "We are the winner!",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.92 -> 645.84]"
+      },
+      {
+        "id": "v1",
+        "label": "Whole-Reading Slide",
+        "type": "Visual",
+        "original_text": "Whole-Reading slide with highlighted 'Give up' and 'We are the winner!'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Living Legends Board",
+        "type": "Visual",
+        "original_text": "Blackboard displaying 'Living Legends' with sub-points 'Achievements' and 'People-challenges'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[647.6 -> 649.14]"
+      },
+      {
+        "id": "s2",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[651.76 -> 677.1364]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "The teacher highlights 'We are the winner!' on the slide to underscore victory over challenges."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The teacher writes 'We are the winner!' on the board to visually reinforce the idea."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The concept of overcoming challenges includes not giving up as a fundamental principle."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Overcoming challenges includes the necessity of cooperation."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The phrase 'We are the winner!' builds upon the concept of overcoming challenges."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "The teacher uses the slide to guide the student's answer about challenges."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "guides_discussion",
+        "intent": "The teacher guides the discussion towards the principle of not giving up."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "The principle of cooperation evolves from the concept of not giving up."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

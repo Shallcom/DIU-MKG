@@ -1,0 +1,134 @@
+{
+  "video_name": "41_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "- Master the classification of copyright and its specific components.  \n- Understand how translation rights are situated within the economic rights of copyright.  \n- Learn to analyze the issues concerning the use of others' works in particular circumstances.",
+  "transcript": "[698.290867 -> 753.86] 已经有六十年了好请坐在这里我们还要涉及到的一点是刚才我们在学习著作权的时候共分为了两类一个是著作人生权一个是著作财产权而外国文学家对其的作品进行翻译是基于他的著作财产权当中的翻译权那么第三点李先生离世六十年之后编剧小陈期望以其名素材改编成电影上映这时候编剧小陈是否有权利这么做呢这位同学你来回答一下我觉得有权利是有权利的为什么呢因为他这个是用了诸葛泰坦选中的改编权然后是保护机制作者有身是演家去做五十年然后他已经是六十年已经进入作品这个工作里任何人都可以免费好请坐那么同学们到底对不对又依据的是什么呢谢谢各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a diagram with arrows and text boxes, structured to show a process or flow of concepts.\n   - The blackboard contains handwritten notes, including a list of key terms or concepts written in Chinese characters.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide**: \n     - Text boxes with labels such as \"信息化\" (Informatization), \"文化\" (Culture), and \"教育\" (Education).\n     - Arrows indicating a directional flow between these concepts.\n   - **Blackboard**:\n     - Key terms written in Chinese, including \"尊重知识产权\" (Respect Intellectual Property Rights), \"著作权\" (Copyright), \"专利权\" (Patent Rights), and \"相关法律\" (Related Laws).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, likely emphasizing the flow between \"信息化\" and \"文化\" as indicated by the arrow.\n   - The teacher points to the blackboard, possibly highlighting the list of key terms related to intellectual property and laws.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided. The focus remains on summarizing the current lesson content.\n\nThis structured visual summary consolidates the lesson's key points, with the teacher using gestures to reinforce the connections between concepts on both the slide and the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a conceptual diagram featuring interconnected text boxes labeled \"信息化\" (Informatization), \"文化\" (Culture), and \"教育\" (Education), with arrows indicating their relationships. The blackboard shows handwritten key terms related to intellectual property, including \"尊重知识产权\" (Respect Intellectual Property Rights), \"著作权\" (Copyright), \"专利权\" (Patent Rights), and \"相关法律\" (Related Laws). The teacher points to each section of the slide, emphasizing the flow between concepts, particularly highlighting the connection between \"信息化\" and \"文化.\" Gestures are directed towards the blackboard to reinforce the importance of the listed terms. The teacher's movements suggest a review of the core ideas, ensuring students visually grasp the lesson's main points. No visual homework or next-step instructions are present in the frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Copyright",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Translation Rights",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Economic Rights",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Intellectual Property Rights",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Patent Rights",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Respect Intellectual Property",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Related Laws",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[698.29 -> 753.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Visual Diagram on Slide",
+        "type": "Visual",
+        "original_text": "Diagram showing informatization, culture, education flow",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Key Terms",
+        "type": "Visual",
+        "original_text": "Key terms on intellectual property written on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[698.29 -> 753.86]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Translation rights are part of economic rights."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The blackboard highlights key terms related to intellectual property rights."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Respecting intellectual property is based on understanding intellectual property rights."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Visual slide summarizes related laws through interconnected concepts."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Patent rights are a specific type of intellectual property rights."
+      },
+      {
+        "source": "s1",
+        "target": "c2",
+        "relation": "prompts_thinking",
+        "intent": "The student's answer indicates thinking about translation rights."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "Slide visual emphasizes the flow between economic rights concepts."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Teacher's gesture on blackboard reinforces importance of intellectual property rights."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

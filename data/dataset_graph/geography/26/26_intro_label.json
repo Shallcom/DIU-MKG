@@ -1,0 +1,179 @@
+{
+  "video_name": "26_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the connotations and multidimensional characteristics of regional cognition; master multi‑scale analysis methods within regional cognition; recognize the value of regional cognition in the realm of affective attitudes and values.",
+  "transcript": "[0.0 -> 103.14] 为什么这么说呢首先我们来看到区域认知的内涵区认知包括大尺度小尺度等多种尺度下的学生对于区域的认识同时呢它也包括人文与自然两种方面此外它还包括了区认知的方法等等所以区认知是一个多方面的不仅仅是对一个区域的认识更包含了方法等各种层面此外我们再来看三个目标主要包括知识与技能过程与方法以及情感态度与价值观那么首先我们来看知识与技能首先学生对于知识的对区域的认识体现了知识层面这无疑是正确的所以这个观点是有它的正确之处的但是此外呢区域认知难道就没有体现过程与方法吗学生对于区域的认识不也是需要掌握区域认知的方法的吗所以说这个观点没有体现他区认知对于过程与方法方面的体现再三我们再来看到情感态度与价值观为什么说区认知还体现了情感态度与价值观呢。\n[104.34 -> 144.94] 南开大学的一位教授名叫艾跃进曾经说过一个国家它之所以强大并不仅仅因为它的经济或者政治或者产业发展它的根本在于它的国土面积那么学生对于我国国土面积或者说我国这个大尺度范围内的区域认知难道不是一种家国情怀的体现吗所以我认为这个观点是片面的区认知渗透了三维目标中的三个方面它不仅仅是知识目标我的讲演到此结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the text on the screen: \"何人：何为感恩？\" (Translation: \"Who: What is gratitude?\"). This text is prominently displayed on the screen at the beginning of the lesson.\n\n#### 2. **The Title Event**\n- The title on the screen is \"何人：何为感恩？\". The teacher does not physically write this; it is already displayed on the screen. The teacher stands in front of the screen, ensuring the title is visible to the students.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points while speaking. He occasionally points to the screen, likely to draw attention to the title text.\n- The teacher holds papers, possibly notes or a script, and gestures with them while speaking.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The screen displays the title \"何人：何为感恩？\".\n- The teacher walks to the front of the classroom and stands in front of the screen.\n- The teacher gestures with his hands, pointing towards the screen to emphasize the title.\n\n**Middle:**\n- The teacher continues to speak, using hand gestures to engage the audience.\n- He occasionally looks at the papers in his hand, possibly referring to notes.\n- The teacher maintains eye contact with the students, ensuring engagement.\n\n**End:**\n- The teacher continues to gesture and speak, maintaining focus on the title displayed on the screen.\n- The visual content remains consistent, with the title \"何人：何为感恩？\" as the focal point throughout the segment.\n\nThis structured visual analysis captures the evolution of the lesson introduction, linking the teacher's actions to the visual content displayed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a large screen displaying the hook text \"何人：何为感恩？\". This text serves as the initial visual stimulus, immediately drawing the students' attention to the central theme of gratitude. The teacher, dressed formally and wearing a lanyard, actively engages with the audience by gesturing towards the screen, emphasizing the importance of the question displayed. He holds papers, likely containing notes, and uses them to support his verbal explanations. Throughout the introduction, the teacher maintains a dynamic presence, frequently pointing to the title on the screen to reinforce the lesson's focus. The visual aid remains consistent, with the title prominently displayed, ensuring that the main topic is clear from the outset. The teacher's gestures and eye contact with the students create a bridge, connecting the hook to the broader discussion of gratitude, setting the stage for deeper exploration of the concept. This structured approach helps link the new knowledge to the students' existing experiences, preparing them for the subsequent learning activities.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Title on Screen",
+        "type": "Visual",
+        "original_text": "Who: What is gratitude?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Regional Cognition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c2",
+        "label": "Large Scale Cognition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Small Scale Cognition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c4",
+        "label": "Human and Natural Aspects",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c5",
+        "label": "Methods in Cognition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Knowledge and Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c7",
+        "label": "Process and Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "c8",
+        "label": "Affective Attitudes and Values",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.14]"
+      },
+      {
+        "id": "t1",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses gestures to emphasize points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c9",
+        "label": "National Land Size",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[104.34 -> 144.94]"
+      },
+      {
+        "id": "c10",
+        "label": "National Sentiment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[104.34 -> 144.94]"
+      },
+      {
+        "id": "c11",
+        "label": "Gratitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 103.14]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "v1",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The screen displays the initial hook question about gratitude."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Regional Cognition includes cognition at different scales."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Regional Cognition includes cognition at different scales."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Regional Cognition considers both human and natural aspects."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Regional Cognition involves various methods for analysis."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Knowledge and Skills involve understanding regional cognition."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The process and method of cognition build upon specific methods."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Affective attitudes and values recognize the value of regional cognition."
+      },
+      {
+        "source": "t1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to emphasize the main text on screen."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "The national land size contributes to national sentiment."
+      },
+      {
+        "source": "s1",
+        "target": "t1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher gestures encourage student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

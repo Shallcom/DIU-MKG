@@ -1,0 +1,204 @@
+{
+  "video_name": "14_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chinese",
+  "teaching_goal": "Analyze Socrates' argumentative methods and their role in understanding justice; comprehend the concept of justice and its temporal characteristics.",
+  "transcript": "[746.48 -> 790.28] 也许有点难回答对不对那接下来老师就想请大家思考一下这是发生在公元前三九九年的场景回到了历史现场但现在是崭新的二零二四年了正义是否具有时代性呢正义一直是永恒的吗这个问题也许比较难回答但是同学们相信通过这一节课的学习通过苏格拉底层层剖析举例类比论证我们已经对正义有了新的理解那么请大家课后继续通读全篇然后来写一篇读后稿谈一谈你对正义的理解。\n[809.72 -> 821.2] 魏杰克感受正义也感受到了机智善变以礼服人的苏格拉底好这一堂课就上到这里作业已经布置在白板上了下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in white chalk.\n   - The layout includes several lines of text, each representing a different concept or term.\n\n2. **Key Knowledge Items (Content View)**:\n   - The blackboard displays the following key terms:\n     - 人应当坚持正义 (People should uphold justice)\n     - 称谓 (Titles)\n     - 谦辞 (Modest expressions)\n     - 美称 (Complimentary titles)\n     - 别称 (Alternative titles)\n     - 是论证 (Is argumentation)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher writes additional text on the blackboard, specifically adding \"可以称人\" (Can be called) and \"称谓词\" (Title words) to the list.\n   - The teacher gestures towards the newly written terms, likely emphasizing their importance or explaining their relevance.\n   - The teacher holds papers and occasionally looks at the students, possibly to gauge understanding or to prepare for further explanation.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide titled \"作业布置，学以致用\" (Homework Assignment, Apply What You've Learned).\n   - The slide includes instructions or tasks for the students, though specific details are not fully visible. The visible text suggests a focus on applying the lesson's content through homework.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying a list of key terms written in white chalk, including \"人应当坚持正义,\" \"称谓,\" \"谦辞,\" \"美称,\" \"别称,\" and \"是论证.\" The teacher adds \"可以称人\" and \"称谓词\" to the list, enhancing the summary. Throughout the review, the teacher gestures towards the newly written terms, emphasizing their significance. The screen transitions to a slide titled \"作业布置，学以致用,\" indicating the next steps for the students. This slide suggests applying the lesson's content through homework, though specific details are not fully visible. The teacher's gestures and additions to the blackboard visually reinforce the core concepts, preparing students for the next task.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Justice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Socrates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Argumentative Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Temporal Characteristics of Justice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c5",
+        "label": "People Should Uphold Justice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Titles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c7",
+        "label": "Modest Expressions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c8",
+        "label": "Complimentary Titles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c9",
+        "label": "Alternative Titles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c10",
+        "label": "Is Argumentation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c11",
+        "label": "Can Be Called",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "c12",
+        "label": "Title Words",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[746.48 -> 790.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "The blackboard contains key points about justice and titles.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Homework Assignment Slide",
+        "type": "Visual",
+        "original_text": "The slide instructs students to apply the lesson's content through homework.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Explores the evolving perception of justice over time."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Discusses Socratic methods in understanding justice."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Depicts Socrates' role in teaching through argumentation."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Promotes the principle of upholding justice."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Titles encompass modest expressions."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Titles also contain complimentary terms."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Titles may involve alternative descriptions."
+      },
+      {
+        "source": "c10",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Refines Socratic argumentative procedures."
+      },
+      {
+        "source": "c11",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Describes the capability to assign titles."
+      },
+      {
+        "source": "c12",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Specifies terms that qualify as titles."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Visually reinforces the key concept of justice."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Highlights various elements of titles."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to apply lesson insights to homework."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "engages",
+        "intent": "Keeps students focused on the lesson through visual organization."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,171 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Observe the common features of the crystal structures of graphite and diamond; compare how different substances arrange at the microscopic level and how this influences their properties; analyze why the same substance can form different crystal structures under varying conditions.",
+  "transcript": "[481.10562525 -> 491.36] 那么这是两张老师提前放到PPT上的石墨的微观结构和石岩晶体结构请同学们观察后告诉老师石岩的晶体结构和石墨的晶体结构具有怎样共同的特性呢畅所欲言这位同学你有什么想法吗你觉得他们的排列都是怎么样的对整齐比较的规则对吧对所以我们就发现啊经体的微观结构排列比较规则且有空间上的周期性。\n[509.7 -> 619.58] 那么老师的问题又出现了那为什么有的同一物质在不同条件下会生成不同的晶体呢我们同样观察微观结构这是石膜的微观结构这是铜式碳原子构成的金刚鼠的微观结构你会发现两种排列相同吗不相同这就是导致它们的原因因为它按照规则排列但是规则可能有不同的规则那么这就会导致微粒的排布不同从而导致它们形成了不同的晶体那么现在同学们能不能思考太空电梯和铜为什么它们的强度会差这么多呢老师提醒一下同学们因为我们的笔芯它是数末它是层状结构那么层与层之间我们会发现它们的距离比较远还是比较近呢对距离比较远从而会导致分子间的相互纵力比较大还是相对较小呢相对较小因为我们学习过分子间相互纵力与分子间距关系我们就会知道因为它层较远所以它分子纵力也就较小那么对于石墨烯来说因为我们太空电梯用的石墨烯材料石墨烯其实只是单层的石墨那么单层的石墨之间碳原子之间的间隔相对于层状来说较小还是较近还是较远呢单层之间对单层之间较近从而导致它们的分子作用力较强所以才会有同种物质但强度却有很大缺这样的现象那么接下来我们将继续学习晶体的分类我的说课到此结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains handwritten notes and diagrams, while the slide displays a structured layout with diagrams and text.\n   - The slide includes a diagram with molecular structures and a question in Chinese, along with bullet points summarizing key concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Slide Content**:\n     - Diagrams of molecular structures.\n     - Question: \"为什么同一晶体在不同方向的性质会完全不同呢？\" (Why do the same crystals have completely different properties in different directions?)\n     - Bullet points: \n       - \"宏观的各向异性\"\n       - \"微观的各向异性\"\n   - **Blackboard Content**:\n     - Main heading: \"固体\" (Solids)\n     - Subsections:\n       - \"1. 晶体 (crystal)\" with subcategories:\n         - \"规则 (regular)\"\n         - \"非晶体 (non-crystal)\"\n       - \"2. 观察: 各向异性 ↔ 非晶体\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, pointing at the molecular diagrams and the question to emphasize the concept of anisotropy.\n   - The teacher uses hand movements to highlight the bullet points on the slide, reinforcing the distinction between macroscopic and microscopic anisotropy.\n   - The teacher points to the blackboard, tracing the flow from \"晶体\" (crystals) to \"各向异性\" (anisotropy), linking the concepts visually.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The teacher appears to be concluding the session, as indicated by the summary gestures and the static display of key concepts on the slide and board.",
+  "visual_narrative": "The lesson concludes with a slide displaying molecular diagrams and key bullet points summarizing the concept of anisotropy in crystals. The teacher visually reviews the content by pointing to each molecular diagram and bullet point in sequence, emphasizing the distinction between macroscopic and microscopic anisotropy. The blackboard complements this with handwritten notes, where the teacher traces the flow from \"晶体\" (crystals) to \"各向异性\" (anisotropy), reinforcing the connection between these concepts. The visual focus remains on the core takeaway of anisotropy, with no explicit homework or next-step instructions visible.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Crystal Structures",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[481.10562525 -> 491.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Graphite Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[481.10562525 -> 491.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Diamond Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[481.10562525 -> 491.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Microscopic Arrangement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[481.10562525 -> 491.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Anisotropy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[509.7 -> 619.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Macroscopic Anisotropy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[509.7 -> 619.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Microscopic Anisotropy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[509.7 -> 619.58]"
+      },
+      {
+        "id": "c8",
+        "label": "Properties in Different Directions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[509.7 -> 619.58]"
+      },
+      {
+        "id": "c9",
+        "label": "Molecular Structure Slide",
+        "type": "Visual",
+        "original_text": "Diagrams of molecular structures on slide with question on anisotropy",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Solid Heading",
+        "type": "Visual",
+        "original_text": "Blackboard heading: Solids",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Crystal to Anisotropy Flow",
+        "type": "Visual",
+        "original_text": "Teacher traces flow from crystals to anisotropy on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Demonstrates part of the crystal structure concept."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Demonstrates part of the crystal structure concept."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Microscopic arrangement underpins the concept of anisotropy."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Anisotropy involves macroscopic variations."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Anisotropy involves microscopic variations."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Properties vary due to anisotropy."
+      },
+      {
+        "source": "c9",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Slide diagram serves to visualize microscopic arrangement."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Slide diagram serves to visualize anisotropy."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Blackboard heading 'Solids' provides a structural basis for discussing crystals."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Teacher's gesture emphasizes the concept of anisotropy."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Sequential flow on the blackboard demonstrates development from crystal to anisotropy."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Teacher prompts student discussion on anisotropy."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

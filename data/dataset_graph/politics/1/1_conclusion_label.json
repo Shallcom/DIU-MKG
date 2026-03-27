@@ -1,0 +1,133 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the characteristics and significance of the people’s congress system as China’s form of government; be able to analyze the relationship between the political system and the state system; demonstrate comprehension and application of youth responsibility by composing a speech.",
+  "transcript": "[482.52 -> 525.74] 是不是像一个拼图似的人民代表大会是我国的政体是我国与人民民主专政的国体相适应的政权组织形式是坚持党的领导人民当家作主依法治国有期统一的根本制度安排最后老师给同学们布置一个任务作为本节课的医学延伸请同学们唱讲二零三五二零五零到那时你在什么岗位上又该如何助力中国的发展呢请同学们以青年担当为主题撰写一篇演讲稿下节课我们一起交流分享好下课谢谢各位同学各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It contains a text box with key points.\n   - The blackboard has a diagram with two labeled sections: \"现状\" (current situation) and \"理想\" (ideal).\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Text: \n     - \"教师评语\" (Teacher's Comment)\n     - A text box with a paragraph discussing the importance of teacher evaluations and their role in student development.\n   - Blackboard Diagram:\n     - \"现状\" (current situation)\n     - \"理想\" (ideal)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text box on the slide, emphasizing the content within it.\n   - The teacher gestures towards the blackboard diagram, likely summarizing the contrast between current and ideal situations.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided. The focus remains on the summary content displayed on the slide and blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a text box summarizing key points about teacher evaluations. The blackboard features a diagram contrasting \"现状\" (current situation) and \"理想\" (ideal). The teacher points to the text box on the slide, emphasizing its content, and gestures towards the blackboard diagram, highlighting the differences between the two sections. No additional visual elements indicate homework or next steps, focusing solely on the summary content presented.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "People's Congress System",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Political System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "c3",
+        "label": "State System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Youth Responsibility",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Teacher Evaluations",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Current Situation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Ideal Situation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[482.52 -> 525.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Teacher Comment",
+        "type": "Visual",
+        "original_text": "A slide displaying teacher evaluations and their importance.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram contrasting 'Current Situation' and 'Ideal Situation'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Composing Speeches",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how the People's Congress System is a political structure."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Discusses the political system's role in the state framework."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to express youth responsibility through speeches."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlights the importance of teacher evaluations as seen on the slide."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Shows the current situation in the diagram for clarity."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Shows the ideal situation in the diagram for clarity."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "contrasts",
+        "intent": "Demonstrates the differences between current and ideal situations."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Elaborates on the ideal goals within the state system."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,159 @@
+{
+  "video_name": "30_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Master the methods and applications of teaching‑aid fabrication.",
+  "transcript": "[0.0 -> 160.28] 我是科学组的第三十号选手我的讲演的题目是是否做过教具并描述做教具的过程以及它在实际教育当中的应用情况我曾经在之前做过一个关于光的反射以及折射的演示仪在制作这个教具之前呢我是有通过调研发现在光的反射与折射当中发现的引入较为生硬而且在描述空间关系时比较生硬这对于学生来说空间关系并不容易直接得出因为在他们的认知水平上他们还没有学习过空间的相关知识因此我的这个教具它是一个立体的模型首先最上方是一个球体这个球体的中间以直径往下是水上半是空的接着在这个球体的周围安装一个导轨它可以滑动这个激光笔当激光笔从某一个点入射以后它就会在中间点发生反射以及折射那么在这个装置的底部呢安装了一个底座当我们去旋转这个底座的时候我们可以通过观察当入射光线反射光线以及折射光线分别它们在同一个面共线的时候说明反射光线入射光线以及折射光线与入射光线是共面的那么怎么引入发现呢在老师的引导下我们可以在中间再安装一个激光笔用不同的颜色射出激光那么它就作为我们发现的直观认识通过这样的教具可以实现对于三线共面以及发现引入的更好构建它在实际应用中唯一的缺点则是不够稳定但是可以让学生能够直观地认识入射光线反射光线折射光线以及法线的空间关系下面开始我的片段教学我的选题是电流和电路。\n[167.0 -> 211.42] 同学们在之前呢我们已经学习过了电荷的相关知识在生活当中我们也常常使用各种的电器那么今天呢我为大家提供了我给大家提供了三个电器来看它们分别是小灯泡风铭器以及小电动机我要给同学们提出一个小小的实验任务请大家利用这些材料以及一个开关还有一节电池和一些导线来做什么呢。\n[214.32 -> 230.0] 让小灯泡还有电动机以及它风铭机都正常地工作接下来我就请同学们先用导线连接电路先后连接三次让它们工作且要受到开关的控制在这个过程当中同学们一定要注意安全必须要保证不能用导线直接连接这个电池的正极以及负极请同学们先在你的书本上画下你想怎么连接着请大家分组共同合作来完成这个电路的连接。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide titled \"15.2 电流和电路\" (15.2 Current and Circuits). This is the hook object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"15.2 电流和电路\" is displayed on the screen. The teacher gestures towards the title, emphasizing its importance without physically writing it on the board.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as raising a hand to signal the start of the lesson.\n- The teacher points towards the screen, directing attention to the title and later to the diagram explaining the connection of small light bulbs, a small motor, and a small fan to a power source.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, with the slide \"15.2 电流和电路\" displayed on the screen.\n- The teacher gestures towards the screen, emphasizing the title. The slide includes the text \"科学9年级\" (Science 9th Grade) and \"RJ A 电子白板\" (RJ A Electronic Whiteboard).\n\n**Middle:**\n- The teacher continues to gesture, using hand movements to engage the class and emphasize the lesson's focus.\n- The teacher points to the screen, transitioning to a new slide that shows a diagram with components: a power source, small light bulbs, a small motor, and a small fan.\n- The slide text reads: \"怎样让小灯泡、小电动机、小风扇正常工作呢?\" (How to make the small light bulbs, small motor, and small fan work normally?) and \"实验器材：小灯泡、小电动机、小风扇各一个，一个开关，一节干电池，若干导线\" (Experimental equipment: one small light bulb, one small motor, one small fan, one switch, one dry cell battery, several wires).\n\n**End:**\n- The teacher explains the diagram, using hand gestures to indicate the connections and components.\n- The teacher points to different parts of the diagram, highlighting the power source, switches, and components to illustrate the circuit setup.\n\nThis structured visual analysis captures the evolution of the lesson's visual elements, linking the teacher's actions to specific content on the screen and board.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe lesson begins with the teacher standing in front of a classroom, with the slide \"15.2 电流和电路\" prominently displayed on the screen, serving as the initial visual hook. The teacher gestures towards the title, emphasizing its significance. The scene transitions smoothly as the teacher points to the screen, directing attention to the title and the accompanying text \"科学9年级\" and \"RJ A 电子白板.\" The visual aid then shifts to a detailed diagram illustrating a circuit setup with a power source, small light bulbs, a small motor, and a small fan. The teacher actively engages with the diagram, using hand gestures to highlight key components and connections, such as the power source and switches. This transition from the title slide to the circuit diagram effectively bridges the hook to the main topic, grounding the introduction in a practical context. By visually linking the theoretical concept of electric circuits to a tangible diagram, the teacher connects new knowledge to students' existing understanding of basic electrical components, setting the stage for deeper exploration of circuit functionality and principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Current and Circuits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 167.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Electric Charge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[167.0 -> 211.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Electronics in Daily Life",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[167.0 -> 211.42]"
+      },
+      {
+        "id": "c4",
+        "label": "Small Light Bulb",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[211.42 -> 230.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Small Motor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[211.42 -> 230.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Small Fan",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[211.42 -> 230.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Switch",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[214.32 -> 230.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Dry Cell Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[214.32 -> 230.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Wires",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[214.32 -> 230.0]"
+      },
+      {
+        "id": "c10",
+        "label": "Safety Precautions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[214.32 -> 230.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Electric Circuits Slide",
+        "type": "Visual",
+        "original_text": "Slide showing components: power source, small light bulbs, motor, fan.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Activity",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The concept of electric circuits is depicted through a diagram on the slide."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Knowledge about electric charge supports understanding of electronics used daily."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The small light bulb is one of the components shown in the circuit diagram."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The small motor is one of the components shown in the circuit diagram."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The small fan is one of the components shown in the circuit diagram."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The switch is part of the components involved in the circuit setup."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The dry cell battery is essential for powering the circuit."
+      },
+      {
+        "source": "c9",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Wires connect the components in the circuit diagram."
+      },
+      {
+        "source": "c10",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Safety guidelines are prompting students to think about safe circuit construction."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Group activities are designed to deepen understanding of current and circuits."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,131 @@
+{
+  "video_name": "8_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Understand the distinction between free water and bound water and their physiological functions; master how water status influences cellular metabolism; analyze the significance of changes in the free‑to‑bound water ratio for plant overwintering.",
+  "transcript": "[475.321333 -> 489.3] 首先是自由水自由水看名字就很自由所以说它是游离的状态那还有一种状态叫做结合水假如我是一个水分子我和这位同学结合在一起变成一种结合的状态\n[490.76 -> 511.12] 那自由水和结合水它们有什么样的差异呢我们一起来看一看自由水它是细胞内的良好的溶剂而结合水是细胞的重要结构的组成部分我们一起来想一想自由水多了会怎么样呢\n[512.78 -> 549.44] 我们前面说了自由水是良好的溶剂多的生化反应都在其中进行所以说自由水的比例大代谢就更旺盛真的那结核水的比例大呢比如说我们看一下北方冬小麦现在已经到了冬天了那北方的冬小麦在这个时候它的结核水比例会升高升高为什么呢我们想想地面气温下就是解冰层面他说对不对所以说我们的知识还可以广泛地应用在我们的农业生产中\n[551.76 -> 554.52] 接下来我们来玩一个小游戏\n[555.66 -> 561.46] 请同学们我们找一位幸运的观众来抽取一个题目\n[563.36 -> 595.321333] 不要告诉他们上台来给大家做一个演示或者说你也可以选择用肢体语言表达也可以用语言来表达但是不能说出其中的字来时间交给你了我画吗可以我们认真来看啊那我还是不要面包也可以结合哎呀那我们画一个题目好不好自由对吧你这么的相当鼓励好我们请回啊相信啊通过我们刚刚的这个小游戏我们对了本节课的核心有一个更深入的了解",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She then pointed directly to the interactive whiteboard, indicating the content to be discussed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the slide displayed on the interactive whiteboard, which contained text and highlighted sections in red and blue. The slide was titled \"你‘画’我猜\" (You 'Draw' I Guess), suggesting a collaborative activity.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As the teacher engaged with the students, she moved towards the front desk, picking up papers, possibly to distribute or review student work. She maintained eye contact with the students, nodding and gesturing to encourage participation.\n- When a student approached the front, the teacher stepped aside, allowing the student to take the lead, indicating a shift in focus to the student's interaction with the board or materials.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher observed the student's actions closely, ready to provide feedback. Although not explicitly shown in the frames, her attentive posture and readiness to engage suggest she would visually validate or correct the student's input through gestures or annotations on the board if needed.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher writes on the blackboard, listing items such as \"细胞中的无机物\" (Inorganic substances in cells) and \"水\" (water), alongside \"无机盐\" (inorganic salts).\n  - She points to the interactive whiteboard, highlighting specific text in red and blue boxes, indicating key concepts or questions for discussion.\n\n- **Middle:**\n  - The teacher transitions to a slide titled \"你‘画’我猜\" (You 'Draw' I Guess), signaling a shift to an interactive activity.\n  - She gestures towards the class, inviting participation, and moves to the front desk, preparing materials.\n\n- **End:**\n  - A student approaches the front, and the teacher steps back, allowing the student to engage with the materials or board.\n  - The teacher remains attentive, ready to provide visual feedback or guidance as the student interacts.\n\nThis structured approach ensures the teacher effectively manages dialogue and co-constructs knowledge through visual strategies, maintaining focus on both the board content and student engagement.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed key concepts related to \"细胞中的无机物\" (Inorganic substances in cells), with items like \"水\" (water) and \"无机盐\" (inorganic salts) listed. The teacher began by gesturally inviting students to participate, pointing to the interactive whiteboard displaying the slide titled \"你‘画’我猜\" (You 'Draw' I Guess), signaling the start of an engaging activity.\n\nAs the teacher facilitated, she moved to the front desk, picking up materials and preparing for student interaction. When a student approached the front, the teacher stepped back, allowing the student to take the lead. She maintained an attentive posture, nodding and gesturing to encourage the student's explanation, creating a supportive environment for active participation.\n\nTo validate the student's input, the teacher gave a distinct nod and prepared to provide feedback, though the specific action was not shown. Her attentive presence and readiness to engage visually confirmed the student's efforts, linking their response back to the core lesson content on the board.\n\nThrough these gestures, the teacher helped students move from passively receiving knowledge to actively constructing their own understanding. By inviting participation, facilitating interaction, and providing visual feedback, she reinforced the connection between the student's response and the lesson's key concepts, fostering a dynamic and engaging learning experience.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Free Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[475.321333 -> 489.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Bound Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[475.321333 -> 489.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Physiological Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[475.321333 -> 511.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Water and Metabolism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[511.12 -> 549.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Overwintering in Plants",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[549.44]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard Content",
+        "type": "Visual",
+        "original_text": "Slide with highlighted text for discussion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Drawing Game Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'You Draw I Guess' inviting student interaction",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Demonstration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Interactive Participation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes one of the water types involved in cellular physiological functions."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes the other water type involved in cellular physiological functions."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Explains how water status influences plant overwintering."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Explains how free water supports metabolism."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how bound water contributes to cell structure."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Uses interactive slides to engage students in discussion."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "prompts_thinking",
+        "intent": "Student takes lead at interactive slide, fostering deeper engagement."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "guides_discussion",
+        "intent": "Student response helps elaborate on free water concept."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "guides_discussion",
+        "intent": "Student response helps elaborate on bound water concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

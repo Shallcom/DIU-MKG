@@ -1,0 +1,133 @@
+{
+  "video_name": "11_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Understand the importance of interdisciplinary integration in English education; analyze the relationship between cultural background and language learning; apply a cross‑cultural perspective to increase participation in the English classroom.",
+  "transcript": "[0.0 -> 28.84] Distinguished judges, today I'm here to discuss whether it is important to mix many subjects in our English class and the challenges about it. So from my perspective I think it is super necessary to mix many subjects in our English education. For example,\n[28.84 -> 36.42] there is text about the diverse cultures in the United States. And when we teach this lesson,\n[36.42 -> 43.24] we not only teach the language to students but also many cultures' history. For example,\n[43.24 -> 60.0] we can mention the background about the African Asians in the new audience. Like we can discuss these kind of background history cultures to students so that can make them feel more interested about learning English class. And also students then can understand our own cultures,",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The video begins with a yellow title screen featuring the text \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" and \"National Contest of Teaching Skills for Teacher-College Students\" in English. The screen also includes a colorful logo and the number \"10th\" prominently displayed.\n\n#### 2. The Title Event\n- **Title on Screen**: \"Unit 2: Wildlife Protection - Make an Effective Poster - Reading for Writing\"\n- **Teacher's Action**: The teacher stands beside the screen, which displays the title. No specific action like underlining is observed, but the teacher's presence emphasizes the title.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly listed as bullet points in the visible frames. The focus is on the title and introductory content.\n\n#### 4. Key Gestures\n- **Teacher's Actions**: The teacher uses hand gestures to engage with the audience, likely emphasizing points related to the title. Specific gestures like pointing or tracing are not visible in the frames provided.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- **Hook Object**: The video starts with a title screen introducing the teaching skills competition.\n- **Transition**: Moves to a classroom setting where the teacher stands next to a screen displaying the lesson title.\n\n**Middle**\n- **Title Display**: The screen shows \"Unit 2: Wildlife Protection - Make an Effective Poster - Reading for Writing.\"\n- **Teacher's Presence**: The teacher stands beside the screen, using body language to engage students, though specific gestures are not detailed in the frames.\n\n**End**\n- **Classroom Interaction**: The teacher continues to stand by the screen, maintaining focus on the lesson introduction. No additional visual content changes are observed.\n\n### Summary\nThe introduction phase centers on the title screen and the lesson's focus on wildlife protection and poster creation. The teacher's presence and gestures aim to engage students, though specific interactions with the content are minimal in the provided frames. The visual emphasis remains on the lesson's title and thematic focus.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, serving as the hook, which introduces the context of the teaching skills competition. The scene transitions to a classroom setting where the teacher stands beside a large screen displaying the lesson title, \"Unit 2: Wildlife Protection - Make an Effective Poster - Reading for Writing.\" The teacher's presence and body language suggest engagement with the students, though specific gestures are not detailed. The visual focus remains on the screen, emphasizing the lesson's thematic focus on wildlife protection and poster creation. This setup bridges the competition context to the practical task of creating educational posters, linking the students' existing knowledge of wildlife with the new skill of effective communication through visual aids. The introduction effectively sets the stage for exploring how to convey important environmental messages creatively and persuasively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Interdisciplinary Integration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 28.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Cultural Background",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[28.84 -> 36.42]"
+      },
+      {
+        "id": "c3",
+        "label": "Language Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[36.42 -> 43.24]"
+      },
+      {
+        "id": "c4",
+        "label": "Diverse Cultures in US",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[28.84 -> 43.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Cultural History",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[43.24 -> 60.0]"
+      },
+      {
+        "id": "c6",
+        "label": "African American Backgrounds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[43.24 -> 60.0]"
+      },
+      {
+        "id": "c7",
+        "label": "English Class Interest",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[43.24 -> 60.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Screen",
+        "type": "Visual",
+        "original_text": "National Contest of Teaching Skills for Teacher-College Students",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Unit Title",
+        "type": "Visual",
+        "original_text": "Unit 2: Wildlife Protection - Make an Effective Poster - Reading for Writing",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Interdisciplinary integration enhances understanding of cultural backgrounds."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Cultural background is crucial for language learning."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The US's diverse cultures include various cultural histories."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Cultural history includes African American backgrounds."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "promotes",
+        "intent": "Understanding African American backgrounds increases interest in English class."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The title screen sets the context for the lesson's focus on wildlife protection."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Unit title reflects interdisciplinary integration through wildlife protection theme."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Diverse cultures prompt students to think about language learning as a cultural process."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

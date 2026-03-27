@@ -1,0 +1,166 @@
+{
+  "video_name": "49_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "- Be able to identify amphibians’ physical characteristics and their relationship with their habitats.  \n- Understand the principle that structure and function are mutually adapted.  \n- Be able to propose specific measures for protecting amphibians.",
+  "transcript": "[591.46 -> 634.36] 你们能够得出什么结论吗就是因为他身体的这些特点才能够使得他在陆地上生活又能在水中生活是不是啊结构与功能相适应的观点啊大家在课本上记录下来。\n[648.82 -> 677.5] 大家记完了吗那么除了我们前面说的青蛙属于两栖动物那么大家还能举例说明一些生活中的两栖动物有哪些呢有哪位同学愿意分享一下。\n[678.82 -> 713.96] 来这位同学蟾蜍娃娃鱼龙猿非常好老师这里展示了娃娃鱼和龙猿但是这位同学还说了有蟾蜍回答得非常好大尼又叫娃娃鱼是现从最大的两栖动物终身尤尾是国家的二级保护动物龙猿终身尤尾只生活在生活在亲吻的池庄里有时也爬到陆地上来。\n[715.98 -> 723.98] 那么大家观看一下这则资料为什么到田里听不到哗声了呢。\n[725.44 -> 754.6] 是不是因为环境的污染和水域面积的增大是不是啊水域面积的减少可以使得两栖动物的数量减少那么我们可以做什么呢老师啊这里给了两点建议请同学们在课后呢再画一幅关于保护两栖动物的海报下节课我们一起来呈现好不好呀好这节课我们就学到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation screen.\n   - The blackboard contains a diagram with Chinese text, outlining the characteristics of amphibians and their adaptations. The text includes phrases like \"两栖动物\" (amphibians), \"水中、陆地\" (water, land), and \"结构与功能相适应\" (structure and function adaptation).\n   - The presentation screen displays images of amphibians with descriptive text, emphasizing their adaptations to different environments.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - 两栖动物 (amphibians)\n     - 力水、鳃呼吸 (water, gill respiration)\n     - 肺呼吸、皮肤辅助 (lung respiration, skin assistance)\n     - 成体、陆地、水中 (adult, land, water)\n     - 结构与功能相适应 (structure and function adaptation)\n   - Screen:\n     - Images of amphibians with descriptions of their adaptations.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the blackboard text, specifically highlighting \"结构与功能相适应\" (structure and function adaptation).\n   - The teacher gestures towards the screen, emphasizing the amphibian images and their corresponding adaptations.\n   - The teacher uses hand movements to connect the blackboard content with the screen content, reinforcing the relationship between structure and function.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on summarizing the lesson content visually, with no transition slides or board sections visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard and presentation screen serving as the main summary artifacts. The blackboard displays a diagram outlining the characteristics of amphibians, with key phrases such as \"两栖动物\" (amphibians), \"水中、陆地\" (water, land), and \"结构与功能相适应\" (structure and function adaptation). The presentation screen shows images of amphibians with descriptive text about their environmental adaptations.\n\nThe teacher visually reviews the knowledge points by pointing to the blackboard text, particularly emphasizing \"结构与功能相适应\" (structure and function adaptation). She then gestures towards the screen, highlighting the amphibian images and their adaptations. Her movements connect the blackboard content with the screen, reinforcing the relationship between structure and function.\n\nA strong emphasis is placed on the core takeaway as the teacher points to the central concept of adaptation on both the blackboard and screen. No visual handover to homework or next steps is present, focusing solely on consolidating the lesson's key points.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Amphibians",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Water Breathing",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Gill Respiration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Lung Respiration",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Skin Assistance",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Structure and Function Adaptation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Adult Habitat Adaptation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[591.46 -> 634.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Environmental Adaptation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.82 -> 713.96]"
+      },
+      {
+        "id": "c9",
+        "label": "Pollution Impact",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[725.44 -> 754.6]"
+      },
+      {
+        "id": "c10",
+        "label": "Conservation Measures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[725.44 -> 754.6]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Blackboard illustrates amphibian characteristics and environment adaptations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Presentation Screen",
+        "type": "Visual",
+        "original_text": "Image slides depicting amphibians and their adaptations.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Answering Examples",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines that amphibians partake in water breathing."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Gill respiration is a part of water breathing."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Defines that amphibians partake in lung respiration."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Skin assistance supports lung respiration in amphibians."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Highlights adaptation based on structure and function of amphibians."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Adult habitat adaptation stems from the principle of structure and function adaptation."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Blackboard visualizes main concepts about amphibians."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Presentation screen highlights amphibians' environmental adaptation."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Developing conservation measures is a response to pollution impact."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Students answering examples triggers deeper thinking about environmental adaptations."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

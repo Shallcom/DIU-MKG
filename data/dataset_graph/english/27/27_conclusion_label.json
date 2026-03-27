@@ -1,0 +1,119 @@
+{
+  "video_name": "27_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to identify and analyze the tone and attitude between characters in a dialogue; be able to infer character relationships and the causes of conflict using contextual clues.",
+  "transcript": "[648.0 -> 723.12] 很好啊而所有这些财主和财主的语言你能从哪里获得到的呢为什么他们对约翰瑞这么严重呢为什么呢因为他们对约翰瑞从他的脸上对付了约翰瑞我们都知道这不是正确的这次我需要大家要小心地思考好几个只有四个请小心点从今天开始五个这是一场谈话发生在一部剧的故事里吧。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the interactive whiteboard displaying a slide titled \"Pre-writing.\"\n   - The slide includes a section labeled \"A. Think carefully\" with two questions:\n     1. \"How can we make sure it can be done?\"\n     2. \"How can we organize the task?\"\n   - A small image of people in a discussion is present on the slide.\n\n2. **Key Knowledge Items (Content View)**:\n   - The main keywords and headings visible are:\n     - \"Pre-writing\"\n     - \"A. Think carefully\"\n     - \"How can we make sure it can be done?\"\n     - \"How can we organize the task?\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the first question, \"How can we make sure it can be done?\" indicating a focus on this point.\n   - The teacher then gestures towards the second question, \"How can we organize the task?\" to emphasize the next consideration.\n   - The teacher's hand movements suggest a review of the questions, possibly prompting students to reflect on these points.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide or blackboard.\n   - The blackboard displays \"Unit 3: The Million Pound Bank Note\" and \"Drama,\" which may suggest the next lesson's focus, but no specific assignments are noted.\n\nThis structured visual summary highlights the key pre-writing considerations, with the teacher's gestures reinforcing the importance of each question.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Pre-writing,\" prominently featuring a section labeled \"A. Think carefully\" with two guiding questions: \"How can we make sure it can be done?\" and \"How can we organize the task?\" An image of people in discussion accompanies these questions. The teacher visually reviews the content by pointing to the first question, emphasizing the need for feasibility, and then moving to the second question to highlight organization strategies. No strong emphasis actions, such as underlining or boxing, are observed. The blackboard in the background displays \"Unit 3: The Million Pound Bank Note\" and \"Drama,\" hinting at the next lesson's focus, but no specific homework or assignments are visually indicated on the slide or board.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Tone Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[648.0 -> 723.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Character Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[648.0 -> 723.12]"
+      },
+      {
+        "id": "c3",
+        "label": "Character Relationships",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[648.0 -> 723.12]"
+      },
+      {
+        "id": "c4",
+        "label": "Conflict Causes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[648.0 -> 723.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Contextual Clues",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[648.0 -> 723.12]"
+      },
+      {
+        "id": "v1",
+        "label": "Pre-writing Slide",
+        "type": "Visual",
+        "original_text": "Interactive whiteboard slide titled 'Pre-writing' with discussion image and questions.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Discussion Image",
+        "type": "Visual",
+        "original_text": "Image of people in a discussion.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Tone identification involves analyzing characters."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding characters helps infer relationships."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Character relationships help identify conflict causes."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Conflict causes can be inferred using contextual clues."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The slide summarizes tone identification."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the use of contextual clues."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "The image of discussion complements the use of contextual clues."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in reflecting on contextual clues."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

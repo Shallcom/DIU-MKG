@@ -1,0 +1,147 @@
+{
+  "video_name": "17_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Understand the principle of levers and their applications; identify the specific manifestations of lever action in tools.",
+  "transcript": "[155.92 -> 159.48] 接下来我将进行我的讲课。\n[163.26 -> 194.1] 好了各位同学们很高兴我们今天可以完成一节物理的探究课在探究课我不知道你们听没听说过一句古话古话当中是这样说的如果给我一根足够长的木棍我可以撬起整个地球你们听说过这句话吗那这是谁说的你还知道阿基米德非常棒那么今天我们就来了解一个看一个古老的照片你们看一看在这张图片当中你们看到了什么有什么发现吗他们在干什么呢谁来说一说。\n[198.36 -> 217.96] 你来吧它们想把这根非常大的木棍把它撬起来它们想把这个大的木棍撬起来是吧好的那么今天我们的课程把我们的四组分为四组我们共同来完成我们今天的学习好吗。\n[224.36 -> 257.1] 好三组记一分好的那么人类在很早以前就已经使用了杠杆来工作了我们在不断发展的过程当中学会了利用工具我们原来要抱一个树木可能是一些人围绕的树木来把它环抱起来而现在我们可以利用工具运用杠杆来把它更加便利省力地把它抬起来而这就是今天我们要学习的什么呢今天就让我们一起来展开对今天就让我们一起来展开物理第十二章第二节的学习杠杆。\n[264.96 -> 307.96] 好那么现在老师给你们带来了剪刀给你们组带来了筷子还有一个天平你们现在来观察一下这三个实验器材它们有什么样的共同点呢它们又是怎样利用了杠杆的原理来进行工作的呢来看一下你们的剪刀你们的筷子还有天平这么快就想好了那你来说一说吧就是它们都有一个固定的点哦有一个有一个固定的点这么棒OK它有一个固定的点那么我们把它叫为指点好的。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands at the front of the classroom, facing a large screen displaying a slide with text in Chinese. The slide reads: \"如果用一根细绳子吊起一个重物，细绳子的受力情况是怎样的？\" (If a heavy object is suspended by a thin rope, what is the force situation on the rope?).\n- The teacher gestures towards the screen, emphasizing the question. The blackboard is mostly empty except for some numbers written vertically on the left side.\n\n**Middle:**\n- The teacher turns to the blackboard and writes \"S12.2 杠杆\" (Lever) in white chalk. \n- The screen changes to show an illustration of a historical scene with people using a lever. The teacher points to the illustration, explaining the concept of levers.\n- The teacher writes \"杠杆原理\" (Principle of the Lever) on the blackboard and draws a simple diagram of a lever, indicating the fulcrum and the load.\n\n**End:**\n- The teacher writes a question on the screen: \"根据杠杆，天平的工作原理情况，你发现了什么？\" (What do you discover about the working principle of the balance scale based on the lever?).\n- The teacher continues to explain, using hand gestures to illustrate the balance of forces on a lever. The blackboard now contains the lever diagram and key terms.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the lever diagram drawn on the blackboard. It includes a horizontal line representing the lever, a point marked as the fulcrum, and arrows indicating the direction of forces.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"S12.2 杠杆\" and \"杠杆原理\" on the blackboard. The lever diagram is drawn with labels for the fulcrum and forces.\n- **Modifications**: The teacher adjusts the diagram to show different positions of the load and effort, illustrating how the lever works.\n- **Deictic Gestures**: The teacher points to specific parts of the lever diagram while explaining, such as the fulcrum and the direction of forces.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the fulcrum and the balance of forces. The key terms \"S12.2 杠杆\" and \"杠杆原理\" are written prominently on the blackboard.\n\n### Chronological Log of Visual Events\n\n1. **Initial Slide**: The screen displays the question about the force on a rope.\n2. **Blackboard Writing**: The teacher writes \"S12.2 杠杆\" on the blackboard.\n3. **Illustration Explanation**: The screen changes to show a lever illustration; the teacher points to it.\n4. **Lever Diagram**: The teacher draws a lever diagram on the blackboard, labeling the fulcrum and forces.\n5. **Final Question**: The screen displays a question about the balance scale, and the teacher explains using the lever diagram.\n\nThis structured visual evolution links the teacher's actions directly to the content on the board and screen, providing a clear narrative of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a question about the force on a rope, setting the stage for the lesson. The teacher then constructed the concept of levers by writing \"S12.2 杠杆\" on the blackboard, establishing the primary visual anchor. The screen transitioned to an illustration of a historical lever scene, which the teacher pointed to, explaining its mechanics. He derived the principle of the lever by drawing a detailed diagram on the blackboard, labeling the fulcrum and forces. The teacher annotated the diagram, tracing the balance of forces to illustrate equilibrium. He resolved deixis by pointing to specific parts of the lever, such as the fulcrum and directional arrows, to emphasize key points. Finally, he posed a question about balance scales, linking it back to the lever principle. The teacher circled the term \"杠杆原理\" in red, highlighting its importance. Throughout, the visual information on the screen and board worked synergistically, reducing cognitive load by providing clear, step-by-step visual aids that complemented the verbal explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Principle of Lever",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[163.26 -> 194.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Fulcrum",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[198.36 -> 217.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Load",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[198.36 -> 217.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Effort",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[198.36 -> 217.96]"
+      },
+      {
+        "id": "c5",
+        "label": "Lever Diagram",
+        "type": "Visual",
+        "original_text": "Blackboard diagram showing lever with fulcrum and forces",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c6",
+        "label": "Force on Rope",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[155.92 -> 159.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Historical Lever Use",
+        "type": "Visual",
+        "original_text": "Illustration of historical scene using lever on screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Archimedes Quote",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[163.26 -> 194.1]"
+      },
+      {
+        "id": "c9",
+        "label": "Balance Scale Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[264.96 -> 307.96]"
+      },
+      {
+        "id": "c10",
+        "label": "Fixed Point",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[264.96 -> 307.96]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[224.36 -> 257.1]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The teacher visually explains the principle of levers through a diagram."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The fulcrum is identified in the visual diagram on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The load is depicted in the lever diagram to show its position relative to the fulcrum."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The effort is shown in the lever diagram to demonstrate force application."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "The teacher introduces the abstract idea of force through a historical lever illustration."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The quote from Archimedes serves to introduce the principle of levers."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The balance scale is explained as an application of the lever principle."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "A fixed point is a necessary feature within the concept of a lever."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged by observing and thinking about the lever principles displayed."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

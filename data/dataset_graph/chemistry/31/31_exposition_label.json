@@ -1,0 +1,186 @@
+{
+  "video_name": "31_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the distinction between prescription and non‑prescription drugs and the importance of rational medication use; master the fundamental concepts of drug classification and their practical application.",
+  "transcript": "[87.72 -> 123.78] 第三我们认为我们的化学教学可以与我们的社会热点相互结合比如说我们在进行磷酸的生产过程中有很多磷石膏的产生这个时候我们磷石膏的处理就成了很大的问题如何进行资源的合理利用化这个时候就可以体现出我们化学教学的作用以及我们在化工废尿的处理过程中等真实问题情境的处理情况下情况下我们可以结合化学教学让学生感受到化学学科所带来的独特魅力。\n[125.22 -> 139.08] 从而发展学科同学生的科学态度与创新意识等核心素养以上就是我的几期演讲演演讲请课委评委老师批评指正接下来是我的模拟授课环节。\n[146.72 -> 158.76] 同学我想请问一下如果我讲的是后面这十分钟的话我是就是这儿然后直接调到这一页吗。\n[159.96 -> 301.5] 好的好的谢谢好同学们上课同学们请坐同学们今天我们一起来学习化学品的合理利用在课程开始之前呢老师要问大家一个问题就是有人说我们在药品上服用的时候我们药品服用一点五倍效果更好而不是按照医生的医嘱进行服用请同学们思考一下药品的服用是否可以过量呢在思考之前呢我们先进行一些基础知识的学习我相信同学们在就是服用药品的时候都看到过OTC这个标志比如说OTC呢也就是我们的处方药与非处方药其中我们的处方药是需要凭医生的处罚才能从药房或者药店做去并要在医生的指导下进行使用而我们的非处方药就不需要凭借医生处方消费者可以自行购买和使用其中包装上一般都有OTC的标志那么我们的药品如此繁多那药品是如何进行分类的呢那我们接下来就请看一下我们的药品的分类一般一般封为天然药物和合成药物比如说我们的天然药物就指进来说的话就比如说我们的中药是不是就是我们的天然药物大多数而合成药物也就是我们耳熟能详的一些西药等等就是通过将中药当中的有效成分提取出来那药物的作用方式一般有哪些呢药物在人体内有不同的作用方式有的是通过改变机体细胞周围的物理化学环境而发挥药效。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact (Static)**: The initial visual anchor is the presentation slide titled \"化学品的合理使用\" (Rational Use of Chemicals). The slide contains a list of topics and a green and white color scheme.\n- **Teacher's Actions**: The teacher stands at the podium, holding papers, and gestures towards the slide. The blackboard is initially blank except for some faint chalk marks.\n\n#### Middle\n- **Additions to Blackboard**: The teacher writes \"化学品的合理使用\" (Rational Use of Chemicals) on the blackboard, mirroring the slide's title. This establishes a visual connection between the board and the presentation.\n- **Presentation Slide Change**: The slide transitions to a new page with bullet points in red text, detailing specific chemical safety guidelines.\n- **Teacher's Gestures**: The teacher points to the bullet points on the slide, emphasizing key phrases. For example, the teacher's finger traces the text about safety measures, ensuring students focus on critical information.\n\n#### End\n- **Highlighting Strategy**: The teacher uses hand gestures to underline the importance of each bullet point. They occasionally look at the students, reinforcing engagement.\n- **Final Blackboard State**: The blackboard retains the title \"化学品的合理使用,\" serving as a constant visual reference throughout the lecture.\n\n### Knowledge Flow Tracking\n\n1. **Core Artifact (Static)**: The main visual anchor is the presentation slide with the title \"化学品的合理使用\" and subsequent bullet points. The initial state includes a green and white design with a list of topics.\n   \n2. **Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes the title on the blackboard while explaining the importance of the topic. This action synchronizes with the slide content.\n   - **Modifications**: No erasures occur; the focus remains on adding information to the board and slide.\n   - **Deictic Gestures**: The teacher points to specific bullet points on the slide, such as safety protocols, while elaborating on each point.\n\n3. **Highlighting Strategy (Emphasis)**:\n   - The teacher uses hand gestures to emphasize key points on the slide, such as circling or underlining text with a pointer.\n   - The consistent use of the slide's red text for important notes draws visual attention to critical information.\n\nThis structured approach ensures a clear visual and cognitive link between the teacher's actions and the evolving content, facilitating effective knowledge transfer.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a presentation slide titled \"化学品的合理使用\" (Rational Use of Chemicals) with a green and white design, setting the stage for the lecture. The teacher began by constructing a foundational understanding, writing the same title on the blackboard to create a visual link between the slide and the board. As the lecture progressed, the teacher derived key safety guidelines by pointing to specific bullet points on the slide, such as protocols for handling chemicals. He traced the text with a pointer, emphasizing critical phrases to ensure clarity. The teacher annotated the board with additional notes, reinforcing the slide content. Throughout, he resolved deixis by tracing the rising importance of each safety measure, ensuring students followed along. To highlight key concepts, he used hand gestures to underline important points, such as circling safety protocols in red text on the slide. This alignment of visual and verbal cues reduced cognitive load, allowing students to focus on understanding rather than processing information. Finally, he summarized the core principles, ensuring the visual elements on both the board and slide cohesively reinforced the lecture's objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Prescription Drug",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c2",
+        "label": "Non-Prescription Drug",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c3",
+        "label": "OTC Indicator",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Rational Medication Use",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c5",
+        "label": "Drug Classification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c6",
+        "label": "Natural Drugs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Synthetic Drugs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[159.96 -> 301.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Chemical Safety Guidelines",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[87.72 -> 123.78]"
+      },
+      {
+        "id": "c9",
+        "label": "Phosphogypsum Handling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[87.72 -> 123.78]"
+      },
+      {
+        "id": "c10",
+        "label": "Chemistry Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[87.72 -> 123.78]"
+      },
+      {
+        "id": "c11",
+        "label": "Chemical Waste Treatment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[87.72 -> 123.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Rational Use of Chemicals",
+        "type": "Visual",
+        "original_text": "Slide with title 'Rational Use of Chemicals' in green and white.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Chemical Safety Guidelines",
+        "type": "Visual",
+        "original_text": "Slide with red bullet points on chemical safety.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard: Rational Use of Chemicals",
+        "type": "Visual",
+        "original_text": "Blackboard displays 'Rational Use of Chemicals'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "The OTC indicator specifies non-prescription drugs."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The OTC indicator specifies non-prescription drugs."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Rational medication use is based on understanding prescription drugs."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Rational medication use includes awareness of non-prescription drugs."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Drug classification includes natural drugs."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Drug classification includes synthetic drugs."
+      },
+      {
+        "source": "c8",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide with bullet points outlines chemical safety guidelines."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Chemistry teaching includes phosphogypsum handling procedures."
+      },
+      {
+        "source": "c10",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Chemistry teaching covers chemical waste treatment procedures."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The blackboard reinforces the slide title on rational use of chemicals."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The slide with red bullet points maintains student engagement by highlighting key safety measures."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

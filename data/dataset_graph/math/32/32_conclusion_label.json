@@ -1,0 +1,203 @@
+{
+  "video_name": "32_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Apply statistical methods to analyze the trend of weight distribution within the dataset; understand the role of the mean and variance in comparing differences in obesity levels between men and women; complete practical data‑calculation tasks through group collaboration.",
+  "transcript": "[653.679633 -> 655.64] 那么在刚刚的画图过程中相信同学们都已经得到了他们的体重分布趋向那么我们进行下一个讨论我们能否引用以学的知识来比较男女肥胖源度呢在肥胖上的差异呢。\n[656.88 -> 681.8] 那么我们可以分为下来两步来看看首先算一算求出男女员工MBTI的均值或者是求出他们两个的方差那么根据我们之前的公式以及结合我们手中科本上的数据同学们可以首先可以试试看求出女员工的均值。\n[682.8 -> 698.84] 由于这个计算量过于的大了那么请前面一排的三个同学对比计算女员工前三排的数值后面左边的是两位女同学计算后面两排的女员工的均值看看你们能得出什么样的数据。\n[703.08 -> 713.66] 时间到了谢谢你了谢谢您的热情。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide displayed on the screen. It features a table with multiple rows and columns, alongside a magnifying glass image, indicating a focus on detailed analysis or search.\n   - The slide layout includes a header with several tabs, suggesting different sections or topics covered in the lesson.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains a table with numerical data, though specific values are not clearly visible.\n   - A magnifying glass image is present, symbolizing investigation or detailed examination.\n   - The header includes tabs labeled in Chinese, likely indicating different lesson sections or topics.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the table on the slide, likely emphasizing the data or structure presented.\n   - She points to the magnifying glass image, possibly highlighting the importance of detailed analysis or searching within the data.\n   - The teacher moves her hand across the slide, possibly summarizing the key points or steps discussed.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The blackboard contains handwritten notes, including phrases like \"干到位\" and \"总结\", which may relate to lesson objectives or key takeaways, but no direct indication of next steps or assignments is visible.\n\nThis structured visual summary focuses on the teacher's interaction with the slide content, emphasizing data analysis and detailed examination as key themes.",
+  "visual_narrative": "The lesson concludes with a slide displaying a table of numerical data and a magnifying glass image, emphasizing detailed analysis. The teacher visually reviews the content by pointing to the table, highlighting the structured data, and gesturing towards the magnifying glass to underscore the importance of thorough examination. She moves her hand across the slide, summarizing key points. The visual focus remains on the slide, with no explicit homework or next-step instructions visible, marking the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Weight Distribution Trend",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[653.679633 -> 655.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Mean",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.88 -> 681.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Variance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[656.88 -> 681.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Obesity Level Comparison",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[653.679633 -> 655.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Male Employees' Mean",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[656.88 -> 681.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Female Employees' Mean",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[656.88 -> 681.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Group Collaboration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[682.8 -> 698.84]"
+      },
+      {
+        "id": "c8",
+        "label": "Numerical Data Table",
+        "type": "Visual",
+        "original_text": "A table with numerical data displayed on the slide.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Magnifying Glass Icon",
+        "type": "Visual",
+        "original_text": "An image of a magnifying glass symbolizing detailed analysis.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Lesson Tabs Header",
+        "type": "Visual",
+        "original_text": "A header with tabs indicating different lesson sections.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Teacher Gestures to Table",
+        "type": "Visual",
+        "original_text": "Teacher points to the table on the slide.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Teacher Gestures to Magnifying Glass",
+        "type": "Visual",
+        "original_text": "Teacher points to the magnifying glass image.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c13",
+        "label": "Teacher Hand Movement Across Slide",
+        "type": "Visual",
+        "original_text": "Teacher moves hand across the slide to summarize key points.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c14",
+        "label": "Students Calculate Female Mean",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c15",
+        "label": "Students Compare Results",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The weight distribution trend is used to compare obesity levels."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The mean is used to compare obesity levels between genders."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The variance is used to compare obesity levels between genders."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The mean of male employees is calculated to analyze obesity levels."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "The mean of female employees is calculated to analyze obesity levels."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Group collaboration is used to calculate the mean for female employees."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The numerical data table represents the weight distribution trend."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The magnifying glass icon highlights the importance of detailed analysis."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The lesson tabs header organizes the content of the lesson."
+      },
+      {
+        "source": "c11",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "The teacher gestures to the table to emphasize its importance."
+      },
+      {
+        "source": "c12",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "The teacher gestures to the magnifying glass to highlight detailed analysis."
+      },
+      {
+        "source": "c13",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The teacher summarizes the key points of the weight distribution trend."
+      },
+      {
+        "source": "c14",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Students calculate the mean for female employees as part of the analysis."
+      },
+      {
+        "source": "c15",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Students compare their calculated results for female employees' mean."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

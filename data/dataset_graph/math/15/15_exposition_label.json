@@ -1,0 +1,184 @@
+{
+  "video_name": "15_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master how to analyze the impact of gender on the frequency of physical exercise using statistical data; be able to calculate proportions within a sample and conduct comparative analysis.",
+  "transcript": "[190.04 -> 353.86] 首先请大家来看这样一个问题现在为了更好地提高学生体育锻炼的积极性想要了解在中学里他们性别因素对本校体育生的体育锻炼的经常性是否有影响为此对学生是否经常锻炼的情况进行了一个普查普查出来的数据是这样子的全校的学生中有五百二十三名女生中有三百三十一名同学是经常锻炼的在六百零一名男生中有四百七十三名同学是经常锻炼的那么接下来根据这些数据能不能说明该校女生和男生他们锻炼的体育专业的经常性呢什么性存在一定的差异吗对于这样子的问题大家能不能在数学的角度想想能够通过计算哪些量能够判断是否会有性别因素会影响到差异性这位同学你有什么想法吗我可以先算出男生和女生他们经常锻炼的百分比然后定义平权很好非常好我们可以比较经常锻炼的学生在女生和男生中的比率通过男生和女生这样比率的大小来判断性别因素是否有影响那么该如何计算比率呢可以根据刚才我们这样子的数据这位同学在女生中经常锻炼的学生比率就用三百三十一比上五百二十三而男生中则用一百七十三比上一百一十三非常好进步我们这个都不难想到在女生中我们可以用经常锻炼的女生数来除以女生的总数来计算在女生中经常锻炼的学生的比率同样男生也可以用这样子的方法来计算我们可以代入数据跟刚才这位同学说的可以三百三十一除以五百二十三算出来约得有零点六三三那男生呢我们算出来四百七十三除以了六百零一可以算出来算出来是约等于零点七八七的那么我们根据这两个数据比较我们发现零点七八七是大于零点六三三的那么我们可以认为男生他的经常更加经常锻炼。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher writes \"分类变量与列联表\" on the blackboard, establishing the topic.\n- The screen displays a title slide: \"8.3.1 分类变量与列联表.\"\n- The teacher gestures towards the screen, indicating the start of the lecture.\n\n**Middle:**\n- The screen transitions to a slide with a table header: \"队人,\" \"性别,\" \"是否,\" \"总计.\"\n- The teacher explains a problem involving a survey on gender and smoking habits.\n- The teacher points to the text on the screen, which describes the survey results and asks for the probability of a smoker being female.\n- The teacher writes the probability formula on the screen: \n  \\[\n  P(\\text{女性} \\mid \\text{吸烟}) = \\frac{15}{30} = 0.5\n  \\]\n- The teacher emphasizes the calculation steps, pointing to each part of the formula.\n\n**End:**\n- The teacher writes another probability formula:\n  \\[\n  P(\\text{吸烟} \\mid \\text{女性}) = \\frac{15}{30} = 0.5\n  \\]\n- The teacher highlights the results, ensuring clarity on the conditional probabilities.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the screen displaying the problem and formulas.\n   - Initial state includes a table header and a block of text describing the survey.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes two probability formulas on the screen while explaining the calculations.\n   - **Modifications**: No erasures; the teacher builds upon the existing content.\n   - **Deictic Gestures**: The teacher points to specific parts of the text and formulas, such as the numerator and denominator in the probability calculations.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key parts of the formulas.\n   - The final results of the probabilities are highlighted through repetition and pointing.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the title \"分类变量与列联表,\" setting the stage for the lecture. The screen presented a table header with categories \"队人,\" \"性别,\" \"是否,\" and \"总计,\" alongside a detailed problem description about a survey on gender and smoking habits. The teacher began by explaining the survey results, pointing to the text to highlight key data points such as the number of smokers and non-smokers among males and females.\n\nAs the lecture progressed, the teacher constructed the first probability formula on the screen: \n\\[\nP(\\text{女性} \\mid \\text{吸烟}) = \\frac{15}{30} = 0.5\n\\]\nThe teacher derived this by tracing the numerator and denominator, emphasizing the conditional aspect of the probability. The teacher then annotated the second formula:\n\\[\nP(\\text{吸烟} \\mid \\text{女性}) = \\frac{15}{30} = 0.5\n\\]\nhighlighting the symmetry in the calculations. Throughout, the teacher used deliberate gestures to trace the components of each formula, ensuring clarity.\n\nFinally, the teacher circled the final results, reinforcing the conclusion. The visual strategy of writing formulas step-by-step and using gestures to trace calculations reduced cognitive load, allowing students to follow the logical flow without being overwhelmed by complex data. The consistent use of the screen and blackboard as visual anchors maintained focus on the evolving mathematical concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Categorical Variable",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[190.04 -> 200.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Contingency Table",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[190.04 -> 200.00]"
+      },
+      {
+        "id": "c3",
+        "label": "Gender",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[190.04 -> 200.00]"
+      },
+      {
+        "id": "c4",
+        "label": "Smoking Habit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[200.00 -> 250.00]"
+      },
+      {
+        "id": "c5",
+        "label": "Probability Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[250.00 -> 300.00]"
+      },
+      {
+        "id": "c6",
+        "label": "Conditional Probability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[300.00 -> 350.00]"
+      },
+      {
+        "id": "c7",
+        "label": "Female",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[200.00 -> 250.00]"
+      },
+      {
+        "id": "c8",
+        "label": "Male",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[200.00 -> 250.00]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Categorical Variables and Contingency Table",
+        "type": "Visual",
+        "original_text": "Title: Categorical Variables and Contingency Table",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Survey Problem Description",
+        "type": "Visual",
+        "original_text": "Problem: Survey on gender and smoking",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Probability Formula on Screen",
+        "type": "Visual",
+        "original_text": "P(Female | Smoker) = 15/30 = 0.5",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Probability Formula on Screen",
+        "type": "Visual",
+        "original_text": "P(Smoker | Female) = 15/30 = 0.5",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Displays the topic of categorical variables and contingency tables."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Shows the subject of contingency tables based on categorical variables."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Gender is part of the smoking habit survey."
+      },
+      {
+        "source": "c5",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Illustrates the probability formula for calculating P(Female | Smoker)."
+      },
+      {
+        "source": "c5",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Shows the probability formula for calculating P(Smoker | Female)."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The probability formula is used to explain conditional probability."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Describes the problem related to gender and smoking habits."
+      },
+      {
+        "source": "v2",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Stimulates student responses to the survey problem."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "Highlights probability calculations involving females."
+      },
+      {
+        "source": "v4",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Highlights probability calculations involving smokers."
+      },
+      {
+        "source": "s1",
+        "target": "v3",
+        "relation": "guides_discussion",
+        "intent": "Encourages students to focus on probability calculation."
+      },
+      {
+        "source": "s2",
+        "target": "v2",
+        "relation": "guides_discussion",
+        "intent": "Student contributes to the calculation and analysis discussion based on survey."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

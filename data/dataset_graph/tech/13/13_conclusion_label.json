@@ -1,0 +1,142 @@
+{
+  "video_name": "13_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the Oersted experiment and its impact on electromagnetism; comprehend the relationship between the direction of the magnetic field surrounding a current‑carrying conductor and the direction of its current.",
+  "transcript": "[681.86 -> 765.52] 请同学们来想一想或许还可能跟什么有关呢也没有影响非常好电流的方向对不对那同样的这只是什么猜测猜测那我还是需要通过实验来进行证明好那由于本节课学习的内容啊不多时间限制快到了那这个实验呢我们就留给下节课再进行探讨有没有问题没有好那现在我们来回顾一下我们本节课到底学习了哪些知识呢首先我们至少复习了一下奥斯特实验对不对我们知道了电场通电导体附近会产生磁场并且我们还知道了通过本节课的学习导线有相应的作用力并且这个力的方向还可能跟磁场非常好第一跟电流的方向有关第二呢磁场但是很明显第一个还只是猜测对不对好那本节课到结束同学们下课以上是我教学过程的全部展示谢谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It contains a list of key points in Chinese, structured as bullet points.\n   - The slide is titled \"新课学习\" (New Lesson Learning) and includes a section labeled \"力的方向?\" (Direction of Force?).\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide lists several key points:\n     1. 想一想：力的三要素是什么？（力的大小、方向、作用点）\n     2. 实验探究：推、拉、提、压、弯、扭、挤、拉\n     3. 想一想：力的三要素如何影响作用效果？\n     4. 小结：力的三要素是力的大小、方向、作用点\n   - The blackboard has some text written in Chinese, but it is not fully legible in the video.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures with her hands while holding papers, likely emphasizing points on the slide.\n   - She occasionally points towards the screen, directing attention to the bullet points.\n   - The teacher uses hand movements to indicate the importance of each point, possibly circling or underlining them in the air.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide.\n   - The focus remains on summarizing the lesson content, with no transition to next steps visible in the frames provided.\n\nThis structured visual summary highlights the key elements of the lesson, with the teacher's gestures reinforcing the importance of each point on the slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing four bullet points summarizing the key concepts of the lesson, titled \"新课学习\" (New Lesson Learning) and featuring a section labeled \"力的方向?\" (Direction of Force?). The teacher visually reviews these points by gesturing towards the screen, pointing to each bullet in sequence. She emphasizes the importance of each point with deliberate hand movements, likely circling or underlining them in the air. The core takeaway, \"小结：力的三要素是力的大小、方向、作用点\" (Summary: The three elements of force are magnitude, direction, and point of application), is highlighted through her gestures, reinforcing its significance. No visual indication of homework or next steps is present, keeping the focus on the lesson's summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Oersted Experiment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "c2",
+        "label": "Electromagnetism Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Magnetic Field Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Current Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "c5",
+        "label": "Force Magnitude",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "c6",
+        "label": "Force Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "c7",
+        "label": "Point of Application",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "v1",
+        "label": "Direction of Force Slide",
+        "type": "Visual",
+        "original_text": "The slide titled 'New Lesson Learning' displays key points about force, including magnitude, direction, and point of application.",
+        "ocr_corrected": true,
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "v2",
+        "label": "Key Points List Slide",
+        "type": "Visual",
+        "original_text": "The slide includes bullet points on thinking about the three elements of force and their impact.",
+        "ocr_corrected": true,
+        "timestamp": "[681.86 -> 765.52]"
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[681.86 -> 765.52]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The Oersted Experiment is foundational to understanding the impact on electromagnetism."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding the magnetic field direction evolves from knowing the current direction."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide helps visualize key aspects of the Oersted Experiment."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide illustrates the concept of force direction with respect to impact."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The slide lists the concept of force magnitude alongside other force elements."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "The slide provides a summary that prompts students toward engaged thinking."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "The list of key points on the slide supports engaged cognitive processing."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The concept of force direction encourages student engagement and consideration."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Understanding the point of application is crucial for comprehending force magnitude."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

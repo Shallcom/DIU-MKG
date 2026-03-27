@@ -1,0 +1,184 @@
+{
+  "video_name": "10_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master the definition of polyhedron surface area; understand the calculation methods for the surface areas of prisms, pyramids, and frustums; be able to apply polyhedron surface‑area knowledge to solve real‑world problems.",
+  "transcript": "[341.1408 -> 419.8] 我们知道表面积它是指的是几何体表面的面积那你能不能类比告诉我多面体的表面积指的是什么呢我们学过哪种多面体啊长方体正方体对不对那么长方体正方体这些多面体它的表面的面积我们是怎么算的大家想一想你能不能来比告诉我多面体的表面积它指的是什么请你很好请坐他说多面体的表面积就是围成多面体各个面的面积之和那么请你告诉我棱柱棱柱棱台的表面积能不能推导出来呢请你可以比如说棱柱就是上下的底面加上侧面的面积之和我发现你这个好像你用了一个特殊的那你能不能告诉我一个一般性的文字语言表述呢围城棱柱棱椎棱台的各个面的面积之和很好请我做他说棱柱棱椎棱台的就是围成它们的各个面的面积之和。\n[420.82 -> 430.66] 那么我们是总结一下我们是如何来研究棱柱棱椎棱台的表面积啊我们是不是从了一个特殊的多面体入手。\n[433.14 -> 439.72] 我们从什么多面体入手的呀哦正方体长方体。\n[445.48 -> 461.72] 从而可以找到了一个一般的结论什么结论啊冷住冷吹冷台的表面积那么你能不能利用这样一个结论解决我的问题呀。\n[474.48 -> 511.7112] 请同学们看一看如图给你了一个四面体以致它的棱长均为A请你计算它的表面体请同学们拿出草稿纸尝试计算哎我看到大家都有了思路现在告诉我你的思路是什么呢哎请你刚才讲的概念是多面体的表面积析维持它所有面积之所所以这个四面体的表面积析是由四个等边三角形构成的所以我认为只要取出来其中一个面的一个等边三角形的面积就乘以四就可以是它的表面积了哦你说我求得一个面三角形的面积乘以四就得到了这个的表面积那我怎么计算一个三角形的面积啊请你继续因为这个题中给出这个四面体的各棱长均为A然后我将用到求三角形的面积公式它一个等边三角形的面积我求出来为四分之根号三的A方然后最终再乘以四这个四面体的表面积就为根号三A的平方非常好请坐大家答案和他一样吗都一样说明大家计算能力非常强那么对于这样一个多面体它每一个棱长都是A这样的多面体也就是四面体我们叫它正四面体。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She also pointed directly at the screen, directing attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the slide titled \"棱柱、棱锥、棱台的表面积\" (Surface area of prisms, pyramids, and frustums). The slide included key points about calculating surface areas and a diagram of a geometric shape.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher wrote on the blackboard, drawing a diagram of a cube and labeling it \"特殊\" (special) and \"正方体\" (cube). She then connected it to a pyramid labeled \"棱\" (prism), illustrating the transition between shapes.\n- She used arrows to show the relationship between the cube and the pyramid, emphasizing the concept of surface area transformation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher circled the key terms on the blackboard, such as \"多面体表面积\" (surface area of polyhedra), to highlight important concepts.\n- She also pointed to the geometric diagram on the screen, reinforcing the connection between the written explanation and the visual representation.\n- After a student interaction, she nodded and gestured towards the completed diagram, visually confirming the correctness of the discussed concepts.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher gestures to the class and points to the screen, initiating interaction.\n  - Slide content: \"棱柱、棱锥、棱台的表面积\" with bullet points and a geometric diagram.\n\n- **Middle:**\n  - Teacher writes on the blackboard, drawing a cube and labeling it \"特珠\" and \"正方体\".\n  - She draws an arrow to a pyramid labeled \"棱\" and writes \"多面体表面积\".\n  - Uses the pointer to highlight key terms on the slide and blackboard.\n\n- **End:**\n  - Teacher circles important terms on the blackboard.\n  - Nods and gestures towards the completed diagram, confirming understanding.\n  - Points to the geometric diagram on the screen, linking it to the blackboard content.\n\nThis structured visual approach ensures clear communication and reinforcement of geometric concepts related to surface area calculations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a diagram of a geometric shape and key points about calculating the surface area of prisms, pyramids, and frustums. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content displayed on the screen. She pointed directly at the slide, emphasizing the importance of understanding the transition between different geometric shapes.\n\nAs the teacher facilitated the discussion, she moved to the blackboard and began drawing a cube, labeling it \"特殊\" (special) and \"正方体\" (cube). She then drew an arrow leading to a pyramid labeled \"棱\" (prism), illustrating the concept of surface area transformation. While a student explained their reasoning, the teacher walked over to the board and jotted down key terms, such as \"多面体表面积\" (surface area of polyhedra), reinforcing the student's explanation with visual cues.\n\nTo validate the student's understanding, the teacher gave a distinct nod and circled the important terms on the blackboard. She then pointed to the geometric diagram on the screen, linking it back to the concepts discussed. This visual connection helped students see the relationship between the theoretical explanation and the practical application of calculating surface areas.\n\nFinally, the teacher drew an arrow connecting the student's correct explanation back to the main theorem displayed on the slide, ensuring that students actively constructed their own understanding by linking new information to previously learned concepts. This dynamic interaction transformed passive reception of knowledge into an active process of comprehension and application.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Polyhedron",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[341.1408 -> 419.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Surface Area",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[341.1408 -> 419.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Prism Surface Area",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[341.1408 -> 419.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Pyramid Surface Area",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[341.1408 -> 419.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Frustum Surface Area",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[341.1408 -> 419.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Cube",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[420.82 -> 430.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Rectangular Prism",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[433.14 -> 439.72]"
+      },
+      {
+        "id": "c8",
+        "label": "Equilateral Triangle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[474.48 -> 511.7112]"
+      },
+      {
+        "id": "c9",
+        "label": "Regular Tetrahedron",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[474.48 -> 511.7112]"
+      },
+      {
+        "id": "v1",
+        "label": "Surface Area of Prisms Slide",
+        "type": "Visual",
+        "original_text": "The slide shows calculations for the surface area of prisms, pyramids, and frustums with a geometric diagram.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Teacher draws a cube and a pyramid, showing surface area transformation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged Calculation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[474.48 -> 511.7112]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explores the concept of surface area related to polyhedra."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Surface area principle includes prism surface area calculation."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Surface area principle includes pyramid surface area calculation."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Surface area principle includes frustum surface area calculation."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Concept of cube evolves into understanding polyhedra."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Concept of rectangular prism evolves into understanding polyhedra."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Regular tetrahedron as an example of polyhedron."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Explains the construction of a regular tetrahedron."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the surface area of prisms."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the surface area of pyramids."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the surface area of frustums."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "scaffolds",
+        "intent": "Blackboard diagram scaffolds understanding of special cases like cubes."
+      },
+      {
+        "source": "ss1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Students engage with regular tetrahedron surface area calculation."
+      },
+      {
+        "source": "ss1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Students work on calculating the area of equilateral triangles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

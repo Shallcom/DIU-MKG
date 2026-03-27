@@ -1,0 +1,178 @@
+{
+  "video_name": "23_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the properties of chlorine and its preparation methods; master the safety procedures for chemical laboratory operations; learn to analyze the causes of experimental failures and propose improvement measures.",
+  "transcript": "[0.0 -> 152.62] 那么这时候教师就要运用他的教育机制去化解这种突发情况突发问题那么林老师在真实教学课堂中遇到了这么一个问题在讲解氯气的性质结构的这一课时当中他选取了用氯酸钾和锡盐酸来制取氯气那么在这个过程中林老师凭借自己的经验认为不用加热这样的原子利用率高那么在实验过程中在排空气收集氯气并用带铁丝并用燃烧的铁丝深进氯气来检验性质的时候过程中突然发生了爆炸而这个时候林老师呢让学生们自主去分析产生爆炸的问题并课后讨论那么我认为林老师教学方法有以下三点首先第一点教师知识为本充分准备那么林老师是基于他的自主经验认为不用加热利用率高所以采取了氯酸钾和盐酸直接反应去窒息利气那么在这过程中可能导致了氯酸钾和盐酸反应不充分那么在这个过程中可能含有其他的杂质气体等等那么进一步导致了铁丝在绿气的反应过程中发生了爆炸那么基于这一点我认为林老师在课前应该做好充分的知识储备去调查资料并且经过实验进一步论证它的实验是否安全保证课堂的整个实验安全进度那么其次第二点教育机制化解矛盾那么林老师在这个过程中并没有放任爆炸这个情况的事项了而是让同学自主分析产生爆炸的问题并课后讨论从而很好地利用了教育机制去化解课堂中突发的情况问题最后第三点课后反思进行实践那么老师呢也要反思为什么会产生爆炸的原因并在之后的上课过程中改正这一情况的发生从而保证实验的安全与课堂的正常进行以上是我即席演讲的所有内容接下来开始我的模拟上课了。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is a digital presentation slide displayed on the screen. The slide contains text in Chinese, which appears to be the title of the lesson.\n\n#### 2. The Title Event\n- **Text on Screen**: The title on the screen reads \"有机化合物结构的设计与合成\" (Design and Synthesis of Organic Compounds).\n- **Teacher's Action**: The teacher stands in front of the screen, gesturing towards it, likely emphasizing the title.\n\n#### 3. The Objectives\n- **Bullet Points**: Not clearly visible in the provided frames. The slide primarily shows the title and some smaller text that is not legible.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher uses hand gestures to emphasize points, likely related to the content on the screen. She holds papers and occasionally gestures towards the screen, possibly to highlight the title or other content.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Teacher Positioning**: The teacher stands in front of the class, holding papers.\n- **Screen Content**: The slide with the title \"有机化合物结构的设计与合成\" is displayed.\n- **Teacher Action**: The teacher gestures towards the screen, likely introducing the topic.\n\n#### Middle\n- **Teacher Interaction**: The teacher continues to gesture, possibly explaining the significance of the title or introducing the lesson's objectives.\n- **Student Engagement**: Students are seated, facing the teacher and the screen, indicating active listening.\n\n#### End\n- **Teacher's Final Gestures**: The teacher maintains focus on the screen, possibly summarizing the introduction or transitioning to the next part of the lesson.\n- **Visual Consistency**: The screen remains on the same slide throughout, emphasizing the lesson's title.\n\n### Summary\nThe introduction phase centers around the title slide, \"有机化合物结构的设计与合成.\" The teacher uses gestures to engage with the content, likely highlighting key aspects of the lesson's introduction. The visual focus remains on the screen, with the teacher actively linking her explanations to the displayed content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing confidently in front of the class, holding papers and facing a digital screen displaying the title \"有机化合物结构的设计与合成.\" This title serves as the hook, immediately drawing attention to the lesson's focus on organic compound design and synthesis. The teacher gestures towards the screen, emphasizing the importance of the topic. Throughout the introduction, the teacher maintains eye contact with the students, using hand movements to underscore key points related to the title. The screen remains static, ensuring the title remains the central visual element. This approach bridges the hook to the main topic by consistently linking the teacher's gestures to the displayed content, reinforcing the lesson's objectives. The introduction effectively sets the stage for exploring organic chemistry concepts, connecting new knowledge to foundational principles students may already understand, and preparing them for deeper exploration into synthesis techniques.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Chlorine Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c2",
+        "label": "Preparation of Chlorine",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c3",
+        "label": "Safety Procedures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Experimental Failure Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Improvement Measures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Introduction Slide",
+        "type": "Visual",
+        "original_text": "Design and Synthesis of Organic Compounds",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Active Listening",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c6",
+        "label": "Organic Compound Design",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Organic Compound Synthesis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c8",
+        "label": "Potassium Chlorate Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c9",
+        "label": "Hydrochloric Acid Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c10",
+        "label": "Atomic Efficiency",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 152.62]"
+      },
+      {
+        "id": "c11",
+        "label": "Explosion Cause Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 152.62]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding of chlorine properties supports knowledge of preparation methods."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Preparation methods require adherence to safety procedures."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Analyzing experimental failures helps in proposing improvement measures."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Design mechanisms are fundamental to synthesis techniques."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "Slide displays the concept of organic compound design."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Slide illustrates the synthesis of organic compounds."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "engages_with",
+        "intent": "Students actively listen to teacher's explanation of slide content."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Reactions between potassium chlorate and hydrochloric acid contribute to chlorine preparation."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Preparation of chlorine involves potassium chlorate reaction."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Preparation of chlorine involves hydrochloric acid reaction."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Atomic efficiency is considered in chemical reactions."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Identifying explosion causes contributes to experimental failure analysis."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,152 @@
+{
+  "video_name": "19_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "physics",
+  "teaching_goal": "Be able to decompose the velocity vector of a moving wire to determine the effective direction of magnetic field cutting.",
+  "transcript": "[444.92 -> 469.9] 这是我们的磁场方向现在这是一根导线从这里斜着去运动速度为微有什么想法吗有吗想一想我们再说对喽就是分解。\n[472.12 -> 538.76] 对速度进行分解为什么呢分解之后你就可以发现向下的这个分速度它有在切割次上吗没有它是无效的所以呢其实是只有这一段带切割这个角我们叫它为斯坦那此时这个诗的我们该写成什么了一九等于BLVC那在垂直时的C呢等于什么三九度有多什么一是不是那这个是吧对不对吗对对好这就是我们的第二种表达也是我们之后会经常用到的一种表达现在有这么一这个问题还是观察不下。\n[558.28 -> 605.998667] 有这样一个线圈儿其中其他的一个动作表现在我们将它向右侧进行运动那么会出现几种状态这三种那么现在有一个问题在这个位置的时候你们认为它会不会发生偏转它的电流表会不会发生偏转呢我们刚才知道了齐合的时候会产生改变模式对不对那它是不是会发生偏转那如果它完全进来那为什么呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The subject of the interaction was the diagram and equations on the blackboard, specifically the Faraday's Law of Electromagnetic Induction equations:\n  \\[\n  E = \\frac{\\Delta \\Phi}{\\Delta t}\n  \\]\n  and\n  \\[\n  E = B \\cdot V \\cdot L\n  \\]\n- The teacher also referred to the digital slide on the screen, which displayed a diagram related to electromagnetic induction.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the equation \\( E = B \\cdot V \\cdot L \\) on the blackboard, highlighting the variables involved. This action visually guided the student to focus on the relationship between magnetic field strength, velocity, and length.\n- The teacher also gestured towards the diagram on the blackboard, emphasizing the direction of the magnetic field and the movement of the conductor, aiding the student in visualizing the concept.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher circled the equation \\( E = B \\cdot V \\cdot L \\) on the blackboard, visually confirming the correctness of the student's input.\n- The teacher then drew a small diagram of a hand with labeled fingers on the blackboard, illustrating the right-hand rule to further clarify the direction of the induced current. This visual elaboration helped reinforce the concept being discussed.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher makes a sweeping gesture towards the class.\n  - Focus shifts to the blackboard, highlighting the equations and diagram related to Faraday's Law.\n\n- **Middle:**\n  - Teacher points to the equation \\( E = B \\cdot V \\cdot L \\) while a student responds.\n  - Teacher gestures towards the diagram, emphasizing the direction of the magnetic field and conductor movement.\n\n- **End:**\n  - Teacher circles the equation \\( E = B \\cdot V \\cdot L \\) to confirm the student's correct input.\n  - Teacher draws a diagram of the right-hand rule on the blackboard, providing visual elaboration to clarify the concept.\n\nThis structured visual interaction effectively co-constructs knowledge, ensuring students grasp the principles of electromagnetic induction through guided visual cues and real-time feedback.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the fundamental equations of Faraday's Law of Electromagnetic Induction:\n\\[\nE = \\frac{\\Delta \\Phi}{\\Delta t}\n\\]\nand\n\\[\nE = B \\cdot V \\cdot L\n\\]\naccompanied by a diagram illustrating the concept. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem at hand. This broad gesture signaled the start of an interactive session, focusing attention on the equations and diagram.\n\nAs a student began to explain their reasoning, the teacher moved to the blackboard, pointing directly to the equation \\( E = B \\cdot V \\cdot L \\). This action visually guided the student to focus on the relationship between the magnetic field, velocity, and length. The teacher then gestured towards the diagram, emphasizing the direction of the magnetic field and the movement of the conductor, aiding the student in visualizing the physical principles involved.\n\nTo validate the student's response, the teacher circled the equation \\( E = B \\cdot V \\cdot L \\) on the blackboard, providing clear visual confirmation of the correct understanding. Following this, the teacher drew a small diagram of the right-hand rule, illustrating the direction of the induced current. This visual elaboration reinforced the concept and connected the student's response back to the core lesson content.\n\nFinally, the teacher walked around the classroom, ensuring all students could see the newly added diagram and the circled equation. By linking the student's explanation to the main theorem discussed earlier, the teacher facilitated a deeper understanding of electromagnetic induction. This dynamic interaction transformed passive knowledge reception into active construction, enabling students to visualize and internalize the principles of Faraday's Law through guided visual cues and real-time feedback.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Magnetic Field Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[444.92 -> 469.9]"
+      },
+      {
+        "id": "c2",
+        "label": "Wire Velocity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[444.92 -> 469.9]"
+      },
+      {
+        "id": "c3",
+        "label": "Decomposition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[472.12 -> 538.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Vertical Component Effectiveness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[472.12 -> 538.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Effective Cutting Angle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[472.12 -> 538.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Faraday's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[472.12 -> 538.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Equation E = BVL",
+        "type": "Visual",
+        "original_text": "Equation showing induced EMF",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Diagram with Right Hand Rule",
+        "type": "Visual",
+        "original_text": "Diagram illustrating direction of induced current",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Group Brainstorming",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "c10",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c11",
+        "label": "Induced Current Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[558.28 -> 605.998667]"
+      },
+      {
+        "id": "c12",
+        "label": "Current Deflection",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[558.28 -> 605.998667]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Linking direction with effective cutting angle."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Velocity is used to define the effective angle."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Decomposing velocity to discuss effectiveness."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Illustrating Faraday's Law."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "scaffolds",
+        "intent": "Guiding focus on velocity and induced EMF."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "emphasizes",
+        "intent": "Right-hand rule clarifies the direction."
+      },
+      {
+        "source": "c3",
+        "target": "c10",
+        "relation": "guides_discussion",
+        "intent": "Teacher assists in decomposing velocity."
+      },
+      {
+        "source": "c12",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Explaining the concept of deflection."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm and respond."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

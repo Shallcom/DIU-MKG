@@ -1,0 +1,127 @@
+{
+  "video_name": "2_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the basic connotations of the core socialist values; analyze the necessity of the core socialist values in real life.",
+  "transcript": "[0.0 -> 89.7] 及时作私纠正如果学生还未能够理解我会下课后主动去找他并且在交流过程中我会以理除人寻寻善诱运用生活中的有关案例以及实例去印证我们社会主义核心价值观的正确性必要性所在同时我也会用相应童年与他童拟年龄段的榜样模范的故事为他做出正确的正向引导将讲故事与讲道理进行相应的结合而我们的思想政治课本身的根本任务就是立得数人的课程所以纠正它与违背社会主义核心价值观的答案就显得非常必要我需要在课后以及课中去帮助学生引领他们树立正确的政治方向培育核心素养提高他们社会理解与参与的能力那以上是我即兴演讲的所有内容接下来开始我的正式授课。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The slide contains the text \"法治社会\" (Rule of Law Society) and additional smaller text below it.\n\n#### 2. **The Title Event**\n- The title \"法治社会\" is prominently displayed on the screen. The teacher does not physically write it but points towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- The slide includes bullet points below the title, though they are not fully legible. The visible text includes phrases related to the rule of law, suggesting learning goals about societal governance and legal systems.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures towards the screen, likely emphasizing the content displayed.\n- The teacher occasionally looks at the students, engaging with them while referencing the screen content.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium with papers in hand.\n- The screen displays the title slide with \"法治社会\" prominently visible.\n- The teacher gestures towards the screen, indicating the start of the lesson.\n\n**Middle:**\n- The teacher continues to reference the screen, pointing to the title and bullet points.\n- The blackboard remains blank, with no additional content written during this phase.\n- The teacher's gestures include pointing and holding papers, maintaining focus on the screen content.\n\n**End:**\n- The teacher maintains engagement with the students, occasionally looking at them while referencing the screen.\n- No additional visual content is added to the blackboard or screen during this phase.\n\n### Summary\nThe introduction phase centers on the title slide \"法治社会\" displayed on the screen. The teacher uses gestures to emphasize the content, linking their actions to the visual elements on the screen. The lesson objectives are suggested through bullet points, though specific details are not fully visible. The teacher's engagement with the students is maintained through eye contact and gestures directed at the screen content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing at the podium, holding papers, and facing a classroom of attentive students. The hook is the title slide on the screen, prominently displaying \"法治社会\" (Rule of Law Society), which immediately captures the students' focus. The teacher gestures towards the screen, emphasizing the title and the bullet points below, which suggest learning objectives related to societal governance and legal systems. The blackboard remains blank, directing all visual attention to the screen. As the teacher continues, they occasionally point to the bullet points, reinforcing the key themes of the lesson. The transition from the hook to the main topic is seamless, as the teacher's gestures and references to the screen content establish a clear link between the title and the objectives. This visual approach helps connect the new knowledge to the students' existing understanding of societal structures, setting the stage for a deeper exploration of the rule of law. The teacher's engagement with the students through eye contact and gestures ensures that the introduction effectively bridges their current knowledge to the forthcoming lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Rule of Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c2",
+        "label": "Societal Governance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Core Socialist Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Legal Systems",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c5",
+        "label": "Corrective Feedback",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c6",
+        "label": "Moral Exemplars",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c7",
+        "label": "Storytelling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 89.7]"
+      },
+      {
+        "id": "c8",
+        "label": "Blackboard Blank",
+        "type": "Visual",
+        "original_text": "The blackboard remains blank throughout the introduction phase.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Title Slide Displayed",
+        "type": "Visual",
+        "original_text": "The title slide shows 'Rule of Law Society' prominently on the screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Visual Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Illustrates how the rule of law is a part of societal governance."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Shows that legal systems are a component of societal governance."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Suggests that core socialist values include the principle of the rule of law."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "guides_discussion",
+        "intent": "Corrective feedback helps students understand core socialist values."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Moral exemplars are presented through storytelling to guide students."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "The title slide's presence emphasizes its importance as the screen's focus with no distractions on the board."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The title slide engages students visually, drawing their attention to the lesson's topic."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

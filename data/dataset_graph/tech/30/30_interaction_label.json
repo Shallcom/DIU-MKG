@@ -1,0 +1,152 @@
+{
+  "video_name": "30_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "tech",
+  "teaching_goal": "- Understand the basic conditions required for the formation of electric current.  \n- Master the prescribed method for determining the direction of current.  \n- Be able to use experimental tools to judge the direction of current.",
+  "transcript": "[458.48 -> 534.88] 好那么知道了电流的形成条件大家肯定很疑惑这个电流它的本质是怎么形成的我们来想一想之前我们学习过导体的相关知识我们知道当导体它去接触带电的物体时这里面导体它原本是有很多的自由电子当它接触了带电体这些自由电子就会运动起来不过在这里我们是将导线连接形成了一个回路因为有了电池在电池的作用下这些自由电子它们像是被什么东西推动了一样因此它们就发生了定向的移动这就是电流的形成原因有电流的加持不仅可以让这些自由电子对应向移动起来而且还能让它们持续不断地运动。\n[536.0 -> 542.14] 那么接下来我们再来想一想电流的方向该如何判断呢。\n[543.66 -> 575.66] 除了导体当中的金属以外其他的导体当中也有许多的自由电荷它们有可能是正电荷有可能是负电荷还有可能是一些其他的离子在当时人们并不知道究竟是谁在移动因此我们就规定是正电荷的定向移动方向就为电流的方向。\n[582.94 -> 630.0] 接下来我想请大家再接着完成实验在这里呢我有一个二极管这个二极管它可以判断电流的方向它是怎么判断的呢当电流从它的正极大家注意看正极是这个二极管较长的一个接口当它从正极流入负极流出时这个二极管它就会发光那么如果电流是从它的负极流入而从正极流出的话那么二极管就不能发光通过这个二极管我们可以怎样来判断电流方向呢。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the content displayed on the screen, specifically the diagram illustrating the direction of current flow in a circuit. The screen showed a semicircular path with blue dots, indicating electron flow, and later a diagram with two bulbs and switches.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While explaining, the teacher pointed directly at the semicircular path on the screen, emphasizing the direction of electron flow. She used hand gestures to trace the path, reinforcing the concept visually.\n- As the explanation progressed, the teacher pointed to the bulbs and switches on the screen, highlighting the correct configuration for current flow. She used her hands to mimic the connections, aiding in understanding.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher nodded and used affirmative gestures to validate correct student responses. She occasionally circled key points on the screen with her pointer, emphasizing important concepts.\n- When a student provided a correct answer, the teacher gave a thumbs-up and pointed to the corresponding part of the diagram, reinforcing the accuracy of the response.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Points to the semicircular path on the screen, tracing the electron flow with her finger.\n\n- **Middle:**\n  - Teacher gestures towards the bulbs and switches, explaining their configuration.\n  - Uses hand movements to illustrate connections, reinforcing the visual content.\n\n- **End:**\n  - Nods and gives a thumbs-up to acknowledge correct student responses.\n  - Circles key elements on the screen, providing visual confirmation of correct answers.\n\nThis structured approach ensures that the teacher's visual strategies are effectively linked to the evolving content, facilitating a dynamic and interactive learning environment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a diagram illustrating the direction of current flow in a circuit, with a semicircular path marked by blue dots representing electron flow. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the content. She pointed directly at the semicircular path, tracing the electron flow with her finger to emphasize the concept.\n\nAs the interaction progressed, the teacher moved to the screen, pointing at the bulbs and switches to explain their configuration. While a student explained their reasoning, the teacher walked over to the board and used hand gestures to mimic the connections, reinforcing the visual content. She nodded and smiled, providing encouragement and validation.\n\nTo confirm the student's understanding, the teacher gave a distinct nod and circled the correct configuration on the screen. She then drew an arrow connecting the student's correct answer back to the main diagram, linking it to the core lesson content about current flow.\n\nThroughout the interaction, the teacher's gestures and visual cues helped students move from passively receiving knowledge to actively constructing their own understanding. By linking the student's response to the lesson's key concepts, the teacher facilitated a dynamic and interactive learning experience, ensuring that students could apply and verify their knowledge effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Current Formation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[458.48 -> 534.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Electron Movement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[458.48 -> 534.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Conductor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[458.48 -> 534.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Battery",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[458.48 -> 534.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Current Direction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[536.0 -> 542.14]"
+      },
+      {
+        "id": "c6",
+        "label": "Positive and Negative Charges",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[543.66 -> 575.66]"
+      },
+      {
+        "id": "c7",
+        "label": "Diode",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[582.94 -> 630.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Diode Behavior",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[582.94 -> 630.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Current Flow Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with semicircular path showing electron flow.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bulbs and Switches Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with two bulbs and switches showing correct configuration for current.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Answering Correctly",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Electric current formation involves electron movement."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "A battery is a part of the conditions required for electric current formation."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Electron movement occurs in a conductor."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The direction of current is related to the movement of positive and negative charges."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Diode behavior is dependent on the direction of current flow."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The diagram visualizes the formation and path of electric current."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The diagram of bulbs and switches visualizes current direction."
+      },
+      {
+        "source": "ss1",
+        "target": "ss2",
+        "relation": "builds_upon",
+        "intent": "Correct answers reflect students' engaged understanding."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "builds_upon",
+        "intent": "The bulb and switches diagram builds upon the current flow being demonstrated in the first diagram."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

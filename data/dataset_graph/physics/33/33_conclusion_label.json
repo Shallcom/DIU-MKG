@@ -1,0 +1,211 @@
+{
+  "video_name": "33_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the relationship between the work done by gravity and changes in height; master the methods for calculating the work done by gravity during an object’s motion; analyze the characteristics of gravitational work under different paths.",
+  "transcript": "[567.06650025 -> 593.86] 非常好同学们我们来看一下大家的结果和这位同学一致吗都点投了代表一致我们来分析一下第一个重力做工等于力重力乘以它的高度变化原来H非常棒第二个物体它从你为什么走出来是MGH一减H二呀括号H一减如果我以地面为参考平面的话那么A从A并能到B一撇那么A到B一撇它的数值距离不是黛尔塔H吗对那么这个黛尔塔H它就是H一点H二吗非常好请坐有什么问题所以通过刚才我们大家都得出来了重力做工都是断约MG乘以这个高度的对差值对吧好那我们进一步扩展如果物体做曲线运动能不能得出它终极作功呢我们会发现我们是不是可以跨曲为止每一小段是不是就可以变成这个直线运动可以理解吗每一小段可以类比成直线运动那这一小段终极作功为很好MG叠到H第二个呢装运作工为MG叠了H二以此类推所以它从A录到B整个过程中装运作工为多少呀。\n[598.44 -> 635.08] 好这位同学你来说一说大声说一说对是不是每一个过程叠加MG叠了H一加叠了H二加叠了H三到最后了我们深整合一下就可以得到MGH同学们我们发现不管是做直线还是先沿着斜面再做平面还是做曲线最终钟丽是能做的功都等于这个表达式对不对大家总结一下钟丽做功有什么特点吗思考一下。\n[642.92 -> 754.6] 有同学的想法吗周丽作工有什么特点你来我觉得它应该与它运动的这个路径没有关系因为你从这三个情景中就可以看出了你从A到B片然后这个你竖直下落或者说你沿斜面下落或者说你曲线下落都是没有区别的对所以你得出来的结果是众里的做工与路径无关与什么呢与什么有关呢那可能与它这个出没的一个位置有关非常好请坐大家掌声送给他谢谢这位同学可以走所以我们就可以得到众里做工的特点就是它只与它的出没位置有关对吧什么位置也可以与它的路径是没有关系的大家做好比根据这个得出来的大家知道重力做工的表达式我们该怎么写了吗如果出位之是H一部位之是H二重力做工的表达式怎么写呢大家一起来说多少重力做工WG等于多少呢MGH十对MGH十如果我们初始的高度为H一的话就是减缺非常好大家同学们我们说过我们是探究重力势能的定量表达式那同学们根据我们得到的这个结果来推想一下重力势能的表达式是怎样的好吗讨论一下待会我们一起来讨论我的片段教学到此结束谢谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen displaying diagrams and equations related to gravitational potential energy.\n   - The screen shows three diagrams: a vertical line with a point labeled \"C,\" a right triangle, and a graph with a curve.\n   - The blackboard contains handwritten notes, including the heading \"§5.2 重力势能\" and two equations:\n     - $W_G = mgh_1 - mgh_2$\n     - $W_G = mgh(t_1 - t_2)$\n   - Additional text on the blackboard includes \"重力势能的定义\" and \"表达式.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Diagrams on the screen:\n     - Vertical line with point \"C.\"\n     - Right triangle with height labeled.\n     - Graph with a curve.\n   - Equations on the blackboard:\n     - $W_G = mgh_1 - mgh_2$\n     - $W_G = mgh(t_1 - t_2)$\n   - Text on the screen:\n     - \"重力势能的定义\"\n     - \"表达式\"\n     - \"重力做功与重力势能变化的关系\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the diagrams on the screen, specifically highlighting the right triangle and the graph.\n   - She gestures towards the equations on the blackboard, emphasizing the terms $mgh_1$ and $mgh_2$.\n   - The teacher circles the phrase \"重力势能的定义\" on the blackboard to draw attention to the definition of gravitational potential energy.\n   - She underlines the equation $W_G = mgh(t_1 - t_2)$ to reinforce its importance.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or blackboard.\n   - The teacher concludes the session by summarizing the key points on the screen and blackboard, suggesting a review of the material covered.\n\nThis structured visual summary consolidates the lesson's focus on gravitational potential energy, with clear emphasis on definitions, diagrams, and key equations.",
+  "visual_narrative": "The lesson concludes with a digital screen displaying diagrams and equations related to gravitational potential energy, alongside handwritten notes on the blackboard. The teacher visually reviews the content by pointing to the diagrams on the screen, particularly emphasizing the right triangle and the graph. She gestures towards the equations on the blackboard, highlighting $mgh_1$ and $mgh_2$. The teacher circles the phrase \"重力势能的定义\" on the blackboard and underlines the equation $W_G = mgh(t_1 - t_2)$ to reinforce key concepts. There is no visual indication of homework or next steps, marking the end of the session with a focus on the core takeaway of gravitational potential energy definitions and calculations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gravitational Work",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[567.07 -> 593.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Height Change",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[567.07 -> 593.86]"
+      },
+      {
+        "id": "c3",
+        "label": "MG Weight Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[567.07 -> 593.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Equation WG = mgh1 - mgh2",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[567.07 -> 593.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Equation WG = mgh(t1 - t2)",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[567.07 -> 593.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Path Independence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[642.92 -> 754.6]"
+      },
+      {
+        "id": "c7",
+        "label": "Position Dependence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[642.92 -> 754.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Definition of Potential Energy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[567.07 -> 593.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Visual: Right Triangle Diagram",
+        "type": "Visual",
+        "original_text": "Right triangle with height labeled",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Visual: Graph with Curve",
+        "type": "Visual",
+        "original_text": "Graph displaying a curve representing motion",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Visual: Digital Screen with Equations",
+        "type": "Visual",
+        "original_text": "Screen showing equations related to potential energy",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Visual: BlackBoard Equation WG = mgh1 - mgh2",
+        "type": "Visual",
+        "original_text": "Equation WG = mgh1 - mgh2 displayed",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Visual: BlackBoard Equation WG = mgh(t1 - t2)",
+        "type": "Visual",
+        "original_text": "Equation WG = mgh(t1 - t2) displayed",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Response with Examples",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[598.44 -> 635.08]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engagement with Concept",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[642.92 -> 754.6]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Gravitational work involves height changes in calculations."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Gravitational work relies on MG weight force for computation."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Equation describing gravitational work between two positions."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Alternate form of work calculation with time variables."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Path independence is a characteristic of gravitational work."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Gravitational work is dependent on position."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Understanding of gravitational potential energy relates to work done."
+      },
+      {
+        "source": "c9",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Right triangle diagram highlights importance of elevation in calculations."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Graph with curve represents potential energy changes."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Digital screen emphasizes the procedure for calculating gravitational work."
+      },
+      {
+        "source": "c11",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Digital screen illustrates time-based calculation of work."
+      },
+      {
+        "source": "c12",
+        "target": "c2",
+        "relation": "summarizes",
+        "intent": "Blackboard equation represents change in height affecting work."
+      },
+      {
+        "source": "c13",
+        "target": "c3",
+        "relation": "summarizes",
+        "intent": "Blackboard equation reinforces MG weight impact over time."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Student speculates path independence through various scenarios."
+      },
+      {
+        "source": "s2",
+        "target": "c7",
+        "relation": "guides_discussion",
+        "intent": "Student encourages discussion on position's effect on work done."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

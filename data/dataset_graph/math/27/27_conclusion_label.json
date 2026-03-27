@@ -1,0 +1,108 @@
+{
+  "video_name": "27_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Master the basic methods for comparing the sizes of real numbers; understand and apply the difference method to compare numbers.",
+  "transcript": "[608.3 -> 615.66] 当A减B大于零时我们可以说A是大于B的。\n[619.78 -> 759.62] 这是我们的基本事实请大家观察一下如果现在我们要比较两个具体的实数我们用它表示为A和B要表示这两个的关系是不是就可以通过用一个数减去另一个数判断它与零的大小关系以此来比较这个数的关系那我们通常将这种方法称为做差法要比较两个实数可以转化为比较它们的差与零的大小好既然学习了做差法那我们下面就用做差法来完成一道小练习好大家快速地完成这道小练习小力几好有没有同学能分享一下你的思路来这位同学根据刚刚我讲的做叉法要比较正这样说大小我就把它进行做叉做叉我们可以用是不是可以我们用前面的减后面的样子F四加二乘F四然后减去很好请坐那化减步骤呢我们在课上就不进行验证了当它化减以后我们可以发现它是一个常数二是大于零的所以说这两个数它们有什么样的大小前面比后面大非常好那掌握了坐插法以后呢我们下面会学习一个重要的不等式请同学们课后预习一下重要不等式我们这节课就上到这里同学们下课感谢各位评委老师和各位同学们。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains the quadratic formula and its derivation:\n     - $a(x+b/2a)^2 = (a-b/2a)^2 - b^2/4a^2$\n     - $a(x+b/2a)^2 = (a-b/2a)^2 - b^2/4a^2$\n     - $a(x+b/2a)^2 = (a-b/2a)^2 - b^2/4a^2$\n   - The digital screen displays a summary slide with text and a diagram, focusing on quadratic expressions and their properties.\n\n2. **Key Knowledge Items (Content View)**:\n   - Quadratic formula: $a(x+b/2a)^2 = (a-b/2a)^2 - b^2/4a^2$\n   - Key terms: \"二次函数\" (quadratic function), \"配方法\" (completing the square), \"顶点坐标\" (vertex coordinates).\n   - Diagram on the screen illustrating the quadratic function and its transformation.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the quadratic formula on the blackboard, emphasizing each component of the equation.\n   - She gestures towards the digital screen, highlighting the diagram and key terms displayed.\n   - The teacher uses hand movements to trace the structure of the quadratic expression, linking the blackboard content to the screen.\n\n4. **Transition to Next Step**:\n   - The screen briefly shows a slide with text that may indicate further study or homework, though specific details are not fully visible.\n   - The teacher's gestures suggest a transition, possibly indicating the next lesson's focus or additional practice problems related to quadratic functions.",
+  "visual_narrative": "The lesson concludes with a summary on the blackboard and digital screen, centered on quadratic functions and completing the square. The teacher visually reviews the content by pointing to the quadratic formula on the blackboard, emphasizing each component. She gestures towards the screen, highlighting key terms and the diagram. The final emphasis is placed on the quadratic expression, with the teacher tracing its structure to reinforce understanding. The visual focus briefly shifts to a slide that may indicate further study or homework, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Quadratic Formula",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "N/A"
+      },
+      {
+        "id": "c2",
+        "label": "Completing the Square",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "N/A"
+      },
+      {
+        "id": "c3",
+        "label": "Vertex Coordinates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "N/A"
+      },
+      {
+        "id": "c4",
+        "label": "Difference Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[619.78 -> 759.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Greater Than Zero",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[608.3 -> 615.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Quadratic Function Diagram",
+        "type": "Visual",
+        "original_text": "Illustration of quadratic functions on digital screen.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Blackboard Formula",
+        "type": "Visual",
+        "original_text": "Quadratic formula and derivation on blackboard.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c8",
+        "label": "Student Practice Exercise",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[619.78 -> 759.62]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The quadratic formula includes the procedure of completing the square."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Vertex coordinates are derived from the quadratic formula."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The difference method builds upon the principle of evaluating expressions greater than zero."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The quadratic formula is visualized through diagrams on the digital screen."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "The quadratic formula is summarized on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "The practice exercise prompts students to engage with the difference method."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

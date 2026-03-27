@@ -1,0 +1,139 @@
+{
+  "video_name": "36_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Master methods for constructing statistical models; analyze correlations between variables; enhance mathematical modeling skills.",
+  "transcript": "[66.34 -> 105.42] 它为我们数学学习提供了良好的开端其次在讲述法的过程中我们可以采用小组合作的模式就比如在数学建模的活动探究中学生需要通过团队合作进行分工有的学生负责收集数据有的学生负责整理数据有的学生负责构建模型得出结论在这个过程中学生会运用到自主学习的能力同时也会培养他们的社会责任感和团队协作能力。\n[106.88 -> 149.14] 第三我认为在讲授法的过程中我们可以通过课堂练习来帮助学生提升创新能力在课堂练习的过程中我们要设置不同梯度不同难度的课堂练习从基础的运算题目到综合的复杂题目来培养学生不同层次的能力最后我想说讲授法绝不能单单理解为满堂观在课堂探究中我们要引导学生以学生为本来发展我们的数学核心素养以上就是我的即兴讲演下面我将开始我的模拟授课。\n[160.62 -> 186.34] 上课同学们好在之前的学习中我们学习了函数的模型明白了两个变量之间的确定关系在今天的这节课我们能否类比之前的学习来构建一个统计模型来学习两个随机变量之间的相关关系呢下面让我们来看这样一个情节本。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a presentation slide titled \"8.2.1 一元线性回归模型\" (One-variable linear regression model).\n- The slide includes a web browser interface with a blue banner, indicating a focus on data analysis or statistical software.\n- The teacher's hands are clasped in front, indicating a moment of explanation or introduction.\n\n**Middle:**\n- The teacher moves slightly to the left, gesturing towards the digital screen.\n- The slide transitions to a flowchart with blue boxes, showing a process or steps related to linear regression.\n- The teacher's gestures likely emphasize the flow of the process, pointing to specific steps in the flowchart.\n\n**End:**\n- The teacher continues to gesture towards the flowchart, possibly explaining each step in detail.\n- The classroom setting includes a chalkboard with some writing, though it's not the focus of the presentation.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying the flowchart related to linear regression.\n   - The flowchart consists of blue boxes connected by arrows, indicating a sequential process.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher likely adds verbal explanations corresponding to each step in the flowchart.\n   - **Modifications**: No visible erasures or modifications to the digital content; the focus is on the existing flowchart.\n   - **Deictic Gestures**: The teacher points to specific boxes in the flowchart, synchronizing gestures with explanations of each step.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize key steps in the flowchart.\n   - The blue color of the boxes may signify important stages in the regression process, though no additional highlighting is observed.\n\n**Chronological Log of Visual Events:**\n\n1. **Initial State:**\n   - Slide titled \"8.2.1 一元线性回归模型\" with a web interface visible.\n   - Teacher introduces the topic, standing still with hands clasped.\n\n2. **Transition to Flowchart:**\n   - Slide changes to a flowchart with blue boxes.\n   - Teacher gestures towards the flowchart, indicating the start of the process explanation.\n\n3. **Process Explanation:**\n   - Teacher points to each box in the flowchart while explaining the steps.\n   - Verbal synchronization with gestures highlights each part of the process.\n\n4. **Emphasis on Steps:**\n   - Teacher uses hand movements to trace the flow of the process, emphasizing connections between steps.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, focusing on the evolution of the presentation and the emphasis on key concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a presentation slide titled \"8.2.1 一元线性回归模型\" with a web interface, setting the stage for the topic introduction. The teacher stood in front, hands clasped, ready to begin. Then, the teacher gave a lecture, transitioning the slide to a flowchart with blue boxes connected by arrows, representing the linear regression process. The teacher constructed the explanation by pointing to each box, tracing the flow of the process to illustrate the sequential steps involved. Deictic gestures were resolved as the teacher traced the connections between the boxes, emphasizing the logical progression. Finally, the teacher went around the flowchart, ensuring each step was clearly explained, using hand movements to highlight key transitions. The visual emphasis on the blue boxes aligned with the conclusion, reducing cognitive load by visually segmenting the process into manageable steps. This structured approach ensured that the visual and verbal elements worked in harmony, guiding the students through the concept of one-variable linear regression effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "One-Variable Linear Regression Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[66.34 -> 105.42]"
+      },
+      {
+        "id": "c2",
+        "label": "Correlation Between Variables",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[106.88 -> 149.14]"
+      },
+      {
+        "id": "c3",
+        "label": "Statistical Modelling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[160.62 -> 186.34]"
+      },
+      {
+        "id": "c4",
+        "label": "Team Collaboration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[66.34 -> 105.42]"
+      },
+      {
+        "id": "c5",
+        "label": "Data Collection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[66.34 -> 105.42]"
+      },
+      {
+        "id": "c6",
+        "label": "Data Organization",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[66.34 -> 105.42]"
+      },
+      {
+        "id": "c7",
+        "label": "Model Construction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[66.34 -> 105.42]"
+      },
+      {
+        "id": "c8",
+        "label": "Lecture Method",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[106.88 -> 149.14]"
+      },
+      {
+        "id": "c9",
+        "label": "Flowchart on Linear Regression",
+        "type": "Visual",
+        "original_text": "Digital screen displaying flowchart with blue boxes and arrows.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The flowchart represents the process of one-variable linear regression."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The concept of linear regression builds upon understanding correlations."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Statistical modelling includes constructing regression models."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Model construction builds upon organized data."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Data organization builds upon collected data."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Analyzing correlations is a part of statistical modelling."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Team collaboration engages students cognitively."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "prompts_thinking",
+        "intent": "Lecture method involves engaging students in thinking."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "The visual flowchart supports student engagement with the content."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

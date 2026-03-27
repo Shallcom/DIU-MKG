@@ -1,0 +1,152 @@
+{
+  "video_name": "15_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "biology",
+  "teaching_goal": "Design low‑cost, feasible biology experiment plans; utilize multimedia resources to support laboratory teaching; cultivate students’ experimental skills and scientific inquiry abilities.",
+  "transcript": "[0.0 -> 81.88] 各位评委老师好我是中学生物组十五号选手我抽到的即兴演讲题目是当你的学校条件无法开设足够的学生实验时作为一名生物老师你应该怎么做呢首先呢我会根据教材内容选择可操作可执行的在现有条件下可以进行的实验例如在必修一当中酵母探究酵母菌的呼吸方式里的实验装置就可以利用生活中常见的塑料瓶等等装置带领学生自行制作简单的实验器具例如又在选修二中在探究群落物种丰富度的时候教师可以带领学生去到学校的校园环境中然后根据群落物种丰富度进行探究和好第二呢是可以通过当无法进行当有些实验的条件无法进行的时候可以利用视频等图片进行教学辅助实验的操作技能的培养是十分重要的通过视频和图片的教学同样也可以直观清新地向学生呈现的特点的学习技能的培养是十分重要的通过视频和图片的教学同样也可以直观清新地向学生呈现的实验的步骤使学生能够学习相关实验的学习技能",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital presentation slide displayed on the screen. It features three circular images with text underneath each. The images include:\n  - A dog with a blurred face.\n  - A yellow circular object with a pattern.\n  - A circular object with text in Chinese characters.\n\n#### 2. **The Title Event**\n- The title on the screen reads: \"第4章 第3节 免疫失调\" (Chapter 4, Section 3: Immune Dysfunction).\n- The teacher is standing in front of the screen, presenting the slide. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or blackboard in this segment.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and appears to be reading or presenting from them.\n- There are no visible gestures such as pointing or underlining in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the front of the classroom, holding papers.\n- The digital screen displays the title \"第4章 第3节 免疫失调\" with three circular images below it.\n- The blackboard is mostly blank except for some text written on the left side, which is not clearly legible.\n\n**Middle:**\n- The teacher continues to present, maintaining a position at the front.\n- The screen content remains unchanged, showing the same title and images.\n- Students are seated, facing the teacher and the screen.\n\n**End:**\n- The teacher remains at the front, still holding papers.\n- No changes occur in the screen content or blackboard.\n- The classroom setting remains consistent with students focused on the presentation.\n\nThis structured visual analysis captures the evolution of the classroom scene, focusing on the teacher's actions and the static visual elements present throughout the introduction phase.",
+  "visual_narrative": "Initially, the screen presents three circular images, including a dog with a blurred face, a yellow patterned object, and a circular object with Chinese text, serving as the hook to capture attention. The teacher stands at the front, holding papers, and begins the introduction. To bridge to the main topic, the teacher maintains focus on the screen, which prominently displays the title \"第4章 第3节 免疫失调.\" The visual focus remains on this title throughout, establishing the lesson goal of exploring immune dysfunction. The consistent presentation of the title and images provides a clear link to the subject matter, setting the stage for a structured exploration of the topic. This approach helps connect new knowledge to the students' existing understanding by visually framing the lesson's focus early on.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Biology Experiment Plan",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Experimental Skills",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Yeast Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Species Richness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Video Teaching",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Immune Dysfunction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 81.88]"
+      },
+      {
+        "id": "c8",
+        "label": "Dog Image",
+        "type": "Visual",
+        "original_text": "A dog with a blurred face",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Yellow Pattern Object",
+        "type": "Visual",
+        "original_text": "A yellow circular object with a pattern",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Chinese Text Circle",
+        "type": "Visual",
+        "original_text": "A circular object with text in Chinese characters",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Focused Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Developing biology experiment plans requires scientific inquiry principles."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Executing experiment plans enhances students' experimental skills."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Yeast experiment is included in the biology experiment plan."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Species richness exploration can be part of the yeast experiment."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Video teaching aids in building experimental skills."
+      },
+      {
+        "source": "c7",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Understanding immune dysfunction is part of biology experiment planning."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Dog image is used to visualize aspects of immune dysfunction."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Yellow pattern object aids in the visual explanation of immune dysfunction."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Chinese text circle is used to depict concepts related to immune dysfunction."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Biology experiment plan concept engages students' cognitive processes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

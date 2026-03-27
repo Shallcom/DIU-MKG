@@ -1,0 +1,153 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Identify potential issues in the teaching process that may cause knowledge internalization failure; design a teaching‑content planning scheme based on students’ learning conditions; employ diagnostic and summative assessments to enhance teaching effectiveness.",
+  "transcript": "[0.0 -> 151.02] 好各位评约老师同学们早上好下面开始我的即席演讲我抽到的题目是五加二等于零是目前教育中存在通出问题为了解决这个问题你觉得作为老师可以采取哪些措施首先我们知道我们教学的目的都是为了能够教师引导学生探索消化知识最终将知识内化形成自己看待世界思考问题的方式那么五加二等于零呢我觉得它可能存在以下的问题第一个是教师教得多没有按学生的学习合理的规划内容一味地赶教学进度那么第二个呢可能是教师没有讲透学生一开小差可能就没有听懂导致我们的教学成果教学没有什么效果第三个可能的问题是学生可能不想学那么我将从以下三个问题开始讲解我认为教师可以采取的作用吧那么我们现在来看一首先第一个教师教得多为按照学生的学情规划内容我觉得可以进行少量多次的教学首先少量量是在于教学内容的量在课前教师应该合理的评价学生他的学情通过诊断性评价给学生一套卷子来摸底学生对本章知识含内对本章知识内容的了解情况在了解学生的基础上合理地规划教学内容在课中教师需要讲透讲明白这就涉及到教师的基本功所以教师需要有非常扎实的基本功能够做到将这个知识点讲透讲明白确保大部分学生的消化最后通过终结性评价设置对应有针对性的作业为学生进行终结性检测。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The hook object is an image of the Northern Lights (Aurora Borealis) over a snowy landscape. The sky displays vibrant colors of purple and green, with trees and a snowy ground visible.\n\n#### 2. **The Title Event**\n- **Title**: The title on the screen reads \"太阳活动与地球\" (Solar Activity and Earth).\n- **Teacher's Action**: The teacher is standing in front of the screen, holding papers, and appears to be presenting or reading from them. The title is prominently displayed on the screen without any additional underlining or emphasis by the teacher.\n\n#### 3. **The Objectives**\n- **Learning Goals**: Not explicitly visible in the frames provided. The screen primarily displays the title and the hook image.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: The teacher is holding papers and appears to be reading or presenting from them. There are no specific gestures like pointing or underlining observed in the frames provided.\n\n### Chronological Log of Visual Events\n\n**Beginning**\n- The teacher stands in front of a large screen displaying an image of the Northern Lights over a snowy landscape.\n- The title \"太阳活动与地球\" is prominently shown on the screen.\n\n**Middle**\n- The teacher continues to stand in front of the screen, holding papers, and appears to be speaking or reading from them.\n- No additional visual content changes are observed on the screen or blackboard.\n\n**End**\n- The teacher maintains the same position, with the screen still displaying the initial image and title.\n- No further gestures or changes in visual content are noted.\n\n### Summary\nThe introduction phase of the lesson begins with a captivating image of the Northern Lights, setting the theme for the topic \"太阳活动与地球.\" The teacher presents from papers without additional gestures or changes to the visual content, focusing on the initial hook to engage the audience.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a large screen displaying a captivating image of the Northern Lights over a snowy landscape, serving as the initial visual hook. The vibrant colors of the aurora immediately draw attention, setting a thematic backdrop for the lesson. The teacher, holding papers, appears poised to present, maintaining a steady presence in front of the screen. The slide transitions to prominently feature the title \"太阳活动与地球,\" establishing the main topic without additional visual changes or gestures. This visual shift from the engaging aurora image to the clear title smoothly bridges the hook to the core subject matter. The teacher's static position and focus on the papers suggest a structured start, linking the awe-inspiring natural phenomenon to the scientific exploration of solar activity and its effects on Earth. This approach likely aims to connect students' existing fascination with natural wonders to the upcoming scientific concepts, laying a foundation for deeper understanding and engagement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Solar Activity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Earth",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Northern Lights",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c4",
+        "label": "Knowledge Internalization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c5",
+        "label": "Diagnostic Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c6",
+        "label": "Summative Assessment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Learning Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c8",
+        "label": "Teaching-Content Planning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 151.02]"
+      },
+      {
+        "id": "v1",
+        "label": "Aurora Image",
+        "type": "Visual",
+        "original_text": "Image of the Northern Lights over snowy landscape with purple and green colors.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title Slide",
+        "type": "Visual",
+        "original_text": "\"Solar Activity and Earth\" title displayed on screen.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The solar activity concept is visually supported by the Northern Lights image."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Solar activity affects Earth."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Northern Lights phenomenon is explained by solar activity."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The title 'Solar Activity and Earth' introduces the topic."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Knowledge internalization includes diagnostic assessment."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Knowledge internalization is summarized by summative assessment."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Teaching-content planning is based on learning conditions."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "engages",
+        "intent": "The topic of solar activity engages students."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The aurora phenomenon is captured visually in the image."
+      },
+      {
+        "source": "c7",
+        "target": "c9",
+        "relation": "affects",
+        "intent": "Students' engagement is influenced by their learning conditions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

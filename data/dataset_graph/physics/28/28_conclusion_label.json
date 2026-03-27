@@ -1,0 +1,145 @@
+{
+  "video_name": "28_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the ideal experimental method and its role in physics research; master the relationship between force and changes in an object’s state of motion; be able to analyze inertial phenomena and explain their practical applications.",
+  "transcript": "[584.98 -> 779.3] 嗯那么其实我们是能够知道的阻力是不是不可以完全被消除的呀对不对那么第二个行业它也不可能会做到无限长那么所以说伽利略的实验它是在现实生活中做不出来的也就是说它是一个理想实验那么虽然这个实验是无法实现的但是伽利略在实验的基础上进行进一步的什么呀推理对不对然后呢就能够帮助我们找到解决运动和力关系的这样一个方法那么我们在实验中我们看到它推理的过程那它去掉了实际生活中的摩擦力那么这个就是抓住了事物的本质在抓住事物本质的基础上这样依据一定的逻辑推理把实际的实验打造一个理想实验的效果那我们就体会到了这样理想的实验具有它自己的魅力呼声现实生活中的进步让我们从理想的状态下进行这样一个思考推理与演绎好接下来我们具体来看接下来迪卡尔也研究了这个问题认为运动中的物体没有受到力的作用时它将继续以同样的速度沿着同一直线然后既不会停下来也不会偏离原来的地方所以我们可以看到这样一代接续一代的研究由此牛顿第一定律就衍生了牛顿结合了前人的思想总结得到了运动和力的第一个定律一切物体总保持匀速直线运动状态或静止状态除非作用在它上面的力迫使它改变这种状态那么这个也叫做惯性定律它指出了运动和力的关系是它不是物体运动的原因不是维持物体运动的原因而是什么呀改变物体运动状态的原因这个物体它要想运动状态差点改变就必须是有力去作用它迫使它改变那么我们在好以上就是我的讲解。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the presentation slide.\n   - The blackboard contains key phrases written in white chalk, including:\n     - \"牛顿第一定律\" (Newton's First Law)\n     - \"惯性定律\" (Law of Inertia)\n   - The presentation slide displays text and an image of Isaac Newton, with a description of Newton's First Law.\n\n2. **Key Knowledge Items (Content View)**:\n   - On the blackboard:\n     - \"牛顿第一定律\" (Newton's First Law)\n     - \"惯性定律\" (Law of Inertia)\n   - On the slide:\n     - \"牛顿第一定律\" (Newton's First Law)\n     - A portrait of Isaac Newton\n     - Text describing Newton's First Law\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the slide, specifically highlighting the description of Newton's First Law.\n   - The teacher gestures towards the blackboard, emphasizing the key phrases \"牛顿第一定律\" and \"惯性定律.\"\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the current slide or blackboard.\n   - The focus remains on summarizing the key points of Newton's First Law and the Law of Inertia.",
+  "visual_narrative": "The lesson concludes with a slide displaying Isaac Newton's portrait and a description of Newton's First Law, alongside key phrases on the blackboard. The teacher visually reviews the content by pointing to the text on the slide and emphasizing the blackboard phrases \"牛顿第一定律\" and \"惯性定律.\" The teacher's gestures highlight the core concepts, reinforcing the connection between the slide and the blackboard notes. There is no visible homework or next-step instruction, marking the end of the session with a focus on the summarized principles.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ideal Experiment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Galileo Experiment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Friction Removal",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Newton's First Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Law of Inertia",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Motion Change Cause",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "c7",
+        "label": "Isaac Newton",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[584.98 -> 779.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Newton",
+        "type": "Visual",
+        "original_text": "Slide displaying text and portrait of Isaac Newton with description of Newton's First Law",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Blackboard showing 'Newton's First Law' and 'Law of Inertia'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Highlights the transition from realistic to ideal experimental frameworks in physics."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Explains the procedure to achieve an ideal experimental condition by removing friction."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide visualizes Newton's First Law."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes the Law of Inertia."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Features a portrait of Isaac Newton emphasizing his contribution."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Newton's First Law includes understanding the cause of motion change."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Newton's First Law evolves from previous understandings, such as the Law of Inertia."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Law of Inertia builds upon the understanding of motion change causes."
+      },
+      {
+        "source": "ss1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes key concepts in slides, ensuring student engagement."
+      },
+      {
+        "source": "ss1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher emphasizes key concepts on the blackboard, ensuring student engagement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

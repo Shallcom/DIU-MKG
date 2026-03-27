@@ -1,0 +1,144 @@
+{
+  "video_name": "31_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "- Master the basic theorems of planar vectors and their applications.  \n- Understand the concept and representation method of vector linear combinations.  \n- Be able to use vector linear combinations to solve real‑world problems.",
+  "transcript": "[577.28 -> 660.44] 好时间到这个很简单啊这个我们表示出来BC向量就等于OC向量减OB向量那根据平面向量基本定义老师考考大家平面向量基本定理是如何描述的来这位同学对于平面中的任意的向量都存在唯一的一组实数万百一和万百二使得它可以解成万百没关系没关系来没关系同学我们老师带着大家一起来回忆一下对于平面内的任意一个向量A与平面内不共线的两个向量一一一二如果A向量与一一一二向量都不共线的话此时存在唯一的实数拉米达一拉米达二可以写成A向量等于拉米达一倍的一向量加上拉米达二倍的一二向量我们强调过这个拉米达一拉米达二是存在且唯一的很好那现在我们给了BC的两种表述方法你能得到什么结论。\n[661.6 -> 675.54] 系数是一样的也就是我们的二倍的T减一等于一二倍的T二减一等于负一。\n[677.56 -> 701.3] 那么自然我们可以解得T一像T一等于二分之一T二也为二分之一得到了这两个实数我们根据刚刚表示出来的就可以得到U向量它等于二分之一的OB向量而F向量等于二分之一的OC向量。\n[707.56 -> 766.0] 那现在同学们能尝试着用现在的结论来表示AO项量吗我们知道AO项量等于FO项量减去FA项量也就等于FO项量加上FB项量那自然通过计算我们得到了AO向量等于OC向量加上OB向量同样我们可以得到OD向量等于二分之一的OC向量加上OB向量也就得到了这样一个关系式那它其实也意味着OD向量等于二分之一的AO向量谢谢诺贝老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains a geometric diagram labeled with points A, B, C, D, and E, and the text \"重心\" (centroid) written next to it.\n   - The digital screen displays a triangle with points B, D, and C, along with mathematical expressions related to the centroid.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Diagram: $\\triangle AEC$ with points D and E.\n     - Text: \"重心\" (centroid).\n     - Written formula: $\\overrightarrow{AD} = \\lambda \\overrightarrow{AB} + \\mu \\overrightarrow{AC}$.\n   - Digital Screen:\n     - Triangle labeled B, D, C.\n     - Mathematical expressions:\n       - $\\overrightarrow{AD} = \\lambda \\overrightarrow{AB} + \\mu \\overrightarrow{AC}$\n       - $\\lambda + \\mu = 1$\n       - $\\lambda = \\frac{1}{3}, \\mu = \\frac{2}{3}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the digital screen, specifically highlighting the expressions $\\overrightarrow{AD} = \\lambda \\overrightarrow{AB} + \\mu \\overrightarrow{AC}$ and $\\lambda + \\mu = 1$.\n   - The teacher writes additional notes on the blackboard, including $\\overrightarrow{AD} = \\frac{1}{3} \\overrightarrow{AB} + \\frac{2}{3} \\overrightarrow{AC}$.\n   - The teacher gestures towards the blackboard diagram, emphasizing the relationship between points A, D, B, and C.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicating homework or further reading is visible in the frames provided.\n   - The focus remains on summarizing the current lesson content, with no transition to next steps shown.",
+  "visual_narrative": "The lesson concludes with a dual visual summary on both the blackboard and digital screen, centered on the concept of the centroid in triangles. The teacher visually reviews the content by pointing to the expressions on the digital screen, particularly emphasizing $\\overrightarrow{AD} = \\lambda \\overrightarrow{AB} + \\mu \\overrightarrow{AC}$ and $\\lambda + \\mu = 1$. On the blackboard, the teacher writes $\\overrightarrow{AD} = \\frac{1}{3} \\overrightarrow{AB} + \\frac{2}{3} \\overrightarrow{AC}$, reinforcing the relationship between points A, D, B, and C. The teacher gestures towards the blackboard diagram, highlighting the geometric configuration. No visual handover to homework or next steps is present, focusing solely on consolidating the core takeaway of the centroid's properties.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Centroid in Triangles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[577.28 -> 766.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Vector Linear Combinations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[577.28 -> 766.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Unique Real Numbers",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[577.28 -> 660.44]"
+      },
+      {
+        "id": "c4",
+        "label": "Expression of Vector A",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[660.44 -> 701.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Expression of Vector OD",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[701.3 -> 766.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Geometric Diagram on Blackboard",
+        "type": "Visual",
+        "original_text": "The blackboard has a diagram labeled with points A, B, C, D, and E, with the text 'centroid' next to it.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Triangle BDC",
+        "type": "Visual",
+        "original_text": "The digital screen displays a triangle with points B, D, C and mathematical expressions about the centroid.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Vector Expression Highlighted",
+        "type": "Visual",
+        "original_text": "Teacher points to expressions: AD = λAB + μAC and λ + μ = 1",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Expresses Vector A",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s2",
+        "label": "Student Engages with Vector OD",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s3",
+        "label": "Student Solving Linear Combinations",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Blackboard visualizes the concept of a centroid in triangles."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Digital screen emphasizes vector linear combinations using triangle BDC."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Using unique real numbers to express vector A."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Procedure for expressing vector OD evolves from the expression of vector A."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "Highlighting on the screen supports understanding of unique real number principle."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Student answers prompt about expressing vector A using linear combinations."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "engages",
+        "intent": "Student engagement in understanding expression of vector OD."
+      },
+      {
+        "source": "c2",
+        "target": "s3",
+        "relation": "prompts_thinking",
+        "intent": "Students solve problems using vector linear combinations."
+      },
+      {
+        "source": "v3",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Screen highlights visualize the principle of unique real numbers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

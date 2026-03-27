@@ -1,0 +1,154 @@
+{
+  "video_name": "31_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Understand the principles of rational drug use and their significance; master the criteria for selecting drug dosage forms and routes of administration; be able to design experiments that verify the active ingredients of antacids.",
+  "transcript": "[488.36 -> 500.42] 那我们接下来请同学们跟着老师一起接下来进行探究一下那我们应该如何进行合理用药请同学们分小组讨论一下。\n[505.72 -> 563.06] 哎我看到同学们的讨论声渐渐地减小了有请这组同学你们来分享一下你们觉得应该如何科学用药呢我觉得首先用药要在医生和药师的指导下然后主要要考虑药物的剂体量方面的药物的话要考虑剂量剂型给药的途径和时间然后剂体的话要考虑患者的年龄心理症状以及心理和遗传等的病例对很好非常正确看来同学们都很棒。\n[565.9 -> 593.98] 我们合理用药呢必须要在医生药师的指导下遵循安全有效经济和适当的原则则主要考虑药物的药物和机体两个方面比如说药物方面我们要考虑它的剂量剂型给药途径和时间等因素如为了发挥药物的最佳疗效减少复读作用有的药物宜使用片剂有的宜使用注射剂。\n[595.06 -> 600.94] 对于机体方面呢我们要考虑患者的年龄性别症状心理和遗传等因素。\n[602.06 -> 608.38] 如在用药的时候儿童是必须与成年人区别和对待的特殊群体。\n[611.64 -> 650.1] 那么在课程即将结束之后我老师为大家布置一个课后小任务请同学们选择一种抗酸药仔细阅读药品包装和说明书的信息用如药品名称成分性状功能组织等部分了解其中有关安全性和有效性的信息并设计实验方案验证这种抗酸药的有效成分以上就是我的模拟授课请各位评委老师批评诊证。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a list of key points written in white chalk.\n   - The layout includes three main headings: \n     1. 化学品的合理利用 (Rational Use of Chemicals)\n     2. 一氧化碳 (Carbon Monoxide)\n     3. 三聚氰胺 (Melamine)\n\n2. **Key Knowledge Items (Content View)**:\n   - 化学品的合理利用 (Rational Use of Chemicals)\n   - 一氧化碳 (Carbon Monoxide)\n   - 三聚氰胺 (Melamine)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each heading on the blackboard in sequence, likely summarizing the key points discussed.\n   - The teacher gestures towards the screen, possibly highlighting the final slide content, which includes a question in Chinese: \"思考：我们应如何合理使用化学品？\" (Think: How should we use chemicals rationally?).\n\n4. **Transition to Next Step**:\n   - The screen displays a slide with a question, suggesting a prompt for further reflection or discussion.\n   - No explicit homework or assignment details are visible, but the question may serve as a transition to the next lesson or a topic for further study.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a blackboard displaying three key headings: 化学品的合理利用 (Rational Use of Chemicals), 一氧化碳 (Carbon Monoxide), and 三聚氰胺 (Melamine). The teacher points to each heading in sequence, summarizing the main topics covered. The screen shows a slide with a reflective question: \"思考：我们应如何合理使用化学品？\" (Think: How should we use chemicals rationally?). The teacher gestures towards this question, emphasizing the importance of rational chemical use as a core takeaway. No explicit homework instructions are visible, but the question serves as a prompt for further consideration, visually marking the transition to the next lesson or discussion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Blackboard containing key points: Rational Use of Chemicals, Carbon Monoxide, Melamine.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Reflective Question Slide",
+        "type": "Visual",
+        "original_text": "Slide with question: How should we use chemicals rationally?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Rational Use of Chemicals",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[488.36 -> 650.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Carbon Monoxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[488.36 -> 650.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Melamine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[488.36 -> 650.1]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Drug Use",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[505.72 -> 563.06]"
+      },
+      {
+        "id": "c5",
+        "label": "Administration Criteria",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[565.9 -> 593.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Patient Factors",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[595.06 -> 600.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Children Treatment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[602.06 -> 608.38]"
+      },
+      {
+        "id": "c8",
+        "label": "Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[611.64 -> 650.1]"
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[488.36 -> 650.1]"
+      },
+      {
+        "id": "s2",
+        "label": "Student Sharing",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[505.72 -> 563.06]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Teacher summarizes rational chemical use on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Teacher initiates group discussion on scientific drug use."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Students share thoughts, building upon rational use concept."
+      },
+      {
+        "source": "s2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Student responses evolve scientific drug use principles."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Administration criteria is part of rational use principles."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Patient factors are integral to rational chemical usage."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Individualized treatment for children evolves from patient factors consideration."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Designing experiments is part of verifying drug components."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Reflective question on slide emphasizes rational use of chemicals."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,138 @@
+{
+  "video_name": "6_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the important significance and basic principles of metal waste recycling; be able to write a simple investigation report and propose recommendations for metal waste recycling.",
+  "transcript": "[564.16359975 -> 570.18] 同时呼应了前一位同学回答的通入的一氧化碳是不是不能直接排入到空气中呀所以一氧化碳通入到末尾之后然后它会在末端处和空气反应生成二氧化碳在排入到空气中好有了这个实验的讲解同学们开始动手实验一下吧。\n[583.46 -> 642.0] 一定要注意装置的气密性看到同学们完成得差不多了从这个实验中观察到什么呢这位同学观察到紫星石灰水晶粉末了还有吗然后它好像生成了黑色的粉末它那个粉末从棕色组件进来的那你能猜测一下这黑色的粉末是什么吗应该是铁请坐非常好实验现象刚才这位同学呢提到了陈轻石灰水变混浊了以及它这里的氧化铁由红棕色变为了黑色也就是生成了铁。\n[643.3 -> 655.66] 看来同学们观察得非常仔细那既然知道了反应物和生成物请同学们尝试写一下它的化学反应方程式是什么呢。\n[673.3 -> 727.54] 好您稍息一下其他同学在下面自主尝试一下我们不仅要知道它的条件还要知道它是如何配的刚才老师看到大家都书写得正确那我们来看一下台上这位同学呢是不是也是正确的好一定要注意他的条件有了这样的一个认识呢。\n[728.84 -> 750.5] 老师这里布置一个小作业调查研究调查你家以及生活的社区金属废弃物的主要品种回收情况和回收价值等对今后如何回收金属废弃物提出一定的建议同学们课后思考一下好这节课上到这里下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the final slide on the screen.\n   - The blackboard contains a list of key points written in white chalk, including:\n     - $x \\rightarrow \\infty$ (infinity notation)\n     - Two bullet points: \n       1. 本实验的原理 (Principle of this experiment)\n       2. 实验的步骤 (Steps of the experiment)\n     - A chemical equation: $\\text{Fe}^{2+} + \\text{H}_2\\text{O}_2 \\rightarrow \\text{Fe}^{3+}$\n   - The screen displays a slide titled \"调查与研究\" (Survey and Research) with text about the importance of understanding the main components of iron ore and the role of $\\text{H}_2\\text{O}_2$ in the experiment.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - $x \\rightarrow \\infty$\n     - 本实验的原理 (Principle of this experiment)\n     - 实验的步骤 (Steps of the experiment)\n     - $\\text{Fe}^{2+} + \\text{H}_2\\text{O}_2 \\rightarrow \\text{Fe}^{3+}$\n   - Screen:\n     - 调查与研究 (Survey and Research)\n     - Text about iron ore components and $\\text{H}_2\\text{O}_2$ role\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, emphasizing the reaction $\\text{Fe}^{2+} + \\text{H}_2\\text{O}_2 \\rightarrow \\text{Fe}^{3+}$.\n   - The teacher gestures towards the bullet points, likely summarizing the principles and steps of the experiment.\n   - The teacher turns to the screen, indicating the importance of the survey and research section.\n\n4. **Transition to Next Step**:\n   - The screen slide mentions \"调查与研究\" (Survey and Research), suggesting further investigation or homework related to understanding iron ore components and the role of $\\text{H}_2\\text{O}_2$.\n   - No specific homework or next lesson details are visible, but the emphasis on research implies continued study or assignments related to the topic.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"调查与研究\" (Survey and Research) displayed on the screen, alongside key points written on the blackboard. The blackboard features a chemical equation, $\\text{Fe}^{2+} + \\text{H}_2\\text{O}_2 \\rightarrow \\text{Fe}^{3+}$, and bullet points outlining the experiment's principle and steps. The teacher points to the chemical equation, emphasizing the reaction process. She then gestures towards the bullet points, summarizing the core concepts of the experiment. The screen highlights the importance of understanding iron ore components and the role of $\\text{H}_2\\text{O}_2$, suggesting further research. No specific homework is detailed, but the emphasis on the research slide implies continued study or assignments related to the topic.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Principle of Experiment",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[583.46 -> 642.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Experiment Steps",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[583.46 -> 642.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Chemical Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[643.3 -> 655.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Fe2+ to Fe3+ Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[643.3 -> 655.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Role of H2O2",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[643.3 -> 655.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Iron Ore Components",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[643.3 -> 655.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Survey and Research",
+        "type": "Visual",
+        "original_text": "Survey and Research slide with text about iron ore components and H2O2 role",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard: Key Points",
+        "type": "Visual",
+        "original_text": "Blackboard with chemical equation and experiment principles",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Students Writing Equation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Students Complete Experiment",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The principle of the experiment helps understand the procedure."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The chemical reaction includes the transformation of Fe2+ to Fe3+."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Understanding the role of H2O2 aids in comprehending the Fe2+ to Fe3+ reaction."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the concept of iron ore components."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes the principle of the experiment."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The blackboard visualizes the core chemical reaction."
+      },
+      {
+        "source": "ss1",
+        "target": "c4",
+        "relation": "engages_with",
+        "intent": "Students are engaged by writing the chemical equation."
+      },
+      {
+        "source": "ss2",
+        "target": "c2",
+        "relation": "engages_with",
+        "intent": "Students complete the experiment by following the procedure."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "The survey and research are scaffolded by the experiment's principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

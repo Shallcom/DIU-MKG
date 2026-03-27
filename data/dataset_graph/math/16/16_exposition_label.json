@@ -1,0 +1,153 @@
+{
+  "video_name": "16_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the definition of conditional probability and its distinction from independent events; master the formula for calculating conditional probabilities; be able to use conditional probability to solve simple real‑world problems.",
+  "transcript": "[179.4 -> 201.48] 下面开始我的模拟授课环节上课同学们好同学们今天呢我们所要学习的内容是条件概率。\n[209.4 -> 344.7] 同学们你们还记得在我们必修学习概率的时候在同一实验当中事件A和事件B同时发生的概率是怎样的吗同时发生的概率其实就是基事件AB的概率同学们还记得吗应该是事件AB的概率应该是等于事件A的概率乘以事件B的概率但是呢在这里我们知道事件AB的概率在这里求出来呢它要满足于什么事件A的概率乘以事件B的概率但是呢在这里我们知道事件A的概率在这里求出来呢它要满足于什么事件A的概率乘以事件B的概率但是呢在这里我们知道事件A的概率在这里求出来呢它要满足于什么事件A的概率乘以事件B的概率但是呢在这里我们知道事件A的概率在这里求出来呢它要满足于什么事件A的概率乘以事件B的概率但是呢在这里我们知道事件A的概率在这里求出来呢它要满足于什么事件A的概率乘以事件B的概率但是呢在这里我们知道事件A的概率在这里求出来呢它要满足于什么事件A的概率和事件B是相互独立的情况对不对那如果说今天我们如果要求事件A和事件B不是相互独立的那么我们又应该怎么去计算事件AB就是它的概率呢好那今天就让我们来解决这样的问题大家看某个班有四十五名学生其中男生女生的人数以及团员人数如图所示在班级中随机选择一个人做代表选到男生的概率是多少如果选到团员那么选到男生的概率又是为多少呢在这里选到男生的概率我已经看到同学们的自信的表情呢是的在这里是不是可以直接就能够利用我们之前学习古典概型的知识就能够计算出来好那我们慢慢来大家看我们用假设用字母A表示事件是选到的是团圆事件BB表示事件选到的是男生那在这里那么选到男生的概率其实就是B事件的概率对不对同学们那么应该是多少呢告诉老师。\n[346.12 -> 442.32] 非常好我已经听到有同学说了在这里我们可以在总体的样本点中我们可以发现他这里的人数应该是多少四十五对不对那么选到男生他这个事件包含的样本点应该是多少人是二十五人于是我们便得到了事件B发生的概率对吗好让我们再来看到如果说选到的是团员然后选到的又要是男生的概率那在这里我们又应该怎么求呢再来看根据我们第一题当中用字母来表示我们可以知道选到的是团员又要选到的是男生那么其实就应该是在事件A发生的天条件下事件B发生的概率那在这里呢我们把这样的概率这样子来写我们把这个概率把它表示为在事件A发生的条件下求事件B发生的概率那我们又要怎么去做呢那我们要怎么去做那我们要去做那去进行计算呢大家看在这里我们知道选到的首先要是什么。\n[443.7 -> 453.82] 团圆那么团圆是不是一个新的样本空间在这里团圆的人数是三十非常好。\n[455.96 -> 464.8] 那在事件A发生的条件下事件B又要发生那么在这里的样本点应该是什么。\n[466.12 -> 532.72] 是不是就应该是A与B同时了对不对那么应该是多少呢十六太棒了那么这里其实就是十六同学们后面的约分大家都会的吧好在这里我们便得到了在事件A发生的条件下事件B发生的概率好那这个呢是在具体例子当中得到的对不对大家看我们从一般情况来分析又应该是怎么样的呢你看已经事件A发生那么事件A已经发生了那么刚才我们也说到那么A是不是已经变成了一个新的样本空间大家看此时事件B发生的概率是AB包含的样本点数这上面是不是刚才又是团又是男生的样本点数然后与A包含的样本点数下面即就是包含刚才的那个点数的一个B值有点感觉有点绕对不对你看那这样子是不是就变得清晰了呢那其实这个呢就是我们在A事件发生的条件下B事件发生的条件下的条那么其实这个呢就是我们今天所要学习的条件概率了什么是条件概率呢大家看一下。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands next to a digital screen displaying the title \"7.1.1 条件概率\" (Conditional Probability).\n- The blackboard shows \"7.1.1 条件概率\" written in white chalk.\n- The teacher gestures towards the screen, indicating the start of the lesson on conditional probability.\n\n**Middle:**\n- The screen transitions to a problem statement: \"1. 同一试验中两个事件A与B同时发生的概率是多少？\"\n- The teacher writes the formula $P(A \\cap B) = P(A)P(B|A)$ on the blackboard.\n- The teacher points to the formula, explaining the relationship between joint probability and conditional probability.\n- The screen updates to show a table with gender and class data, asking for the probability of selecting a male student.\n- The teacher writes $P(B|A) = \\frac{P(A \\cap B)}{P(A)}$ on the board, explaining the conditional probability formula.\n- The teacher uses hand gestures to emphasize the numerator and denominator in the formula.\n\n**End:**\n- The screen displays a Venn diagram illustrating the relationship between events A and B.\n- The teacher explains the diagram, pointing to the intersection area representing $A \\cap B$.\n- The teacher circles the intersection on the blackboard, highlighting its significance in conditional probability.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the conditional probability formula $P(B|A) = \\frac{P(A \\cap B)}{P(A)}$ written on the blackboard.\n- The digital screen provides contextual problems and a Venn diagram to illustrate concepts.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes the conditional probability formula and the joint probability formula on the blackboard while explaining.\n- **Modifications**: The teacher updates the screen content to show different problems and the Venn diagram.\n- **Deictic Gestures**: The teacher points to specific parts of the formula and the Venn diagram, such as the intersection $A \\cap B$, while explaining their significance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the formula components, particularly the intersection in the Venn diagram.\n- The teacher circles the intersection area on the blackboard to highlight its role in calculating conditional probability.\n- The screen uses color coding in the Venn diagram to differentiate between events A and B.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed the title \"7.1.1 条件概率\" alongside a digital screen introducing the concept of conditional probability. The teacher began by constructing the foundational formula $P(A \\cap B) = P(A)P(B|A)$ on the blackboard, linking it to the problem statement on the screen: \"同一试验中两个事件A与B同时发生的概率是多少？\" The teacher derived the conditional probability formula $P(B|A) = \\frac{P(A \\cap B)}{P(A)}$, annotating each component as they spoke. \n\nAs the lecture progressed, the screen transitioned to a table with gender and class data. The teacher pointed to specific entries, explaining how to calculate the probability of selecting a male student. They emphasized the numerator and denominator in the formula by tracing them on the board. \n\nFinally, the teacher introduced a Venn diagram on the screen, illustrating the relationship between events A and B. They traced the intersection area $A \\cap B$, highlighting its significance in conditional probability calculations. The teacher circled this intersection on the blackboard, reinforcing its importance. Throughout, the visual elements on the screen and board worked in tandem, reducing cognitive load by providing clear, step-by-step visual aids that aligned with the verbal explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Conditional Probability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[179.4 -> 201.48]"
+      },
+      {
+        "id": "c2",
+        "label": "Joint Probability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[209.4 -> 344.7]"
+      },
+      {
+        "id": "c3",
+        "label": "Independent Events",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[209.4 -> 344.7]"
+      },
+      {
+        "id": "c4",
+        "label": "Conditional Probability Formula",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[346.12 -> 442.32]"
+      },
+      {
+        "id": "c5",
+        "label": "Intersection of Events",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[455.96 -> 532.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Sample Space",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[443.7 -> 532.72]"
+      },
+      {
+        "id": "c7",
+        "label": "Event A",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[346.12 -> 442.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Event B",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[346.12 -> 442.32]"
+      },
+      {
+        "id": "c9",
+        "label": "Venn Diagram",
+        "type": "Visual",
+        "original_text": "Venn diagram illustrating events A and B",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Gender and Class Data Table",
+        "type": "Visual",
+        "original_text": "Table with gender and class data",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Problem Statement",
+        "type": "Visual",
+        "original_text": "Problem asking for probability of events",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Students Discussing Probability",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Conditional probability is derived using its formula."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Conditional probability formula incorporates joint probability."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Independent events are a specific condition within joint probability."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Intersection of events is crucial in defining the conditional probability formula."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Sample space is used to calculate probabilities in the conditional probability formula."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "Venn diagram visually represents the intersection of events A and B."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The table provides concrete examples for understanding conditional probability."
+      },
+      {
+        "source": "c11",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Visual problem statement aids in comprehension of joint probability."
+      },
+      {
+        "source": "c12",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Students engage with the conditional probability concept through direct application."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

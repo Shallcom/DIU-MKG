@@ -1,0 +1,174 @@
+{
+  "video_name": "4_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Describe the gas‑exchange mechanism between alveoli and capillaries; analyze the factors that affect the efficiency of pulmonary gas exchange.",
+  "transcript": "[0.0 -> 77.82] 上课同学们好在前面的学习当中呢我们已经知道了肺与外界是如何进行气体交换的回顾刚才的情境导入呢我们发现游泳运动员在运动的过程中在呼出的气体中呢氧气的含量减少了而二氧化碳的含量增多了这个变化是如何产生的呢我们继续接下来的学习。\n[88.36 -> 139.64] 我们观察表我们根据前面的情境呢同学们思考含量增加的氧气含量增加的氨氧化碳是从哪里来的呢那减少的氧气又到哪里去了呢好同学们思考这个问题好老师请这位同学你来说。\n[143.36 -> 230.9] 我认为我们呼进去的氧气它通过肺泡之后进入到了血液里面然后运输到了我们身体的各个部分然后身体各个部分的二氧化碳呢是从血液运到我们的肺泡然后被交换到外界所以我的二氧化碳变多了氧气变少好请坐这位同学呢他描述得非常的准确他说到氧气呢是通过我们的肺泡与血液呢进行交换之后吸收到了我们的身体各个部分以供细胞呼吸而二氧化碳呢也是正是因为细胞呼吸它产生的因此呀由血液运输到肺泡之后呢排出体外因此它含量增多那我们来看具体是不是这样的呢这是外地的空气经过呼吸道的处理呢它进入肺之后在肺里与血液进行了气体交换好同学们看老师这里补充了图片资料我们可以观察到呢肺里面是由大量的肺泡组成的而肺泡周围呢包围着什么呢包围着丰富的毛细血管网那这些毛细血管网起到什么作用呢。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The initial slide displayed the text \"发生在肺部的气体交换\" (Gas Exchange in the Lungs). This text is prominently centered on the screen, setting the topic for the lesson.\n\n#### 2. **The Title Event**\n- The teacher wrote \"肺泡与血液的气体交换\" (Gas Exchange Between Alveoli and Blood) on the blackboard. The text is written in white chalk, clearly visible against the green background.\n\n#### 3. **The Objectives**\n- The slide lists learning objectives:\n  - 说出肺泡与血液进行气体交换的过程 (Describe the process of gas exchange between alveoli and blood)\n  - 理解肺泡适于气体交换的特点 (Understand the characteristics of alveoli suitable for gas exchange)\n  - 说明肺泡与血液的气体交换原理 (Explain the principle of gas exchange between alveoli and blood)\n\n#### 4. **Key Gestures**\n- The teacher points to the table on the slide, highlighting specific values and comparisons.\n- The teacher gestures towards the blackboard while writing the title, ensuring clarity.\n- The teacher uses hand movements to emphasize the diagram of the lungs and alveoli on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands at the podium as the initial slide \"发生在肺部的气体交换\" is displayed.\n- The teacher points to the slide, emphasizing the lesson's focus on gas exchange in the lungs.\n\n**Middle:**\n- The teacher writes \"肺泡与血液的气体交换\" on the blackboard, underlining it for emphasis.\n- The teacher points to the learning objectives on the slide, ensuring students understand the goals.\n- The teacher refers to a table on the slide, using hand gestures to highlight specific data points and comparisons.\n\n**End:**\n- The teacher presents a diagram of the lungs and alveoli, explaining the gas exchange process.\n- The teacher uses hand gestures to trace the flow of gases in the diagram, linking it to the previously discussed data.\n\nThis structured visual analysis captures the evolution of the lesson's visual elements, linking the teacher's actions to specific content on the board and screen.",
+  "visual_narrative": "The lesson begins with the teacher standing at the podium, presenting the initial slide titled \"发生在肺部的气体交换\" (Gas Exchange in the Lungs), which serves as the hook to capture the students' attention. The teacher points to this text, setting the stage for the topic. The scene transitions as the teacher moves to the blackboard, writing \"肺泡与血液的气体交换\" (Gas Exchange Between Alveoli and Blood) in white chalk, underlining it to emphasize the main focus. The slide then shifts to display learning objectives, and the teacher points to each bullet point, ensuring students grasp the goals of understanding the gas exchange process, characteristics of alveoli, and the underlying principles. The teacher refers to a detailed table on the slide, using hand gestures to highlight specific data, bridging the hook to the main topic. Finally, the teacher presents a diagram of the lungs and alveoli, using gestures to trace the flow of gases, visually linking the theoretical data to the biological process. This structured introduction connects new knowledge to students' existing understanding of respiratory systems, preparing them for a deeper exploration of gas exchange mechanisms.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Gas Exchange",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 77.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Alveoli Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 77.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Oxygen Transport",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 77.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Carbon Dioxide Transport",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[88.36 -> 139.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Cellular Respiration",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[88.36 -> 139.64]"
+      },
+      {
+        "id": "c6",
+        "label": "Alveoli Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[143.36 -> 230.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Blood Circulation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[143.36 -> 230.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Initial Slide",
+        "type": "Visual",
+        "original_text": "Gas Exchange in the Lungs",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title on Blackboard",
+        "type": "Visual",
+        "original_text": "Gas Exchange Between Alveoli and Blood",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Learning Objectives Slide",
+        "type": "Visual",
+        "original_text": "Describe gas exchange process, alveoli characteristics, and principles",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Table Slide",
+        "type": "Visual",
+        "original_text": "Data points and comparisons",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v5",
+        "label": "Lungs and Alveoli Diagram",
+        "type": "Visual",
+        "original_text": "Visual representation of gas flow",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Students",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 77.82]"
+      },
+      {
+        "id": "s2",
+        "label": "Answering Students",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[143.36 -> 230.9]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The initial slide introduces the concept of gas exchange."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The blackboard title highlights the focus on gas exchange."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Gas exchange involves the structure of alveoli."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Transport of oxygen is part of the gas exchange process."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Transport of carbon dioxide is connected to cellular respiration."
+      },
+      {
+        "source": "c6",
+        "target": "v5",
+        "relation": "visualizes",
+        "intent": "Diagram demonstrates the function of alveoli in gas exchange."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "scaffolds",
+        "intent": "The initial slide sets up the learning objectives."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Blood circulation is essential for alveoli function."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Students are engaged with initial visualization."
+      },
+      {
+        "source": "s2",
+        "target": "c5",
+        "relation": "addresses_misconception",
+        "intent": "Students answer questions related to cellular respiration."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

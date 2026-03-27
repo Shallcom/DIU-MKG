@@ -1,0 +1,133 @@
+{
+  "video_name": "25_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Analyze the influencing factors of Hangzhou’s development and their impact on urbanization; employ the five‑factor model to examine the phenomena and underlying mechanisms of urban development.",
+  "transcript": "[678.204133 -> 736.66] 那我们也是可以发现它从工业一直到它是从改革开放的时候人们的聚集形成了一个工业园区对吧工业园区的一个发展同时也是带动着人口的发展同时推动着城境发展好请坐很好非常全面我们也是从一个工业的角度工业发展的角度来分析好那我们来总结一下影响杭州市发展的主要因素我们概括了可能有第三产业人口增长以及工业化进程那么这一些因素的体现呢它实际上也是推动着我们经济发展所以主要内涵还是在我们的一个经济方面那所以我们不难发现经济发展方面是我们城镇化的主要推动力我们刚刚在课前就向同学们介绍到了用这个五的表的国性去分析这样的现象那么课后呢请同学们继续运用这样的先了解它的概念再从它原因出发然后呢不断地去寻找现象背后的机理时间到了好的课后请同学们完成相关的作业好感谢。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen, which includes a diagram and text. The slide is structured with a central diagram and surrounding text boxes labeled \"WHAT,\" \"WHY,\" and \"HOW.\"\n   - The diagram features a central box with \"时间，空间的变化\" (Changes in time and space) and branches out to \"经济发达\" (Economic development) and \"工业化程度\" (Degree of industrialization).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and headings visible:\n     - \"WHAT\": \"为什么会出现这种现象？\" (Why does this phenomenon occur?)\n     - \"WHY\": \"为什么会出现这种现象？\" (Why does this phenomenon occur?)\n     - \"HOW\": \"如何解决城市化带来的问题？\" (How to solve the problems brought by urbanization?)\n     - \"人口增长\" (Population growth)\n     - \"工业化程度\" (Degree of industrialization)\n     - \"经济发达\" (Economic development)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the central diagram, emphasizing \"时间，空间的变化\" (Changes in time and space).\n   - The teacher gestures towards the \"WHAT\" section, highlighting the question \"为什么会出现这种现象？\" (Why does this phenomenon occur?).\n   - The teacher moves to the \"HOW\" section, pointing to the text \"如何解决城市化带来的问题？\" (How to solve the problems brought by urbanization?).\n   - The teacher uses hand movements to connect the different sections, illustrating the relationships between economic development, industrialization, and population growth.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a central diagram and surrounding text boxes labeled \"WHAT,\" \"WHY,\" and \"HOW.\" The diagram highlights \"时间，空间的变化\" (Changes in time and space) as the core concept, branching out to \"经济发达\" (Economic development) and \"工业化程度\" (Degree of industrialization). The teacher points to the central diagram, emphasizing the interconnectedness of these elements. Moving through the artifact, the teacher gestures towards the \"WHAT\" section, focusing on the question \"为什么会出现这种现象？\" (Why does this phenomenon occur?), and then shifts to the \"HOW\" section, highlighting \"如何解决城市化带来的问题？\" (How to solve the problems brought by urbanization?). The teacher uses deliberate hand movements to connect these sections, reinforcing the relationships between economic development, industrialization, and population growth. No visual elements indicate homework or next steps in the provided frames.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Time and Space Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[678.204133 -> 736.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Economic Development",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.204133 -> 736.66]"
+      },
+      {
+        "id": "c3",
+        "label": "Industrialization Degree",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.204133 -> 736.66]"
+      },
+      {
+        "id": "c4",
+        "label": "Population Growth",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[678.204133 -> 736.66]"
+      },
+      {
+        "id": "c5",
+        "label": "Urbanization Problems",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[678.204133 -> 736.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Central Slide Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing changes in time, space connecting to economic development and industrialization.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "WHAT Section Text",
+        "type": "Visual",
+        "original_text": "Why does this phenomenon occur?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "WHY Section Text",
+        "type": "Visual",
+        "original_text": "Why does this phenomenon occur?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "HOW Section Text",
+        "type": "Visual",
+        "original_text": "How to solve the problems brought by urbanization?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Summary",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Economic development is influenced by changes in time and space."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Degree of industrialization is a result of changes in time and space."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Economic development includes aspects like population growth."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Solving urbanization problems stems from understanding economic impacts."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Displays core concept of time and space changes linked to development."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the inquiry into why population growth is occurring."
+      },
+      {
+        "source": "v4",
+        "target": "c5",
+        "relation": "summarizes",
+        "intent": "Summarizes how to address urbanization problems."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in thinking about the core concept summarized."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

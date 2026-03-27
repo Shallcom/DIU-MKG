@@ -1,0 +1,146 @@
+{
+  "video_name": "14_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the significance of cell theory in revealing biological unity; master the ways unicellular and multicellular organisms carry out life activities; recognize the hierarchical structure of life systems.",
+  "transcript": "[150.0 -> 183.96] 前面我们通过学习了细胞学说的建立以及依据证据我们能够找到关于细胞学说的建立我们细胞学说揭示了动物和植物的统一性从而阐述了生物界的统一性\n[185.8 -> 205.54] 同时施旺曾说过细胞生物只能够逐利完成生命活动多细胞生物依赖各种分化的细胞进行密切合作但是我们思考对于单细胞生物而言如草履虫它是属于单个细胞它能够完成生命活动吗\n[207.0 -> 236.0] 可以所以我们说对于单细胞草绿虫来说它是生命活动的基本单位而它是属于一个生命系统所以对于我们前面刚刚说的竹子和熊猫它们也是属于个体它们是不是属于生命系统呢也是属于所以对于竹子是属于植物大熊猫是属于动物\n[237.0 -> 276.66] 它们是多细胞构成的但是我们知道生命系统还是由各个层对于植物和动物而言它们是属于个体而它们个体是属于生命系统而细胞也是属于生命系统所以生命和生命系统之间是有各种的层次的请同学们翻到第六页我们看到生命系统的各个层次对于植物而言我们以叶片为例竹子它的生命系统有哪些呢",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen. The screen displays a slide with Chinese text: \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities).\n- The teacher writes on the chalkboard: \"细胞是所有动物和植物\" (Cells are all animals and plants).\n\n**Middle:**\n- The teacher continues writing on the chalkboard, adding \"细胞\" (cells) and \"构成\" (constitute).\n- The teacher gestures towards the digital screen, emphasizing the text displayed.\n- The teacher uses hand gestures to explain the content, occasionally pointing to the chalkboard to highlight key terms.\n\n**End:**\n- The teacher writes additional terms on the chalkboard: \"构成\" (constitute) and \"细胞\" (cells).\n- The teacher stands back, holding papers, and addresses the class, likely summarizing the points written on the board.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the chalkboard with the written text: \"细胞是所有动物和植物\" (Cells are all animals and plants), \"构成\" (constitute), and \"细胞\" (cells).\n   - The digital screen consistently displays: \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities).\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds \"构成\" (constitute) and \"细胞\" (cells) to the initial phrase on the chalkboard.\n   - **Modifications**: No erasures or modifications are observed; the teacher builds upon the existing text.\n   - **Deictic Gestures**: The teacher points to the digital screen to emphasize the statement about cells being the basic units of life activities. Gestures also highlight the newly added terms on the chalkboard.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to underline the importance of the terms on the chalkboard.\n   - The consistent display of the digital slide reinforces the core concept being taught.\n\nThis structured visual evolution illustrates the teacher's method of linking written content with verbal explanations, using both the chalkboard and digital screen to reinforce key biological concepts.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed the foundational statement: \"细胞是生命活动的基本单位\" (Cells are the basic units of life activities) on the digital screen, establishing the core concept. The teacher began by writing \"细胞是所有动物和植物\" (Cells are all animals and plants) on the chalkboard, constructing the initial framework of the lesson. As the lecture progressed, the teacher derived additional insights by adding \"构成\" (constitute) and \"细胞\" (cells) to the board, methodically building the explanation. The teacher frequently gestured towards the digital screen, tracing the statement to reinforce its significance, and pointed to the newly written terms on the chalkboard to clarify their roles in the biological context. To emphasize key points, the teacher used deliberate hand movements, aligning verbal explanations with visual cues. Finally, the teacher summarized the content, ensuring the visual elements on both the board and screen worked in tandem to reduce cognitive load, allowing students to connect the written concepts with the overarching theme of cellular biology seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cell Theory",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 183.96]"
+      },
+      {
+        "id": "c2",
+        "label": "Biological Unity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[150.0 -> 183.96]"
+      },
+      {
+        "id": "c3",
+        "label": "Animal and Plant Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[150.0 -> 183.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Unicellular Organisms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[185.8 -> 205.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Multicellular Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[185.8 -> 205.54]"
+      },
+      {
+        "id": "c6",
+        "label": "Paramecium",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[185.8 -> 205.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Life Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[207.0 -> 236.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Life System Hierarchy",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[237.0 -> 276.66]"
+      },
+      {
+        "id": "v1",
+        "label": "Cells as Life's Units Slide",
+        "type": "Visual",
+        "original_text": "Cells are the basic units of life activities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard: Animal and Plant Cells",
+        "type": "Visual",
+        "original_text": "Cells are all animals and plants",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Class Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Cell theory reveals the principle of biological unity."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Cell theory includes the concept of animal and plant cells."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Unicellular organisms such as paramecium are capable of life activities."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Multicellular organisms rely on cellular cooperation for life activities."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Paramecium is an example of a unicellular organism."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Life activities are a part of the hierarchical structure of life systems."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The slide reinforces the notion of cells as foundational to life activities."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The chalkboard text visualizes the concept of animal and plant cells."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The explanation of cell theory engages students in thinking about biological concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

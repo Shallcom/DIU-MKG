@@ -1,0 +1,139 @@
+{
+  "video_name": "16_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the concept and formula of conditional probability; master applying the conditional probability formula to compute probabilities for two random events.",
+  "transcript": "[652.72 -> 743.06] 即就是说在AB为两个随机事件的时候当然PB即就是A事件发生的概率是要大于哪个呢我们称在A事件发生的条件下B事件发生的概率这就是条件概率这样子的一个概率呢我们就叫做条件概率同学们知道条件概率是什么了吗好让我们来看一下下面这个问题大家看A事件发生的概率是零点五AB同时发生的概率是零点三求在事件A发生的条件下事件B发生的概率我看到很多同学应该都能够很快地得到答案那么在这个问题当中是不是我们直接运用我们刚才得到的一个条件概率的公式就可以得到了我们所要求的概率呢好也就是我们将公式给带进去可以发现在事件A发生的条件下事件B发生的概率就可以得到了我们所要求的概率呢好也就是我们将公式给带进去可以发现在事件A发生的条件下事件B发生的概率就可以得到了我们所要求的概率呢好也就是我们将公式给带进去可以发现在事件A发生的条件下事件A发生的条件下发生的概率应该是多少是五分之三好非常好那其实这个呢就是我们今天所要学习的条件概率了同学们条件概率是怎么样的呢好这就是在两个随机事件A和B当中我们知道A事件发生的概率一定是要大于零的那么满足这个这个条件概率公式我们计算出来的概率就叫做条件概率那在刚才呢我们也说到我们要刚才说要求什么在A事件和B事件不是相互独立的时候基事件AB发生的概率是多少这里我们求出来了条件概率之后那接下来的基事件A面AB的概率就简单得多了好同学们那这样的就由我们下节课的知识一起来学习求不是相互独立的AB事件的概率就让我们下节课来进行吧那以上呢便是我模拟授课的全部环节。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which prominently displays the formula for conditional probability:\n     \\[\n     P(B|A) = \\frac{P(AB)}{P(A)}\n     \\]\n   - The blackboard also shows a specific example calculation:\n     \\[\n     P(AB) = \\frac{15}{35} \\quad \\text{and} \\quad P(B|A) = \\frac{16}{35}\n     \\]\n   - The slide on the screen presents a practice problem in Chinese, which remains static throughout the segment.\n\n2. **Key Knowledge Items (Content View)**:\n   - Main formula: \\( P(B|A) = \\frac{P(AB)}{P(A)} \\)\n   - Example values: \\( P(AB) = \\frac{15}{35} \\), \\( P(B|A) = \\frac{16}{35} \\)\n   - Slide content: \n     - Title: 小练习 (Practice)\n     - Problem: \\( P(A) = 0.5, P(AB) = 0.3 \\) 在事件A发生的条件下，事件B发生的概率是多少？ (Given event A occurs, what is the probability of event B occurring?)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula \\( P(B|A) = \\frac{P(AB)}{P(A)} \\) on the blackboard, emphasizing the structure of the conditional probability equation.\n   - She gestures towards the example calculation, highlighting the values \\( \\frac{15}{35} \\) and \\( \\frac{16}{35} \\) to reinforce the application of the formula.\n   - The teacher uses hand movements to connect the blackboard content with the practice problem on the screen, likely drawing parallels between the example and the exercise.\n\n4. **Transition to Next Step**:\n   - The practice problem on the screen suggests a transition to student exercises or homework, though no explicit instructions are visible.\n   - The button labeled \"7.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1.1",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on conditional probability. The teacher visually reviews the content by pointing to the formula \\( P(B|A) = \\frac{P(AB)}{P(A)} \\), emphasizing its structure. She gestures towards the example calculations \\( \\frac{15}{35} \\) and \\( \\frac{16}{35} \\), reinforcing their application. The slide on the screen remains static, displaying a practice problem, suggesting a transition to exercises. The teacher's gestures connect the blackboard content with the problem, highlighting the practical use of the formula. No explicit homework instructions are visible, but the practice problem implies further engagement with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Conditional Probability",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c2",
+        "label": "P(B|A) = P(AB) / P(A)",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c3",
+        "label": "P(AB)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c4",
+        "label": "P(A)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c5",
+        "label": "P(B|A)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c6",
+        "label": "15/35",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c7",
+        "label": "16/35",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[652.72 -> 743.06]"
+      },
+      {
+        "id": "c8",
+        "label": "Practice Problem",
+        "type": "Visual",
+        "original_text": "Given P(A) = 0.5, P(AB) = 0.3, calculate P(B|A)",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Slide Title",
+        "type": "Visual",
+        "original_text": "Practice",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The conditional probability concept is represented by the formula."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The formula includes the joint probability of A and B."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The formula includes the probability of event A."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The formula describes the probability of B given A."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Example calculation uses specific values for joint probability."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Example calculation of conditional probability uses specific values."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide visually presents a practice problem related to the title."
+      },
+      {
+        "source": "c8",
+        "target": "c1",
+        "relation": "summarizes",
+        "intent": "The practice problem reinforces the concept of conditional probability."
+      },
+      {
+        "source": "c10",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "The practice problem engages students with the conditional probability concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

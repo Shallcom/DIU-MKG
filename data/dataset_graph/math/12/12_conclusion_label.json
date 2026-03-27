@@ -1,0 +1,120 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the basic concepts and properties of trigonometric functions; be able to analyze the graphs and characteristics of sine, cosine, and tangent functions.",
+  "transcript": "[690.683267 -> 722.88] 此时同学们会发现这里要注意X是不等于的因此阿拉法不等于二分之四帕将K帕K属于整数好那以上呢我们通过了天文学的引路引到了三角函数的概念的学习那么现在老师已经将三角函数的三个概念列出来了我们的在了黑板上同学们看着这三个概念有什么思考呢好这位同学你觉得这三个函数我们应该他们有哪些性质吗。\n[725.12 -> 746.9] 好请坐好那接下来呢我们要探究的是这三个函数具有怎样的性质那请同学们接着翻开课本进行自主预习接下来的课堂时间交给大家感谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the green chalkboard on the left and the digital screen on the right.\n   - The chalkboard contains handwritten mathematical content, including a function definition and trigonometric identities.\n   - The digital screen displays a slide with bullet points and mathematical expressions.\n\n2. **Key Knowledge Items (Content View)**:\n   - **Chalkboard**:\n     - Function definition: $f: X \\rightarrow Y$\n     - Trigonometric identities:\n       - $\\cos^2 \\alpha + \\sin^2 \\alpha = 1$\n       - $\\tan \\alpha = \\frac{\\sin \\alpha}{\\cos \\alpha}$\n       - $\\cot \\alpha = \\frac{\\cos \\alpha}{\\sin \\alpha}$\n   - **Digital Screen**:\n     - Title: 人教版高中数学必修一 (People's Education Press High School Mathematics Volume 1)\n     - Bullet points with mathematical expressions and definitions.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the chalkboard, pointing at the function definition and trigonometric identities.\n   - The teacher uses hand movements to emphasize the relationships between the trigonometric identities.\n   - The teacher occasionally turns to the digital screen, pointing at specific bullet points and expressions to highlight key concepts.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content without transitioning to future tasks.",
+  "visual_narrative": "The lesson concludes with a dual visual summary on the chalkboard and digital screen. The chalkboard displays key mathematical concepts, including a function definition and trigonometric identities. The teacher visually reviews the content by pointing to each identity in sequence, emphasizing their relationships. On the digital screen, bullet points and expressions are highlighted as the teacher gestures towards them, reinforcing the core mathematical principles. The session ends with a focus on these key concepts, with no explicit visual transition to homework or next steps.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Function Definition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.68 -> 722.88]"
+      },
+      {
+        "id": "c2",
+        "label": "Cosine Identity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.68 -> 722.88]"
+      },
+      {
+        "id": "c3",
+        "label": "Sine Identity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.68 -> 722.88]"
+      },
+      {
+        "id": "c4",
+        "label": "Tangent Identity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.68 -> 722.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Cotangent Identity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.68 -> 722.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Properties of Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[725.12 -> 746.9]"
+      },
+      {
+        "id": "v1",
+        "label": "Green Chalkboard Content",
+        "type": "Visual",
+        "original_text": "Handwritten function definition and trigonometric identities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen Slide",
+        "type": "Visual",
+        "original_text": "Slide with bullet points and mathematical expressions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The chalkboard provides a summary of the function definition."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The chalkboard displays the cosine identity."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The chalkboard displays the sine identity."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The chalkboard displays the tangent identity."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The chalkboard displays the cotangent identity."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The digital screen highlights the properties of trigonometric functions."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "The teacher encourages students to consider properties of trigonometric functions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,146 @@
+{
+  "video_name": "7_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Master the basic methods of contextual introduction in chemistry teaching; understand the role of contextual introduction in stimulating student interest.",
+  "transcript": "[0.0 -> 114.86] 非常重要在此我非常喜欢情境导入因为对于情境导入来说它比较联系我们的生活实际有助于学生引发思考引发学生思考激发学生学习兴趣课堂氛围比较活跃在此如何去创设真实的问题情境导入呢第一点我认为可以利用化学史情境导入比如说在水这一方面我们可以从水的发泄水的分子离子等等发泄沿着时间线去给同学们进行讲述第二点我可以我认为可以利用生活中的物质进行导入比如说生活中的粉笔还有我们的这个材料等等引发学生思考激发学生学习兴趣还有其他方式进行导入但是这一方面我下去可能还要进行研究在此我认为进行真实问题的导入之后现在我们国家比较提倡的是课程司政环节所以呢我认为在勤进导入环节之后如果能够加上课程司政让学生培养学生的爱国情怀民族自信心或者培养学生的社会责任感等等这些都非常的重要以上就是我的演讲环节谢谢下面进入我的模拟授课环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen titled \"无机非金属材料\" (Inorganic Non-metallic Materials). This is the initial visual object that initiates the lesson.\n\n#### 2. **The Title Event**\n- The title \"无机非金属材料\" is prominently displayed on the screen. The teacher does not physically write this title but points towards it, ensuring students focus on the screen content.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus remains on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher stands near the green chalkboard, occasionally gesturing towards the screen. There are no specific hand movements like pointing or circling observed in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is positioned near the green chalkboard, with the screen displaying the title \"无机非金属材料.\"\n- The teacher gestures towards the screen, directing students' attention to the title.\n\n**Middle:**\n- The teacher continues to stand by the chalkboard, maintaining eye contact with the students and occasionally looking at the screen.\n- No additional content is added to the board or screen during this phase.\n\n**End:**\n- The teacher remains in the same position, ensuring students are engaged with the introductory title.\n- No further gestures or changes in visual content are observed.\n\n### Summary\nThe introduction phase focuses on the title \"无机非金属材料\" displayed on the screen. The teacher uses gestures to direct attention to this title, setting the stage for the lesson without additional visual content or objectives presented at this stage.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing near the green chalkboard, with the screen prominently displaying the title \"无机非金属材料\" as the opening visual stimulus. The teacher gestures towards the screen, ensuring students focus on this initial hook. Throughout this segment, the teacher maintains a position by the chalkboard, occasionally directing attention to the title without additional gestures or changes in content. The visual narrative remains centered on the title slide, establishing the main topic for the lesson. This approach sets a clear foundation, linking the introduction to the students' existing knowledge of materials science and preparing them for a deeper exploration of inorganic non-metallic materials. The consistent focus on the title slide helps anchor the lesson's theme, creating a visual bridge to the forthcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Inorganic Non-metallic Materials",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c2",
+        "label": "Contextual Introduction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c3",
+        "label": "Stimulating Interest",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemistry History",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c5",
+        "label": "Real-world Problems",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c6",
+        "label": "Water Molecules",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Student Engagement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Patriotism Education",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Chalk as Real-world Material",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 114.86]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Screen Display",
+        "type": "Visual",
+        "original_text": "Slide with title 'Inorganic Non-metallic Materials'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Attention",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Contextual introduction often involves real-world problems."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "History serves as a context example in introductions."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Water molecules are discussed in real-world problems."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Chalk as a material is tied into the discussion on molecules."
+      },
+      {
+        "source": "c2",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "After contextual introduction, patriotism education can follow."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The main topic of 'Inorganic Non-metallic Materials' is visualized on the slide."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Understanding inorganic non-metallic materials engages students."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Stimulating interest is crucial to maintaining student engagement."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Chemistry history includes discussions about molecules like water."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

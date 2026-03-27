@@ -1,0 +1,152 @@
+{
+  "video_name": "47_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of logarithmic functions and their relationship with exponential functions; master a general method for abstracting logarithmic functions from concrete examples; develop the ability to investigate new functions through analogical reasoning.",
+  "transcript": "[200.38 -> 310.22] 同学们准备好了吗我们要进入上课了好上课了同学们好请坐今天这节课啊我们要来讲讲对数函数的概念首先有个问题同学们还记得什么是对数吗你来说什么是对数你还记得吗对数就是指数的反函数那它具体的形式是怎么样的是那个一类你的对数知道对数是由指数来绑出的对不对那么它解决的问题是它的作用是什么它解决二S具体的话就是二S的意义假如我们以这样的密的形式它解决的问题是什么请问我们知道它是密的形式就是求N也就是这样的问题很好请坐我们知道对数它其实本质上是一种运算我们之前在上节课之前的知识学习过怎么导出对数的是因为我们要求这个指数而导入的一种新定义的运算那么接下来我们知道对数与指数肯定是有非常密切的联系的同学们会想到你能尝试利用指数研究指数以及指数函数的思路来如何对对数进行下一步研究呢。\n[313.44 -> 499.46] 我看到这位同学思考得很认真你一定有想法你来说说你有什么想法我们研究指数指数函数是怎么研究的我们是不是通过具体的粒子通过一个一个具体的点去抽象出指数函数的概念对很好请坐那么你能来继续说一说你接下来应该要怎么样去设计这个研究思路吗就是和指数把一定的点拿出来一样用带到对数里面把点描出来啊把点描出来也就是通过我们具体的点一个一个具体的而抽象出我们一般的函数好非常好请坐那么我们接下来就要来对对数函数来进行研究请同学们思考下下列问题翻到我们书的一百三十面发现我们这个问题它要研究什么我们要知道我们想要研究它死亡了多长时间通过上节课我们也已经研究了是死亡生物体内碳十四的含量也就是得出了我们的指数函数那么反过来要求它的死亡时期的含量也就是得出了我们的指数函数那么反过来要求它的时间其实也就是求它的指数对不对那么对于这样一个问题进一步的其实我们会是想死亡时间X会是Y的函数吗也就是研究这样的问题但是这个问题我们知道这个数字太大了不能算了对不对要怎么研究特别想要怎么研究我们可不可以将它变得更简单一点通过简单的例子去探究有没有这样一种函数关系也就是知道了这一个整体能不能求出指数这样的函数关系了吗接下来大家思考这个问题请同学们完成下面两个时间两分钟。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the title \"4.1 对数函数的概念\" (Concept of Logarithmic Functions).\n- The teacher writes the equation $N = \\log_a m$ on the chalkboard.\n- The digital screen shows review questions in Chinese, including \"问题一: 什么是对数?\" (What is a logarithm?).\n\n**Middle:**\n- The teacher writes additional equations on the chalkboard: $a^x = m$ and $x = \\log_a m$.\n- The teacher gestures towards the digital screen, which now displays a detailed problem involving logarithms.\n- The teacher points to specific parts of the problem on the screen, emphasizing key elements.\n\n**End:**\n- The teacher writes \"4.4.1 对数函数的概念\" (Concept of Logarithmic Functions) on the chalkboard.\n- The digital screen shows a problem with a highlighted solution: $3 = \\log_{\\frac{1}{2}} \\frac{1}{8}$.\n- The teacher circles the solution on the screen, drawing attention to the result.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying logarithmic problems and solutions.\n- Initial state includes the title \"情景资料问题\" (Contextual Data Problem) and a detailed logarithmic problem.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes logarithmic equations on the chalkboard while explaining the concepts.\n- **Modifications**: The teacher circles the solution $3 = \\log_{\\frac{1}{2}} \\frac{1}{8}$ on the digital screen to highlight the final result.\n- **Deictic Gestures**: The teacher points to the equation $a^x = m$ on the chalkboard while explaining its relation to logarithms.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses a marker to circle the solution on the digital screen.\n- The teacher emphasizes key equations on the chalkboard by pointing and gesturing towards them.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"4.1 对数函数的概念\" (Concept of Logarithmic Functions), establishing the foundational topic. The teacher began by writing the fundamental logarithmic equation $N = \\log_a m$ on the chalkboard, constructing the basic framework for understanding logarithms. As the lecture progressed, the teacher derived additional equations, writing $a^x = m$ and $x = \\log_a m$ to illustrate the relationship between exponential and logarithmic forms. The teacher then pointed to these equations, tracing the transformation process to clarify the concept.\n\nThe digital screen evolved to show a contextual problem involving logarithms, prompting the teacher to annotate the solution step-by-step. The teacher's gestures directed attention to specific parts of the problem, such as circling the final solution $3 = \\log_{\\frac{1}{2}} \\frac{1}{8}$ on the screen. This visual emphasis aligned with the conclusion, reinforcing the key takeaway.\n\nThroughout the session, the teacher strategically used the chalkboard and digital screen to reduce cognitive load. By visually linking equations and solutions, the teacher facilitated a clear understanding of logarithmic functions. The combination of written equations and highlighted solutions on the screen provided a cohesive visual narrative, enhancing comprehension and retention of the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Logarithm",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[200.38 -> 310.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Exponential Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[200.38 -> 310.22]"
+      },
+      {
+        "id": "c3",
+        "label": "$N = \\log_a m$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[200.38 -> 310.22]"
+      },
+      {
+        "id": "c4",
+        "label": "$a^x = m$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[313.44 -> 499.46]"
+      },
+      {
+        "id": "c5",
+        "label": "$x = \\log_a m$",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[313.44 -> 499.46]"
+      },
+      {
+        "id": "c6",
+        "label": "Analogical Reasoning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[313.44 -> 499.46]"
+      },
+      {
+        "id": "c7",
+        "label": "Abstracting Functions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[313.44 -> 499.46]"
+      },
+      {
+        "id": "c8",
+        "label": "Contextual Problem",
+        "type": "Visual",
+        "original_text": "Contextual Data Problem",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Solution $3 = \\log_{\\frac{1}{2}} \\frac{1}{8}$",
+        "type": "Visual",
+        "original_text": "Final solution highlighted",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Logarithmic Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[200.38 -> 310.22]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Demonstrates the relationship between logarithms and exponents."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Builds on the concept of logarithms to define a function."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Shows how to express exponential equations in logarithmic form."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Uses visuals to solve and highlight the solution of logarithmic problems."
+      },
+      {
+        "source": "c10",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Includes the procedure of abstracting functions from examples."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages the use of reasoning to understand logarithms."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Logarithmic functions encompass the concept of logarithms."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Explains logarithms as inverse functions of exponentials."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "emphasizes",
+        "intent": "Highlights the application of logarithms in solving problems."
+      },
+      {
+        "source": "s1",
+        "target": "c6",
+        "relation": "supports",
+        "intent": "Students engage in reasoning to explore new concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

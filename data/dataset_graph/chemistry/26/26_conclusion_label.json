@@ -1,0 +1,161 @@
+{
+  "video_name": "26_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "- Be able to identify and distinguish different types of polar bonds.  \n- Master the methods and criteria for judging molecular polarity.  \n- Understand how differences in electronegativity affect molecular polarity.",
+  "transcript": "[644.236867 -> 688.28] 极性分子为什么因为氮的空间结构是三轮锥形然后它的三个键座是极性键它的向量和部位一样相应合不为非常好这个地方氮和氢哪个的颠覆性更大氮的颠覆性更大会使这一队像氮的地方偏移每一根都是对吧更何况它还有一个固电子队使得氮的颠覆性氮的这个带的负电会更多所以说它会带上而它负其他的三个阶都是等它证实的它是极性分子好同学们这一课我们讲述了如何进行分子共价键极性的判断以及分子的极性的判断同学们我留下一个作业。\n[701.08 -> 704.22] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains diagrams and chemical structures. The screen to the right displays a slide with chemical formulas and molecular structures.\n   - The blackboard layout includes:\n     - A series of chemical structures and arrows indicating reactions or transformations.\n     - A diagram with a triangular shape and labeled points.\n     - Several molecular structures with labels such as \"F,\" \"H,\" and \"S.\"\n   - The screen displays:\n     - A chemical formula: $\\text{C}_5\\text{H}_{10}\\text{O} = \\text{C}$\n     - Molecular structures with arrows indicating transformations.\n     - Japanese text above and below the chemical content.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Chemical structures with arrows indicating reactions.\n     - Triangular diagram with labeled points.\n     - Molecular structures with labels: \"F,\" \"H,\" \"S.\"\n   - Screen:\n     - Chemical formula: $\\text{C}_5\\text{H}_{10}\\text{O} = \\text{C}$\n     - Molecular structures with transformation arrows.\n     - Japanese text: \"分子の構造\" (Molecular Structure) and \"分子の立体的構造を示す\" (Indicates the three-dimensional structure of molecules).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to specific chemical structures and diagrams on the blackboard, likely explaining their significance.\n   - The teacher gestures towards the screen, possibly highlighting the chemical formula and molecular transformations.\n   - The teacher moves between the blackboard and screen, linking the visual content to reinforce key concepts.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided. The focus remains on summarizing the lesson content through the blackboard and screen visuals.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard and screen displaying key chemical structures and diagrams. The blackboard features a series of chemical reactions with arrows, a triangular diagram, and labeled molecular structures. The screen shows a chemical formula $\\text{C}_5\\text{H}_{10}\\text{O} = \\text{C}$ and molecular transformations with accompanying Japanese text.\n\nThe teacher visually reviews the content by pointing to each chemical structure and diagram on the blackboard, emphasizing their connections. Gestures are directed towards the screen, highlighting the chemical formula and molecular transformations. The teacher moves fluidly between the blackboard and screen, reinforcing the lesson's core concepts.\n\nA strong emphasis is placed on the central chemical formula and molecular structures, with the teacher likely pausing to ensure clarity. No explicit homework or next-step instructions are visible, keeping the focus on consolidating the visual knowledge presented throughout the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Polar Bond Types",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Molecular Polarity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Electronegativity Differences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Nitrogen Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c5",
+        "label": "Pyramidal Shape",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Polar Bonds",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c7",
+        "label": "Nitrogen and Hydrogen",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c8",
+        "label": "Electron Pairs",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[644.236867 -> 688.28]"
+      },
+      {
+        "id": "c9",
+        "label": "C5H10O Formula",
+        "type": "Visual",
+        "original_text": "Chemical formula: C5H10O = C",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Chemical Reactions Diagram",
+        "type": "Visual",
+        "original_text": "Diagrams with arrows indicating chemical reactions",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Triangular Diagram",
+        "type": "Visual",
+        "original_text": "Triangular shape with labeled points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Japanese Molecular Structure Text",
+        "type": "Visual",
+        "original_text": "Indicates the three-dimensional structure of molecules",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c13",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher gestures towards chemical structures",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Understanding polar bonds is derived from recognizing electronegativity differences."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Molecular polarity encompasses the concept of polar bonds."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "The structure of nitrogen includes having a pyramidal shape."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Nitrogen structure involves interactions with hydrogen."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Nitrogen structure involves having electron pairs."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "Chemical formula C5H10O is illustrated within the chemical reactions diagram."
+      },
+      {
+        "source": "c11",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "Triangular diagram aids in explaining molecular structure."
+      },
+      {
+        "source": "c13",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gestures enhance student engagement and understanding."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

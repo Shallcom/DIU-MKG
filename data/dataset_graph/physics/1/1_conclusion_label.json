@@ -1,0 +1,178 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the concept of inertial reference frames and their applications in physics.; Learn to analyze the relationship between light‑propagation paths and travel times in different reference frames.; Be able to compare the differing conclusions drawn by ground and carriage observers for the same event.",
+  "transcript": "[574.34 -> 687.8] 好你觉得时间相同吗相同啊好四位同学请回感谢同学们的配合接下来呀我们不妨以小组为单位依据现有的器材自行设置试验接下来我们要探究在地面上的观察者以哪里为参考系呀地面对以地面为参考系闪光是否同时到达接下来请同学们前后四人为一组开启讨论好讨论结束我看到同学们谈论了都热火朝天那么当人站在地面以地面为参考系时什么能会不会同时到达呀会不会同学们都摇了摇头不会是不是啊我们发现如果我们仅仅通过实验肉眼地来观察的话是不是有很大的误差呀老师为大家带来了一段实验看看在实验室中是如何进行的呢好同学们请看那么接下来我们不妨进行理论分析一下我们以车厢为参考系火车上的观察者时此时车厢是一个惯性系火车向前和向后的速率相不相同啊相同的那么光源就在车厢的中间根据这些一致条件时间一不一致啊是一致的和我们刚才的演示实验是一致的看来理论与实践是一致的同学们刚才的推理非常棒是正确的那么接下来我们以地面为参考系分析一下车下的观察者。\n[689.04 -> 717.94] 我们知道以地面为参考系时火车是不是在水平方向运速运动呀是不是车也要向前移动一段距离也就是说向前传播的光路程更长一些那么相同的速率所以闪光是先到达后臂还是前臂啊后臂好同学们我的模拟授课到此结束感谢各位评委老师感谢同学们的配合。\n[729.5 -> 743.76] 好谢谢好谢谢好谢谢好。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. It features a flowchart structure with boxes connected by arrows, summarizing the key concepts discussed.\n   - The blackboard contains handwritten notes, including phrases like \"绝对时空观\" (Absolute Space-Time View), \"相对论时空观\" (Relativistic Space-Time View), and \"与平移力学的后限性\" (Limitations with Translational Mechanics).\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide:\n     - \"理论分析\" (Theoretical Analysis)\n     - \"车上以地面为参考系\" (On the car, using the ground as the reference frame)\n     - \"车箱为参考系\" (Using the car as the reference frame)\n     - \"闪动光信号处理\" (Flashing light signal processing)\n     - \"相对传播的光程图长\" (Relative propagation of light path length)\n   - Blackboard:\n     - \"绝对时空观\" (Absolute Space-Time View)\n     - \"相对论时空观\" (Relativistic Space-Time View)\n     - \"与平移力学的后限性\" (Limitations with Translational Mechanics)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, pointing to each box in the flowchart to emphasize the sequence of concepts.\n   - She uses hand movements to indicate the connection between the reference frames and the light signal processing.\n   - The teacher occasionally looks at the blackboard, reinforcing the written notes with verbal explanations.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or board in this segment.\n   - The focus remains on summarizing the current lesson's content without transitioning to future tasks.",
+  "visual_narrative": "The lesson concludes with a flowchart slide centered on theoretical analysis. The teacher visually reviews the content by pointing to each box in sequence, emphasizing the transition from reference frames to light signal processing. She gestures towards the blackboard, reinforcing the connection between absolute and relativistic space-time views. The visual focus remains on the core concepts, with no explicit homework or next-step instructions displayed, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Inertial Reference Frame",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c2",
+        "label": "Absolute Space-Time View",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Relativistic Space-Time View",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Translational Mechanics Limitations",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Light Propagation Paths",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c6",
+        "label": "Ground Reference Frame",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Car Reference Frame",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c8",
+        "label": "Flashing Light Signal Processing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c9",
+        "label": "Theory and Experiment",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "c10",
+        "label": "Travel Time Comparison",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[574.34 -> 743.76]"
+      },
+      {
+        "id": "v1",
+        "label": "Flowchart Slide",
+        "type": "Visual",
+        "original_text": "A flowchart slide summarizes key concepts discussed.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Notes",
+        "type": "Visual",
+        "original_text": "Handwritten notes on absolute and relativistic space-time views.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Group Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Explores inertial frames using ground reference."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Explores inertial frames using car reference."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Discusses light signal processing within inertial frames."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Notes written about absolute space-time view."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Notes written about relativistic space-time view."
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Travel time analyzed in different reference frames."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Foundation for light propagation theory."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Flowchart reflects light path analysis."
+      },
+      {
+        "source": "c10",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Comparison displayed in flowchart."
+      },
+      {
+        "source": "c6",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students discuss ground reference impact."
+      },
+      {
+        "source": "c7",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students discuss car reference impact."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Flowchart encapsulates blackboard concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

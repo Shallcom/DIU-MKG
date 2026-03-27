@@ -1,0 +1,209 @@
+{
+  "video_name": "2_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "biology",
+  "teaching_goal": "Identify the producers, decomposers, and consumers in an ecosystem; describe the functions of each component in the carbon cycle; analyze the material exchange between biological communities and the abiotic environment.",
+  "transcript": "[408.52 -> 525.78] 生产者它有什么样的作用想想植物它有什么作用呢黄河作用想讲黄河作用是如何实现太原素态的循环的你们组是什么生产者和大气中的一个糖的组织上就安定主义来考虑一下分解者像是分解者分解者他是怎样来进行这个太原素的寻找其中他担负了怎样的作用你们组是消费者消费者的默契咱们讲消费者消费者我们人我们人有怎样的作用会呼吸作用是一个让他看着作为变化和大切成见是那样的一个建设好我们来请这组同学来和大家讲一下你们组讨论的是生产者生产者那你看老师的这个框架图生产者应该填在哪里那个左边这个如果填生产者生产者它有怎样的作用呀它可以利用光合作用起发的作用利用光合作用和呼吸它也有一些它也有呼吸作用这个呼吸作用它不影响我们这里主要讨论一下它的光合作用它光合作用和大气之间这是大所以这里应该填的是大气中的二氧化碳\n[527.52 -> 631.68] 分享号来我们请第二组同学你们组讨论的是分解者分解者应该存在哪里下面这里分解者分解者它有怎样的作用呢可以分解枯枝落叶或者是动植物的尸体遗体那所以呢它和空气层就是一个分解作用好我们是第三组同学你们说是消费者那很明显这个答案就填在这个框里面对不对是消费者消费者他参与碳循环的作用是呼吸作用非常好有没有注意到老师下面还画了河流海洋我们刚刚在资料中看到了二氧化碳它会溶于水所以氮气中的二氧化碳库有一部分还融于了海洋中这里老师对健康的指标是什么好光合作用是生产者将碳释放到大气中的二氧化碳库那呼吸作用是大气中的二氧化碳中的碳元素通过呼吸作用使消费者呼出二氧化碳来到大气中的二氧化碳库那生产者这里呢都没有同学发现老师不要错了上期中的二氧化碳库它是将二氧化碳给生产者固定在生产者体内的",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n- **The Invitation Gesture (Elicitation)**: The teacher makes a sweeping gesture towards the class, signaling the start of an interactive segment. She then points directly to a student, inviting them to participate.\n- **The Visual Focus Point**: The focus is on the diagram drawn on the blackboard, which includes a hierarchical structure with labeled boxes and a water wave illustration below.\n\n**Middle:**\n- **Real-time Scaffolding (Teacher's Action-While-Listening)**: As a student responds, the teacher listens attentively and uses her finger to trace the connections between the boxes in the diagram. She writes additional labels on the blackboard, such as \"信息的收集\" (information collection) and \"信息的处理\" (information processing), to guide the student's explanation.\n- **Visual Confirmation & Elaboration (Feedback)**: The teacher nods and smiles, providing visual encouragement. She circles the newly added labels on the blackboard to emphasize their importance and draws arrows to show the flow of information between the boxes.\n\n**End:**\n- **The Invitation Gesture (Elicitation)**: The teacher points to another part of the diagram, inviting further input from the class.\n- **The Visual Focus Point**: The interaction centers around the updated diagram, now with additional labels and arrows indicating the process flow.\n- **Real-time Scaffolding (Teacher's Action-While-Listening)**: While another student speaks, the teacher writes \"信息的输出\" (information output) on the board and connects it to the existing structure with an arrow.\n- **Visual Confirmation & Elaboration (Feedback)**: The teacher gives an emphatic thumbs-up and draws a checkmark next to the completed flow, visually confirming the student's correct input.\n\nThroughout the interaction, the teacher uses the blackboard as a dynamic visual tool, updating it in real-time to reflect the evolving discussion and provide immediate visual feedback to the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed a hierarchical diagram with labeled boxes and a water wave illustration, representing a flow of information. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content. She pointed directly to a student, signaling the start of an interactive discussion.\n\nAs the student began explaining their reasoning, the teacher walked over to the board and used her finger to trace the connections between the boxes, emphasizing the flow of information. She wrote additional labels such as \"信息的收集\" (information collection) and \"信息的处理\" (information processing) on the board, visually guiding the student's explanation. The teacher's movements were deliberate, ensuring each part of the diagram was clearly connected to the student's input.\n\nTo validate the student's contributions, the teacher gave a distinct nod and circled the newly added labels, drawing arrows to illustrate the process flow. This visual confirmation helped solidify the student's understanding and highlighted the correct application of the concepts.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing an arrow from the \"信息的输出\" (information output) label to the main hierarchical structure, reinforcing the complete information process. This visual linkage helped students see the broader context and actively construct their own understanding, moving from passive reception to active engagement with the material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Producers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[408.52 -> 525.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Decomposers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[527.52 -> 631.68]"
+      },
+      {
+        "id": "c3",
+        "label": "Consumers",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[408.52 -> 631.68]"
+      },
+      {
+        "id": "c4",
+        "label": "Carbon Cycle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[408.52 -> 631.68]"
+      },
+      {
+        "id": "c5",
+        "label": "Photosynthesis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[408.52 -> 525.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Respiration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[408.52 -> 631.68]"
+      },
+      {
+        "id": "c7",
+        "label": "Decomposition",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[527.52 -> 631.68]"
+      },
+      {
+        "id": "c8",
+        "label": "Information Collection",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c9",
+        "label": "Information Processing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "Middle"
+      },
+      {
+        "id": "c10",
+        "label": "Information Output",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "End"
+      },
+      {
+        "id": "v1",
+        "label": "Hierarchical Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with hierarchical structure and water wave illustration",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Flow Arrows",
+        "type": "Visual",
+        "original_text": "Arrows showing information flow",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Updated Labels",
+        "type": "Visual",
+        "original_text": "Labels added and highlighted on the blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Producers play a role in the carbon cycle by executing photosynthesis."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Decomposers contribute to the carbon cycle through decomposition."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Consumers participate in the carbon cycle via respiration."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Photosynthesis is a key function of producers."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Respiration is a primary activity of consumers."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Decomposition is a main function of decomposers."
+      },
+      {
+        "source": "c8",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The diagram represents the initial stage of information collection."
+      },
+      {
+        "source": "c9",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The middle stage of information processing is captured visually."
+      },
+      {
+        "source": "c10",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates the concept of information output."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "scaffolds",
+        "intent": "Arrows in the diagram guide the flow of information between concepts."
+      },
+      {
+        "source": "v3",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Updated labels highlight key parts of the information flow."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students critically think about the carbon cycle."
+      },
+      {
+        "source": "s2",
+        "target": "c1",
+        "relation": "answers",
+        "intent": "Students answer questions about the role of producers."
+      },
+      {
+        "source": "s2",
+        "target": "c2",
+        "relation": "answers",
+        "intent": "Students answer questions concerning the function of decomposers."
+      },
+      {
+        "source": "s2",
+        "target": "c3",
+        "relation": "answers",
+        "intent": "Students respond to queries about the role of consumers."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

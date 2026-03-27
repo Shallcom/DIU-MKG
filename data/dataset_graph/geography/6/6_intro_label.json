@@ -1,0 +1,134 @@
+{
+  "video_name": "6_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "- Enhance students’ ability to read and use maps  \n- Develop students’ regional awareness and integrated thinking skills  \n- Help teachers understand the professional development pathway for geography teaching",
+  "transcript": "[0.0 -> 43.28] 地理教学的这样现象你怎么看对于这个现象我是不认同的我认为术业有专攻才能够发挥出教师的主要才干这也是一种对学生负责的行为。\n[44.44 -> 60.0] 虽然说初中地理知识相比于高中的内容来说它更加的注重现象也就只要知道这个现象是怎样的就行但是它对于学生的培养也有很多的要求比如说需要培养同学的读图能力用图能力那么读图用图的能力需要教师在版书版画版图以及对于图的解释上需要有一定的能力而这些能力并不是一朝一夕就能够成功的需要不断地进行练习且在经验的积累当中去获取学习的一种方法知道这个图如何运用的方法如何化并且如何服务于课堂让同学们能够理解同时需要培养学生的区域认知和综合思维区域与区域之间的关系和差异以及该区域的一个位置这些如何传授给学生对于老师的要求都非常的高需要不断地在经验当中积累这也是美国学者斯金纳说到教师的成长公式是经验加反思需要不断地积累经验并通过反思去获得成长。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- **Description**: The lesson begins with a slide displaying Chinese text: \"君不见黄河之水天上来，奔流到海不复回.\" This is a poetic line, likely used to engage students.\n\n#### 2. **The Title Event**\n- **Text on Screen**: The title is not explicitly stated as a separate title but is part of the hook object. The teacher stands in front of the screen, which displays the poetic line.\n- **Teacher's Action**: The teacher holds a paper, possibly reading or explaining the text on the screen.\n\n#### 3. **The Objectives**\n- **Learning Goals**: No specific bullet points or learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- **Teacher's Actions**: The teacher is holding a paper and appears to be reading or presenting the content on the screen. No specific gestures like pointing or underlining are observed in this segment.\n\n### Chronological Log of Visual Events\n\n1. **Beginning**\n   - **Visual Content**: The screen displays the poetic line \"君不见黄河之水天上来，奔流到海不复回.\"\n   - **Teacher Action**: The teacher stands in front of the screen, holding a paper, likely reading or explaining the text.\n\n2. **Middle**\n   - **Visual Content**: The screen remains unchanged, continuing to display the same poetic line.\n   - **Teacher Action**: The teacher maintains a position in front of the screen, possibly elaborating on the content.\n\n3. **End**\n   - **Visual Content**: No changes in the screen content are observed.\n   - **Teacher Action**: The teacher continues to engage with the content on the screen, maintaining a focus on the poetic line.\n\n### Summary\nThe introduction phase centers around the poetic line displayed on the screen. The teacher engages with the content by reading or explaining it, using a paper as a reference. No additional visual elements or gestures are observed in this segment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the poetic line \"君不见黄河之水天上来，奔流到海不复回.\" This serves as the hook, engaging students with a familiar and evocative image. The teacher holds a paper, likely reading or elaborating on the text, creating a connection between the poetic imagery and the lesson's content. Throughout this segment, the screen remains focused on the poetic line, with no transition to a new topic or visual aid. The teacher's actions are centered around presenting and possibly interpreting the text, using the paper as a guide. This approach sets the stage for linking the poetic imagery to broader themes or concepts, potentially bridging students' existing knowledge of literature or geography with the upcoming lesson material. The consistent focus on the hook suggests an emphasis on establishing context before moving into more specific content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "v1",
+        "label": "Poetic Line Display",
+        "type": "Visual",
+        "original_text": "The screen displays the poetic line 'River flows from heaven, rushes to the sea never to return.'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c1",
+        "label": "Chinese Poetry",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 43.28]"
+      },
+      {
+        "id": "c2",
+        "label": "Geographical Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 43.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Specialization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 43.28]"
+      },
+      {
+        "id": "c4",
+        "label": "Map Reading Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[44.44 -> 60.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Map Usage Skills",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[44.44 -> 60.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Regional Awareness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[44.44 -> 60.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Integrated Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[44.44 -> 60.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Experience and Reflection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[44.44 -> 60.0]"
+      },
+      {
+        "id": "c9",
+        "label": "Skilled Teaching",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[44.44 -> 60.0]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The poetic line visually connects with geographical phenomena."
+      },
+      {
+        "source": "c3",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Specialization enhances skilled teaching capabilities."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Map reading is foundational for map usage."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Regional awareness involves integrated thinking."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Experience and reflection lead to improved teaching skills."
+      },
+      {
+        "source": "ss1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Engagement is enhanced by visual elements like the poetic line."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Map reading skills are scaffolded by visual examples like the poetic line."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

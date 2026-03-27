@@ -1,0 +1,146 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Understand the role of the Ming dynasty trade network in the world market; analyze how the world market promotes the development of commercial trade.",
+  "transcript": "[541.834567 -> 542.54] 这个四的话请这个图写吧。\n[546.3 -> 600.76] 它是什么呢它是明朝一个世界的贸易网对非常好它是一个城市的贸易网让生产者消费到城市的性能来进走的就在这里啊世界市场它让生产和消费日益的生态进化那么呢这就促进了商业贸易的发展这里又是另一个关键词我们的课的商业贸易从这里我们可以看到世界市场它对商业贸易的发展是起到促进作用的那么商业贸易它们的它又是怎么样发展的呢它在后来的发展又有什么样的历史意义呢这个是我们下节课的内容那本节课就到此结束了。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide on the screen, titled \"三、影响\" (Influence).\n   - The slide is divided into sections with headings and bullet points.\n   - The blackboard also contains handwritten notes, including a diagram with arrows and text.\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide Content:\n     - \"影响三\" (Influence Three)\n     - \"随着世界经济格局的逐步改变，这种影响将不断出现新的特点，更加复杂。\" (As the global economic pattern gradually changes, this influence will continue to exhibit new characteristics, becoming more complex.)\n     - \"材料\" (Materials)\n     - \"一个国家在世界上所处的地位和所起的作用，决定了这个国家的外交政策。\" (A country's position and role in the world determine its foreign policy.)\n   - Blackboard Content:\n     - Diagram with arrows labeled \"世界带动\" (World Driving), \"保护主义\" (Protectionism), and \"活动\" (Activity).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the slide content, specifically highlighting the text about the global economic pattern and its influence.\n   - The teacher gestures towards the blackboard diagram, emphasizing the connections between \"世界带动\" (World Driving) and \"保护主义\" (Protectionism).\n   - The teacher uses hand movements to underline the importance of the statement about a country's position determining its foreign policy.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The focus remains on summarizing the current lesson content without transitioning to next steps.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"三、影响\" (Influence), prominently displaying key points about global economic patterns and their complexities. The teacher points to each section on the slide, emphasizing the evolving nature of these influences. She gestures towards the blackboard, where a diagram illustrates the connections between \"世界带动\" (World Driving) and \"保护主义\" (Protectionism), reinforcing the lesson's themes. The teacher underlines the statement about a country's position determining its foreign policy, marking it as a core takeaway. No visual elements indicate homework or next steps, focusing solely on consolidating the current lesson's content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ming Dynasty Trade Network",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.3 -> 600.76]"
+      },
+      {
+        "id": "c2",
+        "label": "World Market",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[546.3 -> 600.76]"
+      },
+      {
+        "id": "c3",
+        "label": "Development of Commercial Trade",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[546.3 -> 600.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Global Economic Pattern",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[546.3 -> 600.76]"
+      },
+      {
+        "id": "c5",
+        "label": "Foreign Policy Determinants",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[541.834567 -> 542.54]"
+      },
+      {
+        "id": "c6",
+        "label": "World Driving",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[541.834567 -> 542.54]"
+      },
+      {
+        "id": "c7",
+        "label": "Protectionism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[541.834567 -> 542.54]"
+      },
+      {
+        "id": "c8",
+        "label": "Economic Influence Complexity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[541.834567 -> 542.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Influence Slide",
+        "type": "Visual",
+        "original_text": "Slide displaying key points about global economic patterns and their complexities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram illustrating connections between world driving and protectionism.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Listen",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The Ming dynasty trade network contributes to the development of commercial trade."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "promotes",
+        "intent": "The world market promotes the development of commercial trade."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "evolves_from",
+        "intent": "The complexity of economic influence evolves from the changing global economic pattern."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "A country's position and role includes aspects of protectionism."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "summarizes",
+        "intent": "The slide summarizes the global economic pattern."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "illustrates",
+        "intent": "The diagram illustrates the concept of world driving."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "illustrates",
+        "intent": "The diagram illustrates the concept of protectionism."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "learns_about",
+        "intent": "Students listen and learn about the development of commercial trade."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "learns_about",
+        "intent": "Students listen and learn about the determinants of foreign policy."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

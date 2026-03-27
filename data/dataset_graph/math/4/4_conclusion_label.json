@@ -1,0 +1,146 @@
+{
+  "video_name": "4_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Understand the conditions under which a function’s zero exists and their significance; master the importance of sign changes of a continuous function at the interval endpoints; be able to analyze the given conditions and decide whether a function has a zero.",
+  "transcript": "在右边的区域是小于零老师在负一两端就是它们是一号的然后在负一这一点函数值连续不断并且穿过在负二到零区间穿过X一周很好云轩请坐老师要提示的一点是这个同学说在负一的左边是函数值大于零在负一的右边函数值小于零这里有一个小小的失误是我们要说在这个区间内因为我们研究的是这个零点附近在它的这个区间内好吗那我们就可以发现在零点附近函数图像连续不断穿过X轴并且函数在端点处的曲直是一号的那同学们你认为应该如何利用函数F这样的曲直规律来刻画这种关系呢通过这个特殊的函数我们知道了函数零点存在的条件是需要满足这三个条件的那同学们你能根据这三个条件来用规范的数学语言来描述一下函数零点存在的定理吗小组之间合作讨论一下或许你会有新的发现大家讨论一下啊它是一个连续的绘曲线并且是一号的然后在这个区间内至少有一个零点是不是三条条件全都体现了来学习一下用这个规范的数学语言进行描述找到了吗有什么哎好好那位同学想来说一说。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard displays the heading \"4.5.1 函数的奇偶性\" and the equations $y = f(x)$ and $f(-x) = f(x)$.\n   - The digital screen shows a slide with text and a graph, likely summarizing the properties of even and odd functions.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard:\n     - Heading: \"4.5.1 函数的奇偶性\"\n     - Equations: $y = f(x)$, $f(-x) = f(x)$\n   - Digital Screen:\n     - Text in Chinese discussing function properties.\n     - Graph illustrating function behavior.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher holds papers and gestures towards the blackboard, likely emphasizing the equations $y = f(x)$ and $f(-x) = f(x)$.\n   - The teacher turns to the digital screen, possibly pointing to the graph or text to reinforce key points.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or next lesson content in the frames provided.\n   - The focus remains on reviewing the current topic, with no additional assignments visible on the screen or board.",
+  "visual_narrative": "The lesson concludes with a dual summary on both the blackboard and digital screen, centered on the topic of function parity. The teacher visually reviews the content by gesturing towards the blackboard equations $y = f(x)$ and $f(-x) = f(x)$, reinforcing the core concepts. The digital screen displays a graph and explanatory text, which the teacher likely references to highlight key points. No strong emphasis actions, such as underlining or boxing, are visible. The visual focus remains on the current topic, with no explicit homework or next-step instructions presented, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Function Zero Condition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.00 -> 120.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Sign Changes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.00 -> 120.00]"
+      },
+      {
+        "id": "c3",
+        "label": "Continuous Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.00 -> 120.00]"
+      },
+      {
+        "id": "c4",
+        "label": "Interval Endpoints",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.00 -> 120.00]"
+      },
+      {
+        "id": "c5",
+        "label": "Even Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.00 -> 120.00]"
+      },
+      {
+        "id": "c6",
+        "label": "Odd Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.00 -> 120.00]"
+      },
+      {
+        "id": "c7",
+        "label": "y = f(x)",
+        "type": "Visual",
+        "original_text": "Equation y = f(x) on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "f(-x) = f(x)",
+        "type": "Visual",
+        "original_text": "Equation f(-x) = f(x) on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Behavior Graph",
+        "type": "Visual",
+        "original_text": "Graph illustrating function behavior on digital screen",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Discussion on Zero Points",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "c11",
+        "label": "Locate Function Zero",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.00 -> 120.00]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "The condition of a function's zero existence relies on the changes in sign."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The existence condition requires the function to be continuous."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "End of interval values directly affect the zero condition."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The equation y = f(x) defines the properties of an even function."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The equation f(-x) = f(x) reinforces the concept of an even function."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The behavior graph depicts characteristics of odd functions."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "includes",
+        "intent": "Concepts of even functions include the procedure to locate its zeros."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm to better understand the conditions of function zeros."
+      },
+      {
+        "source": "c3",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Continuous function concept supports the procedure to locate zeros."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

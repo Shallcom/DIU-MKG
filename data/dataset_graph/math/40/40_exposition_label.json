@@ -1,0 +1,190 @@
+{
+  "video_name": "40_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the origin and symmetry principle of the reduction formulas; master the application of symmetric relationships of trigonometric functions on the unit circle; be able to use the unit circle to analyze the symmetry of trigonometric functions.",
+  "transcript": "[125.92 -> 226.8] 下面开始我的试讲上课同学们好请坐同学们我们在前面的学习学习的时候学习了我们的函数我们知道我们所学习的函数它们是具有对称性的那比如说我们学习的机函数和偶函数它们是怎样对称的呢我们的基函数是关于圆垫对称的那偶函数是非常好关于歪轴对称的那回想一下我们在前面学习的三角函数它是否具有对称性呢今天我们就一起来研究一下这个问题首先大家看到这两个问题现在在这个图中我们已知P一和P二是关于圆垫对称的那我们过关于原点对称就构成了两个角以OP一为中边和以OP二为中边这两个角阿尔法和角贝塔之间有什么关系呢他们锁的三角函数值之间又有什么关系同学们有点犹豫那没关系我们今天就一起来探讨一下这个问题来学习诱导公式同学们看到这个题目有没有对这个诱导公式产生一些疑惑呢当我们学习了今天的内容之后我们就能够进行了解它了大家首先翻到教材的第一百八十八页进行一个简单的课前预习。\n[227.92 -> 246.4] 这是我们本节课的学习目标大家先大致地浏览一下。\n[247.98 -> 326.96] 好大家看老师手中这是一个什么圆形那我们在初中的学习当中知道我们的圆是一个轴对称图形它有多少条对称轴有无数条对称轴那在这里我们既然要研究三角函数的对称性我们来尝试一下能不能采取竖形结合的一个方法我们利用单位圆来进行探究还是在之前的问题情景上面现在已知了P一和P二是关于圆点对称的那大家看这里是不是有一个坐标轴我们假设P一和P二P二它们两点的坐标分别是X一Y一X二Y二那么根据它们是关于原点对称的大家能得到它们之间的一个关系吗我们的X一和X二之间的关系是相反数对不对那Y一和Y二之间的关系同样为相反数那我们说以OP一和OP二为中边分别构成了联系这两个角角阿尔法和角贝塔大家观察这两个角我们能不能从图中观察出它的一个数量关系呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a navigation menu in Chinese.\n- The screen transitions to show a comparison between \"台南数\" and \"高雄数\" with an arrow pointing to \"对称性.\"\n- The teacher gestures towards the screen, emphasizing the concept of symmetry.\n\n**Middle:**\n- The screen displays a coordinate system with a circle and angles labeled $\\alpha$ and $\\beta$.\n- The teacher points to the angles and the circle, explaining their relationship.\n- The screen changes to show \"5.3.1 诱导公式\" (Induction Formula).\n- The teacher writes \"5.3.1 诱导公式\" on the chalkboard, mirroring the screen content.\n\n**End:**\n- The screen presents two questions about symmetry and trigonometric values.\n- The teacher points to the angles $\\alpha$ and $\\beta$ on the diagram, explaining their relationship.\n- The teacher uses hand gestures to emphasize the symmetry between the angles.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is a coordinate system with a unit circle, labeled with angles $\\alpha$ and $\\beta$.\n   - The diagram includes points $(x, y)$ and $(x', y')$ on the circle, illustrating symmetry.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions:** The teacher writes \"5.3.1 诱导公式\" on the chalkboard while explaining the concept.\n   - **Modifications:** The teacher points to different parts of the diagram, highlighting the symmetry between $\\alpha$ and $\\beta$.\n   - **Deictic Gestures:** The teacher points to the angles $\\alpha$ and $\\beta$, and the points $(x, y)$ and $(x', y')$, explaining their relationship.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the symmetry between the angles.\n   - The teacher points directly to the angles and points on the diagram to highlight their importance.\n\nThis structured visual evolution shows the teacher's method of linking physical gestures to specific elements of the diagram, enhancing the understanding of symmetry and trigonometric relationships.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a navigation menu, transitioning to a comparison between \"台南数\" and \"高雄数\" with an emphasis on symmetry. The teacher constructed a coordinate system with a unit circle, labeling angles $\\alpha$ and $\\beta$. She derived the concept of symmetry by pointing to these angles and their corresponding points $(x, y)$ and $(x', y')$ on the circle. The screen then highlighted \"5.3.1 诱导公式,\" and the teacher annotated this on the chalkboard. She resolved deixis by tracing the angles and points, illustrating their relationship. Finally, she emphasized the symmetry by circling key elements on the diagram, aligning visual cues with the explanation to reduce cognitive load and enhance understanding.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Symmetry Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.92 -> 226.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Reduction Formulas",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[125.92 -> 226.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Unit Circle",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[247.98 -> 326.96]"
+      },
+      {
+        "id": "c4",
+        "label": "Coordinate System",
+        "type": "Visual",
+        "original_text": "Coordinate system with unit circle labeled with angles α and β",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Angle α",
+        "type": "Visual",
+        "original_text": "Angle α on coordinate system",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c6",
+        "label": "Angle β",
+        "type": "Visual",
+        "original_text": "Angle β on coordinate system",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c7",
+        "label": "Point (x, y)",
+        "type": "Visual",
+        "original_text": "Point (x, y) on unit circle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Point (x', y')",
+        "type": "Visual",
+        "original_text": "Point (x', y') on unit circle",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Induction Formula 5.3.1",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[247.98 -> 326.96]"
+      },
+      {
+        "id": "c10",
+        "label": "Symmetry in Trigonometric Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[125.92 -> 326.96]"
+      },
+      {
+        "id": "c11",
+        "label": "Symmetric Relationships",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[125.92 -> 226.8]"
+      },
+      {
+        "id": "c12",
+        "label": "Mathematical Application",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[125.92 -> 226.8]"
+      },
+      {
+        "id": "c13",
+        "label": "Student Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      },
+      {
+        "id": "c14",
+        "label": "Student Understanding",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Connects symmetry principle to its application in trigonometric functions."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Incorporates reduction formulas into induction formula discussion."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Depicts angle α within the coordinate system context."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Depicts angle β within the coordinate system context."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Shows symmetry by highlighting points on the unit circle."
+      },
+      {
+        "source": "c10",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Develops mathematical application based on symmetry understanding."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Derives symmetric relationships from the symmetry principle."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "emphasizes",
+        "intent": "Points out symmetrical relationships between angles α and β."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Highlights symmetry between points within the coordinate system."
+      },
+      {
+        "source": "c9",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Expands on reduction formulas with induction formula."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Represents the coordinate system as a visual anchor for unit circle discussion."
+      },
+      {
+        "source": "c12",
+        "target": "c13",
+        "relation": "prompts_thinking",
+        "intent": "Teacher aims to invoke student questioning and reflection."
+      },
+      {
+        "source": "c10",
+        "target": "c14",
+        "relation": "prompts_thinking",
+        "intent": "Promotes student engagement through exploration of symmetry in trigonometric functions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

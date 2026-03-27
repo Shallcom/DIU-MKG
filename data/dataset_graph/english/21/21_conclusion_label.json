@@ -1,0 +1,127 @@
+{
+  "video_name": "21_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Students can summarize and review the English knowledge points of this lesson.; Students can express their opinions in English during interactions.",
+  "transcript": "[653.746367 -> 713.72] 要不然要比较有可能的吧对比较有可能的吧很棒很棒好这里我想说我们是我们国家的未来最保证的力量哦你们可以和我一起说吗因此我们必须要强壮和有力量而不是困于自己的身体因此的参与和观众朋友们的观�。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a red slide on the screen and the chalkboard.\n   - The slide contains a motivational statement about strength and positivity.\n   - The chalkboard features a diagram with two scales labeled \"To be slim\" and \"To be fit,\" with \"A slim\" and \"A slim\" on the left scale, and \"FAT\" on the right scale. There is also a triangle labeled \"FAT\" and some text that reads \"Instead of rather than.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Slide: \n     - \"We are the most promising power of our country's future, therefore, it's important for us to be strong and full of strength rather than owning a weak body.\"\n     - \"Instead of being seized by anxiety, we should cultivate a positive mind.\"\n   - Chalkboard:\n     - \"Going Positive\"\n     - \"To be slim or to be fit?\"\n     - \"A slim\" (twice)\n     - \"FAT\"\n     - \"Instead of rather than\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the slide, emphasizing the text about strength and positivity.\n   - The teacher points to the scales on the chalkboard, highlighting the comparison between \"To be slim\" and \"To be fit.\"\n   - The teacher uses hand movements to underline the concept of choosing positivity over anxiety, linking it to the content on the slide.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in the frames provided.\n   - The focus remains on summarizing the key points about strength and mindset.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a motivational statement about strength and positivity, alongside a chalkboard diagram comparing \"To be slim\" and \"To be fit.\" The teacher gestures towards the slide, emphasizing the importance of cultivating a positive mindset. They point to the scales on the chalkboard, highlighting the contrast between slimness and fitness, reinforcing the lesson's focus on strength over appearance. The teacher uses hand movements to underline the concept of choosing positivity, drawing attention to the central message. No visual elements indicate homework or next steps in these frames, keeping the focus on the core takeaway of embracing strength and positivity.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Strength",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[653.746367 -> 713.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Weak Body",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[653.746367 -> 713.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Positive Mind",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[653.746367 -> 713.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Anxiety",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[653.746367 -> 713.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Slimness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[653.746367 -> 713.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Fitness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[653.746367 -> 713.72]"
+      },
+      {
+        "id": "v1",
+        "label": "Motivational Statement Slide",
+        "type": "Visual",
+        "original_text": "We are the most promising power of our country's future, therefore, it's important for us to be strong and full of strength rather than owning a weak body. Instead of being seized by anxiety, we should cultivate a positive mind.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Diagram Scales",
+        "type": "Visual",
+        "original_text": "Diagram with two scales labeled 'To be slim' and 'To be fit,' with 'A slim' twice on the left scale, and 'FAT' on the right scale.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Chalkboard Text",
+        "type": "Visual",
+        "original_text": "Going Positive",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Provides a motivational context for students about strength."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "Motivates students to maintain a positive outlook instead of anxiety."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Illustrates the concept of slimness in contrast to fitness."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Highlights fitness as a preferred goal over mere slimness."
+      },
+      {
+        "source": "c3",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Emphasizes the idea of going positive in life choices."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to reflect on their role in the country's future with strength and positivity."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Engages students in considering the balance between being slim and being fit."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

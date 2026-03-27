@@ -1,0 +1,138 @@
+{
+  "video_name": "8_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Master the basic methods of accelerating charged particles; understand the operating principle of the cyclotron; be able to apply the learned knowledge to analyze and solve practical problems.",
+  "transcript": "[0.0 -> 214.16] 基础的学科那么实验那显而易见就需要有探究的这个过程那么简单的实验可能探究的时间比较少难的实验可能探究的时间比较多所以这个时间花费肯定是有一定的时间的而且我认为是很有必要的因为还是主要以实验为主然后如果过程较难的话那老师就需要缩短这一个探究的时间也就是说老师需要去引导学生进行这个探掘的过程怎么引导呢那需要提高老师自己提高自己的能力水平然后我还认为是物理这一个学科我认为是理解是要大于死记硬背的对物理学科如果有了比较充分的理解然后得到较多的思考的话那么对于课本的知识内容我觉得我觉得你可以通过自己的思维模式自己的理解也可以去解决一些可能其他的问题还有就是对于这个探究室学习会不会对这个内容教学内容时间影响大不大那老师首先就要对这个教学内容有一个整体的把握水平也就是说要加强老师的教学能力水平合理地去分配这个探究室学习教学过程以及教教育学生课本知识的这个过程好我自己演讲完毕好同学们上课今天呢我们一起来上一个质朴仪与回旋加速器好我们知道呀在我们实际的生活当中在科学研究以及生产里面当中我们会经常需要用到需要需要用到一些各种各样的粒子那么怎样将这个电荷量相同那么带电质量带呃质量却不同的粒子分开呢我们要怎么进行操作呢那同学们能不能运用以前我们所学过的一些知识啊呃能不能稍微简单的去分析一下怎么样将大电压相同质量不同的粒子分开好请同学们稍微讨论一下。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher writing the number \"08\" on the blackboard. This is the initial visual element that initiates the lesson.\n\n#### 2. **The Title Event**\n- The teacher writes the title \"质谱仪与回旋加速器\" (Mass Spectrometer and Cyclotron) on the blackboard. This is done after writing the number \"08\" and is accompanied by the same title displayed on the screen to the left. The teacher's action involves writing the title clearly on the board.\n\n#### 3. **The Objectives**\n- The screen displays the title \"质谱仪与回旋加速器\" with a subtitle \"人教版高中物理选修3-2\" (People's Education Press High School Physics Elective 3-2). The teacher does not explicitly list learning objectives on the board, but the screen content suggests the focus is on understanding mass spectrometers and cyclotrons.\n\n#### 4. **Key Gestures**\n- The teacher points to the screen displaying the title while holding papers, indicating the start of the lesson.\n- The teacher writes on the blackboard, using her hand to emphasize the title and later the question \"怎样将电荷量相同、质量不同的粒子分开？\" (How to separate particles with the same charge but different masses?).\n\n### Chronological Log of Visual Events\n\n1. **Beginning**\n   - The teacher writes \"08\" on the blackboard.\n   - The screen displays \"质谱仪与回旋加速器\" and \"人教版高中物理选修3-2\".\n   - The teacher stands in front of the board, holding papers, and points to the screen.\n\n2. **Middle**\n   - The teacher writes the title \"质谱仪与回旋加速器\" on the blackboard.\n   - The teacher gestures towards the screen, reinforcing the lesson's focus.\n   - The teacher writes the question \"怎样将电荷量相同、质量不同的粒子分开？\" on the board.\n\n3. **End**\n   - The teacher stands by the board, having completed the writing, and appears to be preparing to explain the content.\n   - The screen continues to display the title and question, maintaining visual focus on the lesson's objectives.\n\nThis structured visual analysis captures the evolution of the lesson's visual elements, linking the teacher's actions to specific content on the board and screen.",
+  "visual_narrative": "Initially, the teacher writes the number \"08\" on the blackboard, setting the stage for the lesson. To bridge to the main topic, the teacher proceeds to write the title \"质谱仪与回旋加速器\" on the board, aligning it with the screen that displays the same title and subtitle \"人教版高中物理选修3-2\". The teacher points to the screen, emphasizing the lesson's focus. Finally, the visual focus shifts to the question \"怎样将电荷量相同、质量不同的粒子分开？\" written on the board, establishing the lesson goal. This introduction connects the new knowledge of mass spectrometers and cyclotrons to the students' existing understanding of particle physics, preparing them for a deeper exploration of these concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Cyclotron Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0 -> 214.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Charged Particle Acceleration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0 -> 214.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Mass Spectrometer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0 -> 214.16]"
+      },
+      {
+        "id": "c4",
+        "label": "Particle Separation Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0 -> 214.16]"
+      },
+      {
+        "id": "v1",
+        "label": "Board Number '08'",
+        "type": "Visual",
+        "original_text": "Number '08' written on blackboard",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Board Title 'Mass Spectrometer and Cyclotron'",
+        "type": "Visual",
+        "original_text": "Title 'Mass Spectrometer and Cyclotron' written on blackboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Screen Title and Subtitle",
+        "type": "Visual",
+        "original_text": "Title 'Mass Spectrometer and Cyclotron' and subtitle 'People's Education Press High School Physics Elective 3-2'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Board Question on Particle Separation",
+        "type": "Visual",
+        "original_text": "How to separate particles with the same charge but different masses?",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Initial Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Discussion on Particle Separation",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "s3",
+        "label": "Understanding Cyclotron",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Cyclotron principle forms the basis for understanding charged particle acceleration."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Understanding mass spectrometer includes methods for particle separation."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The number '08' sets the context for the topic written next on the board."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "emphasizes",
+        "intent": "Title and subtitle on screen reinforce the board content."
+      },
+      {
+        "source": "v4",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "Board question visualizes the particle separation method concept."
+      },
+      {
+        "source": "c1",
+        "target": "s3",
+        "relation": "prompts_thinking",
+        "intent": "Exploration of cyclotron principle encourages questioning among students."
+      },
+      {
+        "source": "c4",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Discussion of particle separation method initiates brainstorming."
+      },
+      {
+        "source": "v3",
+        "target": "s1",
+        "relation": "summarizes",
+        "intent": "Screen content summarizes lesson objective and engages students initially."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

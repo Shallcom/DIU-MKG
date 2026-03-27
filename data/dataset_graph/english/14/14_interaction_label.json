@@ -1,0 +1,151 @@
+{
+  "video_name": "14_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Master methods for judging sentence completeness; understand and apply different linguistic forms for expressing purpose.",
+  "transcript": "[521.08 -> 527.76] okayI hear youall said that's correctobjectandhow aboutthisandwhat'stheinfinity。\n[531.36 -> 567.08] 你会说睡觉睡觉睡觉在你认为这一句是完整的吗。\n[568.8 -> 575.24] 是的那还有其他成分是什么呢。\n[580.8 -> 647.5] 也许也是一种语言吧是的语言我们知道语言上有语言的语言吧有很多不同的词词有意义的词词有很多不同的词词有很多I exercise every day with the purpose to sleep wellDo you know all the expressions to show our purpose with twoYou are so smart and you have a sharp mindSo you save us twoseeing as the same function of the other twoSo the last oneIt's a great way to relax my mind。\n[648.86 -> 660.6] 所以你觉得如何呢你觉得这个功能能够让我的心放松吗。\n[663.66 -> 672.46] 你可以先和你的伙伴商谈谈吧先尝试一下这个题目的结构吧好吗是吧。\n[678.86 -> 683.84] 那我们来看看这篇文章一起来看吧。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact for interaction was the sentence \"I exercise every day in order to shape my body\" written on the blackboard. The teacher emphasized the phrase \"in order to\" by underlining it, making it the focal point of the discussion.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the underlined phrase \"in order to\" on the blackboard, reinforcing its importance. The teacher also gestured towards the diagram labeled \"purpose,\" \"result,\" and \"reasons\" on the board, visually connecting the student's response to the structural elements of the sentence.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher nodded and smiled, providing non-verbal affirmation. The teacher then drew a box around the phrase \"in order to\" and the corresponding diagram elements, visually confirming the correct understanding of the sentence structure. Additionally, the teacher wrote \"S + V + O\" next to the sentence, breaking down the sentence components for clarity.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher points to the sentence \"I exercise every day in order to shape my body\" on the blackboard, specifically underlining \"in order to.\"\n  - The teacher gestures towards the diagram with \"purpose,\" \"result,\" and \"reasons,\" linking it to the sentence structure.\n\n- **Middle:**\n  - The teacher makes a sweeping gesture to invite class participation.\n  - While a student responds, the teacher points to the underlined phrase and the diagram, providing real-time scaffolding.\n\n- **End:**\n  - The teacher nods and smiles, offering visual confirmation.\n  - The teacher draws a box around \"in order to\" and writes \"S + V + O\" next to the sentence, elaborating on the sentence structure.\n\nThis structured visual interaction effectively guides students through understanding and constructing sentences with purpose clauses, using the blackboard content as a central reference.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the blackboard displayed the sentence \"I exercise every day in order to shape my body,\" with \"in order to\" underlined, alongside a diagram labeled \"purpose,\" \"result,\" and \"reasons.\" The teacher began by making a sweeping gesture across the classroom, inviting all students to engage with the content. This broad gesture signaled the start of an interactive session, focusing attention on the sentence structure and its components.\n\nAs a student began to respond, the teacher moved to the blackboard, pointing to the underlined phrase \"in order to\" and the corresponding diagram. While the student explained their reasoning, the teacher actively listened, nodding and occasionally gesturing towards the diagram to reinforce the connection between the sentence and its structural elements. The teacher's movements between the sentence and the diagram visually scaffolded the student's explanation, ensuring clarity and understanding.\n\nTo validate the student's input, the teacher gave a distinct nod and drew a box around the phrase \"in order to,\" emphasizing its importance. The teacher then wrote \"S + V + O\" next to the sentence, breaking down the components for further clarity. This visual feedback confirmed the student's correct understanding and highlighted the sentence structure.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing arrows from the boxed phrase to the \"purpose\" section of the diagram. This visual linkage reinforced how the sentence structure serves a specific purpose, tying the student's active participation to the broader lesson on sentence construction. Through these gestures, the teacher facilitated a transition from passive reception to active construction of knowledge, enabling students to internalize and apply the lesson effectively.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sentence Completeness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[531.36 -> 567.08]"
+      },
+      {
+        "id": "c2",
+        "label": "Linguistic Forms",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[580.8 -> 647.5]"
+      },
+      {
+        "id": "c3",
+        "label": "Purpose Clause",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[580.8 -> 647.5]"
+      },
+      {
+        "id": "c4",
+        "label": "Purpose",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c5",
+        "label": "Result",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c6",
+        "label": "Reasons",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "c7",
+        "label": "S + V + O",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[End]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Sentence",
+        "type": "Visual",
+        "original_text": "The sentence 'I exercise every day in order to shape my body' with 'in order to' underlined.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Diagram Purpose Result Reasons",
+        "type": "Visual",
+        "original_text": "Diagram with 'purpose', 'result', and 'reasons'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Response",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The teacher uses the sentence as a visual example of complete sentence structure."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Purpose clauses are examples of linguistic forms."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The underlining of 'in order to' highlights its function as a purpose clause."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram helps visualize the concept of purpose in sentence structure."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates the 'result' aspect related to sentence purpose."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The concept of 'reasons' is shown in the diagram."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The S + V + O structure is a summary of sentence components."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The blackboard content invites students to engage actively with the learning material."
+      },
+      {
+        "source": "v2",
+        "target": "s2",
+        "relation": "scaffolds",
+        "intent": "The diagram supports student responses by linking their answers to structural elements."
+      },
+      {
+        "source": "s2",
+        "target": "s1",
+        "relation": "builds_upon",
+        "intent": "Student responses enhance the overall engagement and learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,159 @@
+{
+  "video_name": "1_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Master common sentence structures for giving advice; be able to describe problems encountered while learning English in English.",
+  "transcript": "[575.12 -> 582.64] 好所以我们也可以用一些简单的句子比如说我不行对吧我做不了什么东西。\n[587.0 -> 629.9] 好的那我们说嘉兴给他的建议给李润他会说有些东西帮了我很多对吧所以这是他的建议还有什么其他词词我们可以用来表达我们的建议给别人的建议你们可以讨论一下你能找到这句话在其他人的博客里面可以吗。\n[636.74 -> 661.38] 你能找到这句话在其他人的博客里面吗如果我是在做某些事情我会做某些事情好吗好我们也可以直接用我的建议是某些事情好吗。\n[665.94 -> 670.36] 或者就像你说的如果我是你我会做某些事情。\n[675.0 -> 743.88] 好的就像我们刚才提到的你也有很多问题在学英语的时候所以我想和你们一起讨论什么是你学英语的问题你必须把它写下来一个或两句用这个句子来描述你的问题用这个句子来给你提供指导给你们的组织成员的建议你只可以写一或两句话用这句话好吗比如说我最大的问题是听听你给给你的组织成员他会给你我的建议是什么什么什么好的好的好的谢谢你了。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which is divided into two sections: \"Problems\" and \"Advice.\"\n   - The blackboard layout includes:\n     - **Problems Section**: \n       1. My spelling is incorrect.\n       2. I have no idea for...\n       3. xx is difficult for xx.\n       4. I can't write...\n     - **Advice Section**:\n       1. xx help me a lot.\n       2. My advice is xx.\n       3. If I learn xx, I won't...\n       4. I can write...\n\n2. **Key Knowledge Items (Content View)**:\n   - Main keywords and phrases visible:\n     - Problems: spelling, idea, difficult, write\n     - Advice: help, advice, learn, write\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the blackboard, pointing to each problem and corresponding advice.\n   - She moves her hand across the blackboard, emphasizing the connection between problems and advice.\n   - The teacher occasionally looks at the students, ensuring they are following along.\n\n4. **Transition to Next Step**:\n   - The screen displays a slide titled \"Discussion\" with instructions:\n     1. List your problems with learning English.\n     2. Share your problems with your group members and give some advice for other people.\n   - This indicates a transition to a group activity, focusing on applying the lesson's content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying a structured summary divided into \"Problems\" and \"Advice.\" The teacher visually reviews the content by pointing to each problem statement, moving her hand to the corresponding advice, reinforcing the connections between them. She emphasizes key phrases by pausing slightly longer on each point, ensuring students grasp the relationships. The screen transitions to a discussion slide, indicating the next task: students are to list their own problems and share advice. This visual handover smoothly transitions the lesson into an interactive group activity, preparing students to apply the summarized concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Spelling Issue",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.12 -> 582.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Idea Generation Problem",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.12 -> 582.64]"
+      },
+      {
+        "id": "c3",
+        "label": "Learning Difficulty",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.12 -> 582.64]"
+      },
+      {
+        "id": "c4",
+        "label": "Writing Challenge",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[575.12 -> 582.64]"
+      },
+      {
+        "id": "c5",
+        "label": "Helpfulness",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[587.0 -> 629.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Advice",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[587.0 -> 629.9]"
+      },
+      {
+        "id": "c7",
+        "label": "Learning Strategy",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[636.74 -> 661.38]"
+      },
+      {
+        "id": "c8",
+        "label": "Advice Expression",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[665.94 -> 670.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Problems Section",
+        "type": "Visual",
+        "original_text": "The blackboard shows problems such as incorrect spelling, lack of ideas, difficulty in learning, and writing challenges.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Advice Section",
+        "type": "Visual",
+        "original_text": "The blackboard lists advice including learning strategies and offering help.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Discussion Slide",
+        "type": "Visual",
+        "original_text": "Slide instructions: List problems and share advice with group members.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Interactive Group Activity",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Illustrates the specific problem of spelling issues on the blackboard."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Shows the problem of generating ideas on the blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Depicts the learning difficulty problem on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Represents the writing challenge problem on the blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Shows how helpfulness is an advised strategy on the blackboard."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Illustrates general advice strategies on the blackboard."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Develops the principle of helpfulness into learning strategies."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Enhances the concept of advice into specific expressions."
+      },
+      {
+        "source": "v3",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Initiates the group activity by involving students in listing and sharing problems and advice."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "scaffolds",
+        "intent": "Provides a visual reference for students during their interactive activity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

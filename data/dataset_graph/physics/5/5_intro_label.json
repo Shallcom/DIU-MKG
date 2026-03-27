@@ -1,0 +1,108 @@
+{
+  "video_name": "5_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Understand the role of fuses in circuits; comprehend why circuit overload leads to breaker trips; analyze electrical safety issues in daily life.",
+  "transcript": "[0.0 -> 190.54] 我的看法是首先杜威的这句话符合我们新课改的理念教育应当帮助学生进行更好的生活帮助学生成为全面发展的人那么为了要践行这一点我想我们应当做到以下几点首先作为教师韩钰说过师者所以传道授业解惑也作为老师我们首先应当拥有崇高的思想道德素质才能够讨理不严瞎自承袭去感染到学生们让他们也培养出崇高的道德品质那么第二教师要拥有要掌握扎实的专业技能才能够将自己的所学传授给学生同时在传授的过程中应当要注意不仅教授专业知识也要也要教授与生活相关的常识例如现在暑假暑假很暂假的时候许多同学在家里遇到触电现象会不知所措那么教师在讲解电工电功率的时候就可以以此为例子向同学们讲解为什么家中要有保险丝的存在为什么使用多个大功率电器之后家里会跳闸跳闸跳的到底是什么通过这些问题可以提高学生的生活适应能力可以弥补他们间接那么第三呢作为学校我认为学校也要践行双减政策为学生留出课余时间首先学校应当提高课堂上四十五分钟的效率并且完善教育教学的管理体制把更多的课余时间留给学生不要让学生负担过重从而可以进行更好的生活更好的全面发展那么除此之外呢我还认为家长学校要联动起来发挥合力学校是教育的主阵地而学生他主要的学习任务在学校但是另外课余时间都是在家中进行的所以说家长和学校要发挥合力从而形成一加一大于二的效果那么由这几条通过这几点措施我认为我们就可以培养出全面发展的学生为我们的国家培养更多优秀的人才我的即兴演讲结束。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with the teacher writing on the green chalkboard. The initial content is not fully visible, but the teacher's action of writing sets the stage for the lesson.\n\n#### 2. **The Title Event**\n- The title \"简谐运动\" (Simple Harmonic Motion) appears on the digital screen. The teacher does not write this on the board but presents it on the screen, likely as a slide. The teacher gestures towards the screen, emphasizing the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on introducing the topic.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and gestures with her right hand, likely emphasizing points related to the title on the screen.\n- She occasionally points to the screen, directing attention to the title \"简谐运动.\"\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher is seen writing on the green chalkboard, setting up the initial content.\n- The digital screen displays a blank slide initially, then transitions to show \"简谐运动\" in a blue box.\n\n**Middle:**\n- The teacher stands in front of the class, holding papers. She gestures with her right hand, likely explaining the concept of simple harmonic motion.\n- She points to the screen, emphasizing the title \"简谐运动.\"\n\n**End:**\n- The teacher continues to gesture and speak, maintaining focus on the content displayed on the screen.\n- No additional visual content changes are observed; the emphasis remains on the title and initial explanation.\n\nThis structured approach ensures that the teacher's actions are directly linked to the visual content, providing a clear narrative of the lesson's introduction phase.",
+  "visual_narrative": "Initially, the teacher is seen writing on the green chalkboard, setting up the initial visual context for the lesson. To bridge to the main topic, the digital screen transitions to display the title \"简谐运动\" in a blue box, capturing the students' attention. The teacher stands in front of the class, holding papers and gesturing with her right hand, emphasizing key points related to the title. She points directly to the screen, directing focus to the concept of simple harmonic motion. This visual shift from the chalkboard to the digital screen establishes the lesson's goal, linking the introduction to the students' existing understanding of motion and preparing them for a deeper exploration of the topic. The teacher's gestures and the clear presentation of the title create a structured entry point, ensuring students are oriented towards the upcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Harmonic Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 190.54]"
+      },
+      {
+        "id": "c2",
+        "label": "Fuses in Circuits",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 190.54]"
+      },
+      {
+        "id": "c3",
+        "label": "Circuit Overload",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 190.54]"
+      },
+      {
+        "id": "c4",
+        "label": "Breaker Trips",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 190.54]"
+      },
+      {
+        "id": "c5",
+        "label": "Electrical Safety",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 190.54]"
+      },
+      {
+        "id": "v1",
+        "label": "Teacher Writing",
+        "type": "Visual",
+        "original_text": "Teacher setting up initial lesson content on the chalkboard",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Title Screen",
+        "type": "Visual",
+        "original_text": "Digital screen displaying 'Simple Harmonic Motion'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher holding papers and gesturing towards the screen",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The concept of Simple Harmonic Motion is visually presented to set the context."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Understanding fuses is essential for broader electrical safety concerns."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Circuit overload leads to the procedure of breaker trips."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "Teacher writing on chalkboard engages students in setting up the initial concepts."
+      },
+      {
+        "source": "v3",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher gestures emphasize the importance of the title on the screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

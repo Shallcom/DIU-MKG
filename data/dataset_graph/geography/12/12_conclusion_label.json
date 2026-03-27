@@ -1,0 +1,146 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Understand the process of atmospheric absorption of ground radiation and its back radiation; master the basic principles and significance of the atmospheric greenhouse effect; analyze the actual impact of the atmosphere on Earth’s temperature regulation.",
+  "transcript": "[325.26 -> 337.56] 向外释放能量大家想刚才我们说大队流丛中的二氧化碳水气非常善于吸收波长较长的红外线所以大部分的强波辐射地面辐射被近地面大气所吸收只有少部分的会射向宇宙。\n[340.42 -> 347.0] 那我们将这个过程起一个名字吧叫做大地暖大气。\n[354.36 -> 359.62] 那近地面大气的直接热源是谁呀。\n[360.76 -> 386.38] 地面对也就是地面辐射那大气的根本热源呢非常好是太阳辐射近地面大气吸收热量之后仍然会释放热量一部分重新回到地面还有一部分呢再次射向宇宙。\n[388.64 -> 397.2] 我们看这个方向与地面辐射的方向是相反的所以我们把它叫做大气逆辐射。\n[403.22 -> 443.86] 那大气逆辐射也就补充了刚才地面所损失的热量我们也将这个称为大气的保温作用那现在也就能解释我们刚才说到的问题为什么月球的昼夜温差如此之大呢由于月球没有大气层的存在所以在白天没有进行削弱作用而在晚上也没有进行保温作用月球的昼夜温差也就非常大最后给大家布置一个作业。\n[445.3 -> 453.28] 自主探究深秋至次年早春季节双洞为什么会多次出现在晴朗的夜晚呢。\n[454.28 -> 461.04] 下课同学们再见请稍后再拨打电话给您的电话号码。\n[462.18 -> 462.58] 请稍后再拨打电话给您的电话号码。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a green screen with bullet points.\n   - The layout includes a heading and three bullet points, each with a blue circle.\n\n2. **Key Knowledge Items (Content View)**:\n   - Heading: \"二、大气对地面的保温作用\" (Second, the insulating effect of the atmosphere on the ground)\n   - Bullet Points:\n     1. 大气吸收大地 (Atmosphere absorbs from the ground)\n     2. 大气逆辐射 (Atmospheric back radiation)\n     3. 大气还大地 (Atmosphere returns to the ground)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each bullet point in sequence, emphasizing each item.\n   - The teacher gestures towards the blackboard diagram, linking it to the bullet points on the screen.\n\n4. **Transition to Next Step**:\n   - A new slide appears with the heading \"作业\" (Homework).\n   - The homework instruction: \"自主探究深秋至次年早春季节，霜冻为什么多出现在晴朗的夜晚？\" (Investigate why frost often occurs on clear nights from late autumn to early spring next year).\n   - The teacher points to the homework text, indicating the next task for the students.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing three bullet points summarizing the insulating effect of the atmosphere on the ground. The teacher points to each bullet in sequence, emphasizing the concepts of atmospheric absorption from the ground, atmospheric back radiation, and the atmosphere returning heat to the ground. The teacher gestures towards the blackboard diagram, reinforcing the connection between the visual elements and the summary points. The final emphasis is placed on the bullet points, ensuring students grasp the core concepts. The last slide transitions to homework instructions, displayed prominently on the screen, indicating the next task for the students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Atmospheric Absorption",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[325.26 -> 337.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Infrared Radiation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[325.26 -> 337.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Atmospheric Back Radiation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[388.64 -> 397.2]"
+      },
+      {
+        "id": "c4",
+        "label": "Earth Radiation Heat Source",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[354.36 -> 359.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Solar Radiation Heat Source",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[360.76 -> 386.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Greenhouse Effect",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[403.22 -> 443.86]"
+      },
+      {
+        "id": "c7",
+        "label": "Frost Occurrence",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[445.3 -> 453.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Bullet Point Screen",
+        "type": "Visual",
+        "original_text": "Summary artifact with bullet points about atmospheric effects.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Diagram",
+        "type": "Visual",
+        "original_text": "Diagram linking to atmospheric principles.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Homework Slide",
+        "type": "Visual",
+        "original_text": "Slide with homework instructions on frost investigation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Atmospheric absorption includes the process involving infrared radiation."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Atmospheric absorption leads to the concept of atmospheric back radiation."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Earth radiation is supplemented by solar radiation as heat sources."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Atmospheric back radiation contributes to the greenhouse effect."
+      },
+      {
+        "source": "c7",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The homework slide presents the investigation of frost occurrence."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The screen summarizes the greenhouse effect and atmospheric principles."
+      },
+      {
+        "source": "v2",
+        "target": "v1",
+        "relation": "summarizes",
+        "intent": "The blackboard diagram visually consolidates the summary bullet points."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The bullet points on the screen help maintain student engagement."
+      },
+      {
+        "source": "ss1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to think about frost occurrences based on atmospheric principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

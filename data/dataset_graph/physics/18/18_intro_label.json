@@ -1,0 +1,112 @@
+{
+  "video_name": "18_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Strengthen students' ability to apply physical concepts; cultivate students' scientific modeling thinking; enhance students' scientific inquiry abilities.",
+  "transcript": "[0.0 -> 155.18] 具有核心素养的社会主义建设者和接班人我认为即使是高三二的复习他们已经掌握了比较扎实的物理基础知识但是我们也不能够采用应试教育我认为可以从物理核心素养这四个方面来设置高中物理专题讲座首先是物理观念方面物理观念包括观念的形成以及观念的应用物理观念它是是从物理学视角对客观对物质的对物质运动与相互作用能量等的基本认识是物理概念和规律等在头脑中的提炼与升华是学生能够应用知识解释自然现象和解决实际问题的基础但是现在我们大部分的教师普遍都只注重物理观念的形成而忽视了物理观念的应用所以我认为在物理观念的应用方面我们可以加强第二是科学思维方面我们可以注重培养学生的建模能力科学思维它包括模型建构科学推理科学论证以及质疑创新这四个方面的能力都是非常重要的但是我更侧重培养学生的科学建模能力第三是科学探究我认为可以注重培养学生基于观察和实验提出物理问题形成猜想和假设设计实验与制定方案获取和处理信息基于证据得出结论并作出解释以及对科学探究过程和结果进行交流评估反思的能力第四是科学态度与责任我认为可以注重培养学生认识科学本质认识STSE的关系以上就是我针对高三二轮复习中高中物理专题讲座设置的观点我的即兴讲道子结束下面进入我的教学片段展示。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a presentation slide displayed on the screen. The slide contains the title \"时间 位移\" (Time and Displacement) in Chinese. The slide layout includes a navigation pane on the left with multiple slides, indicating a structured presentation.\n\n#### 2. **The Title Event**\n- The title \"时间 位移\" is prominently displayed on the screen. The teacher stands in front of the screen, holding papers, and appears to be introducing the topic. There is no indication of the teacher writing the title; it is already displayed on the screen.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board during this segment. The focus is on the title slide.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally looks at them while speaking. There are no specific gestures directed at the board or screen content in this segment.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class with a presentation slide titled \"时间 位移\" displayed on the screen. The slide includes a navigation pane with multiple slides, suggesting a structured lesson plan.\n- The teacher holds papers, likely notes or a lesson plan, and begins speaking to the class.\n\n**Middle:**\n- The teacher continues to speak, occasionally glancing at the papers. There are no significant gestures or interactions with the board or screen content.\n- The screen remains static, displaying the title slide throughout this part of the video.\n\n**End:**\n- A student in the front row raises a red paddle, possibly indicating a question or response.\n- The teacher acknowledges the student, maintaining focus on the lesson introduction.\n\n### Summary\nThe introduction phase of the lesson centers around the title slide \"时间 位移\" displayed on the screen. The teacher uses papers for reference while speaking, with no additional gestures or interactions with the board. The static display of the title slide and the teacher's presence set the stage for the lesson on time and displacement.",
+  "visual_narrative": "Initially, the screen presents the title slide \"时间 位移,\" setting the stage for the lesson. The teacher stands in front of the class, holding papers, and begins the introduction. To bridge to the topic, the teacher occasionally glances at the notes, maintaining a focus on the displayed content. The visual focus remains on the title slide throughout, establishing the lesson goal of exploring time and displacement. The static display of the title slide, combined with the teacher's presence and the student's interaction with a red paddle, creates a structured introduction that links the new topic to the students' existing understanding, preparing them for the forthcoming exploration of concepts related to time and displacement.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Time",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.18]"
+      },
+      {
+        "id": "c2",
+        "label": "Displacement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.18]"
+      },
+      {
+        "id": "c3",
+        "label": "Physical Concepts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 155.18]"
+      },
+      {
+        "id": "c4",
+        "label": "Scientific Modeling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 155.18]"
+      },
+      {
+        "id": "c5",
+        "label": "Scientific Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 155.18]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Time and Displacement",
+        "type": "Visual",
+        "original_text": "Time and Displacement slide with navigation pane",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Interaction",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Connects fundamental concepts in physics."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Strengthens understanding of time in physics."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Strengthens understanding of displacement in physics."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Scientific modeling informs inquiry methods."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Displays the concept of time prominently."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Displays the concept of displacement prominently."
+      },
+      {
+        "source": "c1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages questioning of time concept."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages questioning of displacement concept."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,167 @@
+{
+  "video_name": "39_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Master methods for removing redundant information in English to make expressions clearer; understand the impact of sentence simplification on meaning and be able to identify key information; improve the ability to apply concise expression in real‑life situations through practical exercises.",
+  "transcript": "[240.0 -> 275.72] 但是英语是最好的教授如果你想学英语的话我认为你应该向英语学习有兴趣的有一个说法就是尝试学习英语第二学习英语是一种模式你可以参与一些情况需要英语来沟通学生们可以创造一个主题的课程来帮助学生们使用英语在现实生活中的课程中用英语第二我们可以进行这些英语课程通过互联的活动学习和理解复习和练习转移和创造那是我的语言今天那所以你们可以读给我们听首先让我给你们介绍一个英语技术它可以让你的表达更加明确和简单让别人更容易理解比如说你有什么想法吗它可以变成其他语言比如说我们可以删除了你因为你有什么想法吗然后我们可以删除了所以意义是否改变了呢不吧那就是粒子我明白吗是的看来你已经知道了什么是粒子让我们做一个练习来帮你更加理解所以请你请你读这个练习尝试看看哪个部分被删除了请问您想要与我们分享一下吗。\n[277.0 -> 311.68] 啊Try tosimplifytheunderlyingsentencebytheelipse。\n[337.0 -> 360.0] 好的你需要更多时间吗请问您想与我们分享一下您的经历吗?有回答吗。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher walks to the blackboard and writes \"Unit 3 Diverse Cultures\" in white chalk. The digital screen displays a slide titled \"What has been done?\" with a list of tasks.\n- The teacher gestures towards the screen, pointing at the list of tasks, which includes:\n  1. A lesson plan\n  2. A lesson summary\n  3. A lesson reflection\n  4. Theorem: Pythagorean Theorem\n\n**Middle:**\n- The teacher continues to gesture towards the screen, emphasizing the tasks listed. The slide changes to \"What did the students do?\" with a list of activities:\n  1. Reading the text\n  2. Answering the questions\n  3. Discussing in groups\n  4. Writing a summary\n  5. Presenting their findings\n  6. Listening to others\n  7. Asking questions\n  8. Taking notes\n  9. Drawing a diagram\n  10. Solving a problem\n\n- The teacher writes \"Ellipses\" on the blackboard, indicating a new topic or concept to be discussed.\n\n**End:**\n- The teacher holds a piece of paper, possibly a handout or notes, and continues to gesture towards the screen and the blackboard. The students are focused on the content being presented.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the list of student activities. The initial state includes a green and white color scheme with a list format.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"Unit 3 Diverse Cultures\" and \"Ellipses\" on the blackboard while explaining the lesson content.\n- **Modifications**: No erasures or modifications are observed; the teacher primarily adds content.\n- **Deictic Gestures**: The teacher points at specific tasks on the screen, such as \"Reading the text\" and \"Solving a problem,\" while explaining their importance.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize key points on the screen, such as circling or underlining tasks verbally while pointing.\n- The use of the blackboard to write \"Ellipses\" highlights the transition to a new topic.\n\nThis structured visual evolution shows the teacher's method of linking static content on the screen with dynamic additions on the blackboard to guide the students through the lesson.",
+  "visual_narrative": "Initially, the digital screen displayed a list titled \"What has been done?\" with tasks such as creating a lesson plan and summarizing the Pythagorean Theorem. The teacher began by writing \"Unit 3 Diverse Cultures\" on the blackboard, establishing the lesson's theme. As the lecture progressed, the screen transitioned to \"What did the students do?\" listing activities like reading texts and solving problems. The teacher actively constructed understanding by pointing to each task, emphasizing their significance. He then introduced \"Ellipses\" on the board, signaling a shift in focus. Throughout, he used hand gestures to trace and highlight key points, such as underlining \"Solving a problem\" to stress its importance. Finally, he circulated the classroom, ensuring students engaged with the material. This visual strategy, combining static lists with dynamic annotations and gestures, reduced cognitive load by clearly segmenting and emphasizing critical concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sentence Simplification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[240.0 -> 275.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Redundant Information Removal",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[240.0 -> 275.72]"
+      },
+      {
+        "id": "c3",
+        "label": "Impact on Meaning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[240.0 -> 275.72]"
+      },
+      {
+        "id": "c4",
+        "label": "Ellipses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 275.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Concise Expression",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[240.0 -> 275.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Key Information Identification",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[240.0 -> 275.72]"
+      },
+      {
+        "id": "s1",
+        "label": "Reading Texts",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[277.0 -> 311.68]"
+      },
+      {
+        "id": "s2",
+        "label": "Answering Questions",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[277.0 -> 311.68]"
+      },
+      {
+        "id": "s3",
+        "label": "Discussing in Groups",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming",
+        "timestamp": "[337.0 -> 360.0]"
+      },
+      {
+        "id": "s4",
+        "label": "Writing Summaries",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[277.0 -> 311.68]"
+      },
+      {
+        "id": "s5",
+        "label": "Drawing Diagrams",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[277.0 -> 311.68]"
+      },
+      {
+        "id": "v1",
+        "label": "Student Activity List",
+        "type": "Visual",
+        "original_text": "List of activities: Reading, Discussing, Solving Problems",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Ellipses Blackboard",
+        "type": "Visual",
+        "original_text": "Teacher writes 'Ellipses' to introduce a new topic",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sentence simplification includes removing redundant information."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The removal of information builds upon understanding its impact on meaning."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "prompts_thinking",
+        "intent": "Simplifying sentences prompts identification of key information."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "guides_discussion",
+        "intent": "Understanding concise expression guides the discussion on key information."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Writing 'Ellipses' on the blackboard visualizes the concept."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "emphasizes",
+        "intent": "The list emphasizes student engagement through reading texts."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "emphasizes",
+        "intent": "The list emphasizes student engagement through answering questions."
+      },
+      {
+        "source": "v1",
+        "target": "s3",
+        "relation": "emphasizes",
+        "intent": "The list emphasizes student engagement through group discussions."
+      },
+      {
+        "source": "v1",
+        "target": "s4",
+        "relation": "emphasizes",
+        "intent": "The list emphasizes student engagement through writing summaries."
+      },
+      {
+        "source": "v1",
+        "target": "s5",
+        "relation": "emphasizes",
+        "intent": "The list emphasizes student engagement through drawing diagrams."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

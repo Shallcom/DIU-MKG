@@ -1,0 +1,165 @@
+{
+  "video_name": "29_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Master the method of measuring the pre‑collision velocity of a small ball using projectile‑motion principles.; Learn to design an experimental scheme to calculate the post‑collision velocity.; Understand the application of the conservation of momentum law in experimental data processing.",
+  "transcript": "[726.552433 -> 744.22] 给它们规划到我们的这样一个原理从而确定我们这个圆心便可以得出这个就是我们想要的平均位置那么在得到了平均位置之后我们需要继续在得到平均位置之后我们需要开始处理数据对吧处理数据我们需要测量哪些物理量呢首先是小球的质量其次是位移力但是我们动量守恒定律的公式当中我们利用的是什么呀是小球的质量和小球的速度那速度我们如何进行测量呢平抛运动的规律那哪位同学可以来具体说一下怎样利用平抛运动来测量它的速度呢这位同学先计算出平康运动的数值高度然后它的水平位移然后根据时间就可以计算出它的速度这是我们这位同学的想法那请坐那老师还有一个更好的主意我们通过计算桌面的数值高度H根据我们平康运动的规律便可以得出它下落的时间T而我们想要的是碰撞前的速度碰撞前那个小球下来的速度是如何的呀我们需要计算它的水平位移X从而得出V我们需要把这样一个演绎推理的过程给它逐步地体现出来我们的时间也不可忽略那么小球在下落的过程当中呀我们知道它碰撞前的速度M五M一碰撞前的速度是V一我们已经得出来了那M二速度呢是零那如何才能计算出纸面根据纸面的这个分点情况来计算出它碰撞后的速度呢。\n[746.58 -> 765.86] 你有想法吗想一想我们前边是怎么来研究云变速直线运动的云变速直线运动当中我们是如何体现出来这个速度的测量的我们利用到了打点计时器很好打点计时器现在打点计时器我们是如何处理子弹来的。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key formulas and headings written in white chalk.\n   - The layout includes two main sections: \"实验\" (Experiment) and \"实验现象\" (Experimental Phenomena), followed by equations.\n\n2. **Key Knowledge Items (Content View)**:\n   - Headings: \"实验\" (Experiment), \"实验现象\" (Experimental Phenomena)\n   - Formulas: \n     - $h \\rightarrow 0$\n     - $h \\rightarrow +\\infty \\Rightarrow x \\rightarrow 0$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the headings \"实验\" and \"实验现象\" to emphasize the structure of the experiment.\n   - The teacher gestures towards the equations, likely explaining their significance in the context of the experiment.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the blackboard or screen in this segment. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the experiment and its phenomena. The teacher visually reviews the content by pointing to the headings \"实验\" and \"实验现象,\" emphasizing the structure of the experiment. He gestures towards the equations, highlighting their significance. The visual focus remains on the core concepts, with no additional homework or next-step instructions visible, signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Pre-collision Velocity",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.552433 -> 744.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Projectile Motion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.552433 -> 744.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Average Position",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[726.552433 -> 744.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Momentum Conservation Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[726.552433 -> 744.22]"
+      },
+      {
+        "id": "c5",
+        "label": "Ball Mass",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.552433 -> 744.22]"
+      },
+      {
+        "id": "c6",
+        "label": "Displacement Force",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[726.552433 -> 744.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Horizontal Displacement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[746.58 -> 765.86]"
+      },
+      {
+        "id": "c8",
+        "label": "Impact Speed",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[746.58 -> 765.86]"
+      },
+      {
+        "id": "c9",
+        "label": "Dot Timer",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[746.58 -> 765.86]"
+      },
+      {
+        "id": "c10",
+        "label": "Blackboard Formulas",
+        "type": "Visual",
+        "original_text": "Board with formulas $h \\rightarrow 0$ and $h \\rightarrow +\\infty \\Rightarrow x \\rightarrow 0$",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Experimental Structure",
+        "type": "Visual",
+        "original_text": "Experiment and Experiment Phenomena",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Calculation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The blackboard displays formulas related to pre-collision velocity."
+      },
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Pre-collision velocity concept is explained using projectile motion principles."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Calculation of average position is part of measuring pre-collision velocity."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Momentum conservation relates to ball mass in calculations."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Momentum conservation uses displacement force in understanding velocity."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Horizontal displacement is crucial for understanding impact speed."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Using a dot timer to measure speed during an impact."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students consider ball mass in their speed calculations."
+      },
+      {
+        "source": "c11",
+        "target": "c3",
+        "relation": "scaffolds",
+        "intent": "Structure of the experiment helps in understanding average position calculation."
+      },
+      {
+        "source": "c11",
+        "target": "c9",
+        "relation": "emphasizes",
+        "intent": "Visual emphasis on using tools like dot timers in experiments."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Students' answers involve calculating horizontal displacement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

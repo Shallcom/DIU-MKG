@@ -1,0 +1,153 @@
+{
+  "video_name": "21_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the concept of animal cell‑fusion technology and its differences from plant cells.; Master the basic process and applications of monoclonal antibody production.",
+  "transcript": "[182.7 -> 197.64] 那么我们今天这节课就来学习那么在正式学习之前我们一起来进行知识的迁移我们已经学习过植物的体细胞融合技术那么同学们能不能说出动物细胞融合技术的概念呢\n[200.34 -> 281.94] 好我来提示一下植物细胞体细胞的融合技术是两个或多个植物细胞结合成一个细胞的技术那么动物动物细胞融合的技术应该就是动物细胞对结合细胞的技术对那么动物细胞融合的技术呢与植物细胞的原理是相同的都是用PEG融合法电融合法以及灭活素病毒诱导法等那么回忆我们之前学习的免疫系统免疫调节那么我们有抗体戒导的体验免疫以及细胞免疫那么在病原在被病原体侵染之后呢体内呢会形成相应的B零八细胞这些B零八细胞呢就会分泌我们的抗体识别并结合特异性的抗原从这个维持病原体的增值那么有没有一种细能不能创造出一种细胞能够产生单一的抗体并且能够进行大量繁殖的技术呢请同学们阅读以上两则资料思考如何获得大量的单一抗体\n[290.34 -> 298.44] 我们应该如何获得大量的单一抗体呢我们来看一下资料\n[299.64 -> 341.98] 资料一是我们的哺乳动物感染病原体后B零八细胞能够分泌抗体然后骨髓瘤细胞却能够满足大量增殖的特点那么我们应该如何获得大量的单一抗体就是将两个细胞怎么样对融合也就是将B零八细胞与骨髓瘤细胞融合我们把这样的技术称之为单克隆抗体那么单克隆抗体制备的技术的过程又是怎样的呢请同学们阅读课本我们一起来说出一起来小组讨论说出一下我们单克隆抗体制备的过程并尝试回答以上三个问题",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide titled \"消化概念\" (Digestion Concept) with a subtitle \"消化のしくみと消化器官の機能\" (Mechanism of Digestion and Functions of Digestive Organs).\n- The screen initially shows three colored circles: a purple circle labeled \"消化液\" (Digestive Juice), a green circle labeled \"消化酵素\" (Digestive Enzyme), and another green circle labeled \"消化管\" (Digestive Tract).\n- The teacher holds papers and gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher points to the purple circle labeled \"消化液\" (Digestive Juice), emphasizing its role in the digestion process.\n- The teacher then moves to the green circles, pointing at \"消化酵素\" (Digestive Enzyme) and \"消化管\" (Digestive Tract), explaining their functions.\n- The screen updates to include additional text below the circles, providing more details about each component.\n\n**End:**\n- The teacher continues to gesture towards the screen, summarizing the information presented.\n- The screen transitions to a blank slide, indicating the end of this segment or preparation for the next topic.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the slide titled \"消化概念\" (Digestion Concept) with three colored circles representing different components of the digestive system.\n   - Initial state: Three circles - purple for \"消化液\" (Digestive Juice) and green for \"消化酵素\" (Digestive Enzyme) and \"消化管\" (Digestive Tract).\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher adds explanatory text below the circles, detailing the roles of each component.\n   - **Modifications**: The screen transitions to include more text, enhancing the explanation of each part.\n   - **Deictic Gestures**: The teacher points to each circle while explaining, specifically indicating \"消化液\" (Digestive Juice), \"消化酵素\" (Digestive Enzyme), and \"消化管\" (Digestive Tract).\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the importance of each component, pointing directly at the circles.\n   - The color coding (purple and green) visually distinguishes different elements of the digestive process.\n\nThis structured approach ensures a clear visual and cognitive flow, linking the teacher's actions directly to the evolving content on the screen.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide titled \"消化概念\" (Digestion Concept) with three colored circles representing key components: a purple circle labeled \"消化液\" (Digestive Juice) and two green circles labeled \"消化酵素\" (Digestive Enzyme) and \"消化管\" (Digestive Tract). The teacher began by constructing an understanding of these elements, pointing to the purple circle to explain the role of digestive juices. She then derived the functions of digestive enzymes and the digestive tract by sequentially pointing to the green circles, elaborating on their contributions to digestion. As the lecture progressed, the teacher annotated the slide with additional text below each circle, providing detailed explanations. She resolved deixis by tracing the connections between the components, emphasizing their interdependence. Finally, she circled the key terms in red to highlight their importance, ensuring the visual information aligned with the verbal explanations, thereby reducing cognitive load and reinforcing the core concepts of the digestive system.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Animal Cell Fusion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[182.7 -> 200.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Plant Cell Fusion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[182.7 -> 200.34]"
+      },
+      {
+        "id": "c3",
+        "label": "PEG Fusion Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[200.34 -> 281.94]"
+      },
+      {
+        "id": "c4",
+        "label": "Electrofusion Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[200.34 -> 281.94]"
+      },
+      {
+        "id": "c5",
+        "label": "Virus Induction Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[200.34 -> 281.94]"
+      },
+      {
+        "id": "c6",
+        "label": "Immune Modulation",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[200.34 -> 281.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Antibody Production",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[299.64 -> 341.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Monoclonal Antibody",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[299.64 -> 341.98]"
+      },
+      {
+        "id": "c9",
+        "label": "B Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[200.34 -> 281.94]"
+      },
+      {
+        "id": "c10",
+        "label": "Myeloma Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[299.64 -> 341.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Digestion Concept Slide",
+        "type": "Visual",
+        "original_text": "Slide titled 'Digestion Concept' with circles for Digestive Juice, Enzyme, Tract.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Discussion",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Illustrates how animal cell fusion principles relate to plant cell fusion."
+      },
+      {
+        "source": "c3",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Includes PEG method as a part of animal cell fusion techniques."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Includes electrofusion as a part of the animal cell fusion methods."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Includes virus induction as part of cell fusion techniques."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Describes the process leading to monoclonal antibody creation."
+      },
+      {
+        "source": "c6",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Describes how immune modulation involves B cell activity."
+      },
+      {
+        "source": "c8",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Monoclonal antibodies are produced by combining myeloma cells with B cells."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Screen visualizes the concept of monoclonal antibody production."
+      },
+      {
+        "source": "s1",
+        "target": "c8",
+        "relation": "prompts_thinking",
+        "intent": "Engaged students to discuss monoclonal antibody production."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

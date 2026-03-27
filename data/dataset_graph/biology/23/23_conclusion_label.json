@@ -1,0 +1,140 @@
+{
+  "video_name": "23_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "biology",
+  "teaching_goal": "Compare the functional and structural differences between plant growth regulators and plant hormones; systematically master the common types of plant growth regulators and their characteristic effects; guide students to pay attention to the practical applications of plant growth regulators in agricultural production.",
+  "transcript": "[708.200767 -> 766.58] 好相信大家已经阅读完了那咱们刚才老师给大家提问了之前的食物激素有哪些那咱们来对比一下生长调节剂它有哪些是和食物激素类似的功能呢有没有同学从咱们书上的材料里面提取了答案呢这位同学有没有答案啊就是比如阿尔法耐乙酸癌状素这些它是和食物激素有类似的成比上的好请坐那还有呢有没有同学还知道的这位同学你知道吗银朵钉酸说到这个名字大家是不是很熟悉啊我们在之前学过一个什么银朵乙酸对好请坐那说明这两类物质它就是是不是结构可能会相同啊它们都叫这个名字啊那咱们就可以去思考一下这些植物生长调节剂它是不是分了两类呢比如说像银朵丁酸和银朵乙酸类似那它们就可能是结构和生理效应类似刚刚这位同学说到的NAA阿尔法耐乙酸和癌状素的像这类物质它可能就是有类似的功能但结构咱们不一定相同的好那咱们今天就学习了植物生长调节剂它的概念以及植物生长调节剂有哪些类型和类似的作用那说到这儿因为咱们国家呀对植物生长调节剂的管控是非常严格的所以希望大家在课后去做一个社会小调研究竟哪些物质好本节课上到这里谢谢大家",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital screen.\n   - The blackboard contains handwritten text in Chinese, including key points and possibly a list or instructions.\n   - The digital screen displays a slide with text and an image of a book cover.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - \"写法？\" (Writing method?)\n     - \"1. 人物描写\" (1. Character description)\n     - \"2. 原料分析\" (2. Raw material analysis)\n   - Digital Screen:\n     - Text in Chinese discussing writing techniques and analysis.\n     - Image of a book cover with the title \"红楼梦\" (Dream of the Red Chamber).\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the text on the digital screen, likely emphasizing key points related to the book and writing techniques.\n   - The teacher gestures towards the blackboard, possibly reviewing the listed points about character description and raw material analysis.\n   - The teacher uses a pointer to highlight specific areas on the screen, linking the content to the blackboard notes.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or board.\n   - The teacher's gestures suggest a review of the lesson content, possibly preparing students for the next topic or assignment.",
+  "visual_narrative": "The lesson concludes with a dual summary artifact, featuring both a blackboard and a digital slide. The blackboard displays key points in Chinese, including \"人物描写\" (Character description) and \"原料分析\" (Raw material analysis). The digital screen shows a slide with text and an image of the book \"红楼梦\" (Dream of the Red Chamber). The teacher visually reviews the content by pointing to each item on the screen and blackboard, emphasizing the connection between the writing techniques and the book. The teacher uses a pointer to highlight specific areas on the screen, reinforcing the main concepts. There is no explicit visual indication of homework or next steps, but the teacher's gestures suggest a thorough review of the lesson's core topics, preparing students for further study.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Plant Growth Regulators",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "c2",
+        "label": "Plant Hormones",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "c3",
+        "label": "Functional Differences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "c4",
+        "label": "Structural Differences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "c5",
+        "label": "Naphthaleneacetic Acid (NAA)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "c6",
+        "label": "Alpha-naphthaleneacetic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "c7",
+        "label": "Indolebutyric Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[708.20 -> 766.58]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Key Points",
+        "type": "Visual",
+        "original_text": "Blackboard displays 'Writing method?', '1. Character description', '2. Raw material analysis'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Digital Screen with Book Image",
+        "type": "Visual",
+        "original_text": "Digital screen shows a slide with text on writing techniques and an image of 'Dream of the Red Chamber' book cover.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Teacher Gesturing",
+        "type": "Visual",
+        "original_text": "Teacher points to digital screen, gestures at blackboard, uses pointer for emphasis.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Student Cognitive Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "compares",
+        "intent": "Teacher explains the similarities and differences between plant growth regulators and hormones."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Teacher explains the functional aspects of plant growth regulators."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Teacher explains the structural aspects of plant growth regulators."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Illustrates variations of naphthalene-based compounds."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Describes a functional similarity with NAA in terms of effects on plants."
+      },
+      {
+        "source": "v1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Teacher uses gestures to connect written points with visual content on blackboard."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Teacher highlights specific areas on the digital screen to reinforce concept understanding."
+      },
+      {
+        "source": "ss1",
+        "target": "v3",
+        "relation": "guided_by",
+        "intent": "Teacher's gesture encourages student focus and engagement with the reviewed material."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

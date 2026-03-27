@@ -1,0 +1,196 @@
+{
+  "video_name": "34_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of sequences and their application in real‑world problems; identify and classify finite and infinite sequences; analyze the ordering of sequence terms and their significance.",
+  "transcript": "[104.04 -> 231.82] 上课同学们好请坐在现实生活和数学学习中我们经常需要根据一些问题的研究他们的意义通过对一些数据特定的顺序排列方法来刻画研究的对象同学们在你们那么漫长的生活当中你们生的时候你们的父母会不会记录你们的身高呢我们来看一下小方同学从一岁到十七岁她的父母都记录了她的身高数据他们的父母根据她的身高数据让这些数据排成了一列的一列数为了更好地去研究他的身高啊我们去进行了一个设数我们计王方第I岁时的身高为HI那么在他一岁的时候那我们计为H一等于七十五H二两岁的时候是八十七这样计下去到十七岁时就是H十七等于一百六十八那么这里他是根据什么来计计他的来计计入他的身高呢很显然这是根据它的年龄顺序来记录它的身高的那么这样根据年龄顺序来记录它的身高的话它们之间的顺序可以调换吗同学们仔细想一想我们两次的身高能跟一次的身高调换吗十七次的身高能跟一次的身高调换吗这显然是不能的且不对应的因此它们是不能交换位置的我们再来看一组数据在两核流域中发现了一个拟板这个拟板记录了一个月中从第一天到第十五天每天月亮可见的部分数同样的我们设第一天的月亮可见部分数为SI那么第一天可见部分是百分之五第二天是百分之十到第十五天是百分之二百四十这个时候它是按一个日期顺序来排列的。\n[233.0 -> 242.56] 同样的这里可以交换位置吗也就是说第十五天我们可以观测到的月亮部分能跟第一天观测到的月亮部分进行一个交换吗。\n[244.32 -> 301.04] 不能的同学们都摇头了那么你们来尝试一下这里给出了一个负二分之一的N次密按照一次密二次密三次密四次密依次排成了一列数它们你能仿照上面的叙述说明三说明序号三这一个数据它是具有确定的数列的一列数吗我们来请魏同学说一下他是按照什么数据来讲述的请这位同学讲一下很好请坐做得非常好是按照次密的数据来排列的同样的它们能交换位置吗我们一起来答一下它是不能的很酷上面三个例子想一想它们有什么特征呢。\n[304.14 -> 309.2] 它们的按什么顺序它们的排列方式是怎么样的。\n[312.08 -> 321.94] 我们可以发现它们的位置是不可以交换的因此它们是按照一定顺序来进行排列的这个就是我们今天要学习的内容。\n[329.32 -> 361.64] 有刚刚的三个例子啊我们可以得到数列的一个性质大家打开书本跟着老师一起画一下。\n[372.64 -> 379.32] 数列它是按照一定顺序排列的一组数。\n[388.64 -> 409.5] 其中我们把数列当中的每个数成为它的项。\n[418.64 -> 443.44] 那么根据像我们可以把数列分成两类一类是如果数列它是有限的我们就把它称为有穷数列。\n[448.64 -> 464.04] 按照它无穷排列的话我们就称它为一个无穷数列那么第一项的话那么第一项我们就称为它为首项。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying the title \"4.1 数列的概念\" (4.1 Concept of Sequences).\n- The teacher gestures towards the screen, which shows a sequence of numbers: $1, 3, 5, 7, 9, \\ldots$ and $2, 4, 6, 8, 10, \\ldots$.\n- The teacher points to the numbers, emphasizing the pattern of odd and even numbers.\n\n**Middle:**\n- The screen transitions to a new slide with a diagram of a staircase, illustrating a sequence of steps.\n- The teacher uses hand gestures to trace the steps, explaining the concept of sequence progression.\n- The teacher writes on the chalkboard, starting with \"数列的定义\" (Definition of Sequence) and \"按照一定顺序排列的一列数\" (A row of numbers arranged in a certain order).\n\n**End:**\n- The teacher continues writing on the chalkboard, adding \"有限数列\" (Finite Sequence) and \"无限数列\" (Infinite Sequence).\n- The screen displays a detailed definition of sequences, with the teacher pointing to specific parts of the text to highlight key concepts.\n- The teacher uses a pointer to emphasize the mathematical notation and definitions on the screen.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital screen displaying the sequence definitions and examples, alongside the chalkboard where the teacher writes key terms.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"数列的定义\" and related terms on the chalkboard while explaining the concepts.\n- **Modifications**: The teacher underlines and circles important parts of the written definitions to emphasize them.\n- **Deictic Gestures**: The teacher points to specific numbers in the sequences on the screen, such as $a_1=1, a_2=3, \\ldots, a_n=168$, to illustrate the sequence pattern.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses different colors of chalk to distinguish between definitions and examples.\n- Important terms like \"有限数列\" and \"无限数列\" are boxed or circled on the chalkboard.\n- The teacher zooms in on the screen content using gestures to draw attention to specific parts of the definitions.\n\nThis structured visual evolution helps students connect abstract concepts with concrete examples, enhancing understanding through synchronized visual and verbal cues.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"4.1 数列的概念\" alongside two sequences: $1, 3, 5, 7, 9, \\ldots$ and $2, 4, 6, 8, 10, \\ldots$. The teacher began by pointing to these sequences, tracing the pattern of odd and even numbers to introduce the concept of sequences. The chalkboard remained blank at this stage, serving as a canvas for upcoming annotations.\n\nThen, the teacher gave a lecture, transitioning the screen to a staircase diagram illustrating sequence progression. The teacher constructed the idea of sequences by tracing the steps, explaining the ordered nature of numbers. Simultaneously, the teacher started writing on the chalkboard, deriving the definition \"数列的定义\" and noting \"按照一定顺序排列的一列数.\" The teacher's gestures synchronized with the screen content, emphasizing the alignment of visual examples with theoretical definitions.\n\nAs the lecture progressed, the teacher annotated the chalkboard with \"有限数列\" and \"无限数列,\" differentiating between finite and infinite sequences. The teacher's deictic gestures became more precise, tracing specific numbers like $a_1=1, a_2=3, \\ldots, a_n=168$ on the screen to highlight sequence elements. The screen displayed detailed definitions, which the teacher pointed to, ensuring students connected the written terms with visual examples.\n\nFinally, the teacher circled and boxed key terms on the chalkboard, such as \"有限数列\" and \"无限数列,\" using contrasting chalk colors to reduce cognitive load. The screen's final slide emphasized the sequence definitions, with the teacher zooming in on critical parts to reinforce understanding. This visual strategy, combining dynamic gestures, color coding, and structured annotations, streamlined the knowledge delivery, making complex concepts accessible and memorable.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Concept of Sequences",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[104.04 -> 231.82]"
+      },
+      {
+        "id": "c2",
+        "label": "Odd Numbers Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[104.04 -> 231.82]"
+      },
+      {
+        "id": "c3",
+        "label": "Even Numbers Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[104.04 -> 231.82]"
+      },
+      {
+        "id": "c4",
+        "label": "Finite Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[418.64 -> 443.44]"
+      },
+      {
+        "id": "c5",
+        "label": "Infinite Sequence",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[448.64 -> 464.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Sequence Order",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[312.08 -> 321.94]"
+      },
+      {
+        "id": "c7",
+        "label": "Sequence Elements",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[388.64 -> 409.5]"
+      },
+      {
+        "id": "c8",
+        "label": "Height Data",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[104.04 -> 231.82]"
+      },
+      {
+        "id": "c9",
+        "label": "Lunar Visibility Data",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.32 -> 301.04]"
+      },
+      {
+        "id": "c10",
+        "label": "Staircase Diagram",
+        "type": "Visual",
+        "original_text": "Diagram of a staircase illustrating sequence progression.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c11",
+        "label": "Definition of Sequence",
+        "type": "Visual",
+        "original_text": "The definition 'A row of numbers arranged in a certain order'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Screen Display Sequences",
+        "type": "Visual",
+        "original_text": "Screen showing sequences: 1, 3, 5, 7, 9, ... and 2, 4, 6, 8, 10, ...",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "ss2",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Identifies finite sequences as a category within sequence concepts."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Identifies infinite sequences as a category within sequence concepts."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Explains the principle of sequences being ordered."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Presents odd numbers as an example of sequences."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Presents even numbers as an example of sequences."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Sequence elements are part of finite sequence."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The staircase diagram represents the concept of sequences visually."
+      },
+      {
+        "source": "c11",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Display of sequence definition supports the understanding of the concept."
+      },
+      {
+        "source": "c12",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "The screen emphasizes the odd number sequence shown."
+      },
+      {
+        "source": "c12",
+        "target": "c3",
+        "relation": "emphasizes",
+        "intent": "The screen emphasizes the even number sequence shown."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Height data is used to explain sequence order."
+      },
+      {
+        "source": "c9",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Lunar data is used to explain sequence order."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to answer questions about sequences."
+      },
+      {
+        "source": "c1",
+        "target": "ss2",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding sequence concepts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,177 @@
+{
+  "video_name": "30_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "geography",
+  "teaching_goal": "Understand the importance of sustainable development and its relationship to environmental protection; analyze the correlation between economic activities and environmental changes in the Anji Fishing Village case; be able to apply sustainable‑development concepts to propose solutions for real‑world environmental problems.",
+  "transcript": "[651.22 -> 672.1] 那这则案例是不是就是提起了刚刚我们走可持续发展之路需要大家共同承担这样的责任啊。\n[673.38 -> 719.98] 好那你能举一举你平常遇见的类似的案例吗好来请你来就是说这叫安吉渔村那边它一开始是发展那种矿山然后它每天炸山矿山炸山的时候对然后环境就变得很差空气也变得很差然后那边很多人都换上了个背景和的意思没错很好知识储备很丰富那接下来请同学们思考第二道问题稍后我们再请同学分享我的模拟收课到此结束感谢各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide displayed on the screen. \n   - The slide features a horizontal flowchart with five labeled sections: \"问题导向\", \"合作探究\", \"任务驱动\", \"学以致用\", and \"课后探究\".\n   - Below the flowchart, there is a text box containing a paragraph of text and two questions.\n\n2. **Key Knowledge Items (Content View)**:\n   - The flowchart headings are: \n     - 问题导向 (Problem-oriented)\n     - 合作探究 (Collaborative Inquiry)\n     - 任务驱动 (Task-driven)\n     - 学以致用 (Apply Learning)\n     - 课后探究 (Post-class Investigation)\n   - The text box contains a paragraph discussing a scenario involving a factory and a worker, followed by two questions:\n     - (1) 请根据案例内容，分析“问题导向”、“合作探究”、“任务驱动”、“学以致用”、“课后探究”是如何开展的，结合你的体会，谈谈如何创新？\n     - (2) 你认为本案例中涉及哪些人员，分别承担什么职责？\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the flowchart, likely emphasizing the sequence of steps or phases.\n   - The teacher points to the text box, possibly highlighting the questions or key points within the paragraph.\n   - The teacher uses hand movements to indicate the flow from one section of the flowchart to the next, reinforcing the progression of concepts.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the slide.\n   - The focus remains on the summary content, suggesting a review or discussion of the material presented.\n\nThis structured visual summary helps consolidate the key concepts and prompts further reflection through the questions posed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a horizontal flowchart that outlines five key phases: \"问题导向\", \"合作探究\", \"任务驱动\", \"学以致用\", and \"课后探究\". Below the flowchart, a text box presents a scenario and two reflective questions. The teacher visually reviews the content by gesturing towards each section of the flowchart, emphasizing the sequential nature of the concepts. They point to the text box, highlighting the questions to prompt further discussion. The teacher's gestures move smoothly from one phase to the next, reinforcing the progression of ideas. No explicit homework or next-step instructions are visible, keeping the focus on the summary and reflective questions as the core takeaway.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Sustainable Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "c2",
+        "label": "Environmental Protection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Economic Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[673.38 -> 719.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Anji Fishing Village Case",
+        "type": "Concept",
+        "knowledge_type": "Case Study",
+        "timestamp": "[673.38 -> 719.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Environmental Changes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[673.38 -> 719.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Problem-oriented",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "c7",
+        "label": "Collaborative Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "c8",
+        "label": "Task-driven",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "c9",
+        "label": "Apply Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "c10",
+        "label": "Post-class Investigation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[651.22 -> 672.1]"
+      },
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "A slide displays a horizontal flowchart with sections for various phases and a text box below.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Reflective Thinking",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Sustainable development inherently includes environmental protection."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "leads_to",
+        "intent": "Economic activities lead to environmental changes."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The Anji Fishing Village case illustrates principles of sustainable development."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Problem-oriented approach leads to collaborative inquiry."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Findings from collaborative inquiry drive task-oriented processes."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Tasks drive the application of learning."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Applied learning often leads to further investigation."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the problem-oriented phase."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the collaborative inquiry phase."
+      },
+      {
+        "source": "v1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the task-driven phase."
+      },
+      {
+        "source": "v1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the apply learning phase."
+      },
+      {
+        "source": "v1",
+        "target": "c10",
+        "relation": "visualizes",
+        "intent": "The slide visualizes the post-class investigation phase."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The slide prompts students to engage in reflective thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,127 @@
+{
+  "video_name": "26_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Master various ways of representing a plane; understand the positional relationships among points, lines, and planes; be able to accurately express the relationship between a point and a plane using symbolic language.",
+  "transcript": "[484.2 -> 589.1] 数本上说是用希腊字母来表示平面这是我们表示平面的第一个方法可以用一个希腊字母而法当然还有其他字母的表示方法还有吗还可以就在平级字面形式面标上字母比如说ABCD然后叫它叫做平面ABCD他不光说出了他的表示啊还说出了他的写法我们可以用平面四个大写字母表示平面ABCD很好做那现在我们知道了什么是平面那现在同学们思考一下我们知道两点可以确定一条直线那么几点可以确定一个平面呢想一想一个点可以吗哎不可以那两个点呢也不可以那三个点呢观察我们周围的事物我们往后看这个三角架它所在的那个地面是不是一个平面损失它为什么能够稳定的在这里想一想这三个点形成一个什么三角形你不用再看这个三角形它的组成元素所在的地面三个点对不对我们不难发现无论是自行车还是摄像机它们都是三个点对于自行车而言两个轮一个脚蹬所以我们可以得出现在的一个基本事实不在一条直线上的三个点有且只有一个平面。\n[591.04 -> 621.56] 我们通过文字语言进行描述那我们来看它的图形语言那知道了图形语言如何用符号语言进行描述呢我们来看这个平面此时怎么样它平面上有几个点三个点我们可以将这个平面记作ABC通过这三个点要刻画一个平面我们即使是找到一个做的什么呀。\n[625.7 -> 648.12] 陈静妍说你可以找平面上不共线的三个点因为它们可以构成一个平面平面上不共线的三个点此时我们就要去探究谁和谁呀点和线之间的位置关系那我们现在看对于点和线的位置关系我们又该用符号语言如何进行表示了。\n[650.24 -> 682.94] 点A在直线还有啥我们记住什么一起说那如果点B在直线外那此时B再看如果点A在平面R的内那点A属于阿尔法那此时在外那就是不属于阿尔法很好那现在我们得到了基本式是一用过符号语言刻画点和直线的关系那我们能不能通过通过符号语言来刻画基本式式一了呢。\n[684.52 -> 696.14] 可以我们是只需要描述点和平面的关系对不对啊我们再来看第二个问题如果直线L与平面阿尔法有一个公共点P。\n[698.42 -> 715.107667] 那么直线L是否在平面阿尔法内呢他说不一定不一定想一想一定吗不在那如果直线L与平面二发有两个公共点呢我们来看是不是有两个公共点如果我想它贴合在平面上我们发现怎么样此时能否确定这个直线L在平面二发内呢可以现在我们可以得出我们的基本事实二我们通过现实时得出了事实一。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting any student to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the diagram displayed on the screen, which included a geometric figure. The teacher pointed directly at this diagram, emphasizing its importance in the discussion.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher maintained eye contact and occasionally nodded, providing non-verbal encouragement. The teacher also pointed to specific parts of the diagram on the screen, highlighting relevant sections as the student spoke, guiding their explanation.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- After the student's response, the teacher used hand gestures to confirm the correctness of the answer. The teacher also drew additional lines on the diagram using a pointer, visually elaborating on the student's explanation to ensure clarity and understanding.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment.\n  - The teacher pointed to the geometric diagram on the screen, setting the focus for the interaction.\n\n- **Middle:**\n  - While the student responded, the teacher nodded and maintained eye contact, providing encouragement.\n  - The teacher pointed to specific parts of the diagram, guiding the student's explanation.\n\n- **End:**\n  - The teacher used hand gestures to confirm the student's correct answer.\n  - The teacher drew additional lines on the diagram, visually elaborating on the explanation.\n\nThis structured approach ensured that the visual elements were effectively used to co-construct knowledge, maintaining focus and engagement throughout the interaction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board displayed a geometric diagram, setting the stage for the lesson. The teacher began by making a sweeping gesture across the classroom, inviting students to engage with the problem. This broad gesture signaled the start of an interactive segment, focusing attention on the diagram.\n\nAs a student began to explain their reasoning, the teacher moved closer to the screen, nodding and maintaining eye contact to encourage participation. The teacher pointed to specific parts of the diagram, guiding the student's explanation and ensuring clarity. This supportive movement helped the student articulate their thoughts more effectively.\n\nTo validate the student's response, the teacher gave a distinct nod and drew additional lines on the diagram, visually confirming the correctness of the answer. This action not only affirmed the student's understanding but also provided a clear visual reference for the class.\n\nFinally, the teacher connected the student's response back to the core lesson content by drawing an arrow from the student's correct answer to the main theorem discussed earlier. This visual linkage reinforced the integration of new knowledge with previously learned concepts, helping students actively construct their own understanding and move beyond passive reception of information.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Greek Letters for Planes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[484.2 -> 496.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Plane Representation Methods",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[495.0 -> 504.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Symbolic Language Use",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[505.0 -> 515.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Points Define Line",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[517.0 -> 530.0]"
+      },
+      {
+        "id": "c5",
+        "label": "Three Points Define Plane",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[531.0 -> 550.0]"
+      },
+      {
+        "id": "c6",
+        "label": "Point and Plane Relationship",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[552.0 -> 570.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Line and Plane Relationship",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[572.0 -> 590.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Geometric Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing geometric figures on screen.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Student Participation",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "c10",
+        "label": "Teacher Invitation Gesture",
+        "type": "Visual",
+        "original_text": "Teacher makes a sweeping gesture towards class.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Plane representation methods include using Greek letters."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Three points defining a plane builds upon the concept of points defining a line."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Understanding points defining a plane helps in comprehending point and plane relationships."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Point and plane relationships lead to understanding line and plane relationships."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Geometric diagram visualizes plane representation methods."
+      },
+      {
+        "source": "c10",
+        "target": "c9",
+        "relation": "prompts_thinking",
+        "intent": "Teacher's gesture invites student participation and thinking."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Symbolic language use evolves from understanding point and plane relationships."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

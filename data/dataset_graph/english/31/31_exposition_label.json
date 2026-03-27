@@ -1,0 +1,198 @@
+{
+  "video_name": "31_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "english",
+  "teaching_goal": "Be able to identify keywords that express emotions in a text; improve the ability to analyze a character’s emotions from context.",
+  "transcript": "[362.86 -> 384.84] 我当然是不高兴了我刚刚在格仁历的课程中有问题了HOWDIDYOUGREATHOWDIDYOUFINDITBECAUSETHISATOPICSENTENCETOPICSENTENCERIGHTRIGHTSECONDPLACEAND ACTUALLYTHISPARTHETALKEDHETALKSABOUTTWOACTIVITIES。\n[386.28 -> 463.36] FIRSTISTHESCHOOLFOOTBALLTEAMANDTHESECONDISVOLUNTEERCLUBRIGHTYESGREAT所以你刚才读了第一次然后我希望你能够再次读三篇文章第二次来找出艾伦的情绪有什么关键词I won'tquitthankyouverymuchsoyousayconfusingbecausethefirstisacoursethesecondisactivitiesandinactivitiesheisunhappygreatbutwhatelseheonlysayunhappyactuallywecanfindhesayIhadtowriteandobviouslyyesIwasunhappywriteSoThisIsBirdThisIsEverThisIsGreat。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher writes \"The freshman challenge\" on the blackboard, aligning it with the title displayed on the screen. The screen shows a slide titled \"THE FRESHMAN CHALLENGE: Reading and Writing.\"\n- The teacher gestures towards the screen, which transitions to a slide titled \"Review and activate\" with the question \"What's the structure?\" highlighted in yellow.\n\n**Middle:**\n- The teacher points to the screen as two boxes appear: \"Induction\" and \"Comprehension,\" each with sub-points \"courses\" and \"activities.\" The teacher emphasizes these points with hand gestures.\n- The slide changes to \"Read the lines\" with a text excerpt about Adam's involvement in school activities. The teacher points to specific phrases, such as \"I found a way to use my talent\" and \"I can use the same talent.\"\n\n**End:**\n- The teacher writes \"confusing\" and \"unhappy\" on the blackboard, linking them to the text on the screen. The teacher gestures towards these words while discussing Adam's emotions.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the text excerpt on the screen, detailing Adam's experiences and emotions. The blackboard initially displays \"The freshman challenge\" and later includes the words \"confusing\" and \"unhappy.\"\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"confusing\" and \"unhappy\" on the blackboard while discussing Adam's emotions from the text.\n- **Modifications**: The teacher underlines or circles key phrases in the text excerpt on the screen, such as \"I found a way to use my talent.\"\n- **Deictic Gestures**: The teacher points to specific phrases in the text, like \"I can use the same talent,\" to highlight Adam's motivation.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the structure of the text, pointing to \"Induction\" and \"Comprehension\" on the screen.\n- The words \"confusing\" and \"unhappy\" on the blackboard are written in white chalk, contrasting with the green background for visibility.\n- The teacher zooms in on key phrases in the text excerpt, ensuring students focus on important details.",
+  "visual_narrative": "Initially, the bulletin board displayed the title \"The Freshman Challenge\" alongside a slide introducing the theme of reading and writing. The teacher began by writing \"The freshman challenge\" on the blackboard, establishing the lesson's focus. Then, the teacher gave a lecture, transitioning the slide to \"Review and activate,\" highlighting the question \"What's the structure?\" in yellow. The teacher constructed a visual framework by pointing to the screen as two boxes labeled \"Induction\" and \"Comprehension\" appeared, each containing sub-points \"courses\" and \"activities.\" The teacher derived further understanding by pointing to these elements, emphasizing their roles in the lesson structure.\n\nAs the lesson progressed, the slide changed to \"Read the lines,\" presenting a text excerpt about Adam's experiences. The teacher annotated key phrases, such as \"I found a way to use my talent,\" by tracing them on the screen. The teacher resolved deixis by pointing to specific sentences, like \"I can use the same talent,\" to illustrate Adam's motivation. Finally, the teacher went around the classroom, engaging students in a discussion about Adam's emotions. The teacher wrote \"confusing\" and \"unhappy\" on the blackboard, linking these emotions to the text. The teacher emphasized these points by underlining them, ensuring students connected the emotional context to Adam's narrative.\n\nThroughout the lesson, the teacher used visual highlighting strategies, such as circling key phrases and contrasting chalk colors, to reduce cognitive load. The dynamic interplay between the screen content and blackboard annotations helped students follow the lesson's progression, reinforcing the structure and emotional analysis of the text.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Keywords Emotion",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c2",
+        "label": "Character Emotion Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Induction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Comprehension",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Courses",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Activities",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Soccer Team",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[386.28 -> 463.36]"
+      },
+      {
+        "id": "c8",
+        "label": "Volunteer Club",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[386.28 -> 463.36]"
+      },
+      {
+        "id": "c9",
+        "label": "Confusing",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "c10",
+        "label": "Unhappy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[362.86 -> 463.36]"
+      },
+      {
+        "id": "v1",
+        "label": "Freshman Challenge Slide",
+        "type": "Visual",
+        "original_text": "The Freshman Challenge title slide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Review Activate Slide",
+        "type": "Visual",
+        "original_text": "Review and activate slide with 'What's the structure?' highlighted",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Induction Comprehension Slide",
+        "type": "Visual",
+        "original_text": "Slide with 'Induction' and 'Comprehension' boxes",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v4",
+        "label": "Read the Lines Slide",
+        "type": "Visual",
+        "original_text": "Slide with text about Adam's activities",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Emotional Analysis Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Keywords identified in text for emotional analysis."
+      },
+      {
+        "source": "c2",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Character emotion analysis based on confusing emotions."
+      },
+      {
+        "source": "c2",
+        "target": "c10",
+        "relation": "evolves_from",
+        "intent": "Character emotion analysis based on unhappy emotions."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Induction involves courses."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Comprehension involves activities."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Activities include the soccer team."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Activities include the volunteer club."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Transition from title slide to slide about structure."
+      },
+      {
+        "source": "v2",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "Slide change showing induction and comprehension structure."
+      },
+      {
+        "source": "v3",
+        "target": "v4",
+        "relation": "visualizes",
+        "intent": "Slide change to details about Adam's activities."
+      },
+      {
+        "source": "c9",
+        "target": "v4",
+        "relation": "emphasizes",
+        "intent": "Confusing emotion highlighted from text."
+      },
+      {
+        "source": "c10",
+        "target": "v4",
+        "relation": "emphasizes",
+        "intent": "Unhappy emotion highlighted from text."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Student engagement with emotional keywords."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

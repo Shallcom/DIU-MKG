@@ -1,0 +1,147 @@
+{
+  "video_name": "4_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the role of blackboard writing and prints in geography teaching; analyze the impact and integration of modern educational technology with traditional teaching tools; evaluate the value of blackboard illustrations and prints in contemporary geography classrooms.",
+  "transcript": "[0.0 -> 126.6] 并各位评委老师好我抽到的演讲题目是在现代教育盛行的今天对于版画版书展开教学设计的想法作为一名新手教师呀在地理教研会上王老师上了一节公开课他充分运用到了版书和版画对此呀教研组长大力表示没错这才是有地理味道的课码那么基于此呀这让我想到了在现代教育技术冲击的课堂下版书版画它仍然存在吗首先让我们先来看一看版书版画的在教学设计中的作用我认为本书版画作为这一节课的核心是必不可少的但是在现代教育技术的冲击下它甚至被冷落甚至被质疑它是否有存在的必要我认为黑猫白猫抓住猫不管是黑猫白猫抓住老鼠的就是好事了总理的这一句话让我想让我辩证地分析了现代教育技术它的作用可以收门丰富地理课堂通过三D技术以及各种三D数字模型可以给学生有更加充足的教学情景同时可以渗透课程标准中的充分运用地理教育技术这一课程理念。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide displayed on the screen at the beginning of the lesson. The text on the slide reads \"地球的公转\" (Earth's Revolution).\n\n#### 2. **The Title Event**\n- The exact title written on the screen is \"地球的公转\" (Earth's Revolution). The teacher stands in front of the screen, holding papers, and appears to be presenting the content without physically writing or underlining it.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the content on the screen. There are no specific gestures directed at particular elements on the screen or board.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the screen displaying the title \"地球的公转\" (Earth's Revolution).\n- The teacher holds papers and begins speaking, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture with the papers, maintaining focus on the title displayed on the screen.\n- No additional visual content or changes occur on the screen or board during this phase.\n\n**End:**\n- The teacher remains in front of the screen, continuing to present the introduction to the topic of Earth's revolution.\n- No new visual elements or gestures are introduced in this segment.\n\n### Summary\nThe introduction phase of the lesson centers around the title \"地球的公转\" (Earth's Revolution) displayed on the screen. The teacher uses papers to gesture and present the content, with no additional visual elements or learning objectives visible in this segment. The focus remains on the title throughout the introduction.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a screen displaying the title \"地球的公转\" (Earth's Revolution), serving as the initial visual hook. The teacher holds papers and uses them to gesture, likely emphasizing key points related to the topic. Throughout the introduction, the visual focus remains on the title slide, with no transitions to other content or visual aids. The teacher's actions are centered around presenting and possibly elaborating on the concept of Earth's revolution, using the static title as the primary visual anchor. This approach sets the stage for the main topic, grounding the students' attention on the fundamental concept before delving deeper into the subject matter. The introduction effectively links the new knowledge to the students' existing understanding by clearly presenting the topic title, preparing them for a structured exploration of Earth's revolution in subsequent parts of the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Earth's Revolution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c2",
+        "label": "Geography Classroom",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c3",
+        "label": "Blackboard Writing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c4",
+        "label": "Modern Educational Technology",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Blackboard Illustrations",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c6",
+        "label": "Visual Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c7",
+        "label": "3D Digital Models",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c8",
+        "label": "Teaching Design",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c9",
+        "label": "Educational Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "c10",
+        "label": "Student Engagement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 126.6]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Slide: Earth's Revolution",
+        "type": "Visual",
+        "original_text": "Title slide displaying 'Earth's Revolution'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "includes",
+        "intent": "The concept of Earth's Revolution is visually represented by the title slide."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Blackboard illustrations are a form of blackboard writing used in teaching."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The use of blackboard writing is a traditional method in geography classrooms."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Modern educational technology evolves from traditional teaching tools in geography classrooms."
+      },
+      {
+        "source": "c4",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Modern educational technology includes 3D digital models."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "Teaching design evolves from understanding the educational impact."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Educational impact builds upon student engagement."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "visualizes",
+        "intent": "The title slide visualizes the concept, keeping students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

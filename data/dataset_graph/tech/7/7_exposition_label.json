@@ -1,0 +1,163 @@
+{
+  "video_name": "7_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Master the concept of resistance and its physical significance.",
+  "transcript": "[232.8 -> 384.8] 为了更好地探究我们将刚刚所用到的铜丝和镍铬合金丝单独拿出来进行试验现在老师将铜丝和镍铬合金丝分别接入到电路中请同学们告诉老师哪一组的灯泡更亮呢是铜丝还是镁铬合金丝铜丝非常好那么灯泡的亮暗与哪个物理量有关呢请大家仔细思考是电流还是电压呢老师听到有同学回答是电流是电流那是不是说明灯铜丝所连入的电路中电流是更大的呢那下面我们将实验进行改进将电流表接入到我们上述的电路中再次进行实验好请同学们仔细观察电流表的式数是铜丝的电流更大还是镍铬合金丝的那一组呢铜丝回答得非常好这就印证了我们的猜想铜丝所接入的电路电流是更大的从铜丝再联入到镍铬合金丝我们发现电流表的势数变小灯泡变暗这是不是说明电流在电路中受到了某一种阻碍的作用呢其实铜丝和镍铬合金丝虽然都是导体但导体对电流也都会产生阻碍作用那铜丝的电流较大就说明它的阻碍作用较小镍铬合金丝的电流较小说明阻碍作用更大非常好为了描述这种阻碍作用我们引入了一个物理概念叫做电阻电阻的物理意义就是表示导体对电流阻碍作用的大小也就是说电阻越大阻碍作用越大电阻越小阻碍作用越小。",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a circuit diagram.\n- The screen shows a circuit with a battery and a light bulb, accompanied by Chinese text asking which physical quantity affects the brightness of the bulb.\n- The teacher gestures towards the screen, emphasizing the question about the bulb's brightness.\n\n**Middle:**\n- The teacher points to the battery in the circuit diagram, explaining its role.\n- The screen updates to show two circuits: one with a large battery and one with a small battery, each connected to a light bulb.\n- The teacher uses hand gestures to compare the two circuits, highlighting the difference in battery size and its effect on the bulb's brightness.\n\n**End:**\n- The teacher writes on the chalkboard, adding the term \"电阻\" (resistance) and explaining its significance.\n- The screen transitions to a slide defining resistance, with text explaining its relationship to current and voltage.\n- The teacher points to the definition on the screen, reinforcing the concept of resistance.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the circuit diagram displayed on the digital screen, featuring a battery and a light bulb.\n- The initial state includes two circuits: one with a large battery and one with a small battery, each connected to a light bulb, with annotations in Chinese.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"电阻\" (resistance) on the chalkboard while explaining its role in the circuit.\n- **Modifications**: The screen updates to include annotations about the effect of battery size on bulb brightness.\n- **Deictic Gestures**: The teacher points to the battery in the circuit diagram, emphasizing its role in determining the bulb's brightness.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses red text on the screen to highlight key points, such as the effect of battery size on the bulb.\n- The teacher circles the battery in the diagram to draw attention to its importance in the circuit's function.\n\nThis structured visual evolution helps students connect the abstract concept of resistance with its practical implications in a circuit, using both static diagrams and dynamic explanations.",
+  "visual_narrative": "Initially, the digital screen displayed a circuit diagram featuring a battery and a light bulb, accompanied by Chinese text questioning the physical quantity affecting the bulb's brightness. The teacher began by pointing to the battery, emphasizing its role in the circuit. Then, the teacher constructed two comparative circuits on the screen: one with a large battery and one with a small battery, each connected to a light bulb. The teacher derived the concept by explaining how the battery size influences the bulb's brightness, using hand gestures to trace the connections and highlight differences. Annotated text appeared on the screen, detailing the effect of battery size. Finally, the teacher wrote \"电阻\" (resistance) on the chalkboard, linking it to the circuit's function. The screen transitioned to a definition of resistance, with the teacher pointing to key phrases to reinforce understanding. Visual emphasis was achieved by circling the battery and using red text to highlight critical points, aligning with the conclusion about resistance. This structured visual approach reduced cognitive load by providing clear, step-by-step visual cues alongside verbal explanations.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Resistance",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c2",
+        "label": "Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c3",
+        "label": "Voltage",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c4",
+        "label": "Copper Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c5",
+        "label": "Nichrome Wire",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Light Bulb Brightness",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c7",
+        "label": "Conductor",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[232.8 -> 384.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Battery Size",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[Beginning -> End]"
+      },
+      {
+        "id": "v1",
+        "label": "Circuit Diagram with Battery and Bulb",
+        "type": "Visual",
+        "original_text": "The digital screen shows a circuit with a battery and light bulb.",
+        "ocr_corrected": true,
+        "timestamp": "[Beginning]"
+      },
+      {
+        "id": "v2",
+        "label": "Two Circuits with Different Batteries",
+        "type": "Visual",
+        "original_text": "Screen shows two circuits: one with a large battery, one with a small battery.",
+        "ocr_corrected": true,
+        "timestamp": "[Middle]"
+      },
+      {
+        "id": "v3",
+        "label": "Resistance Definition Slide",
+        "type": "Visual",
+        "original_text": "Screen transitions to a slide defining resistance with text explanation.",
+        "ocr_corrected": true,
+        "timestamp": "[End]"
+      },
+      {
+        "id": "s1",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering",
+        "timestamp": "[232.8 -> 384.8]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v3",
+        "relation": "visualizes",
+        "intent": "The slide visually reinforces the definition and understanding of resistance."
+      },
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Understanding resistance involves the principles of current."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Understanding resistance involves the principles of voltage."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Copper wire affects the brightness through its resistance properties."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Nichrome wire affects the brightness through its resistance properties."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Copper wire is an example of a conductor."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Nichrome wire is an example of a conductor."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "influences",
+        "intent": "Battery size influences the brightness of the light bulb."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "evolves_from",
+        "intent": "The visual transition from one battery to two demonstrates differences in effect."
+      },
+      {
+        "source": "v2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "The comparison of the circuits prompts students to answer about effects on brightness."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

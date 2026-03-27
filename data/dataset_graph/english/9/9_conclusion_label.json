@@ -1,0 +1,139 @@
+{
+  "video_name": "9_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Review English vocabulary related to natural disasters; understand the causes of earthquakes and preventive measures; apply the learned knowledge to describe self‑protection methods.",
+  "transcript": "[577.051475251 -> 769.38] 我们学到了一些关于自然灾害的东西吧那么我们来到项目的项目吧给大家介绍一下自然灾害的课题吧首先我们来做一个心理计划吧您可以看到这里有些自然灾害的课题了您可以选择一个课题来回答这些问题吧明白自然灾害的课题准备自然灾害的课题吧是的OKboysandgirlsIknowitsalittledifficultbutjusttellmewhatyouhaveknownisOKOKIwouldliketoshareyourideas请问您选择哪个地震吗好地震那您知道地震有什么关系吗您可以选择一个问题原因或因素如何保护自己当地震不发生好的我们在第二层了我们可以跳下来吗绝对不可以那太困难了有什么意见吗关于地震有什么意见吗任何事情都没问题的例如我们可以准备什么。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital slide on the screen titled \"Project: Give a presentation on natural disasters.\"\n   - The slide includes a list of questions related to natural disasters, such as:\n     - \"What causes the disaster?\"\n     - \"What can be done to prevent it?\"\n     - \"What are the possible effects of the disaster?\"\n     - \"What can be done to prepare for it?\"\n     - \"What can you do to stay safe during the disaster?\"\n     - \"What kind of help can disaster victims need?\"\n   - The slide also features images of natural disasters, such as a hurricane and a volcanic eruption.\n\n2. **Key Knowledge Items (Content View)**:\n   - Keywords and headings visible on the slide:\n     - \"Project: Give a presentation on natural disasters\"\n     - \"What causes the disaster?\"\n     - \"What can be done to prevent it?\"\n     - \"What are the possible effects of the disaster?\"\n     - \"What can be done to prepare for it?\"\n     - \"What can you do to stay safe during the disaster?\"\n     - \"What kind of help can disaster victims need?\"\n   - The blackboard contains the following written content:\n     - \"Natural Disasters\"\n     - \"Step 1: review vocabulary\"\n     - \"Step 2: practice relative pronouns\"\n     - \"Step 3: project\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the digital slide, emphasizing the questions listed.\n   - The teacher gestures towards the blackboard, highlighting the steps written:\n     - Points to \"Step 1: review vocabulary\"\n     - Points to \"Step 2: practice relative pronouns\"\n     - Points to \"Step 3: project\"\n   - The teacher uses hand movements to underline the importance of each step and question, ensuring students focus on the key elements.\n\n4. **Transition to Next Step**:\n   - The teacher directs attention to the slide, which includes instructions for further research:\n     - \"Use the Internet or school library to find out more.\"\n   - This indicates the next steps for students, involving research and preparation for their presentations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide titled \"Project: Give a presentation on natural disasters,\" featuring a list of guiding questions and images of natural disasters. The teacher points to each question in sequence, ensuring students focus on the key elements: causes, prevention, effects, preparation, safety measures, and victim aid. She emphasizes the importance of each point by gesturing towards the relevant text. The blackboard displays the lesson steps, and the teacher highlights \"Step 3: project,\" reinforcing the main takeaway. The slide also includes instructions for further research, indicating the next steps for students.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Natural Disasters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Causes of Earthquakes",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Prevention Measures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Effects of Disasters",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Preparation for Disasters",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Self-Protection Methods",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "c7",
+        "label": "Disaster Victim Aid",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[577.05 -> 769.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Project Presentation Slide",
+        "type": "Visual",
+        "original_text": "Digital slide titled 'Project: Give a presentation on natural disasters' with guiding questions and images.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Steps",
+        "type": "Visual",
+        "original_text": "Blackboard contains 'Step 1: review vocabulary', 'Step 2: practice relative pronouns', 'Step 3: project'",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Reflection",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Relates the general concept of natural disasters to specific causes of earthquakes."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Describes the prevention measures within the context of natural disasters."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Explains possible effects related to different natural disasters."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Focuses on preparation strategies for handling natural disasters."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Discusses self-protection methods to stay safe during disasters."
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Covers types of aid needed by victims of disasters."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the summary of key topics covered in the lesson."
+      },
+      {
+        "source": "v2",
+        "target": "c5",
+        "relation": "scaffolds",
+        "intent": "The blackboard provides a step-by-step guide for vocabulary review and project preparations."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged in reflecting on the concept of natural disasters."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

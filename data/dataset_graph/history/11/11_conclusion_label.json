@@ -1,0 +1,191 @@
+{
+  "video_name": "11_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "history",
+  "teaching_goal": "Understand the core ideas of “Chongde Shangxian”; analyze how the principle of selecting the virtuous and capable is manifested in traditional culture.",
+  "transcript": "[667.893833 -> 725.62] 你看材料当中给讲到了什么呀选贤与能讲信修悟有没有想到呢大家可以看到这种贤说不定他这一则材料体现的是一个崇德上贤的思想选贤与能就是说什么意思呀我们要选择一些贤能的人那么这就体现的是一种崇德上贤的思想我们今天一共学习了中华优秀传统文化的内涵当中的中华优秀传统文化的中华优�民本思想什么爱国思想和崇德上贤的思想但是同学们肯定疑惑了诶中华优秀传统和内涵不止于此那么还有什么呢请同学们下去自行进行探究下节课我们再来一起探索一下好下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is a slide projected on the screen. The slide has a yellow header with Chinese text, and the main content is in black text with a red highlighted section.\n   - The layout includes a question at the top, a quote in the middle, and a red highlighted phrase at the bottom.\n\n2. **Key Knowledge Items (Content View)**:\n   - Header: \"中华优秀文化的内涵\" (The Connotation of Excellent Chinese Culture)\n   - Question: \"同学们，以材料具体分析有什么意思？\" (Students, what does the material specifically analyze?)\n   - Quote: \"大道之行也，天下为公，选贤与能，讲信修睦。\" —《礼记》 (When the Great Way was being practiced, the world was held in common. Men chose the able and virtuous, and practiced good faith and concord. — *The Book of Rites*)\n   - Highlighted phrase: \"崇德尚贤思想\" (Thought of Valuing Virtue and Talent)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the highlighted phrase \"崇德尚贤思想\" to emphasize its importance.\n   - The teacher points to the quote from *The Book of Rites* to connect it with the highlighted phrase.\n   - The teacher uses hand movements to indicate the flow from the question to the quote and then to the highlighted phrase, reinforcing the connection between them.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework, further reading, or the next lesson on the slide or board in this segment. The focus remains on summarizing the key points discussed.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide prominently displaying key cultural concepts. The slide features a yellow header and a structured layout, with a question at the top, a central quote from *The Book of Rites*, and a red-highlighted phrase at the bottom. The teacher visually reviews the content by gesturing towards the highlighted phrase \"崇德尚贤思想,\" emphasizing its significance. She points to the quote, linking it to the highlighted concept, and uses deliberate hand movements to guide the students' attention from the question to the quote and finally to the core takeaway. The teacher's gestures reinforce the connection between the textual elements, ensuring the key idea of valuing virtue and talent is clearly marked as the central takeaway. No visual elements indicate homework or next steps in this segment, keeping the focus on the summarized content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Valuing Virtue and Talent",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c2",
+        "label": "The Great Way",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c3",
+        "label": "World Held in Common",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c4",
+        "label": "Choosing the Able and Virtuous",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c5",
+        "label": "Good Faith and Concord",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c6",
+        "label": "Excellent Chinese Culture",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c7",
+        "label": "Traditional Cultural Values",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c8",
+        "label": "Moral Excellence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c9",
+        "label": "Patriotism",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "c10",
+        "label": "Student Exploration",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[667.89 -> 725.62]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide with Key Concepts",
+        "type": "Visual",
+        "original_text": "Slide with yellow header, question, quote, and highlighted phrase.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Highlighted Phrase",
+        "type": "Visual",
+        "original_text": "Highlighted phrase: 'Valuing Virtue and Talent'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Quote from The Book of Rites",
+        "type": "Visual",
+        "original_text": "Quote: 'When the Great Way was being practiced, the world was held in common. Men chose the able and virtuous, and practiced good faith and concord.'",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The principle of valuing virtue and talent is exemplified by choosing the able and virtuous."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Valuing virtue and talent includes the idea of moral excellence."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Valuing virtue and talent includes the idea of patriotism."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The Great Way is described as a world held in common."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "The Great Way includes the practice of choosing the able and virtuous."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "The Great Way includes the practice of good faith and concord."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Excellent Chinese culture includes traditional cultural values."
+      },
+      {
+        "source": "c6",
+        "target": "c1",
+        "relation": "includes",
+        "intent": "Excellent Chinese culture includes the principle of valuing virtue and talent."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The slide visually represents the principle of valuing virtue and talent."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "The highlighted phrase emphasizes the principle of valuing virtue and talent."
+      },
+      {
+        "source": "v3",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The quote from The Book of Rites visualizes the concept of The Great Way."
+      },
+      {
+        "source": "v3",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The quote from The Book of Rites visualizes the concept of choosing the able and virtuous."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the principle of valuing virtue and talent."
+      },
+      {
+        "source": "c10",
+        "target": "c6",
+        "relation": "engages_with",
+        "intent": "Students are engaged with the concept of excellent Chinese culture."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

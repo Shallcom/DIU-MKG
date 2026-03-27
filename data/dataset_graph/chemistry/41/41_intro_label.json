@@ -1,0 +1,131 @@
+{
+  "video_name": "41_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "chemistry",
+  "teaching_goal": "Master laboratory safety procedures; understand the relationship between observed chemical phenomena and the underlying nature of reactions; improve innovative experimental design and reflective abilities.",
+  "transcript": "[0.0 -> 57.04] 学生看到有大量的黄绿色气体并捂住口鼻然后此时张老师立刻停止实验对此我怎么看首先我将从教师和学生的角度进行讲演首先从教师的角度教师为考虑学生的安全和现象不明显的。\n[60.0 -> 103.38] 更明显的情况此时教师应该提前熟读课标并确定教学内容把握教学目标创新实验装置创新技能利于学生观察实验还能在密闭环境下操作的装置或者运用虚拟仿真实验来进行滤气的制备实验并且在课后要及时进行反思和总结第二个是学生方面对于学生的起哄在私下应该和学生及时沟通并且要加强班级的管理好我的即兴演讲到此结束请各位评委老师批评指正接下来是我的模拟生活环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a slide displayed on the screen. The slide contains text in Chinese, which appears to be the title and introduction to the lesson. The exact text is:\n  ```\n  第二节 电解池\n  第三课时：简单的电解实验\n  ```\n  This translates to \"Section 2: Electrolytic Cell, Lesson 3: Simple Electrolysis Experiment.\"\n\n#### 2. **The Title Event**\n- The title on the screen is prominently displayed in large font. The teacher does not physically write it but stands in front of the screen, ensuring the title is visible to the students. The title is not underlined or highlighted further by the teacher during this segment.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or blackboard during this introduction phase. The focus is on the title and the teacher's presence.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, likely emphasizing points related to the introduction.\n- The teacher uses hand movements to engage with the audience, possibly indicating the importance of the topic displayed on the screen.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The classroom setup includes a green chalkboard and a digital screen displaying the lesson title.\n- The teacher enters the frame, holding papers, and stands in front of the screen.\n- The screen displays:\n  ```\n  第二节 电解池\n  第三课时：简单的电解实验\n  ```\n- The teacher gestures with the papers, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to stand in front of the screen, maintaining eye contact with the students.\n- No additional content is added to the screen or blackboard during this phase.\n- The teacher's gestures remain focused on engaging the class, possibly explaining the significance of the electrolysis experiment.\n\n**End:**\n- The teacher maintains a position in front of the screen, reinforcing the lesson's focus on the electrolytic cell and the upcoming experiment.\n- No new visual elements are introduced, keeping the emphasis on the initial title and the teacher's verbal introduction.\n\n### Summary\nThe introduction phase centers on the digital screen displaying the lesson title about electrolytic cells and simple electrolysis experiments. The teacher uses papers and hand gestures to engage the class, ensuring the topic is clearly introduced without additional visual aids or objectives listed. The focus remains on the title and the teacher's presence to set the stage for the lesson.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of a digital screen displaying the title \"第二节 电解池, 第三课时：简单的电解实验.\" This serves as the hook, immediately focusing the students' attention on the topic of electrolytic cells and simple electrolysis experiments. The teacher, holding papers, engages the class through deliberate gestures, likely emphasizing the importance of the upcoming content. The scene remains consistent as the teacher maintains a position in front of the screen, ensuring the title remains the central visual element. There is no transition to additional slides or blackboard content, keeping the focus solely on the introduction of the electrolysis experiment. The teacher's gestures and presence create a bridge, connecting the students' existing knowledge of basic chemistry concepts to the new topic of electrolytic cells. This visual setup primes the students for a deeper exploration of electrolysis, setting a clear foundation for the subsequent lesson activities.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electrolytic Cell",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 57.04]"
+      },
+      {
+        "id": "c2",
+        "label": "Simple Electrolysis Experiment",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 57.04]"
+      },
+      {
+        "id": "c3",
+        "label": "Laboratory Safety Procedures",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[60.0 -> 103.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Chemical Phenomena",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 103.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Innovative Experimental Design",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 103.38]"
+      },
+      {
+        "id": "c6",
+        "label": "Reflective Abilities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[60.0 -> 103.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Lesson Title Screen",
+        "type": "Visual",
+        "original_text": "Section 2: Electrolytic Cell, Lesson 3: Simple Electrolysis Experiment",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Observation of Gas",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Safety Response",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s3",
+        "label": "Student-Teacher Communication",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The lesson title on the screen visualizes the concept of the electrolytic cell."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The lesson title on the screen visualizes the concept of a simple electrolysis experiment."
+      },
+      {
+        "source": "c3",
+        "target": "s2",
+        "relation": "prompts_thinking",
+        "intent": "Students are prompted to consider laboratory safety procedures when observing gas."
+      },
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Understanding chemical phenomena evolves from studying electrolytic cells."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Innovative experimental design evolves from conducting simple electrolysis experiments."
+      },
+      {
+        "source": "c6",
+        "target": "s3",
+        "relation": "guides_discussion",
+        "intent": "Reflective abilities are developed through student-teacher communication."
+      },
+      {
+        "source": "s1",
+        "target": "c3",
+        "relation": "relates_to",
+        "intent": "Student observation of gas relates to understanding laboratory safety procedures."
+      },
+      {
+        "source": "s2",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Student safety responses contribute to evolving their reflective abilities."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

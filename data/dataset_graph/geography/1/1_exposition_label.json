@@ -1,0 +1,184 @@
+{
+  "video_name": "1_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "geography",
+  "teaching_goal": "Understand the causes of the El Niño phenomenon and its impact on global climate; master the distribution of Pacific ocean currents and atmospheric conditions under normal circumstances; analyze the oceanic and atmospheric changes that occur during the anomalous El Niño situation.",
+  "transcript": "[243.08 -> 263.72] 既然说到厄尔尼诺它是跟原来的情况是不一样的它是一个反常情况那么我们先来回顾一下它在正常情况下太平洋东岸还是一种反常的情况洋流性质和大气状况以及西岸我们用图示请同学们和老师一起来把它画出来。\n[273.92 -> 405.08] 这边是太平洋的西岸这边是东岸你看老师现在画的是一个底下羊底部地的一个状况那么在我们前面所学习的知识当中我们先从风来看学洋流的时候学到了什么洋流有风海流密度流补偿流但是引起海水大规模运动的是什么流风海流好我们现在看在赤道在赤道附近我们知道它在我们学气压带风带的情况下中间是赤道地再往高三大概三十度或者往低大概三十度它是负热带高气压带那么风从高压往低压吹北半球吹的是东北信风南半球吹的是东南信风那么信风它无论是北半球还是南半球它吹的都是偏东风所以说这里就引起了海面的洋流是一个什么什么方向从东向西非常好从东向西那么海水表面的洋流从东到西了那西东边是不是就海水就少了引起了底层海水的上升但是我们所学到底层海水跟表层海水的温度是存在差异底层海水温度上所以在这里就形成了一个上升流的一个寒流性质非常好。\n[412.58 -> 417.42] 那么东边的话我们知道在赤道有什么洋流。\n[420.96 -> 430.02] 赤道是东太平洋方面是什么性质的洋流暖流。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with text in Chinese. The slide is titled \"压强与天气变化一般规律\" (General Rules of Pressure and Weather Changes).\n- The slide lists two main points:\n  1. **天气学原理**: 海水温度、海洋性气候、大气环流 (Meteorological Principles: Sea water temperature, marine climate, atmospheric circulation)\n  2. **天气学分析**: 海水温度、海洋性气候、大气环流 (Meteorological Analysis: Sea water temperature, marine climate, atmospheric circulation)\n- A diagram of a rectangular box is visible on the right side of the screen.\n\n**Middle:**\n- The teacher gestures towards the text on the slide, emphasizing the points listed.\n- The teacher uses hand movements to indicate the connection between the two points, possibly explaining the relationship between meteorological principles and analysis.\n- The teacher occasionally points to the diagram, likely explaining its relevance to the topic.\n\n**End:**\n- The teacher moves closer to the screen, possibly to highlight specific parts of the text or diagram.\n- The teacher uses hand gestures to summarize the key points discussed.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n**The Core Artifact (Static):**\n- The main visual anchor is the slide with the title \"压强与天气变化一般规律\" and the two main points listed.\n- The diagram on the right side of the screen is a simple rectangular box, possibly representing a conceptual model or system related to the topic.\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher does not add any new content to the slide during the video.\n- **Modifications**: No erasures or modifications are made to the slide content.\n- **Deictic Gestures**: The teacher points to the text and the diagram, indicating specific parts while explaining. For example, the teacher points to the first point to discuss meteorological principles and then to the diagram to relate it to the discussion.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses hand gestures to emphasize the text and the diagram.\n- The teacher's movements and pointing serve as visual cues to highlight important concepts, such as the connection between sea water temperature and atmospheric circulation.\n\nThis structured visual analysis captures the teacher's actions and their linkage to the content displayed, providing a clear understanding of the instructional flow.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a slide titled \"压强与天气变化一般规律\" (General Rules of Pressure and Weather Changes), featuring two main points: \"天气学原理\" (Meteorological Principles) and \"天气学分析\" (Meteorological Analysis), each listing sea water temperature, marine climate, and atmospheric circulation. A simple rectangular diagram was positioned on the right side of the screen, serving as a conceptual model.\n\nThen, the teacher began the lecture by gesturing towards the first point, \"天气学原理,\" to discuss meteorological principles. The teacher's hand movements traced the text, emphasizing the interconnectedness of sea water temperature and marine climate. The teacher then pointed to the diagram, constructing a visual link between the principles and the conceptual model, possibly illustrating how these factors influence atmospheric circulation.\n\nAs the lecture progressed, the teacher shifted focus to the second point, \"天气学分析,\" using similar gestures to highlight the analytical aspects of the same factors. The teacher's pointing to the diagram continued, deriving a deeper understanding by relating the analysis to the visual model.\n\nFinally, the teacher moved closer to the screen, summarizing the key points. The teacher's gestures circled back to the initial text, reinforcing the core concepts. The rectangular diagram remained a central visual anchor, with the teacher's movements ensuring that students connected the textual information to the conceptual representation.\n\nThroughout the lecture, the teacher's strategic use of gestures and the static visual elements on the slide worked in tandem to reduce cognitive load. By consistently linking the text to the diagram, the teacher provided a cohesive narrative, allowing students to grasp the complex relationships between meteorological principles and analysis efficiently.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "El Niño Causes",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[243.08 -> 263.72]"
+      },
+      {
+        "id": "c2",
+        "label": "Pacific Ocean Currents",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[273.92 -> 405.08]"
+      },
+      {
+        "id": "c3",
+        "label": "Atmospheric Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[273.92 -> 405.08]"
+      },
+      {
+        "id": "c4",
+        "label": "Normal Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[243.08 -> 263.72]"
+      },
+      {
+        "id": "c5",
+        "label": "Anomalous El Niño",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[243.08 -> 263.72]"
+      },
+      {
+        "id": "c6",
+        "label": "Meteorological Principles",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[273.92 -> 405.08]"
+      },
+      {
+        "id": "c7",
+        "label": "Meteorological Analysis",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[273.92 -> 405.08]"
+      },
+      {
+        "id": "c8",
+        "label": "North Equatorial Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[273.92 -> 405.08]"
+      },
+      {
+        "id": "c9",
+        "label": "East Pacific Warm Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[420.96 -> 430.02]"
+      },
+      {
+        "id": "c10",
+        "label": "Upwelling Cold Current",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[273.92 -> 405.08]"
+      },
+      {
+        "id": "v1",
+        "label": "Pressure and Weather Changes Slide",
+        "type": "Visual",
+        "original_text": "General Rules of Pressure and Weather Changes slide with Meteorological Principles and Analysis.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Rectangular Diagram",
+        "type": "Visual",
+        "original_text": "Simple rectangular diagram representing a conceptual model.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Explains how El Niño causes differ from normal atmospheric and oceanic conditions."
+      },
+      {
+        "source": "c5",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Anomalous El Niño includes irregularity in Pacific Ocean currents."
+      },
+      {
+        "source": "c5",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Anomalous El Niño includes changes in atmospheric conditions."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Normal conditions include usual patterns of Pacific Ocean currents."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Normal conditions include standard atmospheric conditions."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Meteorological analysis builds upon meteorological principles."
+      },
+      {
+        "source": "v1",
+        "target": "c6",
+        "relation": "summarizes",
+        "intent": "The slide provides a summary of the meteorological principles."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "summarizes",
+        "intent": "The slide provides a summary of meteorological analysis."
+      },
+      {
+        "source": "v2",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The rectangular diagram visualizes the North Equatorial Current."
+      },
+      {
+        "source": "c8",
+        "target": "c9",
+        "relation": "evolves_from",
+        "intent": "The North Equatorial Current in normal conditions leads to the formation of an East Pacific warm current."
+      },
+      {
+        "source": "c10",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Upwelling cold current is part of the study of Pacific Ocean currents."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "Atmospheric conditions analysis evolves from meteorological principles."
+      },
+      {
+        "source": "c5",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "The slide supports understanding of anomalous El Niño conditions."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

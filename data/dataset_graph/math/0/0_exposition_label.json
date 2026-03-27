@@ -1,0 +1,135 @@
+{
+  "video_name": "0_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "math",
+  "teaching_goal": "Understand the definition and characteristics of arithmetic sequences; master the method for determining whether a sequence is arithmetic; be able to identify and analyze arithmetic sequences from real‑life examples.",
+  "transcript": "[175.0 -> 243.84] 好同学们我们开始上课那么在之前的学习中啊我们认识了函数有哪位同学能够来回忆一下什么是函数吗这位同学你能来说一说吗对于AB两个数集如果在对于A中的每一个数在结合B中都有一个唯一确定的数集它对应那么这就成为一个函数这是讲的非常扎实那么在上一节课中我们学习了数列数列是函数吗这位同学你们告诉我吗是的数列是一种特殊的函数那么在函数中我们可以根据它的一些特征分为什么一次函数二次函数那我们在数列中能不能根据一些母学的规律进行分类分类出一些具有特殊规律的数列呢带着这样的问题这节课我们就一起来研究等差数列的概念。\n[265.0 -> 300.28] 首先我们都知道数学啊它是来自于生活了就来看这样一个生活前景在北京天台原邱坛上它的地面就是由石板铺成的最中间是圆形的天心石围绕着天心石是九圈的扇环形的石板从内到外它各圈的石板树依次是这样一组树垫现在请同学们仔细地观察这组数列有没有什么特征呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands at the podium, facing a digital screen displaying a slide with Chinese text. The slide contains two bullet points, likely introducing a lesson topic.\n- The teacher gestures towards the screen, indicating the content being discussed. The screen is blanked momentarily, suggesting a transition or emphasis on verbal instruction.\n\n**Middle:**\n- The teacher writes on the green chalkboard, starting with the numbers \"3, 4, 2, 1\" followed by Chinese text, which appears to be a title or concept related to arithmetic sequences.\n- The teacher turns to the digital screen, which now displays a slide titled \"记忆特征，形成概念\" (Memory Characteristics, Form Concepts). The slide includes a description of a real-world example involving stones arranged in a pattern.\n- The teacher points to the text on the slide, emphasizing the sequence of numbers \"3, 4, 2, 1, 5, 6, 7, 8, 9\" listed as an example.\n\n**End:**\n- The teacher continues to reference the slide, using hand gestures to highlight the sequence and its relation to the concept being taught.\n- The teacher's gestures and pointing direct attention to specific parts of the text, reinforcing the connection between the visual example and the lesson's objective.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital slide titled \"记忆特征，形成概念\" (Memory Characteristics, Form Concepts). It includes a descriptive text about a stone arrangement and a sequence of numbers: $3, 4, 2, 1, 5, 6, 7, 8, 9$.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"3, 4, 2, 1\" on the chalkboard, followed by Chinese text that likely defines or explains arithmetic sequences.\n   - **Modifications**: No erasures are observed; the focus is on adding information to the board and screen.\n   - **Deictic Gestures**: The teacher points to the sequence of numbers on the slide, specifically highlighting \"3, 4, 2, 1\" and the subsequent numbers, while explaining their relevance to the concept.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to underline the sequence on the slide, drawing attention to the pattern and its significance.\n   - The written text on the chalkboard serves as a static reference, while the dynamic pointing on the slide emphasizes key elements of the lesson.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, facilitating a detailed understanding of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a slide titled \"记忆特征，形成概念\" (Memory Characteristics, Form Concepts), featuring a sequence of numbers $3, 4, 2, 1, 5, 6, 7, 8, 9$ and a descriptive text about a stone arrangement. The teacher began by writing \"3, 4, 2, 1\" on the chalkboard, constructing a foundation for the concept of arithmetic sequences. As the lecture progressed, the teacher derived the concept by pointing to the sequence on the slide, tracing the numbers to illustrate the pattern's significance. The teacher annotated the board with additional Chinese text, explaining the sequence's properties. Throughout, the teacher resolved deixis by specifically highlighting the numbers \"3, 4, 2, 1\" and their continuation, emphasizing their role in forming the concept. To reduce cognitive load, the teacher used the digital slide as a static reference while actively engaging with the chalkboard, creating a dynamic interplay between visual elements. Finally, the teacher circled key elements on the board, reinforcing the lesson's conclusion and ensuring students visually connected the sequence to the broader concept of arithmetic patterns.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Definition of Function",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[175.0 -> 243.84]"
+      },
+      {
+        "id": "c2",
+        "label": "Arithmetic Sequence",
+        "type": "Concept",
+        "knowledge_type": "Concept",
+        "timestamp": "[265.0 -> 300.28]"
+      },
+      {
+        "id": "c3",
+        "label": "Function Characteristics",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[175.0 -> 243.84]"
+      },
+      {
+        "id": "c4",
+        "label": "Special Functions",
+        "type": "Concept",
+        "knowledge_type": "Concept",
+        "timestamp": "[175.0 -> 243.84]"
+      },
+      {
+        "id": "c5",
+        "label": "Example: Stone Arrangement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[265.0 -> 300.28]"
+      },
+      {
+        "id": "c6",
+        "label": "Number Sequence 3,4,2,1,5,6,7,8,9",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[265.0 -> 300.28]"
+      },
+      {
+        "id": "v1",
+        "label": "Memory Characteristics Slide",
+        "type": "Visual",
+        "original_text": "Slide with title 'Memory Characteristics, Form Concepts' and a descriptive text about stone arrangement.",
+        "ocr_corrected": true,
+        "timestamp": "[265.0 -> 300.28]"
+      },
+      {
+        "id": "v2",
+        "label": "Chalkboard Numbers 3, 4, 2, 1",
+        "type": "Visual",
+        "original_text": "Chalkboard with numbers '3, 4, 2, 1' written by teacher.",
+        "ocr_corrected": true,
+        "timestamp": "[265.0 -> 300.28]"
+      },
+      {
+        "id": "ss1",
+        "label": "Student Observing",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[265.0 -> 300.28]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Describes the characteristics that define a function."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Special functions are specific types of functions that are characterized by their features."
+      },
+      {
+        "source": "c4",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Arithmetic sequence is a special type of function."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "evolves_from",
+        "intent": "The stone arrangement serves as a real-world example of the number sequence."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "The number sequence is an example of arithmetic sequences."
+      },
+      {
+        "source": "v1",
+        "target": "c5",
+        "relation": "visualizes",
+        "intent": "The slide on screen represents the example of stone arrangement."
+      },
+      {
+        "source": "v2",
+        "target": "c6",
+        "relation": "visualizes",
+        "intent": "The numbers written on the chalkboard relate to the sequence being explored."
+      },
+      {
+        "source": "c2",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The arithmetic sequence concept encourages student engagement."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "emphasizes",
+        "intent": "The slide reinforces student focus on the concept being taught."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

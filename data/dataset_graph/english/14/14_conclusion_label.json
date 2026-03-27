@@ -1,0 +1,172 @@
+{
+  "video_name": "14_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Understand the topic words in English sentences and their functions; analyze the role of topic words in language expression; consolidate understanding of identifying and applying topic words.",
+  "transcript": "[685.66 -> 707.34] 我们这里有一个词词很明显的词词我们说是预料的词词而这个词词我们怎么认识的呢我们用它作为一个语言的主题。\n[709.38 -> 711.36] 而这个是实际的主题对吗。\n[715.6 -> 764.2] 那么这个的功能是什么呢我说我说我说她是美丽的东西对不对现在我把钱的功能放在这里我们说了很多东西好的谢谢您的光临。",
+  "visual_facts": "### Phase 4: Conclusion - Visual Knowledge Consolidation\n\n#### 1. Summary Artifact (Static View)\n- **Main Visual Carrier**: The blackboard serves as the primary summary artifact. It contains a structured breakdown of the lesson's key points.\n- **Overall Layout**: \n  - The blackboard is divided into sections with clear headings and bullet points.\n  - The left side features a diagram with arrows and labels, while the right side lists phrases and explanations.\n\n#### 2. Key Knowledge Items (Content View)\n- **Main Keywords and Phrases**:\n  - \"Unit 4\"\n  - \"I wish to shape well\"\n  - \"Verb + result\"\n  - \"Verb + result + reason\"\n  - \"Ingratitude turns my mind\"\n  - \"Prints its own\"\n  - \"Infinitive\" with functions listed:\n    - As a subject\n    - As an object\n    - As a subject complement\n    - As an attribute\n    - As an adverbial\n\n#### 3. Review Gestures (Dynamic View)\n- **Teacher's Movements**:\n  - **Pointing to Phrases**: The teacher points to \"I wish to shape well\" and underlines \"to shape well\" to emphasize the infinitive structure.\n  - **Tracing Arrows**: The teacher traces the arrows in the diagram, linking \"Verb + result\" and \"Verb + result + reason\" to illustrate sentence structure.\n  - **Highlighting Functions**: The teacher gestures towards the list of infinitive functions on the screen, pointing to each item in sequence.\n\n#### 4. Transition to Next Step\n- **Visual Indicators**:\n  - The screen displays a slide with the heading \"Infinitive\" and lists its functions, suggesting a review or transition to further study.\n  - No explicit homework or assignment details are visible, but the structured summary implies preparation for the next lesson's content.\n\nThis visual summary consolidates the lesson's focus on infinitive usage and sentence structure, with the teacher's gestures reinforcing key points for student retention.",
+  "visual_narrative": "The class ends with the blackboard prominently displaying a structured summary of the lesson's key points. The teacher visually reviews the content by pointing to the phrase \"I wish to shape well,\" emphasizing the underlined \"to shape well\" to highlight the infinitive structure. She traces the arrows in the diagram, connecting \"Verb + result\" and \"Verb + result + reason\" to illustrate sentence construction. The screen shows a slide listing the functions of the infinitive, and the teacher gestures to each function in sequence, reinforcing their roles. To mark the core takeaway, she underlines the phrase \"Ingratitude turns my mind\" on the board, drawing attention to its significance. While no explicit homework instructions are visible, the organized summary on the board and screen suggests readiness for the next lesson's content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Infinitive Usage",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[685.66 -> 707.34]"
+      },
+      {
+        "id": "c2",
+        "label": "Subject",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.38 -> 711.36]"
+      },
+      {
+        "id": "c3",
+        "label": "Subject Complement",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.38 -> 711.36]"
+      },
+      {
+        "id": "c4",
+        "label": "Object",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.38 -> 711.36]"
+      },
+      {
+        "id": "c5",
+        "label": "Attribute",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.38 -> 711.36]"
+      },
+      {
+        "id": "c6",
+        "label": "Adverbial",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[709.38 -> 711.36]"
+      },
+      {
+        "id": "c7",
+        "label": "Topic Words",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[685.66 -> 707.34]"
+      },
+      {
+        "id": "c8",
+        "label": "Sentence Construction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[715.6 -> 764.2]"
+      },
+      {
+        "id": "c9",
+        "label": "Ingratitude Phrase",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[715.6 -> 764.2]"
+      },
+      {
+        "id": "c10",
+        "label": "Visual Summary on Blackboard",
+        "type": "Visual",
+        "original_text": "Blackboard structured with key lesson points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c11",
+        "label": "Diagram with Arrows",
+        "type": "Visual",
+        "original_text": "Diagram illustrating sentence construction",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c12",
+        "label": "Infinitive Slide",
+        "type": "Visual",
+        "original_text": "Slide listing infinitive functions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Infinitive can function as a subject."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Infinitive can function as a subject complement."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Infinitive can function as an object."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Infinitive can function as an attribute."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Infinitive can function as an adverbial."
+      },
+      {
+        "source": "c7",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Topic words are essential for sentence construction."
+      },
+      {
+        "source": "c8",
+        "target": "c11",
+        "relation": "visualizes",
+        "intent": "The diagram illustrates sentence construction principles."
+      },
+      {
+        "source": "c9",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "The phrase 'Ingratitude turns my mind' is highlighted to underline its importance."
+      },
+      {
+        "source": "c1",
+        "target": "c12",
+        "relation": "visualizes",
+        "intent": "The slide summarizes functions of infinitives."
+      },
+      {
+        "source": "s1",
+        "target": "c7",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in considering the role of topic words."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in understanding infinitive usage."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

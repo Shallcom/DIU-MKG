@@ -1,0 +1,152 @@
+{
+  "video_name": "3_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "politics",
+  "teaching_goal": "Understand the basic concept of interest groups and their role in the modern political system; master the primary pathways through which interest groups achieve their objectives.",
+  "transcript": "[508.0675 -> 566.78] 这两位同学你来一下吧我觉得人民权利论不太对然后后两个都有就是每年的那个选举选择之类的然后另一几个作用的话他另一几个是向政府和社会提出诉求也可把手段施加压力影响公共的政策然后以这去判断自民法界的利益和负面承认好请坐这个同学他发表他的观点他说人民权利论不对他其实这样的看法确实是有一些偏僻我们可以去辩证地去看待这些观点他有积极的方面也有消极的方面那我们来先了解一下什么是利益集团所谓利益集团是指具有共同利益向政府或社会提出诉求或以合法手段施加压力借影响公共政策以争取其团体利益及其成员的利益的社会团体利益集团又称压力团体或倡议团体刚才在汉旧语我们也了解到了有一些是不是他们就是有体现到压力了呀是现代政治体系的重要组成部分第二次世界大战后在世界西方各国蓬勃兴起注意呀利益集团不同于政党他们不以取得政权或改变政权为目标而是在既有政治体制内进行完全合法的活动那以怎样的途径呢就是包括游说宣传助学集会游行司法诉讼的方式大家在书本上标注下来那进行了分一题一我们就要进行分一题二的讨论比国外与国内的区别起作用好谢谢各位老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the large screen on the right side of the classroom.\n   - The screen displays a slide with bullet points summarizing key points from the lesson.\n   - The layout is simple, with text in black on a white background, making it easy to read.\n\n2. **Key Knowledge Items (Content View)**:\n   - The slide contains the following main points:\n     - \"一、経営理念\"\n     - \"二、経営戦略\"\n     - \"三、事業内容\"\n     - \"まとめ: 以上が、ビジョンとミッション、経営戦略です。\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to each section on the screen as she summarizes the content.\n   - She gestures towards the bullet points, emphasizing each key area in turn.\n   - The teacher uses hand movements to underline the final conclusion statement, reinforcing the summary.\n\n4. **Transition to Next Step**:\n   - The screen briefly transitions to a slide with the text: \"次回は第二、ビジョンとミッション、経営戦略\", indicating the next lesson's focus.\n   - This text serves as a preview for the following class, linking current content to future topics.\n\nThe teacher's gestures and the structured layout of the summary slide effectively consolidate the lesson's key points, preparing students for the next session.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing four bullet points summarizing the key areas covered: \"経営理念,\" \"経営戦略,\" \"事業内容,\" and a concluding statement. The teacher points to each bullet in sequence, ensuring students visually follow the summary. She emphasizes the final conclusion by gesturing towards the text, reinforcing the core takeaway. The screen then transitions to preview the next lesson, displaying \"次回は第二、ビジョンとミッション、経営戦略,\" indicating the focus for the following session. This visual handover smoothly bridges the current lesson to the next topic, maintaining continuity.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Interest Groups",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Pressure Groups",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Advocacy Groups",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Political Influence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Lobbying",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c6",
+        "label": "Public Campaigns",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Legal Actions",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Impact on Policies",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[508.0675 -> 566.78]"
+      },
+      {
+        "id": "v1",
+        "label": "Conclusion Slide",
+        "type": "Visual",
+        "original_text": "One: Business Philosophy\nTwo: Business Strategy\nThree: Business Content\nSummary: Vision and Mission, Business Strategy",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Next Lesson Preview Slide",
+        "type": "Visual",
+        "original_text": "Next: Vision, Mission, Business Strategy",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Interest groups include pressure groups as a type."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Interest groups include advocacy groups as a type."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Interest groups primarily aim to exert political influence."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Political influence aims to impact policies."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Lobbying is a method to achieve political influence."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Public campaigns contribute to political influence."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Legal actions are used to exert political influence."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Current lesson conclusions transition visually to the next lesson preview."
+      },
+      {
+        "source": "v1",
+        "target": "ss1",
+        "relation": "scaffolds",
+        "intent": "Conclusion slide aids student engagement by summarizing key concepts."
+      },
+      {
+        "source": "v2",
+        "target": "ss1",
+        "relation": "scaffolds",
+        "intent": "Next lesson preview maintains student engagement by indicating continuity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

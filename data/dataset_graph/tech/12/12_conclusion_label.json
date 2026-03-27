@@ -1,0 +1,126 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Understand the density characteristics and physical properties of carbon dioxide; master the principle of its application in fire extinguishing.",
+  "transcript": "[690.1494 -> 728.3] 我们把两根蜡烛按如图所示放置再向这个烧杯之中倾倒二氧化碳我们再来观察一下火焰会有怎样的变化呢好大家来尝试一下这么神奇好刚才几所同学他们都有了一个新的发现了就是这两根蜡烛它的熄灭顺序是一样一样的对哪一根线熄灭呢下面的这就说明我们的二氧化碳它的密度比空气大对它的密度是比空气大的好。\n[734.38 -> 749.66] 接下来老师就给大家布置一个回家的小任务我们在一个充满二氧化碳的软塑料瓶里倒入蒸馏水。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key points written in white chalk.\n   - The layout includes a heading at the top left, followed by bullet points and diagrams.\n\n2. **Key Knowledge Items (Content View)**:\n   - Heading: 第二章 第四节 二氧化碳 (Chapter 2, Section 4: Carbon Dioxide)\n   - Bullet Points:\n     - 物理性质 (Physical Properties)\n     - 1. 无色、无味 (Colorless, Odorless)\n     - 2. 有氧化性 (Oxidizing Properties)\n   - Diagrams: Three circles, possibly representing molecular structures or properties.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the heading \"二氧化碳\" to emphasize the topic.\n   - She gestures towards the bullet points, highlighting \"无色、无味\" and \"有氧化性\" in sequence.\n   - The teacher uses a pointer to trace the circles on the blackboard, likely explaining their significance.\n\n4. **Transition to Next Step**:\n   - No explicit visual element indicates homework or further reading in the frames provided.\n   - The screen displays a slide with text and a diagram, but no specific instructions for next steps are visible.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard displaying key points about carbon dioxide, prominently featuring the heading \"第二章 第四节 二氧化碳\" at the top left. The teacher visually wraps up the lesson by pointing to the heading, reinforcing the topic. She then moves through the bullet points, highlighting \"无色、无味\" and \"有氧化性\" in sequence, ensuring each property is emphasized. The three circles on the board are traced with a pointer, likely explaining their relevance to the lesson. No strong emphasis actions like underlining or boxing are observed. The screen shows a slide with text and a diagram, but no homework or next-step instructions are visible, leaving the conclusion focused on the blackboard summary.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Carbon Dioxide",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.1494 -> 728.3]"
+      },
+      {
+        "id": "c2",
+        "label": "Colorless",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.1494 -> 728.3]"
+      },
+      {
+        "id": "c3",
+        "label": "Odorless",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.1494 -> 728.3]"
+      },
+      {
+        "id": "c4",
+        "label": "Oxidizing Properties",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.1494 -> 728.3]"
+      },
+      {
+        "id": "c5",
+        "label": "Density",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.1494 -> 728.3]"
+      },
+      {
+        "id": "c6",
+        "label": "Density Greater Than Air",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[690.1494 -> 728.3]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Summary",
+        "type": "Visual",
+        "original_text": "Chapter 2, Section 4: Carbon Dioxide",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Physical Properties Diagram",
+        "type": "Visual",
+        "original_text": "Diagram with molecular structures of carbon dioxide",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged with Experiment",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Carbon dioxide is described as colorless."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Carbon dioxide is described as odorless."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Carbon dioxide is described as having oxidizing properties."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The density property of carbon dioxide is further explained."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard summarizes the topic of carbon dioxide."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The diagram depicts the oxidizing properties of carbon dioxide."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The diagram helps to explain the density characteristics."
+      },
+      {
+        "source": "s1",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged with the density experiment."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

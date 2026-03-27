@@ -1,0 +1,172 @@
+{
+  "video_name": "48_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "english",
+  "teaching_goal": "Describe the basic strategies for organizing effective discussions; analyze the key steps before, during, and after the discussion.",
+  "transcript": "[0.0 -> 9.54] Distinguished judges, fellow students,\n[9.54 -> 144.5] good afternoon. Today I am honored to stand here and share my thoughts on the topic of which is how to organize a discussion effectively. And I'll illustrate my point of view from three parts before the discussion while the discussion and after the discussion so first and foremost before the discussion we as teacher we should ensure that our students have something to express have something to say so we need to do what we need to do is to construct a scaffolding for our students whether it is some phrases or words or some simple idea second while the discussion as teacher we can't just stand there like a boot and does do anything so we need to come in our students and act as a monitor to observe our students whether it is just stand here or have a discussion and also we need to act as a participant but pay attention to just an ordinary participant we should we should not lead the discussion we should let our students to lead the discussion do not dominate the discussion and after the discussion we need to do some summary whether it is our students to do invite some representative to do the sharing to our students what their idea is and also to collect the very sparking idea to conclude the whole discussion activity and in conclusion in conclusion in the journey of engineering or English teaching we should put much emphasize on our student students to let our students to share their ideas to show their ability to exercise the ability and and that is This is my end of the impromptu speech. Thank you for listening. Now I'll start my teaching.。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the title slide on the screen, which reads \"WHAT'S IN A NAME\" with a subtitle \"Reading and Thinking.\"\n\n#### 2. **The Title Event**\n- The title \"WHAT'S IN A NAME\" is displayed on the screen. The teacher stands in front of the screen, holding papers, and gestures towards the title, likely emphasizing its importance.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher uses hand gestures to emphasize points, such as pointing towards the screen and using hand movements to engage with the content on the slide.\n\n### Structured Chronological Log\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"WHAT'S IN A NAME\" with the subtitle \"Reading and Thinking.\"\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to speak, occasionally looking at the papers in hand.\n- The teacher uses hand gestures to emphasize points, possibly explaining the significance of the title.\n- The green chalkboard remains blank except for some writing on the right side, which is not clearly visible.\n\n**End:**\n- The teacher maintains focus on the screen content, reinforcing the lesson's introduction.\n- The classroom setup remains consistent, with students seated and facing the teacher.\n\nThis structured log captures the visual evolution of the lesson introduction, linking the teacher's actions to the displayed content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and facing a screen displaying the title \"WHAT'S IN A NAME\" with the subtitle \"Reading and Thinking.\" This title serves as the hook, immediately drawing attention to the theme of the lesson. The teacher gestures towards the screen, emphasizing the title to engage students. The classroom setup includes a green chalkboard, which remains mostly blank except for some indistinct writing on the right side. Throughout the introduction, the teacher uses hand movements to highlight key points, occasionally looking at the papers to reference notes. The transition from the hook to the main topic is seamless, as the teacher maintains focus on the screen content, reinforcing the lesson's theme. This visual approach helps link the new topic to students' existing knowledge by prompting them to consider the significance of names, setting the stage for deeper exploration in reading and thinking activities. The consistent use of gestures and the prominent display of the title create a clear and focused introduction, preparing students for the upcoming content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Effective Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[9.54 -> 13.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Before Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[13.00 -> 27.00]"
+      },
+      {
+        "id": "c3",
+        "label": "During Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[27.00 -> 60.00]"
+      },
+      {
+        "id": "c4",
+        "label": "After Discussion",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[60.00 -> 100.00]"
+      },
+      {
+        "id": "c5",
+        "label": "Student Scaffolding",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[17.00 -> 27.00]"
+      },
+      {
+        "id": "c6",
+        "label": "Teacher Observation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[30.00 -> 40.00]"
+      },
+      {
+        "id": "c7",
+        "label": "Teacher as Participant",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[40.00 -> 60.00]"
+      },
+      {
+        "id": "c8",
+        "label": "Summary and Sharing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[63.00 -> 80.00]"
+      },
+      {
+        "id": "c9",
+        "label": "Student Idea Sharing",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[83.00 -> 100.00]"
+      },
+      {
+        "id": "c10",
+        "label": "Highlight Sparking Ideas",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[83.00 -> 100.00]"
+      },
+      {
+        "id": "c11",
+        "label": "Introductory Slide",
+        "type": "Visual",
+        "original_text": "Screen displaying 'WHAT'S IN A NAME' with subtitle 'Reading and Thinking'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c12",
+        "label": "Teacher Gestures",
+        "type": "Visual",
+        "original_text": "Teacher uses hand gestures to engage students",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Steps to prepare for discussion are part of effective discussion."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Step to manage discussion actively is part of effective discussion."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Steps to conclude the discussion are part of effective discussion."
+      },
+      {
+        "source": "c2",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Scaffolding is essential in the phase before discussion."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Teacher observation is crucial during discussion."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Participation as a non-dominant participant is vital during discussion."
+      },
+      {
+        "source": "c4",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Summarizing and sharing are done after the discussion."
+      },
+      {
+        "source": "c4",
+        "target": "c9",
+        "relation": "includes",
+        "intent": "Encouraging student sharing is part of the post-discussion summary."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "includes",
+        "intent": "Highlighting key ideas is part of the post-discussion process."
+      },
+      {
+        "source": "c11",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "The slide captures student attention at the start."
+      },
+      {
+        "source": "c12",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Gestures are used by the teacher to keep students engaged."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,167 @@
+{
+  "video_name": "12_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "- Be able to identify the phenomena of hydrolysis reactions.  \n- Understand the nature and the step‑by‑step process of hydrolysis reactions.  \n- Apply the acquired knowledge to analyze practical examples from daily life.",
+  "transcript": "[728.1800000000001 -> 786.48] 好给同学们看一看这张图片是什么样的画面的画面是什么样的画面是什么这道题呢大家下去去讨论老师这里展示了这个完整的一个过程大家按照这个例子去描述出谁剩下了谁被使用了到底谁强谁弱这节课呢我们将松软可口的面包与清洗油污与我们这节课眼泪水解相互结合通过探索我们知道了化学的奥秘学会了用化学的眼光去看待世界观察生活下课。\n[789.54 -> 791.2] 。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains the chemical equation and explanation for the reaction between $\\text{CH}_3\\text{I}$ and $\\text{NaOH}$.\n   - The layout includes a title at the top, the chemical equation, and a list of reasons for the reaction's occurrence.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: 盐类的水解 (Hydrolysis of Salts)\n   - Chemical Equation: $\\text{CH}_3\\text{I} + \\text{NaOH} \\rightarrow \\text{CH}_3\\text{OH} + \\text{NaI}$\n   - Reasons for Reaction: \n     - $\\text{CH}_3\\text{I}$ is a weak electrolyte.\n     - $\\text{NaOH}$ is a strong electrolyte.\n     - $\\text{CH}_3\\text{OH}$ is a weak electrolyte.\n     - $\\text{NaI}$ is a strong electrolyte.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, emphasizing the reactants and products.\n   - She gestures towards the list of reasons, highlighting each point as she explains them.\n   - The teacher uses hand movements to underline the importance of the strong and weak electrolytes in the reaction.\n\n4. **Transition to Next Step**:\n   - There is no visible indication of homework or further reading on the screen or board in the provided frames. The focus remains on summarizing the current lesson content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the blackboard prominently displaying the chemical equation and reasons for the reaction between $\\text{CH}_3\\text{I}$ and $\\text{NaOH}$. The teacher visually reviews the content by pointing to the chemical equation, emphasizing the transformation from reactants to products. She systematically gestures towards each reason listed, highlighting the distinctions between strong and weak electrolytes. To underscore the core takeaway, she uses deliberate hand movements to draw attention to the key points, ensuring students visually grasp the essential concepts. No homework or next-step instructions are visible, keeping the focus on the summarized lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Hydrolysis of Salts",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c2",
+        "label": "CH3I",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c3",
+        "label": "NaOH",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c4",
+        "label": "CH3OH",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c5",
+        "label": "NaI",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c6",
+        "label": "Weak Electrolyte",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c7",
+        "label": "Strong Electrolyte",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c8",
+        "label": "Chemical Equation",
+        "type": "Visual",
+        "original_text": "The chemical equation CH3I + NaOH -> CH3OH + NaI.",
+        "timestamp": "[728.18 -> 786.48]",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Explanation of Reaction",
+        "type": "Visual",
+        "original_text": "The reasons including weak and strong electrolyte characteristics.",
+        "timestamp": "[728.18 -> 786.48]",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Student Observation",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[728.18 -> 786.48]"
+      },
+      {
+        "id": "c11",
+        "label": "Daily Life Examples",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[728.18 -> 786.48]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Includes the specific reactant involved in the reaction."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Includes the specific reactant involved in the reaction."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes the product formed in the reaction."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Includes the product formed in the reaction."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "CH3I is characterized as a weak electrolyte."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "NaOH is characterized as a strong electrolyte."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "CH3OH is characterized as a weak electrolyte."
+      },
+      {
+        "source": "c5",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "NaI is characterized as a strong electrolyte."
+      },
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "visualizes",
+        "intent": "The chemical equation visually represents the hydrolysis reaction."
+      },
+      {
+        "source": "c1",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "Explanation offers visual insights into reasons for the reaction."
+      },
+      {
+        "source": "c1",
+        "target": "c11",
+        "relation": "builds_upon",
+        "intent": "Extends understanding to real-world scenarios using chemistry."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Engagement with the summary of hydrolysis reaction."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

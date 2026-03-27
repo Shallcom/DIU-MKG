@@ -1,0 +1,139 @@
+{
+  "video_name": "24_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "politics",
+  "teaching_goal": "Understand the basic concept of conjunction propositions and how to determine their truth values; master the logical relationship between the conjunction and the conjunction proposition; be able to analyze the truth or falsity of conjunction propositions through examples.",
+  "transcript": "[326.14 -> 368.22] 好那么这那么这其实就引出了我们今天学到连言命题那么连言命题和连言之的真假关系又是什么呢现在我们再看一个实例那么这三句话哪两个是连言之呢。\n[369.46 -> 403.88] 大家说一下哪两句话对前两句成功需要努力成功需要天赋这是它的连言之那么后面所以成功需要天赋也需要努力是它的什么连言命题是的那么我们现在来看一下第一个那么假如假如他的两个连言之都为真那么他的连言命题为什么。\n[415.5 -> 509.6] 假如他的连言之为真那么他的连言命题也是为真的对吧那么成功需要努力成功也需要天赋这都是正确的那么所以成功也需要天赋也需要努力这也是正确的那么咱们再来看一下那么当有一个连言之为假那他的连言命题又是什么样呢同学们判断一下当一个连言之为假那比如说第一个成功不需要努力成功需要天赋那它连言命题应该是什么样子的那同学们可以就沿着老师的话来说一下那成功不需要努力这是第一个连言之成功不需要努力第二是成功需要天赋那么它的连言命题是什么你来说一下吧需要天赋但不需要努力的对呀很好请走那么当他的两个连织有一个为假成功不需要努力成功需要天赋那么他的连言命题就变成了所以成功不需要努力需要天赋这是对的吗对错的那么他的当他的连织有一个为假那么她的连言命题也是为假的。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**Beginning:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. She then pointed directly at the interactive whiteboard, directing attention to the content displayed.\n\n2. **The Visual Focus Point:**\n   - The focus is on the interactive whiteboard, which displays a slide titled \"一級教員採用試験\" with bullet points in Japanese. The blackboard also features a diagram resembling a tree with labeled branches.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - While engaging with the students, the teacher alternated between pointing at the whiteboard and the blackboard. She used her finger to trace the connections in the tree diagram on the blackboard, emphasizing relationships between the concepts.\n\n**Middle:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher pointed to a specific bullet point on the whiteboard, inviting students to discuss or elaborate on that particular point.\n\n2. **The Visual Focus Point:**\n   - The focus remains on the whiteboard content, particularly the bullet points, and the tree diagram on the blackboard.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - As a student responded, the teacher nodded and occasionally gestured towards the relevant parts of the tree diagram on the blackboard, reinforcing the connections being discussed.\n\n**End:**\n\n1. **The Invitation Gesture (Elicitation):**\n   - The teacher tapped on the blackboard near the tree diagram, inviting further discussion or clarification from the students.\n\n2. **The Visual Focus Point:**\n   - The interaction centers around the tree diagram on the blackboard, with the whiteboard content serving as supplementary reference.\n\n3. **Real-time Scaffolding (Teacher's Action-While-Listening):**\n   - The teacher wrote additional notes on the blackboard, visually summarizing the student's input and linking it to the existing diagram.\n\n4. **Visual Confirmation & Elaboration (Feedback):**\n   - After a student's response, the teacher circled a key concept on the blackboard and drew arrows to highlight connections, visually validating the student's input and reinforcing the correct understanding.\n\n**Chronological Log of Visual Events:**\n\n1. Teacher sweeps hand towards the class, then points to the whiteboard.\n2. Points to the first bullet point on the whiteboard.\n3. Traces connections in the tree diagram on the blackboard with her finger.\n4. Nods and gestures towards the blackboard as a student responds.\n5. Taps on the blackboard near the tree diagram.\n6. Writes additional notes on the blackboard, linking to the diagram.\n7. Circles a key concept and draws arrows to highlight connections.\n\nThis structured visual interaction supports the co-construction of knowledge, ensuring students engage actively with both the presented content and the evolving visual aids.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed a tree diagram with labeled branches and a slide titled \"一級教員採用試験\" with bullet points in Japanese. The teacher began by making a sweeping gesture towards the class, inviting students to engage with the content. She pointed directly at the first bullet point on the whiteboard, signaling the start of the interactive discussion.\n\nAs the student began to explain their reasoning, the teacher walked over to the blackboard and traced the connections in the tree diagram with her finger, emphasizing the relationships between the concepts. She alternated between pointing at the whiteboard and the blackboard, nodding and gesturing to encourage the student's explanation. Simultaneously, she wrote down key terms from the student's response on the blackboard, visually summarizing their input.\n\nTo validate the student's answer, the teacher gave a distinct nod and circled a key concept on the blackboard. She then drew arrows connecting this concept back to the main points in the tree diagram, reinforcing the correct understanding and linking it to the core lesson content.\n\nThroughout the interaction, the teacher's gestures transformed the passive reception of knowledge into an active construction of understanding. By visually linking the student's response to the lesson's main themes, she facilitated a deeper comprehension and application of the material, ensuring students actively engaged with and built upon the presented concepts.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Conjunction Proposition",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[326.14 -> 368.22]"
+      },
+      {
+        "id": "c2",
+        "label": "Truth Values",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[326.14 -> 368.22]"
+      },
+      {
+        "id": "c3",
+        "label": "Logical Relationship",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[326.14 -> 368.22]"
+      },
+      {
+        "id": "c4",
+        "label": "Success Requires Effort",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.46 -> 403.88]"
+      },
+      {
+        "id": "c5",
+        "label": "Success Requires Talent",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[369.46 -> 403.88]"
+      },
+      {
+        "id": "c6",
+        "label": "Conjunction Proposition Example",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[369.46 -> 403.88]"
+      },
+      {
+        "id": "c7",
+        "label": "Conjunction Truth",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[415.5 -> 509.6]"
+      },
+      {
+        "id": "v1",
+        "label": "Tree Diagram on Blackboard",
+        "type": "Visual",
+        "original_text": "A diagram resembling a tree with labeled branches.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "A slide titled 'Teacher Qualification Exam' with bullet points.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Relates conjunction propositions to their truth values."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Shows the logical relationship with conjunction proposition."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Examples to illustrate conjunction propositions."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Examples to illustrate conjunction propositions."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Understanding truth in conjunction propositions."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Visual aids to support explanations."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Highlights key concepts in conjunction propositions."
+      },
+      {
+        "source": "s2",
+        "target": "s1",
+        "relation": "guides_discussion",
+        "intent": "Student actively contributes to discussion."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

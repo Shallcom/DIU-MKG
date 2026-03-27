@@ -1,0 +1,109 @@
+{
+  "video_name": "16_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "physics",
+  "teaching_goal": "Understand the relationship between potential difference and electric field strength; master the method for calculating electric force; comprehend the significance of the unit of electric field strength.",
+  "transcript": "[495.08 -> 563.6] 这个很好很好我们看黑板我们所求的应该是F那么F应该等于来这位同学F应该等于EQE再乘上这样一个Q而E我们刚才学到应该等于UE上D非常好根据这个公式我们就知道E应该等于的是UQU比上D那也就是说一乘Q应该等于U比乘D再乘上一个Q而题目中这三个量是不是都已经给出列了所以我们就可以把乙质量带入就可以得到F应该等于的是四乘上十的负十一四方牛顿同学们你都做对了吗很好那么同学们老师给留下一个课后思考题那么如果说现在电场不均匀的话我们刚才所研究的都是云墙电场那如果不是在云墙电场中电视差和电场强度的关系又是怎样的呢同学们你们可以进行一个客户推导看看你们的想法应该是怎样的呢。\n[564.68 -> 575.74] 那么本节课呢我们学习了电视差和电场强度的关系我们知道电视差U应该等于E乘上小D从而推导出电场强度E就是U比乘D。\n[577.08 -> 610.42] 谁知道了电场强度的单位应该是伏每成米伏每米应该等于的是一伏每米应该等于一牛每库仑并且我们学习了电场强度的物理意义以及电场强度在数值上应该等于什么同学们你们都掌握了吗盼天地之美兮万物之理希望同学们能够探究物理科学奥秘求是创新立志出桥在物理学习中奋斗求索在求知的道路上勇往直前那么本节课就上到这里同学们下课。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the digital screen on the left, displaying a slide titled \"课堂小结\" (Class Summary).\n   - The slide includes a formula transformation: $U = Ed \\rightarrow E = \\frac{U}{d}$.\n   - There is a section with bullet points summarizing key concepts, including definitions and explanations related to electric fields.\n   - The slide also features a red text box with a quote: \"知天他之谓, 何不物之理\" (Understanding the heavens is called knowledge, why not the principles of things).\n\n2. **Key Knowledge Items (Content View)**:\n   - Main formula: $U = Ed \\rightarrow E = \\frac{U}{d}$\n   - Bullet points:\n     - Definition of electric field strength.\n     - Explanation of the relationship between electric potential difference and electric field.\n   - Quote: \"知天他之谓, 何不物之理\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher gestures towards the digital screen, likely emphasizing the formula transformation $U = Ed \\rightarrow E = \\frac{U}{d}$.\n   - She points to the bullet points, possibly reviewing each key concept in sequence.\n   - The teacher stands near the blackboard, which still displays the earlier content, including $F = Eq = \\frac{U}{d}q$.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading on the screen or board.\n   - The focus remains on summarizing the lesson content, with no additional slides or sections visible for next steps.",
+  "visual_narrative": "The lesson concludes with a slide titled \"课堂小结\" (Class Summary) displayed on the digital screen, featuring a formula transformation $U = Ed \\rightarrow E = \\frac{U}{d}$ and bullet points summarizing key concepts. The teacher visually reviews the content by pointing to each bullet point in sequence, emphasizing the formula transformation. She also highlights a red text box with a quote, \"知天他之谓, 何不物之理,\" adding a philosophical touch to the summary. The blackboard retains earlier content, including $F = Eq = \\frac{U}{d}q$, but no explicit homework or next-step instructions are visible, focusing the visual closure on the core lesson takeaways.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Electric Field Strength",
+        "type": "Concept",
+        "knowledge_type": "Definition",
+        "timestamp": "[564.68 -> 575.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Potential Difference",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[564.68 -> 575.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Formula Transformation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[564.68 -> 575.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Electric Force",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[495.08 -> 563.6]"
+      },
+      {
+        "id": "c5",
+        "label": "Electric Field Unit",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[577.08 -> 610.42]"
+      },
+      {
+        "id": "v1",
+        "label": "Class Summary Slide",
+        "type": "Visual",
+        "original_text": "Slide displays formula transformation U = Ed -> E = U/d, and bullet points on electric fields.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Engaged Review",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[564.68 -> 575.74]"
+      },
+      {
+        "id": "v2",
+        "label": "Quote Display",
+        "type": "Visual",
+        "original_text": "Red text box with quote: Understanding the heavens is knowledge, why not the principles of things.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Blackboard Equation",
+        "type": "Visual",
+        "original_text": "Earlier content on blackboard: F = Eq = U/d q.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Electric field strength concept is supported by understanding potential difference."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Slide visualizes the transformation of formula U = Ed to E = U/d."
+      },
+      {
+        "source": "v1",
+        "target": "s1",
+        "relation": "scaffolds",
+        "intent": "Slides scaffold students' review of electric field concepts."
+      },
+      {
+        "source": "c4",
+        "target": "v3",
+        "relation": "summarizes",
+        "intent": "Blackboard content summarizes the application of electric force equation."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Quote emphasizes the philosophical aspect of understanding physical principles."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

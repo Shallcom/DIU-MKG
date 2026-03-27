@@ -1,0 +1,152 @@
+{
+  "video_name": "24_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "english",
+  "teaching_goal": "Understand the impact of visual elements on readers' attitudes.",
+  "transcript": "[368.72 -> 370.66] 我给你一分钟的时间来做这个动作吧。\n[374.0 -> 473.52] AndAfterFinishingYouCanLet'SFinishTheBracketsTogether好的结束了一起的左边的姿态是为了保护悲伤的动物好悲伤的动物和右边的是不做纸布的从一般的想法来看我们可以得到更多的知识关于姿态对吧好吗所以现在请大家仔细地搜索这篇文章不仅搜索一般的想法但是搜索更多的细节好吗搜索这篇文章仔细地搜索回答我的问题您的观点是哪个姿态更有效率和为什么好您可以开始读然后我给你一些提示你可以用这些词来描述你的想法好吗。\n[486.26 -> 491.86] 好时间到谁想试试看呢。\n[494.0 -> 570.22] 你请说我认为正确的比较有效因为它给予我们巨大的数据像是亿多的树与它给予我们明确的印象如何厉害的困难他们遭遇好谢谢你坐下请说您提到数据这意味着它给予我们更多的我第一套你准备想到的电影的飞飞来我给你买要是你是太多的好多的好多的好名字和照片非常有趣的东西可以引起我们的兴趣去读文章或许更多人可以作出行动吧这些都是你做的最重要的关键点吧。\n[572.06 -> 574.74] 现在我们来看看你做的更多的关键点吧。\n[576.38 -> 585.7] 我们可以学习如何设计正确的姿态吗如何让读者看起来有趣的姿态吗。\n[588.0 -> 598.32] 而且你提到的照片是非常有力的照片对吗接下来我给你一些提示。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive discussion. She also pointed directly to the interactive whiteboard, directing students' attention to the content displayed.\n\n**2. The Visual Focus Point:**\n- The specific visual artifact under discussion was the interactive whiteboard displaying the \"Wildlife Protection\" unit. The focus was on two posters: one with the text \"Call me to protect me\" and another with \"Protect the animals.\" The board also listed adjectives: \"Funny,\" \"Surprising,\" \"Sad,\" and \"Clear.\"\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- While a student was responding, the teacher pointed to the adjectives on the board, guiding the student to consider these descriptors in their response. She also gestured towards the posters, emphasizing the content that needed analysis.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher visually validated the student's input by nodding and smiling. She also wrote the question \"In your opinion, which poster is more effective? Why?\" on the board, providing a structured prompt for further discussion. Additionally, she circled the word \"Clear\" on the board, highlighting it as a key point in the discussion.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - The teacher stands in front of the board, which displays the \"Wildlife Protection\" unit and two posters.\n  - She points to the posters, asking students to identify general ideas.\n\n- **Middle:**\n  - The teacher writes the question \"In your opinion, which poster is more effective? Why?\" on the board.\n  - She gestures towards the adjectives, prompting students to consider them in their analysis.\n  - A student approaches the board, and the teacher points to the adjectives, guiding the student's interaction.\n\n- **End:**\n  - The teacher circles the word \"Clear\" on the board, emphasizing its importance.\n  - She writes the question \"What can we learn from the posters about how to make posters?\" on the board, directing the next phase of discussion.\n  - The teacher uses hand gestures to summarize the key points discussed, reinforcing the visual cues on the board.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the bulletin board showed two posters related to wildlife protection, with the text \"Call me to protect me\" and \"Protect the animals,\" alongside a list of adjectives: \"Funny,\" \"Surprising,\" \"Sad,\" and \"Clear.\" The teacher began by gesturally inviting students to participate, making a sweeping gesture towards the class and pointing directly to the posters, signaling the start of an interactive discussion.\n\nAs the teacher facilitated the discussion, she moved to the interactive whiteboard and wrote the question, \"In your opinion, which poster is more effective? Why?\" She then pointed to the adjectives, guiding students to consider these descriptors in their analysis. While a student approached the board to respond, the teacher pointed to the adjectives, providing visual cues to support the student's explanation. She walked over to the board and circled the word \"Clear,\" emphasizing its relevance to the discussion.\n\nTo validate the student's input, the teacher gave a distinct nod and smile, reinforcing the correct analysis. She then wrote another question on the board, \"What can we learn from the posters about how to make posters?\" This visual prompt directed the next phase of the discussion, linking the student's response back to the core lesson content on effective communication and design principles.\n\nThroughout the interaction, the teacher's gestures and board annotations helped students move from passively receiving knowledge to actively constructing their own understanding. By highlighting key terms and guiding the analysis, the teacher visually orchestrated the dialogue, ensuring students engaged deeply with the material and connected their insights to the broader lesson objectives.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Wildlife Protection",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[368.72 -> 370.66]"
+      },
+      {
+        "id": "c2",
+        "label": "Poster Effectiveness",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[374.0 -> 473.52]"
+      },
+      {
+        "id": "c3",
+        "label": "Visual Elements Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[374.0 -> 473.52]"
+      },
+      {
+        "id": "c4",
+        "label": "Adjectives List",
+        "type": "Visual",
+        "original_text": "Funny, Surprising, Sad, Clear",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c5",
+        "label": "Invitation Gesture",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[368.72 -> 370.66]"
+      },
+      {
+        "id": "c6",
+        "label": "Clear",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[493.0 -> 570.22]"
+      },
+      {
+        "id": "c7",
+        "label": "Effective Communication",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[494.0 -> 570.22]"
+      },
+      {
+        "id": "v1",
+        "label": "Interactive Whiteboard",
+        "type": "Visual",
+        "original_text": "Board showing Wildlife Protection unit and posters",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Poster: Call me to protect me",
+        "type": "Visual",
+        "original_text": "Poster text 'Call me to protect me'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Poster: Protect the animals",
+        "type": "Visual",
+        "original_text": "Poster text 'Protect the animals'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Shows the effectiveness question on the board."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Links visual impact to adjectives for deeper analysis."
+      },
+      {
+        "source": "c5",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to begin interactive discussion."
+      },
+      {
+        "source": "c6",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Highlights 'Clear' as crucial adjective on board."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Links clarity to effective communication principles."
+      },
+      {
+        "source": "c1",
+        "target": "v2",
+        "relation": "includes",
+        "intent": "Part of broader unit being discussed visually."
+      },
+      {
+        "source": "c1",
+        "target": "v3",
+        "relation": "includes",
+        "intent": "Part of broader unit being discussed visually."
+      },
+      {
+        "source": "v1",
+        "target": "s2",
+        "relation": "guides_discussion",
+        "intent": "Facilitates student's interaction with visual content."
+      },
+      {
+        "source": "c3",
+        "target": "s2",
+        "relation": "praises_response",
+        "intent": "Validates student's reasoning with visual adjectives."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

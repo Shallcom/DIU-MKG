@@ -1,0 +1,133 @@
+{
+  "video_name": "19_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "geography",
+  "teaching_goal": "Understand the value of geographic experiments in high school classrooms; master how to use experiments to improve students' understanding and application of geographic knowledge.",
+  "transcript": "[0.0 -> 3.76] 字幕由 Amara.org 社区提供。\n[9.62 -> 67.56] 各位评委老师同学们大家好我是地理组十九号选手我抽到的这期演讲的题目是在高中的课程中难免会用到实验那么有些老师认为实验会占用课堂的时间或更吸引学生的注意力请问对于这种观点我如何看首先我并不赞同在高中课堂中不用实验这个观点从以下四个方面来阐述首先实验能够让学生更直观地理解知识点第二学习对生活有用的地理将知识点运用到实践中实验就是很好的一个载体第三在做中学受之以鱼不如受之以鱼让学生在探索在实验中探索知识。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The video begins with a yellow title screen featuring the text:\n  - \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (10th National Contest of Teaching Skills for Teacher College Students)\n  - \"地理科学 19\" (Geographical Science 19)\n  - The number \"10\" with a graphic of a cityscape.\n\n#### 2. **The Title Event**\n- The title displayed on the green screen is:\n  - \"自然保护区与生态安全\" (Nature Reserves and Ecological Security)\n  - Subtext: \"——以丹顶鹤：三江源国家公园为例\" (—Taking the Red-crowned Crane: Sanjiangyuan National Park as an Example)\n- The teacher stands in front of the screen, holding papers, and appears to be reading or presenting, but does not physically write or underline the title.\n\n#### 3. **The Objectives**\n- No specific learning objectives or bullet points are visible on the screen or board during this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally looks at them while speaking.\n- No specific gestures linking to the board content are observed, such as pointing or underlining.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a yellow title screen introducing the 10th National Contest of Teaching Skills for Teacher College Students, focusing on Geographical Science.\n- Transition to a classroom setting where the teacher stands in front of a green screen.\n\n**Middle:**\n- The green screen displays the title \"自然保护区与生态安全\" with additional context about the Red-crowned Crane and Sanjiangyuan National Park.\n- The teacher, dressed in a white shirt and wearing a green lanyard, holds papers and addresses the audience.\n- The audience is seated, facing the teacher and the screen.\n\n**End:**\n- The teacher continues to present, maintaining a focus on the content displayed on the screen.\n- No changes to the screen content or additional gestures are noted.\n\nThis structured visual analysis captures the evolution of the classroom presentation, focusing on the visual elements and teacher actions during the introduction phase.",
+  "visual_narrative": "The introduction phase begins with a vibrant yellow title screen, setting the stage for the 10th National Contest of Teaching Skills for Teacher College Students, specifically highlighting Geographical Science. This visual hook transitions smoothly into a classroom setting where the teacher, dressed in a white shirt and adorned with a green lanyard, stands before a green screen. The screen prominently displays the title \"自然保护区与生态安全,\" focusing on the Red-crowned Crane and Sanjiangyuan National Park. The teacher, holding papers, engages with the audience, maintaining a poised stance. The visual shift from the introductory title screen to the main topic on the green screen effectively bridges the hook to the core subject matter. Throughout this phase, the teacher's actions are minimal, primarily involving reading from the papers, which suggests a structured and formal presentation style. This approach likely aims to establish a clear and focused entry point into the topic, connecting the students' existing knowledge of ecological concepts with the specific case study of nature reserves, thereby setting the stage for deeper exploration in subsequent lessons.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "High School Geography",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "c2",
+        "label": "Geographic Experiments",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "c3",
+        "label": "Nature Reserves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "c4",
+        "label": "Ecological Security",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "c5",
+        "label": "Red-crowned Crane",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "c6",
+        "label": "Sanjiangyuan National Park",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "c7",
+        "label": "Visual Learning",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.62 -> 67.56]"
+      },
+      {
+        "id": "v1",
+        "label": "Title Screen",
+        "type": "Visual",
+        "original_text": "10th National Contest of Teaching Skills for Teacher College Students, Geographical Science",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Green Screen Title",
+        "type": "Visual",
+        "original_text": "Nature Reserves and Ecological Security, Taking Red-crowned Crane: Sanjiangyuan National Park as Example",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Audience Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "High school geography curriculum includes the use of geographic experiments."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Protection of nature reserves is essential for maintaining ecological security."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Sanjiangyuan National Park includes habitats that support species like the Red-crowned Crane."
+      },
+      {
+        "source": "c2",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Geographic experiments enhance visual learning for students."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "The initial title screen sets the context leading into the detailed topic presented on the green screen."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Red-crowned Crane is visualized on the green screen as part of the topic."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Sanjiangyuan National Park is visualized on the green screen as part of the topic."
+      },
+      {
+        "source": "c2",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Geographic experiments are introduced to engage and encourage student thinking."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

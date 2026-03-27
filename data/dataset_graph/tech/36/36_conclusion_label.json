@@ -1,0 +1,197 @@
+{
+  "video_name": "36_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "tech",
+  "teaching_goal": "Be able to analyze the phenomena of acid–base reactions and their practical applications; understand the essence of acid–base reactions and their basic types.",
+  "transcript": "[578.65307475 -> 599.36] 好感谢这位同学的分享根据这位同学写出的化学方程式我们来对比一下老师是怎样写的呢这两个是一样的吗。\n[600.38 -> 643.16] 非常好我们为这位同学鼓鼓掌好不好感谢你的分享那我们刚刚提到了蒸发面上留下了白色的晶体颗粒通过这个化学反应方程式我们能否推测出这种白色的晶体颗粒到底是什么呢大胆说没关系绿化钠盒硫酸钠这里的氯化钠和硫酸钠是不是就是我们刚刚提到的白色晶体颗粒。\n[660.38 -> 716.32] 我听到这位同学说老师可是它还生成了水呀这是为什么呢我们接着通过一幅图片来探究一下这里请同学们观看不同酸和不同碱发生反应你们能否概括出酸和碱反应发生有什么实质呢我们知道不同的酸中都能变出氢离子而碱都能电离出氢氧根离子这里的氢离子和氢氧根离子结合就是生成了水所以我们可以概括出酸碱反应的实质就是氢离子和氢氧根离子结合生成水的过程非常好。\n[720.38 -> 768.82] 那通过刚刚的分析我们知道了酸碱反应的实质以及酸碱反应的现象那同学们在日常的生活中科学实验里以及工农业生产中你还能举出酸和碱反应有哪些实例吗可以结合我们自己的亲身体验包括自己吃的东西我们应该怎么出行用到了哪些酸和碱呢这个问题留给同学们刻下思考我们下个片段继续我的教学片段展示结束。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the final slide on the screen.\n   - The blackboard contains a chemical equation: $\\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$, with annotations and arrows indicating the reaction process.\n   - The slide on the screen displays a diagram with a series of steps or stages, likely summarizing the reaction process or related concepts.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - Chemical equation: $\\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$\n     - Annotations: \"酸碱中和\" (acid-base neutralization), \"结晶\" (crystallization), \"沉淀\" (precipitation)\n   - Slide:\n     - Diagram with sequential steps, possibly illustrating the neutralization process.\n     - Text in Chinese summarizing key points or steps.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, emphasizing the reactants and products.\n   - She gestures towards the annotations, highlighting \"结晶\" and \"沉淀\" to reinforce their significance in the reaction.\n   - The teacher turns to the slide, pointing to each step in the diagram, likely explaining the summarized process or key points.\n\n4. **Transition to Next Step**:\n   - The final slide includes a section with bullet points, possibly indicating homework or further reading.\n   - The teacher gestures towards this section, suggesting it contains assignments or next steps for the students.\n\nThis structured visual summary consolidates the lesson's key concepts, with the teacher's gestures reinforcing the main points on both the blackboard and the slide.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide displaying a diagram summarizing the key stages of the reaction process, alongside the blackboard featuring the chemical equation $\\text{NaOH} + \\text{HCl} \\rightarrow \\text{NaCl} + \\text{H}_2\\text{O}$ with annotations. The teacher points to each part of the equation, emphasizing the reactants and products, and gestures towards the annotations \"结晶\" and \"沉淀\" to highlight their roles. She then turns to the slide, moving through each step of the diagram, reinforcing the summarized concepts. A strong emphasis is placed on the final points, possibly underlined or highlighted on the slide. The last part of the slide includes bullet points indicating homework or next steps, which the teacher points to, signaling the transition to the next task.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Acid-Base Neutralization",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[600.38 -> 643.16]"
+      },
+      {
+        "id": "c2",
+        "label": "Crystallization",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.38 -> 643.16]"
+      },
+      {
+        "id": "c3",
+        "label": "Precipitation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.38 -> 643.16]"
+      },
+      {
+        "id": "c4",
+        "label": "NaOH + HCl Reaction",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[600.38 -> 643.16]"
+      },
+      {
+        "id": "c5",
+        "label": "NaCl Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[600.38 -> 643.16]"
+      },
+      {
+        "id": "c6",
+        "label": "Water Formation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[660.38 -> 716.32]"
+      },
+      {
+        "id": "c7",
+        "label": "Hydrogen Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[660.38 -> 716.32]"
+      },
+      {
+        "id": "c8",
+        "label": "Hydroxide Ion",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[660.38 -> 716.32]"
+      },
+      {
+        "id": "c9",
+        "label": "Acid-Base Reaction Essence",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[660.38 -> 716.32]"
+      },
+      {
+        "id": "c10",
+        "label": "Practical Applications",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[720.38 -> 768.82]"
+      },
+      {
+        "id": "v1",
+        "label": "Chemistry Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "NaOH + HCl → NaCl + H2O with annotations on neutralization, crystallization, and precipitation.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Step Diagram on Slide",
+        "type": "Visual",
+        "original_text": "Diagram illustrating neutralization process steps.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v3",
+        "label": "Final Slide with Homework",
+        "type": "Visual",
+        "original_text": "Slide with bullet points indicating homework or further tasks.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Engaged in Reaction Analysis",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c4",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "The specific reaction procedure illustrates the broader principle of acid-base neutralization."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "NaCl formation is a direct outcome of the chemical reaction procedure."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Water formation results from the chemical reaction procedure."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Understanding the essence of acid-base reactions builds on the basic principle of neutralization."
+      },
+      {
+        "source": "c9",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "The essence of acid-base reactions involves hydrogen ions."
+      },
+      {
+        "source": "c9",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "The essence of acid-base reactions involves hydroxide ions."
+      },
+      {
+        "source": "c10",
+        "target": "c1",
+        "relation": "evolves_from",
+        "intent": "Practical applications arise from understanding acid-base neutralization."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "The blackboard equation visually illustrates the neutralization process."
+      },
+      {
+        "source": "v1",
+        "target": "c2",
+        "relation": "visualizes",
+        "intent": "Annotations on the blackboard include the concept of crystallization."
+      },
+      {
+        "source": "v1",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "Annotations on the blackboard include the concept of precipitation."
+      },
+      {
+        "source": "v2",
+        "target": "c4",
+        "relation": "visualizes",
+        "intent": "The slide displays steps illustrating the reaction process."
+      },
+      {
+        "source": "v3",
+        "target": "c10",
+        "relation": "summarizes",
+        "intent": "The final slide outlines practical applications, homework, or next tasks."
+      },
+      {
+        "source": "s1",
+        "target": "c1",
+        "relation": "engaged_with",
+        "intent": "Students are engaged in analyzing the acid-base neutralization process."
+      },
+      {
+        "source": "s1",
+        "target": "c10",
+        "relation": "engaged_with",
+        "intent": "Students consider practical applications in everyday and industrial contexts."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

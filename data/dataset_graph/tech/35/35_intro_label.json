@@ -1,0 +1,147 @@
+{
+  "video_name": "35_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "tech",
+  "teaching_goal": "Understand the importance of experiments in scientific learning and their impact on learning interest; master the ability to inductively derive knowledge points through experiments; be able to relate experimental results to real-life phenomena.",
+  "transcript": "[9.56 -> 116.78] 尊敬的各位评老师同学们大家好今天我抽到的即兴演讲题目为实验的重要性从而通过实验归纳让学生找到其中学习物理的乐趣实现从我要我学到我要学首先接下来我将谈谈对这个题目的思考首先我认为实验的作用不言而喻是非常重要的法拉第曾言在理论中没有实验是空洞的当然只有理论也是盲目的实验也是盲目的所以我认为实验的归纳能力以及学生的一个探究能力非常的重要在二零一二年新版课程标准中明确提出我们要激发学生的学习兴趣来探索来培养学生的求知欲望作为一名科学老师我们也应该去注重其中的探索精神让学生亲以学生为主体亲力探究的过程从而让学生总结归纳出实验中一个个的知识点找到其中的乐趣与生活相联系也是非常重要的让学生亲历其中的过程并且发现实验归纳总结后与生活中的某个现象能够相联系最后学生就能够在其中发现其中的一个乐趣实现从要我学到我要学那么赛曼也曾经说过科学学习科学不仅仅是学习一种思维方式更是让学生理解以及思考世界。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is a digital slide displayed on the screen. It features an illustration of a boat on waves, accompanied by the text \"§21.2 电磁波的海洋\" (Electromagnetic Waves Ocean).\n\n#### 2. **The Title Event**\n- The title on the screen is \"§21.2 电磁波的海洋\" (Electromagnetic Waves Ocean). The teacher does not physically write this; it is part of the digital presentation.\n\n#### 3. **The Objectives**\n- No specific learning objectives are visible on the screen or board in this segment.\n\n#### 4. **Key Gestures**\n- The teacher holds papers and occasionally gestures with them, possibly emphasizing points related to the content on the screen.\n- The teacher's hand movements are general, likely used to engage with the audience rather than pointing to specific elements on the screen or board.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The screen displays the title \"§21.2 电磁波的海洋\" with an illustration of a boat on waves.\n- The blackboard has some text written in Chinese, but it is not the focus of the lesson introduction.\n\n**Middle:**\n- The teacher continues to hold the papers, occasionally gesturing with them.\n- The digital slide remains unchanged, maintaining the focus on the title and illustration.\n- The teacher's gestures are broad, likely used to emphasize the introduction of the topic without pointing to specific elements.\n\n**End:**\n- The teacher maintains a similar stance, with no significant changes in the visual content on the screen or board.\n- The focus remains on the initial slide, reinforcing the topic introduction.\n\n### Summary\nThe introduction phase centers around the digital slide titled \"§21.2 电磁波的海洋,\" featuring a boat illustration. The teacher uses general gestures to engage the class, with no specific pointing or interaction with the slide's content. The blackboard text remains static and secondary to the digital presentation.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction begins with the teacher standing in front of the class, holding papers, and facing a digital screen displaying the hook object: an illustration of a boat on waves with the title \"§21.2 电磁波的海洋.\" This visual immediately captures attention, setting the stage for the lesson. The teacher uses broad gestures with the papers, likely to emphasize the significance of the topic without directly interacting with the slide. The blackboard in the background contains some Chinese text, but it remains secondary to the digital presentation. Throughout the introduction, the visual focus remains on the initial slide, reinforcing the topic of electromagnetic waves. The teacher's gestures and stance suggest an effort to engage the class, preparing them for the exploration of electromagnetic waves by linking the visual metaphor of the ocean to the concept of waves in physics. This approach likely aims to connect the abstract concept of electromagnetic waves to a more familiar, tangible image, facilitating understanding and interest in the upcoming lesson content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Importance of Experiments",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c2",
+        "label": "Inductive Reasoning in Science",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c3",
+        "label": "Scientific Learning Interest",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c4",
+        "label": "Linking Experiments to Real Life",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c5",
+        "label": "Electromagnetic Waves",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "Beginning -> End"
+      },
+      {
+        "id": "c6",
+        "label": "Faraday's Theory on Experiments",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c7",
+        "label": "Exploration and Inquiry",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c8",
+        "label": "Seaman's Perspective on Learning",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[9.56 -> 116.78]"
+      },
+      {
+        "id": "c9",
+        "label": "Digital Slide Illustration",
+        "type": "Visual",
+        "original_text": "An illustration of a boat on waves with the text 'Electromagnetic Waves Ocean'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c10",
+        "label": "Teacher's Gestures with Papers",
+        "type": "Visual",
+        "original_text": "Teacher uses broad gestures with papers to emphasize points",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "Beginning -> End"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "evolves_from",
+        "intent": "Importance of experiments in deriving scientific principles through inductive reasoning"
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Experiments enhance interest in scientific learning"
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Faraday's perspective on the necessity of experiments in theory formulation"
+      },
+      {
+        "source": "c1",
+        "target": "c7",
+        "relation": "includes",
+        "intent": "Teaching students exploration and inquiry through experiments"
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Using inductive reasoning to connect scientific experiments to real-life phenomena"
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The topic of electromagnetic waves is introduced visually with a digital slide"
+      },
+      {
+        "source": "c5",
+        "target": "c10",
+        "relation": "emphasizes",
+        "intent": "Teacher uses gestures to stress important points about electromagnetic waves introduction"
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Complementing Faraday's views with Seaman's ideas on scientific learning as a way of thinking"
+      },
+      {
+        "source": "c9",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Illustration sparks student engagement by connecting familiar imagery to scientific concepts"
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

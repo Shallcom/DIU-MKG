@@ -1,0 +1,158 @@
+{
+  "video_name": "21_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "- Be able to estimate probability using frequency.  \n- Understand the characteristics and applications of the normal distribution.  \n- Master the representation of the normal density function.",
+  "transcript": "[341.22 -> 342.02] 同学们来思考我们之前学习概率的时候我们知道想要求一个概率我们是可以用它出现的频很正确频率来进行估计的那么此时请同学们来思考我们该如何估计它的频率呢。\n[345.1 -> 348.88] 我们之前学习过表示频率的方法可以用什么来进行。\n[351.54 -> 357.12] 很好这位同学说得非常正确可以用频率分布的指方图来进行表示。\n[359.94 -> 382.02] 那么现在老师就将它们在指方图中表示了出来而在这个脂肪图中它的每个食盐分布的概率频率就被表示了出来那么我们就可以用这个图形来大致地思考它的概率但是同学们来观察在这个图形中它有怎样的特点呢。\n[384.28 -> 511.76] 好你来说这个图中间高然后两边低非常正确中间高两边低还有其他同学有不同的方法吗观察到不同的特点吗好这位同学你来说他的误差其实有正有负的很好有正有负的请做观察的非常仔细那么我们就会发现像这样的平均脂肪图我们可以用每个小矩形的面积来表示误差落在相应区间的概率的概率且它们的面积和我们可以用一来表示那么对于这样的一个图形它的误差值有正有负且大致分布在X等于零的两侧且我们会发现出现小误差比出现大误差出现得更频繁那么对于这样的图像我们想用频率来表示概率那我们想要让它表示的概率更精确一点我们用怎样的方法呢好大家说很正确请坐那如果我们能够让它的阻距变小且让样本点增多就能够让我们所估计到的频率更正确那么此时我们就可以再一次地精细它所出现频率的这个脂肪图那么根据这个直方图我们会发现让分组越来越多组聚越来越小那么根据频率的稳定性就可以知道这个所得到的这个轮廓就更稳定了那么此时我们用曲线将其表示出来就得到了这样的一个近似光滑的曲线那么由频率可以估计概率的知识我们就可以知道根据这个曲线我们就可以得到那么这个时事件所各种情况下产生的概率。\n[513.32 -> 535.96] 那么这是概率的情况同时我们还可以根据这样的一个曲线来估测在每一个点X的曲直时它所出现的可能性同时我们也知道在学习函数的时候还有一条函数我们可以借助图像来进行表示那同学们还有没有其他来表示函数的方法呢。\n[537.86 -> 564.78] 来这位同学你来说哎很好请坐我们知道函数可以借助图像表达式以及列表的方法进行表示那现在我们有了它的图像就可以思考能否写出它的表达式从而通过表达式来表示在这个事情上的概率那么此时老师将其表示了出来。\n[565.86 -> 582.16] 那么对于像这样的表达式它一定在图像在X轴的上方且可以证明X轴与曲线之间的区域它的面积为一我们就称这样的函数为正态密度函数。\n[595.86 -> 633.8] 而我刚刚刚所的可以表示这个事件中所出现的概率的曲线我们就叫做正态密度曲线。\n[648.08 -> 671.34] 那么如果一个随机变量X它的概率满足正态密度曲线那么我们就称这个随机变量服从状态正态分布那么正态分布存在着怎样的特殊情况正态分布在生活中拥有着哪些应用请同学们来继续思考我的模拟授课到此结束谢谢各位评委老师。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains key formulas and terms written in white chalk.\n   - The layout includes the title \"正态分布\" (Normal Distribution) at the top left, with additional notes and formulas written below.\n\n2. **Key Knowledge Items (Content View)**:\n   - Title: 正态分布 (Normal Distribution)\n   - Formula: $f(x) = \\frac{1}{\\sqrt{2\\pi}\\sigma}e^{-\\frac{(x-\\mu)^2}{2\\sigma^2}}$\n   - Terms: \"概率密度函数\" (Probability Density Function), \"三色定理\" (Three Sigma Rule)\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $f(x) = \\frac{1}{\\sqrt{2\\pi}\\sigma}e^{-\\frac{(x-\\mu)^2}{2\\sigma^2}}$ on the blackboard, emphasizing its components.\n   - She gestures towards the term \"三色定理\" (Three Sigma Rule), likely explaining its significance in relation to the normal distribution.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided. The focus remains on summarizing the key concepts discussed in the lesson.",
+  "visual_narrative": "The lesson concludes with a blackboard summary centered on the normal distribution. The teacher visually reviews the content by pointing to the formula $f(x) = \\frac{1}{\\sqrt{2\\pi}\\sigma}e^{-\\frac{(x-\\mu)^2}{2\\sigma^2}}$, emphasizing its components. She gestures towards the term \"三色定理\" (Three Sigma Rule), highlighting its importance. The visual focus remains on these key elements, reinforcing the core concepts of the lesson. There is no visual indication of homework or next steps in the frames provided.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Probability Estimation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[341.22 -> 342.02]"
+      },
+      {
+        "id": "c2",
+        "label": "Frequency",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[341.22 -> 342.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Normal Distribution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[381.94 -> 511.76]"
+      },
+      {
+        "id": "c4",
+        "label": "Histogram",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[351.54 -> 357.12]"
+      },
+      {
+        "id": "c5",
+        "label": "Error Distribution",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[384.28 -> 631.8]"
+      },
+      {
+        "id": "c6",
+        "label": "Smooth Curve",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[384.28 -> 511.76]"
+      },
+      {
+        "id": "c7",
+        "label": "Probability Density Function",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[565.86 -> 633.8]"
+      },
+      {
+        "id": "c8",
+        "label": "Three Sigma Rule",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[648.08 -> 671.34]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Formula",
+        "type": "Visual",
+        "original_text": "f(x) = (1/(√(2π)σ))e^(-(x-μ)²/(2σ²))",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard Title",
+        "type": "Visual",
+        "original_text": "Normal Distribution",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "ss2",
+        "label": "Answering",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Probability estimation is based on frequency."
+      },
+      {
+        "source": "c4",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The normal distribution can be visualized through a histogram."
+      },
+      {
+        "source": "c5",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Error distribution evolves from histograms using frequency."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Smooth curves are derived from error distribution histograms."
+      },
+      {
+        "source": "c7",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The normal distribution is represented by the probability density function."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "The Three Sigma Rule is a principle of the normal distribution."
+      },
+      {
+        "source": "v1",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "The blackboard formula represents the probability density function."
+      },
+      {
+        "source": "v2",
+        "target": "c3",
+        "relation": "visualizes",
+        "intent": "The blackboard title represents the normal distribution."
+      },
+      {
+        "source": "ss1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Engaged students focus on the formula visualized on the blackboard."
+      },
+      {
+        "source": "ss2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Students answer questions related to constructing smooth curves."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

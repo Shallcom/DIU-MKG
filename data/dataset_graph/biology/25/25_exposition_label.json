@@ -1,0 +1,213 @@
+{
+  "video_name": "25_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Identify the peak sequence of plant hormones during the growth cycle; summarize the functions and synthesis sites of the major plant hormones; analyze the functional differences among various plant hormones.",
+  "transcript": "[240.0 -> 293.24] 有答案吗谁来说说你有想法最先打到峰值的是什么最先是脱漏酸再找一找峰值脱漏酸在后期是不是还有增长呀生长素其实是细胞分裂素可能这个图标的不是很清楚那还有没有下一个是什么是生长素非常好继续赤霉素最后呢非常好那我们再来总结一遍依次达到峰值的是什么一起来说细胞分裂素\n[299.0 -> 321.9] 还有什么很好生长素以及致美素对还有什么重来的对酮酸\n[323.0 -> 360.0] 那么老师再补充一点其实还有乙烯这些激素呈现着顺序性一次达到了峰值那同学们想一想这些激素它们的作用和合成部位都在哪呢同学们阅读教材总结一下细胞分裂素的合成部位和主要的作用给大家三十秒的时间",
+  "visual_facts": "### Phase 1: Visual-Temporal Analysis\n\n**Beginning:**\n- The teacher stands in front of a green chalkboard and a digital screen displaying a graph. The chalkboard has the text \"其他植物的向光\" written on it.\n- The digital screen shows a graph with a curve and some annotations in Chinese. The teacher points to specific parts of the graph, likely explaining the data or trends represented.\n\n**Middle:**\n- The teacher moves to the chalkboard and begins writing additional text. The words \"向光素\" and \"隐花色素\" are added, followed by \"光敏色素\" and \"叶绿素\".\n- The teacher uses hand gestures to emphasize these terms, possibly explaining their roles or relationships.\n\n**End:**\n- The teacher continues to write on the chalkboard, adding \"两相\" and \"两相\" again, indicating a focus on a two-phase concept.\n- The teacher turns back to the digital screen, possibly to correlate the written terms with the graph data.\n\n### Phase 2: Exposition - Knowledge Flow Tracking\n\n**The Core Artifact (Static):**\n- The main visual anchor is the digital graph on the screen, showing a curve with annotations. The graph likely represents a biological or chemical process related to plant phototropism.\n- The chalkboard initially displays the phrase \"其他植物的向光\".\n\n**The Derivation Process (Dynamic):**\n- **Additions**: The teacher writes \"向光素\", \"隐花色素\", \"光敏色素\", \"叶绿素\", and \"两相\" on the chalkboard while explaining, likely linking these terms to the graph.\n- **Modifications**: No erasures are observed; the teacher only adds information.\n- **Deictic Gestures**: The teacher points to specific parts of the graph, possibly highlighting key data points or trends, and gestures towards the newly written terms on the chalkboard.\n\n**The Highlighting Strategy (Emphasis):**\n- The teacher uses underlining or circling motions with chalk to emphasize terms like \"向光素\" and \"隐花色素\".\n- The use of the digital screen in conjunction with the chalkboard suggests a strategy to connect theoretical terms with empirical data.\n\nThis structured approach ensures a clear link between the teacher's actions and the evolving visual content, facilitating a deeper understanding of the lesson's progression.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nInitially, the digital screen displayed a graph illustrating a biological process, likely related to plant phototropism, with a prominent curve and annotations in Chinese. The chalkboard initially showed the phrase \"其他植物的向光\". The teacher began by pointing to specific segments of the curve, tracing the rising slope to highlight an increasing trend, possibly indicating a response to light.\n\nThen, the teacher moved to the chalkboard, constructing a list of key terms: \"向光素\", \"隐花色素\", \"光敏色素\", and \"叶绿素\". Each term was written with deliberate emphasis, underlining their significance. The teacher derived connections between these terms and the graph, using gestures to link the written concepts with the empirical data on the screen.\n\nAs the lecture progressed, the teacher added \"两相\" twice, constructing a framework for a two-phase concept. This addition was synchronized with further annotations on the graph, likely illustrating how these phases manifest in the data.\n\nFinally, the teacher circled the newly written terms on the chalkboard, reinforcing their importance. The visual strategy of using both the digital graph and the chalkboard reduced cognitive load by providing a dual representation of the concepts, allowing students to connect theoretical terms with practical data trends. The teacher's deliberate highlighting and deictic gestures ensured that each element was clearly tied to the overarching lesson on plant phototropism.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Plant Hormones",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 360.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Abscisic Acid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 293.24]"
+      },
+      {
+        "id": "c3",
+        "label": "Cell Division Hormone",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 360.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Auxin",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 321.9]"
+      },
+      {
+        "id": "c5",
+        "label": "Gibberellins",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[240.0 -> 321.9]"
+      },
+      {
+        "id": "c6",
+        "label": "Ethylene",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[323.0 -> 360.0]"
+      },
+      {
+        "id": "c7",
+        "label": "Hormone Functions",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[323.0 -> 360.0]"
+      },
+      {
+        "id": "c8",
+        "label": "Synthesis Sites",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[323.0 -> 360.0]"
+      },
+      {
+        "id": "v1",
+        "label": "Graph of Hormone Peaks",
+        "type": "Visual",
+        "original_text": "Digital screen displaying a graph with hormonal peaks during plant growth.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Key Terms on Chalkboard",
+        "type": "Visual",
+        "original_text": "Chalkboard with terms 'Abscisic Acid', 'Cell Division Hormone', 'Auxin', 'Gibberellins', 'Ethylene'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v3",
+        "label": "Two-phase Concept",
+        "type": "Visual",
+        "original_text": "Chalkboard highlighting 'Two-phase'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students Engaged",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The digital graph visually represents the hormone peaks over plant growth."
+      },
+      {
+        "source": "c2",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Chalkboard highlights the importance of abscisic acid in the hormone sequence."
+      },
+      {
+        "source": "c3",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Chalkboard shows the significance of cell division hormone."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Auxin written on the chalkboard to underline its role."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Inclusion of gibberellins on the board to emphasize their function."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Ethylene added to the chalkboard to stress its importance."
+      },
+      {
+        "source": "c7",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Defines the functions of abscisic acid."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Describes the functions of auxin."
+      },
+      {
+        "source": "c7",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Explains the role of gibberellins."
+      },
+      {
+        "source": "c7",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Covers the functions of ethylene."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Locates synthesis sites for abscisic acid."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Identifies synthesis locations for auxin."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Synthesis sites of gibberellins discussed."
+      },
+      {
+        "source": "c8",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Ethylene synthesis sites explained."
+      },
+      {
+        "source": "v3",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Two-phase concept provides framework for understanding graph data."
+      },
+      {
+        "source": "v3",
+        "target": "c1",
+        "relation": "scaffolds",
+        "intent": "Two-phase concept helps explain plant hormone dynamics."
+      },
+      {
+        "source": "v3",
+        "target": "c7",
+        "relation": "scaffolds",
+        "intent": "Assists in understanding hormone functions within phases."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Student engagement with board content."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "Student engagement through graph interpretation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

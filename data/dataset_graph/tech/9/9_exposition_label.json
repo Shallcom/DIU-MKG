@@ -1,0 +1,153 @@
+{
+  "video_name": "9_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "tech",
+  "teaching_goal": "Master the method for determining the metal activity series; verify the relative strengths of metal activity through experimental design.",
+  "transcript": "[244.68 -> 356.26] 在这里呢老师给大家一点小提示波尔多叶啊它其实就是由硫酸铜生石灰加水配制而成的那同学们提到硫酸铜和铁大家有没有想起我们前面所学习过的一个反应啊有没有想到对的这位同学你来说说看铁和硫酸铜会发生置换反应非常好请坐是的铁和硫酸铜会反应生成铜和硫酸亚铁发生一个置换反应所以呢硫酸铜也就是含有这个硫酸铜的波尔多液就不能用铁铜来装了而发生这个反应的原因啊其实就是因为铁它的金属活动性比铜强可以把铜从硫酸铜软液当中置换出来那这呢其实呀也就是我们去比较金属活动性的依据之一好同学们那根据这一个依据现在呀我们来看吧铝铜银三种金属啊他们正在争夺谁的金属活动性更强啊同学们你们能否根据刚刚的一个依据来对他们设计实验呢看清楚他们究竟谁的活动性更强这里啊老师给大家提供一点资料这三种金属它们对应的金属岩溶液分别是硫酸铝硫酸铜和硝酸银好那现在呢就请同学们分成小组来这几位同学你们为一组请大家呢相互交流讨论结合我们教材当中的内容想想看你们可以如何设计实验呢。",
+  "visual_facts": "### Visual-Temporal Analysis\n\n#### Beginning\n- **Core Artifact**: The initial visual anchor is the digital screen displaying the title \"金属活动性顺序\" (Metal Activity Order). The blackboard is initially blank except for the number \"09\".\n- **Teacher Action**: The teacher writes \"金属活动性顺序\" on the blackboard, mirroring the screen content. This establishes the topic visually.\n\n#### Middle\n- **Slide Content**: The screen transitions to a slide with the text \"通过金属与酸的反应、金属与盐溶液的置换反应探究金属活动性的强弱顺序\" (Investigate the order of metal activity through reactions with acids and displacement reactions with salt solutions).\n- **Teacher Action**: The teacher points to the chemical equation $\\text{Fe} + \\text{CuSO}_4 \\rightarrow \\text{FeSO}_4 + \\text{Cu}$ on the screen, explaining the reaction. She uses hand gestures to emphasize the reactants and products.\n- **Visual Necessity**: The teacher writes the equation on the blackboard, reinforcing the visual information from the screen.\n\n#### End\n- **Slide Content**: The screen displays a list of metals: \"Mg, Zn, Cu, Ag\" and their corresponding reactions with acids and salt solutions.\n- **Teacher Action**: The teacher points to each metal on the list, explaining their activity order. She writes the reactions on the blackboard, using gestures to highlight key points.\n- **Highlighting Strategy**: The teacher circles the metals in the order of activity on the screen, visually emphasizing the hierarchy.\n\n### Knowledge Flow Tracking\n\n1. **Core Artifact (Static)**: The main visual anchor is the list of metals and their reactions displayed on the screen. The blackboard serves as a secondary visual aid for writing equations.\n   \n2. **Derivation Process (Dynamic)**:\n   - **Additions**: The teacher writes chemical equations on the blackboard as she explains each reaction, adding visual elements to support the spoken content.\n   - **Modifications**: No erasures are observed; the teacher builds upon the existing content.\n   - **Deictic Gestures**: The teacher points to specific parts of the equations and metal list, synchronizing her explanations with visual cues.\n\n3. **Highlighting Strategy (Emphasis)**:\n   - The teacher uses hand gestures to underline or circle key parts of the equations and metal list on the screen.\n   - Important reactions and metal orders are written on the blackboard, reinforcing their significance.\n\nThis structured visual evolution ensures that abstract concepts are transformed into concrete knowledge through synchronized visual and verbal explanations.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed the title \"金属活动性顺序\" (Metal Activity Order), establishing the core visual anchor for the lesson. The blackboard was initially marked with the number \"09\". The teacher began by writing \"金属活动性顺序\" on the blackboard, aligning it with the screen content to reinforce the topic.\n\nAs the lecture progressed, the screen transitioned to a slide detailing the investigation of metal activity through reactions with acids and salt solutions. The teacher constructed the chemical equation $\\text{Fe} + \\text{CuSO}_4 \\rightarrow \\text{FeSO}_4 + \\text{Cu}$ on the blackboard, mirroring the screen. She derived the reaction process by pointing to each component, tracing the transformation of iron and copper sulfate into iron sulfate and copper, thereby illustrating the displacement reaction.\n\nThe teacher then annotated the list of metals \"Mg, Zn, Cu, Ag\" displayed on the screen, explaining their activity order. She wrote corresponding reactions on the blackboard, using gestures to emphasize key points. For instance, she traced the rising activity order from magnesium to silver, highlighting the hierarchy.\n\nThroughout the lecture, visual highlighting strategies were employed to reduce cognitive load. The teacher circled the metals in order of activity on the screen and used contrasting chalk colors on the blackboard to differentiate between reactants and products. By constructing equations and annotating the metal list, she visually reinforced the concepts, ensuring students could follow the logical progression from abstract theory to concrete examples. The final emphasis on the activity order was marked by circling the metals on the screen, solidifying the lesson's conclusion.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Metal Activity Order",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c2",
+        "label": "Displacement Reaction",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c3",
+        "label": "Iron and Copper Sulfate Reaction",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c4",
+        "label": "Iron Activity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c5",
+        "label": "Comparison of Metal Activities",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c6",
+        "label": "Metal Activity with Acid",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c7",
+        "label": "Chemical Equation on Blackboard",
+        "type": "Visual",
+        "original_text": "The blackboard displaying the reaction: Fe + CuSO4 → FeSO4 + Cu",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Metal List Slide",
+        "type": "Visual",
+        "original_text": "Slide showing metals: Mg, Zn, Cu, Ag and their reactions",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c9",
+        "label": "Student Group Experiment Design",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      },
+      {
+        "id": "c10",
+        "label": "Arsenic vs Copper Activity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c11",
+        "label": "Metallic Reaction Hierarchy",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.68 -> 356.26]"
+      },
+      {
+        "id": "c12",
+        "label": "Sulfate Reactions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[244.68 -> 356.26]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Explains the concept using displacement reactions."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "builds_upon",
+        "intent": "Demonstrates a specific example of the principle."
+      },
+      {
+        "source": "c3",
+        "target": "c7",
+        "relation": "visualizes",
+        "intent": "Represents the reaction visually on the blackboard."
+      },
+      {
+        "source": "c4",
+        "target": "c10",
+        "relation": "builds_upon",
+        "intent": "Shows iron's stronger activity compared to copper."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Involves designing procedures to determine metal activity."
+      },
+      {
+        "source": "c5",
+        "target": "c11",
+        "relation": "evolves_from",
+        "intent": "Forms a hierarchy based on experimental results."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "emphasizes",
+        "intent": "Highlights metal reactions on the screen slide."
+      },
+      {
+        "source": "c9",
+        "target": "c5",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm experimental designs for procedure."
+      },
+      {
+        "source": "c6",
+        "target": "c12",
+        "relation": "builds_upon",
+        "intent": "Describes metal reactions involving sulphates."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

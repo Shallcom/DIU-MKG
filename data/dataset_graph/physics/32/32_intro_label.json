@@ -1,0 +1,115 @@
+{
+  "video_name": "32_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "physics",
+  "teaching_goal": "Master the basic method for analyzing the conditions of Ohm’s Law experiments; understand how to carry out innovative research by leveraging existing resources in scientific investigations.",
+  "transcript": "[0.0 -> 32.24] 钟近的各位评委老师亲爱的同学们大家好我是第三十二号选手。\n[34.84 -> 60.0] 首先我想对各位评委老师以及参赛选手和我自己和我们的志愿者说一声辛苦了在备赛期间我也感到很辛苦那么今天我抽到的即席讲演题目是欧姆研究电路中电流时条件非常的艰难甚至在当年连电流表都没有让我设想一下这个场景那么欧姆在研究欧姆定律的时候为了得出欧姆定律应该分析具有哪些实验条件才能够满足进行研究当我拿到这个题目的时候我现象我知道非常的倒霉那么我认为欧姆真的是一个非常厉害的科学家他竟然能够在当年连电流表都没有的情况下设想出通过实验一步一步地得到闭合电路欧姆电率。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The lesson begins with a yellow title screen displaying the text: \"第十届‘田家炳杯’全国师范院校师范生教学技能竞赛\" (The 10th National Contest of Teaching Skills for Teacher College Students). The screen also features colorful circular icons and the number \"10\" prominently displayed.\n\n#### 2. **The Title Event**\n- The title on the screen reads \"§1.2 原子核的组成\" (Section 1.2: Composition of the Atomic Nucleus). The teacher does not physically write this title but presents it on the digital screen. She stands beside the screen, indicating the start of the lesson.\n\n#### 3. **The Objectives**\n- The slide lists several learning objectives:\n  - 了解原子核的组成 (Understand the composition of the atomic nucleus)\n  - 知道天然放射现象 (Know about natural radioactivity)\n  - 了解三种射线的本质 (Understand the nature of the three types of radiation)\n  - 知道原子核式结构模型 (Know the nuclear model of the atom)\n\n#### 4. **Key Gestures**\n- The teacher gestures towards the digital screen, pointing to the objectives and diagrams displayed.\n- She holds papers and occasionally looks at them while explaining.\n- The teacher uses hand movements to emphasize points, such as raising her hand to signal the start of a new section.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The video opens with a title screen introducing the teaching skills competition.\n- Transition to the classroom where the teacher stands beside a digital screen displaying \"§1.2 原子核的组成\" (Section 1.2: Composition of the Atomic Nucleus).\n\n**Middle:**\n- The teacher presents the learning objectives on the screen, pointing to each bullet point as she explains them.\n- She gestures towards a diagram on the screen, likely illustrating the atomic nucleus or related concepts.\n- The teacher moves between the screen and the blackboard, using hand gestures to emphasize key points.\n\n**End:**\n- The teacher continues to engage with the content on the screen, using hand movements to highlight important information.\n- She maintains eye contact with the students, ensuring they follow along with the lesson.\n\nThis structured approach ensures a clear link between the teacher's actions and the visual content, providing a detailed visual analysis of the lesson introduction.",
+  "visual_narrative": "Initially, the screen presents a vibrant yellow title screen for the teaching skills competition, setting the stage for the lesson. To bridge to the topic, the teacher stands beside a digital screen displaying \"§1.2 原子核的组成\" (Section 1.2: Composition of the Atomic Nucleus), using hand gestures to direct attention to the objectives listed on the screen. The visual focus then shifts to the learning goals, which include understanding the atomic nucleus and natural radioactivity. The teacher points to each objective, emphasizing key concepts and linking them to diagrams on the screen. This structured introduction connects new knowledge to foundational concepts, preparing students for a deeper exploration of atomic structure and radiation, ensuring a clear and engaging start to the lesson.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ohm's Law",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[34.84 -> 60.0]"
+      },
+      {
+        "id": "c2",
+        "label": "Experiment Conditions",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[34.84 -> 60.0]"
+      },
+      {
+        "id": "c3",
+        "label": "Innovative Research",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[34.84 -> 60.0]"
+      },
+      {
+        "id": "c4",
+        "label": "Atomic Nucleus Composition",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 32.24]"
+      },
+      {
+        "id": "c5",
+        "label": "Natural Radioactivity",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 32.24]"
+      },
+      {
+        "id": "c6",
+        "label": "Types of Radiation",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 32.24]"
+      },
+      {
+        "id": "c7",
+        "label": "Nuclear Atom Model",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 32.24]"
+      },
+      {
+        "id": "v1",
+        "label": "Teaching Skills Competition Title Screen",
+        "type": "Visual",
+        "original_text": "The 10th National Contest of Teaching Skills for Teacher College Students.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Composition of Atomic Nucleus Slide",
+        "type": "Visual",
+        "original_text": "§1.2 Composition of the Atomic Nucleus.",
+        "ocr_corrected": true
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Identifies the conditions required to apply Ohm's Law in experiments."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Utilizing identified conditions to perform innovative scientific research."
+      },
+      {
+        "source": "c4",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The digital screen displays the concept of atomic nucleus composition."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Natural radioactivity encompasses different types of radiation."
+      },
+      {
+        "source": "c7",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The nuclear model of the atom includes the composition of the atomic nucleus."
+      },
+      {
+        "source": "v1",
+        "target": "c4",
+        "relation": "emphasizes",
+        "intent": "Title screen sets the stage for the lesson focused on atomic nucleus."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,139 @@
+{
+  "video_name": "44_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "biology",
+  "teaching_goal": "Understand the concept and importance of internal‑environment homeostasis; analyze how external changes impact the internal environment.",
+  "transcript": "[230.68 -> 358.98] 组织液然后融入淋巴管结成淋巴液然后淋巴液再重新融合变成淋巴液哦很好请坐同学们你们认同他的回忆上节课我们所学的知识吗我看大家纷纷点头好的那我们学习了组织液淋巴液血浆它们这三种内环境成分并且中间不断地进行着物质循环相互循环和流动那么同学们我们在外界环境变化和我们的细胞内的化学反应以及物质理化性质如何在变化中老师想问那内环境它会因此而剧烈发生变化吗这三种物质在变化在理化性质还有代谢发生变化内环境会发生剧烈变化吗那带着这个问题让我们一起进入生物课堂我们一起来学习内环境的稳态当然既然谈到了这个不知道同学们你们还记不记得老师上节课给你们布置了一个小任务请你们利用课后时间周末时间我们一起针对全家人的这样的一个体温做出变化你们有没有完成的来我们现在来检查一下请同学们把这张体温表拿在桌上好你这是记录的那我把它一天体温记录下来很好那我们把这个图缩小一下请同学们看观察你们所记录的家庭成员的一日体温表老师想问不同家庭成员的他们的体温情况完全一致吗",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a diagram with arrows connecting \"組織水\" (tissue water), \"組織液\" (interstitial fluid), \"血液\" (blood), and \"細胞\" (cells).\n- The teacher gestures towards the diagram, specifically pointing to the arrows indicating fluid movement between these components.\n- The blackboard to the left has the text \"生物組 某某科 歩み選手\" written vertically.\n\n**Middle:**\n- The teacher writes \"内環境の概念\" (Concept of the internal environment) on the blackboard.\n- The digital screen updates to show a table titled \"任一分析人种群变动受影響\" with columns for different time points and population sizes.\n- The teacher uses a pointer to highlight specific parts of the table, emphasizing the data entries.\n\n**End:**\n- The teacher continues to gesture towards the table, pointing at specific rows and columns while explaining the data.\n- The teacher writes additional notes on the blackboard, reinforcing the concepts discussed.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the digital screen displaying a diagram of fluid dynamics in the body and later a table analyzing population changes.\n   - The diagram uses arrows to show the flow between tissue water, interstitial fluid, blood, and cells.\n   - The table has columns labeled with time points (e.g., 0, 10, 20, 30) and rows for different species or groups.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"内環境の概念\" on the blackboard while explaining the internal environment concept.\n   - **Modifications**: The teacher points to specific arrows in the diagram to illustrate fluid movement, and later highlights data in the table.\n   - **Deictic Gestures**: The teacher points to the arrows in the diagram and specific cells in the table while explaining their significance.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses a pointer to emphasize key parts of the diagram and table.\n   - Important concepts are written on the blackboard, such as \"内環境の概念,\" to reinforce the lesson's focus.\n   - The teacher's gestures and pointing serve to draw attention to critical data points and relationships in the visual content.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the digital screen displayed a diagram illustrating fluid dynamics within the body, with arrows connecting \"組織水\" (tissue water), \"組織液\" (interstitial fluid), \"血液\" (blood), and \"細胞\" (cells). The teacher constructed an understanding of these interactions by tracing the arrows to demonstrate fluid movement between these components. The blackboard featured the text \"生物組 某某科 歩み選手\" vertically, setting the context for the lesson.\n\nThen, the teacher gave a lecture, writing \"内環境の概念\" (Concept of the internal environment) on the blackboard. The digital screen transitioned to a table titled \"任一分析人种群变动受影響,\" with columns for time points and population sizes. The teacher derived insights by pointing to specific data entries, tracing the population changes over time to highlight trends.\n\nFinally, the teacher annotated the table, emphasizing key data points and reinforcing the concepts discussed. Visual highlighting, such as pointing to specific arrows and data cells, aligned with the lesson's conclusions, reducing cognitive load by focusing attention on critical information. The teacher's gestures and written notes on the blackboard served to solidify the understanding of internal environment dynamics and population analysis.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Internal Environment Concept",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[250.00 -> 300.00]"
+      },
+      {
+        "id": "c2",
+        "label": "Tissue Water",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.68 -> 358.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Interstitial Fluid",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.68 -> 358.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Blood",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.68 -> 358.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Cells",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[230.68 -> 358.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Fluid Movement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[230.68 -> 358.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Population Change Analysis",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[300.00 -> 350.00]"
+      },
+      {
+        "id": "v1",
+        "label": "Diagram of Body Fluid Dynamics",
+        "type": "Visual",
+        "original_text": "Diagram with arrows showing the flow between tissue water, interstitial fluid, blood, and cells.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Population Change Table",
+        "type": "Visual",
+        "original_text": "Table showing time points and population sizes for different species.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Agreement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "The diagram on the digital screen illustrates the concept of internal environment dynamics."
+      },
+      {
+        "source": "c6",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Fluid movement involves tissue water as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Fluid movement involves interstitial fluid as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Fluid movement involves blood as a key component."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Fluid movement involves cells as a key component."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "The concept of internal environment is based on understanding fluid movement."
+      },
+      {
+        "source": "c7",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "The table provides a visual representation of population change analysis."
+      },
+      {
+        "source": "v2",
+        "target": "c7",
+        "relation": "emphasizes",
+        "intent": "The visual elements of the table emphasize key data points relevant to population changes."
+      },
+      {
+        "source": "c1",
+        "target": "ss1",
+        "relation": "prompts_thinking",
+        "intent": "The teacher's explanation of the internal environment concept engages and prompts students' agreement."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

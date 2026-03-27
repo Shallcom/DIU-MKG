@@ -1,0 +1,159 @@
+{
+  "video_name": "9_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "history",
+  "teaching_goal": "Understand the application of project‑based learning in history teaching; analyze the impact of project‑based learning on student engagement.",
+  "transcript": "[0.0 -> 72.74] 好中间的评委你们好我抽到的演讲题目是在大学生活中有哪一种教学模式和教学方法对我产生了积极影响这里我想说的是关于这种教学模式这类方法对我影响比较大的是项目式学习首先项目式学习就是以某个问题为基础让学生通过这种教学模式的方法对我影响比较大的是项目式学习首先项目式学习就是以某个问题为基础让学生通过小组合作的方式进行讨论学习同时解决这个问题这个学习方法的好处在于它能够调动学生的学习积极性让每个学生他的参与度都比较高能够让学生在学习的过程中体会到学习的乐趣二是它的可操作性高在项目式学习的过程当中每个学生都有参与到项目解决问题的收集方法的讨论当中这对培养学生的实践能力和创新性能力也有一定的提高。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. The Hook Object\n- **Description**: The hook object is an image of a factory scene with smokestacks emitting smoke, set against a backdrop of industrial buildings. This image is displayed on the screen at the beginning of the lesson.\n\n#### 2. The Title Event\n- **Title**: \"第5课 工业革命与工厂制度\" (Lesson 5: Industrial Revolution and Factory System)\n- **Teacher's Action**: The title is displayed on the screen. The teacher stands in front of the screen, likely emphasizing the title through verbal introduction.\n\n#### 3. The Objectives\n- **Learning Goals**: Not explicitly visible in the provided frames. The focus is on the title and hook image.\n\n#### 4. Key Gestures\n- **Gestures**: The teacher stands with hands clasped or slightly gesturing towards the screen, likely to draw attention to the title and hook image.\n\n### Chronological Log of Visual Events\n\n#### Beginning\n- **Visual Element**: The screen displays the title \"第5课 工业革命与工厂制度\" alongside the hook image of a factory scene.\n- **Teacher Action**: The teacher stands in front of the screen, possibly introducing the topic verbally. No specific gestures are noted towards the title or image.\n\n#### Middle\n- **Visual Element**: The title and hook image remain on the screen.\n- **Teacher Action**: The teacher maintains a central position, likely elaborating on the introduction. Gestures are minimal, focusing on engaging the audience.\n\n#### End\n- **Visual Element**: The screen continues to display the same title and hook image.\n- **Teacher Action**: The teacher continues to stand in front of the screen, possibly transitioning to the next part of the lesson. No significant gestures are observed.\n\n### Summary\nThe introduction phase centers on the visual hook of an industrial factory scene, paired with the title \"第5课 工业革命与工厂制度.\" The teacher's actions are primarily verbal, with minimal gestures, focusing on engaging the audience with the initial visual content. The setup suggests a transition into a detailed discussion on the Industrial Revolution and factory systems.",
+  "visual_narrative": "The introduction phase begins with the teacher standing in front of a screen displaying a vivid image of a factory scene, complete with smokestacks and industrial buildings, serving as the hook to capture the students' attention. The teacher's initial state is composed, with hands clasped, focusing on engaging the audience visually. The screen prominently features the title \"第5课 工业革命与工厂制度,\" which remains static throughout the introduction. The teacher's actions are primarily verbal, with minimal gestures, emphasizing the visual content on the screen. As the introduction progresses, the visual aid remains consistent, reinforcing the theme of industrialization. The teacher's presence and the static visual elements create a bridge, linking the historical context of the Industrial Revolution to the students' existing understanding of historical transformations. This setup prepares the students for a deeper exploration of the topic, grounding the new knowledge in a relatable visual framework that hints at the technological and societal changes to be discussed. The introduction effectively sets the stage for a detailed examination of the Industrial Revolution and its impact on factory systems, ensuring a smooth transition into the main content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Industrial Revolution",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c2",
+        "label": "Factory System",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c3",
+        "label": "Project-Based Learning",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c4",
+        "label": "Student Engagement",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c5",
+        "label": "Collaboration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c6",
+        "label": "Problem Solving",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c7",
+        "label": "Practical Skills",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "c8",
+        "label": "Innovative Thinking",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 72.74]"
+      },
+      {
+        "id": "v1",
+        "label": "Factory Scene Image",
+        "type": "Visual",
+        "original_text": "Image of factory scene with smokestacks and industrial buildings",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Lesson Title",
+        "type": "Visual",
+        "original_text": "Lesson 5: Industrial Revolution and Factory System",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Students' Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged",
+        "timestamp": "[0.0 -> 72.74]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Industrial Revolution encompasses the factory system as a key component."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "builds_upon",
+        "intent": "Project-Based Learning enhances student engagement through active participation."
+      },
+      {
+        "source": "c3",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Project-Based Learning includes collaboration as a core aspect."
+      },
+      {
+        "source": "c3",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Project-Based Learning includes problem solving as a method for knowledge application."
+      },
+      {
+        "source": "c5",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Collaboration is essential for effective problem solving."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Problem solving leads to the development of practical skills."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "builds_upon",
+        "intent": "Problem solving fosters innovative thinking."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Factory scene image visualizes the Industrial Revolution context."
+      },
+      {
+        "source": "v2",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Lesson title emphasizes the focus on Industrial Revolution."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Lesson title emphasizes the focus on the Factory System."
+      },
+      {
+        "source": "s1",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Students' engagement evolves from the application of project-based learning."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

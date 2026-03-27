@@ -1,0 +1,159 @@
+{
+  "video_name": "33_intro.mp4",
+  "teaching_stage": "intro",
+  "subject": "politics",
+  "teaching_goal": "Understand the implementation background and significance of disciplinary rules in primary and secondary education; analyze the role and impact of teachers in students' development; master strategies for home‑school collaboration in addressing students' mental‑health issues.",
+  "transcript": "[0.0 -> 138.98] 并第一颗扣子二零二一年起中小学教育惩戒规则进行实行引发热议而我认为惩戒只是手段教育学生才是根本目的那么我们作为一名私政课教师需要怎么做呢首先我们要以身作则定位角色教师往往对于学生起到积极的榜样作用发挥着积极的推动力就像沙利文老师之于海伦凯勒只有我们作为资政教师帮助学生树立好三观帮助他们更好地认清历史与现实我们才能更好地帮助学生进行成长第二了解学生的身心健康他们背后的问题尽管我们在课堂上或者课堂之外对于学生进行教育惩戒但是我们更需要认识到这背后存在的问题目前中小学学生的群体中往往存在普遍的心理健康问题我们只有积极地进行家校沟通进行社会合作才能更好地帮助学生解决这档相关的问题第三积极反思总结进步作为一名新教师我有时候会存在如何更好地去惩戒学生帮助学生修改相关问题的这样的问题因此我要向前辈老师积极地请教从而更好地进行成长我想教育就是一朵云推动另一朵鱼一棵树推动另一棵树只有学生的成长才是我们最终的目的我愿用四季耕耘的情怀奋发有为的担当谱写新时代的青春之歌以上是我即席讲演的全部内容接下来将开始我的模拟课堂环节。",
+  "visual_facts": "### Visual Forensic Expert Analysis\n\n#### 1. **The Hook Object**\n- The hook object is the presentation slide displayed on the screen. The slide contains Chinese text, which appears to be the title of the lesson.\n\n#### 2. **The Title Event**\n- The exact title on the screen reads: \"中华人民共和国成立前各种政治力量\" (Various Political Forces Before the Founding of the People's Republic of China).\n- The teacher is standing in front of the screen, presenting the slide. There is no indication of the teacher writing or underlining the title.\n\n#### 3. **The Objectives**\n- The slide includes a list of bullet points, but the specific text is not clearly visible. The layout suggests these are learning objectives or key points.\n\n#### 4. **Key Gestures**\n- The teacher is holding papers and occasionally gesturing with them, likely emphasizing points related to the content on the slide.\n- The teacher's gestures include pointing towards the screen, possibly to draw attention to specific parts of the slide.\n\n### Chronological Log of Visual Events\n\n**Beginning:**\n- The teacher stands in front of the class, holding papers.\n- The presentation slide is displayed, showing the title \"中华人民共和国成立前各种政治力量\" and a list of bullet points.\n- The teacher gestures towards the screen, likely introducing the topic.\n\n**Middle:**\n- The teacher continues to gesture with the papers, possibly explaining the content on the slide.\n- The teacher points to the screen, emphasizing the title and bullet points.\n\n**End:**\n- The teacher maintains focus on the slide, using hand movements to engage with the content.\n- The visual elements remain consistent, with the slide as the central focus.\n\n### Summary\nThe lesson introduction centers around the slide titled \"Various Political Forces Before the Founding of the People's Republic of China.\" The teacher uses gestures to engage with the content, pointing to the screen to emphasize key points. The visual layout includes a title and bullet points, guiding the initial discussion.",
+  "visual_narrative": "**Final Visual Summary (summary_vis):**\n\nThe introduction phase begins with the teacher standing in front of the class, holding papers, and presenting a slide as the opening visual stimulus. The slide prominently displays the title \"Various Political Forces Before the Founding of the People's Republic of China,\" serving as the hook to capture the students' attention. The teacher gestures towards the screen, pointing to the title and the list of bullet points, which likely outline the lesson's objectives or key points. This visual transition from the hook to the main topic is seamless, as the teacher uses hand movements to emphasize the content on the slide, maintaining focus on the title and bullet points. The teacher's gestures, such as pointing and holding the papers, help bridge the introduction to the main topic, grounding the students' attention on the historical context being presented. This approach effectively links the new knowledge to the students' existing understanding of historical events, setting the stage for a detailed exploration of political forces in the specified period.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Disciplinary Rules",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c2",
+        "label": "Teachers as Role Models",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c3",
+        "label": "Helen Keller",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c4",
+        "label": "Physical and Mental Health",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c5",
+        "label": "Home-School Collaboration",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c6",
+        "label": "Student Development",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c7",
+        "label": "Educational Growth",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c8",
+        "label": "Classroom Rules",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "c9",
+        "label": "Social Cooperation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[0.0 -> 138.98]"
+      },
+      {
+        "id": "v1",
+        "label": "Political Forces Slide",
+        "type": "Visual",
+        "original_text": "Various Political Forces Before the Founding of the People's Republic of China",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Bullet Points",
+        "type": "Visual",
+        "original_text": "Outline of lesson objectives or key points",
+        "ocr_corrected": false
+      },
+      {
+        "id": "s1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c8",
+        "relation": "includes",
+        "intent": "Disciplinary rules encompass classroom rules."
+      },
+      {
+        "source": "c2",
+        "target": "c6",
+        "relation": "builds_upon",
+        "intent": "Teachers as role models foster student development."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Helen Keller's example emphasizes the importance of teachers as role models."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "builds_upon",
+        "intent": "Addressing physical and mental health issues requires home-school collaboration."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "builds_upon",
+        "intent": "Effective home-school collaboration necessitates social cooperation."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "evolves_from",
+        "intent": "Student development evolves into educational growth."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "The slide emphasizes the bullet points."
+      },
+      {
+        "source": "c1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Disciplinary rules are visualized through the political forces slide."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "emphasizes",
+        "intent": "The role of teachers as emphasized in the lesson introduction."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "engages",
+        "intent": "Students are engaged with the lesson objectives on screen."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

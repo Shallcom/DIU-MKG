@@ -1,0 +1,146 @@
+{
+  "video_name": "35_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "math",
+  "teaching_goal": "Be able to derive and understand the basic forms of trigonometric identities; master the methods for verifying trigonometric identities at special angles.",
+  "transcript": "[635.46 -> 722.02] 好时间到那魏同学来说一下你最后所得出的式子来圣人同学口散阿尔法减贝塔等于口散阿尔法口散贝塔加口散阿尔法三倍很好请坐就等于呀口散耶口散阿尔法减贝塔等于口散阿尔法减贝塔它等于口在阿哈方口在北方加塞在阿哈方塞在北方那么这一式子对于任意的春江函数是否都成立呢不是你写错了应该是没有平方刚刚我们所研究的是阿法不等于二K派加贝特的式的情况如果阿法等于二K派加贝特呢此时让我们来看那么此时就是口塞延二K派就等于一口塞延阿法等于口塞延贝特变成口塞延贝特方加塞延贝特方也等于一此时我们可以验证这个柿子也是成立的所以说我们就得出了两脚叉的鱼咸肉柿。\n[740.66 -> 748.24] 口塞面而翻。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard, which contains a series of mathematical formulas and a diagram. The layout includes:\n     - A list of trigonometric identities and equations on the left side.\n     - A circular diagram with angles and trigonometric functions in the center.\n     - A large screen on the right displaying a slide with key points.\n\n2. **Key Knowledge Items (Content View)**:\n   - Formulas on the blackboard:\n     - $P(\\cos\\theta, \\sin\\theta)$\n     - $\\cos\\theta = \\frac{x}{r}$, $\\sin\\theta = \\frac{y}{r}$\n     - $\\tan\\theta = \\frac{y}{x}$\n     - $\\cos^2\\theta + \\sin^2\\theta = 1$\n   - Slide content:\n     - Title: \"课堂小结\" (Class Summary)\n     - Key points:\n       - $\\sin\\alpha = \\frac{y}{r}$, $\\cos\\alpha = \\frac{x}{r}$, $\\tan\\alpha = \\frac{y}{x}$\n       - 任意角的三角函数 (Trigonometric functions of any angle)\n       - $\\text{cosine } \\alpha = \\frac{x}{r}$, $\\text{sine } \\alpha = \\frac{y}{r}$, $\\text{tangent } \\alpha = \\frac{y}{x}$\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the formula $\\cos\\theta = \\frac{x}{r}$ and $\\sin\\theta = \\frac{y}{r}$ on the blackboard, emphasizing the definitions.\n   - She gestures towards the circular diagram, highlighting the relationships between angles and trigonometric functions.\n   - The teacher points to the slide, reviewing the key points listed, particularly the definitions of sine, cosine, and tangent.\n\n4. **Transition to Next Step**:\n   - The slide includes a note at the bottom: \"exercise: page 15, #1-5\", indicating homework or further practice.\n   - No additional visual elements for next lesson are shown, but the homework reference suggests continued practice on the topic.",
+  "visual_narrative": "The lesson concludes with a summary slide and blackboard centered on trigonometric functions of any angle. The teacher visually reviews the content by pointing to each formula on the blackboard, emphasizing the definitions of $\\cos\\theta = \\frac{x}{r}$ and $\\sin\\theta = \\frac{y}{r}$. She gestures towards the circular diagram, reinforcing the relationships between angles and trigonometric functions. The visual focus then shifts to the slide, where she highlights the key points, particularly the definitions of sine, cosine, and tangent. Finally, the visual handover to homework is indicated by the note on the slide: \"exercise: page 15, #1-5,\" signaling the end of the session.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Trigonometric Identities",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "c2",
+        "label": "cosine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "c3",
+        "label": "sine",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": " [635.46 -> 722.02]"
+      },
+      {
+        "id": "c4",
+        "label": "tangent",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "c5",
+        "label": "cosine rule",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "c6",
+        "label": "sine rule",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "c7",
+        "label": "Trig Functions of Angles",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "c8",
+        "label": "P(cos theta, sin theta)",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[635.46 -> 722.02]"
+      },
+      {
+        "id": "v1",
+        "label": "Blackboard Formulas",
+        "type": "Visual",
+        "original_text": "Blackboard with trigonometric identities and a circular diagram displaying angles.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "v2",
+        "label": "Slide: Class Summary",
+        "type": "Visual",
+        "original_text": "Slide displaying summary points on trigonometric functions and identities.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "ss1",
+        "label": "Student Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "Trigonometric identities include cosine."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Trigonometric identities include sine."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Trigonometric identities include tangent."
+      },
+      {
+        "source": "c2",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher points at cosine formula on blackboard."
+      },
+      {
+        "source": "c3",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher points at sine formula on blackboard."
+      },
+      {
+        "source": "c5",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide displays cosine rule in Class Summary."
+      },
+      {
+        "source": "c6",
+        "target": "v2",
+        "relation": "visualizes",
+        "intent": "Slide displays sine rule in Class Summary."
+      },
+      {
+        "source": "c7",
+        "target": "v1",
+        "relation": "scaffolds",
+        "intent": "Teacher points at circular diagram on blackboard summarizing trig functions of angles."
+      },
+      {
+        "source": "ss1",
+        "target": "c1",
+        "relation": "prompts_thinking",
+        "intent": "Students are engaged in learning about trigonometric identities."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,107 @@
+{
+  "video_name": "2_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "english",
+  "teaching_goal": "Be able to understand and use specific sentence structures to describe body parts and their functions; be able to identify and accumulate vocabulary expressions related to cultural elements.",
+  "transcript": "[616.92 -> 787.38] 好的我们的时间有点短了我们来分享一下你所找到的一些资讯在插座上吧好请你握着手来说说说这些资讯好吧第一个呢为什么是亚洲呢是亚洲对吧就在第一个字面上那怎么说呢那怎么说下一张图片呢这张图片介绍了他的脚踝好的挺好的这位女士atomsoftheofthepagasrightandsohowdidtheauthordescribethehatomsinthelastsentencewecansayitsvaluesrightormaybeitsfunctionsothelastsentencewewecansaythevalueandfunctionandinthebodypartwecansaytheauthor用一些描述的词词在第一部分的作者显示了我们的名字吧所以这就是这个选择的理想结构和介绍吧好的所以今天的课程是为您写下您的文化思想在下一个课程里面的所以今天课程就到这里谢谢您的听众。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the chalkboard diagram titled \"Welcome to Chiraqtown.\"\n   - The diagram is structured as a flowchart with three main sections: \"An introduction,\" \"Body,\" and \"Conclusion.\"\n   - The \"Body\" section is further divided into \"Beginning\" and \"Plans,\" with additional sub-labels \"Descriptive sentence\" and \"Underline/function.\"\n\n2. **Key Knowledge Items (Content View)**:\n   - Main headings: \"Welcome to Chiraqtown,\" \"An introduction,\" \"Body,\" \"Conclusion.\"\n   - Sub-sections: \"Beginning,\" \"Plans,\" \"Descriptive sentence,\" \"Underline/function.\"\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the \"Body\" section, emphasizing the division into \"Beginning\" and \"Plans.\"\n   - The teacher gestures towards the \"Descriptive sentence\" and \"Underline/function\" labels, highlighting their importance in the \"Plans\" section.\n   - The teacher uses hand movements to trace the flow from \"An introduction\" to \"Body\" and then to \"Conclusion,\" reinforcing the structure.\n\n4. **Transition to Next Step**:\n   - No explicit visual elements indicate homework or further reading in this segment. The focus remains on summarizing the lesson content on the board.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with the chalkboard displaying a flowchart titled \"Welcome to Chiraqtown,\" structured into \"An introduction,\" \"Body,\" and \"Conclusion.\" The \"Body\" section is further divided into \"Beginning\" and \"Plans,\" with additional labels \"Descriptive sentence\" and \"Underline/function.\" The teacher visually reviews the content by pointing to each section in sequence, emphasizing the flow from \"An introduction\" to \"Body\" and then to \"Conclusion.\" He highlights the \"Plans\" section, gesturing towards \"Descriptive sentence\" and \"Underline/function\" to underscore their significance. The teacher's gestures trace the logical progression of the diagram, reinforcing the lesson's structure. No visual elements indicate homework or next steps in this segment, focusing solely on consolidating the presented content.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Body Parts",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[616.92 -> 787.38]"
+      },
+      {
+        "id": "c2",
+        "label": "Sentence Structures",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[616.92 -> 787.38]"
+      },
+      {
+        "id": "c3",
+        "label": "Cultural Elements",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[616.92 -> 787.38]"
+      },
+      {
+        "id": "c4",
+        "label": "Descriptive Sentence",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[616.92 -> 787.38]"
+      },
+      {
+        "id": "c5",
+        "label": "Underline/Function",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[616.92 -> 787.38]"
+      },
+      {
+        "id": "v1",
+        "label": "Chalkboard Flowchart",
+        "type": "Visual",
+        "original_text": "Diagram with sections labeled 'An introduction', 'Body', 'Conclusion'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Plans Section",
+        "type": "Visual",
+        "original_text": "Highlighting 'Descriptive sentence' and 'Underline/function'",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Review Gestures",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Integrates understanding of body parts with using specific sentence structures."
+      },
+      {
+        "source": "c3",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Expands sentence structures with cultural vocabulary."
+      },
+      {
+        "source": "c4",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Descriptive sentence includes underlining functions."
+      },
+      {
+        "source": "v1",
+        "target": "v2",
+        "relation": "summarizes",
+        "intent": "Overall structure emphasized by detailed elements."
+      },
+      {
+        "source": "s1",
+        "target": "v1",
+        "relation": "visualizes",
+        "intent": "Teacher illustrates lesson flow to enhance student engagement."
+      },
+      {
+        "source": "s1",
+        "target": "v2",
+        "relation": "emphasizes",
+        "intent": "Teacher focuses on specific sections for clarity."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

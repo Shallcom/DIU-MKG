@@ -1,0 +1,158 @@
+{
+  "video_name": "25_conclusion.mp4",
+  "teaching_stage": "conclusion",
+  "subject": "chemistry",
+  "teaching_goal": "Be able to describe the basic methods for preparing and separating ethyl acetate; understand the mechanistic role of saturated sodium carbonate in the reaction; be able to analyze the factors affecting the hydrolysis of ethyl acetate.",
+  "transcript": "[521.56 -> 697.04] 大家有头绪吗没有头绪好首先我们这个反应的反应窝是不是乙酸与乙醇呢那在生成了乙酸乙酯后那么该装置是不是三种物质都混合在其中啊那我们该怎么把它分离出来呢我们需要乙酸乙酯那我们就要把它分离出来对不对那我们加入饱和碳酸钠的目的是是不是要把三种物质分离啊对分离出来啊那我们是怎么分离的呢我们加入了饱和碳酸钠溶液是饱和碳酸的溶液能与乙酸发生反应对不对那同样它也可以与乙醇发生反应是不是啊那饱和碳酸钠溶液的其中两个作用是不是啊中和乙酸以及吸收乙醇呀对不对啊那它还有一个作用啊我们要提取出乙酸乙酯啊那它的作用是什么呢我们怎么提取我们可以从溶解度的方向想一想对不对那么饱和碳酸钠的作用是不是可能是降低了乙酸乙酯的溶解度从而让生成物以分离出来让我们使用啊对不对好那所以通过这节课的学习我们是不是知道了青梅酒中含有乙酸乙脂并且我们也知道了该如何制备乙酸乙脂对不对所以其实在生活中化学无处不在不管是我们超市中的青梅酒还是我们平常生活中用到的物品是不是都与化学息息相关呀那我们是不是同样也要在生活中养成勤于实践勇于探索的科学精神来利用化学原理解释生活中的化学现象对不对本节课我们就学习了乙酸乙酯的制备在这节课的最后请同学们想一想乙酸乙酯是不是还有一个水解反应对不对那水解反应会与哪些因素相关呢请同学们利用课下时间想一想下课我的模拟授课环节到此结束谢谢大家。",
+  "visual_facts": "**Phase 4: Conclusion - Visual Knowledge Consolidation**\n\n1. **Summary Artifact (Static View)**:\n   - The main visual carrier of the summary is the blackboard and the digital slide displayed on the screen.\n   - The blackboard contains a chemical equation written in white chalk: \n     \\[\n     \\text{CH}_4\\text{COOH} + \\text{CH}_3\\text{COOH} \\xrightarrow{\\text{加热}} \\text{CH}_3\\text{COOCH}_2\\text{CH}_3 + \\text{H}_2\\text{O}\n     \\]\n   - The digital slide features a diagram of a distillation setup with accompanying text in Chinese, likely summarizing the process or key points discussed.\n\n2. **Key Knowledge Items (Content View)**:\n   - Blackboard: \n     - Chemical equation: $\\text{CH}_4\\text{COOH} + \\text{CH}_3\\text{COOH} \\xrightarrow{\\text{加热}} \\text{CH}_3\\text{COOCH}_2\\text{CH}_3 + \\text{H}_2\\text{O}$\n   - Digital Slide:\n     - Diagram of a distillation apparatus.\n     - Text in Chinese discussing the distillation process and related concepts.\n\n3. **Review Gestures (Dynamic View)**:\n   - The teacher points to the chemical equation on the blackboard, likely emphasizing the reactants and products.\n   - The teacher gestures towards the digital slide, possibly highlighting key components of the distillation setup or summarizing the process.\n   - The teacher uses hand movements to underline or trace important parts of the slide, ensuring students focus on critical areas.\n\n4. **Transition to Next Step**:\n   - There is no explicit visual element indicating homework or further reading in the frames provided.\n   - The teacher's gestures and the static content suggest a review of the lesson's main points, but no new assignments or next steps are visually indicated.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nThe class ends with a slide showing a diagram of a distillation setup alongside a chemical equation on the blackboard. The teacher points to the chemical equation, emphasizing the reactants and products, ensuring students focus on the transformation process. She then gestures towards the digital slide, highlighting key components of the distillation apparatus. Her movements suggest a review of the main concepts, with particular attention to the diagram's details. The teacher uses hand gestures to underline important areas on the slide, reinforcing the core takeaway of the lesson. No visual elements indicate homework or next steps, focusing solely on the review of the presented material.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Ethyl Acetate Preparation",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c2",
+        "label": "CH3COOH",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c3",
+        "label": "CH3CH2OH",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c4",
+        "label": "Ethyl Acetate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c5",
+        "label": "Distillation Process",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c6",
+        "label": "Saturated Sodium Carbonate",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c7",
+        "label": "Reactive Mixing",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[521.56 -> 697.04]"
+      },
+      {
+        "id": "c8",
+        "label": "Chemical Equation",
+        "type": "Visual",
+        "original_text": "CH3COOH + CH3CH2OH -> CH3COOCH2CH3 + H2O",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Distillation Diagram",
+        "type": "Visual",
+        "original_text": "Diagram showing distillation setup.",
+        "ocr_corrected": false
+      },
+      {
+        "id": "c10",
+        "label": "Engagement",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "c11",
+        "label": "Hydrolysis Factors",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[521.56 -> 697.04]"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "reacts_with",
+        "intent": "Acetic acid reacts with ethanol in the preparation of ethyl acetate."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "forms",
+        "intent": "Acetic acid is a reactant forming ethyl acetate in the reaction."
+      },
+      {
+        "source": "c3",
+        "target": "c4",
+        "relation": "forms",
+        "intent": "Ethanol is a reactant forming ethyl acetate in the reaction."
+      },
+      {
+        "source": "c4",
+        "target": "c6",
+        "relation": "separated_by",
+        "intent": "Ethyl acetate is separated using saturated sodium carbonate."
+      },
+      {
+        "source": "c5",
+        "target": "c9",
+        "relation": "visualizes",
+        "intent": "The distillation process is depicted in the diagram on the digital slide."
+      },
+      {
+        "source": "c6",
+        "target": "c7",
+        "relation": "involves",
+        "intent": "Saturated sodium carbonate involves principles of reactivity for separation."
+      },
+      {
+        "source": "c8",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "The chemical equation on the blackboard includes ethanol."
+      },
+      {
+        "source": "c8",
+        "target": "c2",
+        "relation": "includes",
+        "intent": "The chemical equation on the blackboard includes acetic acid."
+      },
+      {
+        "source": "c8",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "The chemical equation on the blackboard includes ethyl acetate."
+      },
+      {
+        "source": "c11",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Understanding hydrolysis factors evolves from knowledge of ethyl acetate."
+      },
+      {
+        "source": "c6",
+        "target": "c8",
+        "relation": "summarizes",
+        "intent": "The role of saturated sodium carbonate is summarized by its inclusion in the reaction equation."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

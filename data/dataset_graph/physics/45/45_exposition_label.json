@@ -1,0 +1,152 @@
+{
+  "video_name": "45_exposition.mp4",
+  "teaching_stage": "exposition",
+  "subject": "physics",
+  "teaching_goal": "Understand the basic structure of capacitors and their function in circuits; master the principle of charge storage in capacitors and their fundamental characteristics; be able to design simple experiments to verify the charging and discharging behavior of capacitors.",
+  "transcript": "[222.08 -> 276.64] 如果我们想要更换它的电池的话那这个时候就能够实现手机的迭代而手机它能够充放电就凝缩在这一块小小的电池当中那么这一块电池它到底具有怎样的作用呢我们结合之前的词学习来想一想我们学习过电流那么在如果说我们想要把电池想要把一个水装在一个容器当中此时水流它能够成立一个容器而如果我们要讨论电器它们的存储功能此时我们要讨论的是电荷很好。\n[280.18 -> 338.02] 那么电荷看来也需要一种容器来帮助它进行存储从而实现我们日常生活当中手机的充放电那带着这样的问题我们就走进精细的学习第十点四节电容器好我们既然要讨论电容器它在电容器当中电荷它是如何存储的那么首先我们就需要了解什么是电容器那老师啊现在就带着那几个电容器请同学们穿越来观察一下电容器上有哪些结构可以值得我们呢。\n[340.18 -> 342.084] 好你发现了什么有两个金属板准确来说它其实是连接正负电极的接线板它其中是由金属的板材组成的很好还有吗还有没有学员物层这个同学看来已经提前预习过这节课的内容了除此之外外面还包裹了一层学员材料上面标注了这些数字而这些数字我们在后面的学习当中能用到电容器它的两极如果我们来变成一个原件的话其实是这样画的在中间它是由两条级的构成的本身来说应该是金属纸板而其中它会充斥着电界纸如果说它是空气的话也是能实现的而这样的一个模型我们称之为平行板电动画那么在认识了什么是电容器以后如果我们要讨论电容器它的充电放电是如何实现的那规律又是怎样的我们是不是要进行一个实验了来解决问题的最好的方法就是实验那现在老师就想请同学们分组讨论来想一想如果我们要解决这一问题你会如何设计这个实验呢。",
+  "visual_facts": "**Phase 1: Visual-Temporal Analysis**\n\n**Beginning:**\n- The teacher stands in front of a digital screen displaying a slide with Chinese text. The slide is divided into sections, with the main content in the center.\n- The teacher gestures with her hands, likely explaining the content on the slide. She holds a pointer in her right hand.\n- The blackboard to the right is initially blank except for some pre-written text on the far right.\n\n**Middle:**\n- The teacher turns to the blackboard and begins writing with white chalk. She writes the Chinese characters \"冰冻\" (freezing) and \"自然\" (nature), followed by \"面带\" (facial expression) and \"思索\" (thinking).\n- She gestures towards the written text, possibly explaining the connection between the words.\n- The teacher continues to write, adding \"写出\" (write) and \"便携式\" (portable) above the previous text, forming a complete phrase.\n\n**End:**\n- The teacher stands back, facing the students, and gestures towards the blackboard, likely summarizing the written content.\n- She points to specific parts of the text on the blackboard while speaking, emphasizing certain words.\n\n**Phase 2: Exposition - Knowledge Flow Tracking**\n\n1. **The Core Artifact (Static):**\n   - The main visual anchor is the blackboard, which initially contains some pre-written text on the far right. The central area is used by the teacher to write key terms related to the lesson.\n\n2. **The Derivation Process (Dynamic):**\n   - **Additions**: The teacher writes \"冰冻\" (freezing), \"自然\" (nature), \"面带\" (facial expression), and \"思索\" (thinking) in sequence. She then adds \"写出\" (write) and \"便携式\" (portable) above these terms.\n   - **Modifications**: No erasures or modifications are observed; the teacher only adds to the existing content.\n   - **Deictic Gestures**: The teacher points to specific words on the blackboard while explaining, such as pointing to \"思索\" (thinking) and \"便携式\" (portable) to highlight their significance.\n\n3. **The Highlighting Strategy (Emphasis):**\n   - The teacher uses hand gestures to emphasize the written terms, pointing directly at them while speaking.\n   - No color coding or additional visual markers like boxes or circles are used; emphasis is primarily through gestures and the sequence of writing.\n\nThis structured visual evolution shows how the teacher transforms abstract concepts into concrete knowledge through sequential writing and gestural emphasis on the blackboard.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board displayed a digital slide with Chinese text, serving as the primary visual anchor. The teacher began by explaining the content on the slide, using hand gestures to emphasize key points. Then, she turned to the blackboard and constructed a series of terms: \"冰冻\" (freezing) and \"自然\" (nature), followed by \"面带\" (facial expression) and \"思索\" (thinking). She derived additional context by writing \"写出\" (write) and \"便携式\" (portable) above these terms, forming a coherent phrase. Throughout, she annotated the blackboard, pointing directly to \"思索\" (thinking) and \"便携式\" (portable) to illustrate their connections. Finally, she summarized the lesson, using gestures to trace the relationships between the written terms. The visual emphasis on sequential writing and direct pointing reduced cognitive load, allowing students to follow the evolving concept seamlessly.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Capacitor Structure",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[222.08 -> 276.64]"
+      },
+      {
+        "id": "c2",
+        "label": "Charge Storage Principle",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[280.18 -> 338.02]"
+      },
+      {
+        "id": "c3",
+        "label": "Charging Behavior",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[340.18 -> 342.084]"
+      },
+      {
+        "id": "c4",
+        "label": "Discharging Behavior",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[340.18 -> 342.084]"
+      },
+      {
+        "id": "c5",
+        "label": "Metal Plates",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[340.18 -> 342.084]"
+      },
+      {
+        "id": "c6",
+        "label": "Insulating Layer",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[340.18 -> 342.084]"
+      },
+      {
+        "id": "c7",
+        "label": "Electric Field",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[340.18 -> 342.084]"
+      },
+      {
+        "id": "c8",
+        "label": "Parallel Plate Model",
+        "type": "Concept",
+        "knowledge_type": "Fact",
+        "timestamp": "[340.18 -> 342.084]"
+      },
+      {
+        "id": "v1",
+        "label": "Slide: Capacitor Overview",
+        "type": "Visual",
+        "original_text": "Digital slide with sections on capacitor structure.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "v2",
+        "label": "Blackboard: Sequence of Terms",
+        "type": "Visual",
+        "original_text": "Written terms 'Freezing', 'Nature', 'Facial Expression', 'Thinking', 'Write', 'Portable'.",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Group Experiment Design",
+        "type": "Student_State",
+        "cognitive_state": "Brainstorming"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how capacitors store charge based on their structure."
+      },
+      {
+        "source": "c2",
+        "target": "c3",
+        "relation": "evolves_from",
+        "intent": "Describes the procedure of charging in capacitors."
+      },
+      {
+        "source": "c2",
+        "target": "c4",
+        "relation": "evolves_from",
+        "intent": "Describes the procedure of discharging in capacitors."
+      },
+      {
+        "source": "c1",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Specifies that capacitors consist of metal plates."
+      },
+      {
+        "source": "c1",
+        "target": "c6",
+        "relation": "includes",
+        "intent": "Specifies that capacitors contain an insulating layer."
+      },
+      {
+        "source": "c8",
+        "target": "c5",
+        "relation": "includes",
+        "intent": "Parallel plate model indicates the position of metal plates."
+      },
+      {
+        "source": "c8",
+        "target": "c7",
+        "relation": "builds_upon",
+        "intent": "Model describes the electric field between the plates."
+      },
+      {
+        "source": "v1",
+        "target": "c1",
+        "relation": "visualizes",
+        "intent": "Slide provides overview of capacitor structure."
+      },
+      {
+        "source": "v2",
+        "target": "c2",
+        "relation": "emphasizes",
+        "intent": "Written terms highlight components of charge storage."
+      },
+      {
+        "source": "c3",
+        "target": "s1",
+        "relation": "prompts_thinking",
+        "intent": "Students brainstorm experiments to verify charging behavior."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}

@@ -1,0 +1,151 @@
+{
+  "video_name": "8_interaction.mp4",
+  "teaching_stage": "interaction",
+  "subject": "math",
+  "teaching_goal": "Understand the concept of simple random sampling and its practical applications; master the criteria for choosing between sampling with replacement and without replacement; be able to evaluate how sample size impacts results and make reasonable selections.",
+  "transcript": "[489.001667 -> 514.12] 随机数法近年来科技的发达越来越好我们在一些计算方面不再使用人工而是在计算机方面做出了一定的成果那么老师在计算机上先对七百一十二名先用随机生成数生成了一到七百一十二范围的整数随机数把产生的随机数作为抽中的编号使以编号对应的学生进入抽出样本重复上述过程直到抽出样本所需的人数这种方法有什么好处呢就是计算机可以代替我们人工各种的繁琐操作步骤简化我们的实验过程有利于我们将这种的人力使用到其他部分那同学们思考一下用简单随机抽样的方法抽取样本样本量是否越大越好呢。\n[521.92 -> 524.62] 有哪位同学可以起来回答一下老师这个问题啊。\n[529.64 -> 532.36] 好这位戴眼睛的同学你来回答一下。\n[533.82 -> 536.44] 我觉得应该是越大越好。\n[538.22 -> 581.1] 在抽样子的次数越来越多之后频率应该是会更加接近的了的很好请坐这位同学回答得没有错但是呢这样如果说我们随着我们抽取的次数更多但是它会耗费我们的人力费用时间等成本这样的方法不是不行但是不是很好的方法同学们应该理解了吧也就是说在抽取样本的时候我们要根据实际情况来抽取并不一定是越大越好同学们听明白了吗。\n[583.96 -> 605.5] 那么上面老师介绍第二种也就是我们的全面调查法那么什么是全面调查法呢就是说在简单随机抽样的调查过程中啊当样本量和总体一样大时他就做了全面调查通过上面的学习让我们一起来回顾一下我们今天学习了什么呢。\n[607.48 -> 609.001667] 简单随机抽样包含了放回简单随机抽样和不放回简单随机抽样那么简单随机抽样的优点有哪些呢它就是简单易行适用于总体数量不多的情况那么不放回简单随机抽样有哪些特点呢方便便捷适用于总体数量较多的情况。",
+  "visual_facts": "**Phase 3: Interaction - Teacher-Orchestrated Knowledge Co-construction**\n\n**1. The Invitation Gesture (Elicitation):**\n- The teacher made a sweeping gesture towards the class, signaling the start of an interactive segment. This gesture was broad, encompassing the entire classroom, inviting all students to participate.\n\n**2. The Visual Focus Point:**\n- The focus of the interaction was the digital screen displaying a slide titled \"活動の展開\" (Activity Development). The slide initially showed a blank area with a red sticky note icon, indicating a space for student input or discussion.\n\n**3. Real-time Scaffolding (Teacher's Action-While-Listening):**\n- As the teacher engaged with the students, they pointed to the blank area on the screen, encouraging students to contribute ideas. The teacher's gestures directed attention to this space, suggesting it was meant for student responses.\n- The teacher also moved towards the blackboard, pointing to the listed items \"1. 知的回\" and \"2. 実践回,\" reinforcing the structure of the lesson and guiding students to connect their thoughts to these categories.\n\n**4. Visual Confirmation & Elaboration (Feedback):**\n- The teacher added green sticky note icons to the digital screen, visually representing student contributions or correct responses. This action confirmed the validity of the students' input.\n- The teacher nodded and used affirmative gestures, such as a thumbs-up, to validate student participation. These gestures were paired with the addition of visual elements on the screen, creating a clear link between student input and visual feedback.\n\n**Chronological Log of Visual Events:**\n\n- **Beginning:**\n  - Teacher sweeps hand across the classroom, inviting interaction.\n  - Points to the blank area on the digital screen with a red sticky note icon.\n\n- **Middle:**\n  - Teacher moves to the blackboard, pointing to \"1. 知的回\" and \"2. 実践回.\"\n  - Adds green sticky note icons to the screen, representing student contributions.\n\n- **End:**\n  - Teacher uses affirmative gestures (nodding, thumbs-up) to validate student input.\n  - Final screen shows multiple sticky note icons, visually summarizing the co-constructed knowledge.\n\nThis structured approach ensures that the teacher's visual strategies effectively guide and validate the dialogue, fostering an interactive learning environment.",
+  "visual_narrative": "**Final Visual Summary (summary_vis)**\n\nInitially, the bulletin board showed a slide titled \"活動の展開\" with a blank area marked by a red sticky note icon, inviting student input. The teacher began by making a sweeping gesture across the classroom, signaling the start of an interactive segment. This broad gesture invited all students to engage with the content displayed.\n\nAs the teacher gave a lecture, they pointed to the blank area on the screen, emphasizing the space for student contributions. Moving to the blackboard, the teacher highlighted the lesson structure with \"1. 知的回\" and \"2. 実践回,\" guiding students to connect their thoughts to these categories. While students responded, the teacher actively facilitated by adding green sticky note icons to the screen, visually representing their ideas and contributions.\n\nFinally, the teacher went around the classroom, using affirmative gestures like nodding and giving a thumbs-up to validate student input. To confirm the knowledge, the teacher added multiple sticky note icons to the screen, creating a visual summary of the co-constructed ideas. These actions linked the students' responses back to the core lesson content, reinforcing the structure outlined on the blackboard.\n\nThrough these visual strategies, the teacher transformed the classroom from a passive learning environment to an interactive space where students actively constructed their understanding. The teacher's gestures and visual feedback encouraged participation, validated contributions, and connected new ideas to the lesson framework, fostering a dynamic and engaging learning experience.",
+  "pedagogy_graph": {
+    "nodes": [
+      {
+        "id": "c1",
+        "label": "Simple Random Sampling",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[489.001667 -> 514.12]"
+      },
+      {
+        "id": "c2",
+        "label": "Sample Size Impact",
+        "type": "Concept",
+        "knowledge_type": "Principle",
+        "timestamp": "[538.22 -> 581.1]"
+      },
+      {
+        "id": "c3",
+        "label": "Sampling With Replacement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[607.48 -> 609.001667]"
+      },
+      {
+        "id": "c4",
+        "label": "Sampling Without Replacement",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[607.48 -> 609.001667]"
+      },
+      {
+        "id": "c5",
+        "label": "Computer-based Sampling",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[489.001667 -> 514.12]"
+      },
+      {
+        "id": "c6",
+        "label": "Full Survey Method",
+        "type": "Concept",
+        "knowledge_type": "Procedure",
+        "timestamp": "[583.96 -> 605.5]"
+      },
+      {
+        "id": "c7",
+        "label": "Green Sticky Note Icons",
+        "type": "Visual",
+        "original_text": "Visual representation of student contributions",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c8",
+        "label": "Activity Development Slide",
+        "type": "Visual",
+        "original_text": "Slide with space for student input",
+        "ocr_corrected": true
+      },
+      {
+        "id": "c9",
+        "label": "Blackboard Structure",
+        "type": "Visual",
+        "original_text": "Lesson structure with intellectual and practical categories",
+        "ocr_corrected": true
+      },
+      {
+        "id": "s1",
+        "label": "Student Exploring",
+        "type": "Student_State",
+        "cognitive_state": "Engaged"
+      },
+      {
+        "id": "s2",
+        "label": "Student Responding",
+        "type": "Student_State",
+        "cognitive_state": "Answering"
+      },
+      {
+        "id": "s3",
+        "label": "Student Questioning",
+        "type": "Student_State",
+        "cognitive_state": "Questioning"
+      }
+    ],
+    "edges": [
+      {
+        "source": "c1",
+        "target": "c2",
+        "relation": "builds_upon",
+        "intent": "Explains how sample size affects random sampling results."
+      },
+      {
+        "source": "c1",
+        "target": "c3",
+        "relation": "includes",
+        "intent": "Includes the procedure of sampling with replacement in the concept of random sampling."
+      },
+      {
+        "source": "c1",
+        "target": "c4",
+        "relation": "includes",
+        "intent": "Includes the procedure of sampling without replacement in the concept of random sampling."
+      },
+      {
+        "source": "c5",
+        "target": "c1",
+        "relation": "builds_upon",
+        "intent": "Uses computer-based methods to perform simple random sampling."
+      },
+      {
+        "source": "c6",
+        "target": "c5",
+        "relation": "evolves_from",
+        "intent": "Demonstrates a complete survey approach as an extension of random sampling when sample size equals population size."
+      },
+      {
+        "source": "c8",
+        "target": "s1",
+        "relation": "visualizes",
+        "intent": "Displays an invitation for students to engage and explore during the activity development segment."
+      },
+      {
+        "source": "c7",
+        "target": "s2",
+        "relation": "visualizes",
+        "intent": "Represents student responses with visual indicators confirming their validity."
+      },
+      {
+        "source": "c9",
+        "target": "c1",
+        "relation": "emphasizes",
+        "intent": "Emphasizes the structure and categories related to random sampling principles."
+      },
+      {
+        "source": "c1",
+        "target": "s3",
+        "relation": "prompts_thinking",
+        "intent": "Encourages students to consider the advantages of different sampling sizes."
+      }
+    ]
+  },
+  "graph_generator_version": "pedagogy_graph_v7"
+}
