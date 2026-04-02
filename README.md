@@ -1,4 +1,3 @@
-没问题，既然你觉得前面的版本太长，那我们就来个**“精简干练版”**。保留核心的介绍、你要求的目录结构，以及数据集构建流程。这样审稿人一眼就能看清仓库的内容和数据的组织方式。
 # DIU-MKG: A Multimodal Knowledge Graph Dataset for Dynamic Instructional Understanding
 
 > **Anonymous Repository for ACM MM 2026 Dataset Track Submission**
