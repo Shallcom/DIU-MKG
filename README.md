@@ -22,7 +22,7 @@ DIU-MKG/
 ├── <b>benchmarks/</b>
 │   ├── <b>retrieval/</b>              # Query-candidate pairs for <b>Zero-Shot Retrieval</b>
 │   └── <b>intent_recognition/</b>     # Data for the <b>intent-relation ablation study</b>
-├── 🔴 **Supplementary Material.pdf**   # <b>Supplementary documentation</b> covering <b>dataset schema</b>, <b>graph construction</b>, <b>cross-modal refinement</b>, <b>annotation examples</b>, <b>expert validation</b>, <b>error analysis</b>, <b>workflow</b>, and <b>evaluation settings</b>
+├── 🔴 **Supplementary Material.pdf**  # <b>Supplementary documentation</b> covering <b>dataset schema</b>, <b>graph construction</b>, <b>cross-modal refinement</b>, <b>annotation examples</b>, <b>expert validation</b>, <b>error analysis</b>, <b>workflow</b>, and <b>evaluation settings</b>
 └── <b>README.md</b>
 </pre>
 
